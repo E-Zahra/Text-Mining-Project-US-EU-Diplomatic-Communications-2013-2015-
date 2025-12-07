@@ -1,0 +1,479 @@
+2014
+Cote d'Ivoire
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350"> </span><span class="st_facebook" st_title="Cote d'Ivoire" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236350">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid;=236350</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=executive"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Cote d’Ivoire is a democratic republic ruled by a freely elected government. The 2010 national presidential elections that brought President Alassane Ouattara to office were generally free and fair, but a five-month crisis ensued during which defeated incumbent President Laurent Gbagbo refused to cede power. Violence perpetrated by both sides resulted in approximately three thousand deaths, significant population displacement, torture, sexual violence, and widespread property destruction. The postelectoral crisis officially ended in April 2011 with Gbagbo’s capture. Local and international observers rated the partial legislative elections of February 2013 as free and fair. Authorities failed at times to maintain effective control over the security forces.</p>
+<p>Continued insecurity and slow political reconciliation complicated the government’s efforts to restore the rule of law and address impunity after the 2010-11 postelection crisis that followed more than a decade of conflict. The most serious human rights problems were security force abuse and the government’s inability to enforce the rule of law. The Republican Forces of Cote d’Ivoire (FRCI), the country’s military, and the gendarmerie were responsible for extrajudicial killings, acts of torture, and arbitrary detentions. Prison and detention center conditions were harsh and life threatening. Corruption persisted in the judiciary, police, the military, customs, contract awards tax offices, and other government institutions, and the judiciary was inefficient and lacked independence.</p>
+<p>There were cases of forced disappearance; cruel, inhuman, and degrading treatment or punishment; arbitrary arrest; and prolonged pretrial detention. The government restricted press freedom and freedom of assembly. Internally displaced persons (IDPs) faced insecure and difficult living conditions. The scale of statelessness in the country remained extensive. Discrimination, sexual assault, and violence against women and children, including female genital mutilation/cutting (FGM/C), occurred. Societal discrimination against ethnic groups; the lesbian, gay, bisexual, and transgender (LGBT) community; persons with disabilities; and victims of HIV/AIDS was a problem. Employers subjected children and informal sector workers to forced labor and hazardous conditions, particularly in rural areas.</p>
+<p>The government seldom took steps to prosecute officials who committed abuses, whether in the security services or elsewhere in the government. Security force impunity continued to be a serious problem.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section1"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were several reports that the government or its agents committed arbitrary or unlawful killings, in most cases perpetrated by FRCI soldiers. In April the United Nations reported that an FRCI soldier shot a man in the head at point-blank range after the man was found defecating in a construction site that the soldier was guarding. An internal FRCI report described the incident as involuntary manslaughter, and commanders did not initiate disciplinary action against the soldier. Security force impunity was a serious problem throughout the year. Despite numerous reports of arbitrary or unlawful killings, there were no reports during the year of FRCI soldiers facing prosecution for these actions.</p>
+<p>Former president Laurent Gbagbo continued to be held at the International Criminal Court (ICC) in The Hague, where he awaited trial on four counts of crimes against humanity related to actions he took during the postelectoral crisis. Authorities continued to hold his wife, Simone Gbagbo, while she awaited trial on domestic criminal charges related to the postelectoral crisis. She appeared before a judge in Abidjan for a preliminary hearing on December 10. On December 11, the preliminary trial chamber of the ICC denied the government’s admissibility challenge contesting ICC jurisdiction of over her case and demanded her transfer to The Hague. On March 22, the government transferred Charles Ble Goude, a close ally of Gbago, to the ICC in compliance with an arrest warrant unsealed in 2013. On December 11, the ICC confirmed charges against him on four counts of crimes against humanity.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were a few reports of disappearances or politically motivated abductions or kidnappings. For example, Youssouf Kone, the leader of a group of demobilized soldiers who had protested their exclusion from the disarmament, demobilization, and reintegration (DDR) process, was detained under unclear circumstances in April 2013. Kone’s whereabouts at year’s end remained unknown, according to the UN Operation in Cote d’Ivoire (UNOCI).</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, but security forces reportedly tortured and abused detainees and prisoners to extract information or exact punishment, according to UNOCI and local human rights organizations. Few members of the security forces faced prosecution. For example, in February several gendarmes in Grand Bassam arrested a young man on a charge of theft. In an effort to extract a confession, they allegedly tortured the man, who later died from his injuries. Although judicial authorities reportedly opened an investigation and temporarily detained 14 gendarmes including the unit’s commander, authorities later released all of them without further prosecution.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh and life threatening. Overcrowding was a common problem in prisons and detention centers operated by the FRCI and the Directorate for Territorial Surveillance (DST), a plainclothes investigative and analytical unit. All of the country’s 33 pre-existing prisons were in use, and in May a minimum-security rehabilitation center became operational. Critical health care was not always available to prisoners at local hospitals or clinics, and international nongovernmental organizations (NGOs) often had to pay for their care. According to government figures, 12 prisoners in Abidjan’s central prison died in August, predominantly due to lack of hygiene and health care. Seven of the 34 prisons had a full-time nurse.</p>
+<p><u>Physical Conditions</u>: Overcrowding continued in many prisons. At the end of November, there were approximately 10,850 prisoners, of whom an estimated 193 were minors and 187 were women. The central prison of Abidjan was built for 1,948 prisoners, but it held approximately 4,500 at year’s end. Authorities held men and women separately. Authorities held juveniles with adults in some prisons, as well as pretrial detainees with convicted prisoners. The children of female inmates often lived with their mothers in prison, although prisons accepted no responsibility for their care or feeding. Inmate mothers received help from local and international NGOs. Potable water was not always available.</p>
+<p>Wealthy prisoners reportedly could buy extra cell space, food, and comforts and hire staff to wash and iron their clothes. The government allotted 347 CFA francs ($0.65) per person per day in food rations, which was less than half the amount needed. Families and the International Committee of the Red Cross (ICRC) routinely supplemented rations.</p>
+<p>Government figures estimated 100 detainee deaths throughout the year, mostly related to a lack of or inadequate health-care services.</p>
+<p>Irregular or informal detention centers maintained by the FRCI or other security forces varied greatly in terms of physical conditions. One military detention center in Abidjan reportedly gave prisoners three meals a day, whereas some DST centers were reportedly small with little room for physical exercise.</p>
+<p><u>Administration</u>: Prison records were destroyed during the postelectoral crisis, and the government had not undertaken any measures to rebuild the records. Although recordkeeping resumed after the crisis, it was not always adequate. The law provides for work-release programs and alternatives to incarceration for youths, but these remained unavailable. Although application magistrates were responsible for facilitating conditional release for inmates, they did not function effectively. There was no prison ombudsman, but prisoners could submit complaints to judicial authorities. Prison authorities had limited capacity to investigate and redress allegations of poor detention conditions. Authorities permitted religious observance. Prison administrators continued to detain or release prisoners outside normal legal processes.</p>
+<p>Authorities generally permitted visitors in formal prisons, although prisoners’ access to lawyers and families was allegedly intermittent or nonexistent in FRCI and DST detention centers.</p>
+<p><u>Independent Monitoring</u>: The government generally permitted the ICRC and UNOCI access to prisons. On a few occasions, officers from UNOCI’s Human Rights Division visited high-profile imprisoned political figures to assess the conditions of their detention. Local human rights groups reported sporadic access to prisons. The government also permitted the United Nations and international NGOs adequate access to formal prisons, although the government only granted them intermittent access to informal detention centers run by the FRCI and to formal DST facilities.</p>
+<p><u>Improvements</u>: In May the government officially opened a minimum-security rehabilitation center in Dimbokro for low-risk offenders. The center included a pilot program that involved inmates working on farms at the facility that produced food for the general prison population.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, but both occurred during the year. The FRCI continued to arrest and detain suspects illegally. The United Nations and local and international NGOs estimated that the DST and FRCI arrested and held dozens of individuals without charge, even though the FRCI lacked arrest authority. Authorities held many of these detainees briefly before releasing them, while detaining others for lengthy periods. The United Nations also reported several incidents of detention in undisclosed and unauthorized facilities.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>Police (with assistance from a special mixed unit of police, gendarmerie, and FRCI called the Coordination Centre for Operational Decisions and the DST, all of which are under the jurisdiction of the Ministry of Interior) and the gendarmerie (under the Ministry of Defense) are responsible for law enforcement. The DST is responsible for collecting and analyzing information related to national security. Police, who lacked sufficient equipment and training, continued to be ineffective. As a result the FRCI performed many functions normally associated with police and took the lead in security matters.</p>
+<p>FRCI forces generally lacked basic training and had an inadequate command and control structure. Impunity and corruption were endemic, and security checkpoints throughout the country often served to extort bribes. Particularly in the western part of the country, communities often relied on Dozos (traditional hunters) to meet their security needs. After the Minister of Defense warned the Dozos in 2013 not to interfere in security matters, they were less visible.</p>
+<p>The military police and military tribunal are responsible for investigating and prosecuting alleged internal abuses perpetrated by the security services. The military tribunal remained operational during the year, but there were few high-profile convictions reported for offenses committed during or after the postelection crisis. In June the tribunal convicted a corporal and member of the military police of 2012 kidnapping and murder in the death of a police commissioner. Authorities sentenced the soldier to life imprisonment and dismissed him from the FRCI. Many cases resulted in internal sanctions or did not proceed beyond the investigation phase.</p>
+<p>Security forces failed at times to prevent or respond to societal violence, particularly in the western part of the country, where there were several incidents of intercommunal clashes. For example, in two separate attacks in February and May, armed individuals killed at least 12 persons, including five civilians, in the southwestern villages of Grabo and Fete.</p>
+<p>The government made limited progress in security sector reform and the DDR process. Within each security apparatus, the leadership made efforts to strengthen accountability for human rights violations within individual chains of command. The Authority for Disarmament, Demobilization, and Reintegration (ADDR), the authority overseeing DDR efforts, has a goal of reintegrating approximately 74,000 former combatants by the end of its mandate in June 2015. In October the ADDR’s website reported that an estimated 42,000 former combatants either had been through or were going through reintegration.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law allows investigative magistrates or the national prosecutor to order the detention of a suspect for 48 hours without bringing charges. Nevertheless, police often arrested individuals and held them without charge for periods exceeding the legal limit. In special cases, such as suspected actions against state security, the national prosecutor can authorize an additional 48-hour period of preventive custody. According to local and international human rights groups, police often held individuals for more than the 48-hour legal limit without bringing charges. An investigating magistrate can request pretrial detention for up to four months at a time by submitting a written justification to the national prosecutor. First-time offenders charged with minor offenses can be held for a maximum of five days after their initial hearing before the investigative magistrate. Repeat minor offenders and those accused of felonies can be held for six and 18 months, respectively.</p>
+<p>While the law provides for informing detainees promptly of the charges against them, this did not always occur, especially in cases concerning state security and involving the FRCI and the DST. In other cases magistrates could not verify if detainees who were not charged had been released. A bail system exists solely at the discretion of the judge trying the case. Authorities generally allowed detainees to have access to lawyers. In cases involving matters of national security, the authorities did not allow access to lawyers and family members. For other serious crimes, the government provided lawyers to those who could not afford them, but offenders charged with less serious offenses often did not have legal representation.</p>
+<p><u>Arbitrary Arrest</u>: There were reports of arbitrary arrests by the FRCI, the DST, and other authorities throughout the year. The authorities held many of those charged for several days without informing them of the charges against them and restricted their access to a lawyer. In June a gendarme reportedly detained without charge a man in Aboisso who was on his way home. The gendarme allegedly undressed, handcuffed, and repeatedly beat the man while interrogating him about his reason for being on the street.</p>
+<p>Dozos, while not an official law enforcement organization, were also involved in arrests and detentions. These groups assumed an informal security role in many communities but lacked the legal authority to arrest or detain individuals.</p>
+<p><u>Pretrial Detention</u>: Prolonged pretrial detention was a problem. At the end of November, approximately 42 percent of those in government prisons were in pretrial detention. In many cases the length of detention equaled or exceeded the sentence for the alleged crime. Inadequate staffing in the judicial ministry, judicial inefficiency, and lack of training contributed to lengthy pretrial detention.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, and the judiciary generally was independent in ordinary criminal cases. The continued lack of civilian indictments against pro-Ouattara elements for alleged crimes committed during the postelection crisis, and the provisional release of several high-profile pro-Gbagbo detainees who continued to await trial more than one year after charges were confirmed against them, indicated the judiciary was subject to political and executive influence. There were also numerous reports of judicial corruption, and bribes often influenced rulings. The judiciary was inadequately resourced and inefficient.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for the right to a fair trial, but the judiciary did not enforce this right.</p>
+<p>Although the law provides for the presumption of innocence and the right to be informed promptly and in detail of the charges (with free interpretation as necessary), the government did not always respect this requirement. The law provides for the right to a public trial. Juries are only used in trials at assize courts (special courts convened as needed to try criminal cases involving major crimes). In the past assize courts rarely convened, but for the first time in more than 10 years, three were seated during the year to hear a backlog of cases. Defendants accused of capital crimes have the right to legal counsel at the government’s expense. Defendants accused of felonies have the right to legal counsel at their own expense. Other defendants may also seek legal counsel. The judicial system provides for court-appointed attorneys, although only limited free legal assistance was available from the government, most often from members of the bar association. Defendants have the right to adequate time and facilities to prepare a defense. Defendants may not access government-held evidence, although their attorneys have the legal right to do so. Defendants may put forward witnesses or evidence on their behalf and question any witnesses brought to testify against them. Defendants may be compelled to testify or confess to guilt. Defendants have the right to be present at their trials, but courts may try defendants in their absence. Those convicted had access to appeals courts in Abidjan, Bouake, and Daloa, but higher courts rarely overturned verdicts.</p>
+<p>Military tribunals did not try civilians or provide the same rights as civilian criminal courts. Although there are no appellate courts within the military court system, persons convicted by a military tribunal may petition the Supreme Court to order a retrial.</p>
+<p>The relative scarcity of trained magistrates and lawyers resulted in limited access to effective judicial proceedings, particularly outside of major cities. In rural areas traditional institutions often administered justice at the village level, handling domestic disputes and minor land questions in accordance with customary law. Dispute resolution was by extended debate, with no reported instances of physical punishment. The law specifically provides for a “grand mediator,” appointed by the president, to bridge traditional and modern methods of dispute resolution.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Some political parties and local human rights groups claimed that members of former president Gbagbo’s Front Populaire Ivoirien (FPI) party--detained on charges including economic crimes, armed robbery, looting, and embezzlement--were political prisoners, especially when charged for actions committed during the 2010-11 postelection crisis.</p>
+<p>In June the government released 50 prisoners close to former president Gbagbo. The FPI estimated approximately 750 to 800 of his supporters remained in detention.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for an independent judiciary in civil matters, but the judiciary was subject to corruption, outside influence, and favoritism based on family and ethnic ties. Citizens can bring lawsuits seeking damages for, or cessation of, a human rights violation, but they did so infrequently. The judiciary was slow and inefficient, and there were problems in enforcing domestic court orders.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions, but the government did not always respect these prohibitions. The law requires warrants to conduct searches, the prosecutor’s agreement to retain any evidence seized in a search, and the presence of witnesses in a search, which may take place at any time. Police sometimes used a general search warrant without a name or address. The FRCI and DST arrested individuals without warrants.</p>
+<p>The FRCI continued to occupy some businesses and homes illegally. In June the government returned five residences in Abidjan to their owners in an official ceremony during which the minister for defense noted that 249 of 644 sites identified as occupied were returned to their rightful owners.</p>
+<p>Some leaders of opposition parties reported authorities froze their bank accounts, although they were not on any international sanctions list and courts had not charged them with any offenses. In May a judicial authority announced the government had unfrozen 43 bank accounts associated with persons close to former president Gbagbo.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section2"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, but there were restrictions on press freedom. The National Press Council (CNP), the government’s print media regulatory body, on several occasions briefly suspended or reprimanded newspapers and journalists for statements it contended were false, libelous, or perceived to threaten state security.</p>
+<p><u>Freedom of Speech</u>: The law prohibits incitement to violence, ethnic hatred, rebellion, and insulting the head of state or other senior members of the government.</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views. Most newspapers aligned politically with the government or the opposition, the latter of which frequently published inflammatory editorials against the government and fabricated stories to defame political opponents. The CNP frequently imposed suspensions on the press. In April the regulatory body suspended one newspaper for discussing the safety of bush meat, which the government banned in response to a regional Ebola outbreak. By September 12, media organizations and journalists had been the target of CNP-imposed sanctions, many more than once.</p>
+<p>The High Audiovisual Communications Authority oversees the regulation and operation of radio and television stations. There were numerous independent radio stations, but the law prohibits the transmission of any political commentary by private radio stations. There were no private television stations.</p>
+<p><u>Censorship or Content Restrictions</u>: In August, in an act of self-censorship, the privately owned newspaper <i>L’Intelligent d’Abidjan</i> announced a temporary suspension of its publication in protest against the actions of the CNP, which it contended were arbitrary and unlawful.</p>
+<p>The government appeared to exercise considerable influence over news coverage and program content on government-run television channels. The stations often did not cover opposition activities and emphasized the president’s trips and activities of government ministers.</p>
+<p><u>Libel Laws/National Security</u>: Criminal libel is punishable by one to three years in prison. Libel deemed to threaten the national interest is punishable by six months to five years in prison. In April the CNP acted on a government complaint and suspended three opposition newspapers for short periods for mocking the president or referring to him as a dictator.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. Authorities permitted suspended newspapers to publish their full content online. Only an estimated 5 percent of the population had home-based access to the internet. With a mobile phone penetration rate of 88 percent, internet access by mobile device was likely much higher.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government continued its ban on student groups participating in national politics due to the politicization of these groups in the past. Authorities allowed student groups to address only student problems on university campuses.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of assembly, but the government did not always respect this right. The law requires groups that wish to hold demonstrations or rallies in stadiums or other enclosed spaces to submit a written notice to the Ministry of Interior three days before the proposed event.</p>
+<p>In May security forces reportedly used tear gas to disperse demonstrators in an Abidjan shantytown that were protesting the high cost of living. In June the youth wing of the FPI requested licenses to organize prayer vigils for former president Gbagbo’s release from the ICC, but authorities denied the requests.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of association, and the government generally respected this right. While the law prohibits the formation of political parties along ethnic or religious lines, ethnicity was often a key factor in party membership.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/"><u>www.state.gov/j/drl/irf/rpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law do not specifically provide for freedom of movement, foreign travel, emigration, or repatriation, but the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, stateless persons, and other persons of concern.</p>
+<p><u>In-country Movement</u>: There were impediments to internal travel. Security forces and other unidentified groups erected and operated roadblocks on major roads. Although there was legitimate use of roadblocks for security purposes, racketeering and extortion were commonplace. For example, the FRCI was involved in racketeering at illegal checkpoints throughout major cities and road arteries. In May the military prosecutor announced that 80 percent of roadblocks were illegal, leading to security force harassment and extortion across the country. In response the government ordered the dismantling of roadblocks and charged more than 100 soldiers with racketeering. In July the military tribunal found four police sergeants guilty of racketeering and sentenced them to two months’ imprisonment.</p>
+<p><u>Exile</u>: Several loyalists to former president Gbagbo, some with pending criminal charges, remained in exile. In October, however, four Gbagbo supporters returned without incident after three years of self-exile in Ghana.</p>
+<p><u>Emigration and Repatriation</u>: Voluntary return of Ivoirian refugees took place during the year, but the closure of the Liberian border due to the regional Ebola outbreak resulted in the temporary suspension of the process in April and again in July. Approximately 12,000 refugees assisted by the UNHCR returned without incident prior to the suspension in July.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>Estimates of IDPs ranged from approximately 20,000 according to the UNHCR, 40,000-60,000 according to the government, and 70,000 according to the Internal Displacement Monitoring Centre. Most of the IDPs were in the western region and in Abidjan. Many were displaced due to the postelectoral crisis, although sporadic violence in the west in May and severe flooding in several cities in June and July resulted in the displacement of many.</p>
+<p>In response to the flooding, the government conducted a number of evictions in Abidjan in an effort to clear the sewage system, obstructed by semipermanent structures in many places. The evictions did not appear to target specific ethnic or national groups. Estimates of how many IDPs resulted from the evictions ranged from 7,000 to 10,000. Security forces leading the evictions were reportedly sometimes violent. For example, UNOCI reported that on July 27, authorities shot four persons resisting eviction. According to some of those displaced by the evictions, the government compensated them to some degree.</p>
+<p>Investigations regarding the attack on the Nahibly IDP camp near Duekoue in 2012 made no progress. At year’s end authorities had yet to make any arrests related to the attack, which killed seven, injured 40, and displaced 5,000.</p>
+<p>The United Nations and local authorities continued to facilitate the steady return of IDPs. While many of those displaced by previous conflicts returned to their areas of origin, difficult conditions, including lack of access to land, shelter, and security, meant return was often not possible.</p>
+<p>The government provided limited assistance to IDPs, while international and local NGOs worked to fill the gaps. Host communities had few resources to receive and assist IDPs, who often resorted to living in informal urban settlements. The government respected the principle of voluntary return but did not promulgate laws to protect IDPs in accordance with the UN Guiding Principles on Internal Displacement. A coordination committee--with representatives from the Ministry of Solidarity, Family, Women, and Children, a number of local and international NGOs, and the UN Office for the Coordination of Humanitarian Affairs--met to coordinate humanitarian aid to those displaced by flooding in June and July. The Post Conflict Support Program, which the government operated and the World Bank supported, worked to rehabilitate communities through infrastructure and construction projects.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The constitution and law provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. According to the UNHCR, the country hosted approximately 2,800 refugees predominantly composed of former Liberian refugees who opted for local integration following the June 2012 invocation of the cessation clause, which ended prima facie refugee status for Liberians.</p>
+<p><u>Durable Solutions</u>: The government facilitated local integration for refugees in the most extreme situations by issuing resident permits to all refugees over the age of 14 to allow them to move freely in the country. Refugees also had access to naturalization.</p>
+<p><u>Temporary Protection</u>: The government also provided temporary protection for individuals who no longer qualified as refugees under the relevant UN conventions. Persons awaiting status determination received a letter, valid for three months, indicating they were awaiting a decision on their status. The letter provided for temporary stay and freedom of movement only. Holders of the letter did not qualify for refugee assistance such as access to education or health care.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>The scale of statelessness in the country remained extensive. Citizenship is derived from one’s parents rather than by birth within the country’s territory, and birth registration was not universal. The country had habitual residents who were either legally stateless or effectively stateless. The UNHCR continued to estimate the number of stateless persons at 700,000, including approximately 300,000 orphans not recognized by law and 400,000 historical migrants and their descendants.</p>
+<p>The government began implementing a law adopted in 2013 that allows foreign-born persons living in the country before independence in 1960 to attain citizenship by declaration and gives foreign nationals born in Cote d’Ivoire between 1961 and 1973 the option of citizenship. In an open period from April 1 to September 30, the government received approximately 22,000 applications for citizenship by declaration and at year’s end had the applications under review.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section3"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law provide citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: The 2010 national presidential elections that brought President Alassane Ouattara to office were generally free and fair, but a five-month crisis ensued, during which defeated incumbent President Laurent Gbagbo refused to cede power.</p>
+<p>Reform of the Independent Electoral Commission (CEI) was a highly contentious process. Some members of the opposition, civil society, and ruling coalition boycotted the CEI because they believed the CEI’s Executive Bureau was formed too quickly and without the agreement of all parties. In December, after months of negotiations, opposition, civil society, and ruling coalition representatives came to an agreement and moved forward with planned reforms, including revision of the electoral registry, which was last updated in 2008.</p>
+<p><u>Political Parties and Political Participation</u>: The law prohibits the formation of political parties along ethnic or religious lines. Ethnicity, however, was often a key factor in party membership. With some exceptions, opposition parties generally were able to conduct political activities without interference. Authorities prohibited the president of the leading opposition party from holding meetings in certain areas, and in June the mayor of Odienne banned him from entering the town on the basis that security forces could not assure his safety. In July a member of a small opposition party publicly reported that FRCI soldiers physically attacked him after he published an article criticizing the CEI and the ICC.</p>
+<p><u>Participation of Women and Minorities</u>: While no formal barrier prevents women from participating in political life, cultural and traditional beliefs limited the role of women. Of 253 National Assembly members, 25 were women; of 197 mayors, 11 were women. A few women held prominent positions, including the first vice president of the National Assembly, five ministers of cabinet, and chairpersons of important commissions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section4"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, but the government did not implement the law effectively, and officials frequently engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: The media and human rights groups reported significant official corruption. Transparency International data indicated that corruption was a severe problem, having the greatest effect on judicial proceedings, the accountability of the security forces, contract awards, and customs and tax matters.</p>
+<p>The agency responsible for combating corruption is the National Secretariat for Good Governance and Capacity Building. The Independent National Public Procurement Regulatory Agency (ANRMP) is responsible for supporting, monitoring, and enforcing fair competition for government contracts. In August, based on reports that 57 percent of all government contracts awarded in the first quarter of the year were sole-source, the ANRMP launched an audit of all sole-source contract awards from 2011 to 2013. In September the ANRMP concluded an independent audit performed on 60 sole-source government contracts worth approximately two trillion CFA francs ($3.75 billion) for fiscal years 2011 to 2013 and announced that 95 percent of the contracts broke procurement regulations and procedures.</p>
+<p><u>Financial Disclosure</u>: The law does not require income and asset disclosure by appointed or elected officials.</p>
+<p><u>Public Access to Information</u>: Data relating to government activities and budgeting was largely available but varied among ministries. Much of the Ministry of Finance’s data, including the national budget, was accessible on its website and that of the International Monetary Fund. Public procurement was generally transparent. The ANRMP provided key information on procurement quickly without charge, and it had a transparent decision-making and public appeals process.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section5"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of international and domestic human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials often were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The National Human Rights Commission, established by law at the end of 2012, operated throughout the year. As of September the commission had received approximately 70 complaints of human rights violations from citizens and had launched investigations into three of them. Due to a lack of resources, the commission did not have a presence outside of Abidjan. In June the government passed a law that strengthened protections for human rights defenders.</p>
+<p>Two civilian-controlled institutions--the Special Investigative Cell (Special Cell) within the Ministry of Justice and the Dialogue, Truth, and Reconciliation Commission--continued to exist, but most international and local human rights observers agreed the two bodies made little progress in investigating and addressing human rights abuses committed during the postelectoral crisis. The truth commission concluded its mandate in September with public hearings that involved approximately 80 individuals publicly testifying before the commission. While authorities made the Special Cell’s mandate indefinite in January, a lack of resources and dedicated staff significantly hampered its progress. Authorities brought no new charges for crimes committed during the crisis by perpetrators associated with either side. In October authorities announced the trial of 83 Gbagbo supporters who had charges confirmed against them in 2013 but indefinitely postponed proceedings on the opening day of the trial; they did not resume during the year.</p>
+<p>The government did not initiate arrests or other judicial actions against high-level personalities aligned with the current government for acts committed during the postelection crisis, including several individuals who were reportedly responsible for significant human rights violations. In some cases alleged human rights offenders retained senior security force positions.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section6"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law prohibits discrimination based on race, ethnicity, national origin, gender, religion, or HIV status, but the government did not effectively enforce the law. The law does not address discrimination based on disability, language, sexual orientation, gender identity, or social status.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law prohibits rape and provides for prison terms of five to 20 years for perpetrators. A life sentence can be imposed in cases of gang rape if the rapists are related to or hold positions of authority over the victim, or if the victim is under 15 years of age. The law does not specifically penalize spousal rape. The government made some efforts to enforce the law, but local and international human rights groups reported that rape remained widespread. UNOCI reported hundreds of rape cases during the year, including a number of gang-rape cases. For example, in June a woman in Bouake suffered serious injuries when she was raped and sodomized by a man in the presence of two accomplices. She filed a complaint with the local police, but no arrests were made.</p>
+<p>Relatives, police, and traditional leaders often pressured female victims to seek an amicable resolution with the rapist rather than pursue a criminal case. In November UNOCI released a report indicating an estimated 60 percent of sexual violence incidents were resolved amicably without involvement of the formal justice system.</p>
+<p>Rape victims were no longer required to obtain a medical certificate (which can cost up to 50,000 CFA francs ($94) to move a legal complaint forward). As a practical matter, however, cases rarely proceeded without one since it often served as the primary form of evidence. In September the trial court in Bouake sentenced a man to a five-year prison term for rape.</p>
+<p>The law does not specifically outlaw domestic violence, which was a serious and widespread problem. Victims seldom reported domestic violence due to cultural barriers. Police often ignored women who reported rape or domestic violence. Many victims’ families reportedly urged victims to withdraw complaints and remain with an abusive partner due to fear of social stigmatization.</p>
+<p>The Ministry of Family, Women, and Social Affairs assisted some victims of domestic violence and rape, including counseling at government-operated centers. The National Committee to Fight Violence against Women and Children monitored abusive situations and made weekly radio announcements about hotlines for victims.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law specifically forbids FGM/C and provides penalties for practitioners of up to five years’ imprisonment and fines of 360,000 to two million CFA francs ($679 to $3,774). Double penalties apply to medical practitioners. There were no reports during the year of FGM/C performed on adult women.</p>
+<p><u>Other Harmful Traditional Practices</u>: Societal violence against women included traditional practices, such as dowry deaths (the killing of brides over dowry disputes), levirate (forcing a widow to marry her dead husband’s brother), and sororate (forcing a woman to marry her dead sister’s husband).</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment and prescribes penalties of between one and three years of imprisonment and fines of 360,000 to one million CFA francs ($679 to $1,887). Nevertheless, the government rarely enforced the law, and harassment was reportedly widespread and routinely accepted.</p>
+<p><u>Reproductive Rights</u>: The law provides couples and individuals the right to decide the number, spacing, and timing of their children, but it does not explicitly address the right to attain the highest standard of reproductive health free from coercion, discrimination, and violence. Government policy requires emergency health-care services to be available and free to all. Family planning indicators remained low, and the government’s ability to deliver high quality maternal and reproductive health service was weak. The Demographic Health Survey estimated the maternal mortality rate in 2012 to be 614 per 100,000 live births, an increase from 543 in 2005. Skilled health personnel attended 59 percent of births. Only 14 percent of girls and women between ages 15 and 49 used a modern method of contraception. Unmet needs for family planning were at 27 percent nationally and above 30 percent for the poorest women. Thirty percent of adolescent girls had been or were currently pregnant when surveyed, a percentage that rose to 46 percent for adolescents in rural areas. Threats or perceived threats of violence from husbands or family members inhibited some women from seeking family planning or health services. In urban areas access to contraception and skilled attendance during childbirth were available to women who could afford them. For women who were poor or lived in rural areas, transportation and the cost of services posed significant barriers to accessing health centers and hospitals. These factors, along with a 4.6 percent HIV/AIDS prevalence rate among girls and women ages 15 to 49, resulted in a high maternal mortality rate.</p>
+<p><u>Discrimination</u>: The law prohibits discrimination based on gender, and the government encouraged full participation by women in social and economic life (see section 7.d.). Some women had trouble obtaining loans because they could not meet lending criteria, including requirements for posting expensive household assets as collateral, which may not have a woman listed on the title. Women also experienced economic discrimination in owning or managing businesses.</p>
+<p>Women’s organizations continued to campaign for tax reform to enable single mothers to receive deductions for their children. Inheritance law also discriminates against women.</p>
+<p>Women’s advocacy organizations continued to sponsor campaigns against forced marriage, patterns of inheritance that excluded women, and other practices considered harmful to women and girls. They also campaigned against legal provisions that discriminated against women and continued their efforts to promote greater women’s participation in national and local politics.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from one’s parents. At least one parent must be a citizen for a child to be considered Ivoirian at birth. The law provides parents a three-month period to register their child’s birth for a fee of 500 CFA francs ($0.94). The government registered all births when parents submitted documentation from a health clinic or hospital attesting that a birth had occurred, but persons without proper identification documents could not register births. Although the government did not officially deny public services such as education or health care to children without documents, some schools reportedly required parents to present children’s identity documents before enrolling them.</p>
+<p><u>Education</u>: Primary education was not compulsory but was tuition free. In principle students did not have to pay for books, uniforms, or fees, but some reportedly did so because the government did not cover these expenses for every student. Students who failed secondary school entrance exams did not qualify for free secondary education, and many families could not afford to pay for schooling. Parental preference for educating boys rather than girls reportedly persisted, particularly in rural areas.</p>
+<p><u>Child Abuse</u>: The penalty for statutory rape or attempted rape of a child under the age of 16 is a prison sentence of one to three years and a fine of 360,000 to one million CFA francs ($679 to $1,887). Nevertheless, children were victims of physical and sexual violence and abuse. Authorities reported rapes of girls as young as three years old during the year. Authorities often reclassified claims of child rape as indecent assault, since penalties were less severe. Teachers reportedly demanded sexual favors from students in exchange for money or grades. In April local police in Daloa detained a high school professor after medical exams confirmed he had sexually abused a 14-year-old student after luring her into his home. There were some prosecutions and convictions during the year. For example, in April the trial court in Abidjan sentenced the rapist of an 11-year-old girl to a five-year term of imprisonment. To assist child victims of violence and abuse, the government cooperated with the UN Children’s Fund to strengthen the child protection network.</p>
+<p>Although the Ministry of Employment, Social Affairs, and Professional Training, the Ministry of Justice, and the Ministry of Solidarity, Family, Women, and Children were responsible for combating child abuse, they were ineffective due to a lack of coordination between the ministries and inadequate resources.</p>
+<p><u>Early and Forced Marriage</u>: The law prohibits the marriage of men under the age of 20 and women under the age of 18 without parental consent. The law specifically penalizes anyone who forces a minor under age 18 to enter a religious or customary matrimonial union. Nevertheless, traditional marriages were performed with girls as young as 14. The United Nations documented several cases of forced marriage and attempted forced marriage during the year. For example, in June UNOCI intervened in the case of a father who was sequestering his 14-year-old daughter in preparation for her marriage. After some mediation involving local authorities, the wedding ceremony was canceled. In an unprecedented case in October, a court in Bouake sentenced a father to one year in prison for attempting to marry his 11-year-old daughter.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: FGM/C was a serious problem in some parts of the country. The predominant form of FGM/C was Type II--removal of clitoris and labia--although infibulation also occurred. The law specifically forbids FGM/C and provides penalties for practitioners of up to five years’ imprisonment and fines of 360,000 to two million CFA francs ($679 to $3,774). Double penalties apply to medical practitioners. FGM/C was most common among rural populations in the northern and northwestern regions, where more than 75 percent of women were subjected to the practice. The United Nations reported the occurrence of some mass ceremonies where practitioners subjected more than 100 girls to FGM/C on the same day. Local NGOs continued public awareness programs and worked to persuade practitioners to stop the practice. The government successfully prosecuted some FGM/C cases during the year. For example, in April the court found a practitioner in Seguela guilty and sentenced her to a one-year prison term. A total of 454 committees set up by NGO partners of the Ministry of Solidarity, Family, Women, and Children were working to combat and monitor FGM/C. The government also conducted income-generating activities.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum age of consensual sex is 18. The law prohibits the use, recruitment, or offering of children for prostitution or pornographic films, pictures, or events. Violators can receive prison sentences ranging from one month to two years and fines of 30,000 to 300,000 CFA francs ($57 to $566). Statutory rape of a minor carries a punishment of one to three years in prison and a fine of 360,000 to one million CFA francs ($679 to $1,887).</p>
+<p>The country was a source, origin, and destination for children subjected to trafficking in persons, specifically forced prostitution. During the year the antitrafficking unit of the national police made several arrests of suspected child-sex traffickers.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+<p><u>Displaced Children</u>: Local NGOs reported thousands of children living on the streets across the country. NGOs dedicated to helping these children found it difficult to estimate the extent of the problem or to determine whether these children had access to government services. No known government program specifically addressed the problem of children living on the streets.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/cotedivoire.html"><u>travel.state.gov/content/childabduction/english/country/cotedivoire.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The country’s Jewish community numbered fewer than 100 persons. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law requires the government to educate and train persons with physical, mental, visual, auditory, and cerebral motor disabilities; hire them or help them find jobs; design houses and public facilities for wheelchair access; and adapt machines, tools, and work spaces for access and use by persons with disabilities. Wheelchair-accessible facilities were not common, and there were few training and job assistance programs for persons with disabilities. The law prohibits acts of violence against persons with disabilities and the abandonment of such persons, but there were no reports that the government enforced these laws.</p>
+<p>There were no reports that persons with disabilities were specific targets of abuse, but they reportedly encountered serious discrimination in employment and education. While the government reserved 800 civil service jobs for persons with disabilities, government employers sometimes refused to employ such persons.</p>
+<p>The government financially supported special schools, training programs, associations, and artisans’ cooperatives for persons with disabilities, but many such persons begged on urban streets and in commercial zones for lack of other economic opportunities. Although the public schools did not bar persons with disabilities from attending, such schools lacked the resources to accommodate students with special needs. Persons with mental disabilities often lived on the street.</p>
+<p>The Ministry of Employment, Social Affairs, and Professional Training and the Federation of the Handicapped are responsible for protecting the rights of persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The country has more than 60 ethnic groups, and ethnic discrimination was a problem. Authorities considered approximately 25 percent of the population foreign, although many within this category were second- or third-generation residents. Disputes among ethnic groups, often related to land, resulted in sporadic violence, particularly in the western part of the country. Despite a procedural update enacted in 2013 that allows putative owners of land 10 additional years to establish title, land ownership laws remained unclear and unimplemented and reportedly resulted in conflicts with ethnic and xenophobic overtones, often between the native populations and other groups.</p>
+<p>Although the law prohibits xenophobia, racism, and tribalism and makes these forms of intolerance punishable by five to 10 years’ imprisonment, no prosecutions occurred during the year. Police abused and harassed non-Ivoirian Africans residing in the country. Harassment by officials reflected the common belief that foreigners were responsible for high crime rates and identity card fraud.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>There is no law criminalizing homosexuality. The law’s only mention of same-sex sexual activity is as a form of public indecency that carries a penalty of up to two years’ imprisonment, the same prescribed for heterosexual acts performed in public. Antidiscrimination laws exist, but they do not address discrimination based on sexual orientation or gender identity (see section 7.d.).</p>
+<p>Unlike in previous years, there were no reports of security forces beating, imprisoning, extorting, or humiliating members of the LGBT community due to their sexual orientation. Law enforcement authorities were at times slow and ineffective in their response to societal violence targeting the LGBT community. On January 20, a mob of neighborhood residents attacked the home of the president of a prominent LGBT rights organization in Abidjan, vandalizing property and physically threatening the inhabitants. On January 25, a mob ransacked and looted the headquarters of the organization. The victims filed a complaint with the local police, who referred the case to the appropriate trial court for further investigation. At year’s end the authorities had not made any arrests or filed any charges. The few LGBT organizations in the country, including the victim of this violence, continued to operate freely but with caution.</p>
+<p>There was no official discrimination based on sexual orientation in employment, housing, or access to education or health care. Nevertheless, societal stigmatization of the LGBT community was widespread, and many members reported discrimination at health clinics, particularly when seeking treatment for sexually transmitted infections. In September an Abidjan tabloid published an inflammatory article about clinics throughout the city that were friendly to the “men who have sex with men” population and included a list of the clinics by name. Persons believed to be gay also faced societal discrimination in finding employment and housing.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>There was no official discrimination based on HIV status. In July the National Assembly passed a law that expressly condemns all forms of discrimination against persons with HIV/AIDS and provides for their access to care and treatment. The law also prescribes fines for refusal of care or discrimination based on HIV status. The Ministry of Health managed a program that assisted vulnerable populations (gay men, sex workers, migrants) with HIV/AIDS. The Ministry of Solidarity, Family, Women, and Children oversaw a program that directed food, education, and protection assistance to orphans and vulnerable children, including those with HIV/AIDS.</p>
+<p>In the most recent demographic and health survey for the country (2012), approximately 47 percent of women and 45 percent of men reported holding discriminatory attitudes towards those with HIV. Outside of hospitals and clinics, societal stigmatization was widespread, with the most overt discrimination directed at gay men with HIV. Many persons with HIV/AIDS chose not to reveal their status to friends and family for fear of stigmatization.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section7"> </span><span class="st_twitter" st_title="Cote d'Ivoire #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cote d'Ivoire - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236350%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including related regulations and statutory instruments, provides for the right of workers, except members of police and military services, to form or join unions of their choice, protects the right to strike and collectively bargain, and prohibits antiunion discrimination by employers or others against union members or organizers. The law forbids firing workers for union activities. The law allows unions in the formal sector to conduct their activities without interference. Nevertheless, according to the <em>International Trade Union Confederation,</em> the law does not have any objective criteria to establish recognition of representative trade unions, which could allow public and private employers to refuse to negotiate with unions on the grounds they were not representative. Foreigners are required to obtain residency status, which takes three years, before they may hold union office. Before collective bargaining can begin, a union must represent 30 percent of workers. The law provides for the reinstatement for dismissed workers within eight days of receiving a wrongful dismissal claim.</p>
+<p>The law requires a protracted series of negotiations and a six-day notification period before a strike may take place, making legal strikes difficult to organize and maintain. Additionally, if authorities deem a strike to be a threat to public order, the president has broad powers to compel strikers to return to work under threat of sanctions. The president also may require that strikes in essential services go to arbitration, although the law does not list what constitutes essential services.</p>
+<p>Apart from large industrial farms and some trades, such as agricultural workers, this legal protection excluded most laborers in the informal sector, including small farms, roadside street stalls, and urban workshops.</p>
+<p>The government generally effectively enforced applicable laws only in the formal sector. Resources, inspections, and remediation were inadequate. Penalties for violations, including a fine between 10,000 and 100,000 CFA francs ($19 to $189), were insufficient to deter violations. Administrative judicial procedures were subject to lengthy delays and appeals.</p>
+<p>Worker organizations were independent of the government and political parties. Nevertheless, there were reports of government interference in union affairs. A well-known international trade union reported that the government continued to refuse to recognize the leadership structure of the Federation des Syndicats Autonome de Cote d’Ivoire (FESACI). Armed auxiliaries of the FRCI had occupied the headquarters of the FESACI since 2011. There were also reports that police questioned trade union leaders for hours regarding the union elections. In the past few years, there were reports of arrest of trade union leaders without charges. In September 2013 Basile Mahan Gahe, general secretary of the DIGNITE Confederation, who was reportedly abducted, tortured by police, and imprisoned in harsh conditions from April to July 2011, died nine months after his release. Collective bargaining agreements apply to all employees, and many major businesses and civil service sectors had them. Although the labor code may allow employers to refuse to negotiate, the Ministry of Employment, Social Affairs, and Professional Training did not receive any complaints from unions. A well-known international trade union, however, reported that the government failed to remit union dues to several trade unions despite a valid collective agreement.</p>
+<p>The number of collective bargaining agreements reached during the year was unknown.</p>
+<p>There were no reports of strikebreaking during the year.</p>
+<p>The Ministry of Employment, Social Affairs, and Professional Training did not report any complaints of antiunion discrimination or employer interference in union functions during the year. There were no cases reported of harassment of union members.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits forced or compulsory labor, including by children, and employers are subject to a prison term of one to five years and a fine of 360,000 to one million CFA francs ($679 to $1,887). The government made significant efforts to enforce the law, especially in new initiatives to fight child labor. Resources, inspections, and remediation were inadequate. Penalties for violations, including fines of 360,000 to one million CFA francs ($679 to $1,887) and prison sentences of one to five years, were insufficient to deter violations.</p>
+<p>The National Monitoring Committee on Actions to Fight Trafficking, Exploitation, and Child Labor (NMC), chaired by First Lady Dominique Ouattara, and the Inter-Ministerial Committee are responsible for assessing government and donor actions on child labor.</p>
+<p>Forced and compulsory labor continued to occur in small-scale and commercial production of agricultural products, particularly on cocoa, coffee, pineapple, and rubber plantations and in the informal labor sector, such as domestic work, nonindustrial farm labor, artisanal mines, street shops, and restaurants. Forced labor on cocoa, coffee, and pineapple plantations was limited to children (see section 7.c.). Reports of forced adult labor on rubber production primarily involved long hours and low pay for workers, who lived in conditions of effective indenture.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The legal minimum working age is 14, and children may not work between 7 p.m. and 6 a.m. Although the law prohibits the exploitation of children in the workplace, child labor remained a widespread problem, particularly on cocoa and coffee plantations and in gold and diamond mines. The Ministry of Employment, Social Affairs, and Professional Training enforced the law effectively only in the civil service and large multi-national companies. The punishment for violating the law includes a prison term of one to five years and a fine of 500,000 to one million CFA francs ($943 to $1,887). The understaffed labor inspectorate and national police lacked the resources and training to identify, investigate, and prosecute cases of illegal child labor.</p>
+<p>Children routinely worked on family farms or as vendors, shoe shiners, errand boys, domestic helpers, street restaurant vendors, and car watchers and washers. Some girls as young as nine years old reportedly worked as domestic servants, often within their extended family networks. The law prohibits child trafficking and the worst forms of child labor. In January police stopped a bus transporting 40 girls and nine boys between the ages of seven and 12 who were purportedly destined for labor in cotton fields in a central region of the country. While the overall prevalence of child labor decreased, children in rural areas continued to work on cocoa farms under hazardous conditions, including risk of injury from machetes, physical strain from carrying heavy loads, and exposure to harmful chemicals. A small percentage of the children working on cocoa farms had no family ties to the farmers, but most worked on family farms or with their parents.</p>
+<p>Although financial constraints continued to hinder enforcement of child labor laws, the government took active steps to address the worst forms of child labor. The government continued implementing its 2012-14 National Action Plan against Trafficking, Exploitation, and Child Labor and strengthened its national child labor monitoring system. In May the president signed a decree that set stricter regulations on the travel of minors to and from the country, requiring children and parents to provide documentation that demonstrates family ties, including at least a birth certificate.</p>
+<p>The Department of the Fight against Child Labor within the Ministry of Employment, Social Affairs, and Professional Training, the NMC, and the Inter-Ministerial Committee were the lead bodies involved in this area. The 2012-14 national action plan had a budget of 14 billion CFA francs ($26.4 million) over three years, 22 percent of which the government funded. The plan calls for efforts to improve access to education, health care, and income-generating activities for children, as well as nationwide surveys, awareness campaigns, and other projects with local NGOs to highlight the dangers associated with child labor and alternatives. First Lady Dominique Ouattara made the elimination of child labor a centerpiece of her efforts and continued to be actively involved.</p>
+<p>The government engaged in partnerships with the International Labor Organization (ILO) to reduce child labor on cocoa farms. Through its International Program to Eliminate Child Labor, the ILO had four projects targeting child labor, which concluded during the year.</p>
+<p>The government coordinated with NGOs to conduct campaigns to sensitize farm families about child labor, based on the government’s list of prohibited worst forms of child labor. Consequently, local domestic worker organizations sought to prevent the exploitation of children in domestic work. Other NGOs campaigned against child trafficking, child labor, and the sexual abuse of children.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>With respect to employment or occupation, the law prohibits discrimination based on sex, age, national origin, race, religion, and social origin, but it is silent on discrimination based on sexual orientation or gender identity. A law passed in July specifically placed interdictions on workplace discrimination based on HIV/AIDS status. The government did not always effectively enforce the law.</p>
+<p>Discrimination in employment and occupation occurred with respect to gender, nationality, persons with disabilities, and LGBT persons (see section 6). While women in the formal sector received the same pay and paid the same taxes as men, some employers resisted hiring women.</p>
+<p>There was no official policy of discrimination based on sexual orientation in employment, but LGBT persons reported a difficult time being hired.</p>
+<p>Discrimination against migrant workers also occurred. While the law provides the same protections for migrant workers as for citizens, most faced discrimination in terms of wages and treatment.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The minimum wage for all professions other than the agricultural sector was 60,000 CFA francs per month ($113), but authorities did not enforce this wage in the informal sector. The official estimate for the poverty income level was between 500 and 700 CFA francs ($.94 and $1.32) a day. The government enforced the minimum wage rates only for salaried workers employed by the government or registered with the social security office. Labor federations attempted to fight for just treatment under the law for workers when companies failed to meet minimum salary requirements or discriminated between classes of workers, such as women or local versus foreign workers.</p>
+<p>The law does not stipulate equal pay for equal work. There were no reports that the government took action to rectify the large salary discrepancies between foreign non-African employees and their African colleagues employed by the same companies.</p>
+<p>The standard legal workweek is 40 hours. The law requires overtime pay for additional hours and provides for at least one 24-hour rest period per week. The law does not prohibit compulsory overtime.</p>
+<p>The law establishes occupational safety and health standards in the formal sector. The law covers neither foreign migrant workers nor citizen workers in the informal labor sector.</p>
+<p>The Ministry of Employment, Social Affairs, and Professional Training is responsible for enforcing the minimum wage. Labor unions contributed to effective implementation of the minimum salary requirements in the formal sector. The government did not effectively enforce occupational, safety, and health standards in the informal sector. This mainly affected workers in the small-scale informal manufacturing sector. Despite the law workers in both the formal and informal sectors could not absent themselves from hazardous labor without risking their employment. Labor inspectors reportedly accepted bribes to ignore violations.</p>
+<p>An exact count of labor inspectors was unavailable, but the Ministry of Employment, Social Affairs, and Professional Training estimated the number at no more than 300. The law provides for the establishment of a committee of occupational, safety, and health representatives responsible for verifying protection and worker health at workplaces. Such committees are to be composed of union members. The chairman of the committee can report unhealthy and unsafe working conditions to the labor inspector without penalty. While the law requires businesses to provide medical services for their employees, small firms, businesses in the informal sector, households employing domestic staff, and farms (particularly during the seasonal harvests) did not comply. Excessive hours of work were common, and employers rarely recorded and seldom paid overtime hours in accordance with the law. Enforcement in the informal sector was nonexistent, and the government lacked the ability to perform inspections or take action in the sector.</p>
+<p>Several million migrant workers, mostly from neighboring countries, typically worked in the informal labor sector, where labor laws were not enforced.</p>
+<p>By law workers in the formal sector have the right to remove themselves from situations that endangered health or safety without jeopardy to their employment by utilizing the inspection system of the Ministry of Employment, Social Affairs, and Professional Training to document dangerous working conditions. Authorities effectively protected employees in this situation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

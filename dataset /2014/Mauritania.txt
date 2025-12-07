@@ -1,0 +1,612 @@
+2014
+Mauritania
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382"> </span><span class="st_facebook" st_title="Mauritania" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236382">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236382</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=executive"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Mauritania is a highly centralized Islamic republic. Arabo-Berbers, known as “white Moors,” make up approximately 30 percent of the population, while Arabic speakers of sub-Saharan African ancestry who identify as the descendants of freed slaves, commonly called Haratine or “black Moors,” constitute an estimated 40 percent. So-called Afro-Mauritanians, other citizens belonging to sub-Saharan African ethnicities, account for the remainder. The president is the head of state, and the constitution is grounded in French civil law and sharia. The Senate and National Assembly exercise legislative functions but are weak relative to the executive. Voters also elect municipal councilors, who in turn elect senators. In June voters re-elected Mohamed Ould Abdel Aziz to a second five-year term as president. International observers declared the election to be generally free, fair, and transparent. In November and December 2013, the Union for the Republic (UPR) party, to which the president belonged, won 74 of 147 National Assembly seats in a direct election. Authorities maintained effective control over the security forces.</p>
+<p>The central human rights problems were the use of torture and other abusive treatment by law enforcement officers, continuing slavery and slavery-related practices, and trafficking in persons.</p>
+<p>Other reported human rights problems included harsh prison conditions, arbitrary arrests, and lengthy pretrial detention. Government influence over the judiciary, limits on freedom of assembly, restrictions on religious freedom, and public corruption were also problems. Discrimination against women, female genital mutilation/cutting (FGM/C), early and forced marriage, political marginalization of southern-based ethnic groups, racial and ethnic discrimination, child labor, discrimination against persons with HIV/AIDS, and inadequate enforcement of labor laws occurred as well.</p>
+<p>The government took modest steps to punish officials who committed abuses and prosecuted a number of officials, but authorities and privileged sectors of society frequently acted with impunity. Civil society organizations objected to the scant number of indictments against those alleged to have committed abuses.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section1"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances. In July corrections officials closed Salah ad Dine Prison, a “secret,” maximum-security facility in Atar that had held incommunicado 14 inmates convicted of terrorism-related offenses. The government reportedly transferred this facility’s entire prisoner population to the Central Prison of Nouakchott in the same month.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit torture; nevertheless, a reliable human rights nongovernmental organization (NGO) reported it had received a credible complaint of torture by law enforcement officials. Independent human rights observers and the National Commission for Human Rights (CNDH) also stated that security and corrections personnel tortured detainees to extract confessions. Amnesty International reported methods of abuse allegedly included beatings, simulated drowning, and placement of prisoners in stress positions.</p>
+<p>In May, Houghougi, a local human rights NGO, reported gendarmes based in Ajouef had tortured a camel herder after his arrest for theft. The gendarmes, Houghougi activists alleged, bound the suspect and beat him intermittently over several days.</p>
+<p>In March a credible NGO reported authorities convicted and imprisoned a corrections officer for torturing an inmate in 2012.</p>
+<p>On July 1, the minister of justice claimed to the National Assembly that, aside from one unspecified case, there had been no torture in prisons or detention centers in five years. On August 21, the Commissariat for Human Rights and Humanitarian Action nonetheless announced the founding of an independent agency to prevent torture in government facilities.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh and life threatening. Poor security conditions and the fact that dangerous inmates shared cells with less dangerous ones obliged prisoners to live in a climate of violence, and some had to pay bribes to other prisoners to avoid brutalization and harassment. There were also credible reports of torture, beatings, and abuse in police detention centers, several prisons throughout the country, and gendarmerie and military facilities.</p>
+<p><u>Physical Conditions</u>: As of October 1, according to the Ministry of Justice, the prison population totaled 1,768, of whom 1,027 were convicts and 724 were pretrial detainees. There were 21 female prisoners (10 convicted and 11 pretrial detainees) and 51 minors (25 convicted and 26 pretrial detainees). The Dar Naim Prison, the main prison facility in Nouakchott with an intended capacity of 300, held 874 prisoners. Authorities frequently held pretrial detainees with convicted and often dangerous prisoners. Male guards frequently participated in monitoring female inmates, a practice criticized by the CNDH. Conditions of detention for women were generally better than for men. According to prison officials, the women’s prison in Nouakchott was significantly less crowded.</p>
+<p>Due to deteriorating conditions at the juvenile detention facility at Beila, authorities held 48 children between the ages of 15 and 17 at Nouakchott’s Central Prison. They also held seven other children of similar age at the prison in Nouadhibou. The children had contact with adult prisoners, including those convicted of terrorist offenses and other violent crimes. Prison officials also reported that one three-year-old child remained with his imprisoned mother. The Ministry of Justice sometimes gave temporary custody of the children of prisoners to another family member to prevent their confinement with their mothers. International NGOs, such as the Noura Foundation, Caritas, and Terre des Hommes, continued to provide educational and economic opportunities to current and former juvenile and female detainees.</p>
+<p>Reports persisted of malnutrition, tuberculosis, poor health and hygiene, lack of potable water, and inadequate ventilation and heating. Overcrowding, violence among inmates, and poor medical care remained problems. Prisons lacked soap and detergent, and some had no waste disposal systems. Malnutrition--particularly among foreign inmates, prisoners without familial support, and sick inmates--was widespread.</p>
+<p>Authorities reported eight inmate deaths during the year. Two died in a fire set intentionally by a prisoner on March 15 at the penitentiary in Zouerate. A third succumbed to an unspecified illness at Salah ad Dine on June 12. According to family members, prison officials willfully neglected the man, thereby hastening his death. During a lengthy period of pretrial confinement, a prisoner died from illness in Aioun. The causes of death of the other four prisoners were unclear.</p>
+<p>Access to food was inadequate, and sanitary conditions in prison kitchens were abysmal. Medical facilities and staff were similarly inadequate, particularly in the men’s prison in Dar Naim. Ventilation in many cells and holding areas ranged from inadequate to nonexistent; the government held a significant proportion of those incarcerated in makeshift detention centers or private residences unfit for long-term confinement.</p>
+<p>Holding areas in police stations reportedly were overcrowded, unsanitary, and poorly ventilated. NGOs continued to denounce overcrowding and long pretrial detention. The large number of pretrial detainees exacerbated prison overcrowding.</p>
+<p><u>Administration</u>: Improvements in recordkeeping continued slowly. In 2012 the EU handed over a database management and recordkeeping program to the government, but prison administrators reported that technical problems continued to stall implementation. Local NGOs continued to report prison officials often misplaced prisoner files, leading in some cases to postponement of release.</p>
+<p>There was no data available on whether the courts used alternatives to sentencing nonviolent offenders. Independent ombudsmen did not exist in the prison system, but officials permitted prisoners to file allegations of abuse with the CNDH. Regulations also allowed inmates to choose one of their own to represent them in dealings with management, and prisoners occasionally did so. Authorities allowed inmates access to visitors on a regular basis. Muslim prisoners could pray individually, and, unlike in previous years, inmates had access to biweekly visits from imams.</p>
+<p>The government generally acknowledged allegations of inhuman conditions but rarely took corrective action.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison and detention center visits by NGOs, diplomats, and international human rights observers. The International Committee of the Red Cross (ICRC) had unlimited access to prisons and conducted multiple visits, including visits to terrorism suspects. The ICRC also conducted frequent visits to the Dar Naim and Nouakchott Central Prisons.</p>
+<p>In March and April corrections officials opened the doors of several prisons in Nouakchott to foreign diplomatic personnel, who interviewed prisoners and staff members.</p>
+<p><u>Improvements</u>: The government modestly reduced overcrowding in prisons, including opening a new prison in Nouadhibou.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, but authorities did not observe these prohibitions.</p>
+<p>In some cases authorities arbitrarily arrested and detained protesters, human rights activists, and journalists (see section 2.a.).</p>
+<p>By law authorities may hold a minor for no more than six months while awaiting trial. Nevertheless, there were reports many individuals, including minors, remained in pretrial detention for extended periods due to lack of judicial capacity to process cases promptly.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>Under the Ministry of Interior, the National Police is responsible for enforcing the law and maintaining order in urban areas. The National Guard, also under the Ministry of Interior, performs limited police functions in keeping with its peacetime role as the guarantor of physical security at government facilities. For instance, regional authorities may call upon it to restore civil order during riots and other large-scale disturbances. The gendarmerie, a specialized paramilitary organization under the Ministry of Defense, is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas. The Ministry of Interior’s newest police force, the General Group for Road Safety, maintains security on the roads and operates checkpoints throughout the country.</p>
+<p>Police were poorly paid and lacked adequate training equipment. Corruption and impunity were serious problems. Police regularly demanded bribes at nightly roadblocks in Nouakchott and at checkpoints between cities. There were numerous reports police arbitrarily detained individuals--often without probable cause--for several hours or overnight at such roadblocks.</p>
+<p>The government rarely held security officials accountable or prosecuted them for abuses or crimes, unless the charges involved terrorist activities. In May, however, the Criminal Court of Nouakchott sentenced three road security police officers to seven years in prison for raping a minor.</p>
+<p>The Ethics Police, an internal affairs division, investigated security force abuses but did not release investigation results.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires duly authorized arrest warrants, although their issuance was uncommon. Authorities generally did not inform detainees of the accusations against them until the conclusion of an investigation. The law requires that in most cases courts review the legality of a person’s detention within 48 hours of arrest, but police may extend the period for an additional 48 hours, and a prosecutor or court can detain persons for up to 15 days in national security cases. Authorities generally respected the two-week deadline for formally arraigning or releasing terrorism suspects in national security cases. Only after the prosecutor submits charges does a suspect have the right to contact an attorney. By law indigent defendants are entitled to attorneys at state expense, but legal representation was frequently unavailable, or attorneys did not speak local languages. There was a bail system, but judges sometimes refused such requests arbitrarily or set inordinately high bail fees. There were no reports of authorities detaining suspects incommunicado or holding them under house arrest.</p>
+<p><u>Arbitrary Arrest</u>: Security forces sometimes arrested demonstrators and held them longer than regulations allow, often due to lack of judicial capacity to process cases in a timely manner. In some cases authorities detained and held activists to punish them for activities, such as protests against slavery, considered provocative or hostile to societal norms.</p>
+<p>On April 6, local press agencies reported police officers in Nouakchott arrested two activists from the Initiative for the Resurgence of the Abolitionist Movement (IRA), an unrecognized antislavery NGO. Charged with “rebellion against administrative authorities,” Hanena Ould Boyrick and Boubacar Yatma were serving a one-year prison term as of November. They had reportedly interceded on behalf of a number of black Moor families who were involved in a land dispute in the Dar Naim district. On April 9, the IRA published a statement alleging security forces had beaten the activists in the course of their arrests.</p>
+<p>On November 11, gendarmes arrested five members of the IRA and Kawtal e Yelitaare, another local human rights NGO, in Echgara for “inciting violence and disturbing the peace” during a roving antislavery “consciousness-raising” campaign. IRA officials alleged in a press statement that police officers had “beaten and tortured” those in custody on November 12. Four days later, however, IRA’s secretary general contradicted the communique, advising he had learned that, in fact, “none of the detainees had been mistreated.”</p>
+<p><u>Pretrial Detention</u>: Lengthy pretrial detention was a problem, although no statistics on the average length of detention were available.</p>
+<p>In late December 2013 Mohamed Cheikh Ould Mohamed (also known as Mohamed M’kheytir), a blogger in Nouadhibou, posted on Facebook an essay insinuating the national religious establishment was partly responsible for the inferior social position of the “forgerons” (blacksmiths), a traditional Moorish caste. To illustrate this point, he also suggested the Prophet Muhammad had discriminated against certain groups during his life. On January 2, authorities arrested M’kheytir and charged him with apostasy. As of November officials had not set a date for his trial, and he remained in pretrial confinement.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, but the judiciary was not autonomous. The executive branch continued to exercise significant influence over the judiciary through its ability to appoint and remove judges. In 2012 the National Bar Association characterized the role of the Supreme Council of Justice as minimal and claimed it had been reduced to only handling administrative matters.</p>
+<p>International donors funded training for prosecutors and judges to increase judicial professionalism and combat money laundering and terrorism financing.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for due process, and defendants enjoy a presumption of innocence. While authorities informed defendants of the charges/accusations against them and provided them with free interpretation services as required, the quality of these services was generally poor, and defendants did not learn of the charges until the investigation was complete. Defendants have a right to a public trial, although juries are not used. They also have the right to be present during trial. All defendants, including the indigent, have the right to legal counsel, but authorities rarely enforced this measure. Defendants have the right of appeal and can confront or question witnesses and present witnesses and evidence in both civil and criminal cases. Defendants have the right to access government-held evidence, although it was difficult to obtain such evidence. Defendants generally had adequate time and facilities to prepare their defense. The law does not compel them to testify or confess guilt. These rights extended to minorities and men but did not extend equally to women.</p>
+<p>Law and court procedures are derived in part from sharia, and courts did not treat women equally in all cases. Lawyers also reported that in some cases considerations such as caste or nationality influenced the treatment of women. In August, for example, the Association of Female Heads of Household, a local NGO, reported authorities had evicted a woman after she filed a complaint against her husband for domestic violence and the sale of the family home, in which she had invested approximately three million ouguiya ($9,840).</p>
+<p>A special court hears cases involving persons under the age of 18. Children who appeared before the court received more lenient sentences than adults; extenuating circumstances received greater consideration in juvenile cases. The minimum age for children to stand trial is 12 years. Juvenile offenders between the ages of 12 and 18 generally served sentences at detention centers for minors.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Complaints of human rights violations fall within the jurisdiction of the Administrative Court. Individuals or organizations can appeal decisions to international regional courts. NGO representatives stated they collaborated with the court, adding it was not impartial. There are administrative and judicial remedies through the social chamber of the Court of Appeals and through the Supreme Court. Persons can sue at the Administrative Court and can appeal to the Court of Appeals and then to the Supreme Court.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>Property ownership in the southern wilayas (regions) has been a source of controversy since the government expelled tens of thousands of Afro-Mauritanians from 1989 to 1991 amid border tensions with Senegal. Many Afro-Mauritanians were dispossessed of their land, which regional officials subsequently sold or ceded to associates, relatives, or allies, most of whom were white Moors (see section 6). Although the government continued to make modest efforts to indemnify former deportees, it did not restore the property rights of returning exiles.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section2"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. Individuals were generally free to criticize the government publicly or privately but were occasionally subject to retaliation.</p>
+<p><u>Violence and Harassment</u>: There were several reported incidents of violence and harassment of journalists. On May 3, the day after World Press Freedom Day, the chairman of the Journalists’ Union of Mauritania reported 10 reporters had been subjected to acts of aggression during the first quarter of the year, all of which were committed by civil and security authorities.</p>
+<p><u>Censorship or Content Restrictions</u>: Some journalists practiced self-censorship when covering topics deemed sensitive, including the military, corruption, and the application of sharia, and there were reports police detained and questioned journalists in connection with their coverage of topics, such as slavery and others mentioned above. Some opposition leaders asserted they had no effective access to official media.</p>
+<div class="sub-sub-section">
+<h3>
+						Actions to Expand Press Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Communication continued reforms to liberalize audiovisual broadcasting regulations, granting licenses to two radio stations and one television station, thereby expanding the opportunity to reach more listeners.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private online communications without appropriate legal authority. According to the Ministry of Civil Service and Labor, 7 percent of the population used the internet during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of assembly. The law requires that NGO organizers apply to the hakim (local prefect) for permission to hold large meetings or assemblies. Authorities generally granted permission but sometimes denied it in circumstances that suggested the application of political criteria. Registered political parties are not required to seek permission to hold meetings or demonstrations.</p>
+<p>On several occasions during the year, IRA officials reported security forces arrested activists for failing to petition the hakim for the right to hold a rally.</p>
+<p>On March 4, police used tear gas and batons to disperse approximately 3,000 rioting protesters who had gathered spontaneously to express their outrage at (unfounded) reports several men had entered a mosque in Nouakchott and desecrated a Quran. One protester died of unknown causes amid the disorder.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of association, and the government generally respected this right.</p>
+<p>All local NGOs must register with the Ministry of Interior. The government encouraged local NGOs to join the government-sponsored Civil Society Platform, and approximately 7,000 local NGOs did so; none received government funding.</p>
+<p>With the notable exceptions of the African Liberation Forces of Mauritania (FLAM), an Afro-Mauritanian nationalist group, and IRA, whose president challenged President Aziz in the 2014 presidential election, the government generally did not interfere with the activities of unrecognized NGOs.</p>
+<p>According to the IRA, the government refused to register it as a recognized NGO; the government claimed the IRA was organized along racial lines, which the law prohibits.</p>
+<p>In September authorities declined FLAM’s petitions to organize its first official meeting and to become a recognized political party.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation. The government generally respected these rights, but there were exceptions.</p>
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, vulnerable migrants, and other persons of concern. Resources provided by the government, however, were inadequate to meet the assistance needs of these populations.</p>
+<p><u>In-country Movement</u>: Persons lacking identity cards could not travel freely in some regions. The government set up mobile roadblocks where gendarmes, police, or customs officials checked the papers of travelers and sometimes demanded bribes.</p>
+<p><u>Exile</u>: The law does not provide for forced exile. Nevertheless, several prominent opponents of the president, including his cousin Mohamed Ould Bouamatou, have remained in self-imposed exile for years for fear of persecution or retaliation.</p>
+<p><u>Emigration and Repatriation</u>: Launched in March 2013, the National Agency for the Fight against the Vestiges of Slavery, Reintegration, and the Fight against Poverty (Tadamoun) is responsible for overseeing the reintegration of repatriated refugees. Tadamoun is responsible for providing administration and identification support, as well as for contributing to the social and economic development of resettlement areas. Despite challenges including food insecurity, land disputes, and inadequate sanitation, health, and education infrastructure, the government made modest progress in its efforts to reintegrate repatriated refugees. According to a local NGO, authorities reinstated 57 state employees who had lost their positions following their deportation to Senegal in 1989 and 1991.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The National Consultative Commission for Refugees is the national body for determining refugee status. Accordingly, the UNHCR carries out refugee status determinations under its mandate and then presents cases to the consultative commission for recognition.</p>
+<p>According to the UNHCR, as of November 1, the government was host to an estimated 55,320 Malian refugees, concentrated in the southeastern region of Hodh Ech Chargui. Approximately 200 Syrians, seeking refuge from violence in their native country, lived in government-constructed camps in Nouakchott. These camps operated without the assistance of the UNHCR.</p>
+<p>In accordance with agreements with the Economic Community of West African States on freedom of movement, the government allowed West African migrants to remain in the country provided they complied with the law on foreigners, deporting only those found illegally seeking to reach the Canary Islands. According to the Interior Ministry, immigration officials returned 3,950 migrants to their countries of origin from January to September.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>The law allows children born outside the country to Mauritanian mothers and foreign men to obtain Mauritanian nationality at age 17. If the father is stateless, children born outside the country are subject to statelessness until age 17. The continued unwillingness of local authorities to process some Afro-Mauritanians repatriated from Senegal, following their mass expulsion in the late 1980s and early 1990s, rendered thousands of Afro-Mauritanians stateless.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section3"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens the ability to change their government through free and fair elections, and citizens exercised this right through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In June President Aziz won re-election to a second five-year term with approximately 82 percent of the vote. Although more than a dozen opposition parties boycotted the election--and some opposition groups alleged procedural irregularities and inconsistent application of vote-counting policies--the Constitutional Council and international observers endorsed the results of the election.</p>
+<p><u>Participation of Women and Minorities</u>: The law reserves 20 seats in the National Assembly for women. After the 2013 legislative elections, 31 women held seats in the 147-member National Assembly, while black Moors and Afro-Mauritanians occupied 13 seats and 25 seats, respectively. Of the country’s 27 ministers, six were women, four were black Moors, and another six were Afro-Mauritanians.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section4"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but authorities did not enforce the law effectively, and officials often engaged in corrupt practices with impunity. Corrupt practices were widely believed to exist at all levels of government, and the World Bank’s most recent Worldwide Governance Indicators reflected corruption was a severe problem.</p>
+<p>There were reports that government officials frequently used their power to obtain such favors as unauthorized exemption from taxes, special grants of land, and preferential treatment during bidding on government projects. Corruption was most pervasive in government procurement, official document distribution, bank loans, fishing-license distribution, land distribution, and tax payments.</p>
+<p><u>Corruption</u>: The Ministry of Interior’s Economic Crimes Brigade, the Criminal Division for Economic and Financial Crimes (DCEF) of the Judiciary Council, and the Office of the Inspector General were responsible for investigating corruption. The Procurement Regulation Authority continued to monitor independent regulation of the public tender and procurement system. The government also enforced laws prohibiting the use of government vehicles outside working hours and eliminated benefits such as free housing and land grants for high-level government officials.</p>
+<p>The DCEF operated effectively and possessed sufficient resources, yet its independence was doubtful, as it operated under the supervision of the Ministry of Interior. In the course of the year, the DCEF completed 55 investigations. Nevertheless, authorities prosecuted few cases because judicial corruption was also a problem.</p>
+<p>On July 14, the DCEF launched an investigation into the activities of staff members of the state Food Security Commission (CSA) whom law enforcement officials suspected of embezzling funds provided by the World Bank. Authorities ultimately ordered two senior CSA officials to repay 16 million ouguiya ($52,460).</p>
+<p>Corruption and impunity were serious problems in the police force, and the government rarely held security officials accountable or prosecuted them for abuses.</p>
+<p>On August 29, Minister of Economic Affairs and Development Sidi Ould Tah announced a national strategy to combat corruption by strengthening the effectiveness of the judiciary and promoting the role of the parliament as the inspector and arbiter of government spending. According to Tah, a joint committee consisting of five members of civil society, five government officials, and five private businesspersons would be named to monitor implementation of the strategy.</p>
+<p><u>Financial Disclosure</u>: The law requires that senior government officials, including the president, file a declaration of both their personal assets and those of their spouses and children at the beginning and end of their service. It also mandates cancelation of senior appointments for appointees who neglect to fulfill their legal obligation to make such disclosures. The Commission for Financial Transparency in Public Life, however, frequently failed in its responsibility to ensure compliance with the financial disclosure law. The most recent public accounting of President Aziz took place in 2010. Members of his first administration who resigned in the wake of his re-election had not declared their assets by year’s end. Disclosures are not available to the public.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and the government generally granted such access to citizens and noncitizens, including foreign media. Nevertheless, the government did not fully implement the law, since it still requires a second “implementing” law to determine the modalities for providing information to the public.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section5"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Several domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were somewhat cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The CNDH, an independent ombudsman organization, includes government and civil society representatives. It actively monitored human rights and advocated for government action to correct violations. The CNDH’s annual budget was 137 million ouguiya ($449,180). The commission produces an annual report on thematic topics and conducts regular investigations, providing recommendations to the government.</p>
+<p>The government’s Commissariat for Human Rights and Humanitarian Action is charged with the design, promotion, and implementation of national human rights policy. During the year its budget fell to 574 million ouguiya ($1.9 million), from1.8 billion ouguiya ($5.9 million) in 2013. The commissariat manages government and internationally funded human rights and humanitarian aid programs.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section6"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law prohibits discrimination against citizens on the basis of race, national origin, sex, disability, or social status and prohibits racial or ethnic propaganda, but the government often favored individuals based on racial and tribal affiliation, social status, and political ties. Societal discrimination against women, trafficking in persons, and racial and ethnic discrimination were also problems.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Local NGOs noted the incidence of both reported and unreported rape continued to be high. Rape, including spousal rape, is illegal. According to the penal code, rapists who are single men face penalties of forced labor and flagellation, and married rapists are subject to the death penalty. The government regularly enforced the rape law, convicting 160 perpetrators of the crime during the year. Nevertheless, wealthy rape suspects reportedly avoided prosecution or, if prosecuted, avoided prison. Families of the victim commonly reached an agreement with the rapist for monetary compensation. National statistics on arrests and prosecutions for rape were unavailable, but the Association of Female Heads of Families (AFCF) received reports of 412 cases between January and October.</p>
+<p>Human rights activists and lawyers reported that society stigmatized or persecuted rape victims. Since rape is often associated with the concept of adultery, judges could, in theory, accuse the victim of fornication under sharia and hold the victim responsible for the rape, which could lead to imprisonment. There were no reports that this provision or interpretation of the law was enforced. During the year the local NGO Mauritanian Association for the Health of Mothers and Children (AMSME) provided assistance to 112 girls and 11 women who were victims of sexual violence.</p>
+<p>Domestic violence was also a serious problem. Spousal abuse and domestic violence are illegal, but the government did not enforce the law effectively, and most cases went unreported. There are no specific penalties for domestic violence, and convictions were rare. No reliable government statistics on prosecutions, convictions, and sentences for domestic violence were available. From January to October, the AFCF provided legal assistance to 2,339 domestic violence victims.</p>
+<p>Police and the judiciary occasionally intervened in domestic abuse cases, but women rarely sought legal redress, relying instead on family, NGOs, and community leaders to resolve domestic disputes. Traditional sharia judges handled many domestic violence cases. NGOs reported they sometimes asked police for help to protect victims of domestic violence, but police declined to investigate. The AFCF and other women’s NGOs provided psychologists and shelter to some victims.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits FGM/C, which was practiced primarily on young girls (see section 6, Children).</p>
+<p><u>Sexual Harassment</u>: There are no laws against sexual harassment. Women’s NGOs reported it was a common problem in the workplace.</p>
+<p><u>Reproductive Rights</u>: The government continued to respect the right of individuals and couples to decide freely and responsibly the number, spacing, and timing of their children and to have the information and means to do so free from discrimination, violence, or coercion. Throughout the year the Ministry of Health continued a national family planning program, encouraging intervals between births and distributing contraceptives. Increasing access to reproductive health was also a focus of some women’s groups. Contraception was available at private health centers for those who could afford it. According to the UN Population Fund (UNFPA), approximately 12 percent of women and girls between the ages of 15 and 49 used a modern method of contraception.</p>
+<p>In 2013 the United Nations estimated the maternal mortality ratio at 320 per 100,000 live births. It attributed this high rate to lack of access to emergency obstetric care services, low participation by mothers in programs to promote prenatal care, births without the assistance of health professionals, poor sanitary conditions during birth, and maternal malnutrition. According to the UNFPA, skilled health personnel attended approximately 57 percent of births.</p>
+<p>The AFCF stressed that these deficiencies applied in particular to poor women or those from traditionally lower castes, such as slaves and former slaves, who also often lacked access to contraception, obstetric and postpartum care, and treatment for sexually transmitted infections. The AMSME, which operated a center in Nouakchott for rape victims, provided emergency contraception to survivors.</p>
+<p><u>Discrimination</u>: Women have legal rights to property and child custody, and the more educated and urbanized members of the population recognized these rights. Nevertheless, women had fewer legal rights than men. Divorced women, for example, could lose child custody if they remarried. According to tradition, a woman’s first marriage requires parental consent. The personal status code states men can marry up to four women but must obtain the consent of their existing spouse or spouses before marrying again. Government awareness programs encouraged women to obtain a contractual agreement at the time of marriage stipulating the marriage would end if the husband married a second wife. This practice was common in Moor society. Nevertheless, women who did not establish a solid contract remained unprotected. Moreover, authorities did not always respect either the validity of such prenuptial agreements or the right to establish them. Polygyny continued to be relatively unusual among Moors, although its popularity has grown. The practice was more common among other ethnic groups. Arranged marriages were increasingly rare, particularly among the Moor population. Cultural resistance to intercaste marriage persisted, and NGOs continued to report that powerful individuals used the judicial system to intimidate and persecute members of their families who married below their social rank.</p>
+<p>The law considers women to be minors, and women faced other legal discrimination. According to sharia as applied in the country, the testimony of two women was necessary to equal that of one man. The courts granted only half as large an indemnity to the family of a female victim as that accorded to the family of a male victim. The personal status code provides a framework for the consistent application of secular law and sharia-based family law, but judicial officials did not always respect it. Formulas for property distribution therefore varied widely from case to case. Human rights lawyers also reported judges treated differently cases concerning white Moor women, female slaves or other lower-caste women, and foreign women.</p>
+<p>Women did not face legal discrimination in areas not addressed specifically by sharia. The law provides that men and women should receive equal pay for equal work.</p>
+<p>Women’s groups and national and international NGOs organized meetings, seminars, and workshops throughout the year to publicize women’s rights. On March 8, International Women’s Day, the minister of social affairs, children, and the family convened a conference on women’s influence on development, while a coalition of NGOs organized a series of debates and referenda on women’s rights. There were no reports of either government or industry-sponsored initiatives to combat gender discrimination.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: By law one generally derives citizenship from one’s father. One can derive citizenship from one’s mother under the following two conditions: if the mother is a citizen and the father’s nationality is unknown or is stateless, or if the child was born in the country to a citizen mother and repudiates the father’s nationality a year before reaching majority. Children born abroad to citizens can acquire citizenship one year before reaching majority age of 18. Minor children of parents who have become naturalized citizens are also eligible for citizenship.</p>
+<p>In most of the country, the government generally registered births immediately, although many from members of ethnic and linguistic minorities in the south reported not having birth certificates or national identity papers. Additionally, most slaves did not have birth certificates. While official data on unregistered births were unavailable, the UN Children’s Fund (UNICEF) estimated in 2012 that only 59 percent of children under age five had their births registered. Failure to register often complicated attempts to prove citizenship, acquire passports, or register to vote.</p>
+<p><u>Education</u>: The law mandates six years of school attendance for all children, but the law was not effectively enforced. Many children, particularly girls, attended school for less than six years. Children of slave-caste families often did not receive any education.</p>
+<p><u>Child Abuse</u>: Child abuse was common, but no data were available on its prevalence. Anecdotal evidence suggested the problem was particularly acute within Halpulaar communities, members of which sometimes placed children with religious teachers who could exploit or abuse them. The government did not undertake efforts to combat child abuse.</p>
+<p><u>Early and Forced Marriage</u>: The legal marriage age is 18, but authorities rarely enforced the law, and child marriage was widespread. Parents or legal guardians can request local authorities for permission to marry a girl younger than 18 and were frequently granted permission. The government continued to work with UNICEF to implement a program to combat child marriage through judicial and political reforms. It also cooperated with civil society to disseminate the personal status code, which sets the minimum age for marrying at 18 and requires a woman’s consent to seal a union. According to UNICEF, during the year the percentage of children who were married before age 15 dropped from 19 to 15, while the percentage of those married before age 18 fell from 43 to 35.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: FGM/C was practiced by all ethnic groups and performed on young girls, often on the seventh day after birth and almost always before the age of six months. The Ministry of Social Affairs, Children, and the Family estimated that 69 percent of girls and women between the ages of 15 and 49 had undergone FGM/C. Excision was the most severe form of FGM/C practiced.</p>
+<p>Articles 309 and 310 of the child protection penal code state that any act or attempt to damage a girl’s sexual organs is punishable by imprisonment and a fine of 120,000 to 300,000 ouguiya ($393 to $985). Nevertheless, authorities seldom applied this law, as the accompanying “implementing law” remained provisional. In the course of the year, the government entered the third phase of a five-year FGM/C action plan, which aims to reinforce FGM/C policy and law, offer education and community support, encourage public declarations of FGM/C abandonment, and establish partnerships and public outreach campaigns. The government’s implementation efforts focused on communities in the regions of Gorgol, Guidimaka, Hodh El Gharbi, Hodh Ech Chargui, Assaba, and Tagant.</p>
+<p>The government, international organizations, and NGOs continued to coordinate their anti-FGM/C efforts, which focused on eradicating the practice in hospitals, discouraging midwives from perpetrating FGM/C, and educating the population on its dangers. The government, the UNFPA, UNICEF, and the National Imams’ Association joined other civil society members to emphasize the serious health risks of FGM/C and correct the widespread belief that the practice was a religious requirement. Government hospitals and licensed medical practitioners were prohibited from performing FGM/C, and several government agencies worked to prevent others from perpetrating it. The UNFPA had an agreement with the National School of Health to integrate FGM/C awareness into training curricula for midwives and nurses. According to several women’s rights experts, these efforts appeared to be changing popular attitudes.</p>
+<p>Influential imams issued a regional fatwa against FGM/C following a 2011 roundtable organized by the Forum on Islamic Thought and Dialogue between Cultures, in cooperation with the German Society for International Cooperation. As a follow-up, various religious leaders were actively involved in spreading the news about the fatwa at the local level. The government continued sensitization campaigns against FGM/C.</p>
+<p><u>Other Harmful Traditional Practices</u>: Traditional forms of mistreatment of women continued to decline. One of these is the forced feeding of adolescent girls (gavage) prior to marriage, which is practiced by some white Moor families. Increased government, media, and civil society attention to the problem, including the health risks associated with excessive body weight, continued to reduce its incidence.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits adult sexual relations with a child under 18 years of age (except in cases where the two parties are legally married), with penalties of six months to two years in prison and a fine of 120,000 to180,000 ouguiya ($393 to $590). The possession of child pornography is illegal, with penalties of two months to one year in prison and a fine of 160,000 to 300,000 ouguiya ($525 to $985). Commercial sexual exploitation of children is illegal, and conviction carries penalties of two to five years in prison and a fine of 200,000 to two million ouguiya ($656 to $6,560). NGOs asserted the laws were not properly enforced. In some instances, men from the Middle East contracted “temporary marriages” as a means to traffic and exploit Mauritanian girls and women in the Middle East.</p>
+<p><u>Displaced Children</u>: Although the Ministry of Social Affairs, Children, and the Family monitored approximately 9,000 street children in nine of the country’s 13 regions through its youth integration centers and local NGOs, government assistance to these children was limited. During the year the local NGO Infancy and Development in Mauritania (IDM) monitored 400 children in Nouadhibou who lived on the streets due to poverty and the urbanization of formerly nomadic families. IDM ceased operations in Nouakchott owing to lack of funds.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>A very small number of expatriates practiced Judaism. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt"><u>www.state.gov/j/tip/rls/tiprpt</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in education, employment, or the provision of other state services, and there were no reports of governmental discrimination against persons with disabilities. The law also provides for access to information, communication, existing buildings through retrofitting, and future buildings through amendments to the building code. Authorities did not enforce the law, and persons with disabilities generally did not have access to buildings, information, and communications. There were no other government programs to provide such access. The law provides for access to air transport and other transportation at reduced rates, yet such access was often not available.</p>
+<p>The law provides access to mainstream schools for children with disabilities, and there was one primary school in Nouakchott for children with hearing and vision disabilities. The Ministry of Technical and Vocational Training opens and makes available vocational and educational training institutions for persons with disabilities.</p>
+<p>During the year the government increased its annual disability assistance outlay by 36 percent, allocating 94 million ouguiya ($308,000) to 30 national associations and NGOs working on disability issues. It also contributed 30 million ouguiya ($98,360) in technical assistance. The government did not mandate preference in employment, education, or public accessibility for persons with disabilities, although it provided some rehabilitation and other assistance for such persons. Fifty persons, all of whom were reportedly unable to perform work, received 60,000 ouguiya ($197) in annual disability payments during the year.</p>
+<p>The Ministry of Social Affairs, Children, and the Family oversees social reintegration programs for persons with disabilities. It develops training programs and validates the certificates issued by the institutions created by professional associations of persons with disabilities. Persons with disabilities may file complaints with the ministry and seek additional recourse with the Court of Justice. During the year the ministry received two complaints, four fewer than in 2013.</p>
+<p>Two television news programs continued to broadcast daily on national television using sign language interpreters.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Ethnic minorities faced governmental discrimination. Issuance of national identification cards, which are required for voting, to Western Saharans of white Moor ancestry protected the interests of the historical ruling class at the expense of southern minority groups.</p>
+<p>Racial and cultural tension and discrimination also arose from the geographic and cultural divides between Moors and Afro-Mauritanians. The Moors encompass numerous ethnolinguistic tribal and clan groups and are further distinguished as either white Moors or black Moors, although it is often difficult to distinguish between the two by skin color. White Moor tribes and clans, many of whom are dark-skinned after centuries of intermarriage with Berbers and sub-Saharan African groups, dominated positions in government and business. The black Moors (also called “Haratines” or freed slaves) remained, for the most part, politically, and economically weaker than white Moors. Afro-Mauritanian ethnic groups, which included the Halpulaar (the largest non-Moor group), Wolof, and Soninke, were concentrated in the South and urban areas. They remained underrepresented in the government, industry, and the military officer corps.</p>
+<p>The constitution designates Arabic as the official language and Arabic, Pulaar, Soninke, and Wolof as the country’s national languages. While the government continued to encourage French and Arabic bilingualism within the school system, in August it announced that Arabic would henceforth be the armed forces’ language of internal communication. Neither the Afro-Mauritanian national languages nor the local Hassaniya Arabic dialect was used as a language of instruction.</p>
+<p>Ethnic friction frequently tinged protests and incidents of labor unrest, and on occasion Afro-Mauritanian and black Moor laborers invoked the legacy of slavery to explain their conflict with white Moor freight executives, port officials, retail storeowners, and public safety officers.</p>
+<p>In August national political figures joined local human rights NGOs in accusing security forces of mistreating Afro-Mauritanian citizens during high-profile missing persons’ investigation. For example, they claimed police officers subjected Afro-Mauritanian residents of the southern village of Niabina to arbitrary arrests amid (unfounded) suspicions that locals had abducted and/or murdered a white Moor.</p>
+<p>Ethnic rivalry also contributed to political divisions and tensions. Some political parties tended to have readily identifiable ethnic bases, although political coalitions among parties were increasingly important. Black Moors and Afro-Mauritanians remained underrepresented in mid- to high-level public and private sector jobs.</p>
+<p>Reports of land disputes between former slaves, Afro-Mauritanians, and white Moors were commonplace. According to human rights activists and press reports, local authorities continued to allow white Moors to appropriate land occupied by former slaves and Afro-Mauritanians, to occupy Afro-Mauritanian property unlawfully repossessed by former governments, and to obstruct access to water and pastures.</p>
+<p>Human rights NGOs reported numerous cases of inheritance disputes between slaves or former slaves and their masters. Traditionally, slave masters inherited their slaves’ possessions.</p>
+<p>The government’s Program to Eradicate the Effects of Slavery (PESE), launched in 2009, continued under the auspices of Tadamoun (see section 2.d.). The PESE’s annual budget was 65 million ouguiya ($213,000), less than 1 percent of Tadamoun’s total budget. The PESE’s goals are to reduce poverty among the 44,750 former slaves in the Assaba, Brakna, Gorgol, and Hodh Ech Chargui regions and improve their access to water, health, education, and income-generating opportunities. The government also continued its collaborative program with the United Nations on conflict prevention aimed at promoting democratic values and the rights of marginalized populations, including former slaves.</p>
+<p>One of Tadamoun’s three primary goals is to address the so-called vestiges of slavery. Unlike NGOs active in the struggle against slavery, Tadamoun’s director general is empowered to file official complaints with investigative and judicial authorities against alleged slave masters and on behalf of victims. No such complaints were brought to the attention of prosecutors during the year, however, and its activities were limited to awareness campaigns, agriculture and health projects, and the establishment of a special court to prosecute slavery cases.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>There are no laws that protect lesbian, gay, bisexual and transgender (LGBT) persons from discrimination. Under sharia law as applied in the country, consensual same-sex sexual activity between men is punishable by death if witnessed by four individuals; authorities have never applied this penalty. Same-sex sexual activity between women is punishable by three months to two years in prison and a fine of 5,000 to 60,000 ouguiya ($16.40 to $197). There were no criminal prosecutions during the year, although local press sources alleged that police officials had dismantled a “network” of gay Senegalese men who had “infiltrated” the country. There was no evidence of societal violence, societal discrimination, or systematic acts of government discrimination based on sexual orientation or gender identity. Members of the LGBT community were rarely identified or discussed, likely because of the severity of the stigma and legal penalties attached to such labels. There were no organizations advocating for LGBT rights, but there were no legal impediments to the registration of such groups.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>There was no evidence of governmental discrimination against persons with HIV/AIDS. Although there were no specific reports of societal discrimination, anecdotal evidence suggested that infected persons were isolated due to societal taboos and beliefs associated with the disease.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section7"> </span><span class="st_twitter" st_title="Mauritania #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mauritania - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236382%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law allows all workers, except members of the armed forces and police, to form and join independent unions of their choice at the local and national levels and provides for the right to conduct legal strikes and to bargain collectively. Prior authorization or approval by authorities is required before a union may be recognized. The public prosecutor must authorize all trade unions before they may have legal status. The public prosecutor can provisionally suspend a trade union at the request of the Ministry of Interior if ministry officials believe the union has not complied with the law. The law also provides that authorities may initiate legal proceedings against union leaders who undermine public order or make false statements. This law, in effect, authorizes administrative authorities to dissolve, suspend, or deregister trade union organizations by unilateral decision. Noncitizens do not have the right to become trade union officials unless they have worked in the country and in the profession represented by the trade union for a period of at least five years.</p>
+<p>The law provides for the right to strike, but aggrieved parties must follow long and complex procedures before taking such action. The government can also dissolve a union for what it considers an illegal or politically motivated strike. The law prohibits workers from holding sit-ins or blocking nonstriking workers from entering work premises. Workers must provide advance notice of at least 10 working days to the Ministry of Civil Service and Labor for any strike. Strike procedures were subject to lengthy delays and appeals. The law does not specifically protect workers from antiunion discrimination.</p>
+<p>Bargaining collectively at the national level requires previous authorization or approval by the head of the government, who decides how collective bargaining is organized. No such authorization is required for collective bargaining at the company level. The minister of civil service and labor may call for bargaining between employers, employees, labor unions, and the government. In addition the ministry is entitled to take part in the preparation of collective agreements. The law stipulates the meeting must occur 15 days following the statement of nonagreement between parties.</p>
+<p>Except for police, members of armed forces, and foreign or migrant workers, the law does not exclude any group of workers from relevant legal protections.</p>
+<p>The government did not enforce the law effectively, and resources and inspections were often inadequate. Although it seldom punished violators, on several occasions the government ordered the reinstatement of workers who had been wrongfully terminated, directed companies to improve employee benefits and services, or both.</p>
+<p>Registration and strike procedures were subject to lengthy delays and appeals. Ministry of Civil Service and Labor officials routinely issued notices calling on all parties to negotiate. Such notices legally restrict workers from striking for a period of four months. If negotiations fail to produce an agreement, the case is referred to the Court of Arbitration. If the court fails to broker a mutually satisfactory agreement, employees may wait up to four additional months from the time of the decision before they can legally strike.</p>
+<p>Freedom of association and the right to collective bargaining were not fully respected, although unions exercised their right to organize workers during the year. Worker organizations are independent of the government and political parties, and the government did not dissolve any unions during the year; nonetheless, there were reports of government interference with union activities. According to the reports from the General Confederation of Mauritanian Workers, for instance, the Ministry of Fisheries deducted overtime pay from workers who had engaged in trade union activities as a means of pressuring them to withdraw their union membership. An oil drilling company reportedly dismissed workers who had participated in a strike and promised to reinstate the workers if they agreed to leave the union and work under fixed-term contracts.</p>
+<p>Workers and unions organized several strikes during the year. On February 18, workers demonstrated at the offices of the prime minister against the dismissal of approximately 300 workers of a gold mining company. Security forces dispersed the crowd with tear gas. They then detained approximately 20 workers, including a union leader, at the police station in Nouakchott’s Ksar district.</p>
+<p>Unlike in previous years, there were no reports the government and employers frequently intimidated employees and union representatives to avoid legal processes.</p>
+<p>While antiunion discrimination is illegal, national human rights groups and unions reported that authorities did not actively investigate alleged antiunion practices in some private firms.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, including by children. It also criminalizes the practice of slavery and imposes penalties both on government officials who do not take action on reported cases and on those who benefit from contracting forced labor. Although the government made abstract advances toward ending slavery, such as the adoption of the UN special rapporteur on contemporary slavery’s 2010 “roadmap” to eradicate the practice, its efforts to enforce the law were widely acknowledged to be inadequate given the severity of the problem. Tadamoun, the government agency charged with combating the “vestiges” of slavery, received 7.4 billion ouguiya ($24.3 million) of public funding during the year. Nevertheless, its progress continued to be slow, and it was unclear whether the government funded antislavery initiatives other than the PESE, which operated at lower levels than in years past. Tadamoun’s director general underscored his intention to tackle slavery through indirect means, such as awareness campaigns and local agriculture projects, rather than through referrals to criminal prosecutors.</p>
+<p>There were no convictions for slavery, nor did the government initiate judicial proceedings against other alleged slave masters. Data on the number of victims removed from forced labor during the year were not available. The International Labor Organization (ILO) continued to encourage the government to strengthen its prosecution efforts by ensuring victims could turn to police and judicial authorities to assert their rights. The ILO also urged the government to assure that law enforcement officials conducted investigations promptly, effectively, and impartially. In addition the ILO urged the government to improve its victim protection efforts by adopting and implementing a comprehensive strategy to combat slavery.</p>
+<p>There were reports of forced child labor. Slavery-like practices, which typically flow from ancestral master-slave relationships and involve both adults and children, also continued. Authorities treated some reports of slavery as possible cases of child labor, which carry legal penalties that are substantially less severe than those for slavery. Former slaves and their descendants remained in a dependent status in part due to a lack of marketable skills, poverty, and persistent drought. Such practices occurred primarily in areas where educational levels were generally low or a barter economy prevailed, and in urban centers, including Nouakchott, where slavery-like domestic servitude was relatively common in activities such as in herding livestock, tending fields, and performing other manual labor including household work. Old masters forced some former slaves and descendants of slaves to work in exchange for some combination of lodging, food, and medical care. Individuals in subservient circumstances were also vulnerable to mistreatment. Women with children faced particular difficulties and could be compelled to remain in a condition of servitude, performing domestic duties, tending fields, or herding animals without remuneration.</p>
+<p>Some former slaves reportedly continued to work for their former masters or others under exploitative conditions because they sought to retain access to land that they had farmed, or because of a lack of reintegration programs. Although the law provides for distribution of land to the landless, including to former slaves, authorities rarely enforced it. Both NGO observers and government officials suggested that deeply embedded psychological and tribal bonds made it difficult for many individuals whose ancestors had been slaves for generations to break their bonds with former masters or their tribes. Some persons continued to link themselves to former masters because they believed their slave status had been divinely ordained or feared religious punishment if that bond was broken. Former slaves were often subjected to social discrimination and limited to performing manual labor in markets, ports, and airports.</p>
+<p>Forced labor also occurred in urban centers where young children, often girls, were retained as unpaid household servants. Some individuals self-identified as slaves or masters and claimed with varying degrees of plausibility that they were unaware of the abolition of slavery. Human rights groups reported that masters persuaded persons in slave-like relationships to deny these exploitative relationships to activists.</p>
+<p>NGOs continued to report cases of trafficking in persons for domestic service, street begging for unscrupulous religious teachers, and slave-like relationships as domestic servants or herders. Victims were men, women, and children.</p>
+<p>On August 22, activists from the IRA and El Hor, both leading antislavery NGOs, staged a sit-in at a police station in Nouadhibou to protest the government’s “indifference” to a slavery complaint. The Nouadhibou case involved two women--Vatma Mint Mohamed, a 22-year-old slave, and her alleged mistress, Zeina Mint Babe--who, according to the IRA, had planned to abduct Mint Mohamed and bring her to Dakar. Although police officials questioned Mint Babe in the wake of the complaint, they declined to recommend criminal charges.</p>
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt"><u>www.state.gov/j/tip/rls/tiprpt</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits employment of children under age 12. Children under age 13 may not be employed in the agricultural sector unless the Ministry of Civil Service and Labor grants an exception due to local circumstances. Those younger than age 14 may be employed in most forms of family enterprise with authorization from the Ministry of Civil Service and Labor if the work does not affect the child’s health, exceed two hours per day, or occur during school hours or holidays. The law states that employed children between the ages of 14 and 16 should receive 70 percent of the minimum wage and those who are 17 and 18 should receive 90 percent of the minimum wage. Children should not work more than eight hours a day with one or several one-hour breaks, and they are prohibited from engaging in night work. The law prohibits employing or inciting a child to beg and provides penalties for violations ranging from one to eight months’ imprisonment and a fine of 180,000 to 300,000 ouguiya ($590 to $985).</p>
+<p>The Ministry of Social Affairs, Children, and the Family is the main governmental body responsible for enforcing all laws relating to children. Its Office of Childhood promotes and protects children’s rights, elaborates and executes child welfare programs, coordinates actions in favor of childhood educational development, and elaborates and executes a national policy. The Ministry of Justice is involved through the Direction of the Judiciary for Protection of Children and the Ministry of Interior through the Special Police Brigade for Minors. The Ministry of Civil Service and Labor also collaborates through its Labor Office and Inspection Office.</p>
+<p>Resources, inspections, and remediation were inadequate. The country had 72 inspectors, 42 of whom trained at the National School of Administration. None of the inspectors, however, was responsible solely for investigating compliance with child labor regulations. The Office of Children receives an annual budget of 14 million ouguiya ($45,900), but no funds were specifically allotted for investigations, and no child labor investigations took place during the year.</p>
+<p>Enforcement of laws was inadequate. Penalties for violations, which include three to six months in jail, and fines of up to 240,000 ouguiya ($790), were insufficient to deter violations. According to a 2012 UNICEF report, 16 percent of children ages five to 14 were engaged in labor practices. No mechanisms existed for exchanging information among agencies or assessing effectiveness. There was no specific mechanism for making complaints, other than labor inspectors or the Special Police Brigade for Minors. NGOs were the only organizations that handled cases of child victims, referred them to the Special Brigade for Minors, and pressured the government to adjudicate the cases or integrate the victims in social centers or in schools.</p>
+<p>An unknown number of “talibes” (young students), nearly all from Halpulaar tribes, begged in the streets and gave the proceeds to their “marabouts” (religious teachers) as payment for religious instruction. There were reliable reports that a small number of marabouts forced their talibes to beg for more than 12 hours a day and provided them with insufficient food and shelter. The government continued a program to reduce the number of talibes and cooperated with NGOs to provide talibes with basic medical and nutritional care.</p>
+<p>Child labor in the informal sector was common and a significant problem, particularly within poorer inner city areas. Several reports suggested that, in wealthy urban homes, girls as young as age seven--most from remote regions--were forced to work as unpaid domestic servants.</p>
+<p>Street gang leaders forced children to steal, beg, and sell drugs in the streets of the capital. They also reportedly forced children to work in agriculture, construction, and livestock herding.</p>
+<p>Young children in the countryside were commonly engaged in herding; cultivation of subsistence crops, such as rice, millet, and sorghum; fishing; and other significant labor in support of their families’ activities. Young children in urban areas often drove donkey carts and delivered water and building materials. In keeping with longstanding tradition, many children also served apprenticeships in small industries, such as metalworking, carpentry, vehicle repair, masonry, and the informal sector. The government continued to operate six Centers for Protection and Social Integration of Children in Difficult Situations: two in Nouakchott and one each in Kiffa, Nouadhibou, Rosso, and Aleg.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The labor law prohibits discrimination in employment and occupation based on gender, but it does not prohibit such discrimination based on disability, language, sexual orientation, gender identity, HIV-positive status or other communicable diseases, or social status. In general the government did not effectively enforce the law. The two largest employers, the civil service and the state mining company, observed the law, although most employers in the private sector did not. In the modern wage sector, women also received family benefits, including three months of maternity leave. The government sought to open new employment opportunities for women in areas traditionally filled by men, such as diplomacy, health care, communications, police, and the customs services. The ILO reported a slight increase in the female share of employment in high-status occupations from 28.2 percent in 2005 to 29.9 percent in 2010.</p>
+<p>Discrimination in employment and occupation occurred with respect to race and language. In conformity with long-standing practice, the advancement of black Mauritanians--both Haratines and Afro-Mauritanians--in the armed services remained limited. A new policy governing military correspondence, which named Arabic as the language of internal communication for the armed forces, discriminated against non-Arabic-speaking service members, most of whom were Afro-Mauritanians.</p>
+<p>Discrimination in employment and occupation occurred with respect to race and social status. For example, Haratines often worked for lower wages or received lesser legal protections, despite laws prohibiting such treatment.</p>
+<p>Discrimination against migrant workers also occurred. Despite laws prohibiting such discrimination, migrant workers worked for lower wages, received lesser legal protections, or faced arbitrary restrictions, such as exclusion from the livery service industry.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The nationally mandated minimum monthly wage for adults was 30,000 ouguiya ($100), increased from 21,000 ouguiya ($70) in 2011. The poverty level for 2008 was an annual income of 129,600 ouguiya ($425), and the extreme poverty level for 2008 was an annual income of 96,400 ouguiya ($315).</p>
+<p>The law provides that the standard legal nonagricultural workweek must not exceed either 40 hours or six days without overtime compensation, which was to be paid at rates graduated according to the number of supplemental hours worked. Domestic workers and certain other categories could work 56 hours per week. The law requires that all employees be given at least one 24-hour period of rest per week. There are no legal provisions regarding compulsory overtime. The Labor Office of the Ministry of Civil Service and Labor is responsible for enforcing labor laws but did not do so effectively due to inadequate funding. The total number of work inspectors was 72. The government sets health and safety standards. The law applies to all workers in the formal economy. The labor code protects all workers regardless of nationality.</p>
+<p>According to the General Confederation of Workers of Mauritania, the National Agency of Social Security registered 702 workplace fatalities or injuries through the end of September, which is an increase of 258 compared with 2013. Of this number, 342 occurred at SNIM, the national mining company.</p>
+<p>The majority of the working population labored in the informal sector, primarily in subsistence agriculture and animal husbandry. Only 25 percent of workers had positions with regular pay. The nationally mandated minimum monthly wage was not enforced.</p>
+<p>The law notwithstanding, labor unions pointed to conditions approaching modern slavery in several sectors, including the food processing industry. In these industries workers did not have contracts or receive pay stubs, despite a 2013 law requiring employers to establish written work contracts for day laborers. Their salaries were below the official minimum wage, and they worked in very unfavorable conditions. Sometimes they did not receive pay for several months.</p>
+<p>Working conditions in the fishing industry were similarly difficult. Commercial fishermen reportedly often exceeded 40 hours of work per week without receiving overtime pay. Additionally, some factory workers employed by fish processing plants and boat manufacturers did not receive contracts guaranteeing the terms of their employment. Government inspections of fishing vessels, processing plants, and boat factories remained rare.</p>
+<p>Violations of minimum wage or overtime laws were frequent in many sectors but more common in the informal economy, which includes domestic service, street vending, artisanal fishing, garbage collection, bus fare collection, donkey cart driving, apprenticeship, auto repair, and other employment.</p>
+<p>By law workers can remove themselves from situations that endangered health or safety without jeopardy to their employment, but authorities did not effectively protect employees in these situations. In 2011 the Ministry of Civil Service and Labor adopted a directive to regulate domestic work by establishing minimum conditions of work, contracts, leave time, and access to social security for servants and child-care providers, in line with ILO Convention 189. The government, however, did not adopt the appropriate legal mechanism to implement it. Despite the law, domestic workers could not remove themselves from hazardous conditions without risking loss of employment. Informal sector domestic workers do not receive the same legal protections.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,625 @@
+2014
+Uzbekistan
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656"> </span><span class="st_facebook" st_title="Uzbekistan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236656">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236656</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=executive"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Uzbekistan is an authoritarian state with a constitution that provides for a presidential system with separation of powers among the executive, legislative, and judicial branches. The executive branch under President Islam Karimov dominated political life and exercised nearly complete control over the other branches of government. In 2007 voters elected President Karimov to a third term in office in polling that, according to the limited observer mission from the Organization for Security and Cooperation in Europe (OSCE), deprived voters of a genuine choice. Parliamentary elections took place in December. The preliminary report of the OSCE’s limited observer mission concluded that the elections “were competently administered but lacked genuine electoral competition and debate.” The report further noted that the elections did not “address main concerns with regard to fundamental freedoms that are critical for elections to fully meet international commitments and standards.” The government enforced restrictions on eligible candidates and maintained control of media and campaign financing. Authorities maintained effective control over the security forces.</p>
+<p>The most significant human rights problems included: torture and abuse of detainees by security forces; denial of due process and fair trial; an inability to change the government through elections; and widespread restrictions on religious freedom, including harassment of religious minority group members and continued imprisonment of believers of all faiths.</p>
+<p>Other continuing human rights problems included: incommunicado and prolonged detention; harsh and sometimes life-threatening prison conditions; arbitrary arrest and detention; restrictions on freedom of speech, press, assembly, and association; government restrictions on civil society activity; restrictions on freedom of movement; violence against women; and government-organized forced labor. Authorities subjected human rights activists, journalists, and others who criticized the government, as well as their family members, to harassment, arbitrary arrest, and politically motivated prosecution and detention.</p>
+<p>Government officials frequently engaged in corrupt practices with impunity.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section1"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no confirmed reports that the government or its agents committed arbitrary or unlawful killings.</p>
+<p>The government continued to reject an independent international investigation of the alleged killing by government forces of unarmed civilians in Andijon in 2005. The government did conduct its own investigation of the Andijon incident and produced a report. The death toll varied between the government’s report of 187 and eyewitnesses’ reports of several hundred, for which the government has not held anyone publicly accountable. During its 2013 Universal Periodic Review before the UN Human Rights Council, the government reiterated that it considered the Andijon matter “closed.”</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances. Unconfirmed reports persisted regarding previous disappearances of persons who were present at the 2005 violence in Andijon.</p>
+<p>In its 2014 annual report, the UN Working Group on Enforced or Involuntary Disappearances noted it had eight outstanding cases from previous years, with one case “clarified” during the period between November 2012 and May 2014. The government did not respond to the working group’s 2014 request to visit.</p>
+<p>There were several reports that persons sought by the country’s law enforcement bodies were abducted abroad by Uzbekistan’s secret services, with the acquiescence of national security structures abroad, even when granted asylum status, and forcibly returned to Uzbekistan to stand trial. Lawyers for Mirsobir Hamidkariev, who left the country to escape accusations of association with banned religious organizations, reported to the press that, on June 9, three days before a Russian court decision granting him asylum took effect, Hamidkariev was kidnapped from a taxi in Moscow and forcibly returned by Uzbekistan’s security services, reportedly with the acquiescence of Russian authorities. The government, however, stated that Hamidkariev voluntarily turned himself in to the police on June 17, following an in absentia charge of participation in an extremist organization. On November 18, according to press reports, the Tashkent City Criminal Court convicted Hamidkariev of organizing and participating in the banned religious extremist organization “Islom jihochilari” and sentenced him to eight years in prison. As of December 29, however, the government stated that his case was still with the court awaiting disposition.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>While the constitution and law prohibit such practices, law enforcement and security officers routinely beat and otherwise mistreated detainees to obtain confessions or incriminating information. Sources reported torture and abuse were common in prisons, pretrial facilities, and local police and security service precincts. Reported methods of torture included severe beatings, denial of food, sexual abuse, simulated asphyxiation, tying and hanging by the hands, and electric shock. There also were continued reports that authorities exerted psychological pressure on inmates, including by threats against family members.</p>
+<p>In 2010 the UN Human Rights Committee expressed concerns that the definition of torture in the criminal code was not in conformity with the Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, to which the country is a party. The UN special rapporteur on torture and other cruel, inhuman, or degrading treatment or punishment’s most recent country assessment was in 2003.</p>
+<p>In January the lawyer for human rights activists Fahriddin Tillaev and Nuriddin Jumaniyazov, who were tried in March 2013 on human-trafficking charges, advised Human Rights Watch that she believed both men had been tortured in pretrial custody. Officials reportedly stuck needles between Tillaev’s fingers and toes and forced him to stand for hours under a dripping faucet.</p>
+<p>In January, Nematjon Siddikov of the Human Rights Alliance of Uzbekistan offered a press interview describing detention conditions at Penal Colony No. 61. Siddikov contended that upon arrival convicts were beaten and their heads and hands forcibly immersed in used and unwashed toilets.</p>
+<p>In June, Andrey Vazhenin, recently released from prison, described treatment designed to extract a false confession: three police officers in civilian clothes beat him for two days in the second-floor office of the Mirzo-Ulugbeksky Internal Affairs Department in Tashkent. After the beatings, he said, authorities administered repeated electric shocks and put a plastic bag over his head, in each case resulting in the loss of consciousness.</p>
+<p>In August, Ruhia Bajitova from the Dustlik district of the Jizzakh region reported to human rights advocates that police officer Abdunabi Shakarbaev beat her within days of complaining about shortages in the residential water supply.</p>
+<p>In June human rights activists reported that local Ministry of Internal Affairs’ officials used the pretext of an interview with Alikul Sarymsakov, a Jizzakh farmer and human rights activist, to detain him and forcibly hospitalize him in a psychiatric institution for 16 days. The government stated that Sarymsakov was placed in psychiatric care at the request of his wife and sister “due to his worsening psychological state.” According to the government statement, the medical commission that treated Sarymsakov diagnosed him with “paranoidal psychopathy” and treated him in accordance with the law. In May human rights activist Elena Urlaeva reported to international press that she was subjected to a forced course of psychotropic injections based on a court order. Within approximately one week of the public statement, she reported that a panel of psychiatrists cancelled the treatments.</p>
+<p>Throughout the year authorities reportedly meted out harsher-than-typical treatment to individuals suspected of Islamist extremism. Local human rights workers reported that authorities often offered payment or other inducements to inmates to beat other inmates suspected of religious extremism.</p>
+<p>Officials also reportedly did not grant prisoners’ requests for medical evaluation and treatment. For example, after his release on May 30, Abdurasul Khudoynazarov told human rights activists that, in the eight years he was incarcerated, authorities “consistently ignored” his repeated requests for medical treatment. On the day of his release, Khudoynazarov was diagnosed with liver cancer and tuberculosis. He died on June 26.</p>
+<p>In June, Chuyan Mamatkulov’s wife informed Human Rights Watch that a prison official repeatedly struck her husband on the head with a rubber truncheon after Mamatkulov asked to see a dentist.</p>
+<p>In January, Murod Juraev told human rights activist Surat Ikramov that, although for the first 12 years of his incarceration he was the victim of torture, he had not been tortured in 2013. The family of Salijon Abdurakhmanov reported that after their statements regarding the denial of medical care, he was temporarily transferred from Karshi prison No. 64/51 to prison hospital No. 64/18 in the late fall of 2013 as well as twice during the year.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were in some circumstances harsh and life threatening.</p>
+<p><u>Physical Conditions</u>: The government reported there were approximately 43,900 prisoners, a decrease of an estimated 3,000 prisoners since 2013. Men, women, and juvenile offenders were held in separate facilities. There were reports that in some facilities inmates convicted of attempting to overturn the constitutional order were held separately and that prison officials did not allow inmates convicted under religious extremism charges to interact with other inmates.</p>
+<p>Reports of overcrowding were common, as were reports of severe abuse and shortages of medicine. The government, however, reported an average occupancy rate of 80 percent in its 58 penitentiary facilities. Inmates generally had access to potable water, but inmates and their families reported that, although generally available, water and food were of poor quality. Relatives of prisoners in some instances complained that prison diets did not include sufficient meat. There were reports of political prisoners held in cells without proper ventilation and subjected to extreme temperatures. Family members also reported that officials frequently withheld or delayed delivery of food and medicine intended for prisoners. Unlike in past years, family members of inmates did not report any incidents of sexual abuse.</p>
+<p>Prison administration officials reported an active World Health Organization tuberculosis program in the prisons and an HIV/AIDS treatment and prevention program. Officials reported hepatitis was not present in high numbers and that hepatitis patients received treatment in existing medical facilities and programs.</p>
+<p>Relatives reported the deaths of several prisoners. In some cases family members reported the body of a prisoner showed signs of beating or other abuse, but authorities pressured the family to bury the body before examination by a medical professional.</p>
+<p>In June the Uzbek service of BBC Radio reported that authorities passed the body of former Hizb-ut-Tahrir party leader Abdurakhim Tukhtasinov to his relatives on the night of June 18 and demanded an immediate secret burial. According to Tukhtasinov’s relatives, his body showed signs of severe torture.</p>
+<p><u>Administration</u>: There was no information available regarding whether recordkeeping on prisoners was adequate or whether authorities took steps to improve recordkeeping. Authorities in limited cases used administrative measures as alternatives to criminal sentences for nonviolent offenders. In addition the criminal code mandates several instances in which courts cannot sentence individuals to prison if full restitution has been made.</p>
+<p>The Human Rights Ombudsman’s Office and the Prosecutor General’s Office may investigate complaints from detainees. The Ombudsman’s Office may make recommendations on behalf of specific prisoners, including changes to the sentences of nonviolent offenders to make them more appropriate to the offense.</p>
+<p>Prison officials generally allowed family members to visit prisoners for up to four hours two to four times per year. There were, however, reports that relatives of prisoners held on religious or extremism charges were denied visitation rights. Officials also permitted visits of one to three days two to four times per year, depending on the type of prison facility. Family members of political prisoners reported that officials frequently delayed or severely shortened visits arbitrarily.</p>
+<p>According to the family of Salijon Abdurakhmanov, a freelance journalist who often wrote for Uznews.net, when Abdurakhmanov’s son visited him in the Karshi prison, authorities immediately terminated the visit because “the visiting room’s intercoms were broken.” Officials then reportedly denied requests to move into a room with working intercoms, stating that since the two had seen each other, the right to a visit had already been exercised. Similarly, the wife of religious prisoner and Tajik citizen Zuboyd Mirzorakhimov complained that, when she came from Tajikistan to visit him in Investigation Prison No.1 in Tashkent, prison officials denied the visit without any explanation.</p>
+<p>The government stated that prisoners have the right to practice any religion or no religion, but prisoners frequently complained to family members they were not able to observe religious rituals that conflicted with prison scheduling. Such rituals included traditional Islamic morning prayers. Although some prison libraries had copies of the Quran and the Bible, there were complaints from family members, as in past years, that prisoners were not allowed access to religious materials.</p>
+<p>According to official government procedures, prisoners have the right to “participate in religious worship and ‘family relations, such as marriage.” “Close relatives” also have the right to receive oral and written information from prison officials about the health and disciplinary records of their family members. Nonetheless, families of prisoners continued to report a lack of communication and information from family members in prison and stated that the government continued to withhold information about health and prison records.</p>
+<p>According to family members and some nongovernmental organizations (NGOs), authorities failed to release prisoners, especially those convicted of religious extremism, at the end of their terms. Prison authorities often extended inmates’ terms by accusing them of additional crimes or of violating internal prison rules or claiming the prisoners represented a continuing danger to society.</p>
+<p><u>Independent Monitoring</u>: In April 2013 the International Committee of the Red Cross announced the termination of its program to monitor conditions of detention and the treatment of detainees, citing an inability to follow its standard working procedures and the lack of constructive dialogue with the government.</p>
+<p>As in 2013 independent observers from the international community had limited access to some parts of the penitentiary system, including pretrial detention facilities, juvenile and women’s prisons, and prison settlements. Authorities granted observers access only to certain prisons and to limited areas within them. In January authorities permitted human rights activists Surat Ikramov and Vasila Inoyatova to visit prisoners Murod Juraev and Salijon Abdurakhmanov. Local human rights activists visiting prisons were subject to intense government scrutiny that could constrain their independence and freedom of action.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and the law prohibit arbitrary arrest and detention, but authorities continued to engage in such practices.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The government authorizes three different entities to investigate criminal activity. The Ministry of Interior controls the police, who are responsible for law enforcement, maintenance of order, and the investigation of general crime. The National Security Service (NSS), headed by a chairman who reports directly to the president, deals with a broad range of national security and intelligence problems, including terrorism, corruption, organized crime, and narcotics. Prosecutors investigate violent crimes such as homicide as well as corruption by officials and abuse of power. Where jurisdictions overlap, the agencies determine among themselves which should take the lead. The Ministry of Internal Affairs’ main investigations directorate had internal procedures to investigate abuses and discipline officers accused of human rights violations, but the government rarely punished officials who committed human rights abuses. A human rights and legal education department within the ministry investigated some police brutality cases. The Human Rights Ombudsman’s Office, affiliated with parliament, also has the power to investigate cases, although its decisions on such investigations have no binding authority.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>By law a judge must review any decision to arrest accused individuals or suspects. Judges granted arrest warrants in most cases. Defendants have the right to legal counsel from the time of arrest. State-appointed attorneys are available for those who do not hire private counsel. Officials did not always respect the right to counsel and occasionally forced defendants to sign written statements declining the right. A September law authorizes the use of house arrest as a form of pretrial detention.</p>
+<p>Detainees have the right to request hearings before a judge to determine whether they remain incarcerated or are released. The arresting authority is required to notify a relative of a detainee about the detention and to question the detainee within 24 hours of arrest. There were complaints that authorities tortured suspects before notifying either family members or attorneys of their arrest in order to gain confessions that could be used as the basis for convictions.</p>
+<p>Suspects have the right to remain silent and must be informed of the right to counsel. Detention without formal charges is limited to 72 hours, although a prosecutor can request an additional 48 hours, after which time the person must be charged or released. Authorities held suspects after the allowable period of detention. The judge conducting the arrest hearing is allowed to sit on the panel of judges during the individual’s trial.</p>
+<p>The law requires authorities at pretrial detention facilities to arrange a meeting between a detainee and a representative from the Human Rights Ombudsman’s Office upon the detainee’s request. Officials allowed detainees in prison facilities to submit confidential complaints to the Ombudsman’s Office and the Prosecutor General’s Office.</p>
+<p>Once authorities file charges, suspects can be held in pretrial detention for up to three months while investigations proceed. The law permits an extension of the investigation period for up to one year at the discretion of the appropriate court upon a motion by the relevant prosecutor, who may also release a prisoner on bond pending trial. Authorities frequently ignored these legal protections. Those arrested and charged with a crime may be released without bail until trial on the condition they provide assurance of “proper behavior” and that they will appear at trial.</p>
+<p>A decree requires that all defense attorneys pass a comprehensive relicensing examination. Several experienced and knowledgeable defense lawyers who had represented human rights activists and independent journalists lost their licenses after taking the relicensing examination. As a result several activists and defendants faced difficulties in finding legal representation. Although unlicensed advocates cannot represent individuals in criminal and civil hearings, courts have the discretion to allow such an advocate if s/he belongs to a registered organization whose members are on trial.</p>
+<p><u>Arbitrary Arrest</u>: Authorities continued to arrest persons arbitrarily on charges of extremist sentiments or activities and association with banned religious groups. Local human rights activists reported that police and security service officers, acting under pressure to break up extremist cells, frequently detained and mistreated family members and close associates of suspected members of religious extremist groups. Coerced confessions and testimony in such cases were commonplace.</p>
+<p>In May the Russian Embassy in Tashkent informed the Interfax news agency that Russian businessman Aleksandr Pozdeyev, president of the West-Ural Machine-building Group, was detained for 10 days in Tashkent and that government officials prevented access to a lawyer or consular officials, ostensibly in an effort to recover the $36 million debt his Uzbek partners owed to Uzbekistan. Following a strident Russia-backed media campaign, authorities allowed Pozdeyev to leave the country.</p>
+<p>There were reports that police arrested persons on false charges of extortion, drug possession, or tax evasion as an intimidation tactic to prevent them or their family members from exposing corruption or interfering in local criminal activities.</p>
+<p><u>Pretrial Detention</u>: Prosecutors generally exercised discretion over most aspects of criminal procedures, including pretrial detention. Detainees had no access to a court to challenge the length or validity of pretrial detention. Even when authorities did not file charges, police and prosecutors frequently sought to evade restrictions on the length of time persons could be held without charges by holding them as witnesses rather than as suspects. During the year pretrial detention typically ranged from one to three months. The government did not provide information regarding the number of persons held in pretrial detention centers.</p>
+<p>In February media reports claimed that the daughter of President Karimov, Gulnara Karimova, had been placed under house arrest. In September the country passed a law allowing house arrest as a legal form of pretrial investigative detention. Within a week, the Prosecutor General’s Office confirmed that Karimova’s connection with an organized criminal group was under investigation.</p>
+<p><u>Amnesty</u>: In December the Senate approved the annual prisoner amnesty. According to its terms, women, underage offenders, men over 60, foreign citizens, and persons with disabilities or documented serious illnesses were eligible for amnesty. The bill also included first-time offenders convicted of participation in banned organizations and the commission of crimes against peace or public security who “have firmly stood on the path to recovery.” As in previous years, the amnesty foresaw (with some exceptions) reducing sentences by one-third for all convicts sentenced to up to 10 years’ imprisonment and by one-fourth for those sentenced to more than 10 years. The resolution excludes from the amnesty persons sentenced to life and “lengthy” terms in prison, repeat offenders, and those who “systemically have violated the terms of incarceration.” Amnesty options included release from prison, transfer to a work camp. Courts were also permitted to dismiss criminal cases at the pretrial or trial stage.</p>
+<p>Amnesty for those eligible would actually be implemented in the coming year, subject to official, case-by-case review. Local prison authorities had considerable discretion in determining who qualifies for release, as they determine whether a prisoner is “following the way of correction” or “systematically violating” the terms of incarceration. Officials often cited “violation of internal prison rules” as a reason for denying amnesty and for extending sentences.</p>
+<p>Human rights activists expressed concern that individuals imprisoned for religious extremism or political grounds were not released under the amnesty, although they met criteria for inclusion. In March, for example, the family of Ganikhon Mamatkhanov, a representative of the Fergana region International Society for Protection of Human Rights, reported that officials extended his sentence by three years for allegedly disobeying the orders of the prison administration by using the toilet three times without asking. The government stated that, during his incarceration, Mamatkhanov “did not step on the path of correction, systematically disrupted the incarceration regime and internal institution rules” and therefore received an additional sentence of 27 months following a trial. Other examples included Salijon Abdurakhmanov, Isroil Holdarov, Murod Juraev, and Agzam Turgunov.</p>
+<p>According to government statements, almost 69,000 persons were eligible under the 2013 amnesty implemented in the first quarter of 2014. The vast majority of individuals had cases dismissed in the investigative phase or received reduced sentences if already imprisoned, but 2,095 individuals were released from incarceration.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution provides for an independent judiciary, the judicial branch often took direction from the executive branch.</p>
+<p>Under the law the president appoints all judges for renewable five-year terms. Removal of Supreme Court judges must be confirmed by parliament, which generally complied with the president’s wishes.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The criminal code specifies a presumption of innocence. There were no jury trials. Most trials were officially open to the public, although access was sometimes restricted. Judges may close trials in exceptional cases, such as those involving state secrets, or to protect victims and witnesses. As in the previous year, judges generally permitted international observers at proceedings without requiring written permission from the Supreme Court or court chairman, but there were reports of judges arbitrarily closing proceedings, even in civil cases. Authorities generally announced trials only one or two days before they began, and hearings were frequently postponed numerous times.</p>
+<p>A panel of one professional judge and two lay assessors, selected by committees of worker collectives or neighborhood committees, generally presided over trials. The lay judges rarely spoke, and the professional judge usually accepted prosecutors’ recommendations on procedural rulings and sentencing.</p>
+<p>Defendants have the right to attend court proceedings, confront witnesses, and present evidence, but judges declined defense motions to summon additional witnesses or to enter evidence supporting the defendant into the record. In the vast majority of criminal cases brought to trial, the verdict was guilty. Defendants have the right to hire an attorney, and the system worked reasonably well although some human rights activists encountered difficulties finding legal representation. The government provided legal counsel without charge when necessary. According to reports, state-appointed defense attorneys routinely acted in the interest of the government rather than of their clients because of their reliance on the state for a livelihood.</p>
+<p>By law a prosecutor must request an arrest order from a court; it was rare for a court to deny such a request. Prosecutors have considerable power after obtaining an arrest order: they direct investigations, prepare criminal cases, recommend sentences to judges, and may appeal court decisions, including the sentence. After formal charges are filed, the prosecutor decides whether a suspect is released on bail, stays in pretrial detention, or is kept under house arrest. Although the criminal code specifies a presumption of innocence, a prosecutor’s recommendations generally prevailed. If a judge’s sentence does not correspond with the prosecutor’s recommendation, the prosecutor may appeal the sentence to a higher court. Judges often based their verdicts solely on confessions and witness testimony, which may be extracted through abuse, threats to family members, or other means of coercion. This was especially common in religious extremism cases. Lawyers may, and occasionally did, call on judges to reject confessions and investigate claims of torture. Judges often did not respond to such claims or dismissed them as groundless. Courts failed to investigate properly allegations of torture. Judges verdicts’ frequently alleged that defendants claimed torture in order to avoid criminal responsibility.</p>
+<p>Legal protections against double jeopardy were not applied.</p>
+<p>The law provides a right of appeal to defendants; appeals rarely resulted in reversals of convictions. In some cases, however, appeals resulted in reduced or suspended sentences.</p>
+<p>Defense attorneys may access government-held evidence relevant to their clients’ cases once the initial investigation is completed, the prosecutor files formal charges, and the case is passed to the criminal court. There is an exception, however, for evidence containing information that if released could pose a threat to state security. In the past courts invoked the state security exception, leading to complaints that its primary purpose was to allow prosecutors to avoid sharing evidence with defense attorneys. In many cases prosecution was based solely upon defendants' confessions or incriminating testimony from state witnesses, particularly in cases involving those accused of religious extremism.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Most international and domestic human rights organizations estimated that authorities held hundreds of prisoners on political grounds, but some groups asserted the number was in the thousands. The government maintained that these individuals were convicted of violating the law. Officials released five high-profile prisoners–Nabijon Juraboev, Nematjon Siddikov, Hasan Choriev, Isok Abdullaev, and Abdurasul Khudoynazarov–during the year. Abdurasul Khudoynazarov and Hasan Choriev, both released due to illness, died within one and two months of their release, respectively. Family members of several political prisoners reported abuse in prison and deterioration of the prisoners’ health.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Although the constitution provides for it, the judiciary is not independent or impartial in civil matters. Citizens may file suit in civil courts for alleged human rights violations by officials, excluding investigators, prosecutors, and judges, who fall under different legal procedures. There were isolated reports that bribes to judges influenced civil court decisions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law forbid such actions, authorities did not respect these prohibitions. The law requires that prosecutors approve requests for a search warrant for electronic surveillance, but there is no provision for judicial review of such warrants.</p>
+<p>There were reports that police and other security forces entered the homes of human rights activists and members of some religious groups without a warrant. On multiple occasions members of Protestant and other minority churches who held worship services in private homes reported that armed security officers raided services and detained and fined church members for religious activity deemed illegal under the administrative or criminal code. Among such incidents were raids in Samarkand and Tashkent in March and in Bukhara in April.</p>
+<p>Human rights activists and political opposition figures generally assumed that security agencies covertly monitored their telephone calls and activities.</p>
+<p>The government continued to use an estimated 12,000 neighborhood committees (mahallas) as a source of information on potential extremists. The committees served varied social support functions, but they also functioned as a link from local society to government and law enforcement. Mahallas in rural areas tended to be more influential than those in cities.</p>
+<p>There continued to be credible reports that police, employers, and mahalla committees harassed family members of human rights activists. Examples included harassment directed against family members of human rights activists Uktam Pardaev, and Gulshan Karaeva.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section2"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, but the government did not respect these rights, severely limiting freedom of expression.</p>
+<p><u>Freedom of Speech</u>: The law restricts criticism of the president, and publicly insulting the president is a crime punishable by up to five years in prison. The law specifically prohibits publication of articles that incite religious confrontation and ethnic discord or that advocate subverting or overthrowing the constitutional order.</p>
+<p><u>Press Freedoms</u>: All media entities, foreign and domestic, must register with authorities and provide the names of their founder, chief editor, and staff members. Print media must also provide hard copies of publications to the government. The law holds all foreign and domestic media organizations accountable for the accuracy of their reporting, prohibits foreign journalists from working in the country without official accreditation, and subjects foreign media outlets to domestic mass media laws. The government used accreditation rules to deny foreign journalists and media outlets the opportunity to work in the country.</p>
+<p>Amendments to the Law on Information Technologies, signed in September, hold bloggers accountable for the accuracy of what they post and prohibits posts potentially perceived as defaming an individual’s “honor and dignity.” Limitations also preclude perceived calls for public disorder, encroachment on constitutional order, posting pornography or state secrets, and “other activities which are subject to criminal and other types of responsibilities according to legislation.”</p>
+<p>The government prohibited the promotion of religious extremism, separatism, and fundamentalism as well as the instigation of ethnic and religious hatred. It prohibited legal entities with more than 30 percent foreign ownership from establishing media outlets in the country.</p>
+<p>Articles in state-controlled newspapers reflected the government’s viewpoint. The main government newspapers published selected international wire stories. The government allowed publication of a few private newspapers with limited circulation containing advertising, horoscopes, and some substantive local news, including infrequent stories critical of government socioeconomic policies.</p>
+<p>The government used large-circulation tabloids, such as Darakchi and Bekajon, as platforms to publish articles that criticized lower-level government officials or discredited “Western” ideas, such as mass culture and globalization.</p>
+<p>The government published news stories on the official internet sites of various ministries. A few purportedly independent websites consistently reported the government’s viewpoint. Government-owned media, such as the UzA and Jahon Information Agencies, frequently carried reports about reforms or visits to the country in which foreign experts’ comments were misquoted or embellished.</p>
+<p><u>Violence and Harassment</u>: Police and security services subjected print and broadcast journalists to arrest, harassment, intimidation, and violence, as well as to bureaucratic restrictions on their activity.</p>
+<p>As in past years, the government harassed journalists from state-run and independent media outlets in retaliation for contacts with foreign diplomats, specifically questioning journalists about such contact. Some journalists refused to meet with foreign diplomats face-to-face because doing so in the past resulted in harassment and questioning by the NSS.</p>
+<p>In June the Shaykhanturskiy District Court in Tashkent fined independent journalist Said Abdurahimov, who wrote under the alias Sid Yanyshev, 9.6 million soum ($4,000) for engaging in professional activity without a license and for producing materials posing a threat to public safety and order. The charges stemmed from an article by Yanyshev describing the inadequate compensation the government provided to residents who lost their housing as the result of the construction of Tashkent’s largest mosque.</p>
+<p><u>Censorship or Content Restrictions</u>: Journalists and senior editorial staff in state media organizations reported that some officials’ responsibilities included censorship. In many cases the government placed individuals as editors in chief with the expressed intent that they serve as the main censor for a particular media outlet. There continued to be reports that government officials and employers provided verbal directives to journalists to refrain from covering certain events sponsored by foreign embassies and in some cases threatened termination for noncompliance. As in past years, regional television outlets broadcast some moderately critical stories on local issues, such as water, electricity, and gas shortages as well as corruption and pollution.</p>
+<p>The government continued to refuse Radio Free Europe/Radio Liberty, Voice of America, and the BBC World Service permission to broadcast from within the country, although the websites of Voice of America and the BBC were periodically accessible within the country.</p>
+<p>Government security services and other offices regularly directed publishers to print articles and letters under fictitious bylines and gave explicit instructions about the types of stories permitted for publication. There was often little distinction between the editorial content of a government and a privately owned newspaper. Journalists engaged in little investigative reporting. Widely read tabloids occasionally published articles that presented mild criticism of government policies or discussed some problems that the government considered sensitive, such as trafficking in persons.</p>
+<p><u>Libel Laws/National Security</u>: The criminal and administrative codes impose significant fines for libel and defamation. The government used charges of libel, slander, and defamation to punish journalists, human rights activists, and others who criticized the president or the government.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government generally allowed access to the internet, including social media sites. Internet service providers, allegedly at the government’s request, routinely blocked access to websites or certain pages of websites that the government considered objectionable. The government blocked several domestic and international news websites and those operated by opposition political parties.</p>
+<p>The media law defines websites as media outlets, requiring them to register with the authorities and provide the names of their founder, chief editor, and staff members. Websites were not required to submit hard copies of publications to the government.</p>
+<p>According to government statistics, approximately 33 percent of individuals in the country used the internet. Unofficial estimates, especially of access of the internet through mobile communications devices, were higher. Several active online forums allowed registered users to post comments and read discussions on a range of social problems. To become a registered user in these forums, individuals must provide personally identifiable information. It was not clear whether the government attempted to collect this information.</p>
+<p>A decree requires all websites seeking the “.uz” domain to register with the state Agency for Press and Information. The decree generally affected only government-owned or government-controlled websites. Opposition websites and those operated by international NGOs or media outlets tended to have domain names registered outside the country.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government continued to limit academic freedom and cultural events. Authorities occasionally required department-head approval for university lectures, and university professors generally practiced self-censorship.</p>
+<p>Although a decree prohibits cooperation between higher educational institutions and foreign entities without the explicit approval of the government, foreign institutions often were able to obtain such approval through the Ministry for Foreign Affairs, especially for foreign-language projects. Some school and university administrations, however, continued to pressure teachers and students to refrain from participating in conferences sponsored by diplomatic missions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly, but the government often restricted this right. Authorities have the right to suspend or prohibit rallies, meetings, and demonstrations for security reasons. The government often did not grant the permits required for demonstrations. Citizens were subject to large fines for violating procedures for organizing of meetings, rallies, and demonstrations or for facilitating unsanctioned events by providing space, other facilities, or materials. Regulations issued in July require organizers of “mass events” with the potential participation of more than 100 persons to sign agreements with the Ministry of Interior for the provision of security prior to advertising or holding such an event. This regulation was broadly applied, even to private, corporate functions.</p>
+<p>Authorities dispersed and occasionally detained persons involved in peaceful protests and sometimes pressed administrative charges following protest actions. In January authorities arrested the participants in an unsanctioned demonstration in support of Ukraine’s Maidan movement. Participants, including Umida Akhmedova, Timur Karpov, Ashot Danelyan, Aleksey Ulko, and Artyom Liudny, submitted a letter of support for the movement to the Ukrainian Embassy in Tashkent and photographed themselves holding Ukrainian and Georgian flags, in plain view of local police. After publication of the photographs on the internet, authorities arrested the participants, sentencing Ulko, Danelyan, and Liudny to 15 days’ detention each. In addition female participants were initially fined 1.92 million soum ($800) and male participants 2.88 million soum ($1,200) for holding an unsanctioned demonstration; the next day authorities doubled some of the fines. In March the Ministry of the Interior issued an official ban on a rally by the unregistered Day Laborers Union, citing concerns about possible provocations.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>While the law provides for freedom of association, the government continued to restrict this right. The government sought to control NGO activity and expressed concerns about internationally funded NGOs and unregulated Islamic and minority religious groups. The operating environment for independent civil society, in particular human right defenders, remained restrictive. Activists reported increased government control and harassment.</p>
+<p>There are legal restrictions on the types of groups that may be formed, and the law requires that all organizations be registered formally with the government. Registration requirements were used to bar foreign NGOs from the country. The law allows for a six-month grace period for new organizations to operate while awaiting registration from the Ministry of Justice, during which time the government officially classifies them as “initiative groups.” Several NGOs continued to function as initiative groups for periods longer than six months.</p>
+<p>NGOs intending to address sensitive issues, such as HIV/AIDS or refugee problems, often faced increased difficulties in obtaining registration. The government allowed nonpolitical associations and social organizations to register, but complicated rules and a cumbersome bureaucracy made the process difficult and created opportunities for government obstruction. The government compelled most local NGOs to join a government-controlled NGO association that allowed the government considerable oversight over the NGOs’ funding and activities. The government required NGOs to coordinate their training sessions or seminars with government authorities. NGO managers believed this amounted to a requirement for prior official permission from the government for all NGO program activities.</p>
+<p>The degree to which NGOs were able to operate varied by region because some local officials were more tolerant of NGO activities, particularly when coordinated with government agencies. Civil society activists in some regions continued to report local officials were more willing to cooperate following a 2010 speech by the president on the need to expand democratization and strengthen civil society. Despite new regulations ostensibly simplifying registration requirements and lowering registration fees, independent civil society groups reported that these have not simplified registration procedures. In addition civil society groups reported that, once a group is registered, authorities put in place restrictive requirements, including obtaining advance permission for many public activities, from the Ministry of Justice.</p>
+<p>The administrative liability code imposes large fines for violations of procedures governing NGO activity as well as for “involving others” in illegal NGOs. The law does not specify whether “illegal NGOs” are those the government suspended or closed or those that were unregistered. The administrative code also imposes penalties against international NGOs for engaging in political activities, activities inconsistent with their charters, or activities the government did not approve in advance.</p>
+<p>The government continued to enforce the 2004 banking decree, ostensibly designed to combat money laundering, which complicated efforts by registered and unregistered NGOs to receive outside funding. The Finance Ministry required humanitarian aid and technical assistance recipients to submit information about their bank transactions. The Ministry of Justice required NGOs to submit detailed reports every six months on any grant funding received, events conducted, and events planned for the next six months. Leaders of NGOs may be fined for conducting events without explicit permission from the ministry. The fine is several times higher than those for some criminal offenses.</p>
+<p>The parliament’s Public Fund for the Support of Nongovernmental, Noncommercial Organizations, and Other Civil Society Institutions continued to conduct grant competitions to implement primarily socioeconomic projects. During the year the fund awarded 3.8 billion soum ($1.6 million) in grants to nongovernmental and noncommercial organizations. Some civil society organizations criticized the fund for primarily supporting government-organized NGOs. The law criminalizes membership in organizations the government broadly deemed “extremist</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and laws provide for freedom of internal movement, foreign travel, emigration, and repatriation, but the government limited these rights, in particular through the continued requirement for citizens to receive an exit visa for travel outside the Commonwealth of Independent States (CIS).</p>
+<p><u>In-country Movement</u>: Citizens were required to have a domicile registration stamp in their passport before traveling domestically or leaving the country, and the government at times delayed domestic and foreign travel and emigration during the visa application process. Permission from local authorities was required to move to Tashkent City or Tashkent Region; authorities rarely granted such permission without the payment of bribes.</p>
+<p>The government required hotels to register foreign visitors with the government on a daily basis. Foreigners who stay in private homes were required to register their location within three days of arrival. Government officials closely monitored foreigners in border areas, but foreigners generally could move within the country without restriction.</p>
+<p><u>Foreign Travel</u>: The government occasionally closed borders around national holidays due to security concerns. The government generally granted the exit visas required of citizens and foreign permanent residents for travel or emigration outside the CIS. Exit visa procedures, however, allow authorities to deny travel on the basis of “information demonstrating the inexpedience of the travel.” According to civil society activists, these provisions were poorly defined and denials cannot be appealed. On February 6, authorities issued a decree that requires a biometric passport for travel abroad after July. There were multiple reports of significant delays in the issuance of new passports, which in some cases could reportedly be minimized by bribes.</p>
+<p>Ostensibly to combat trafficking in persons, government regulations require male relatives of women between the ages of 18 and 35 to submit a statement pledging that the women would not engage in illegal behavior, including prostitution, while abroad.</p>
+<p>Although the law prescribes that authorities should reach decisions on issuing exit visas within 15 days, reports continued that the government delayed exit visas for human rights activists and independent journalists to prevent their travel. Authorities continued to deny an exit visa to human rights advocate Shukhrat Rustamov because of unpaid fines. Rustamov had challenged the legality of the fines but had not received any response to his appeals. Authorities similarly prevented human rights activist Khaitboy Yakubov from obtaining an exit visa. Violating rules for exiting or entering the country is punishable by imprisonment of five to 10 years.</p>
+<p>While citizens generally could travel to neighboring states, land travel to Afghanistan remained difficult, because citizens needed permission from the NSS.</p>
+<p><u>Emigration and Repatriation</u>: The law does not provide for dual citizenship. In theory returning citizens must prove to authorities that they did not acquire foreign citizenship while abroad or face loss of citizenship. Citizens possessing dual citizenship generally traveled without impediment.</p>
+<p>The government noted that citizens residing outside the country for more than six months could voluntarily register with the country's consulates. As in the previous year, there were no reports that failure to register rendered stateless those citizens residing abroad or children born abroad.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The laws do not provide for the granting of asylum or refugee status, and the government has not established a system for providing protection to refugees.</p>
+<p><u>Refoulement</u>: The government provided some protection against the expulsion or return of refugees to countries where their lives or freedom would be threatened due to their race, religion, nationality, membership in a particular social group, or political opinion.</p>
+<p>In the absence of a resident Office of the UN High Commissioner for Refugees (UNHCR), the UN Development Program (UNDP) continued to assist with monitoring and resettlement processing of 82 pending (predominantly Afghan) refugee cases involving 141 individuals; such cases predated the closure of the UNHCR in 2006. During the year the UNDP and temporary duty UNHCR staff processed two cases involving seven persons. Because the UNDP does not process new claims or make refugee status determinations, it referred potential applicants to UNHCR offices in neighboring countries.</p>
+<p>The government did not consider UNHCR mandate certificates as a basis for extended legal residence; persons carrying such certificates must apply for either tourist visas or residence permits or face possible deportation. Residence permits were difficult to obtain, and there were cases in which law enforcement bodies revoked residence permits, forcing refugees to leave the country. The government considered UNHCR mandate refugees from Afghanistan and Tajikistan to be economic migrants, and officials occasionally subjected them to harassment and demands for bribes. Most refugees from Tajikistan were ethnic Uzbeks. Unlike refugees from Afghanistan, those from Tajikistan were able to integrate into the local communities, and the local population supported them.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>Some refugees from Tajikistan were officially stateless or faced the possibility of becoming officially stateless, as many carried only old Soviet passports rather than Tajik or Uzbek passports. Children born to two stateless parents could receive Uzbek citizenship only if both parents have a residence permit.</p>
+<p>Although official data on the number of stateless persons were not available, authoritative human rights activists estimated that there were 3,000 stateless persons in Xorazm Province and Karakalpakstan. Most of these individuals reportedly were women who had married and lived in neighboring Turkmenistan prior to the country’s independence in 1991. There also were reports of stateless populations in Sirdaryo and Qashkadaryo Provinces.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section3"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>While the constitution and law provide citizens the ability to change their government through free and fair elections, the government did not conduct free and fair elections, severely restricted freedom of expression, and suppressed political opposition. The president oversaw a highly centralized government through sweeping decree powers, primary authority for drafting legislation, and control over government appointments, most of the economy, and the security forces..</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: Following 2007 elections that the OSCE monitoring group considered did not meet international democratic standards, President Karimov began a third term. The constitution prohibits a president from seeking a third term in office, a contradiction that the government did not address publicly. The OSCE’s limited election observation mission noted that, while there were more candidates than in previous elections, all candidates publicly endorsed President Karimov’s policies and there were procedural problems and irregularities in vote tabulation.</p>
+<p><u>Political Parties and Political Participation</u>: The law allows independent political parties, but the Ministry of Justice has broad powers to oversee parties and to withhold financial and legal support to those they judge as opposed to the government. The preliminary report of the OSCE’s limited observer mission to parliamentary elections in December concluded the elections “were competently administered but lacked genuine electoral competition and debate.” The report further noted the elections did not “address main concerns with regard to fundamental freedoms that are critical for elections to fully meet international commitments and standards.” The government limited participation in the December parliamentary elections solely to candidates nominated by the four registered propresidential parties and maintained control of the media and electoral financing. The OSCE preliminary report also underlined that proxy voting was widespread and “may have influenced the turnout,” reported by the Central Election Commission at 89 percent. At least one human rights activist claimed that, without proxy voting, turnout would not have been sufficient for the elections to meet the legal minimum participation threshold.</p>
+<p>The law makes it difficult for genuinely independent political parties to organize, nominate candidates, and campaign. A new party must have the signatures of 20,000 individuals living in at least eight of the country’s provinces in order to register. The procedures to register a candidate are burdensome. The law allows the Ministry of Justice to suspend parties for as long as six months without a court order. The government also exercised control over established parties by controlling their financing and media exposure.</p>
+<p>The law prohibits judges, public prosecutors, NSS officials, members of the armed forces, foreign citizens, and stateless persons from joining political parties. The law prohibits parties that are based on religion or ethnicity; oppose the sovereignty, integrity, or security of the country, or the constitutional rights and freedoms of citizens; promote war or social, national, or religious hostility; or seek to overthrow the government. The law also prohibits the Islamist political organization Hizb-ut-Tahrir, stating it promotes hate and condones acts of terrorism.</p>
+<p>The government banned or denied registration to several political parties following the 2005 Andijon violence. Former party leaders remained in exile, and their parties struggled to remain relevant without a strong domestic base.</p>
+<p>Participation of Women and Minorities: There were 24 women in the 150-member lower chamber of parliament, and 15 women in the 100-member Senate, along with two women in the 28-member cabinet. During the December parliamentary elections, in accordance with the law, just over 30 percent of candidates were women.</p>
+<p>There were 11 members of ethnic minorities in the lower house of parliament and 11 members of ethnic minorities in the Senate.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section4"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but the government did not implement the law effectively. Although there were reports of an increased number of corruption-related arrests, corruption was endemic, and officials engaged frequently in corrupt practices with impunity. The Ministry of Interior’s Department for Combating Corruption, Extortion, and Racketeering and the Office of the Prosecutor General’s Department for Combating Economic Crimes and Corruption are responsible for preventing, investigating, and prosecuting corruption cases.</p>
+<p><u>Corruption</u>: The government reported that during the first nine months of the year, 451 government officials dealing with law enforcement were tried and sentenced for crimes including embezzlement, extortion, abuse of power, bribery, exceeding legal authority, and, in one case, torture. The 451 individuals included 12 judges, three court employees, 30 employees of the General Prosecutor’s Office, 285 employees of the Ministry of Internal Affairs, 28 employees of the Ministry of Justice, one employee of the NSS, 49 employees of the tax authority, 38 customs employees, and five lawyers. Of these, 51 individuals were fined, 328 incarcerated, 67 sentenced to labor, and five barred from exercising specific rights. Within the same time, authorities initiated 477 criminal cases against 654 law enforcement personnel, and as a result, 554 individuals faced criminal charges.</p>
+<p>In May authorities arrested the governor of the Dustlik District (who is also a national senator), Sayfiddin Sheraliev, for accepting bribes from the director of the Jizzakh cotton factory, who was also arrested. Corruption among law enforcement personnel remained a problem. Police routinely and arbitrarily extorted bribes. In May, Radio Free Europe/Radio Liberty reported the arrest of Andijon’s city prosecutor, Azizbek Mamatkhujaev, on charges of bribery. In June authorities reportedly arrested more than 100 customs officials for corruption. In August authorities reportedly arrested Ibrokhim Dekhkonboev, the Qashkadaryo Province’s NSS chief, for corruption, as well as Sanjar Yuldoshev, chief of the division in supervising the activity of law enforcement organs.</p>
+<p><u>Financial Disclosure</u>: Government officials are required to disclose only income from outside employment, and such disclosures were not made available to the public.</p>
+<p><u>Public Access to Information</u>: The public did not generally have access to government information. The government seldom reported information normally considered in the public domain, although many government ministries and bodies had an internet presence that offered some information.</p>
+<p>During the year the government introduced an e-government initiative to provide a “single window” website intended to ultimately deliver more than 200 government services to individuals and businesses and allow them to contact government entities electronically.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section5"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic human rights groups operated in the country, although the government often hampered their activities in a variety of ways. The government frequently harassed, arrested, and prosecuted human rights activists. As in past years, there were reports that activists were under particularly strict control of law enforcement officers around the September 1 Independence Day holiday, the December 8 Constitution Day holiday, and the May 13 anniversary of the Andijon events.</p>
+<p>The government officially acknowledged two domestic human rights NGOs: Ezgulik and the Independent Human Rights Organization of Uzbekistan. Others were unable to register but continued to function at both the national and local levels.</p>
+<p>Organizations that attempted to register in previous years and remained unregistered included the Humanitarian Legal Center, Human Rights Society of Uzbekistan, the Expert Working Group, and Mazlum (Oppressed). These organizations did not exist as legal entities but continued to function, despite difficulty renting offices and conducting financial transactions. They could not open bank accounts, making it virtually impossible for them to receive funds. Unregistered groups were vulnerable to government prosecution. In certain cases, however, government representatives participated with unregistered groups in events.</p>
+<p>Government officials spoke informally with domestic human rights defenders, some of whom noted that they were able to resolve cases of human rights abuses through direct engagement with authorities.</p>
+<p>Occasional attacks against human rights activists continued. Human rights defenders repeatedly also alleged they were subject to spurious criminal and administrative charges and other retribution in response to their activism.</p>
+<p><u>The United Nations or Other International Bodies</u>: With the exception of the International Labor Organization, the government continued to restrict the work of international bodies and severely criticized their human rights monitoring activities and policies.</p>
+<p>Although the OSCE has been able to do limited work on human rights problems since 2006, the government approved several proposed OSCE projects during the year, including in the “human dimension,” the human rights component of the OSCE’s work.</p>
+<p>The government has not permitted a UN special-mandate holder to monitor human rights problems in the country for more than 10 years, despite a request for a visit from the UN Office of High Commissioner for Human Rights pending since 2006.</p>
+<p><u>Government Human Rights Bodies</u>: The Human Rights Ombudsman’s Office stated that its goals included promoting observance and public awareness of fundamental human rights, assisting in shaping legislation to bring it into accordance with international human rights norms, and resolving cases of alleged abuse. The Ombudsman’s Office mediated disputes between citizens who contact it and made recommendations to modify or uphold decisions of government agencies, but its recommendations were not binding. The Ombudsman’s Office received a total of 11,000 complaints in 2013, the most recent data available.</p>
+<p>The National Human Rights Center is a government agency responsible for educating the public and officials on the principles of human rights and democracy and for ensuring that the government complies with its international obligations to provide human rights information.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section6"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law and constitution prohibit discrimination on the basis of race, gender, disability, language, and social status. Nonetheless, societal discrimination against women and persons with disabilities existed, and child abuse persisted.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law prohibits rape, including rape of a “close relative,” but the criminal code does not specifically prohibit spousal rape, and the courts did not try any known cases. Cultural norms discouraged women and their families from speaking openly about rape, and the press rarely reported it.</p>
+<p>The law does not specifically prohibit domestic violence, which remained common. While the law punishes physical assault, police often discouraged women from making complaints against abusive partners, and officials rarely removed abusers from their homes or took them into custody. Human rights contacts, however, reported greater willingness by local police and officials to address reports of domestic violence, including in Jizzakh Province and in the traditionally conservative Fergana Valley. Society considered the physical abuse of women to be a personal rather than criminal matter. Family members or elders usually handled such cases, and they rarely came to court. Local authorities emphasized reconciling husband and wife, rather than addressing the abuse.</p>
+<p>There were no reported cases in which women attempted or committed suicide as a result of domestic violence, although those active in women’s issues suggested that there could be unreported cases. According to observers, the usual reason for suicide was conflict with a husband or mother-in-law, who by tradition exercised complete control over a wife. There were no government-run shelters or hotlines for victims of domestic abuse, and very few NGOs focused on domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: Although not specifically prohibited by law, FGM/C was not practiced in the country.</p>
+<p><u>Sexual Harassment</u>: The law does not explicitly prohibit sexual harassment, but it is illegal for a man to coerce a woman who has a business or financial dependency into a sexual relationship. Social norms and the lack of legal recourse made it difficult to assess the scope of the problem.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals generally had the right decide freely and responsibly the number, spacing, and timing of their children and to have the information and the right to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. There continued, however, to be periodic media reports that the government directed doctors to sterilize women to control the birth rate and skew infant mortality data. Contacts in the human rights and health care communities confirmed there was anecdotal evidence suggesting that sterilizations without informed consent occurred, although it was unclear whether the practice was widespread and whether senior government officials directed it.</p>
+<p>Contraception generally was available to men and women. In most districts maternity clinics were available and staffed by fully trained doctors, who gave a wide range of prenatal and postpartum care. There were reports that more women in rural areas than in urban areas chose to give birth at home without the presence of skilled medical attendants.</p>
+<p><u>Discrimination</u>: The law prohibits discrimination based on gender, and the National Women’s Committee promoted the legal rights of women. Women historically have held leadership positions across all sectors of society, although they were not as prevalent as men, and cultural and religious practices limited their effectiveness. The government provided little data that could be used to determine whether women experienced discrimination in access to employment or credit or were paid less for substantially similar work. The labor code prohibits women from working in many industries open to men.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived by birth within the country’s territory or from one’s parents. The government generally registered all births immediately.</p>
+<p><u>Medical Care</u>: While the government provided equal subsidized health care for boys and girls, those without an officially registered address, such as street children and children of migrant workers, did not have access to government health facilities.</p>
+<p><u>Child Abuse</u>: Society generally considered child abuse to be an internal family matter; little official information was available on the subject.</p>
+<p><u>Early and Forced Marriage</u>: The minimum legal age for marriage is 17 for women and 18 for men, although a district mayor may lower the age by one year in exceptional cases. The Women’s Committee and mahalla (neighborhood) representatives conducted systematic awareness-raising campaigns among the population about the harm caused by child marriage and early births. The Women’s Committee regularly held public meetings with community representatives and girls in schools to raise awareness of the importance of education, self-reliance, financial independence, and the right to free choice. Child marriage had a prevalence rate of 7.2 percent. In some rural areas, girls as young as 15 occasionally were married in religious ceremonies not officially recognized by the state.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: Although not specifically prohibited by law, FGM/C was not practiced in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: The law seeks to protect children from “all forms of exploitation.” Involving a child in prostitution is punishable by a fine of 25 to 50 times the minimum monthly salary and imprisonment for an unspecified length of time.</p>
+<p>The minimum age for consensual sex is 16. The punishment for statutory rape is 15 to 20 years’ imprisonment. The production, exhibition, and/or distribution of child pornography (involving persons younger than 21) is punishable by fine or by imprisonment for up to three years.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see <a href="http://travel.state.gov/content/childabduction/english/country/uzbekistan.html"><u>travel.state.gov/content/childabduction/english/country/uzbekistan.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Jewish leaders reported high levels of acceptance in society. There were no reports of anti-Semitic acts or patterns of discrimination against Jews. The Jewish community was unable to meet the registration requirements necessary to have a centrally registered organization, but there were eight registered Jewish congregations. Observers estimated the Jewish population at 10,000, concentrated mostly in Tashkent, Samarkand, and Bukhara. Their numbers continued to decline due to emigration, largely for economic reasons.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s Trafficking in Persons Report at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt</u></a>/.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with disabilities, but there was societal discrimination against those with disabilities.</p>
+<p>According to official statistics, there were 550,000 persons with disabilities, but activists believed the actual number may be more than three million. The government continued efforts to confirm the disability levels of citizens who received government disability benefits. Officially, authorities did so to ensure the legitimacy of disability payments, but unconfirmed reports suggested that, in the process, authorities unfairly reduced benefits to some persons with disabilities.</p>
+<p>The law allows for fines if buildings, including private shops and restaurants, are not accessible, and activists reported that authorities fined individuals or organizations in approximately 2,500 cases during the year. A 2013 law reduced the fine for failing to create the necessary conditions for persons with disabilities from 6.4 to 9.2 million soum ($2,680 to$3,830) to 2.2 million soum ($920). Disability activists reported that accessibility remained inadequate, noting, for example, that many of the high schools constructed in recent years had exterior ramps but no interior modifications to facilitate access by wheelchair users.</p>
+<p>The Ministry of Health controlled access to health care for persons with disabilities, and the Ministry of Labor and Social Protection facilitated employment of persons with disabilities. No information was available regarding patterns of abuse in educational and mental health facilities.</p>
+<p>The labor law states that all citizens enjoy equal employment rights, but disability rights activists reported that discrimination occurred (see section 7.d.) and estimated that 90 percent of persons with disabilities were unemployed. The government indicated 17,000 jobs were set aside for persons with disabilities. There were no government programs to ensure access to buildings, information, and communications, and activists reported particular difficulties with access. Activists also reported instances in which persons with disabilities were not provided sign language interpreters during police investigations and court hearings.</p>
+<p>According to the government, of the 78,964 children with disabilities in the country, 9,739 attended public schools, 17,328 attended 84 specialized schools, 10,064 were home schooled, and 21,291 attended one of 195 specialized preschool centers. Students studied braille books published during Soviet times. There were computers adapted for people with vision disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The constitution states that all citizens are equal, regardless of ethnic background, and provides for equal protection of all residents by the courts, irrespective of national, racial, or ethnic origin. The country had significant Tajik (5 percent) and Russian (5.5 percent) minorities and smaller Kazakh and Kyrgyz minorities. There was also a small Romani population in Tashkent, estimated at fewer than 50,000 individuals. Complaints of societal violence or discrimination against members of these groups were rare.</p>
+<p>The constitution also provides for the right of citizens to work and to choose their occupations. Although the law prohibits employment discrimination on the basis of ethnicity or national origin, ethnic Russians and other minorities occasionally expressed concern about limited job opportunities (see section 7.d.). Officials reportedly reserved senior positions in the government bureaucracy and business for ethnic Uzbeks, although there were numerous exceptions.</p>
+<p>The law does not require Uzbek language ability to obtain citizenship, but language often was a sensitive issue. Uzbek is the state language, and the constitution requires that the president speak it. The law also provides that Russian is “the language of interethnic communication.”</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Sexual relations between men are punishable by up to three years’ imprisonment. Although there have not been any known arrests or convictions under this provision since 2003, according to the lesbian, gay, bisexual, and transgender (LGBT) community, police and other law enforcement personnel used the threat of arrest or prosecution to extract heavy bribes from gay men. The law does not criminalize same-sex sexual activity between women.</p>
+<p>Same-sex sexual activity was generally a taboo subject in society, and there were no known LGBT organizations. There were no reports of official or societal discrimination based on sexual orientation or gender identity in employment, housing, statelessness, or access to education or health care, but observers attributed the absence of such reports principally to the social taboo against discussing same-sex relationships. In September a group of unidentified men reportedly beat a transvestite identified as “Dilshod.”</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>According to statistics provided to the press by the Republican Center for Combating AIDS, as of January 1, there were 28,136 HIV-positive individuals in the country. Persons known to be HIV positive reported social isolation and discrimination by public agency workers, health personnel, law enforcement officers, landlords, and employers after their HIV status became known. The military summarily expelled recruits in the armed services found to be HIV positive. The government’s restrictions on local NGOs left only a handful of functioning NGOs to assist and protect the rights of persons with HIV/AIDS. No credible demographic or health survey data dealing with HIV/AIDS was publicly available.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section7"> </span><span class="st_twitter" st_title="Uzbekistan #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Uzbekistan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236656%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including related regulations and statutory instruments, generally provides the right of workers to form and join independent unions and bargain collectively. The law does not make clear whether, in the absence of a trade union, other bodies elected by workers could be given the authority to bargain collectively. The law neither provides for nor prohibits the right to strike. The law prohibits antiunion discrimination. Volunteers in public works and workers employed by individuals without documented contracts do not have legal protection.</p>
+<p>The government did not effectively enforce applicable laws, and there were no independent unions. Resources, inspections, and remediation were inadequate, and penalties for violations were insufficient to deter violations. Workers generally did not exercise their right to form and join unions due to fear that attempts to create alternative unions (see below) would be quickly repressed. Unions remained centralized and dependent on the government.</p>
+<p>The state-run Board of the Trade Union Federation of Uzbekistan incorporated more than 35,800 primary organizations and 14 regional trade unions; according to official reports, 60 percent of employees in the country participated in the federation. Leaders of the federation were appointed by the President’s Office rather than elected by the union members or board. All regional and industrial trade unions at the local level were state managed.</p>
+<p>Unions and their leaders were not free to conduct activities without interference from the employer or from government-controlled institutions. Unions were government-organized institutions with little bargaining power aside from some influence on health and work safety issues, and workers did not exercise collective bargaining rights. For example, the Ministry of Labor and Social Protection and the Ministry of Finance, in consultation with the Council of the Trade Union Federation, set wages for government employees. In the small private sector, management established wages or negotiated them individually with persons who contracted for employment. There was no state institution responsible for labor arbitration.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, except as legal punishment for such offenses as robbery, fraud, or tax evasion or as specified by law. The government did not effectively enforce these laws.</p>
+<p>Government-compelled forced labor occurred during the cotton harvest, when local authorities striving to meet nationally set production quotas applied varying amounts of pressure to heads of governmental organizations, private businesses, and educational institutions to mobilize third-course college and lyceum students (generally, but not always, over the age of 18), teachers, medical workers, government personnel, military personnel, and nonworking segments of the population to pick cotton in most parts of the country. Adults typically earned around 220 soum ($0.09) per 2.2 pounds of cotton picked. Adults were expected to pick 120 to 154 pounds per day. The resulting daily wage was 12,000 to 15,400 soum ($5.00 to $6.40) per day. Working conditions varied greatly by region. There continued to be scattered reports of inadequate food and lodging, and there were also reports of students without access to clean drinking water.</p>
+<p>The scope of such mobilizations differed significantly from region to region. For the third consecutive year, the government effectively forbade the mobilization of children under 15. For the first time, the government also attempted to enforce a prohibition on the mobilization of children under 18, although in the last weeks of the cotton harvest some local authorities mobilized 16- and 17-year-old students.</p>
+<p>Credible reports suggested that the forced mobilization of adult state workers during the cotton harvest increased over the previous year to compensate for the loss of underage workers. Authorities continued to expect many teachers and school administrators to participate in the harvest, either as supervisors or cotton pickers. The majority of schools, colleges, and lyceums remained open with a reduced faculty, but there were reports of colleges being closed or cancelling classes in certain regions due to staffing shortages. The loss of public-sector workers during the cotton harvest adversely affected communities, as medical procedures often were deferred and essential public services delayed.</p>
+<p>There were reports the government forced teachers, students, including children (see section 7.c.), employees in private businesses, and others to work in construction, non-cotton agriculture, and cleaning streets and parks.</p>
+<p>Also see the Department of State’s Trafficking in Persons Report at <a href="http://www.state.gov/j/tip/rls/tiprpt"><u>http://www.state.gov/j/tip/rls/tiprpt</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law sets the minimum working age at 16 and provides that work must not interfere with the studies of those younger than 18. The law establishes a right to part-time light work beginning at age 15, and children with permission from their parents may work a maximum of 24 hours per week when school is not in session and 12 hours per week when school is in session. The law does not allow children under age 15 to be involved with "light work," even if it does not interfere with education or hinder the health or development of the child, but this provision was not always observed. Children between 16 and 18 may work 36 hours per week while school is out of session and 18 hours per week while school is in session. Decrees stipulate a list of hazardous activities forbidden for children younger than 18 and prohibit employers from using children to work under specified hazardous conditions, including underground, underwater, at dangerous heights, and with dangerous equipment in the manual harvesting of cotton. Children were employed in agriculture, in family businesses such as bakeries and convenience stores, and as street vendors.</p>
+<p>During the year the government conducted its own monitoring for child labor in the cotton sector using International Labor Organization (ILO) methodology, in contrast with 2013, when an ILO-led mission monitored the harvest. The ILO trained monitors but did not participate in the monitoring exercise except to monitor the application of its methodology. The government identified 41 children under age 18 picking cotton.</p>
+<p>The law does not explicitly provide authority for inspectors from the Ministry of Labor and Social Protection to enforce the child labor laws, which is a shared responsibility of the Ministry of Labor and Social Protection, the prosecutor general, the Ministry of the Interior, and the Ministry of the Interior’s general criminal investigators. As in 2013 the Office of the Prime Minister took the lead role in coordinating enforcement of its decree to keep children out of cotton fields. Local officials often participated by forming monitoring groups to ensure that parents and schools did not allow their children to pick cotton. It was unclear whether the Ministry of the Interior conducted inspections in the agricultural sector. There were no known prosecutions for child labor during the year. As noted above, forced child labor was employed during the cotton harvest, although at a diminished level from previous years.</p>
+<p>Children worked in the cultivation and picking of cotton. In contrast with past years, however, the presence of 15- to 18-year-old children was the result of localized occurrences rather than nationwide mobilization. During the fall harvest, some administrators closed colleges and universities. Officials at some universities sent students to pick cotton for as long as up to eight weeks, during which time they stayed in tented work camps or schools near the fields a long distance away from the university.</p>
+<p>There were some students as young as age 10 working in the fields, although these cases appeared to be uncommon and largely did not appear to be cases of government labor mobilizations. Authorities generally took steps to address these reports, but there were isolated unconfirmed reports of several mobilizations of entire classrooms of children under age 15. The government continued to mobilize third-course college and lyceum students, who were generally 18 years old or older. There were reports, however, that this practice resulted in the incidental mobilization of 17-year-old students in the same class. In the last weeks of the cotton harvest, some local authorities in the provinces of Jizzakh and Syrdaryo, as well as in the Autonomous Republic of Karakalpakstan, mobilized 16- to 17-year-old students for up to two weeks in contravention of the national decree. As in past years, there were individual reports that educational institutions threatened to expel students who did not participate in the harvest or that required students to sign statements indicating their “voluntary” participation in the harvest.</p>
+<p>Also see the Department of Labor’s Findings on the Worst Forms of Child Labor at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The law and regulations prohibit discrimination based on race, gender, and language. The labor code states that differences in the treatment of individuals deserving of the state’s protection or requiring special accommodation, including women, children, and the disabled, are not to be considered discriminatory. Laws do not prohibit discrimination on the basis of sexual orientation or gender identity. HIV-positive individuals are legally prohibited from being employed in certain occupations, including those in the medical field that require direct contact with patients, with blood or blood products, as well as in cosmetology or haircutting. The government generally did not effectively enforce those laws and regulations.</p>
+<p>Discrimination did occur with respect to employment and occupation for HIV-positive individuals. Foreign migrant workers enjoy the same legal protections as Uzbek workers as long as their employers follow all legal procedures for their employment. Enforcement of employment law is lax, primarily due to insufficient staffing of relevant entities, and endemic corruption.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The national minimum monthly wage, used primarily to calculate salaries in the public sector as well as various taxes and duties, was 96,105 soum ($40.04) per month between December 2013 and August 2014. On September 1, it increased 12 percent to 107,635 soum ($44.85). Officials defined the poverty level as consumption of fewer than 2,100 calories per day, but the government did not publish any income indicators of poverty. According to the government, 17 percent of the population lived below the poverty level, but some unofficial estimates using different indicators put the figure as high as 77 percent. According to the government, the unemployment rate was 5.2 percent, although unofficial estimates put this number much higher. According to unofficial statistics, approximately 60 percent of the employed population had low-productivity and low-income jobs.</p>
+<p>The law establishes a standard workweek of 40 hours and requires a 24-hour rest period. The law provides overtime compensation as specified in employment contracts or as agreed with an employee’s trade union. Such compensation can be provided in the form of additional pay or leave. The law states that overtime compensation should not be less than 200 percent of the employee’s average monthly salary rate. Additional leave time should not be less than the length of actual overtime work. An employee may not work more than 120 hours of overtime per year, but this limitation was not generally observed, particularly in the public sector. The law prohibits compulsory overtime.</p>
+<p>The Ministry of Labor and Social Protection establishes and enforces occupational health and safety standards in consultation with unions. Reports suggested that enforcement was not effective. Although regulations provide for safeguards, workers in hazardous jobs often lacked protective clothing and equipment. Labor inspectors conducted routine inspections of small- and medium-sized businesses once every four years and inspected larger enterprises once every three years. In addition the ministry or a local governor’s office could initiate a selective inspection of a business, and special inspections were conducted in response to accidents or complaints.</p>
+<p>Approximately five to eight labor inspectors staffed offices in each of the country’s 14 administrative units, and there also were specialized offices for major industries, such as construction, mining, and manufacturing. Labor inspectors usually focused on the private sector, while inspections of state-owned enterprises were considered pro forma. Penalties reportedly were often selective, and in many cases employers reportedly were able to mitigate penalties through informal agreements with inspectors. According to the law, health and safety standards should be applied in all sectors. The law remained unenforced in the informal economy, where employment was usually undocumented. During the year the Ministry of Labor and Social Protection, in cooperation with the tax authorities, inspected all private clinics to target the widespread practice of employing specialists without employment contracts.</p>
+<p>The law provides that workers may legally remove themselves from hazardous work if an employer failed to provide adequate safety measures for the job. Workers generally did not exercise this right, as it was not effectively enforced, and employees feared retribution by employers. The law requires employers to insure against civil liability for damage caused to the life or health of an employee in connection with a work injury, occupational disease, or other injury to health caused by the employee’s performance on the job. No cases were reported under the law.</p>
+<p>According to official sources, approximately 360,000 full-time employees (out of 12 million) received the minimum salary. In 2013 the president signed an amendment to the labor code that raised the minimum monthly salary for full-time employees in the public sector to 230,000 soum ($95.80). There were no official statistics concerning the average monthly wage, but most experts estimated a figure of 780,000 soum ($325) before taxes. This level did not include wages in the agricultural sector. Reliable data or estimates on actual average household income were not available.</p>
+<p>The government and official media did not publish data on the number of employees in the informal economy. Many such employees had official part-time or low-income jobs. There were no effective government programs to provide social protections to workers in the informal economy. Violations of wage, overtime, and occupational health and safety standards were most common in the public sector.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

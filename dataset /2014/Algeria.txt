@@ -1,0 +1,635 @@
+2014
+Algeria
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592"> </span><span class="st_facebook" st_title="Algeria" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236592">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236592</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li>
+<a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=executive"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Algeria is a multi-party republic whose head of state and government (the president) is elected by popular vote for a five-year term. The president has the constitutional authority to appoint and dismiss cabinet members and the prime minister. There are no presidential term limits, and President Abdelaziz Bouteflika has been in office since 1999. Voters re-elected Bouteflika in the April 17 presidential elections. Foreign observers characterized the elections as largely peaceful but noted low voter turnout and a high rate of ballot invalidity. The 2012 legislative elections did not result in significant changes to the composition of the government. Authorities generally maintained effective control over the security forces.</p>
+<p>The three most significant continuing human rights problems were restrictions on the freedom of assembly and association, lack of judicial independence and impartiality, and overuse use of pretrial detention.</p>
+<p>Other human rights concerns were the excessive use of force by police, including alleged torture; limitations on the ability of citizens to change their government; widespread corruption accompanied by reports of limited government transparency; and societal discrimination against persons with disabilities, persons living with HIV/AIDS, and lesbian, gay, bisexual, and transgender (LGBT) persons. Women faced violence and discrimination, and there was some reported child abuse. Additionally, the government maintained restrictions on worker rights and did not actively combat conditions of forced labor.</p>
+<p>The government did not take steps to investigate, prosecute, or punish officials in the security forces and elsewhere in the government who committed violations. Impunity for police and security officials remained a problem, and the government rarely provided information on actions taken against officials accused of wrongdoing.</p>
+<p>Abuses by illegal paramilitary forces remained a significant problem. Terrorist groups committed several attacks against civilians and government officials and targeted military personnel in particular.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section1"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>Military personnel confronted terrorists affiliated with several groups, including al-Qaida in the Islamic Maghreb (AQIM) and its affiliates, the Movement for Unity and Jihad in West Africa, and al-Murabitoun. The website of the Ministry of Defense reported that as of mid-December military services conducted raids on strongholds and killed approximately 95 individuals during mutual exchanges of fire. See also section 1.g.</p>
+<p>Terrorists remained active in the country and perpetrated attacks directed towards government officials and security services personnel. The deadliest attack occurred on April 19, when a group of armed men ambushed an army convoy in Tizi Ouzou, killing 11 soldiers. AQIM claimed responsibility for the attack.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>In May the UN Human Rights Council Working Group on Enforced or Involuntary Disappearances submitted 17 cases of enforced or involuntary disappearances to the government. All cases occurred between 1994 and 1996, and the disappeared individuals were all reported last seen at a security installation or in the presence of security officials.</p>
+<p>Armed individuals abused civilians, including kidnappings, false checkpoints, and extortion, particularly in areas east of Algiers and in the southern portion of the country. Kidnappings in Tizi Ouzou Province remained a problem. Activists claimed that armed groups kidnapped 82 persons since 2004 and that the culprits remained unpunished. Figures on total ransom payments were unavailable, since the government maintained a strict no-concessions policy with regard to individuals or groups holding its citizens hostage.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits torture, but nongovernmental organizations (NGOs) and local human rights activists alleged that government officials sometimes employed torture and abusive treatment to obtain confessions. Government agents can face prison sentences of between 10 and 20 years for committing such acts, but there were no convictions during the year. There were no reported cases of prosecution of civil or military security service officials. The government maintains internal lists of prosecutions and convictions of security officials. Local and international NGOs asserted that impunity was a problem.</p>
+<p>On May 18, authorities arrested two police officers accused of raping a young woman inside a police station. The woman stated the officers threatened to imprison her and her male friend for public consumption of alcohol that they had in their vehicle if she did not submit to sexual relations with them. After being released the woman and her friend went to another police station and filed a complaint. Authorities collected DNA confirming the rape and arrested the two officers. As of October police would not provide comment on the status of charges filed against the officers.</p>
+<p>On June 11, security forces detained Bedjah El Hadj Ahmed Ali, a young man from the Ghardaia Mozabite community, for allegedly assaulting a gendarme. Multiple sources reported, with accompanying photos, that guards at the Ghardaia prison beat him with their fists, feet, and police batons while his hands were cuffed behind his back. No charges were known to have been filed against the alleged aggressors.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards.</p>
+<p>A September 2013 presidential decree dissolved the Central Bureau of the Judicial Police under the Intelligence and Security Department (DRS), taking away its authority to detain individuals and hold them in separate detention facilities. A June presidential decree, however, reinstated this authority and permitted it to manage prison facilities.</p>
+<p><u>Physical Conditions</u>: According to the latest statistics provided in November 2013, the Ministry of Justice’s General Directorate for Prison Administration and Resettlement (DGAPR) maintained approximately 65,000 prisoners in 142 prisons and detention facilities. The government specifically utilized two facilities for prisoners age 27 and younger. Of the prison population, 75 percent was under age 30 the day of incarceration. The DGAPR maintained different categories of prisons that separated prisoners among facilities according to the general length of their sentences. Several detention facilities reportedly operated at 200 to 300 percent of capacity. Some observers, including government-appointed human rights officials, attributed overcrowding in pretrial detention facilities to “excessive use” of pretrial detention.</p>
+<p>Officials generally held male and female prisoners separately, with conditions reportedly better for women than for men. Officials held juveniles separately from adults. In a change from 2013, authorities generally transferred pretrial detainees, after presenting them before the prosecutor, to prisons and did not hold them in separate detention facilities collocated with police stations. Some individuals detained at DRS facilities prior to the September 2013 decree claimed abuse by security service officers, but there was no evidence that physical conditions at these facilities were markedly worse than those at standard prison facilities.</p>
+<p>Prisoners received a food ration worth 80 dinar (DZD) ($1) per day. Prison guards allegedly received DZD 100 ($1.25) for food. Large numbers of prisoners continued their education while in prison. In July, 3,596 detainees passed their middle school and high school equivalence exams.</p>
+<p><u>Administration</u>: The law permitted the substitution of community service for imprisonment for nonviolent, first-time offenders whose crimes carry a maximum prison sentence of three years or less. No ombudsman existed to serve on behalf of prisoners or detainees. Prisoners could submit uncensored complaints to penitentiary administration, doctors, and their judge. It is unclear how frequently the complaints or requests were collected. Authorities permitted family members to visit prisoners in standard facilities weekly and to provide detainees with food and clothing, although frequently holding inmates in prisons very far from their families discouraged visits. In the majority of the prisons, nonfunctional telephones further exacerbated the difficulty for detainees to maintain regular contact with family. Muslim holy days were observed within all prisons. Authorities permitted prisoners, including Christian detainees, to participate in religious events and provided them with prayer space to receive their respective religious representatives.</p>
+<p><u>Independent Monitoring</u>: While the government allowed the International Committee of the Red Cross (ICRC) and local human rights observers to visit regular prisons and detention centers, it refused access to military prison facilities. In 2013 the ICRC conducted 35 visits to more than 18,100 detainees located at 29 different facilities. ICRC delegates paid special attention to vulnerable detainees, including foreigners, women, minors, and individuals held for security reasons.</p>
+<p><u>Improvements</u>: Authorities improved prison conditions in efforts to meet international standards. Recordkeeping improved from 2013, when the DGAPR adopted an electronic recordkeeping system. Since 2012 the government constructed 13 new, modern prisons and provided additional resources, such as fireproof blankets and mattresses. The DGAPR improved medical services during the year by employing medical staff at all prison facilities.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Overuse of pretrial detention remained a problem. Authorities held individuals detained as terrorism suspects at facilities administered by the DRS. Security forces routinely detained individuals who conducted activities against the order of the state such as protesting, striking, or rioting. Arrested individuals reported that authorities held them for four to eight hours before releasing them without charges.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The 130,000-member Gendarmerie Nationale, which performs police functions outside of urban areas under the auspices of the Ministry of National Defense, and the approximately 200,000-member Surete Nationale (DGSN), or national police, organized under the Ministry of Interior, share general responsibility for maintaining law and order. The DRS is organized under the Ministry of National Defense, and its various units perform law enforcement functions related specifically to terrorism and national security.</p>
+<p>Impunity remained a problem. The law provides mechanisms to investigate abuses and corruption, but the government did not provide public information on disciplinary or legal action against police, military, or other security force personnel, citing morale and security concerns.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>According to the law, police must obtain a summons from the Prosecutor’s Office to require a suspect to appear in a police station for preliminary questioning, but this was not uniformly done. Authorities also use summonses to notify and require the accused and the victim to attend a court proceeding or hearing. Police may make arrests without a warrant if they witness the offense. Public lawyers reported that authorities usually carried out procedures for warrants and summonses properly.</p>
+<p>The constitution specifies that authorities may hold a suspect in detention for up to 48 hours without charge. If more time is required for gathering additional evidence, police may request that the prosecutor extend the suspect’s detention to 72 hours. Authorities may hold those suspected of terrorism for acts committed domestically or abroad or subversion for 12 days without charge or access to counsel under the law. Confessions and statements garnered during this period--which a prosecutor’s application to a judge may extend--may be used in court. The initial court appearance of a suspect in terrorism matters is not public. At the end of the 12-day period, the detainee has the right to request a medical examination by a physician of choice within the jurisdiction of the court. Otherwise, the judicial police appoint a doctor. The certificate of the medical examination is entered into the detainee’s file.</p>
+<p>There is no system of bail. In nonfelony cases and in cases of individuals involved in terrorism that have exceeded a 12-day period plus any authorized extension, suspects often were released on provisional liberty, referred to as “judicial control,” while awaiting trial. Under provisional liberty status, suspects are required to report periodically to the police station in their district and reside at an agreed-upon address, and may not leave the country until the case reaches a disposition.</p>
+<p>Judges rarely refused prosecutorial requests to extend preventive detention, which by law may be appealed. Should the detention be overturned, the defendant has the right to request compensation.</p>
+<p>Most detainees have prompt access to a lawyer of their choice, and the government provides legal counsel to indigent detainees. Authorities held some detainees incommunicado without access to their families or lawyers and reportedly abused them physically and mentally.</p>
+<p><u>Arbitrary Arrest</u>: Although the law prohibits arbitrary arrest and detention, authorities sometimes used vaguely worded laws to arrest and detain individuals considered to be disturbing public order. Both Amnesty International and the United Nations (UN) special rapporteur on freedom of speech criticized the law prohibiting unauthorized gatherings and called for amendment of the law to require only notification as opposed to application for authorization. These observers, among others, pointed to the law as a significant source of arbitrary arrests intended to suppress activist speech. Police arrested protesters in Algiers and elsewhere in the country throughout the year for violating the law against unregistered public gatherings. In the months leading up to the presidential election in April, media sources publicized several reports of police arresting demonstrators protesting against President Bouteflika’s candidacy for a fourth term. Police generally released those arrested several hours after their detention or the following day. On March 1, police arrested Zineb Benzita, a journalist for Echourouk Television, in front of the Benyoucef-Benkhedda College for being present at a rally protesting against President Bouteflika’s candidacy. Benzita maintained he was not participating in the rally but only reporting on the event. Authorities detained several other reporters as well.</p>
+<p>On April 16, police arrested Mohand Kadi and his Tunisian friend, Moez Benncir, in Algiers during a sit-in organized by the Barakat (Enough) movement, one of the newly formed opposition entities. Kadi was a member of the Youth Action Rally, a social activism youth group. Despite witness accounts that the two were not participating in the rally but at a nearby coffee shop, authorities charged both for unlawful assembly. On May 18, a court sentenced both men to six months’ imprisonment, suspended the sentences, and released them the following day after 33 days in detention.</p>
+<p>On June 10, a Ghardaia court convicted Youcef Ouled Dada, a private citizen, for “harming a national institution” and “humiliation of a statutory body.” The judge fined Dada DZD 100,000 ($1,250) and sentenced him to two years in jail for posting a video on Facebook that captured three police officers in the act of looting in the troubled city of Ghardaia. Dada denied taking the video but admitted publishing it on Facebook. Local human rights organizations repeatedly called for his release.</p>
+<p><u>Pretrial Detention</u>: The law does not provide a person in detention the right to a prompt judicial determination of the legality of the detention. Prolonged pretrial detention remained a serious issue. Observers believed pretrial detainees comprised approximately 10 percent of the total detainee and prisoner population. AI alleged that authorities sometimes detained individuals on security-related charges in excess of the 12-day prescribed period.</p>
+<p><u>Detention of Rejected Asylum Seekers or Stateless Persons</u>: Country representatives of the Office of the UN High Commissioner for Refugees (UNHCR) reported that authorities respected UNHCR refugee documentation and did not detain or deport individuals in possession of asylum-seeker certificates.</p>
+<p><u>Amnesty</u>: In July, as he did in 2013, President Bouteflika pardoned 5,000 detainees convicted of misdemeanor-level crimes.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>While the constitution provides for an independent judiciary, the president exercises supreme judicial authority, and the executive branch limited judicial independence. The judiciary was not impartial and was often subject to influence and corruption. The constitution provides for the right to a fair trial, but authorities did not always respect legal provisions regarding defendants’ rights. The High Judicial Council is responsible for judicial discipline and the appointment of all judges. President Bouteflika serves as the president of the council.</p>
+<p>On June 8, several dozen persons from various civil society organizations gathered in front of the Laghouat city hall to protest what they perceived to have been the unjust government distribution of social housing. In the course of the protest, demonstrators’ clash with security forces resulted in damaged property. During the trial several defendants admitted to participating in the rally but denied their involvement in acts of violence. On June 18, in a one-day trial, a Laghouat court sentenced 26 of the protesters to prison terms of six months to two years. Human Rights Watch (HRW), an NGO monitoring the case, stated the court sentenced the individuals without confirming their participation or identity.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, but authorities did not always respect legal provisions regarding defendants’ rights. Defendants are presumed innocent and have the right to be present and to consult with an attorney provided at public expense if necessary. Most trials are public and all are nonjury. Defendants may confront or question witnesses against them or present witnesses and evidence on their behalf. Past reports pointed out that courts occasionally denied defendants and their attorneys’ access to government-held evidence, but there were very few reports of such incidents during the year. Defendants have the right to appeal. The testimony of men and women has equal weight under the law.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>International and local observers alleged that authorities used antiterrorism laws and restrictive laws on public assembly to detain political activists.</p>
+<p>At a press conference in April at the Algerian League for the Defense of Human Rights (LADDH), family members of prisoners incarcerated since the 1990s called for their release, stating they were being held as political prisoners without trial. The number of political prisoners held and the status of protection given to them were not known.</p>
+<p>The government maintained that it did not hold any political prisoners, and officials stated that the above-referenced political prisoners were individuals convicted on charges relating to terrorism. The government permitted the ICRC to visit detainees held for “security reasons.”</p>
+<p>On April 23, authorities released blogger Abdelghani Aloui on provisional liberty pending trial. Authorities arrested Aloui in September 2013 and charged him with incitement of terrorism. As of December there was no date set for his trial.</p>
+<p>On August 10, a prominent Arabic newspaper published an article reporting that more than 140 prisoners who were formerly members of the dissolved political party, Islamic Salvation Front, were still in prison.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The judiciary was neither independent nor impartial in civil matters and lacked independence in some human rights cases. Family connections and status of the parties involved influenced decisions. Individuals may bring lawsuits, and administrative processes related to amnesty may provide damages to the victims or their families for human rights violations and compensation for alleged wrongs.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, although government authorities infringed on citizens’ privacy rights. According to human rights activists, the government conducted frequent electronic surveillance of political opponents, journalists, human rights groups, and suspected terrorists. Security officials reportedly searched homes without a warrant. Security forces conducted unannounced home visits.</p>
+<p>Leaders of opposition parties claimed the government gained unlawful access to their personal and private information, and its media apparatus publicized this information (see also section 2.a.).</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>
+				g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p><u>Killings</u>: Security services continued their campaign against terrorists and violent criminal organizations (see section 1.a.) which remained active in the country.</p>
+<p>On November 28, clashes between youth protesters demanding housing and potable water and antiriot police in the city of Touggourt resulted in the deaths of three persons and more than 30 injured. On November 29, Minister of Interior Tayeb Belaiz suspended the head of the subprefecture of Touggourt as well as its chief of security, calling the dismissals “a first-measure” response. The governor of the province of Ouargla, where Touggourt is located, announced on December 1 the distribution of 3,800 plots of land to the inhabitants of the province.</p>
+<p><u>Abductions</u>: On September 21, a group of armed men calling themselves Jund al-Khalifa (Soldiers of the Caliphate), an alleged splinter group of AQIM that pledged allegiance to the Islamic State in the Levant, kidnapped--and two days later executed--French national Herve Pierre Gourdel near Ain el-Hammam, approximately 20 miles southeast of Tizi Ouzou in the Kabylie region.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section2"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>Although the constitution provides for freedom of speech and press, the government restricted these rights. The government’s techniques included harassment of critics in the run-up to the presidential election, control of advertising space and printing capabilities, accusations of defamation, and informal pressure on publishers, editors, and journalists.</p>
+<p><u>Freedom of Speech</u>: Individuals were not able to criticize the government publicly. Authorities arrested and detained citizens for doing so, and citizens practiced self-restraint in voicing public criticism. The law criminalizing speech about the conduct of the security forces during the internal conflict of the 1990s remained in force, although there were no cases of arrest or prosecution under the law during the year. The law provides for up to three years’ imprisonment for tracts, bulletins, or flyers that “may harm the national interest” or up to one year for defaming or insulting the president, parliament, army, or state institutions. Government officials monitored political meetings. Authorities used laws against slander of public officials to restrict public discussion.</p>
+<p>During the presidential campaign, opposition politicians frequently became the subject of official government slander and smear campaigns. Leaders of opposition parties claimed the government and its media apparatus publicized their personal and private information. Members of the Barakat movement claimed frequent police intimidation, breaches of privacy, and political pressure. Security forces reportedly used force on, beat, and arrested members of the movement during its rallies.</p>
+<p><u>Press Freedoms</u>: The National Agency for Publishing and Advertising (ANEP) controls public advertising for print media. According to the NGO Reporters without Borders, private advertising exists but frequently comes from businesses with close links to the ruling political party. More than 100 daily newspapers depended on advertising authorized by ANEP to finance their operations.</p>
+<p>Many political parties, including legal Islamist parties, had access to the independent press and used it to express their views. Opposition parties also disseminated information via the internet and published communiques. Journalists from independent media expressed frustration over the near impossibility of receiving information from public officials. Print media outlets relied on the government for physical printing materials and operations. Eight newspapers closed during the year due to the inability to pay their debts to government-associated businesses.</p>
+<p>In April, ANEP discontinued all advertising from public businesses and services for the daily newspapers, <i>Djazair News</i> and <i>Algerie News</i>. The editor-in-chief of <i>Algerie News</i>, Massinissa Boudaoud, stated that this ban on advertising funding was reprisal for the newspaper’s known opposition to President Bouteflika’s run for a fourth term. In July the Algiers Printing Society, a state-run printing agency, suspended printing of the two newspapers due to unpaid debts.</p>
+<p>Organizations wishing to initiate regular publications must obtain authorization from the government. The law requires the director of the publication to hold Algerian citizenship. The law additionally prohibits local periodicals from receiving direct or indirect material support from foreign sources. The 2013 annual report by the National Consultative Commission for the Promotion and Protection of Human Rights (CNCPPDH), a governmental organization, cited discrimination against members of the private press and the inability of journalists to access information and protect their sources as its primary human rights concerns (see also section 5).</p>
+<p><u>Violence and Harassment</u>: The government did not take steps to preserve the safety or independence of the media. Government officials arrested and temporarily detained journalists. Several journalists reported being physically attacked, while many stated the government harassed and intimidated them due to their reporting. Security forces repeatedly targeted journalists covering protests against President Bouteflika’s candidacy for a fourth term.</p>
+<p>On March 1, security forces arrested the information director of Al-Atlas Television, Hafnaoui Ghoul, for his involvement in peaceful protests against President Bouteflika’s candidacy for a fourth term. Authorities released him the same day. On March 11, nine gendarmes in plainclothes raided the Al-Atlas headquarters and studios in Algiers and confiscated dozens of video cameras and photography equipment. On March 12, the government interrupted Al-Atlas Television’s broadcasting without notification. In the afternoon dozens of gendarmes again raided the channel’s headquarters and seized recording and computing devices, including personal telephones and laptops belonging to journalists and technicians. Gendarmes searched the premises once more on March 13, confiscated other electronic equipment, and cut off internet communications.</p>
+<p>On March 17, police detained Meziane Abane, a journalist for <i>El Watan Weekend</i> and an active member of the Barakat opposition movement, while in a hotel room in Batna, 300 miles east of Algiers. He apparently planned to report on public anger in the region following statements made by President Bouteflika’s campaign manager, Abdelmalek Sellal, that allegedly mocked a citizen’s Berber origins. Police released Abane the following day.</p>
+<p><u>Censorship or Content Restrictions</u>: Some major news outlets faced direct and indirect retaliation for criticism of the government.</p>
+<p>Al-Atlas Television recorded material in the country but broadcast from Jordan. The Ministry of Communication issued a temporary license to the company in 2013 to operate in this manner. According to the company’s lawyers, when they applied for an extension to this license during the year, authorities told them that a renewal was not necessary, because a new media law regulating private television programming would soon be enacted. Parliament passed the new law in January, and it became effective on March 23. As of December, Al-Atlas did not have permission to broadcast.</p>
+<p><u>Libel Laws/National Security</u>: NGOs and observers criticized the law on defamation as vaguely drafted and the definitions therein as failing to comport with internationally recognized norms. The law defines defamation as “any allegation or imputation of a fact offending the honor or consideration of a person, or of the body to which the fact is imputed.” The law does not require that the fact alleged or imputed be false or that the statement within which it is contained be made with malicious intent to damage another individual’s reputation. Defamation is not a crime but carries civil penalties ranging from DZD 100,000 to DZD 500,000 ($1,250 to $6,250).</p>
+<div class="sub-sub-section">
+<h3>
+						Actions to Expand Press Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The new law enacted March 23 officially opened the national media sector to private companies and allows them to maintain offices. In 2013 the Ministry of Communication granted three private, foreign television stations (Ennahar, el-Chourouk, and el-Djazairia) the right to open offices “temporarily” in Algiers but added that this right could be withdrawn at any time. The new law allows the government to maintain control of content since it regulates thematic and general television stations differently.</p>
+<p>As of September, five private television channels received official government accreditation with the authorization to open offices in Algiers. At least 10 additional stations lacked accreditation but continued to operate, maintain offices in the capital, and to be tolerated by authorities.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>Access to the internet generally was unimpeded, although the government monitored e-mail and social media sites. Individuals and groups could engage in the expression of views via the internet, including by e-mail. Intelligence services closely monitored the activities of political and human rights activists on social media sites such as Facebook. Several activists reported that the slightest misstep in a Facebook update could result in arrest and questioning.</p>
+<p>The law on cybercrime establishes procedures for using electronic data in prosecutions and outlines the responsibilities of service providers to cooperate with authorities. Under the law electronic surveillance operations may be conducted to prevent offenses amounting to terrorist or subversive acts and infractions against state security, pursuant to written authorization from a competent judicial authority.</p>
+<p>By law internet service providers face criminal penalties for the material and websites they host, especially if subject matters are “incompatible with morality or public opinion.” The Ministry of Justice, the Ministry of Interior, and the Ministry of Post, Information Technology, and Communication have oversight responsibilities. The cybercrime law provides sentences of six months to five years in prison and fines between DZD 50,000 and DZD 500,000 ($625 and $6,250) for users who do not comply with the law, including the obligation to cooperate with law enforcement authorities against cybercrime.</p>
+<p>In May 2013 Moussa Benhamadi, minister of post, information technology, and communication at the time, stated in an interview that the country had 11 million internet users at the beginning of 2013. In 2011 there were 10 million reported users.</p>
+<p>During the April presidential campaign, several youths and humorists utilized the internet and social media to criticize politicians widely. Some Facebook pages, such as that of Radio Trottoir, secured tens of thousands of followers. The internet provided many Algerians, and especially youth, with the means to express their views more openly on common themes, such as corruption, poverty, and unemployment.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>Academic seminars and colloquia occurred with limited governmental interference, but there were delays in issuing visas to international participants and instances in which authorities did not approve visas until after the date of the scheduled event.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>Although the constitution provides for freedom of assembly and association, the government severely restricted the exercise of these rights.</p>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right of assembly, but the government continued to curtail this right. A ban on demonstrations in Algiers remained in effect. Authorities utilized the ban to prohibit assembly within the city limits and required citizens and organizations to obtain permits from the government-appointed local governor before holding public meetings. The government restricted licenses to political parties, NGOs, and other groups to hold indoor rallies or delayed permission until the eve of the event, thereby impeding publicity and outreach efforts by organizers. Nonetheless, in some cases authorities allowed peaceful, unauthorized protests to proceed while negotiations continued regarding the protesters’ demands.</p>
+<p>In the months leading up to the presidential election in April, citizens participated in dozens of marches and rallies protesting against President Bouteflika’s campaigning for a fourth term as president. Security forces routinely cracked down and stopped these public gatherings. According to HRW, authorities deployed police and arrested protesters to prevent demonstrations in the capital in advance of the elections. Three times during the first week of March, security forces in the capital forcibly dispersed supporters of the <em>Barakat</em> movement as they expressed their opposition to a fourth term for Bouteflika.</p>
+<p>Hotels in Algiers and other major cities continued their historic practice of refusing to sign rental contracts for meeting spaces with political parties, NGOs, and civil associations without a copy of a written authorization from the Ministry of Interior for the proposed gathering.</p>
+<p>Throughout the year police dispersed unauthorized gatherings or prevented marching groups of protesters from protesting. Police typically dispersed protesters a few hours after a protest began and arrested and detained organizers for a few hours. On April 20, activists from the Movement for the Autonomy of Kabylie scheduled unauthorized marches in the provinces of Tizi Ouzou and Bejaia. Violent police clashes with the activists resulted in injuries to 75 police officers and 35 marchers. A video posted shortly afterward on YouTube publicized the violence. In response the DGSN director general, Major General Abdelghani Hamel, ordered an investigation into the allegedly unethical and unacceptable police behavior. Minister of the Interior Tayeb Belaiz affirmed the dismissal of five police officers for their participation in the confrontations.</p>
+<p>On March 16, SOS Disparus, an unauthorized Algerian NGO based in France that rejected the government’s Charter for Peace and National Reconciliation, held a rally in front of the Maison de la Presse in Algiers to interject this issue into the presidential debate before the April elections. At issue were the unresolved cases of disappeared persons from the conflict of the 1990s that continued to be a sensitive subject in society. The government did not address this matter publicly.</p>
+<p>On July 21, the province of Algiers denied the request by the National Organization for Liberties and Democratic Transition (CNLTD) to hold a conference on political transition models at the cultural center of Riad El-Feth in the capital. The government declared that it denied the request because the space was reserved for cultural events during the month of Ramadan. On July 24, members of the political parties and personalities associated with the CNLTD attempted to march from the Algiers main post office to the provincial government offices to protest the denial to hold their previously requested meeting. Security forces prevented the protesters from marching. Supporters with signs denouncing the government for rejecting their request remained outside the post office for 30 minutes before dispersing.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right of association, but the government severely restricted this right.</p>
+<p>The law’s extensive requirements and uneven enforcement served as major impediments to the development of civil society. The law grants the government wide-ranging oversight of and influence in the day-to-day activities of civil society organizations. It requires civil organizations to apply to the Ministry of Interior for permission to operate. Once registered, organizations must inform the government of their activities, funding sources, and personnel, including notification of personnel changes. The law imposes an additional requirement that associations obtain government preapproval before accepting foreign funds. If organizations fail to provide required information to the government or attempt to operate with or accept foreign funds without authorization, they are subject to fines between DZD 2,000 and DZD 5,000 ($25 and $63) and up to six months’ imprisonment. The law prohibits formation of a political party with a religious platform, but some political parties were widely known to be Islamist (notably the Movement for a Society of Peace).</p>
+<p>The 2012 revision to the law of associations failed to protect the freedom of association consistent with the country’s international obligations. The law as revised requires all publications to have prior approval by a media regulatory authority. It also restricts expression and access to information in several major areas, such as national identity, sovereignty, the economy, and national security.</p>
+<p>The Ministry of Interior may deny a license to or dissolve any group regarded as a threat to the government’s authority or to public order, and on some occasions failed to grant in an expeditious fashion official recognition to NGOs, associations, religious groups, and political parties. As of December the Youth Action Movement, a civil society organization founded in 1992 and focused on mobilizing and empowering youths, was unsuccessful in renewing its license despite submitting all necessary paperwork as required.</p>
+<p>The government issued licenses and subsidies to domestic associations, especially youth, medical, and neighborhood associations. According to the Interior Ministry, there were 93,000 registered local and national associations. Of that total, a few hundred were functioning and credible independent national NGOs.</p>
+<p>Due to these legal provisions and the specter of penalties for unauthorized operation, fewer than 30 unlicensed NGOs operated openly on the national level. Unlicensed NGOs did not receive government assistance, and citizens at times hesitated to associate with these organizations.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of movement, but the government restricted the exercise of this right.</p>
+<p>The government generally cooperated with the UNHCR and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-Country Movement</u>: The government maintained restrictions for security reasons on travel into the southern locales of El-Oued and Illizi, near hydrocarbon industry installations and the Libyan border, respectively. Citing the threat of terrorism, the government also prevented overland tourist travel between the southern cities of Djanet and Tamanrasset. The government did not permit young men eligible for the draft who had not yet completed their military service to leave the country without special authorization, although the government granted such authorization to students and persons with special family circumstances, notably those individuals with family members residing in Western Sahara.</p>
+<p><u>Foreign Travel</u>: The law does not permit those under age 18 to travel abroad without a guardian’s permission. Married women under age 18 may not travel abroad without permission from their husbands but married women over age 18 may do so.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>The government provided protection to an estimated 90,000 to 165,000 Sahrawi refugees who departed Western Sahara after Morocco took control of the territory in the 1970s. The UNHCR, the World Food Program (WFP), the Algerian Red Crescent, the Sahrawi Red Crescent, and other organizations also assisted Sahrawi refugees. Neither the government nor the refugee leadership allowed the UNHCR to conduct registration or complete a census of the Sahrawi refugees. In the absence of formal registration, the UNHCR and the WFP based humanitarian assistance on a planning figure of 90,000 most vulnerable refugees with an additional 35,000 also requiring food rations.</p>
+<p><u>Access to Asylum</u>: While the law provides generally for asylum or refugee status, the government has not established a formal system through which refugees can request asylum. There were no reports that the government granted refugee status and asylum to new refugee applicants during the year. According to the UNHCR, the government did not accept UNHCR-determined refugee status for individuals fleeing from conflict in Iraq as well as from sub-Saharan Africa. The UNHCR offices in Algiers reported an estimated 200 to 300 asylum requests per month, mostly from sub-Saharan Africans coming from Niger, Mali, Cameroon, Cote d’Ivoire, and Democratic Republic of the Congo (DRC). Those determined by the UNHCR to have valid refugee claims were primarily from the DRC, Iraq, and Palestinian territories. There was no evidence of any pattern of discrimination toward asylum applicants, but the lack of a formal asylum system made this difficult to assess credibly.</p>
+<p>As of September the government reported that, since the start of the conflict in Syria, it accepted more than 20,000 Syrian refugees. For the same period, the UNHCR registered approximately 3,400 Syrians. The government continued to maintain “welcome facilities” that provided food and shelter for those Syrians without means to support themselves. The facilities were located at a summer camp in the seaside area of Algiers known as Sidi Fredj, but the government did not grant the UNHCR access to the reception centers.</p>
+<p>Since the outbreak of violence in northern Mali in 2012, observers including the ICRC and the UNHCR reported an influx of individuals into Algeria across the Malian border inconsistent with traditional migratory movements. The UNHCR estimated as many as 30,000 migrants have been absorbed into local communities in southern Algeria. A small refugee camp managed by the Algerian Red Crescent near the southern city of Bordj Badj Mokhtar held an estimated 250 Malian refugees in September. The UNHCR has not verified this estimate, however, because the government, citing security concerns, has not allowed the UNHCR or the international community access to Malian refugees.</p>
+<p><u>Refoulement</u>: The government provided some protection against the expulsion or return of refugees to countries where their lives or freedom would be threatened because of their race, religion, nationality, membership in a particular social group, or political opinion, such as Sahrawi refugees to Western Sahara or Morocco. Due to security concerns and the instability in northern Mali, the government stopped deporting sub-Saharan Africans in February 2012. The UNHCR reported that migrants continued to be at risk of arrest, but the government did not utilize refoulement at all.</p>
+<p><u>Employment</u>: Refugees relied largely on remittances from family, the support of local family and acquaintances, and assistance from the Algerian Red Crescent and international aid organizations. The government does not formally allow refugee employment, although many refugees worked informally and were at risk of exploitation in the labor market due to their lack of legal status in the country.</p>
+<p><u>Access to Basic Services</u>: Sahrawi refugees lived predominantly in five camps near the city of Tindouf, administered by the Popular Front for the Liberation of the Saguia el Harma and Rio de Oro (Polisario). The Polisario, UNHCR, and partner NGOs largely provided basic services including health care and education. The remote location of the camps and lack of government presence resulted in a lack of access by police and courts. Other refugees, asylum seekers, and migrants had access to free public hospitals. The government permitted refugee children to attend school, but refugees and international organizations reported the children experienced difficulty in their attempts to integrate into the educational system. Many African migrants experienced difficulties due to language barriers, their resulting isolation, and a lack of information on available services.</p>
+<p><u>Durable Solutions</u>: The government generally did not accept refugees from foreign countries for resettlement. The Sahrawi refugees have not sought local integration or naturalization during their 40-year stay in the refugee camps near Tindouf, and their government-in-exile, the Polisario, continued to call for a referendum on independence in Western Sahara.</p>
+<p><u>Temporary Protection</u>: The law does not address formal temporary protection; however, authorities did provide informal, temporary protection to groups such as Syrians and Malians. The government continued its practice of declining to deport migrants expressing a credible fear of return to their home country based on political instability. The government expressed concern over growing numbers of migrants seeking the protection of an asylum application without refugee qualifications.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section3"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution states, “the people shall choose their representatives freely,” but it does not expressly provide citizens the ability to change their government through free and fair elections. Restrictions on freedom of assembly and association, as well as restrictions on political party activities, greatly inhibited the activity of opposition groups before elections. Due to a reported perception that ordinary citizens lacked influence in choosing their government, many citizens chose not to exercise their right to vote. Voters who supported opposition political parties often did not do so publicly due to fear of intimidation and reprisal.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p>The constitution mandates presidential elections every five years, and there are no presidential term limits. The Ministry of Interior maintains oversight of the election and voting processes. There is no independent electoral commission.</p>
+<p><u>Recent Elections</u>: Algeria’s presidential elections took place on April 17, and voters re-elected President Abdelaziz Bouteflika for a fourth term. Although he did not personally campaign, Bouteflika won approximately 81 percent of the votes, while his main rival and former prime minister, Ali Benflis, placed second with slightly more than 12 percent. The youngest candidate, Abdelaziz Belaid, was third with approximately 3 percent of the votes. The only female candidate and leader of the Workers’ Party, Louisa Hanoune, placed fourth and received slightly more than 1 percent.</p>
+<p>Several hundred international election observers from the United Nations, Arab League, African Union, and Organization of Islamic Cooperation monitored voting. Foreign observers characterized the elections as largely peaceful but pointed to low voter turnout and a high rate of ballot invalidity. <i>El Watan</i>, a large, opposition-leaning daily newspaper, reported that almost 10 percent of ballots cast were invalid. The Interior Ministry did not provide observers with voter registration lists.</p>
+<p>On April 22, the president of the Constitutional Council, Mourad Medelci, announced voter participation in the elections was just under 51 percent, a sharp drop from the slightly more than 74 percent turnout during the previous presidential election in 2009. From a population of approximately 37 million persons and 23 million registered voters, 12 million individuals cast ballots at an estimated 50,000 polling stations. Officials recorded a higher voter turnout of 82 percent in the western province of Relizane, while the Berber provinces of Tizi Ouzou and Bejaia recorded 20 percent and approximately 23 percent, respectively. Official voter turnout in Algiers was an estimated 37 percent.</p>
+<p>Ali Benflis rejected the results and announced that fraud marred the elections. He appealed to the Constitutional Council without result. A coalition of Islamic and secular opposition parties boycotted the election, describing it as a masquerade and asserting that President Bouteflika was unfit to run due to his health. Several candidates withdrew from the race claiming that the outcome was a foregone conclusion.</p>
+<p>The protest movement Barakat staged peaceful demonstrations across the country. During a rally on April 16 in Algiers, riot police beat dozens of Barakat protesters.</p>
+<p><u>Political Parties and Political Participation</u>: The Ministry of Interior must approve political parties before they can operate legally.</p>
+<p>The government maintained undue media influence and used public funds for campaign purposes. Security forces used violence to disperse political opposition rallies and interfered with the right to organize. Authorities prevented civil society participation in election monitoring by refusing to provide the necessary accreditation.</p>
+<p>Pursuant to the constitution, all parties must have a “national base.” A party must have received 4 percent of the vote or at least 2,000 votes in 25 provinces in one of the last three legislative elections to participate in national elections, making it very difficult to create new political parties. It is illegal for parties to be based on religion, ethnicity, gender, language, or region.</p>
+<p>The law does not place significant restrictions on voter registration, but implementation of voter registration and identification laws proved inconsistent and confusing during elections held during the year.</p>
+<p>Membership in the Islamic Salvation Front, a political party banned since 1992, remained illegal. The law also bans political party ties to nonpolitical associations and regulates party financing and reporting requirements. According to the law, political parties may not receive direct or indirect financial or material support from any foreign parties. The law also stipulates the collection of resources from contributions by the party’s members, donations, and revenue from its activities, in addition to possible state funding.</p>
+<p>Individuals and groups attempting officially to form new political parties, including the unrecognized Pole for Change movement founded by Ali Benflis, reported that as of December the Interior Ministry did not grant licenses to operate legally, despite having submitted all necessary paperwork.</p>
+<p><u>Participation of Women and Minorities</u>: The law requires that the government promote political rights for women by encouraging increased female representation within elected assemblies. The law mandates that 30 percent of all candidates on electoral tickets be women. In accordance with this provision, of the 462 candidates elected to parliament in 2012, 147 were women, increasing their rate of representation from 8 percent in 2007 to 31 percent.</p>
+<p>Seven women held seats in the cabinet with the portfolios of national education, telecommunications, culture, environment, national solidarity, tourism, and handicraft. A woman also led the Workers Party. Four of 1,514 mayors were women.</p>
+<p>Persons with disabilities reported impediments to voting due to voting centers’ lack of accessible features.</p>
+<p>The ethnic Amazigh (Berber) population of approximately 10 million participated freely and actively in the political process and represented more than one-third of the government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section4"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides for criminal penalties of two to 10 years in prison for official corruption, but the government generally did not implement the law effectively. Corruption remained a problem as reflected in World Bank governance data and the Transparency International corruption index.</p>
+<p><u>Corruption</u>: While many organizations are involved in the fight against corruption, the Central Office for the Suppression of Corruption is the government’s main actor on the subject. In July a presidential decree moved it from under the authority of the Ministry of Finance to that of the Ministry of Justice. The office is charged with reviewing cases referred to it by the Inspector General of Finance, General Direction of Customs as well as law enforcement agencies. The National Organization for the Prevention and Fight Against Corruption established in 2006 plays a consultative and preventative role regarding corruption.</p>
+<p>Media sources reported that authorities withdrew August 2013 charges against the former minister of energy, Chekib Khelil, due to a “procedural error.” While the government did not publicly confirm this information, as of December Khelil no longer appeared in the Interpol “Wanted Persons” database. Authorities had charged him, his wife, and two sons for their alleged involvement in a bribery scandal concerning the national oil company, Sonatrach. Charges remained against Khelil’s wife and children. As of December the government did not refile charges against him.</p>
+<p>Corruption throughout the government stemmed largely from the bloated nature of the bureaucracy and a lack of transparent oversight. Government contracts for housing in particular were often not enforced, and government-subsidized housing units were often of substandard construction as a result.</p>
+<p>The National Consultative Commission for the Promotion and Protection of Human Rights (CNCPPDH), a government human rights organization, stated in its 2013 annual report that the practice of corruption had reached alarming proportions. The report recommended that the law governing the fight against corruption be perfected because it was not effective in its existing form.</p>
+<p>The government denied the request by the independent Association for the Fight against Corruption to host an event celebrating World Fight Against Corruption Day on December 9.</p>
+<p><u>Financial Disclosure</u>: The law stipulates that government officials must declare their assets the month they commence their jobs, if there is substantial change in their wealth while they are in office, and at the end of their term. Few government officials made their personal wealth public, and there was no enforcement of the law. On March 1, after confirming his candidacy in the presidential elections, President Bouteflika publicly disclosed his net assets. According to the statement, he owns an apartment, two vehicles, and two homes. The statement made no mention of his overall financial assets.</p>
+<p><u>Public Access to Information</u>: Lack of government transparency remained a serious problem. Most ministries had websites, but not all were regularly maintained to provide updated information.</p>
+<p><u>Illicit Trade in Natural Resources</u>: Due to the low cost of subsidized gasoline, smuggling of fuel was an ever-growing problem. As of July authorities seized approximately 130,000 gallons of gasoline, compared with 84,000 gallons during 2013. According to security services, networks of fuel smugglers often exploited young, unemployed men from poor border towns to smuggle fuel into Morocco, Mali, Niger, Libya, and Tunisia. To combat this illicit trade, authorities dug trenches, erected barriers, and regularly conducted searches of homes and warehouses located near or inside the border strip. Security and customs services also conducted motorized patrols, sometimes backed by helicopter operations that resulted in the seizure of large quantities of fuel.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section5"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic human rights groups operated with varying degrees of government restriction and cooperation. The law requires all civil associations to apply for operating permission, and at year’s end a few major civil associations (notably SOS Disparus) remained unrecognized but tolerated.</p>
+<p>AI, HRW, and other international organizations reported difficulties and long delays in obtaining visas for entering and working in the country.</p>
+<p>The LADDH, a legally recognized NGO with members countrywide and independent funding, was the most active independent human rights group. The smaller Algerian League for Human Rights, a separate but also licensed organization based in Constantine, had members throughout the country monitoring individual cases.</p>
+<p>During the year the LADDH affirmed that members of several of its offices around the country experienced intimidation, harassment, arbitrary detention, and electronic surveillance by security forces.</p>
+<p><u>The United Nations or Other International Bodies</u>: The UN Working Group on Enforced or Involuntary Disappearances submitted a detailed report to the government (see section 1.b.). The country joined the Human Rights Council in January, but authorities did not agree to visits by the UN special rapporteur on torture or the Working Group on Enforced or Involuntary Disappearances, despite repeated requests. The government continued to deny requests for visits from the UN special rapporteurs on extrajudicial executions (pending since 1998), on human rights and counterterrorism (pending since 2006), and on arbitrary detention (pending since 2009).</p>
+<p><u>Government Human Rights Bodies</u>: The CNCPPDH, a government institution, plays a consultative and advisory role to the government. It publishes an annual report on the status of human rights in the country. In August a public report identified the commission’s principal concerns as discrimination against members of the private press, the inability of journalists to access information and protect their sources, and the delay in the legislature’s making public information available during 2013. The report also stated that unemployment, deficiencies in health care and education, and cumbersome government bureaucracy were significant challenges the government faced in improving human rights.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section6"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on birth, race, gender, language, and social status. The government effectively enforced the law, although women continued to face legal and social discrimination.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, both spousal and nonspousal, occurred. The law criminalizes nonspousal rape but does not address spousal rape. Prison sentences for nonspousal rape range from one to five years, and authorities generally enforced the law. Claims filed by women for rape and sexual abuse continued to face judicial obstacles, and many women did not report incidents of rape because of societal pressures and bureaucratic problems in securing convictions.</p>
+<p>Domestic violence was widespread. The law states that a person must be “incapacitated” for 15 days and that a woman claiming domestic abuse must visit a “forensic physician” for an examination to document injuries. The law also requires that the physician provide the survivor with a “certificate of incapacity” attesting to the injuries, which the survivor presents to authorities as the basis of the criminal complaint.</p>
+<p>According to the Wassila Network, a local NGO promoting awareness of violence against women and children, family members were the aggressors in 80 percent of the cases in which women were sexually assaulted.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: While the law does not specifically prohibit the practice, there were no known reports of its occurrence or government efforts to prevent its practice during the year.</p>
+<p><u>Sexual Harassment</u>: The punishment for sexual harassment is one to two years’ imprisonment and a fine of DZD 50,000 to DZD 100,000 ($625 to $1,250); the punishment doubles for a second offense. The majority of reported cases of harassment occurred in the workplace.</p>
+<p>In June the CNCPPDH, in coordination with the National Foundation for the Promotion of Health, Development, and Research, published the results of a survey that found 66 percent of women in the public sector workforce and 40 percent of female students affirmed having been sexually harassed. The study polled approximately 4,000 women.</p>
+<p><u>Reproductive Rights</u>: The government did not impose restrictions on the right of couples and individuals to decide the number, timing, and spacing of their children. Conservative elements of society challenged the government’s family planning program, including the provision of free contraception. Married and unmarried women had access to contraceptives, although there were reports of pharmacists who refused to sell contraception to unmarried women. According to an Algeria Press Service article in June, 61 percent of women used some form of contraception, of which 46 percent used birth control pills and more than 4 percent utilized an intrauterine device.</p>
+<p>Societal and family pressure restricted women from making independent decisions about their health and reproductive rights.</p>
+<p><u>Discrimination</u>: Although the constitution provides for gender equality, many aspects of the law and traditional social practices discriminated against women. In addition, religious extremists advocated practices that led to restrictions on women’s behavior, including freedom of movement. In some rural regions, women faced extreme social pressure to veil as a precondition for freedom of movement and employment. The law contains traditional elements of Islamic law. It prohibits Muslim women from marrying non-Muslims, although authorities did not always enforce this provision. Muslim men may marry non-Muslim women. A woman may marry a foreigner and transmit citizenship and nationality to both her children and spouse.</p>
+<p>Women may seek divorce for irreconcilable differences and violation of a prenuptial agreement. In a divorce the law provides for the wife to retain the family’s home until children reach age 18. Custody of children normally is awarded to the mother, but she may not make decisions about education or take the children out of the country without the father’s authorization. Women were more likely to retain the family’s home if they had custody of the children.</p>
+<p>The law affirms the religiously based practice of allowing a man to marry as many as four wives. According to the law, polygamy is only permitted upon the agreement of the first wife and the determination of a judge as to the husband’s financial ability to support an additional wife. As such its prevalence dropped since previous years when it was reported to occur in 1 to 2 percent of marriages. It was unclear whether authorities followed the law in all cases.</p>
+<p>Amendments to the law supersede the religiously based requirement that a male sponsor consent to the marriage of a woman. The sponsor represents the woman during the religious or civil ceremony. Although this requirement of a sponsor to contract the marriage has been formally retained, the woman may choose any man that she wishes to be her sponsor. Some families subjected women to virginity tests before marriage.</p>
+<p>Women suffered from discrimination in inheritance claims and were entitled to a smaller portion of an estate than male children or a deceased husband’s brothers. Women did not often have exclusive control over assets that they brought to a marriage or that they earned. Married women may take out business loans and use their own financial resources. Women enjoy rights equal to those of men in regard to property ownership, and female landowners’ names are listed on property titles.</p>
+<p>Women faced discrimination in employment. Leaders of women’s organizations reported that discrimination was common and women were less likely to receive equal pay for equal work or promotions. In urban areas there was social encouragement for women to pursue higher education or a career. Girls graduated from high school more frequently than boys.</p>
+<p>According to a study released in May by the National Office of Statistics, women represented approximately 16 percent of the active work force. Conversely, the national average rate of unemployment in 2013 was just under 10 percent overall, compared with more than 29 percent for women. Despite large growth in the percentage of women in the workforce, female access to management positions remained limited to 9 percent. Women served at all levels in the judicial system, and the government employed an increasing number of female police officers to assist women with abuse claims. Women may own businesses, enter into contracts, and pursue careers similar to those of men. Despite legal rights women faced challenges with regard to access to credit and businesses.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth registration</u>: Citizenship and nationality are transmitted from the mother or father. By law children born to a Muslim father are Muslim, regardless of the mother’s religion.</p>
+<p><u>Education</u>: Education was free, compulsory, and universal through the secondary level to age 16. Treatment and attendance of girls and boys was equal throughout the education system.</p>
+<p>UNESCO estimated that with existing efforts, the government would attain primary school enrollment of 95 percent by 2015.</p>
+<p><u>Child Abuse</u>: Child abuse is illegal but continued to be a problem. Experts assumed that many cases went unreported because of family reticence. Adberahmane Arrar, head of the Algerian Network for the Defense of Children’s Rights, reported that the NGO’s free helpline received more than 16,000 calls requesting assistance from June 2013 through May. Of these calls, 4,787 were related to the mistreatment and economic exploitation of children, 2,465 dealt with family conflict (divorce and custody issues), 913 pertained to sexual abuses (sexual assault, rape, and incest of minors), and 645 were cases of children involved in prostitution.</p>
+<p>On December 15, Kheira Messaoudene, commissioner and head of the National Child Protection Office and Juvenile Delinquency at the Directorate of the Judicial Police, stated during a seminar on family violence, that authorities registered 5,220 cases of violence against children and 173 cases of child kidnappings during the first nine months of the year.</p>
+<p>Kidnapping for any reason is a crime. Laws prohibiting parental abduction do not penalize mothers and fathers differently. In January new legislation strengthened the punishment for convicted kidnappers to include the death penalty.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age of marriage is 19 for both men and women. The law forbids legal guardians from forcing the minor under his/her care to marry against the minor’s will.</p>
+<p>UN Population Fund 2006 statistics showed that 8 percent of women ages 25 to 49 were married by or before age 18.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: While the law does not specifically prohibit the practice, there were no known reports of its occurrence or government efforts to prevent its practice during the year.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits solicitation for prostitution and stipulates prison sentences of between 10 and 20 years when the offense is committed against a minor under age 18. By law the age for consensual sex is 16. The law stipulates a prison sentence of between 10 and 20 years for rape when the victim is a minor. Under the law a man accused of raping a female minor may not be prosecuted if he legally marries the victim. Authorities rarely carried out this sentence. The law prohibits pornography and establishes prison sentences of between two months and two years as well as fines up to DZD 2,000 ($25).</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see <a href="http://travel.state.gov/content/childabduction/english/country/Algeria.html"><u>http://travel.state.gov/content/childabduction/english/country/Algeria.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The country’s Jewish population numbered fewer than 1,000 persons, including those who have dual nationalities. Local Jewish community leaders estimated the number to be in the low hundreds. The media did not publish any known derogatory political cartoons or articles directed at the Jewish community, but the conflict in Gaza triggered online anti-Semitic postings by individuals, frequently on Facebook.</p>
+<p>Jewish leaders reported that the Jewish community faced unofficial, religion-based obstacles to government employment and administrative difficulties when working with government bureaucracy.</p>
+<p>In July the minister for religious affairs, Mohamed Aissa, declared the intention of the government to re-open synagogues in Algiers. (The government had closed all synagogues in the 1990s due to killings of several prominent members of the Jewish community.) On July 21, police stopped several dozen Salafi protesters marching in protest. As of December no synagogues formally opened.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with disabilities in employment, education, access to health care, or the provision of other state services, although the government did not effectively enforce these provisions. Persons with disabilities faced widespread social discrimination. Few government buildings were accessible to persons with disabilities. Public enterprises that downsized generally ignored a requirement that they reserve 1 percent of jobs for persons with disabilities. Social security provided payments for orthopedic equipment. The Ministry of National Solidarity, Family, and the Status of Women provided some financial support to health-care-oriented NGOs, but for many NGOs such financial support represented approximately 2 percent of their budgets.</p>
+<p>Government statistics from 2013 stated there were two million individuals with disabilities in the country, the largest percentages of whom were classified as “chronically ill” or “other” (38 and 30 percent, respectively). These statistics accounted for those who registered with the government, including individuals who received a disability pension. The government distributed a monthly pension of DZD 3,000 to DZD 4,000 ($38 to $50) to registered persons with disabilities. Only those who earned less than DZD 20,000 ($250) per month were eligible.</p>
+<p>According to the Algerian Federation of Wheelchair Associations, however, there were three million persons with disabilities living in the country. The government estimated that 44 percent of citizens with disabilities had some form of motor disability, 32 percent had communication difficulties, and 24 percent suffered from a visual disability.</p>
+<p>In April the Ministry of National Solidarity, Family, and the Status of Women established the National Council of Handicapped Persons in response to a 2006 presidential decree. It serves as a consultative organ to study problems such as accessibility for handicapped persons, autism, and the education of children with disabilities.</p>
+<p>Many persons with disabilities faced challenges in voting due to voting centers that lacked accessible features.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law criminalizes public and consensual same-sex sexual relations by men or women with penalties that include imprisonment of six months to three years and a fine of DZD 1,000 to DZD 10,000 ($13 to $125). If a minor is involved, the adult may face up to three years’ imprisonment and a fine of DZD 10,000 ($125). The law also stipulates penalties that include imprisonment of two months to two years and fines of DZD 500 to DZD 2,000 ($6 to $25) for anyone convicted of having committed a “homosexual act.”</p>
+<p>LGBT activists reported that the vague wording of laws identifying “homosexual acts” and “acts against nature” permitted sweeping accusations that resulted during the year in multiple arrests for same-sex relations but no known prosecutions.</p>
+<p>LGBT persons faced societal discrimination. While some LGBT persons lived openly, the vast majority did not, and most feared reprisal from their families or harassment from authorities. Some LGBT individuals received violent threats and believed themselves compelled to flee the country. In April a prominent member of the LGBT community was forced to quit his job and remained in Europe for several months before returning to the country. Another activist departed the country at the same time and as of October was awaiting approval of his asylum request in France.</p>
+<p>Members of the LGBT community reported an increase in offensive and derogatory media, specifically denouncing LGBT practices. Activists reported that members of the LGBT community declined to report cases of homophobic abuse and rape due to fear of reprisal by authorities. They also reported that access to health services could be difficult because medical personnel often treated LGBT patients “unprofessionally.” Community members added that obtaining legal assistance was also a challenge due to similar discrimination.</p>
+<p>Abu Nawas, an Algiers-based LGBT advocacy group, continued cyberactivism on behalf of the LGBT community. Alouen, an Oran-based LGBT association, continued a series of LGBT-themed podcasts published on the association’s Facebook and YouTube pages.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>HIV/AIDS was widely considered a shameful disease. The government continued to offer free antiretroviral treatment to all persons who were eligible. New HIV infections among children have been virtually eliminated. Many centers offered free testing services to detect HIV/AIDS. Strong social stigma towards LGBT persons, commercial sex workers, and drug users deterred testing of these groups. Approximately half of the country’s women, single and married, reportedly used condoms to prevent infection.</p>
+<p>In April the subdirector for the Ministry of Health, Population, and Hospital Reform announced 600 new cases of AIDS were registered annually. Official estimates pointed out that in December 2013 there were approximately 8,200 persons living with HIV/AIDS, although the 2013 annual report of the UN Program on HIV/AIDS (UNAIDS) estimated 25,000 persons were living with HIV/AIDS, 1,000 of whom were under age 15.</p>
+<p>Society continued to stigmatize individuals living with HIV/AIDS. Adel Zeddam, the country coordinator for the UNAIDS program, criticized several media sources in May that associated the increased prevalence of HIV/AIDS in the country to the growing number of sub-Saharan migrants. He noted that there was “no causal link between migration and HIV infection” and that assertions stating otherwise were “unfounded.”</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Security forces failed to prevent and respond adequately to intercommunity violence in the city of Ghardaia, 370 miles south of Algiers, that restarted in December 2013. Violence between the two ethnically and religiously different Mozabite (Berber) and Malikite (Arab) communities claimed the lives of 13 persons and injured several hundred during a period of several months. In February the government deployed more than 3,000 gendarmes and police officers to quell the conflict. Independent media reported that the inability or unwillingness of security forces to prevent further violence and destruction of property in the communities exacerbated the conflict.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section7"> </span><span class="st_twitter" st_title="Algeria #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Algeria - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236592%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution provides workers with the right to join and form unions of their choice provided they are citizens. The country ratified the International Labor Organization’s (ILO’s) conventions on freedom of association and collective bargaining but failed to enact legislation needed to implement these conventions fully.</p>
+<p>The law requires that workers obtain government approval to form a union, and the Ministry of Labor must approve or disapprove a union application within 30 days. The law also provides for the creation of independent unions, although the union’s membership must account for at least 20 percent of an enterprise’s workforce. Although unions have the right to form and join federations or confederations, the government only recognized the General Union of Algerian Workers (UGTA), which represented a majority of public sector workers. Unions may recruit members at the workplace. The law prohibits discrimination by employers against union members and organizers and provides mechanisms for resolving trade union complaints of antiunion practices by employers.</p>
+<p>The law permits unions to affiliate with international labor bodies and develop relations with foreign labor groups. For example, the UGTA is a member of the International Confederation of Free Trade Unions. Nevertheless, the law prohibits unions from associating with political parties and receiving funds from foreign sources. The courts are empowered to dissolve unions that engage in illegal activities. The government may invalidate a union’s legal status if authorities perceive its objectives to be contrary to the established institutional system, public order, good morals, law, or regulations in force.</p>
+<p>The law provides for collective bargaining by all unions, and the government permitted the exercise of this right for authorized unions. Nevertheless, the UGTA remained the only union authorized to negotiate collective bargaining agreements.</p>
+<p>The law provides for the right to strike, and workers exercised this right, subject to conditions. Striking requires a secret ballot of the whole workforce. The government may restrict strikes on a number of grounds, including economic crisis, obstruction of public services, or the possibility of subversive actions. Furthermore, all public demonstrations, including protests and strikes, must receive prior government authorization. By law workers may strike only after 14 days of mandatory conciliation or mediation. The government occasionally offered to mediate disputes. The law states that decisions reached in mediation are binding on both parties. If no agreement is reached in mediation, workers may strike legally after they vote by secret ballot to do so. The law requires that a minimum level of essential public services must be maintained during public-sector service strikes. The ILO noted that the list of essential services was broad and included services such as banking, radio, and television. It expressed concern regarding what it deemed excessive penalties ranging from eight days’ to two months’ imprisonment imposed by the government on workers participating in peaceful strikes.</p>
+<p>No new, independent unions formed during the year. Many trade unions were not recognized, because the government interfered with their attempts to register. Attempts by new unions to form federations or confederations also were obstructed by administrative maneuvers in which the processing of registration requests was delayed. The National Autonomous Union for Public Administration Personnel (SNAPAP), which functions without official status, continued to attempt to organize independent unions without success. The government did not allow SNAPAP to register as a national confederation, thus preventing it from establishing an independent multi-sector confederation that would include private sector employees. SNAPAP and other independent unions faced government interference throughout the year, including official obstruction of general assembly meetings and police harassment during sit-in protests. Furthermore, unions in multi-national companies, specifically in oil and gas production, were virtually nonexistent due to antiunion practices, threats, and harassment by employers.</p>
+<p>In August the head of SNAPAP and the head and communications director for the National Autonomous Union for Postal Employees were fired from their public sector jobs. The president of the National Autonomous Union for Gas and Electric Works (SNATEG) for Sonelgaz (the state gas company) was also fired, and the company reduced the salaries of 37 other members of SNATEG.</p>
+<p>Anti-union intimidation was commonplace, and there were several strikes launched in reaction to the government’s refusal to extend official recognition to fledgling new unions and its practice of engaging only with the UGTA.</p>
+<p>The national union of health workers conducted multiple strikes throughout the year. Due to the diverse interests among the different types of employees, the government failed to satisfy demands.</p>
+<p>According to the Ministry of Labor, there were 64 recognized workers’ unions. SNAPAP maintained that 137 union members, mostly women, remained suspended following a strike in 2012.</p>
+<p>On October 14, according to witnesses, approximately 300 police officers organized and marched from the base of El Hamiz to DGSN headquarters in Algiers to express their frustration with DGSN Director General Abdelghani Hamel and the denial of their request to form a police union. This occurred 24 hours after a police protest in the city of Ghardaia involving several hundred members of antiriot units that were deployed there since February and were protesting against their working conditions. While the government did not approve a police union, authorities responded that the government would provide for the representation of police at all levels of participatory commissions and bodies.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits all forms of forced or compulsory labor, but there were reports from the Labor Ministry and NGOs that such practices occurred. Forced labor conditions existed for migrant workers, and the law did not fully protect them. Construction workers and domestic workers were reportedly vulnerable. The government did not take an active role in combatting the problem.</p>
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits participation by minors in dangerous, unhealthy, or harmful work or in work considered inappropriate because of social and religious considerations, but it does not establish a clear minimum age for such work. The minimum legal age for employment is 16, but younger children may work as apprentices with permission from their parents or legal guardian. Furthermore, the law does not establish a list of hazardous occupations prohibited to minors, nor does it cover work in the informal sector. Approximately half of those working in the informal sector were under age 30.</p>
+<p>Although specific data was unavailable, children reportedly worked in the construction and agricultural sector, mechanic shops, and as domestic servants. Children likewise engage in informal work and are subject to commercial sexual exploitation as a result of trafficking. According to the UN Children’s Fund, 5 percent of children ages five to 14 are economically active.</p>
+<p>The Ministry of Labor is responsible for enforcing child labor laws. Authorities enforced the law in a limited way. The ministry conducted and in some cases investigated companies suspected of hiring underage workers. Monitoring and enforcement practices for child labor were inconsistent and hampered by an insufficient number of inspectors.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination with respect to employment or occupation based on race, sex, gender, disability, language, sexual orientation, gender identity, HIV-positive status, other communicable diseases, or social status. The government did not adequately enforce the law since discrimination reportedly existed.</p>
+<p>The labor minister announced that the government would not grant work permits to sub-Saharan migrants present in the country.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>A tripartite social pact among business, government, and the official union established the national minimum wage of DZD 18,000 ($225) per month in 2012. This did not provide a decent standard of living for a worker and family.</p>
+<p>The standard workweek was 40 hours, including one hour for lunch per day. Employees who worked longer than the standard workweek received premium pay on a sliding scale from time-and-a-half to double-time, depending on whether the overtime occurred on a normal workday, a weekend, or a holiday.</p>
+<p>The law contains occupational health and safety standards, which were not fully enforced. There were no known reports of workers dismissed for removing themselves from hazardous working conditions. If workers face such conditions, they may reserve the right to renegotiate their contract or, failing that, resort to the courts. While this legal mechanism exists, the high demand for employment in the country gave an advantage to employers seeking to exploit employees. Labor standards did not protect economic migrants from sub-Saharan Africa and elsewhere working in the country without legal immigration status, which made them vulnerable to exploitation. The law does not adequately cover migrant workers who were employed primarily in construction and as domestic workers.</p>
+<p>The Labor Ministry generally enforced labor standards, including ensuring the promotion of compliance with the minimum wage regulation and safety standards. Nevertheless, broad enforcement remained ineffective and insufficient.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

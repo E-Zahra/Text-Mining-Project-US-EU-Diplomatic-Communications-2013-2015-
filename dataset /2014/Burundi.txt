@@ -1,0 +1,595 @@
+2014
+Burundi
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334"> </span><span class="st_facebook" st_title="Burundi" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236334">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236334</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=executive"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Republic of Burundi is a constitutional, multi-party republic with an elected government. The 2005 constitution provides for an executive branch that reports to the president, a bicameral parliament, and an independent judiciary. In 2010 voters re-elected President Pierre Nkurunziza and chose a new National Assembly (lower house) in elections boycotted by a coalition of 12 opposition parties. International observers characterized the elections as largely peaceful and generally free, fair, and well managed. Nevertheless, they noted an absence of pluralistic competition, restrictions on freedom of expression and assembly, and unfair use by the ruling National Council for the Defense of Democracy-Forces for the Defense of Democracy (CNDD-FDD) of government facilities and financial resources during campaigns. Authorities maintained effective control over the security forces. While observers considered the military generally professional and apolitical, the intelligence service and police tended to be influenced directly by, and responsive to, the CNDD-FDD.</p>
+<p>In what critics charged was an effort to marginalize political opposition before the 2015 presidential, legislative, and communal elections, government authorities arbitrarily arrested hundreds of persons and denied political opposition groups, the press, civil society organizations, and other groups their constitutional freedoms of assembly and association. These restrictions and a series of violent acts by the youth wings of several political parties resulted in a climate of self-censorship and fear.</p>
+<p>The principal human rights abuses included widespread government disregard for the freedoms of speech, press, assembly, and association; a highly politicized judicial system that lacked independence; and rampant corruption.</p>
+<p>Other common human rights abuses included extrajudicial killings and torture of detainees, particularly members of opposition political parties; harsh and sometimes life-threatening prison conditions; and prolonged pretrial detention of detainees, often without formal charges. Journalists and members of civil society and nongovernmental organizations (NGOs) who criticized the government and the CNDD-FDD were harassed and intimidated. Women and girls suffered from widespread sexual and gender-based violence and discrimination, and some were trafficked. Discrimination against the lesbian, gay, bisexual, and transgender (LGBT) community, persons with disabilities, and persons with albinism occurred. Labor rights were not respected, and forced child labor existed.</p>
+<p>The reluctance of police and public prosecutors to investigate and prosecute, and of judges to hear, cases of government corruption and human rights abuse in a timely manner resulted in widespread impunity for government and CNDD-FDD officials. In many cases bribery or threats contributed to the unwillingness of investigative and judicial officials to act.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section1"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were numerous reports the government or its agents committed arbitrary or unlawful killings, although the number of such reports declined significantly compared with previous years.</p>
+<p>As of October the UN Office of the High Commissioner for Human Rights (OHCHR) documented four cases of extrajudicial killings committed by police, the National Intelligence Service (SNR), military personnel, and local government officials; the OHCHR documented 34 cases in 2013, 30 cases in 2012 and 61 cases in 2011. According to the OHCHR, the decrease reflected a major change from systematic practice to the actions of rogue police officers.</p>
+<p>On July 31, in Kayanza Province, a detainee died while in custody. The medical report showed the detainee was severely beaten and perhaps tortured. Authorities did not conduct an investigation or arrest any perpetrators by year’s end.</p>
+<p>From July to October, a number of corpses appeared in Lake Rweru, which is bisected by the border between Rwanda and Burundi. Fishermen reported seeing dozens of floating bodies, some bound and wrapped in sacks. The fishermen alleged that the bodies were carried into the lake by the Nyabarongo River and that the majority of the bodies were then carried away from the lake by the Kagera River. Four bodies were recovered and buried near Kwidagaza village in Burundi’s Muyinga Province. Fishermen living near Kwidagaza reported that on the nights of September 21 and 22, Rwandan marines attempted to exhume the bodies, allegedly to return them to Rwanda. Both Rwanda and Burundi called for a joint investigation into the identity and origin of the bodies. On December 16, Burundi’s minister of foreign affairs accepted an offer of forensic assistance from a group of countries through an international NGO for an investigation led by the African Union. Rwandan officials stated that the government also supported a joint investigation, but no investigation was conducted by year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated abductions or kidnappings.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and the law prohibit such practices, but there were reports government officials employed them (see section 1.a.). From January through October, the OHCHR documented 57 cases of torture and mistreatment by security personnel. No information on arrests or convictions of the perpetrators was available. Most of the victims were members of opposition political parties. In 2013 the OHCHR documented 122 cases involving cruel, inhuman, or degrading treatment or punishment; the national police were responsible for most of them.</p>
+<p>From January through October, the OHCHR registered 19 cases of rape committed by government agents, including schoolteachers. For example, on October 6, authorities detained police officer Daniel Nikuze for rape. In 2013 the OHCHR documented 15 cases of rape and sexual abuse by government agents.</p>
+<p>A September 8 report by Human Rights Watch (HRW) documented 24 cases of sexual exploitation and abuse, including rape, by Ugandan and Burundian personnel of the African Union Mission in Somalia. The government agreed to investigate the allegations with assistance from international sources but did not do so by year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prisons were overcrowded, and conditions remained harsh and sometimes life threatening. Conditions in detention centers managed by the SNR and in local “lock-ups” managed by police generally were worse than in prisons. There were reports of physical abuse and prolonged solitary confinement.</p>
+<p><u>Physical Conditions</u>: The director of prison administration in the Office of Penitentiary Affairs reported that as of October 8 there were 8,717 persons in the country’s 11 prisons, which were built before 1965 to accommodate 4,050 inmates. Of the 8,717 persons, 181 were women, 78 were convicted juveniles, 114 were juveniles awaiting trial, and 71 were children under age three who were living with their prisoner mothers. No information was available on the number of persons held in detention centers managed by the SNR or in communal lock-ups run by police.</p>
+<p>A separate area for female inmates existed in each prison. Conditions in these areas generally were better than in the men’s sections. For example, female prisoners received free rations of charcoal and more NGO support, such as the provision of soap. A small prison in Ngozi Province held women only. Juvenile prisoners occupied the same prisons as adults. Authorities rehabilitated 10 of the country’s 11 prisons to provide separate areas for juvenile prisoners but often allowed adult prisoners in those areas due to overcrowding. Juveniles generally were held with adults in detention centers and communal lock-ups. Pretrial detainees commonly were held with convicted prisoners.</p>
+<p>According to government officials and international human rights observers, prisoners suffered from digestive illnesses and malaria. An unknown number died from disease. Each inmate received 12 ounces of manioc and 12 ounces of beans daily. Rations also included oil and salt on some days. Family and friends were expected to provide funds for all other expenses. All prisoners had access to potable water. Each prison had at least one qualified nurse and received at least one weekly visit by a doctor, but prisoners did not always receive prompt access to medical care. Inmates with serious medical conditions were sent to local hospitals. The International Committee of the Red Cross (ICRC) was the sole provider of medicines.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was adequate, prison ombudsmen were available to respond to prisoner complaints, and prisoners and detainees had access to visitors. In 2012 the government amended the criminal code to add community service as a sentencing alternative. Authorities permitted prisoners religious observance. They allowed prisoners to submit complaints to judicial authorities without censorship, but judicial authorities rarely investigated prisoners’ complaints.</p>
+<p>Unlike in the previous year, there were no reports of prison riots. In 2013 prisoners rioted in response to increased food bribes imposed by “capitas” (inmate bosses who run the interior of prisons and take a portion of inmate food rations as “taxes”).</p>
+<p><u>Independent Monitoring</u>: During the year the government permitted all visits requested by international and local human rights monitors, including monitors from the ICRC. Monitors visited all prisons, communal lock-ups, and SNR detention centers regularly. Monitoring groups had complete and unhindered access to prisoners.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, but the government did not observe these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The National Police, under the Ministry of Public Security, are responsible for law enforcement and maintenance of order within the country. The armed forces, under the Ministry of Defense, are responsible for external security but also have some domestic security responsibilities. The SNR, which reports directly to the president, has arrest and detention authority. Police, the SNR, the armed forces, and local officials committed for human rights abuses.</p>
+<p>The constitution provides for equal numbers of Hutu and Tutsi in the military, police, and the SNR to prevent either of these ethnic groups having disproportionate power that might be used against the other group. The formal integration (with international oversight and assistance) of Hutu into the previously Tutsi-dominated army began in 2004 and largely was complete, but the integration of police remained incomplete.</p>
+<p>Police generally were poorly trained, underequipped, underpaid, and unprofessional. They were widely perceived by local citizens as corrupt, including taking bribes, and were often implicated in criminal activity. The government’s Anticorruption Brigade in the Office of the President is responsible for investigating police corruption.</p>
+<p>Approximately 75 percent of police were former rebels; 85 percent received minimal entry-level training but no refresher training in the past five years; and 15 percent received no training. Due to low wages, petty corruption was widespread. For example, according to the Anticorruption Brigade, a truck or bus driver typically was compelled to pay bribes totaling approximately 19,500 Burundian francs ($12.50) at police roadblocks and “vehicle inspections” set up arbitrarily on the approximately 100-mile stretch of road from Bujumbura to Makamba.</p>
+<p>The public perceived police as heavily politicized and responsive to the CNDD-FDD. Police officials prevented citizens from exercising their civil rights and were implicated in torture, killing, and extrajudicial execution. The government’s general reluctance and slowness to investigate and prosecute these cases resulted in a widespread perception of police impunity and politicization.</p>
+<p>The international community was heavily engaged in providing instruction at the police academy on human rights, the code of conduct, and community-oriented policing.</p>
+<p>The president, in collaboration with the cabinet, reactivated mixed security committees in towns and villages throughout the country. Such committees, whose members came from local government, regular security services, and the citizenry, were meant to play an advisory role for local policymakers and to flag new threats and incidences of criminality for local administration. Some NGOs expressed concern the committees allowed the Imbonerakure, the youth wing of Burundi’s ruling CNDD-FDD, a strong role in local policing and put the governing party in a position to harass and intimidate opposition members on the local level.</p>
+<p>The armed forces, which observers generally regarded as professional and politically neutral, have an Office of Inspector General to investigate allegations of military abuse.</p>
+<p>The country has contributed peacekeepers to the African Union Mission in Somalia since 2008. The international community was heavily engaged in training the armed forces and regularly provided courses in international humanitarian law and in countering sexual and gender-based violence to soldiers assigned to the Somalia mission (see section 1.c).</p>
+<p>The SNR is a 200-person force with mandates for both external and internal security. It was reasonably effective at investigating what the government defined as terrorists, including certain opposition political party leaders and their supporters. Many citizens perceived the SNR to be heavily politicized and responsive to the CNDD-FDD. According to NGOs, SNR officials colluded with the Imbonerakure in torture and extrajudicial killings.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Arrests require warrants issued by a presiding magistrate, although police may arrest a person without a warrant by notifying a supervisor in advance. Police have seven days to finish their investigation and transfer suspects to a magistrate but may request seven-day extensions if additional investigation time is required. Police rarely respected these provisions and routinely violated the requirement that detainees be charged and appear before a magistrate within seven days of arrest.</p>
+<p>A magistrate may order the release of suspects or confirm the charges and continue detention, initially for 14 days, then for an additional seven days, if necessary to prepare the case for trial. Magistrates routinely failed to convene preliminary hearings, often citing their heavy case backlog or improper documentation by police. Lack of transportation for suspects, police, and magistrates was the most frequently cited reason for the failure to convene preliminary hearings. This was a particular problem in the six provinces without prisons, where lack of transport prevented the transfer of suspects from the site of detention to the provincial court with jurisdiction over the case.</p>
+<p>Police have authority to release suspects on bail, but they rarely used it. Suspects may hire lawyers at their own expense in criminal cases, but the law does not require, and the government did not provide, attorneys for indigents at government expense. The law prohibits incommunicado detention, but it reportedly occurred. Authorities on occasion denied family members prompt access to detainees.</p>
+<p><u>Arbitrary Arrest</u>: According to the OHCHR, police, SNR personnel, and local administrative authorities arbitrarily arrested 583 persons between January and October. Approximately 123 arrestees were connected to opposition political groups or were reporting on the government’s activities (see section 1.e.).</p>
+<p>For example, on March 8 and 9, in Bujumbura, police arrested more than 70 persons, the majority of whom were members or supporters of the opposition Movement for Solidarity and Democracy (MSD). According to HRW the first wave of arrests occurred on March 8, when police detained 22 persons who were jogging in the capital and joined an International Women’s Day march. Police alleged they were MSD members using their Saturday morning exercise as cover for an unauthorized demonstration; government officials claimed MSD members were planning an insurrection. Police trucks subsequently blocked roads, and police used teargas to disperse demonstrators. MSD youths took two police officers hostage and held them in party headquarters for several hours. According to HRW, after attempts by representatives of a local human rights organization, the United Nations, and the National Independent Human Rights Commission to negotiate the release of the police officers failed, police “opened an assault on the building, using teargas and live bullets. At least nine MSD members and several police were injured.” Police then arrested at least 17 more persons at MSD headquarters, and another 28 on the following day, March 9. They trials took place in March (see section 1.e.).</p>
+<p><u>Pretrial Detention</u>: Prolonged pretrial detention remained a serious problem. The law specifies that authorities may not hold a person longer than 14 days without charge. As of October 20, according to the director of prison administration, 53 percent of inmates in prisons and detention centers were pretrial detainees. The average time in pretrial detention was one year, and some were held without charge. Some persons remained in pretrial detention for nearly five years. In some cases the length of detention equaled or exceeded the sentence for the alleged crime. Inefficiency and corruption among police, prosecutors, and judicial officials contributed to the problem. For example, authorities deprived many persons of their legal right to be released on their personal recognizance because public prosecutors failed to open case files or because prosecutors and court officials could not find the files. Others remained incarcerated without proper arrest warrants, either because police failed to complete the initial investigation and transfer the case to the appropriate magistrate or because the magistrate failed to convene the required hearing to rule on the charges.</p>
+<p>On May 15, security forces arrested human rights defender and lawyer Pierre-Claver Mbonimpa and charged him with endangering state security and using false documents (see sections 2.a. and 5). While waiting for his trial, he asked to review the cases of fellow prisoners, believing that some of them would benefit from the president’s amnesty (see section 1.d., Amnesty). In his first two months in prison, Mbonimpa facilitated the release of approximately 50 inmates. Some received sentences shorter than the time they had spent waiting for their trials; others were designated for presidential amnesty but remained in prison due to a lack of bureaucratic coordination. More than 20 women were in detention for prostitution, although prostitution is punishable only with fines. Mbonimpa’s work eased prison overcrowding, and the prison allowed him to establish a team of his colleagues in the prison to review inmates’ cases.</p>
+<p><u>Amnesty</u>: In July the president issued a general pardon for good behavior to prisoners who had served more than 20 years of a life sentence or served part of a five-year sentence. As of November, 1,434 prisoners were released.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law provide for an independent judiciary, there were instances in which members of the judiciary were subject to political influence or bribery to drop investigations and prosecutions, predetermine the outcome of trials, or avoid enforcing court orders. Judicial officials, including the president of the Supreme Court responsible for prosecuting and trying high-profile corruption and criminal cases, were subject to direct and indirect threats from persons named in cases or their political supporters.</p>
+<p>There were allegations the public prosecutor willfully ignored calls to investigate senior figures within the security services and national police. Serious irregularities undermined the fairness and credibility of trials (see section 1.e., Political Prisoners and Detainees).</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>By law defendants are presumed innocent. Panels of judges conduct all trials publicly. Defendants have the right to be informed promptly and in detail of the charges and with free interpretation if necessary, although this right was not always respected. Defendants have the right to a fair trial without undue delay and to adequate time and facilities to prepare a defense, although this did not always occur. Defendants have a right to counsel but not at the government’s expense, even in cases involving serious criminal charges. Few defendants had legal representation because few could afford the services of one of the 131 registered lawyers in the country. Some local and international NGOs provided legal assistance but could not assist in all cases. Defendants have a right to defend themselves, including questioning prosecution witnesses, calling their own witnesses, and examining evidence against them. Defendants also may present evidence on their own behalf and did so in the majority of cases. Defendants have the right not to be compelled to testify or confess guilt. The law extends the above rights to all citizens.</p>
+<p>All defendants, except those in military courts, have the right to appeal their cases to the Supreme Court. The inefficiency of the court system extended the appeals process for long periods, in many cases for more than a year.</p>
+<p>Procedures for civilian and military courts are similar, but military courts typically reached decisions more quickly. The government does not provide military defendants with attorneys to assist in their defense, although NGOs provided some defendants with attorneys in cases involving serious charges. Military trials generally are open to the public but may be closed for reasons such as national security or when publicity might harm the victim or a third party; for example, cases involving rape or child abuse. Defendants in military courts are entitled to only one appeal.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The OHCHR estimated there were 123 political prisoners or detainees, including the 71 MSD youths arrested in March. The government denied it held persons for political reasons.</p>
+<p>In March authorities tried the 71 MSD youths arrested after a violent confrontation with police (see section 1.d.). According to HRW most of the detainees were charged with “rebellion, insults, and acts of violence against law enforcement agents, grievous bodily harm, and participation in an insurrectional movement.” Twenty-one of the 71 received life sentences, 10 received 10-year sentences, 15 received five-year sentences, 22 were acquitted, and three minors received three-year sentences. According to Amnesty International’s (AI) July report, the trial “failed to comply with fair trial standards; among other things, the defendants were unable to present a defense.” The defendants were subjected to a mass trial, which is illegal in the country, and the process was completed in an improbably fast three weeks. At a hearing on September 22, at which the defense filed an appeal claiming the sentences were too severe, the prosecutor responded that he would also appeal the sentences, particularly the acquittals, as too lenient. In an unusual move, on October 27 the appeal took place in Mpimba Prison, where international and domestic observers and the press were allowed to attend. Shortly thereafter the court decided to postpone the appeal hearing.</p>
+<p>Prison authorities did not treat the 71 prisoners differently from other prisoners, and international human rights and humanitarian organizations had regular access to them.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals and organizations may seek civil remedies for human rights violations but are precluded from appealing decisions to an international or regional court.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for the right to privacy and require search warrants, but authorities did not always respect these rights.</p>
+<p>Membership in a registered political party often is needed to obtain or retain employment in the civil service and the benefits that accrue from such positions, such as transportation allowances, free housing, electricity, water, exemption from personal income taxes, and interest-free loans.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section2"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, but the government did not always respect these rights.</p>
+<p><u>Freedom of Speech</u>: The law protects public servants and the president against “words, gestures, threats, or writing of any kind” that is “abusive or defamatory” or would “impair the dignity of or respect for their office.” The law also prohibits racially or ethnically motivated hate speech. The law mandates a penalty of six months to five years in prison and a fine of approximately 10,000 to 50,000 Burundian francs ($6.40 to $32) for insulting the head of state. Some journalists, lawyers, NGO personnel, and leaders of political parties and civil society alleged the government used the law to intimidate and harass them (see sections 1.d. and 3).</p>
+<p>For example, on September 14, in Ruyigi Province, security forces detained a radio journalist from the major opposition radio station African Public Radio who allegedly insulted the governor of the province. They released the journalist without charge the following day.</p>
+<p><u>Press Freedoms</u>: The government owned and operated <i>Le Renouveau</i>, the only daily newspaper, and Radio Television Nationale du Burundi, the sole television and radio station with national coverage. The law prohibits political parties, labor unions, and foreign NGOs from owning media outlets and forbids the media from spreading “hate” messages or from using abusive or defamatory language against public servants acting in their official capacity that could damage the dignity of or respect for the public office.</p>
+<p>In 2013 the government passed a media law that requires journalists to reveal sources in some circumstances and prohibits the publication of articles deemed to undermine national security. Prohibited topics include national defense, public safety, state security, the local currency, personal privacy, pretrial investigations, libel, and disparaging the head of state. Penalties include fines that far exceed the financial resources of journalists and most press agencies and are disproportionate to fines incurred for similar offenses. The National Communications Council (CNC), the state agency that oversees the enforcement of media laws, may close media outlets that violate the new law. Reporters Without Borders, which campaigned for months against the law, described its June 4 promulgation as “a black day for freedom of information in Burundi” that set back the country by more than 20 years.</p>
+<p>During the year the CNC reviewed all projects or legislative proposals relating to the press and imposed sanctions on media organizations that it deemed in violation of the law. Although it lacked the resources to investigate and did not file lawsuits, the CNC referred cases to the prosecutor general of the appropriate province and exercised its power to suspend media outlets or reprimand journalists it deemed in violation of the law.</p>
+<p>During the summer the government threatened to close any radio station that covered the arrest and trial of human rights activist Mbonimpa (see sections 1.d. and 5). The government also warned the media against using Mbonimpa’s voice on the radio or his photograph in print media. Several independent radio stations continued to cover Mbonimpa’s case and to play a popular Kirundi-language song in his support. Authorities took no action against progovernment station Radio REMA FM, which criticized Mbonimpa daily in its broadcasts.</p>
+<p><u>Violence and Harassment</u>: Some journalists investigating controversial subjects such as corruption and human rights violations reported receiving threats from members of police, the SNR, and the CNDD-FDD.</p>
+<p>Journalists were sued for covering reports of Burundian armed youth groups receiving military training in the Democratic Republic of the Congo (DRC).</p>
+<p><u>Censorship or Content Restrictions</u>: The government censored the media and penalized journalists who published items critical of public servants and the president. Broadly construed laws against libel, hate speech, and treason, in conjunction with the 2013 media law, caused a climate that fostered a high degree of self-censorship.</p>
+<p><u>Libel Laws/National Security</u>: Libel laws prohibit the public distribution of information that exposes a person to “public contempt” and carry penalties of prison terms and fines. The crime of treason, which includes knowingly demoralizing the military or the country in a manner that endangers national defense during a time of war, carries a criminal penalty of life imprisonment. It is a crime for anyone knowingly to disseminate or publicize false rumors likely to alarm or excite the public against the government or to promote civil war. It is illegal for anyone to display drawings, posters, photographs, or other items that may disturb the public peace. Penalties range from two months’ to three years’ imprisonment and fines. Some journalists, lawyers, and leaders of political parties, civil society groups, and NGOs alleged the government used these laws to intimidate and harass them.</p>
+<p>In the spring authorities charged two journalists in Bubanza Province with endangering state security after they reported the CNDD-FDD distributed weapons to its youth wing, the Imbonerakure. Although not detained, the journalists were required to check in regularly with the court during the summer and fall. In October their trial began. If convicted, the journalists faced one- to two-year prison sentences. The case resulted in increased self-censorship by other stations, particularly African Public Radio.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or credible reports the government monitored e���������mail or internet chat rooms. According to a 2013 International Telecommunication Union estimate, 1.3 percent of individuals used the internet.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly, but the government restricted this right severely (see section 1.d.). The law requires political parties and large groups to notify the government prior to a meeting, but even if notified, authorities denied permission for opposition members to meet, and, if they did so, sometimes dispersed them. In its July report, AI reported that “authorities routinely and arbitrarily deny groups authorization to hold meetings and demonstrations whose purpose is often to discuss or raise concerns in relation to political developments or state accountability for human rights.”</p>
+<p>Between January and September, the OHCHR documented 42 cases in which the government restricted the rights of peaceful assembly and association. Opposition political parties were restricted in 35 instances, the Burundian Bar Association in two, civil society in four, and the journalist’s union in one.</p>
+<p>In July the wing of the opposition Union for National Progress (UPRONA) alleged that the government did not recognize scheduled a central committee meeting at its headquarters (see section 3). Acting on orders from the Ministry of Interior, police prevented party members from entering their building and forced them onto a football field nearby. In contrast the government-recognized wing of the party called a general assembly two weeks later, where there was a large police presence to protect the recognized party. After significant international and diplomatic protest, the Ministry of Interior responded there had been confusion between the approval level and the working level.</p>
+<p>In June the civil society coalition Forum for the Reinforcement of Civil Society (FORSC) attempted to organize a peaceful demonstration in support of Mbonimpa (see sections 2.a. and 5). FORSC filed all the necessary paperwork, but the mayor of Bujumbura denied the request, calling it “insurrectional.” After receiving and reviewing FORSC’s appeal, the Ministry of Interior stated it would never authorize the demonstration. FORSC sued, and the court heard opening arguments in November. The case continued at year’s end.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-Country Movement</u>: The government strongly encouraged citizens to participate in community-level work projects every Saturday morning and imposed travel restrictions on citizens from 8:30 a.m. to 10:30 a.m. Permits are required for movement outside of one’s community during those hours, and police enforced the restrictions through roadblocks. Persons could obtain waivers in advance. All foreign residents were exempt.</p>
+<p><u>Exile</u>: The law does not provide for forced exile, and the government did not practice it. Although some leaders of political parties that boycotted the 2010 elections returned to the country, others remained in self-imposed exile, claiming they feared for their lives.</p>
+<p><u>Emigration and Repatriation</u>: Between August 2013 and June 30, the government of Tanzania forcibly returned to the country approximately 45,000 Burundians whom it referred to as “illegal aliens.” In October 2013 after significant pressure from the diplomatic community, the Tanzanian government reduced the rate of deportations but did not stop them completely. The International Organization for Migration improved or established transit centers in Makamba, Rutana, Ruyigi, and Muyinga provinces to handle the flow of migrants. The transit centers were officially closed by mid-November.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>As a result of successive waves of civil war and unrest beginning in 1972, there were approximately 80,000 IDPs in 120 sites throughout the country, according to 2013 UNHCR estimates. Some IDPs attempted to return to their rural places of origin, but the majority returned to the sites or relocated to urban centers. The government generally permitted IDPs to be included in programs provided by the UNHCR and other humanitarian organizations to benefit returning refugees, such as shelter and legal assistance programs.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has a system for providing protection to refugees.</p>
+<p>Approximately 47,000 Congolese refugees remained in the country, prevented from returning to the DRC because of continuing violence there. While the country offered the relative security of camps, the government did not offer local integration to the majority of the refugees, citing the added strain on land and jobs that such an effort would constitute. Efforts to resettle Congolese refugees in foreign countries began during the year.</p>
+<p><u>Employment</u>: Refugees have the right to work except in the army, police, and judiciary.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>Citizenship generally derives from citizenship of parents. According to the UNHCR, an estimated 1,400 stateless persons lived in the country at the end of 2012. All were from Oman, were awaiting proof of citizenship from the Government of Oman, and had lived in Burundi for decades. The government offered the stateless Omanis citizenship if they could not get Omani citizenship.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section3"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through free and fair elections based on universal suffrage. Citizens exercised this right in 2010 presidential, legislative, and communal elections. On March 7, however, the UN high commissioner for human rights warned against “increasing restrictions on political and civil rights ahead of the 2015 elections” following a series of violent acts by the ruling party’s Imbonerakure and the disruption of public meetings organized by opposition parties.</p>
+<p>In its July report <i>Locked Down: A Shrinking of Political Space</i>, AI documented government efforts to harass and intimidate the opposition in advance of scheduled 2015 presidential, legislative, and communal elections. It claimed authorities “routinely and arbitrarily deny groups authorization to hold meetings and demonstrations” and that the government “denied political opposition groups, the press, the Burundian Bar Association, and civil society organizations their rights to association and peaceful assembly.”</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2010 the government held five separate elections: communal councils (May), presidential (June), National Assembly (July), Senate (July), and village councils (September). Voter turnout in the communal elections was more than 90 percent. Following the communal elections, a coalition of 12 parties withdrew and boycotted the remaining four elections. Following the withdrawal of the opposition coalition, the CNDD-FDD’s presidential candidate, Pierre Nkurunziza, ran unopposed, and the CNDD-FDD won absolute majorities in the National Assembly and Senate.</p>
+<p>The EU’s Election Observation Mission, which monitored the five elections, noted that the presidential and communal council elections were largely peaceful and generally well managed by the Independent Electoral Commission. Nevertheless, the mission reported that the political and electoral environment was characterized by unfair use by the CNDD-FDD of government facilities and financial resources during the campaigns, the absence of pluralistic competition, and government and ruling party restrictions on the freedoms of political party expression and assembly of its competitors. Members of the youth wings of several rival political parties were the main perpetrators of intimidation and violence before, during, and after the elections.</p>
+<p><u>Political Parties and Political Participation</u>: According to the law, to qualify for public campaign funding and compete in the 2015 legislative and presidential elections, parties must be “nationally based” (ethnically and regionally diverse) and demonstrate in writing that they are organized and have membership in all provinces. As of November the Ministry of Interior recognized 38 political parties. Three other parties--FNL (Forces for National Liberation)-Rwasa, UPRONA-Nditije, and UPD (Union for Peace and Development)-Mugwengezo--had members but were not officially recognized. In 2013 there were 42 registered political parties, the vast majority based on family, clan, or region and representing localized interests.</p>
+<p>The increasingly involvement of the Ministry of Interior in opposition party leadership and management kept political parties weak and fractured. In March 2013 the ruling party and opposition met during a UN-backed workshop and agreed on a roadmap for the 2015 elections as well as the adoption of an electoral code. After the meetings ended, the government pulled back from its commitments, stating the law and constitution allow only legally constituted political parties, coalitions of political parties, and independent candidates to run for office, and that unrecognized leaders of parties and political actors not associated with a party could play no role in the political process. This stance effectively disenfranchised opposition party wings and prevented their leaders from developing platforms and running campaigns in the months before the 2015 elections.</p>
+<p>The UPRONA party, for example, was officially led by Concilie Nibigira, but the vast majority of UPRONA’s members were loyal to Charles Nditije, whom the government did not recognize as the party leader. When the majority wing of UPRONA attempted to legitimate the leadership of Nditije by a meeting and vote of the Central Committee, the Ministry of Interior prevented the meeting from taking place, claiming the Central Committee did not have permission to use UPRONA’s party headquarters. The government-recognized wing expelled Nditije from UPRONA, and Nditije lost his legal ability to work in politics.</p>
+<p>Authorities harassed opposition party members. For example, in May, SNR agents in Rutana Province arrested three members of the opposition Union for Peace and Development-Zigamibanga party. The three, who had met illegally in a home with another friend, reportedly were held for several days and then released without charge.</p>
+<p>Although the constitution provides that only a court conviction may prevent an otherwise qualified individual from running for office, the government interpreted articles 94 and 95 of the electoral code as denying any person with a pending charge the opportunity to run in an election. At year’s end several opposition members found themselves charged with a variety of crimes.</p>
+<p>Violence perpetrated by the Imbonerakure accompanied increasing restrictions on political parties. According to AI, members of the Imbonerakure “intimidated political opposition members, prevented political party meetings, and attacked members of the political opposition with impunity.” Between January and September, the Imbonerakure were accused of 90 serious acts of violence, 64 of which were committed against opposition members. In 17 of the acts, the Imbonerakure collaborated with police or the local administration. In four cases the implicated members of the Imbonerakure were school directors, indicating that not all Imbonerakure members were unemployed youth and that political interference extended to schools. According to AI, the government did not effectively investigate allegations of such abuse or bring those responsible to justice.</p>
+<p>In contrast to the restrictions imposed on opposition parties, the ruling party used government resources for campaign and other purposes. For example, in August the CNDD-FDD reportedly distributed public health system cards to sympathizers in the countryside. Additionally the party reportedly provided national identity cards to underage youth who promised to vote for its candidates and denied registration to nonparty voters.</p>
+<p><u>Participation of Women and Minorities</u>: The constitution reserves 30 percent of seats in the National Assembly, the Senate, and the communal councils for women. There were 35 women in the 106-seat National Assembly and 18 women in the 41-seat Senate. The constitution also mandates that 30 percent of appointed government positions be set aside for women, a target that was met. Women held seven of 21 ministerial positions. Additionally, there were seven women on the 25-member Supreme Court and three women on the seven-member Constitutional Court.</p>
+<p>The constitution provides for representation in all elected and appointed government positions for the two main ethnic groups: the Hutu majority is entitled to no more than 60 percent and the Tutsi minority to no less than 40 percent. Three seats in each chamber of parliament are designated for the Twa ethnic group, who make up less than 1 percent of the population.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section4"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but corruption remained a very serious problem. The government did not fully implement the law, and some high-level government officials engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: The public widely viewed police to be corrupt, and petty corruption of police was commonplace.</p>
+<p>A court sentenced at least one SNR official to jail for abuse of authority after he facilitated the shipment of 660 pounds of ivory to Malaysia.</p>
+<p>Judicial corruption occurred. Judges who failed to follow politicized instructions were often punished. For example, the minister of justice reportedly transferred judges who had fallen from favor to remote districts, far from their families.</p>
+<p>In June the Tax and Customs Revenue Authority (OBR) was returned to local control--an Irish national had headed it since 2010. In 2010 the government fired OBR personnel, tightened procedures, and put the authority under foreign management. As a result, tax and revenue collections for 2010 through 2012 (the last year for which figures are available) increased 76 percent.</p>
+<p>The state inspector general and the Anticorruption Brigade of the Ministry of Good Governance and Privatization are responsible for investigating government corruption. Within the judiciary there is a designated anticorruption general prosecutor and an anticorruption court. The Anticorruption Brigade has the authority to investigate, arrest, and refer offenders to the anticorruption general prosecutor.</p>
+<p>Between January and October, the Anticorruption Brigade investigated 163 cases. The brigade claimed it recovered more than 292 million Burundian francs ($187,000) and prevented more than 1.5 billion Burundian francs ($900,000) in government losses.</p>
+<p>In view of the lengthy backlog of cases in the anticorruption court and the difficulty of obtaining convictions, the Anticorruption Brigade resorted in many instances to enforcing the law through out-of-court settlements in which the government agreed not to prosecute if the offending official agreed to reimburse the money stolen. The government also exercised its power to freeze and seize property and bank assets of officials to compel reimbursement, although corrupt officials were permitted to retain their positions in most cases.</p>
+<p><u>Financial Disclosure</u>: The law requires financial disclosure by elected officials and senior appointed officials once every five years, but it does not require public disclosure. The president, two vice presidents, and cabinet ministers are obligated to disclose assets upon taking office. No other officials are required to disclose assets. There was no record of such disclosures, and no penalty is provided in the law for failure to disclose.</p>
+<p><u>Public Access to Information</u>: The law does not provide for public access to government information.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section5"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were not always cooperative and responsive to their views, however.</p>
+<p>Human rights groups continued to operate and publish newsletters documenting human rights abuses and to participate in meetings sponsored by the government and international organizations. Nevertheless, some national human rights NGOs reported that government officials intimidated and harassed them.</p>
+<p>For example, on May 15, security forces arrested Pierre-Claver Mbonimpa, the president of the Association for the Protection of Human Rights and Detained Persons, after he described on the radio allegations that young Burundians were being armed and trained in the DRC. Authorities charged Mbonimpa with endangering state security and using false documents. On several occasions Mbonimpa’s lawyer requested the release of his client from prison due to poor health, but the court rejected the requests. After Mbonimpa became seriously ill and went into hospital in late August, the court ordered a medical evaluation. On September 29, Mbonimpa was provisionally released on medical grounds, although he was required to remain in Bujumbura pending trial. The government did not investigate allegations regarding the arming and training of Burundian youth.</p>
+<p>During the year local NGOs reported the governing party created new civil society organizations to compete with them. The government-aligned organizations tailored their messages to confuse or dilute the objectives and work of independent organizations. For example, a government-associated human rights organization identified overpopulation resulting from rape as one of its key areas of work.</p>
+<p><u>Government Human Rights Bodies</u>: The Office of the Ombudsman, which monitored prison conditions, was widely perceived by both domestic NGOs and their international partners to be impartial and effective.</p>
+<p>The National Independent Human Rights Commission (CNIDH), a quasigovernmental body charged with investigating human rights abuses, exercised its power to summon senior officials, demand information, and order corrective action. The CNIDH, which also monitored the government’s follow-up, may not release its findings to the public. Local and international partners widely perceived the commission as independent and effective.</p>
+<p>Human rights committees in the National Assembly and the Senate worked on a range of issues including human rights, anti-trafficking legislation, and administrative themes.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section6"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides for equal status and protection for all citizens, without distinction based on race, language, religion, sex, or ethnic origin, but the law does not explicitly address distinctions based on sexual orientation or gender identity. The government did not enforce the law in many cases.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law prohibits rape, including spousal rape, with penalties of up to 30 years’ imprisonment. The law prohibits domestic abuse of a spouse, with punishment ranging from fines to three to five years’ imprisonment. The government did not enforce the law uniformly, and rape and other domestic and sexual violence continued to be serious problems.</p>
+<p>Centre Seruka, a clinic for rape victims, reported an average of 135 new rape cases per month from January through September. Of that number, 68 percent were minors, and 17 percent were children under age five. Centre Seruka also reported approximately 30 percent of its clients filed complaints, and 70 percent knew their aggressors.</p>
+<p>The Morals Brigade in the Burundian National Police is responsible for investigating cases of sexual violence and rape, as well as trafficking of girls and women.</p>
+<p>Many women were reluctant to report rape for cultural reasons, due to fear of reprisal. Men often abandoned their wives following acts of rape, and rape victims experienced ostracism by their families and communities. In some cases police and magistrates required rape victims to provide food for and pay the costs of incarceration of those they accused of rape.</p>
+<p>The government, with financial support from international NGOs and the United Nations, continued civic awareness training on domestic and gender-based violence and the role of police assistance throughout the country. Those trained included police, local administrators, and grassroots community organizers.</p>
+<p>Civil society organizations worked to overcome the cultural stigma of rape to help victims reintegrate into families that rejected them. The organizations also encouraged rape victims to press charges and seek medical care. Centre Seruka and Centre Nturengaho provided shelter and counseling to victims of rape and domestic violence. Several international NGOs provided free medical care, mostly in urban areas.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not prohibit FGM/C, but it was virtually unknown in the country.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment, including the use of threats of physical violence or psychological pressure to obtain sexual favors. Punishment for sexual harassment may range from a fine to a prison sentence of one month to two years. The sentence for sexual harassment doubles if the victim is under age 18. The government did not actively enforce the law. There were reports of sexual harassment but no data on its frequency or extent.</p>
+<p><u>Reproductive Rights</u>: The government recognized the right of couples and individuals to decide freely and responsibly the number, spacing, and timing of having children and to have the information and means to do so free from discrimination, coercion, and violence. For cultural reasons husbands often made the final decisions about family planning. Health clinics and local health NGOs were able to disseminate freely information on family planning under the guidance of the Ministry of Public Health. The government provided free childbirth services, but the lack of doctors meant most women used nurses or midwives during childbirth and for prenatal and postnatal care, unless the mother or child suffered serious health complications. According to the 2010 Demographic and Health Survey, skilled attendants were present at 60 percent of births. According to the UN Population Fund, the 2013 maternal mortality rate was 740 per 100,000 live births. The main factor influencing maternal mortality was inadequate medical care.</p>
+<p>There were no restrictions on access to contraceptives, but the contraceptive usage rate was estimated at only 22 percent. According to a 2009 survey, this low rate was due to male opposition or lack of involvement in family planning, lack of communication between partners on family planning, women’s lack of decision-making authority on questions related to reproductive health, absence of contraceptives in faith-based health clinics, and societal suspicion of family planning and modern contraceptive methods. Men and women had equal access to diagnosis and treatment for sexually transmitted infections, including HIV.</p>
+<p><u>Discrimination</u>: Despite constitutional protections, women continued to face legal, economic, and societal discrimination including with regard to inheritance and marital property laws. The Ministry of National Solidarity, Human Rights, and Gender is responsible for combating discrimination against women.</p>
+<p>By law women must receive the same pay as men for the same work, but they did not (see section 7.d.). Some employers suspended the salaries of women on maternity leave, and others refused medical coverage to married female employees. Women were less likely to hold mid- or high-level positions in the workforce, although they owned businesses, particularly in Bujumbura.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The constitution states that citizenship derives from the parents. The government registers, without charge, the births of all children if registered within a few days of birth. The government fines parents who do not register a birth within the time limit. An unregistered child may not have access to some public services, such as free public schooling and medical care for children under five years old.</p>
+<p><u>Education</u>: Education was free, compulsory, and universal through the secondary level, but students were responsible for paying for books and uniforms.</p>
+<p><u>Child Abuse</u>: The law prohibits violence against or abuse of children, with punishment ranging from fines to three to five years’ imprisonment, but child abuse was a widespread problem. The penalty for rape of a minor is 10 to 30 years’ imprisonment. During the year local hospitals, NGOs, and human rights associations noted a particularly high number of rape and sexual abuse cases of children in Rumonge, Burambi, and Buyengero communes of Bururi Province; there also were several reported cases of child rape from Ngozi, Muyinga, Bujumbura, and Bujumbura Rurale provinces, although statistics were unavailable. Centre Seruka reported 96 percent of rape victims who visited its facility during the year were girls and women and that the average age of victims was 15. The UN Development Fund for Women reported that in many instances, rapists were motivated by their belief that the rape of minors would prevent or cure sexually transmitted diseases, including HIV/AIDS.</p>
+<p><u>Early and Forced Marriage</u>: The legal age for marriage is 18 for girls and 21 for boys. No statistics were available on the rate of early marriage. Forced marriages are illegal and were rare, although they reportedly occurred in southern, more heavily Muslim, areas. The Ministry of Interior continued an effort to convince imams not to celebrate illegal marriages.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C</u>): The law does not prohibit FGM/C, but it was virtually unknown in the country.</p>
+<p><u>Other Harmful Traditional Practices</u>: The traditional practice of removing a newborn child’s uvula (the flesh that hangs down at the rear of the mouth) continued to cause numerous infections and deaths of infants.</p>
+<p>Persons with albinism, particularly children, were sometimes targeted for their body parts, which were used for ritual purposes. Most perpetrators were citizens of other countries, who came to kill and then departed the country with the body parts, impeding government efforts to arrest perpetrators. According to Nathalie Muco, chairperson of Albino Women’s Hope Association, persons with albinism were not accepted by society and were often unemployed and lonely. Women with albinism often were “chased out by their families because they are considered as evil beings.” There were no government programs dedicated to helping persons.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum age for consensual sex is 18. The penalty for commercial sexual exploitation of children is five to 10 years in prison and a fine of between 20,000 ($12.80) and 50,000 Burundian francs ($32). The law punishes child pornography by fines and three to five years in prison. There were no prosecutions during the year.</p>
+<p>While little evidence existed of large-scale child prostitution, older women offered vulnerable younger girls room and board within their homes under the guise of benevolence and in some cases forced them into prostitution to pay for living expenses. Brothels were located in poorer areas of Bujumbura, along the lake, and on trucking routes. Extended family members sometimes also financially profited from the prostitution of young relatives residing with them. Businesses recruited local girls for prostitution in Bujumbura and nearby countries.</p>
+<p>Early in the year, the staff members of the Centre Seruka identified a house near the bus terminal in Bujumbura as a trafficking point for young girls from rural areas. They reported it to police and, as is customary in the country, drove police to the location for observation. When police were ready to move on the house, they requested transport to the location. Centre Seruka, which may not participate in actual police operations, refused. Police took no action against the alleged traffickers.</p>
+<p>The country was a destination for child sex tourism. Although no cases were reported during the year, there were reports is past years that male tourists from the Middle East exploited local girls for prostitution, mainly in newly constructed high-end neighborhoods.</p>
+<p><u>Displaced Children</u>: Thousands of children lived on the streets in the three largest cities--Bujumbura, Gitega, and Ngozi. Many of the children were HIV/AIDS orphans. The government provided street children with minimal educational support and relied on NGOs for basic services such as medical care and economic support.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>No estimate was available on the size of the Jewish community. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits discrimination against persons with physical, mental, sensory, or intellectual disabilities. Nevertheless, the government did not promote or protect the rights of persons with disabilities with regard to employment, education, or access to health care (see section 7.d.); the law does not address air travel and other transportation. Although persons with disabilities are eligible for free health care through social programs targeting vulnerable groups, authorities did not widely publicize or provide benefits. Employers often required health certification from the Ministry of Public Health, a practice that sometimes resulted in discrimination against persons with disabilities.</p>
+<p>The Ministry of National Solidarity, Human Rights, and Gender coordinates assistance and protects the rights of persons with disabilities. The government did not enact legislation or otherwise mandate access to buildings, information, or government services for persons with disabilities. The government supported a center for physical therapy in Gitega and a center for social and professional reinsertion in Ngozi for persons with physical disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The Twa, the original hunter-gatherer inhabitants of the country, numbered approximately 80,000 and constituted less than 1 percent of the population. They generally remained economically, politically, and socially marginalized. Lack of education, employment, and access to land were among their major problems. By law local administrations must provide free schoolbooks and health care for all Twa children and two acres of land per family (comparable to the average size of a farmstead, countrywide). Local administrations largely fulfilled these requirements. The constitution provides for three appointed seats for Twa in each of the houses of parliament. Following the 2010 election, there were allegations that one of these three Senate seats was occupied by a non-Twa. In 2013 the Constitutional Court ruled the incumbent of the third seat was a Twa; other Twa continued to claim the incumbent was a Hutu.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law criminalizes same-sex sexual acts with penalties ranging from fines to imprisonment of three months to two years. Since its passage in 2009, however, it has not been applied.</p>
+<p>The Remuruka Center in Bujumbura offers urgent services to the LGBT community. The government neither supported nor hindered the activities of local LGBT organizations or the center.</p>
+<p>In September a Vietnamese employee of the telephone company Viettel was caught in sexual relations with a Burundian man in Karuzi Province. The Burundian man alleged that it was nonconsensual sex, and the Vietnamese man was detained. Authorities dropped the case after three days for lack of evidence.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The constitution specifically outlaws discrimination against persons with HIV/AIDS or other “incurable” illnesses; there were no reports of societal violence or discrimination against persons with HIV/AIDS.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section7"> </span><span class="st_twitter" st_title="Burundi #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Burundi - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236334%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of workers to form and join independent unions. A union must have at least 50 members. Most civil servants may unionize, but they must register with the Ministry of Civil Service, Labor, and Social Security. Police, the armed forces, magistrates, and foreigners working in the public sector may not form or join unions. Workers under age 18 must have the consent of their parents or guardians to join a union.</p>
+<p>The law provides workers with a conditional right to strike after meeting strict conditions. It bans solidarity strikes. The parties must exhaust all other means of resolution (dialogue, conciliation, arbitration, etc.) prior to a strike. Negotiations mediated by a mutually agreed party or by the government must continue during the action and intending strikers must give six days’ notice to the employer and the Labor Ministry. The ministry must determine whether strike conditions have been met and has a de facto veto power over all strikes. The law permits requisition orders in the event of strike action. The law prohibits retribution against workers participating in a legal strike.</p>
+<p>The law also recognizes the right to collective bargaining, excluding measures regarding public sector wages, which are set according to fixed scales following consultation with unions. The law prohibits antiunion discrimination. The law does not specifically provide for reinstatement of workers dismissed for union activity.</p>
+<p>The government did not effectively enforce applicable laws. Resources for inspection and remediation were inadequate, and penalties--which ranged from 5,000 to 20,000 Burundian francs ($3.20 to $12.80)--were insufficient to deter violations. Administrative and judicial procedures were subject to lengthy delays and appeals.</p>
+<p>The government placed excessive restrictions on freedom of association and the right to collective bargaining and sometimes interfered in union activities.</p>
+<p>Most unions were public-employee unions, and virtually no private-sector workers were unionized. Since most salaried workers were civil servants, government entities were involved in almost every phase of labor negotiations. The principal trade union centers represented labor interests in collective bargaining negotiations, in cooperation with individual labor unions.</p>
+<p>Most laborers worked in the unregulated informal economy and were unprotected by other than minimum wage labor laws. According to the Confederation of Burundian Labor Unions, virtually no informal sector workers had written employment contracts.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits most forms of forced or compulsory labor, including by children. The government did not effectively enforce applicable laws. Resources for inspections and remediation were inadequate, and the penal code did not specify penalties. Workplace inspectors had authority to impose fines at their own discretion.</p>
+<p>Children and young adults were coerced into forced labor on plantations or small farms in the south, small-scale menial labor in gold mines in Cibitoke, carrying river stones for construction in Bujumbura, or engaging in informal commerce in the streets of larger cities (see section 7.c.).</p>
+<p>The government encouraged citizens to participate in community work each Saturday morning and imposed travel restrictions on citizens during the hours of 8:30 to 10:30 a.m.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt"><u>www.state.gov/j/tip/rls/tiprpt</u></a><u>/</u>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law states that enterprises may not employ children under age 16, with exceptions permitted by the Labor Ministry. These exceptions include light work or apprenticeships that do not damage children’s health, interfere with their normal development, or prejudice their schooling. The minister of labor permitted children age 12 and above to be employed in “light labor,” such as selling newspapers, herding cattle, or preparing food. The legal ages for most types of “nondangerous” labor varies from 16 to 18. The law prohibits children from working at night and limits them to 40 hours’ work per week. The law makes no distinction between the formal and informal sectors.</p>
+<p>The Labor Ministry is responsible for enforcing child labor laws, and it had multiple enforcement tools, including criminal penalties, civil fines, and court orders. Nevertheless, the government did not effectively enforce child labor laws. Due to a lack of inspectors and resources, including fuel for vehicles, the ministry enforced the law only when a complaint was filed. The penalties for violations ranged from 5,000 to 20,000 Burundian francs ($3.20 to $12.80). Penalties were not sufficient to deter violations. During the year the government acknowledged no cases of child labor in the formal sector of the economy and conducted no child labor investigations.</p>
+<p>Because of extreme poverty, child labor was an economic necessity for many families and remained a problem. In rural areas children under age 16 regularly performed heavy manual labor in the daytime during the school year, primarily in the agricultural sector. Children working in agriculture could be subject to carrying heavy loads and using potentially dangerous machinery and tools. They also herded cattle and goats, which exposed them to harsh weather conditions and forced them to work with large or dangerous animals. Many children worked in the informal sector, including family businesses, street vending, and small brick-making enterprises.</p>
+<p>In urban areas children working in domestic service often were isolated from the public, and some received in-kind remuneration, such as food and shelter in lieu of wages for their work. Some employers avoided paying their child domestics by accusing them of criminal activity, and at times children were incarcerated because of false accusations. Children in domestic service were vulnerable to long working hours and physical exploitation by their employers.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor </i>at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The constitution provides workers the right to dignified work and equal pay for equal work. The constitution does not specifically prohibit discrimination against any particular group but rather provides for equal rights. Most economic activity took place in the informal sector, where protection was not generally provided. Some individuals stated that membership in the governing party was a prerequisite for formal public and private sector employment.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The market-based daily minimum wage in Bujumbura for unskilled laborers was 2,500 Burundian francs ($1.60). In the past the government set the minimum wage, but during the year it was set by market forces. In the interior of the country, the daily minimum wage was 1,000 Burundian francs ($0.65), with lunch provided in addition. The government estimated 62 percent of the population lived below the poverty line, which the World Bank defined as a daily wage of $0.50 in urban areas and $0.38 in rural areas. More than 90 percent of the population participated in the informal economy. Daily wages in the informal sector averaged between 2,500 and 3,000 Burundian francs ($1.60 to $1.95) in Bujumbura and between 1,000 and 1,500 Burundian francs ($0.65 to $0.98) in the interior of the country. The labor code provides for an eight-hour workday and a 40-hour workweek, but there were many exceptions, such as for workers in national security, residential security, and transport drivers. Supplements must be paid for overtime work: 35 percent for the first two hours and 60 percent thereafter. Premium pay for weekends and holidays is 200 percent. There is no statute concerning compulsory overtime. Rest periods include 30 minutes for lunch. There is no legal differentiation between foreign or migrant workers and citizen workers.</p>
+<p>The labor code establishes occupational safety and health (OSH) standards that require safe workplaces. Many new buildings under construction in Bujumbura, however, used workers without protective gear, such as closed-toe shoes, and scaffolding built of wooden poles of irregular length and width.</p>
+<p>The Department of Inspection within the Labor Ministry has responsibility for enforcing the law regarding minimum wage, work hours, and OSH standards. The penalties for violations ranged from 5,000 to 20,000 Burundian francs ($3.20 to $12.80). The government did not effectively enforce these laws. Due to a lack of inspectors and resources, including fuel for vehicles, the ministry investigated possible violations only when a complaint was filed.</p>
+<p>Employees generally did not complain to avoid jeopardizing their jobs. Despite the fact that workplace environments often did not meet OSH standards, there were neither known examples of citing employers for violations of OSH standards, nor reports of OSH complaints filed with the ministry during the year. There were no data on workplace fatalities. Workers were allowed to leave a worksite in a situation of imminent danger without fearing penalties.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

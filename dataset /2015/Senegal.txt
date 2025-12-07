@@ -1,0 +1,474 @@
+2015
+Senegal
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721"> </span><span class="st_facebook" st_title="Senegal" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252721">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252721</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li><a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=executive"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Senegal is a moderately decentralized republic dominated by a strong executive branch. In 2012 voters elected Macky Sall to succeed Abdoulaye Wade as president for a seven-year term. In July 2012 Sall’s coalition won a majority of seats in the National Assembly. Local and international observers viewed the elections as largely free and fair. Civilian authorities generally maintained effective control over the security forces.</p>
+<p>The most significant human rights problems included prison overcrowding, lengthy pretrial detention, and corruption, particularly in the judiciary.</p>
+<p>Other major human rights problems included: physical abuse, including torture, by security forces; arbitrary arrests; questionable investigative detention; lack of judicial independence; restrictions on freedom of speech, press, and assembly; rape, domestic violence, sexual harassment of and discrimination against women; female genital mutilation/cutting; child abuse; early and forced marriage; infanticide; violence and discrimination against lesbian, gay, bisexual, transgender, and intersex (LGBTI) persons; discrimination against persons with HIV/AIDS; trafficking in persons; and child labor, including forced child labor.</p>
+<p>The government continued efforts to investigate and hold to account former Wade administration officials accused of corruption. Nevertheless, impunity for crimes and abuses committed by government and security officials remained a problem.</p>
+<p>In the country’s southern Casamance region, situated between The Gambia and Guinea-Bissau, a de facto ceasefire between security forces and armed separatists continued for a third year. Gunmen associated with various factions of the separatist Movement of Democratic Forces of the Casamance (MFDC), however, continued to rob and harass local populations. While there were occasional, unplanned skirmishes between security forces and MFDC units, neither side conducted offensive operations. Mediation efforts continued in search of a negotiated resolution of the conflict, which began in 1982.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section1"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports the government or its agents committed arbitrary or unlawful killings.</p>
+<p>In August the government dropped charges against Tombon Oualy, the police officer who had been charged with shooting and killing university student Bassirou Faye during an August 2014 student demonstration. The investigative judge subsequently charged another police officer, Mouhamed Boughaleb, with the crime; he remained in pretrial detention at year’s end.</p>
+<p>The two prison guards released on bail in 2014 and accused of the 2013 killing of a detainee at Rebeuss Prison had not been brought to trial by year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, but there were occasional reports government officials employed them.</p>
+<p>Human rights organizations noted examples of physical abuse committed by security forces, including cruel and degrading treatment in prisons and detention facilities. In particular, they criticized strip search and interrogation methods. Police reportedly forced detainees to sleep on bare floors, directed bright lights at them, beat them with batons, and kept them in cells with minimal access to fresh air. The government claimed these practices were not widespread and that it usually conducted formal investigations into cases of abuse. Investigations, however, often were unduly prolonged and rarely resulted in charges or indictments.</p>
+<p>In August the Dakar District Court confirmed charges of torture and manslaughter against seven firefighters--Lat Ndoye, Cheikh Ndir, Onacis Bakouch, Ndji Bassang, Baye Thiaw, Jean Baptiste Sagna, and El Hadj Mamadou Ndour Ndir--in connection with the August 2014 killing of trainee firefighter Cherif Ndao during a training exercise. The seven remained in pretrial detention at year’s end.</p>
+<p>Human rights organizations criticized security force impunity and lack of supervision, particularly in the treatment of detainees in police custody.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions were harsh and sometimes life threatening due to food shortages, overcrowding, poor sanitation, and inadequate medical care.</p>
+<p><u>Physical Conditions</u>: Overcrowding was a problem. For example, Dakar’s main prison facility, Rebeuss, held more than twice the number of inmates for which it was designed. Female detainees generally had better conditions than did men. Pretrial detainees were not always separated from convicted prisoners. Authorities held boys separately from men, while girls were held together with women.</p>
+<p>According to government statistics, 50 prisoners died in custody in 2014.</p>
+<p>In addition to overcrowding, the National Organization for Human Rights, a nongovernmental organization (NGO), identified lack of adequate sanitation as a major problem. Poor and insufficient food, limited access to medical care, stifling heat, poor drainage, and insect infestations also were problems.</p>
+<p><u>Administration</u>: Prison officials kept some records on prisoners, but computerized records were inaccurate due to inadequate staff training and power shortages at many government facilities. Authorities did not use alternatives for sentencing nonviolent offenders. Ombudsmen were available to respond to complaints. Prisoners generally had reasonable access to visitors and some access to lawyers, and they could observe religious practices. Authorities did not permit prisoners and detainees to submit complaints to judicial authorities without censorship or to request investigation of credible allegations of inhuman conditions.</p>
+<p>In 2014 prisoner complaints of harsh treatment prompted at least two inspections by the National Prevention Mechanism, which subsequently submitted a report to the Ministry of Justice that criticized living conditions and lengthy pretrial detention. The inspection resulted in the filing of criminal charges against two prison officials. The case continued at year’s end.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison visits by local human rights groups, all of which operated independently, and international observers. Members of the International Committee of the Red Cross visited prisons in Dakar and the Casamance.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention; however, the government did not always observe these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>Police and gendarmes are responsible for maintaining law and order. The army shares that responsibility in exceptional cases, such as during a state of emergency. The National Police are part of the Interior Ministry and operate in major cities. The Gendarmerie is part of the Ministry of Defense and primarily operates in rural areas.</p>
+<p>Civilian authorities generally maintained effective control over police, gendarmes, and the army, but the government did not have effective mechanisms to punish abuse and corruption. The Criminal Investigation Department (DIC) is in charge of investigating police abuses but was ineffective in addressing impunity or corruption among police.</p>
+<p>An amnesty law covers police and other security personnel involved in “political crimes” committed between 1983 and 2004, except those who committed killings in “cold blood.”</p>
+<p>The Regional Court of Dakar includes a military tribunal, which has jurisdiction over crimes committed by military personnel. The tribunal is composed of a civilian judge, a civilian prosecutor, and two military assistants to advise the judge, one of whom must be of equal rank to the defendant. The tribunal may try civilians only if they were involved with military personnel who violated military law. The military tribunal provides the same rights as a civilian criminal court.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Although the law requires warrants issued by judges for police to make an arrest, police often lacked warrants when detaining individuals. The law grants police broad powers to detain prisoners for long periods before filing formal charges. The DIC may hold persons up to 24 hours before releasing or charging them. Authorities did not promptly inform many detainees of the charges against them. Police officers, including DIC officials, may double the detention period from 24 to 48 hours without charge if a prosecutor so authorizes. Investigators can request that a prosecutor double this period to 96 hours. For cases involving claimed threats to state security, the detention period may extend to 192 hours. The detention period does not formally begin until authorities officially declare an individual is being detained, a practice Amnesty International criticized for resulting in unjustly long detention periods. Bail was rarely available. In the first 48 hours of detention, the accused has no access to an attorney but has the right to a medical examination. Officials generally did not allow family access. The accused has the right to an attorney, and an attorney is provided at public expense in felony cases to all criminal defendants who cannot afford one after the initial period of detention. Indigent defendants do not always receive attorneys in misdemeanor cases. A number of NGOs provided legal assistance or counseling to those charged with crimes.</p>
+<p><u>Arbitrary Arrest</u>: Authorities arbitrarily arrested journalists and a political activist during the year (see sections 2.a. and 3).</p>
+<p><u>Pretrial Detention</u>: According to a December 2014 EU-funded study, approximately 60 percent of the prison population consisted of pretrial detainees. The law states an accused person may not be held in pretrial detention for more than six months for minor crimes; however, authorities routinely held persons in custody until a court demanded their release. Judicial backlogs and absenteeism of judges resulted in an average delay of two years between the filing of charges and the beginning of a trial. In cases involving allegations of murder, threats to state security, and embezzlement of public funds, there were no limits on the length of pretrial detention. In many cases pretrial detainees were held for longer than the length of sentence received.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law provide for an independent judiciary, the judiciary was inefficient and subject to corruption and government influence. Magistrates noted overwhelming caseloads, lack of adequate space and office equipment, and inadequate transportation, and they openly questioned the government’s commitment to judicial independence. According to <i>Freedom in the World 2015</i>, “inadequate pay and lack of tenure expose judges to external influences and prevent the courts from providing a proper check on the other branches of government. The president controls appointments to the Constitutional Council.” Authorities did not always respect court orders.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Defendants enjoy a presumption of innocence and cannot be compelled to testify against themselves or confess guilt. All defendants have the right to a public trial, to be present in court during their trial, to confront and present witnesses, to present evidence, and to have an attorney (at public expense if needed) in felony cases. Defendants have the right to be informed of the charges against them promptly and in detail with free interpretation as necessary. They have the right to sufficient time and facilities to prepare their defense. The government generally respected these rights.</p>
+<p>Evidentiary hearings may be closed to the public and press. Although a defendant and counsel may introduce evidence before an investigating judge who decides whether to refer a case for trial, police or prosecutors may limit their access to evidence against the defendant prior to trial. A panel of judges presides over ordinary courts in civil and criminal cases; a 2012 law eliminated trials by jury. The right of appeal exists in all courts, except for the High Court of Justice. These rights extend to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens may seek cessation of and reparation for human rights violations in regular administrative or judicial courts. Citizens can also seek administrative remedies by filing a complaint with the ombudsman, an independent authority. Corruption and lack of independence hampered judicial and administrative handling of these cases. At times prosecutors refused to prosecute security officials, and violators often went unpunished.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p>The de facto ceasefire in the Casamance has been in effect since 2012, and President Sall continued efforts to resolve the 33-year-old conflict between separatists and government security forces. Both the government and various factions of the MFDC separatist movement accepted mediation efforts led by neutral parties, including Christian and Islamic organizations. Progress toward resolution of the conflict has been incremental.</p>
+<p><u>Killings</u>: Although neither government forces nor MFDC rebels conducted offensive operations in the Casamance during the year, there were several brief, unplanned skirmishes. An undetermined number of MFDC rebels were injured or killed in these encounters.</p>
+<p><u>Abductions</u>: On at least two occasions, individuals believed to be MFDC rebels took hostages, according to local sources. Both incidents were related to acts of banditry.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: There were at least two reports of soldiers injured by landmines planted by the MFDC.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section2"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, but the government occasionally limited these freedoms.</p>
+<p><u>Freedom of Speech</u>: Blasphemy, security, and criminal defamation laws are in place and were occasionally enforced.</p>
+<p>For example, on January 26, the prosecutor pressed charges against Adiya Diakhate--an activist with the Alliance of the Forces of Progress, a party of the governing coalition--for allegedly participating in the booing of Moustapha Niasse, party leader and speaker of the National Assembly. Diakhate had characterized Niasse’s management of the party as “autocratic.”</p>
+<p>In February authorities briefly detained opposition activist Mamadou Massaly for defaming the president of the Social, Economic, and Environmental Council; Massaly had called the council president “a political prostitute.” Authorities subsequently rearrested Massaly on charges of insulting police officers and remanded him to custody; Massaly had told reporters he was arrested, kidnapped, and tortured by the Gendarmerie, which denied the accusation and accused Massaly of defamation. In April authorities released Massaly on bail, and a judge dismissed the case in August.</p>
+<p>On October 12, police arrested Imam Ibrahim Seye, a school teacher, on charges of calling President Sall an “infidel,” of advocating terrorism, and of having ties with a terrorist group. He was in custody awaiting trial at year’s end.</p>
+<p><u>Press and Media Freedoms</u>: Independent journalists regularly criticized the government without reprisal. Many private, independent print publications and three government-affiliated newspapers were published regularly in Dakar, although their distribution in rural areas was irregular.</p>
+<p>Radio was the most important medium of mass information and source of news due to the high illiteracy rate. There were approximately 80 community, public, and private commercial radio stations. Although an administrative law regulates radio frequency assignments, community radio operators claimed a lack of transparency in the process.</p>
+<p>Although the government continued to influence locally televised information and opinion through Radio Television Senegal (RTS), nine privately owned television channels broadcast independently. By law the government holds a majority interest in RTS, and the president directly or indirectly controls selection of all members of the 12-person RTS executive staff.</p>
+<p><u>Violence and Harassment</u>: Government authorities occasionally harassed, detained, and assaulted journalists, although such incidents continued to decline.</p>
+<p><u>Censorship or Content Restrictions</u>: Journalists occasionally practiced self-censorship, particularly in government-controlled media, and selective government media assistance appeared to favor those government and independent outlets friendlier to the administration. The government frequently used subsidies, and in a few cases threats and intimidation, to pressure the media not to publicize certain issues.</p>
+<p><u>Libel/Slander Laws</u>: The law criminalizes libel, and authorities have sometimes used libel laws to block or punish critical reporting and commentary. Unlike in previous years, there were no such cases.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private online communications without appropriate legal authority.</p>
+<p>According to the International Telecommunication Union, approximately 21 percent of individuals used the internet in 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly, but the government sometimes restricted this right. Some groups complained of undue delays in response to authorization requests for public demonstrations. Other groups were denied such authorization.</p>
+<p>For example, in August the government denied authorization for a rally the Senegalese Democratic Party planned to hold in Dakar.</p>
+<p>On February 2, the prosecutor at the Dakar District Court charged eight activists from the main opposition Senegalese Democratic Party--Toussaint Manga, Bocar Niang, Gallo Tall, Aminata Sakho, Djibril Sarr, Daouda Dieye, Pape Fall, and Serigne Ndame Dieng--with participation in an unauthorized public rally. They were remanded to custody pending trial.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of association, and the government generally respected this right.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights.</p>
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, asylum seekers, and stateless persons.</p>
+<p><u>In-country Movement</u>: MFDC banditry and risks from landmines restricted freedom of movement in the Casamance.</p>
+<p><u>Foreign Travel</u>: The law requires some public employees to obtain government approval before departing the country. Only the military and judiciary actively enforced this law and required authorization for travel abroad by military personnel and magistrates.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons</h3>
+<div class="sub-sub-section_content">
+<p>During the 30-year Casamance conflict, tens of thousands of persons left villages in the region due to fighting, forced removal, and land mines. The government estimated 10,000 internally displaced persons (IDPs) remained in the Casamance. Some international humanitarian assistance agencies estimated the IDP number to be as high as 40,000. During the year a growing number of IDPs returned to their villages in the Casamance.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. Since the president must approve each case, delays of one to two years in granting refugee status remained a problem. The government generally granted refugee status or asylum and provided refugees with food and nonfood assistance in coordination with UNHCR and NGOs.</p>
+<p>The government did not offer some asylum seekers due process or security, since appeals filed by denied asylum seekers were examined by the same committee that examined their original case. A denied asylum seeker can be arrested for staying illegally in the country, and those arrested sometimes remained in “administrative detention” for up to three months before being deported.</p>
+<p><u>Durable Solutions</u>: Since 1989 the country has offered temporary protection to Mauritanian refugees, who generally lived in dispersed locations in the Senegal River valley along the Mauritanian border and enjoyed free movement within the country. According to UNHCR, the vast majority of the remaining 13,000 Mauritanian refugees in the country have indicated a desire to remain in Senegal permanently. UNHCR and the governments of Senegal and Mauritania were working together to find durable solutions for this population.</p>
+<p>The government continued to permit generally unsupervised and largely informal repatriation of Casamance refugees returning from The Gambia and Guinea-Bissau.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section3"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law provide citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised this right.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In March 2012 voters elected Macky Sall to succeed Abdoulaye Wade as president for a seven-year term. In July 2012 Sall’s coalition won a majority of seats in the National Assembly. Local NGOs and observers from the EU, African Union, and the Economic Community of West African States characterized the elections as generally free and fair.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section4"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for official corruption, but the government often did not enforce the law effectively. Officials frequently engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: In March the Court for the Suppression of Illicit Enrichment (CREI) convicted Karim Wade, a former government minister and the son of former president Wade, of “illicit enrichment”; he was sentenced to six years in prison and fined 1.38 billion CFA francs ($2.39 million).</p>
+<p>On May 18, the CREI froze the assets of Abdoulaye Balde, the mayor of Ziguinchor and a former cabinet minister, pending the outcome of his corruption trial.</p>
+<p><u>Financial Disclosure</u>: In January 2014 the National Assembly passed a law requiring the president, cabinet ministers, the speaker of the National Assembly and its chief financial officer, and managers of public funds in excess of one billion CFA francs ($1.7 million) to disclose their assets to the National Anticorruption Commission. Failure to comply may result in a penalty amounting to one-quarter of an individual’s monthly salary until forms are filed. The president may dismiss appointees who do not comply. Disclosures, except the president’s, made under the law are confidential, and unauthorized release of asset disclosures is a criminal offense. The president, all cabinet officials, the speaker, and chief financial officer had complied with the law by year’s end.</p>
+<p><u>Public Access to Information</u>: The constitution and law provide citizens the right to access government information, but authorities did not follow consistent practices with respect to determining the grounds for nondisclosure, establishing deadlines for responding to requests for information, or charging processing fees. The government did not have an appeals mechanism to review disclosure denials or public outreach activities or training for public officials on the release of government information.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section5"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A wide variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were somewhat cooperative but rarely took action to address their concerns.</p>
+<p><u>The United Nations or Other International Bodies</u>: The pretrial phase of the prosecution of former Chadian dictator Hissene Habre lasted until the end of 2014. In 2010 the Court of Justice of the Economic Community of West African States ruled that Habre should be tried before a “special ad hoc procedure of an international character.” In 2012 the International Court of Justice ruled that Senegal must indict or extradite Habre “without delay” in accordance with its obligations under the UN Convention against Torture. In response, the government reached an agreement with the African Union to establish the “Extraordinary African Chambers” (EAC) within the Senegalese legal system to try Habre as well as the “persons most responsible” for international crimes committed in Chad during Habre’s rule.</p>
+<p>The EAC created an Investigative Chamber, an Indicting Chamber, a Trial Chamber, and an Appeals Chamber. The Investigative Chamber lasted more than 14 months, eventually leading to the indictment of six individuals: Habre; Saleh Younous and Mahamat Djibrine, two former directors of the Directorate of Documentation and Security (DDS), Habre’s political police force; former DDS director Guihini Korei; the former director of DDS prison service, Abakar Torbo; and the former special security advisor to Habre, Zakaria Berdei. Of the six, only Habre was in Senegal and subject to the jurisdiction of the EAC. Younous, Djibrine, and Berdei were in Chad, while Korei and Torbo remained at large. The Government of Chad, which did not have an extradition agreement with the EAC, did not extradite Younous and Djibrine to Senegal. Chad prosecuted Younous and Djibrine.</p>
+<p>The Habre trial was overseen by three judges--two Senegalese and the presiding judge from Burkina Faso. Habre was represented by three Senegalese lawyers. The more than 4,000 Chadian victims were represented by seven lawyers who were present in court. The trial, which began in July, was held in a courtroom open to the public and was widely covered by the press.</p>
+<p><u>Government Human Rights Bodies</u>: The government’s National Committee on Human Rights included government representatives, civil society groups, and independent human rights organizations. The committee had authority to investigate abuses but lacked credibility, had limited funding, did not meet regularly, did not conduct investigations, and last released an annual report in 2001.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section6"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and laws provide that men and women are equal under the law and prohibit discrimination based on race, religion, citizenship, political opinion, gender, disability, language, HIV-positive status, or social status. Discrimination was widespread, and antidiscrimination laws, in particular laws against violence against women and children, generally were not enforced.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law prohibits rape, which is punishable by five to 10 years’ imprisonment. Nevertheless, the government rarely enforced the law, and rape was widespread. The law does not address spousal rape. The law allows the common practice of using a woman’s sexual history to defend men accused of rape.</p>
+<p>The law criminalizes assaults and provides for punishment of one to five years in prison and a fine. If the victim is a woman, the prison term and fine are both increased. Domestic violence that causes lasting injuries is punishable with a prison sentence of 10 to 20 years. If an act of domestic violence causes death, the law prescribes life imprisonment. Nevertheless, the government did not enforce the law, particularly when violence occurred within the family. Police usually did not intervene in domestic disputes, and most victims were reluctant to go outside the family for redress. Several women’s groups and the Committee to Combat Violence against Women and Children (CLVF) reported a rise in violence against women.</p>
+<p>NGOs, including the CLVF, criticized the failure of some judges to apply domestic violence laws, citing cases in which judges claimed lack of adequate evidence as a reason to issue lenient sentences. NGOs also criticized the government’s failure to permit associations to bring suits on behalf of victims and the lack of shield laws for rape.</p>
+<p>Although current statistics on domestic violence were unavailable, a UN study published in 2015 and based on data collected from relevant national services between 2008 and 2010 in eight regions revealed 507 cases in Dakar, 263 in Thies, 279 in Kaolack, 227 in Diourbel, 201 in Louga, 176 in St Louis, 110 in Fatick, and 67 in Kaffrine. The true incidence of domestic violence was thought to be much higher than the number of cases reported.</p>
+<p>The Ministry of Women, Family, and Childhood was responsible for ensuring the rights of women. The Ministry of Justice was responsible for combating domestic violence. The government-run Ginddi Center provided shelter to women and girls who were victims of rape or early marriage, and to street children.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law provides criminal penalties for the perpetration of FGM/C on women and girls. While not commonly inflicted on adult women, almost all girls in the northern Fouta Region were victims of FGM/C, as were 60 to 70 percent of girls in the south and southeast. Sealing, one of the most extreme and dangerous forms of FGM/C, was sometimes practiced by the Toucouleur, Mandinka, Soninke, Peul, and Bambara ethnic groups. According to the NGO German Society for International Cooperation, excision, type II, was the form of FGM/C most frequently practiced. According to 2012-13 survey data from the National Institute for Statistics, FGM/C had been performed on18 percent of girls below age 14.</p>
+<p>The government collaborated with the NGO Tostan and other groups to educate individuals about FGM/C’s inherent dangers. The government also collaborated with the NGO Group for Population Studies and Education to develop a course on the dangers of FGM/C, which was being integrated into high school and college curriculums. At the community level, Tostan continued to implement a three-year community empowerment program that influenced 760 villages to decide to abandon FGM/C.</p>
+<p>In collaboration with key stakeholders across 14 regions, the Ministry of Justice developed a work plan to enforce the law against FGM/C and to monitor compliance with anti-FGM/C programs. In villages that participated in the Tostan program and declared FGM/C abandonment, enforcement committees were formed to assure that families complied with the declaration. The Ministry of Women, Family, Social Development, and Women’s Entrepreneurship organized workshops across the country to encourage application of the law. Administrative authorities, local elected officials, and representatives of community-based organizations attended such workshops.</p>
+<p><u>Sexual Harassment</u>: The law mandates prison terms of five months to three years and fines of 50,000 to 500,000 CFA francs ($87 to $870) for sexual harassment, but the problem was widespread. The government did not effectively enforce the law, and women’s rights groups claimed victims of sexual harassment found it difficult, if not impossible, to present proof that was sufficient to secure conviction.</p>
+<p><u>Reproductive Rights</u>: The law provides that all couples and individuals have the right to decide the number, spacing, and timing of their children, to manage their reproductive health, and to have access to the means to do so, free from discrimination, coercion, or violence. It also provides for the right to medical services for all women during pregnancy and to a safe delivery. The law considers the right to reproductive health a “fundamental and universal right guaranteed to all individuals without discrimination.”</p>
+<p>Poor medical facilities constrained observance of these rights, however, particularly in rural areas and in some urban areas, where lack of funds led to closing of maternity wards and operating rooms. At times cultural norms impeded women’s access to information regarding sexual health. According to 2011 statistics provided by the UN Population Fund (UNFPA), skilled personnel attended approximately 52 percent of births and provided prenatal care in 87 percent of cases; the maternal mortality ratio was 410 deaths per 100,000 live births; and the lifetime risk of maternal death was one in 31. The Ministry of Health and Social Action estimated most maternal deaths in childbirth were preventable if skilled health personnel and emergency obstetrical services were available. Social and cultural pressures to have large families reportedly led some husbands to ask health workers to terminate the use of contraceptives by their spouses. This reportedly led women to be discreet in the use of contraception. According to a 2014 study funded by the government and a foreign entity, however, the percentage of girls and women between ages 15 and 49 who used modern contraception increased from 12 percent in 2010 to 20 percent in 2014.</p>
+<p><u>Discrimination</u>: The law provides for the same legal status and rights for women as for men, including under family, labor, property, nationality, and inheritance laws. Nevertheless, women faced pervasive discrimination, especially in rural areas where traditional customs, including polygyny and discriminatory rules of inheritance, were strongest. The law requires a woman’s approval of a polygynous union, but once in such a union, a woman needed neither to be notified nor to give prior consent if the man took another wife. Approximately 50 percent of marriages were polygynous. The family code’s definition of paternal rights also remained an obstacle to equality between men and women. The code considers men to be heads of household, preventing women from taking legal responsibility for their children. In addition, any childhood benefits are paid to the father. Women can become the legal head of household only if the husband formally renounces his authority before authorities or if he is unable to act as head of household. Traditional practices also made it difficult for women to purchase property in rural areas. Women experienced discrimination in employment (see section 7.d). Women and girls also experienced discrimination in education since those who become pregnant or married young were often pressured to leave school.</p>
+<p>The Ministry of Women, Family, and Childhood has a directorate for gender equality that implements programs to combat discrimination.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is acquired by birth or naturalization. Only the father can automatically transmit nationality to legitimate children; the mother can do so only if her husband is stateless. Legitimate children born to Senegalese women with foreign husbands have the option to acquire citizenship between ages 18 and 25. Illegitimate children usually acquire the citizenship of the mother. The law does not make birth declaration mandatory, but birth certificates are required for enrolling children in school and obtaining other civil documents. According to the UNFPA, approximately 55 percent of all births were registered. Registering births required travel to a registration center and payment of a small fee, although a program initiated by Swiss NGO Aid and Action allowed village chiefs in some areas to register births by text messaging.</p>
+<p><u>Education</u>: The law provides for tuition-free, compulsory education for children between ages six and 16, although many children did not attend school due to lack of resources or available facilities. Students often had to pay for their own books, uniforms, and other school supplies.</p>
+<p>Girls encountered greater difficulties in continuing in school beyond the elementary level. When families could not afford for all their children to attend school, parents tended to remove daughters rather than sons from school. Sexual harassment by school staff and early pregnancy also caused the departure of girls from school. The UN Children’s Fund reported schools enrolled 28 percent of boys in secondary education, compared with 22 percent of girls.</p>
+<p><u>Child Abuse</u>: Child abuse was common, particularly among “talibes,” who were sent by their parents to study in Quranic schools, or “daaras.” Children at some daaras were exploited, physically abused, and forced to beg on the street. In March 2014 a daara mapping study conducted by the National Task Force Against Human Trafficking in the Ministry of Justice found an estimated 54,800 talibes in the Dakar region alone. Of this number an estimated 30,000 were forced to beg up to five hours per day. Most talibes appeared to be age five to 10, although some reportedly were as young as two.</p>
+<p><u>Early and Forced Marriage</u>: By law women have the right to choose when and whom they marry, but traditional practices restricted a woman’s choice. The law prohibits the marriage of girls younger than age 16, but this law generally was not enforced in most communities where marriages were arranged. Under certain conditions a judge may grant a special dispensation for marriage to a person below the age of consent. According to the UNFPA, 33 percent of women between ages 20 and 24 were married before the age of 18, based on surveys completed between 2000 and 2011.</p>
+<p>According to officials from the Ministry of Women, Family, and Childhood and women’s rights groups, child marriage was a significant problem, particularly in the more rural areas in the south, east, and northeast, and they undertook educational campaigns to address it.</p>
+<p><u>Female Genital Mutilation/Cutting</u>: See information for girls under age 18 in women’s section above.</p>
+<p><u>Sexual Exploitation of Children</u>: The law provides that convicted sexual abusers of children receive five to 10 years’ imprisonment. If the offender is a family member, the maximum is applied. Any offense against the decency of a child is punishable by imprisonment for two to five years and up to 10 years in certain aggravated cases. Procuring a minor for prostitution is punishable by imprisonment for two to five years and a fine of 300,000 to four million CFA francs ($520 to $6,930). If the crime involves a victim younger than 13, the maximum penalty is applied. The law was not effectively enforced.</p>
+<p>Among areas where it occurred, including in the southeast gold mining region of Kedougou, exploitation of women and girls in prostitution was a problem.</p>
+<p>The minimum age of consensual sex is 18. Due to social pressures and fear of embarrassment, incest remained taboo and often went unreported and unpunished.</p>
+<p>Pornography is prohibited. Pornography involving children under age 16 is considered pedophilia and punishable by up to two years’ imprisonment and fines of up to 300,000 CFA francs ($520). There were no reports of child sex tourism.</p>
+<p><u>Infanticide or Infanticide of Children with Disabilities</u>: Infanticide, usually due to poverty or embarrassment, continued to be a problem. Domestic workers and rural women working in cities sometimes killed their newborns if they could not care for them. Others, married to men working outside the country, killed their infants out of shame. According to the African Assembly for the Defense of Human Rights, infanticide also occurred when a woman became pregnant with the child of a man from a prohibited occupational caste. In some cases the families of the women shamed them into killing their babies. If police discovered the identity of the mother, she faced arrest and prosecution.</p>
+<p><u>Displaced Children</u>: Many children displaced by the Casamance conflict lived with extended family members, neighbors, in children’s homes, or on the streets. According to NGOs in the Casamance, displaced children suffered from the psychological effects of conflict, malnutrition, and poor health.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There were approximately 100 Jews resident in the country; there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel, and other transportation, access to health care, and the provision of other state services. The government did not enforce these provisions adequately. The law also mandates accessibility for persons with disabilities, but the government did not effectively enforce the law.</p>
+<p>The government provided grants, managed vocational training in regional centers, and offered funding for persons with disabilities to establish businesses. Due to a lack of special education training for teachers and facilities accessible to children with disabilities, authorities enrolled only 40 percent of such children in primary school. Anecdotal evidence indicated children with disabilities who did not attend school generally stayed at home and, in some cases, begged on the streets. Support for persons with mental disabilities was not generally available, and incidents of abuse of persons with mental disabilities were common.</p>
+<p>Persons with disabilities struggled to access voting sites. The law reserves 15 percent of new civil service positions for persons with disabilities, but the Senegalese National Association of People with Physical Disabilities reported the government failed to issue the executive decree required to make the law operational.</p>
+<p>The Ministry for Health and Social Action is responsible for protecting the rights of persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Ethnic groups generally coexisted peacefully. In the Casamance incidents of conflict continued to decline between the Diola, the region’s largest ethnic group, and the mostly Wolof Senegalese in the north.</p>
+<p>Individuals of lower castes were still sometimes subject to discrimination. Most persons considered the subject of caste discrimination to be taboo, and intellectuals or businesspersons from lower castes often tried to conceal their caste identity.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Consensual same-sex sexual activity, referred to in the law as an “unnatural act,” is a criminal offense, and penalties range from one to five years’ imprisonment and fines of between 100,000 and 1.5 million CFA francs ($173 and $2,600).</p>
+<p>For example, on July 21, police in Guediawaye arrested without warrant seven men and charged them with the “commission of unnatural acts” after the mother of one of the men reported her son to the police. On August 21, a judge in Dakar sentenced the seven to two-year sentences with a minimum of six months’ imprisonment. According to sources who spoke to NGO Human Rights Watch, no police officers or other witnesses testified against the men at the trial, and the police document provided none of the basic elements for proving a crime, such as details about the alleged sexual acts. The prosecutor alleged the men’s telephones contained incriminating messages and images but did not present them in court. An appeal was filed in the case.</p>
+<p>LGBTI persons faced widespread discrimination, social intolerance, and acts of violence. Local NGOs worked actively on LGBTI rights issues, but because of social stigma and laws against homosexuality, they maintained an exceedingly low profile. There are no laws to prevent discrimination based on sexual orientation or gender identity, nor are there hate crime laws that could be used to prosecute crimes motivated by bias against LGBTI persons.</p>
+<p>The media rarely reported acts of hatred or violence against LGBTI persons. Local human rights groups, however, reported LGBTI persons faced frequent harassment by police, including arbitrary arrest and poor treatment in detention due to their sexual orientation.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The government and NGOs conducted HIV/AIDS awareness campaigns to increase social acceptance of persons with HIV or AIDS. Nevertheless, human rights activists reported HIV-positive individuals including those with AIDS suffered from social stigma due to the widespread belief such status indicated homosexuality. HIV-positive men sometimes refrained from taking antiretroviral drugs due to fear their families would discover their sexual orientation.</p>
+<p>The law prohibits all forms of discrimination against persons with HIV/AIDS. The law also allows medical doctors to inform spouses of persons with HIV/AIDS of their partners’ status if the latter fail to do so after a reasonable time.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section7"> </span><span class="st_twitter" st_title="Senegal #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Senegal - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252721%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the rights of workers to form and join independent unions, except security force members, including police and gendarmes, customs officers, and judges. Before a trade union can exist legally, the labor code requires authorization from the Ministry of Interior. Under the law, as part of the trade union recognition process, the ministry has the authority to check the morality and aptitude of candidates for positions of trade union officials. In addition the law provides that minors (both as workers and as apprentices) cannot organize without parental authorization. The state prosecutor can dissolve and disband trade unions by administrative order if union administrators are not following union regulations for what a union is supposed to be doing on behalf of its members. The law prohibits antiunion discrimination. The law allows unions to conduct their activities without interference and provides for the right to bargain collectively. Collective bargaining agreements, however, applied only to an estimated 44 percent of union workers.</p>
+<p>The law provides for the right to strike; however, certain regulations restrict this right. The constitution seriously undermines the right to strike by stipulating that a strike must not infringe on the freedom to work or jeopardize an enterprise. The law states workplaces may not be occupied during a strike, whether or not such strike is peaceful, and may not violate non-strikers’ freedom to work or hinder the right of the management to enter the premises of the enterprise. This means pickets, go-slow, working to rule, and sit-downs are prohibited. Unions representing members of the civil service must notify the government of their intent to strike at least one month in advance; private sector unions must notify the government three days in advance. The right to strike is restricted further by the power of authorities to requisition workers to replace those on strike in all sectors, whether or not they are “essential services” sectors. The government effectively enforced applicable laws on the right to strike. Penalties for noncompliance include a fine, imprisonment from three months to one year, or both. Penalties were sufficient to deter violations. The labor code does not apply to the informal sector and thus excludes the majority of the workforce, including subsistence farmers, domestic workers, and those employed in many family businesses.</p>
+<p>The government and employers generally respected freedom of association and the right to collective bargaining. Workers exercised the right to form or join unions, but antiunion sentiment within the government was strong. Trade unions organize on an industry-wide basis, very similar to the French system of union organization. There were no confirmed reports of antiunion discrimination during the year.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. Although the law prohibits the organization of begging for economic gain, a provision of the penal code provides that “the act of seeking alms on days, in places, and under conditions established by religious traditions” does not constitute begging. Many provisions of the law impose imprisonment with compulsory prison labor as a penalty for noncompliance, such as for participation in strikes in “essential services,” for occupying the workplace or its immediate surroundings during strike actions, or for breaching labor discipline deemed to endanger ships or the life or health of persons on board.</p>
+<p>The government did not effectively enforce applicable laws against forced labor, and such practices continued to occur, particularly forced child labor, including forced begging by children in Quranic schools (see sections 6 and 7.c.). Some children in these schools (“daaras”) were kept in conditions of servitude, being forced to work daily, generally in street begging, and had to meet a daily quota for money (or sometimes sugar or rice) to their teachers. Despite some increased effort, enforcement and awareness of antitrafficking and forced labor laws remained poor across sectors. There were no public data on arrests, prosecutions, or convictions for forced begging. There were no reports of victims being removed from forced labor during the year.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>Regulations on child labor set the minimum working age at 15. The law prohibits many forms of hazardous child labor but includes exceptions. In the agricultural sector, for example, children as young as age 12 are permitted to work in a family environment when necessary. The law also allows boys under 16 to work in underground mines and quarries doing “light work.” Due to the nature of the dangers associated with mining, “light work” activities do not prevent exposure to hazards.</p>
+<p>Labor laws prohibiting child labor were largely unenforced. Inspectors from the Ministry of Labor are charged with investigating and initiating lawsuits in child labor cases. The ministry’s investigators can visit any institution during work hours to verify and investigate compliance with labor laws and can act on tips from trade unions or ordinary citizens.</p>
+<p>The Ministry of Labor sent investigators to investigate formal work places, but they were not trained to deal with child labor problems. The Child Labor Division in the Ministry of Labor was disbanded in 2011 and was not re-established. Inspectors did not initiate visits to investigate child labor violations because they lacked adequate funding and expertise to handle child labor cases. There was no specific system in place to report child labor violations, largely due to inadequate funding of the Child Labor Office and the Ministry of Labor. The ministry instead relied on unions to report violators.</p>
+<p>The government conducted seminars with local officials, NGOs, and civil society to raise awareness of the dangers of child labor and exploitive begging. The government was implementing its child labor plan, which focused on improving the management of child labor issues. While the training may have created more awareness of child labor issues in local communities, there was no significant progress or improvement in the situation.</p>
+<p>Most instances of child labor occurred in the informal economy where labor regulations were not enforced. Economic pressures and inadequate educational opportunities often pushed rural families to emphasize work over education for their children. Child labor was especially common in the regions of Tambacounda, Louga, and Fatick, where up to 90 percent of children worked. Child labor was prevalent in many informal and family-based sectors, such as agriculture (millet, corn, and peanuts), fishing, artisanal gold mining, garages, dumpsites, slaughterhouses, salt production, rock quarrying, and metal- and woodworking shops. In the large, informal, unregulated artisanal mining sector, entire families, including children, were engaged in artisanal mining work. Child gold washers, most between the ages of 10 and 14, worked approximately eight hours a day without training or protective equipment. There were also reports of children working on family farms or herding cattle. Children also worked as domestics, in tailoring shops, at fruit and vegetable stands, and in other areas of the informal economy.</p>
+<p>In August 2008 (the most recent year for which such data was available) a national child labor survey published by the National Agency of Demography and Statistics measured the economic activities of children during the prior 12 months. According to the survey, 37 percent of children between ages five and 17 worked.</p>
+<p>A predominant type of forced child labor was the forced begging by children sent to live and study the Quran under the supervision of unscrupulous teachers (see sections 6 and 7.c.). To address this concern, the Ministry of Education provided funds to schools operated by religious institutions that met national education standards. These schools were bilingual, teaching in French and Arabic. This program removed thousands of children from street begging and exploitation. The Ministry of Education also worked on a secular curriculum for use in Quranic schools. Funding continued to be available for existing schools but was insufficient to allow the opening of additional schools.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The labor law prohibits discrimination in employment and occupation based on national origin, race, sex, and religion. The law does not explicitly prohibit discrimination based on sexual orientation or gender identity. The government did not effectively enforce the antidiscrimination provisions of the law.</p>
+<p>Gender-based discrimination in employment and occupation occurred. Men and women have equal rights to apply for a job. Women represented 52 percent of the population, but they performed 90 percent of domestic work and 85 percent of agricultural work. The law requires equal pay for equal work, but women experienced discrimination in employment and operating businesses (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The national minimum hourly wage was 209 CFA francs ($0.36), but for agricultural workers it was 183 CFA francs ($0.31). The Ministry of Labor is responsible for enforcing the minimum wage. Labor unions also acted as watchdogs and contributed to effective implementation of the minimum wage in the formal sector. The minimum wage provisions apply to foreign and migrant workers as well.</p>
+<p>For most occupations in the formal sector, the law mandates a standard workweek of 40 to 48 hours or 2,080 hours per year with at least one 24-hour rest period per week, one month per year of annual leave, enrollment in government social security and retirement plans, safety standards, and other measures. Night work is defined as activity between 10 p.m. and 5 a.m., and workers should receive a supplementary rate. The law does not prohibit excessive or compulsory overtime in the formal sector.</p>
+<p>Premium pay for overtime is required only in the formal sector. Legal regulations on occupational safety and health exist, and the government sets the standards. There is no explicit legal protection for workers who file complaints about unsafe working conditions.</p>
+<p>The Ministry of Labor, through the Labor Inspection Office, is responsible for enforcing labor standards in the formal sector. Enforcement of the workweek standard was irregular. Labor inspectors had poor working conditions and lacked transportation to conduct their mission effectively. The number of labor inspectors was insufficient to enforce compliance. Violations of wage, overtime, and occupational safety and health standards were common. The minimum wage covers the informal sector as well but was not respected, especially for domestic workers. Due to high unemployment and a slow legal system, workers seldom exercised their nominal right to remove themselves from situations that endangered health or safety.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

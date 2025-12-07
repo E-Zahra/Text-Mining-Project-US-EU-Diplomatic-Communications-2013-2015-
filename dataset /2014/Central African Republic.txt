@@ -1,0 +1,508 @@
+2014
+Central African Republic
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340"> </span><span class="st_facebook" st_title="Central African Republic" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236340">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid;=236340</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li><a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6indigenouspeople">Indigenous People</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=executive"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The Central African Republic is a republic with a transitional government of national unity. The president and prime minister share executive power. The last general elections occurred in 2011. Citizens re-elected President Francois Bozize and elected a unicameral legislature to a five-year term in what national and international observers considered flawed elections. Authorities at times did not maintain effective control over the security forces.</p>
+<p>In March 2013 the Seleka rebel alliance led by Michel Djotodia deposed President Bozize. In April 2013 the Economic Community of Central African States (ECCAS) adopted the Ndjamena Declaration, which provided for the establishment of a transitional government leading to elections 18 months after the swearing-in of the transitional president. Djotodia was sworn in as transitional president in August 2013 under the terms of a transitional charter. State rule, already weak under Bozize, largely collapsed under Djotodia. Ex-Seleka fighters continued to engage in conflict with armed militia groups throughout the country, including groups known as the anti-Balaka. (Note: This report refers to the “ex-Seleka” for all abuses attributed to the Seleka that occurred after the Seleka was dissolved in September 2013). The violence claimed thousands of lives, including many civilians, and forced more than one million individuals to seek refuge in camps for internally displaced persons or flee to neighboring countries. On January 10, Djotodia resigned under pressure from the ECCAS. On January 23, the Transitional National Council (CNT) elected Catherine Samba-Panza as transitional president until elections scheduled for 2015.</p>
+<p>The most serious human rights problems included arbitrary and unlawful killings, especially those perpetrated by the ex-Seleka and anti-Balaka; enforced disappearances and torture, including rape; and the use of child soldiers. Due to the 2013 unconstitutional removal of President Bozize from office and the appointment of a transitional government, citizens did not have the ability to change the government through free and fair elections.</p>
+<p>Other human rights problems included harsh and life-threatening prison conditions, including the use of illegal detention facilities; arbitrary arrest and detention; the complete break-down of the judicial system, resulting in prolonged pretrial detention and denial of fair public trial; arbitrary interference with privacy and the home; seizure and destruction of property without due process; and the use of excessive and indiscriminate force in internal conflict. There were restrictions on freedoms of speech, press, assembly, association, and movement and lack of protection for refugees. Corruption was widespread. Domestic and international human rights groups faced harassment and threats. Discrimination and violence were experienced by women; children; persons with disabilities; ethnic minorities; indigenous people; lesbian, gay, bisexual, and transgender (LGBT) persons; persons with HIV/AIDS; Christians; and Muslims. Forced labor and child labor, including forced child labor, were also problems.</p>
+<p>The government did not take steps to investigate and prosecute officials who committed violations, creating a climate of impunity.</p>
+<p>There were credible reports the following armed groups perpetrated serious human rights abuses in the country during the year: ex-Seleka, anti-Balaka, and Lord’s Resistance Army (LRA). On September 24, the International Criminal Court opened a formal investigation into crimes committed in the country since August 2012 that fall under the court’s jurisdiction. Certain units of the African Union’s International Support Mission to the Central African Republic (MISCA) also reportedly committed human rights abuse during the year, and MISCA investigations into those allegations continued at year’s end.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section1"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were numerous reports the ex-Seleka and anti-Balaka committed arbitrary and unlawful killings of civilians. The UN Panel of Experts on the Central African Republic established pursuant to UN Security Council resolution 2127 (2013) documented the killing of 3,232 civilians throughout the country, including 22 aid workers, from December 5, 2013, to mid-August (see section 1.g.).</p>
+<p>The killings included summary executions and deliberate and indiscriminate attacks on the civilian population, especially on persons suspected to be members or sympathizers of opposing parties to the conflict. At times the killings were reprisal in nature. For example, on June 9, ex-Seleka fighters associated with armed members of the Fulani ethnic group attacked the largely Christian village of Liwa, near Bambari, killed 10 residents, and burned down 169 houses. In retaliation, on June 23, a group of armed persons identified as anti-Balaka attacked Ardondjobdi, a Fulani village, and killed 20 inhabitants, including women and children.</p>
+<p>On May 29, a group of armed individuals reportedly killed a Muslim identified as ex-Seleka at his residence in Bangui’s PK5 neighborhood, a majority Muslim community. A few hours later, armed ex-Seleka reportedly arrived at the Fatima Catholic Church in four pickup trucks and began firing their weapons at thousands of displaced persons who had sought refuge at the church. The attackers killed 12 persons, including the priest, Paul Nzale, and injured several dozen others.</p>
+<p>Some members of the Central African Armed Forces (FACA) operated with anti-Balaka groups and committed killings. On February 4, Transitional President Samba-Panza addressed the FACA at the National School for Administrators and Magistrates. Immediately after her departure, FACA soldiers reportedly surrounded Corporal Idriss Mahamat Malik, accused him of joining the ex-Seleka and betraying fellow soldiers, and proceeded to lynch him and mutilate his body in front of journalists. There was no investigation into or accountability for Malik’s killing.</p>
+<p>Peacekeeping troops with MISCA were responsible for the extrajudicial killings of civilians. A Chadian MISCA contingent committed extrajudicial killings in Bangui and in multiple villages as they escorted Chadian citizens fleeing violence in Bangui and the western region of the country to Chad. On March 13, in what was reportedly an unprovoked attack, Chadian peacekeepers killed seven persons, including Gisele Manguite Namaina, a food merchant in the PK 12 market in Bangui (section 1.g.). There was no investigation into and no accountability for these killings during the year.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were several reports of politically motivated disappearances perpetrated by ex-Seleka and anti-Balaka groups during the year, particularly against persons they alleged to be supporters of the opposing force. On January 8, ex-Seleka reportedly invaded Boyali village on the road to Boali in search of anti-Balaka members they believed responsible for an attack on one of their convoys. In their house-to-house search, the ex-Seleka found a machete in Gerard Midi’s house. They burned Midi’s house and took him away. At year’s end Midi’s whereabouts were unknown.</p>
+<p>There were reports throughout the year of the LRA abducting persons in the far southeast region. The LRA, established in Uganda in 1986, is a violent armed group that engaged in the forcible recruitment of child soldiers.</p>
+<p>On June 2, Human Rights Watch released the report “Central African Republic: Peacekeepers Tied to Abuse” detailing eyewitness accounts that MISCA forces from the Republic of Congo forcibly disappeared at least 11 persons on March 24 from a private home in Boali following their reported arrest. According to the Central African Human Rights League, MISCA troops killed two anti-Balaka chiefs and arrested 11 others after a MISCA peacekeeper was killed in an ambush. MISCA continued to investigate the disappearances at year’s end. Pending the outcome of the investigation, on July 16, MISCA announced the suspension of the commander of the Congolese contingent in Boali and the redeployment of all the soldiers of the unit who had been in the town at the time of the incident.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the law and the transitional charter prohibit torture and specify punishment for those found guilty of physical abuse, there were several reports of torture committed with impunity.</p>
+<p>In many cases torture led to the death of victims. For example, in April anti-Balaka members based at Ngoukomba village, on the road to Damara, accused village chief Jude Pascal Ngate of complicity with the Seleka under Djotodia. His accusers reportedly ordered him to pay a fine of 100,000 CFA francs ($190). Ngate attempted to flee with his young son, Jules Ngate, but another anti-Balaka group caught them in Gbango village and returned them to Ngoukomba, where their captors beat and tortured them to death. An anti-Balaka leader named Tama, alias Tex, ordered the two bodies taken to an unknown location. There was no investigation into this case at year’s end.</p>
+<p>On April 17, anti-Balaka leader Tama reportedly ordered the arrest of Jude Ngate’s younger brother. The anti-Balaka beat the brother and cut off his left ear for refusing to disclose his brother’s whereabouts. The anti-Balaka left the brother for dead, but he survived.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>There were two functioning prisons in Bangui operated by the transitional government, one for men and the other for women. There were also prisons in Bouar and Berberati. Conditions in prisons not emptied or destroyed by recent conflict were rudimentary, harsh, life threatening, and substantially below international standards. Basic necessities, including food, clothing, and medicine were inadequate and often confiscated by prison officials.</p>
+<p>In Seleka-controlled parts of the country, the former Seleka held an unknown number of persons in illegal prisons and detention centers, but neither the government nor humanitarian agencies visited these sites.</p>
+<p><u>Physical Conditions</u>: The main prison for men in Bangui, built to hold 400 inmates, held approximately 600 at year’s end. The prison for women in Bimbo, built to hold 60 inmates, held approximately 16 at year’s end. A combination of international peacekeepers, FACA troops, and judicial police guarded the men’s prison and its perimeter, while FACA troops guarded the women’s prison. Authorities sometimes held pretrial detainees with convicted prisoners.</p>
+<p>Official prisons lacked basic sanitation and ventilation, electric lighting, basic and emergency medical care, and sufficient access to potable water. In the women’s prison, authorities divided inmates into three large rooms with no ventilation or electric lighting, and all, including pregnant women, slept on thin straw mats on cement floors. Prison authorities were upgrading sanitation facilities.</p>
+<p>On November 24, a detainee at the main Ngaragba Prison in Bangui, died of tuberculosis, according to press reports. Other detainees, including anti-Balaka members, protested their detention conditions. Prison guards and forces from the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) deployed as the prison came under fire from inmates who had obtained guns and ammunition from accomplices outside the prison. Four inmates died, and two MINUSCA soldiers sustained injuries in the incident.</p>
+<p><u>Administration</u>: Authorities did not use alternatives to incarceration for nonviolent offenders. There was no ombudsman system. Prison detainees have the right to submit complaints in the case of mistreatment, but victims of mistreatment hesitated to lodge formal complaints due to the lack of a functioning formal complaint submission mechanism. Authorities rarely initiated investigations of abuses in the prison system. Destroyed or poorly kept records impeded access for observers.</p>
+<p><u>Independent Monitoring</u>: The transitional government on occasion permitted some monitoring by independent observers. It allowed the International Committee of the Red Cross to visit 300 detainees in Bangui and distribute food daily where there were severe shortages. In March the Ministry of Justice granted a Reuters photographer access to the central prison in Bangui. The photographer reported that Muslim inmates were separated from the rest of the prisoners. Inmates reportedly told the journalist they had been arrested and imprisoned with no judicial justification and were awaiting trial. There were no reports of prison visits where ex-Seleka members controlled the prisons.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law provides protection against arbitrary arrest and detention and accords detainees the right to a judicial determination of the legality of their detention. In the territories they controlled, the ex-Seleka and anti-Balaka ignored such provisions, however, and arbitrary arrest and detention remained serious problems throughout the country.</p>
+<p>According to the nongovernmental organization (NGO) the Central African Human Rights League, ex-Seleka, and anti-Balaka groups arrested individuals for their suspected possession of money, their affiliation with the Bozize government, or for acts considered counter to the interests of ex-Seleka and anti-Balaka.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The police and gendarmerie have responsibility to enforce the law and maintain order; however, both largely were disbanded during the violence in 2013. During the year forces from the French military operation Sangaris trained a reconstituted group of police and gendarmes that numbered approximately 1,500 police officers and 2,200 gendarmes at year’s end.</p>
+<p>The transitional government, with the support of MISCA, Sangaris, and the European Union Force, cantoned the Seleka in July 2013 to re-establish security throughout the country. In September 2013 Djotodia formally dissolved the Seleka. Efforts to canton the ex-Seleka continued through the end of the year as part of the larger demobilization campaign. On September 15, MINUSCA took over from MISCA. Its total military-police force was approximately 7,000 by October, with a planned augmentation to 11,800 in early 2015. At full strength, the MINUSCA police force would have 1,800 police officers, including 1,400 formed police unit personnel and 400 individual police officers, but at year’s end, there were approximately 1,100 police. The MINUSCA police force’s role was to protect the civilian population from threat of physical violence within its capabilities and areas of deployment. MINUSCA police had the authority to make arrests and transfer persons to national authorities, but they did not have the authority to investigate cases.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Judicial warrants are not required for arrest. The law stipulates that persons detained in cases other than those involving national security must be informed of the charges against them and brought before a magistrate within 72 hours. This period is renewable once, for a total of 144 hours, but authorities often did not respect these deadlines, in part due to inefficient judicial procedures and a lack of judges.</p>
+<p>The newly reconstituted police and gendarmerie generally tended to follow arrest procedures. Nevertheless, because of the near collapse of the judiciary, the administration of justice was ineffective, and perpetrators of human rights violations enjoyed impunity. In most cases of gross human rights violations, no investigations or prosecutions ensued.</p>
+<p>The bail system did not function. Authorities sometimes followed legal procedures in cases managed by gendarmes or local police. Lawyers continued to work and were sometimes accessible. For individuals detained by the ex-Seleka and placed in illegal detention centers, however, legal procedures were not followed, and access to lawyers was not provided.</p>
+<p><u>Arbitrary Arrest</u>: Arbitrary arrest was a serious problem. The NGO Human Rights Organization Network reported it had consistent and corroborated information about persons arrested because of political and ethnic affiliation and the inability to pay bribes for release.</p>
+<p>On the evening of June 26, a group of anti-Balaka invaded Yotiga Mahamat’s residence in Bangui’s Combattants neighborhood because he was a Muslim. The anti-Balaka, led by Corporal Mazimbere, also a member of the FACA, took Yotiga Mahamat to their base in the Boy Rabe neighborhood, where they beat him. They asked him to contact his family to pay a ransom. His family obtained his release in July after paying ransom money to the anti-Balaka in excess of 50,000 CFA francs ($95).</p>
+<p><u>Pretrial Detention</u>: Prolonged pretrial detention was a serious problem. Due to instability and insecurity, authorities did not deal with cases expeditiously. Courts suffered from inefficient administration, a shortage of trained personnel, salary arrears, and a lack of material resources. In 2013 the Seleka plundered the courts, stole machines, and destroyed records throughout the country, leaving the courts barely able to operate. Many magistrates and government workers who fled the violence in 2013 did not return to their places of residence during the year, especially outside the capital, due to fear for their own safety. In many cases the length of detention likely equaled or exceeded the sentence for the alleged crime.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The transitional charter provides for an independent judiciary, but the judiciary remained subject to the influence of the executive branch and was unable to fulfill its responsibilities. Corruption was a serious problem. Authorities, particularly those of high rank, did not always respect court orders.</p>
+<p>The Human Rights Organizations Network reported that ex-Seleka chiefs passed sentences on individuals in regions under their control, despite no legal authority to exercise judicial power. Reported forms of punishment varied from imprisonment to fines.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The penal code presumes defendants innocent until proven guilty. Trials are public, and defendants have the right to be present and consult a public defender. Criminal trials use juries. The law obliges the government to provide counsel for indigent defendants, although this process can be slow and delay trial proceedings due to the state’s limited resources. Defendants have the right to question witnesses, present witnesses and evidence on their own behalf, access government-held evidence, and file appeals. The law extends these rights to all citizens. The transitional government sometimes complied with these legal requirements. Defendants have the right to be informed promptly and in detail of the charges (with free interpretation as necessary), to adequate time and facilities to prepare a defense, and not to be compelled to testify or confess guilt. These rights were seldom respected.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The ex-Seleka and anti-Balaka reportedly detained persons associated with or perceived to be part of the opposing side in an attempt to extort money from them. There were no reported cases of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The transitional charter provides for an independent judiciary in civil matters, but citizens had limited access to courts to bring lawsuits seeking damages for, or cessation of, a human rights violation.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits searches of homes without a warrant in civil and criminal cases; however, the ex-Seleka and anti-Balaka did not respect this prohibition. There were numerous reports of ex-Seleka and anti-Balaka members entering homes without judicial authorization, seizing property without due process, and evicting persons from their place of residence both in Bangui and throughout the countryside, particularly in the north.</p>
+<p>According to multiple sources, the ex-Seleka and anti-Balaka engaged in organized and systematic looting of hundreds of private homes and shops. Ex-Seleka members looted, sacked, and sometimes destroyed houses in regions under their control, while anti-Balaka members continued to destroy houses of persons suspected to be close to the ex-Seleka in Bangui and in other parts of the country. The country’s administrative and commercial infrastructure remained significantly damaged or destroyed because of 2013 looting and pillaging by the Seleka.</p>
+<p>The ex-Seleka killed numerous individuals who resisted looting and extortion. Citizens sometimes killed ex-Seleka members when defending their property. Both types of killings provoked retaliatory violence and killings.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p>The crisis in the country began in December 2012 when rebel forces calling themselves Seleka started their advance toward the capital. In March 2013 Seleka captured the capital city of Bangui by force. After the fall of the capital, President Bozize fled the country and rebel leader Michel Djotodia declared himself president, suspended the constitution, and dissolved the National Assembly. The Seleka killed scores of civilians who were trying to flee attacks, and they looted and pillaged neighborhoods and towns. Djotodia formally dissolved the Seleka in September 2013; however, the ex-Seleka continued to commit violence. The anti-Balaka groups rose up against ex-Seleka and attacked Muslim communities perceived to be allied with the ex-Seleka. In early December 2013, the anti-Balaka launched major attacks on Bangui. Under pressure from the international community due to his failure to stop sectarian violence, Djotodia resigned in January. The CNT elected Catherine Samba-Panza as interim president. Various armed groups continued to engage in combat against each other as well as target civilians, despite signing an accord on the cessation of hostilities in Brazzaville in July. By the end of the year, ex-Seleka and anti-Balaka leaders announced they were transforming their armed groups into political parties in preparation for elections expected in 2015.</p>
+<p><u>Killings</u>: After they established their headquarters in Bambari in January, the ex-Seleka, joined by local Muslims, began attacking Christians throughout the northeastern part of the country. On September 8, three armed members of the ex-Seleka invaded Ngakobo village Evangelical Church while Pastor Jacques Bateme was presiding over a meeting. The attackers stole everything from the meeting participants and shot and killed nine persons, including the pastor. On September 22, suspected ex-Seleka fighters shot and killed Fidele Zaga, the town mayor.</p>
+<p>In Grimari, a city located between Sibut and Bambari, the local ex-Seleka group led by Colonel Moussa Johnson, a Sudanese mercenary, reportedly killed 27 persons, and wounded many others from March to April.</p>
+<p>In areas under their control, the anti-Balaka chiefs assumed the role of judges to settle personal conflicts. In July a local anti-Balaka leader named Ngaiboye, alias Fazo, ruled in favor of a female relative in her dispute with Marie Olga Ndoutifio in Bangui’s Gbakassa district. Ngaiboye sentenced Ndoutifio to death by beating. When the public protested, Ngaiboye’s men fired their weapons in the air to disperse the crowd. He then ordered his men to slash Ndoutifio’s neck; they killed Ndoutifio before international peacekeepers could reach her.</p>
+<p>On June 23, anti-Balaka killed at least 18 Muslims, including three children and one woman near Bambari.</p>
+<p>On February 23, a member of the Chadian MISCA contingent reportedly invited a prostitute for a drink at a bar in Bangui’s Combattants neighborhood. After leaving the bar, the Chadian soldier noticed his cell phone and some money were missing. He returned and threatened to kill the prostitute. When other customers protested, several Chadian soldiers opened fire, killing 10 persons and injuring dozens of others.</p>
+<p>On March 29, Chadian troops fired into a civilian crowd at a Bangui market, killing at least 28 persons and injuring numerous others. The Chadian government claimed its troops were acting in self-defense in reaction to a grenade thrown at them by anti-Balaka militia using the crowd as cover. The August 1 UN Security Council report of the secretary-general on the situation in the Central African Republic attributed the attack to Chadian MISCA forces under the command of a senior Chadian army officer. On April 3, the Chadian government announced the withdrawal of its forces from MISCA. Chadian President Idriss Deby Itno subsequently promised an investigation into alleged abuses committed by Chadian MISCA forces, but no investigation had occurred by year’s end.</p>
+<p>The LRA continued to commit attacks against civilians. The UN Office for the Coordination of Humanitarian Affairs estimated 21,000 persons remained internally displaced and more than 8,000 were living as refugees because of the LRA threat.</p>
+<p><u>Abductions</u>: There were reports the LRA continued to commit numerous abductions throughout the southeast part of the country, in addition to abductions committed by the ex-Seleka, the anti-Balaka, and other armed groups operating in the country. On September 14, a truck returning from Douala, Cameroon, was stopped in Zoundeko village located between Garoua and Moulaye by members of the Democratic Front of the Central African People, a Central African rebel group. The group looted and burned the truck, took 10 hostages, including two women and truck owner Bruno Charly Wagoto, and demanded the release of their leader, Abdoulaye Miskine, who had been arrested and detained in Yaounde, Cameroon, in 2013.</p>
+<p>Republic of Congo forces operating under MISCA arbitrarily arrested and disappeared at least 11 civilians in Boali on March 24 (see section 1.b.).</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: The ex-Seleka and forces associated with the anti-Balaka groups mistreated civilians, including reportedly by torture, beatings, and rape in the course of the conflicts.</p>
+<p>International and domestic observers reported nonstate-armed entities including ex-Seleka and anti-Balaka continued to attack and kill civilians. In Bambari, the International Federation for Human Rights reported a local ex-Seleka group led by Colonel Moussa Johnson reportedly targeted Christians and committed 28 rapes from March to April.</p>
+<p>The UN and international and domestic human rights organizations noted the prevalent use of rape by both ex-Seleka and anti-Balaka to terrorize the population throughout the country. The August 1 UN Security Council report of the secretary-general cited evidence of rape and gang rape, as well as other forms of sexual- and gender-based violence, including a transitional government estimate that 44.5 percent of the population suffered some form of sexual- or gender-based violence during the year. The transitional government estimated 20 percent of such cases involved rape and of those 20 percent of cases, 90 percent involved gang rape by armed men.</p>
+<p><u>Child Soldiers</u>: The UN and numerous human rights organizations reported the recruitment and use of child soldiers during the year. The Monitoring and Reporting Mechanism of grave violations against children in situations of armed conflict reported that during the April–June period, the UN Country Task Force on Monitoring and Reporting confirmed the recruitment and use of 1,183 children (962 boys and 221 girls) ages 12 to 17 as child soldiers, including 1,114 children (894 boys and 220 girls) associated with the anti-Balaka.</p>
+<p>See Department of State’s <i>Trafficking in Persons Report</i> at.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section2"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>Although the transitional charter and law provide for freedom of speech and press, authorities did not always respect these rights.</p>
+<p><u>Freedom of Speech</u>: There were no reports that the transitional government impeded individuals’ right to free speech.</p>
+<p><u>Press Freedoms</u>: The transitional government restricted press freedoms at times.</p>
+<p>All print media in the country were privately owned.</p>
+<p>Radio was the most important medium of mass communication. There were a number of alternatives to the state-owned radio station, Radio Centrafrique. Privately owned Radio Ndeke Luka continued to provide independent broadcasts, including national and international news and political commentary in both French and Sango. Independent radio stations continued to operate freely and broadcast organized debates and call-in talk shows critical of the transitional government, ex-Seleka, and anti-Balaka. International broadcasters, including Radio France Internationale, Radio Chine Internationale, and the BBC, continued to broadcast within the country.</p>
+<p>The government continued to monopolize domestic television broadcasting (although this was available only in the capital and for limited hours), and television news coverage generally supported government positions.</p>
+<p><u>Violence and Harassment</u>: Journalists reported receiving threats and being targeted for violence by members of the transitional government.</p>
+<p>In January 2013 the Seleka invaded the Radio Be-Oko station in Bambari, and abducted and tortured Elizabeth Olofio, a community-radio journalist who had reported on rebel excesses. She survived but was evacuated to a Bangui hospital to receive medical treatment, where she died on June 22 of complications from her injuries. On April 29, Desire Sayenga, a reporter at the private newspaper <i>Le Democrate</i>, was reportedly at his home near the PK5 neighborhood when armed ex-Seleka stabbed and shot him. He died the following day at the community hospital. Armed ex-Seleka also stabbed and shot Voice of Grace radio journalist Rene Padou in his home on April 29. He died on May 5. No one was held accountable for these attacks by year’s end.</p>
+<p><u>Censorship or Content Restrictions</u>: There were reports the transitional government attempted to censor the media. Saint Regis Zoumiri, editor of the newspaper <i>Le Palmares</i>, and Patrick Stephane Akibata, editor of the newspaper <i>Le People</i>, were arrested on April 10 and 15, respectively, and detained at the Ngaragba prison on grounds of abuse and slander against President Samba-Panza. The prosecutor issued an arrest warrant for journalist Ferdinand Samba, the editor of the newspaper <i>Democrate</i>, for defamation against President Samba-Panza. The court later ordered the journalists released on bail on April 23, and the two were awaiting trial at year’s end.</p>
+<p>During the election of members of the press to the CNT for Communication, which is responsible for regulating the media, the minister of communication sent a letter to the Journalists Association on June 16 requesting journalist Patrick Akibata be replaced as the association’s representative on the High Council. The Journalists Association rejected the government’s request, and Akibata continued to serve on the council.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The transitional government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private online communications without appropriate legal authority. In May, however, following a protest march against ex-Seleka attacks on internally displaced persons at the Fatima Church, the government temporarily suspended public use of Short Message Service for one month for security reasons.</p>
+<p>According to the International Telecommunication Union, approximately 2.2 percent of the population used the internet in 2011.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports the transitional government restricted academic freedom or cultural events, but the security situation prevented many universities and schools from operating during much of the year.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The transitional charter provides for the right of assembly, but the transitional government routinely restricted this right. Any association intending to hold a public political meeting is required to obtain the Ministry of Interior’s approval; however, the transitional government prevented all opposition groups from meeting by refusing permits for gatherings.</p>
+<p>Security forces prevented and intimidated groups from participating in demonstrations.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The transitional charter provides for freedom of association, but there was insufficient information on the transitional government’s respect for this right. All associations, including political parties, must apply to the Ministry of Interior for registration.</p>
+<p>A law prohibiting nonpolitical organizations from uniting for political purposes remained in place.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The transitional charter does not provide for freedom of internal movement, foreign travel, emigration, and repatriation. The transitional government restricted freedom of movement within the country and foreign travel during the year.</p>
+<p><u>In-country Movement</u>: After Djotodia’s resignation, anti-Balaka groups attacked Muslims and prevented many Muslims from moving freely within the country. The anti-Balaka set up roadblocks and checkpoints in Bangui and in the interior, extracting bribes from travelers. They also reportedly abducted and killed many Muslims who tried to flee to neighboring countries. Muslims in some communities in the southwest continued to live in enclaves surrounded by non-Muslims.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>Fighting between armed groups and the ex-Seleka’s attacks on civilians displaced at least 922,000 individuals at the height of the conflict in January. As the security situation improved during the year, hundreds of thousands returned to their homes. As of November, according to the UN High Commissioner for Refugees (UNHCR), approximately 409,000 persons were internally displaced, including more than 61,000 persons in approximately 36 sites in Bangui. Outside the capital or large towns, IDPs often hid in uninhabited bush areas. The ex-Seleka and anti-Balaka injured many persons fleeing their homes.</p>
+<p>The transitional government provided protection and assistance to IDPs and returnees. The transitional government generally allowed humanitarian organizations to provide services, although security concerns sometimes prevented organizations from operating in ex-Seleka-controlled areas, and targeted attacks on humanitarian operations impeded their ability to access some populations in need. No laws or policies specifically protected IDPs. On July 7, suspected ex-Seleka fighters attacked thousands of persons who sought shelter at St. Joseph’s Parish in Bambari, killing at least 27 persons.</p>
+<p>According to the Association of Women Jurists, sexual and gender-based violence in IDP camps was widespread, with the strong likelihood many cases were not reported due to fear of retribution or stigmatization. According to the UN’s IRIN News, the International Rescue Committee helped more than 600 women and girls recover from violence in Bangui IDP camps. Two-thirds of those had been raped. Outside Bangui local and international NGOs and UN agencies assisted survivors of sexual violence in Bossangoa and Kaga-Bandoro. In January and February, the UN Children’s Fund (UNICEF) partners reported 781 cases of rape and sexual assault. Medecins Sans Frontieres, which ran a clinic and hospital in a Bangui IDP camp, received 10 to 15 female patients a week who had been raped. In many areas services for women and girls who suffered sexual abuse were totally lacking, according to IRIN News. Survivors faced a lack of socioeconomic support, continued trauma, serious health risks, and lifelong complications.</p>
+<p>Armed groups and militias recruited women and girls where they were vulnerable to sexual violence, forced marriage, HIV/AIDS, and the stigma of being in the armed group or militia, IRIN News reported. During the year UNICEF and partners secured the release of 1,388 children associated with armed forces and groups, of whom 285 were girls. UNICEF estimated as many as 10,000 children were associated with armed groups.</p>
+<p>Thousands of Muslims in the towns of Boda, Carnot, and Yaloke lived in enclaves surrounded by international peacekeeping forces, who restricted their movements. In Yaloke approximately 500 ethnic Peulhs lived in dilapidated government buildings on a hilltop protected by international peacekeepers and gendarmes. The Peulhs had escaped their original settlements to avoid revenge killings by anti-Balaka forces. The transitional government denied the Peulhs their freedom of movement and their right to leave the country. Of the thousands of Muslims residing in Bangui, some preferred to stay, and others preferred to return to their homes in the north. The International Organization for Migration (IOM) helped more than 1,000 Seleka fighters and their family members cantoned in Bangui return to their hometowns in the north and east. These fighters agreed to surrender their weapons in exchange for transportation to main drop-off points and an amount of cash to help them pay for the last leg of their journey, according to the IOM. An additional 1,400 Seleka fighters and several hundred family members were still cantoned in Bangui at year’s end.</p>
+<p>According to the UNHCR, as of November an estimated 423,000 Central African refugees were living in neighboring countries, with the largest concentrations in Chad and Cameroon.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The laws provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The Subcommission on Eligibility, however, has not held sessions since 2009, contributing to a growing backlog of asylum applications.</p>
+<p>According to the UNHCR, approximately 8,000 refugees lived in the country; most refugees were of Congolese and Sudanese origin and lived in two camps in Zemio and Bambari. Violence during the year reduced access to basic services, such as education and health, for refugees residing in Bambari.</p>
+<p>A small number of Chadian refugees residing in Bangui chose to return to their country of origin during the year due to violence. The UNHCR relocated more than 1,000 Muslims at their request from the PK12 neighborhood in Bangui to the northern part of the country for their own safety.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section3"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The transitional charter provides for citizens to have the ability to change their government peacefully by participating in an election within 18 months of the date of adoption of the transitional charter or by February 2015, but it gives the ECCAS mediator the discretion to postpone the elections by up to six months if necessary. The transitional government issued public statements explaining that for financial and administrative reasons, it could not organize presidential and legislative elections, as well as a constitutional referendum, by the deadline. The transitional charter specifies that members of the transitional government and members of the CNT in certain leadership positions cannot run for election. The Seleka reportedly destroyed portions of the electoral register in 2013.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2011 the country held three rounds of multi-party presidential and legislative elections that resulted in the reelection of Francois Bozize as president. Bozize had seized power in a 2003 military coup, declared himself president, and headed a transitional government until winning election in 2005. Domestic and international election observers judged the 2011 elections to be flawed, citing fraud, intimidation, and lack of ballot secrecy, among other problems. Observers also reported irregularities including an unexplained increase of 40 percent in registered voters between 2005 and 2010 and high levels of “par derogation” votes indicating voters casting ballots outside their home districts.</p>
+<p><u>Political Parties and Political Participation</u>: There were no reports of the transitional government placing restrictions on political parties.</p>
+<p><u>Participation of Women and Minorities</u>: The law does not prevent women and minority citizens from voting or otherwise participating in political life on the same basis as men or nonminority citizens. In January, Catherine Samba-Panza became the country’s first female president. In August, Mahamat Kamoun became the country’s first Muslim prime minister. Eight of the 31 members of the cabinet were women.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section4"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Although the law provides criminal penalties for corruption by officials, the government did not implement the law effectively, and officials often engaged in corrupt practices with impunity. The World Bank’s 2014 Worldwide Governance Indicators indicated corruption was a severe problem.</p>
+<p><u>Corruption</u>: The law provides criminal penalties for corruption by officials, but the government did not implement the law effectively, and officials sometimes engaged in corrupt practices with impunity. There were reports of government corruption.</p>
+<p>In April Angola provided five billion CFA francs ($9.5 million) to the transitional government. Following the transfer of funds to the transitional government, a significant portion disappeared. Transitional President Samba-Panza explained that money was paid to political parties to appease them and gain their cooperation. Under pressure from the international mediator for the country’s crisis, the CNT decided to abandon the parliamentary audit commission looking into allegations of embezzlement by Transitional President Samba-Panza’s inner circle of a part of a loan from the Angolan government.</p>
+<p>The National Committee Against Corruption in the Prime Minister’s Office is the primary agency responsible for combating corruption. The committee coordinates and supervises efforts by government agencies to improve transparency and reduce corruption but was not active during the year.</p>
+<p><u>Financial Disclosure</u>: The transitional charter requires senior members of the executive, legislative, and judicial branches at the beginning of their terms to declare publicly their personal assets and income for scrutiny by the transitional constitutional court. The Department of the Treasury, with the transitional constitutional court, is mandated to monitor and verify disclosures. The law specifies no sanctions for noncompliance. Declarations are public and posted on the transitional government’s website. The transitional government did not use a government website established under Bozize on which declarations had been publicly posted. The law does not require ministers to declare their assets upon departing government and is not explicit on what constitutes assets or income. Children and spouses are not required to make the same disclosure.</p>
+<p><u>Public Access to Information</u>: Article 14 of the transitional charter stipulates that “press freedom is recognized and guaranteed” and that every citizen has the right to access government information, which is posted on the government website and also published in the <i>Official Gazette</i>.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section5"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Domestic and international human rights groups operated in a restricted manner due to instability and harassment and threats by the ex-Seleka and anti-Balaka. Many international human rights and humanitarian groups either closed their suboffices or left the country during the year due to violence and intimidation; some had returned by year’s end.</p>
+<p>On April 26, ex-Seleka killed 19 individuals, including three Medecins Sans Frontiers (MSF) staff, at a medical facility in Nanga Boguila. There was no investigation into the attack, and the killings remained unsolved at year’s end. MSF briefly reduced its activities in the country following the attack. Human rights defenders issued press releases under the Human Rights Network in an attempt to prevent identification of their authors.</p>
+<p>Militias and military officers loyal to former president Bozize also attacked and threatened NGO workers and employees of international organizations. On November 7 and 8, anti-Balaka forces seized a pair of MSF trucks transporting medical supplies between the towns of Yaloke and Bossembele. The truck lessor had to pay ransom to retrieve the vehicles and staff.</p>
+<p><u>The United Nations or Other International Bodies</u>: International organizations operated in the country with difficulty.</p>
+<p>To address the climate of impunity, in August the government and the UN signed a memorandum of understanding providing for the creation of a special criminal court composed of national and international judges to investigate international crimes committed in the country and bring those responsible to justice. The International Criminal Court announced in September that it had opened a formal investigation into war crimes in the country.</p>
+<p><u>Government Human Rights Bodies</u>: A Joint Commission of Inquiry established in May 2013 with a mandate to investigate human rights violations committed in the country since 2004 lacked resources and was not operational during the year.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section6"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The transitional charter stipulates that all persons are equal before the law without regard to race and gender, but not with regard to disability, language, and sexual orientation and/or gender identity. The government did not enforce these provisions effectively, and significant discrimination existed.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law prohibits rape, although it does not specifically prohibit spousal rape. Rape is punishable by imprisonment with hard labor, but the law does not specify a minimum sentence. The government did not enforce the law effectively.</p>
+<p>Although the law does not specifically mention spousal abuse, it prohibits violence against any person and provides for penalties of up to 10 years in prison. Domestic violence against women, including wife beating, was common, and 25 percent of women surveyed in a 2009 international NGO study reported experiencing violence by their partner. The law considers spousal abuse a civil matter unless the injury was severe. According to the Association of Women Lawyers of Central Africa (AFJC), victims of domestic abuse seldom reported incidents to authorities.</p>
+<p>There was no evidence of efforts to find and punish the perpetrators or to otherwise combat and address rape and domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits female genital mutilation/cutting (FGM/C), which is punishable by two to five years’ imprisonment and a fine of 100,000 to one million CFA francs ($190 to $1,900), depending on the severity of the case. Approximately 24 percent of girls and women between ages 15 and 49 had been cut, according to multiple indicator cluster surveys reported by UNICEF in 2010.</p>
+<p><u>Other Harmful Traditional Practices</u>: Women, especially the very old and those without family, continued to be targets of witchcraft accusations (see section 6, Other Societal Violence or Discrimination).</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment, but the government did not effectively enforce the law, and sexual harassment was a common problem. The law prescribes no specific penalties for the crime.</p>
+<p><u>Reproductive Rights</u>: The government respected couples’ right to decide freely and responsibly the number, spacing, and timing of children; to have the information and means to do so; and to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. Most couples lacked access to contraception, skilled attendance during childbirth, prenatal care, and essential obstetric care and postpartum care. According to UN data collected between 1990 and 2011, approximately 9 percent of women and girls between ages 15 and 49 who were married or otherwise in union used a modern method of contraception, and skilled health personnel attended 41 percent of births. According to estimates from the UN Population Fund, the maternal mortality rate remained extremely high: 890 deaths for every 100,000 live births in 2010. With only 0.08 physicians per thousand residents, most births were unattended by qualified medical professionals, resulting in poor outcomes. UN sources estimated that in 2010 a woman’s lifetime risk of maternal death was one in 26.</p>
+<p><u>Discrimination</u>: The law does not discriminate against women in inheritance and property rights, but a number of discriminatory customary laws often prevailed. Women’s statutory inheritance rights often were not respected, particularly in rural areas. Women experienced economic and social discrimination. Customary law does not consider single, divorced, or widowed women, including those with children, to be heads of households. By law men and women are entitled to family subsidies from the government, but several women’s groups complained about lack of access to these payments for women. Women’s access to educational opportunities and to jobs, particularly at higher levels in their professions or in government service, remained limited. Some women reported economic discrimination in access to credit due to lack of collateral, but there were no reports of discrimination in pay equity or owning or managing a business.</p>
+<p>The government did not take any steps in the year to combat discrimination against women. The AFJC advised women of their legal rights and how best to defend them. Because of widespread insecurity, the AFJC filed an increased number of complaints with the government regarding human rights violations.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Children derive citizenship by birth in the national territory or from one or both parents. Birth registration could be difficult and less likely to occur in regions of the country with little government presence. When births were registered, parents did not always register them immediately. Unregistered children faced restrictions on access to education and other social services.</p>
+<p>Birth registration was spotty and not possible in conflict zones. Seleka members looted birth registration offices around the country and destroyed their records. The government closed the vital statistics office in Bangui through October.</p>
+<p><u>Education</u>: Education is compulsory from six to 15 years of age. Tuition is free, but students have to pay for items such as books, supplies, and transportation. Girls did not have equal access to primary education: 65 percent of girls were enrolled in the first year of school, but only 23 percent of girls finished the six years of primary school, according to a 2007 UNESCO study. At the secondary level, a majority of girls dropped out at age 14 or 15 due to societal pressure to marry and bear children. Few Ba’aka, the earliest known inhabitants of the forests in the south, attended primary school. Some local and international NGOs made efforts, with little success, to increase Ba’aka enrollment in schools, but there was no significant government assistance for these efforts.</p>
+<p>Public schools remained closed during the year due to instability in the country. Seleka looted, ransacked, and burned numerous schools throughout the country in 2013. Only a very few private schools were open, according the UNHRC. The closure of public schools affected approximately 800,000 children from elementary through secondary school. Due to the volatile security situation, many teachers and civil servants who sought refuge in Bangui at the outbreak of hostilities had not returned to the provinces for much of the year. A new school year began in November where security permitted.</p>
+<p><u>Child Abuse</u>: The law criminalizes parental abuse of children under age 15. Nevertheless, child abuse and neglect were widespread, although rarely acknowledged. The transitional government did not take steps to address child abuse.</p>
+<p><u>Early and Forced Marriage</u>: The law establishes 18 as the minimum age for civil marriage. Nonetheless, an estimated 61 percent of women between ages 20 and 24 were married before age 18, according to UNICEF data collected between 2000 and 2009. UNICEF reported that forced marriages were on the rise among young girls in rural areas where the transitional government lacked authority. The transitional government did not take steps to address forced marriage. The practice of early marriage was more common in the Muslim community. There were reports in the year of forced marriages of young girls to Seleka members.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits female genital mutilation/cutting (FGM/C), which is punishable by two to five years’ imprisonment and a fine of 100,000 to one million CFA francs ($190 to $1,900), depending on the severity of the case. Approximately 24 percent of girls and women between ages 15 and 49 had been cut, according to multiple indicator cluster surveys reported by UNICEF from 2010. Fifty-two percent of cut girls experienced FGM/C between ages 10 and 14, according to UNICEF. No information was available on the type of excision most often practiced. The government broadcast public awareness announcements about FGM/C on public radio.</p>
+<p><u>Sexual Exploitation of Children</u>: There are no statutory rape or child pornography laws to protect minors. The family code prescribes penalties for the commercial exploitation of children including imprisonment and financial penalties. The minimum age of sexual consent is 18, but it was rarely observed.</p>
+<p>The UNHRC reported the Seleka committed sexual violence against children between ages two and 17. The UNHRC also received reports on the use of girls as sex slaves.</p>
+<p><u>Child Soldiers</u>: Child soldiering was a problem (see section 1.g.).</p>
+<p><u>Displaced Children</u>: Prior to the Seleka takeover, there were more than 6,000 street children between ages five and 18, including an estimated 3,000 in Bangui, according to data collected by the Ministry of Family and Social Affairs. Many experts believed that HIV/AIDS and societal belief in sorcery, particularly in rural areas, contributed to the large number of street children. An estimated 300,000 children had lost one or both parents to HIV/AIDS, and children accused of sorcery (often reportedly in connection with HIV/AIDS-related deaths in their neighborhoods) frequently were expelled from their households and were sometimes subjected to societal violence.</p>
+<p>The country’s instability had a disproportionate effect on children, who accounted for 60 percent of IDPs. Access to government services was limited for all children, but displacement reduced it further.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There was no significant Jewish community, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The transitional charter provides for equal protection, but it does not explicitly prohibit discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, access to transportation, and access to state services. The law prohibits discrimination against persons with both mental and physical disabilities but does not specify other forms of disabilities. It also requires that in any company employing 25 or more persons, at least 5 percent of its staff must consist of sufficiently qualified persons with disabilities, if they are available. Additionally, the law states that at least 10 percent of the total number of newly recruited government civil service personnel should be persons with disabilities. There were no legislated or mandated accessibility provisions for persons with disabilities, and authorities did not provide such access.</p>
+<p>The government did not enact programs to ensure access to buildings, information, and communications. No information was available on whether any children with disabilities attended school during the year. The government mandates the Ministry of Labor’s Labor Inspectorate with protecting children with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Violence by unidentified persons, bandits, and other nonstate-armed entities against the Mbororo, essentially nomadic pastoralists, was a problem. Their cattle wealth made them attractive targets, and they continued to suffer disproportionately from civil disorder in the north. Additionally, since many citizens viewed them as inherently foreign due to their transnational migratory patterns, the Mbororo faced occasional discrimination with regard to government services and protections. In recent years the Mbororo began arming themselves against attacks resulting from disputes with farmers upset over the presence of the Mbororo’s grazing cattle. Several of these altercations during the year resulted in deaths. According to the International Crisis Group, a refugee from Bouar living in Chad reported in April that his sons and wife were killed by anti-Balaka. Additionally some observers reported that following the ouster of the Bozize government, Seleka members armed Mbororo herders, who joined them in committing abuses against villagers.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>Indigenous People</h2>
+<div class="sub-section_content">
+<p>Despite the ratification of the International Labor Organization’s (ILO’s) Convention on Indigenous and Tribal Peoples, there was discrimination against the Ba’aka, who constituted 1 to 2 percent of the population. The Ba’aka continued to have little influence in decisions affecting their lands, culture, traditions, and the exploitation of natural resources. Forest-dwelling Ba’aka, in particular, were subjected to social and economic discrimination and exploitation, which the transitional government did little to prevent.</p>
+<p>The Ba’aka, including children, often were coerced into agricultural, domestic, and other types of labor. They were considered to be the slaves of members of other local ethnic groups, and even when they were remunerated for labor, their wages were far below those prescribed by the labor code and lower than wages paid to members of other groups.</p>
+<p>Refugees International reported the Ba’aka were effectively “second-class citizens,” and the popular prejudice that they were barbaric and subhuman further resulted in their exclusion from mainstream society.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The penal code criminalizes consensual same-sex sexual activity. The penalty for “public expression of love” between persons of the same sex is imprisonment for six months to two years or a fine of between 150,000 and 600,000 CFA francs ($285 and $1,140). When one of the participants is a child, the adult may be sentenced to two to five years’ imprisonment or a fine of 100,000 to 800,000 CFA francs ($190 and $1,520); however, there were no reports that police arrested or detained persons under these provisions.</p>
+<p>While there is official discrimination based on sexual orientation, there were no reports of the government targeting gays and lesbians. Societal discrimination against LGBT persons was entrenched due to a high degree of cultural stigmatization and social pressure placed upon individuals to conform to a heterosexual lifestyle. Many citizens attributed the existence of homosexuality to undue Western influence. There were no reports of LGBT persons targeted for acts of violence, although the lack of reports may be due to cultural biases and stigma attached to being a member of the LGBT community. There were no known organizations advocating or working on behalf of LGBT persons.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Violent conflict and instability in the country continued to have a religious cast. Many but not all Seleka members were Muslim, having originated in neighboring countries or in the remote Muslim north, a region the former Bozize government had neglected.</p>
+<p>During the worst of the crisis, some Christian communities formed anti-Seleka militias that targeted Muslim communities, presumably for their association with the Seleka. The Catholic Archbishop of Bangui, local priests, and an imam worked with communities to defuse tensions by making radio broadcasts urging members of their religious communities to call for tolerance and restraint. Leaders including the bishop of Bossangoa, along with internationally based academics, warned about the danger of casting the conflict in religious terms and thus fueling its escalation along religious lines.</p>
+<p>Persons with HIV/AIDS were subjected to discrimination and stigma, and many individuals with HIV/AIDS did not disclose their status due to social stigma.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section7"> </span><span class="st_twitter" st_title="Central African Republic #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Central African Republic - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236340%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of all workers, except for senior-level state employees and all security force members, to form or join unions without prior authorization. The labor code provides for the right of workers to organize and administer trade unions without employer interference and grants trade unions full legal status, including the right to file lawsuits. The labor code no longer bars a person who loses the status of worker from belonging to a trade union or participating in its administration. The law, however, requires that union officials be full-time, wage-earning employees in their occupation and allows them to conduct union business only during working hours so long as the employer is informed 48 hours in advance and provides authorization. Additionally the law requires that foreign workers meet a residency requirement of at least two years before they may organize. Substantial restrictions, including reciprocity, continued to make it difficult for noncitizens to hold leadership positions within a union, despite some amendments to the labor code.</p>
+<p>Workers have the right to strike in both public and private sectors, but the law prohibits security forces, including the armed forces and gendarmes, from striking. Requirements for conducting a legal strike are lengthy and cumbersome. To be legal, strikes must be preceded by the union’s presentation of demands, the employer’s response to these demands, a conciliation meeting between labor and management, and a finding by an arbitration council that the union and the employer failed to reach agreement on valid demands. The union must provide eight days’ advance written notification of a planned strike. The law states that if employers initiate a lockout that is not in accordance with the code, the employer is required to pay workers for all days of the lockout. The Ministry of Labor and Civil Service has the authority to determine a list of enterprises that are required by law to maintain a “compulsory minimum service” in the event of a strike. The government has the power of requisition or the authority to end strikes by invoking the public interest. The code makes no other provisions regarding sanctions on employers for acting against strikers.</p>
+<p>The law expressly forbids antiunion discrimination. The labor code provides that unions may bargain collectively in the public and private sectors, and it provides workers protection from employer interference in the administration of a union. In 2010 the ILO recommended the government amend a provision of the labor code, which in effect hinders public sector workers’ right to bargain collectively by providing that the collective agreements in the public sector be negotiated by professional groupings, even when trade unions exist. The transitional government took no action on the ILO recommendation.</p>
+<p>Employees can have their cases heard in the labor court. The law does not state whether employers found guilty of antiunion discrimination are required to reinstate workers fired for union activities, although the law requires employers found guilty of such discrimination to pay damages, including back pay and lost wages.</p>
+<p>The transitional government generally enforced the applicable laws and respected the laws concerning labor actions. Workers exercised some of these rights, but only a relatively small part of the workforce, primarily civil servants, exercised the right to join a union. While worker organizations are officially outside government or political parties, the government exerted some influence over the leadership of some organizations.</p>
+<p>Labor unions did not report any underlying patterns of discrimination or abuse. The president of the labor court stated the court did not hear any cases involving antiunion discrimination during the year.</p>
+<p>Collective bargaining occurred in the private sector during the year, although the total number of collective agreements concluded was unknown. The transitional government generally was not involved if the two parties were able to reach an agreement. Information was unavailable on the effectiveness of collective bargaining in the private sector. Employers were not known to use subcontractors or other short-term contractors to avoid negotiations with striking workers.</p>
+<p>The transitional government, which was the country’s largest employer, set wages after consultation, but not negotiation, with government-employee trade unions. Salary and pension arrears continued to be a problem for armed forces personnel and the 24,000 civil servants.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The labor code specifically prohibits all forms of forced or compulsory labor and prescribes a penalty of five to 10 years’ imprisonment. The labor code’s prohibition of forced or compulsory labor also applies to children, although the code does not mention them specifically. The government did not enforce the prohibition effectively, however, and there were reports that such practices occurred. The failure of government enforcement was due to a lack of resources and to an inadequate inspection cadre. Employers subjected women and children to forced domestic, agricultural, mining, sales, and restaurant labor, as well as sexual exploitation. Prisoners often worked on public projects without compensation. In Bangui and other large urban areas, however, the practice was rare, partly because of the presence of human rights NGOs or lawyers and because day labor was inexpensive. Ba’aka, including children, often were coerced into labor as day laborers, farm hands, or other unskilled labor, and often treated as slaves. No known victims were removed from forced labor during the year.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt"><u>www.state.gov/j/tip/rls/tiprpt</u></a><u>/</u>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The labor code forbids the employment of children younger than age 14 without specific authorization from the Ministry of Labor and Civil Service, but the law also provides that the minimum age for employment can be as young as age 12 years for some types of light work in traditional agricultural activities or home services. The law prohibits children younger than age 18 from performing hazardous work or working at night. Although the law defines hazardous work as any employment that endangers children’s physical and mental health, it does not define the worst forms of child labor. The mining code specifically prohibits child or underage labor.</p>
+<p>The transitional government did not enforce these provisions due to a lack of resources and an inadequate inspector cadre. The government had numerous policies related to child labor – including programs to end the sexual exploitation and abuse of children and the recruitment and use of children in armed conflict – but there was no evidence of programs that included the goal of eliminating or preventing child labor, including its worst forms. Although the government’s transitional authorities adopted the “National Strategy to End the Recruitment and Use of Children in Armed Conflict” in November 2013, the strategy remained unimplemented at year’s end. Child labor was common in many sectors of the economy, especially in rural areas. There were no reports of children employed on public works projects or at the residences of government officials. Children, however, continued to perform hazardous work and labored as child soldiers. No known victims were removed from the worst forms of child labor during the year.</p>
+<p>Throughout the country children as young as age seven frequently performed agricultural work. Children often worked as domestic workers, as fishermen, and in mines, often in dangerous conditions. Children also worked in the diamond fields alongside adult relatives, transporting and washing gravel, as well as mining gold, digging holes, and carrying heavy loads. Despite the law prohibiting child labor in mining, observers saw many children working in and around diamond-mining fields.</p>
+<p>In Bangui many of the city’s street children worked as street vendors.</p>
+<p>During the year the ex-Seleka recruited and used child soldiers (see section 1.g.).</p>
+<p>Displaced children continued to work in fields for long hours in extreme heat, harvesting peanuts and cassava and helping gather items subsequently sold at markets, such as mushrooms, hay, firewood, and caterpillars.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The constitution and the labor code view all citizens as equal with respect to employment. It is illegal to discriminate in hiring or place of employment on the basis of origin, gender, opinions, or beliefs. The law does not explicitly prohibit discrimination in employment and occupation based on disability, language, sexual orientation, gender identity, and HIV-positive status or other communicable diseases, or social status. There was no documentation as to whether the government effectively enforced the law.</p>
+<p>Discrimination in employment and occupation occurred with respect to gender (see section 6). Due to their limited access to educational opportunities, women had job opportunities, particularly at higher levels in their professions or in government service. There were no reports of discrimination in pay equity or owning or managing a business.</p>
+<p>Migrant workers enjoyed the same legal protections, wages, and working conditions as citizens.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The labor code states that the minister of labor and civil service must set minimum wages in the public sector by decree. The minimum wages in the private sector are established based on sector-specific collective conventions resulting from negotiations between employers and workers’ representatives in each sector.</p>
+<p>The minimum wage in the private sector varied by sector and type of work. While the average monthly minimum wage remained 28,000 CFA francs ($53), it was 26,000 CFA francs ($49) for government workers and 8,500 CFA francs ($16) for agricultural workers.</p>
+<p>The minimum wage applies only to the formal sector, leaving most of the economy unregulated in terms of wages. The law applies to foreign and migrant workers as well. Most labor was performed outside the wage and social security system in the extensive informal sector, especially by farmers in the large subsistence agricultural sector. The official estimated poverty rate was 65 percent.</p>
+<p>The law sets a standard workweek of 40 hours for government employees and most private sector employees. Household employees may work up to 52 hours per week. The law also requires a minimum rest period of 48 hours per week for citizen, foreign, and migrant workers. Overtime policy varied according to the workplace. Violations of overtime policy could be referred to the Ministry of Labor and Civil Service, although it was unknown whether this occurred during the year. There is no legal prohibition about excessive or compulsory overtime. The labor code, however, states that employers must provide for the health and security of employees who are engaged in overtime work.</p>
+<p>There are general laws on health and safety standards in the workplace, but the Ministry of Labor and Civil Service did not precisely define them. The labor code states that a labor inspector may force an employer to correct unsafe or unhealthy work conditions.</p>
+<p>The transitional government did not enforce labor standards, and violations were common in all sectors of the economy. The government did not enforce standards due to inadequate resources and labor inspectorate capacity. Employers commonly violated labor standards in agriculture and mining. Despite the prevalence of these conditions, labor inspectors generally failed to intervene.</p>
+<p>Diamond mines – which employed an estimated 400,000 persons – are subject to standards imposed by the mining code and inspection by the Miners’ Brigade. Nevertheless, monitoring efforts were underfunded and insufficient. Despite the law requiring those working in mines to be at least 18 years of age, observers frequently saw underage diggers. Miners often worked in open pits susceptible to collapse. On average, a digger earned a daily wage of 2,000 CFA francs ($3.80), often working seven days a week during the peak season. Diggers were employed by larger mine operators, worked in dangerous conditions at the bottom of open pits, and lacked safety equipment.</p>
+<p>Miners, by contrast, have a share in ownership and participate in the proceeds of diamond sales. On average, they earned 186,000 CFA francs ($352) per year via legal sales, but this figure varied considerably based on the scale of the mine. Often miners supplemented these earnings by either illegal diamond sales or wages from other sectors of the economy. No credible information was available regarding workplace injuries and deaths.</p>
+<p>By law, when information exists about dangerous working conditions, workers can remove themselves from the situation without jeopardy to their employment. In such instances the labor inspector notifies the employer and requires that the conditions be addressed within four working days.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

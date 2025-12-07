@@ -1,0 +1,491 @@
+2014
+Guatemala
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692"> </span><span class="st_facebook" st_title="Guatemala" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236692">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid;=236692</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6indigenouspeople">Indigenous People</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=executive"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Guatemala is a multi-party constitutional republic. In 2011 Otto Perez Molina of the Patriot Party won the presidential election for a four-year term that began in January 2012. International observers considered the election generally free and fair. Authorities at times did not maintain effective control over the security forces; internal discipline continued to be a problem.</p>
+<p>Principal human rights abuses included widespread institutional corruption, particularly in the police and judicial sectors; police and military involvement in serious crimes, such as kidnapping, drug trafficking, trafficking in persons, and extortion; and societal violence, including often lethal violence against women.</p>
+<p>Other human rights problems included abuse and mistreatment by National Civil Police (PNC) members; harsh and life-threatening prison conditions; arbitrary arrest and detention; prolonged pretrial detention; failure of the judicial system to conduct full and timely investigations and fair trials; and failure to protect judicial officials, witnesses, and civil society representatives from intimidation and threats. There were also killings of journalists, human rights activists, and trade unionists; sexual harassment and discrimination against women; child abuse, including commercial sexual exploitation of children; discrimination and abuse of persons with disabilities; and trafficking in persons and human smuggling, including of unaccompanied children. Other problems included marginalization of indigenous communities and ineffective mechanisms to address land conflicts; discrimination on the basis of sexual orientation and gender identity; and ineffective enforcement of labor and child labor laws.</p>
+<p>The government cooperated with the UN-backed International Commission Against Impunity in Guatemala (CICIG) and took steps to prosecute officials who committed abuses. Nonetheless, impunity continued to be widespread.</p>
+<p>Considerable violence was committed by gangs, organized crime, and narcotics trafficking organizations; however, corruption and inadequate investigation and prosecution of such crimes made factual attribution for crimes difficult.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section1"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>As of September 30, the PNC and its Office of Professional Responsibility (ORP), the mechanism for investigating security force abuses, accused nine PNC officers of homicide. Their trial was pending.</p>
+<p>On June 6, a Swiss court convicted and sentenced former PNC Chief Erwin Sperinsen to life imprisonment for the extrajudicial killing of one inmate and complicity in the extrajudicial killing of six other inmates, during Operation Pavo Real carried out in 2006 at the Pavon Prison. Sperinsen, a dual Guatemalan-Swiss national, fled to Switzerland to avoid prosecution in Guatemala.</p>
+<p>In 2013 a three-judge panel found former head-of-state Efrain Rios Montt guilty of genocide and crimes against humanity and sentenced him to 80 years in prison. Later in the year, the Constitutional Court overturned the conviction on procedural grounds and returned the case to a different court for rehearing. At year’s end the case had not restarted.</p>
+<p>According to the National Forensic Institute, in the first nine months of the year, 4,156 homicides were reported throughout the country, compared with 4,707 homicides for the same period in 2013, a 12 percent decrease.</p>
+<p>The government reached a reparations agreement to resolve a 30-year dispute with communities affected by the construction of the Chixoy Hydro-Electric Dam. During the construction of the dam (1975-85), more than 400 individuals were killed and thousands were displaced. As part of the agreement, the government was expected to pay $156 million in individual and community reparations to those affected.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no new reports of politically motivated disappearances. The government took actions to investigate and prosecute cases of forced disappearances from the internal armed conflict period (1960-96). On June 23, authorities arrested retired army officers Esteelmer Reyes and Heriberto Valdez for murder, forced disappearances, and sexual abuse while they were in charge of the Sepur Zarco military post (1982-83) in the northern department of Izabal.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law prohibit torture and other cruel, inhuman, or degrading treatment or punishment, there were credible reports of abuse and other mistreatment by PNC members.</p>
+<p>On June 19, a court convicted and sentenced to 33 years in prison police officers Myder Roblero Vasquez, Jose Oswaldo Can Chanchavac, Yacson Yeser Mazariegos Barrios, Jimmy Hans Lopez Morales, and Maria del Carmen Soto Lopez for the 2008 kidnapping and disappearance of Nancy Gabriela Aguilar Joachin.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh and life threatening, with multiple instances of inmates killing other inmates. No cases were investigated or trials held in these incidents. Sexual assault, inadequate sanitation and medical care, and gross overcrowding continued to place prisoners at significant risk.</p>
+<p><u>Physical Conditions</u>: Prison overcrowding continued to be a problem. According to the prison system registry, as of September 30, there were 18,379 inmates, including 1,644 women, held in facilities designed to hold 6,742 persons. There were 1,099 juveniles under custody of the Secretary of Social Welfare.</p>
+<p>Physical conditions included wholly inadequate sanitation and bathing facilities, dental and medical care, ventilation, temperature control, and lighting. Prisoners had difficulty accessing potable water, complained of inadequate food, and often had to pay for additional sustenance. Illegal drug sales and use continued to be widespread. Prison officials continued to report a loss of safety and control, including escape attempts, gang fights, the inability to control the flow of contraband goods into prisons, and the fabrication of weapons. Prisoners continued to direct criminal activity both inside and outside of prisons. The prison guard force did not control prisoners effectively.</p>
+<p>From January to November 25, according to the penitentiary system, five prisoners died of unnatural causes while in prison, of a total of 57 reported deaths.</p>
+<p>Conditions for male and female prisoners were usually comparable throughout the country. Media and nongovernmental organizations (NGOs) noted that female and juvenile inmates faced continuing physical and sexual abuse. Female inmates reported unnecessary body searches and verbal abuse by prison guards. Children below three years of age could live in prison with their mothers, although the penitentiary system provided inadequate food for young children, and many suffered from illness. Lesbian, gay, bisexual, and transgender (LGBT) rights groups noted that other prisoners often sexually assaulted gay and transgender individuals and there were insufficient facilities and protocols to protect LGBT individuals under custody.</p>
+<p>Occasionally, authorities held male and female detainees together in immigration facilities, pretrial detainees with convicted prisoners, and juveniles with adults.</p>
+<p><u>Administration</u>: The government’s independent human rights ombudsman, whose responsibilities also include prisoner rights, does not have authority to act on behalf of prisoners and detainees regarding alternatives to incarceration for nonviolent offenders, circumstances of confinement of juvenile offenders, or procedural improvements to ensure prisoners do not serve beyond the maximum sentence for the charged offense. Recordkeeping remained inadequate.</p>
+<p>Prisoners and detainees had reasonable access to visitors and could observe their religious practices. While the law requires authorities to permit prisoners and detainees to submit complaints to judicial authorities without censorship and to request investigation of credible allegations of inhuman conditions, authorities failed to investigate most allegations of inhuman conditions and treatment or to document the results of such investigations in a publicly accessible manner.</p>
+<p><u>Independent Monitoring</u>: The government permitted visits by local and international human rights groups, the Organization of American States (OAS), public defenders, and religious groups.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, but there were credible reports of extrajudicial arrests, illegal detentions, and denial of timely access to a magistrate and hearing, as required by law.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The PNC, overseen by the Ministry of Government and headed by a director general appointed by the ministry, is responsible for law enforcement and maintenance of order in the country. The Ministry of National Defense oversees the military, which focuses primarily on operations in defense of the country; however, the government utilized the army in internal security and policing.</p>
+<p>Civilian authorities in some instances failed to maintain effective control over the PNC, and the government lacked effective mechanisms to investigate and punish abuse and corruption. There were reports of impunity involving security forces. The PNC remained understaffed, inadequately trained, and insufficiently funded, all of which substantially impeded its effectiveness.</p>
+<p>The level of impunity for security forces accused of committing crimes was high. In cases in which police forces were implicated, the ORP is responsible for internal investigations and the Public Ministry is responsible for external investigations. To reform the police forces, a Police Reform Commission, established under the previous administration, has a legal mandate to make necessary changes.</p>
+<p>Police and immigration officials reportedly extorted and mistreated persons attempting to enter the country illegally. The PNC routinely transferred officers suspected of wrongdoing rather than investigating and punishing them.</p>
+<p>Critics accused police of indiscriminate and illegal detentions when conducting antigang operations in some high-crime neighborhoods. Security officials allegedly arrested and imprisoned suspected gang members without warrants or on fabricated drug charges. There were press reports of police involvement in kidnappings for ransom.</p>
+<p>The ORP conducted internal investigations of misconduct by police officers. In the first nine months of the year, the ORP reported receiving 1,104 complaints alleging misconduct of police personnel.</p>
+<p>All new PNC and military soldiers receive some human rights and professional ethics training. No further information about the content of the training or number of hours received was provided despite requests.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires presentation of a court-issued warrant to a suspect prior to arrest unless police apprehend a suspect while in the act of committing a crime. Police may not detain a suspect for more than six hours without bringing the case before a judge. Authorities did not regularly respect this right and did not promptly inform some detainees of the charges filed against them. After arraigning suspects the prosecutor generally has three months to complete the investigation and file a case in court or seek a formal extension of the detention period. The law prohibits the execution of search warrants between 6 p.m. and 6 a.m. unless the government has declared a state of siege. The law provides for access to lawyers and bail for most crimes. The government provides legal representation for indigent detainees, and detainees have access to family members. A judge has the discretion to determine whether bail is necessary or permissible for pretrial detainees.</p>
+<p><u>Arbitrary Arrest</u>: There were no reliable data on the number of arbitrary detentions, although most accounts indicated that police continued to ignore writs of habeas corpus in cases of illegal detention, particularly during neighborhood antigang operations.</p>
+<p><u>Pretrial Detention</u>: As of August 1, prison system records indicated 49 percent of prisoners were in pretrial detention. The law establishes a three-month limit for pretrial detention, but authorities regularly held detainees past their legal trial or release dates. Lengthy investigations and frequent procedural motions by both defense and prosecution often led to excessively lengthy pretrial detentions, frequently delaying trials for months or years. Authorities did not release some prisoners in a timely fashion after completing full sentences due to the failure of judges to issue the necessary court order or other bureaucratic problems.</p>
+<p>On June 10, police arrested PNC agents Matias de Leon, Matias de Jesus Caal, Orlando Israel Gamarro Gamarro, and Carlos Alvarez and charged them with raping a female minor on June 1 while she was in detention in a police jail in Chicaman, Quiche Department. Their trial was pending a hearing date.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide for an independent judiciary. The judicial system failed to provide fair or timely trials due to inefficiency, corruption, insufficient personnel, and intimidation of judges, prosecutors, and witnesses.</p>
+<p>Judges, prosecutors, plaintiffs, and witnesses continued to report threats, intimidation, and surveillance, most often from drug-trafficking organizations. By the end of September, the special prosecutor for crimes against judicial workers had received 171 complaints of threats or aggression against workers in the judicial branch, compared with 213 in all of 2013.</p>
+<p>The CICIG assists the Ministry of Government and Public Ministry with the investigation of cases. According to the CICIG, it participated in the investigation of 57 high-profile cases, including extrajudicial executions, extortion, trafficking in persons, improper adoptions, corruption, and drug trafficking.</p>
+<p>The Supreme Court continued to seek the suspension of judges and to conduct criminal investigations of improprieties or irregularities in cases under its jurisdiction. The Judicial Disciplinary Unit investigated 548 complaints of wrongdoing through October, held hearings for 479 complaints, and applied sanctions in several cases, ranging from written notice to 30-day suspension.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair public trial, the presumption of innocence, the right to be present at trial, and the right to legal counsel in a timely manner. The law requires that attorneys be provided at government expense for defendants facing criminal charges if the defendant cannot find or afford an attorney. Defendants and their attorneys have access to government-held evidence relevant to their case, and they may confront adverse witnesses and present their own witnesses and evidence. The law provides for plea bargaining and the right of appeal. Three-judge panels render verdicts; there are no trials by jury. The law provides for oral trials and mandates language interpretation for those needing it; however, interpreters were not always available. Trials are conducted in Spanish, the official language, although many Guatemalans speak only one of 23 officially recognized indigenous languages and not Spanish.</p>
+<p>The Public Ministry, acting semi-independently of the executive branch, may initiate criminal proceedings on its own or in response to a complaint. Private parties may participate in the prosecution of criminal cases as plaintiffs.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals and organizations have access to administrative and judicial remedies to bring lawsuits seeking damages for, or cessation of, a human rights violation or other alleged wrongs. While the judiciary was generally impartial and independent in civil matters, it suffered from inefficiencies and institutional weaknesses.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>On August 21, the Inter-American Court of Human Rights found the government in contempt with respect to 13 decisions between 1999 and 2013. The court ordered, among other things, that the government immediately investigate, prosecute, and, if appropriate, sanction those responsible for human rights violations in the 13 cases.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and the law prohibit such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section2"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press, and the government generally respected these rights; however, criminal intimidation of journalists resulted in significant self-censorship. There were also reports of anonymous groups limiting the distribution of print media by intimidating distributors or seizing copies of magazines that contained articles critical of the government or other politicians.</p>
+<p><u>Press Freedoms</u>: Despite laws supporting freedom of the press, many journalists were the victims of threats, harassment, and violence. Reporters covering organized crime, including its links to corrupt public officials, acknowledged practicing self-censorship, recognizing the danger investigative journalism posed to them and their families. The independent media were active and expressed a wide variety of views, but difficulty obtaining licenses to operate community radio stations and accessing some information limited press freedom.</p>
+<p><u>Violence and Harassment</u>: Members of the press continued to report that violence and impunity impaired the practice of free and open journalism. The press reported numerous threats by public officials and criminal organizations increased journalists’ sense of vulnerability.</p>
+<p>According to the Public Ministry, there were 77 complaints filed for attacks or threats against journalists and no reported killings through the end of November, compared with 64 complaints and four killings for all of 2013. The Public Ministry employs a unit dedicated to the investigation of threats and attacks against journalists.</p>
+<p><u>Censorship or Content Restrictions</u>: Members of the press reported receiving pressure, threats, and retribution from various public officials regarding the selection and content of their reporting. Some owners and members of the media also accused the government of following a discriminatory advertising policy, penalizing or rewarding print and broadcast media based upon whether the government perceived the news or commentary as supportive or critical of the administration.</p>
+<p>On June 26, leading daily newspaper <i>Prensa Libre</i> accused the Perez Molina administration of pressuring it to cease publishing stories critical of the administration and demanding favorable coverage.</p>
+<p>Throughout the year Jose Ruben Zamora, director of <i>El Periodico</i> newspaper, claimed the government attempted to force the closing of his newspaper by withholding government advertising and enforcing a de facto but undeclared boycott by private sector advertisers because his newspaper was critical of the administration. Zamora was the subject of dozens of defamation suits on behalf of high-level administration officials. Some of the lawsuits were withdrawn and others remained pending a hearing date.</p>
+<p><u>Nongovernmental Impact</u>: Organized crime exerted influence over media outlets and reporters, frequently threatening individuals for reporting on criminal activities and warning journalists not to write or publish reports about crimes.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private online communications without appropriate legal authority. According to the International Telecommunication Union, 20 percent of the population used the internet in 2013, compared with 16 percent in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the freedoms of assembly and association, and the government generally respected these rights; however, there were reports of security forces using excessive force against some demonstrations.</p>
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>On May 23, violence erupted at the El Tambor Mine near the towns of San Jose del Golfo and San Pedro Ayampuc, Guatemala Department, when police forces attempted to allow mining equipment to enter the mining site. According to reports by first responders, tear gas canisters injured 15 protesters. Police reportedly launched the canisters directly at the protesters instead of aiming for the ground. Several protesters were severely injured. Rocks thrown by protesters injured 13 police officers.</p>
+<p>On September 22, the government declared a 30-day “state of emergency” that limited certain rights, including the right to assemble, in the municipality of San Juan Sacatepequez following intracommunity violence that resulted in the killing of eight individuals, including five members of one family. The violence was due to differences among community members over a property sale related to planned highway construction. The communities had been in conflict for several years over the construction of a cement plant in the region. There were reports illegal armed groups were present in the region during the social unrest.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of association, and the government generally respected this right; however, there were reports of significant barriers to organizing in the labor sector (see section 7.a.).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights.</p>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section3"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on nearly universal suffrage for those 18 years of age and older. Members of the armed forces, police, and incarcerated individuals are not eligible to vote, nor is absentee voting permitted.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2011 Otto Perez Molina of the Patriot Party won a four-year term as president. The OAS international observation mission characterized the elections as generally free and fair.</p>
+<p><u>Participation of Women and Minorities</u>: The vice president was Roxana Baldetti, the first woman to hold this position. There were 21 women in the 158-seat Congress. Of 918 judges or magistrates, 339 were women, including one on the Supreme Court and one on the Constitutional Court. In addition to the vice president, there were two women in the 14-member cabinet. Five of the country’s 333 mayors were women.</p>
+<p>While the indigenous population constituted 44 percent of the population according to a government census, indigenous representation in national government was minimal. There were no indigenous cabinet members and no indigenous members on the Constitutional Court. The president of the Supreme Court was indigenous--the only indigenous member among the 13 magistrates on the bench. There were 20 indigenous members of Congress. Indigenous individuals comprised a greater share of local government, with 113 indigenous mayors.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section4"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, but officials frequently engaged in corrupt practices with impunity. As in previous years, inadequate political will and widespread impunity facilitated government corruption.</p>
+<p><u>Corruption</u>: On June 3, authorities arrested former mayor of San Miguel Petapa, Rafael Eduardo Gonzalez Rosales, and five others for fraud and money laundering of 34 million quetzales ($4.4 million) of municipal funds. The case against Gonzalez and the five others was dismissed in October, a decision criticized by civil society organizations. Similarly, in October a judge dismissed the corruption case against Chinautla mayor Arnoldo Medrano, a decision criticized by rule-of-law organizations.</p>
+<p>There were numerous instances of corruption within the police, judiciary, and penal system. On October 9, the CICIG requested the formal investigation of Appeals Court Magistrate Erick Gustavo Santiago de Leon and two coconspirators, Eliot Imeri Diaz and Samuel Enrique Alvarado, for soliciting a two million dollar bribe to reduce a fine imposed on a private company by a lower court.</p>
+<p>On September 3, a criminal investigation led by the CICIG found that prison authorities received bribes to transfer inmates from one prison to another. Prisons System Director Edgar Josue Camargo Liere, Deputy Director Edy Fisher Arbizu, inmate Byron Lima Oliva, and five accomplices (Carnos Cermeno Espina, Jose Rene Avila Mazariegos, Martin Arevalo Godoy, Alejandra Sarai Reyes Ochoa, and Christian Rene Picon Cifuentes) were charged with, among other things, illicit association and conspiracy to launder money after a criminal investigation led by the CICIG found that prison authorities received bribes to transfer inmates from one prison to another.</p>
+<p>The Comptroller General’s Office and the Public Ministry are responsible for combating corruption. The comptroller general’s mandate is to monitor public spending, and the attorney general’s mandate is to prosecute crimes. Both agencies actively collaborated with civil society and were relatively independent; however, they lacked adequate resources, which affected their capabilities. There was no improvement in the prosecution of official corruption cases.</p>
+<p><u>Financial Disclosure</u>: Public officials who earn more than 8,000 quetzales ($1,040) per month or who manage public funds are subject to financial disclosure laws overseen and enforced by the Comptroller General’s Office. The financial disclosures were available to the public upon request. Administrative and criminal sanctions apply for inadequate or falsified disclosures of assets.</p>
+<p><u>Public Access to Information</u>: The law provides for the right of citizens to access public information and establishes fines for government agencies that obstruct such access. The disclosure law contains exceptions for national security, sets reasonably short timelines for disclosure, and allows for a reasonable processing fee. There are no sanctions for noncompliance. The government granted access to public information for citizens and noncitizens, including foreign media, although at times in a slow and incomplete manner. While there is no formal mechanism to appeal denials of requests, petitioners often successfully appealed to the Office of the Human Rights Ombudsman for assistance relating to a government denial of public information.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section5"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were cooperative in some cases. Following clashes between demonstrators and police after authorities attempted to clear the road and entrance to the El Tambor Mine on May 23, the Ministry of Government announced the expulsion of two foreign citizens from the NGO Peace Brigades International, who, according to the government, reportedly engaged in violent activities in violation of the terms of their visas. Several days after the announcement, and prior to the foreigners departing the country, the Ministry of Government reversed its decision and canceled the expulsion order.</p>
+<p>A number of NGOs, human rights workers, and trade unionists reported threats, violence, and intimidation by unidentified persons. NGOs asserted the government did little to investigate these reports or to prevent further incidents. NGOs also reported the government used threats of legal action as a form of intimidation.</p>
+<p>The majority of cases brought to the Office of the Special Prosecutor for Human Rights went without timely investigation or languished in the court system.</p>
+<p>The local human rights NGO UDEFEGUA reported seven killings of human rights defenders through October, compared with 18 killings in all of 2013. UDEFEGUA also reported 791attacks against human rights defenders through October, compared with 657 attacks in 2013. According to various human rights NGOs, many of the attacks related to conflicts over land, the exploitation of natural resources, and legal proceedings against Rios Montt.</p>
+<p><u>Government Human Rights Bodies</u>: The Office of the Human Rights Ombudsman monitors the human rights set forth in the constitution and reports to Congress. The ombudsman operated without government or party interference, had the government’s cooperation, and issued public reports and recommendations, including an annual report to Congress on the fulfillment of its mandate. The office was not adequately resourced.</p>
+<p>The President’s Commission on Human Rights (COPREDEH) has responsibility to formulate and promote the government’s human rights policy. COPREDEH also led coordination of police protection for various human rights and labor activists. COPREDEH benefited from the administration’s cooperation and operated without political or party interference. Resources for the commission were not adequate; however, it was considered reasonably effective and had the trust of the public.</p>
+<p>The Congressional Committee on Human Rights drafts and provides advice on legislation regarding human rights. The law requires all political parties represented in congress to have a representative on the committee. NGOs considered the committee to be an effective public forum for promoting and protecting human rights.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section6"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law prohibit discrimination based on race, gender, disability, language, or social status. The government frequently did not enforce these provisions, and there was no protection related to sexual orientation and gender identity discrimination.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and sets penalties between five and 50 years in prison. Police had minimal training or capacity to investigate sexual crimes or assist survivors of such crimes, and the government did not enforce the law effectively. Full investigation and prosecution of domestic violence and rape cases took an average of one year. Impunity for perpetrators remained very high. Rape survivors frequently did not report crimes due to lack of confidence in the justice system, social stigma, and fear of reprisal.</p>
+<p>Rape and other sexual offenses remained serious problems. According to the Public Ministry, there were 8,871 cases of sexual or physical assault reported through October. During the same period, there were 304 convictions for sexual or physical assault on women.</p>
+<p>The government took steps to combat femicide and violence against women. It maintained the PNC’s Special Unit for Sex Crimes, the Office of Attention to Victims, the Office of the Special Prosecutor for Crimes against Women, and a special unit for trafficking in persons and illegal adoptions within the Special Prosecutor’s Office for Organized Crime. The Supreme Court and Public Ministry maintained a 24-hour court to offer services related to violence directed toward women, including sexual assault, exploitation, and trafficking of women and children.</p>
+<p>The law establishes penalties of five to eight years for physical, economic, and psychological violence committed against women because of their gender. Violence against women, including domestic violence, remained a serious problem. The law prohibits domestic abuse, allows for the issuance of restraining orders against alleged aggressors and police protection for victims, and requires the PNC to intervene in violent situations in the home. The PNC often failed to respond to requests for assistance related to domestic violence, and women’s rights advocates reported few officers received training to deal with domestic violence or assist survivors.</p>
+<p>Femicide affected both women and girls and remained a major problem. In most killings, sexual assault, torture, and mutilation were evident. The government’s national forensics agency reported 559 violent deaths of women through the end of September, compared with 590 deaths reported in all of 2013. The conviction rate was 1 to 2 percent for femicide. NGOs noted the severity of sentences was not always appropriate to the crime.</p>
+<p>The Institute of Public Criminal Defense provides free legal, medical, and psychological assistance to survivors of domestic violence.</p>
+<p>The government’s Program for the Prevention and Eradication of Intrafamily Violence, under the Secretariat of Social Work, reported receiving five calls daily from battered women and children. The Public Ministry reported 48,132 complaints of intrafamily violence against women and children as of August 31. The government reported 976 convictions in cases of intrafamily violence against women and children as of the end of September.</p>
+<p>Although the law affords protection, including shelter, to victims of domestic violence, there were insufficient facilities for this purpose.</p>
+<p>The Office of the Ombudsman for Indigenous Women within COPREDEH provided social services for survivors of domestic or social violence, as well as mediation, conflict resolution, and legal services for indigenous women. The office also coordinated and promoted action by government institutions and NGOs to prevent violence and discrimination against indigenous women, but it lacked human resources and logistical capacity to perform its functions on a national level. The office maintained no statistics on its caseload.</p>
+<p>The Ministry of Government operated eight shelters for survivors of abuse in departments with the greatest incidence of domestic violence. Several other shelters operated in cities and the countryside, funded by private donors or municipal governments. Many of the centers provided legal and psychological support and temporary accommodation.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No laws prohibit FGM/C, and the practice did not occur.</p>
+<p><u>Sexual Harassment</u>: The law does not prohibit sexual harassment, and there were no reliable estimates of its occurrence. Human rights organizations reported sexual harassment was widespread across all sectors.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children, and they sometimes had the information and means to do so free from discrimination. While the government provided access to family planning information and sex education through the public health system, provision of health services in remote areas and in indigenous languages was limited. The UN Population Fund (UNFPA) reported 34 percent of married women used a modern method of contraception in 2012.</p>
+<p>Cultural, geographic, and linguistic barriers existed in access to reproductive health care, particularly for indigenous women in rural areas. Discriminatory attitudes among health-care providers and a lack of culturally sensitive reproductive and maternal health-care services deterred many indigenous women from accessing these services. The UNFPA estimated that in 2013 the maternal mortality rate was 140 deaths per 100,000 live births. The principal causes of maternal mortality included limited access to skilled health-care attendants and, in some instances, poor prenatal and postnatal care. The latest UNFPA data estimates that skilled health personnel attended 51 percent of births. Skilled emergency health care for women was limited, especially in rural areas, including services for the management of complications arising from abortion.</p>
+<p><u>Discrimination</u>: The law establishes the principle of gender equality and criminalizes discrimination, but women faced discrimination, particularly in family and labor law, and were less likely to hold management positions. Women found employment primarily in low-wage jobs in agriculture, retail businesses, service sector, textile and apparel industries, and government. Women also obtained employment more frequently in the informal sector, where pay was generally lower and benefits nonexistent. The 2014 <i>Global Gender Gap Report</i> estimated earned income of women was 58 percent that of men, and women on average received 64 percent of men’s salaries for comparable work. Women may legally own, manage, and inherit property on an equal basis with men, including in situations involving divorce.</p>
+<p>The government’s Secretariat for Women’s Affairs advises the president on interagency coordination of policies affecting women and their development. Several NGOs working on women’s issues reported the secretariat maintained a low profile and was not as engaged with members of civil society as during previous administrations.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Children derive citizenship by birth within the country’s territory or from their parents. The UN Children’s Fund (UNICEF) described low birth registration as a “serious problem,” and the Office of the UN High Commissioner for Refugees reported problems in registering births were especially acute in indigenous communities due to inadequate government registration and documentation systems. Factors such as the need to travel to unfamiliar urban areas, interact with nonindigenous male government officials, and speak Spanish inhibited some indigenous women from registering themselves and their children. Foreign citizens residing in the country without appropriate documentation were prevented from registering their locally born children prior to regularizing their own immigration status. Lack of registration restricted children’s access to some public services.</p>
+<p><u>Education</u>: While compulsory through age 12, education through the secondary level is not obligatory, and girls were significantly less likely than boys to be educated to the secondary school level. Access to compulsory education in primary school was limited in many rural areas, and religious institutions often assisted in providing education.</p>
+<p><u>Child Abuse</u>: Child abuse remained a serious problem. The Unit of Adolescent and Child Victims of the Special Prosecutor’s Office for Women investigated cases of child abuse. The unit reported 88 convictions related to child abuse through September.</p>
+<p>The Secretariat of Social Welfare, which oversees children’s treatment, training, special education, and welfare programs, provided shelter and assistance to children who were victims of abuse but sometimes placed children under its care in shelters with juveniles who had criminal records. The government operated a girls’ shelter in Antigua and a boys’ shelter in San Jose Pinula, both in Sacatepequez Department. Two other shelters in Quetzaltenango and Zacapa served both boys and girls. The government has shelters for victims of human trafficking in Coatepeque, Coban, and Guatemala City. The government continued to provide funding to youth shelters operated by NGOs for child victims of abuse or human trafficking.</p>
+<p><u>Early and Forced Marriage</u>: The minimum legal age for marriage is 18. With parental consent, the age is 16 for boys and 14 for girls, but the law provides exceptions in cases where girls have a child or are pregnant. There were credible reports of forced early marriages in some rural indigenous communities. UNICEF’s <i>2012 State of the World’s Children</i> reported 35 percent of women 20 to 24 years of age were first married or in union by age 18 (8 percent of them by age 15). There were no reported government efforts to combat child marriage.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not explicitly prohibit FGM/C, but authorities reported they would prosecute such cases under other criminal statutes. There were no reports of this practice.</p>
+<p><u>Sexual Exploitation of Children</u>: The law provides sentences ranging from 13 to 24 years in prison, depending on the victim’s age, for engaging in sex with a minor. The minimum age of consensual sex is 18. The Public Ministry reported complaints of sexual assault or rape against minors with convictions. The Public Ministry’s Office of Trafficking vastly expanded its investigators and prosecutors to respond to the sexual exploitation of minors. The Secretariat for Violence, Exploitation, and Trafficking in Persons broadened its interagency coordination role by hosting monthly interagency coordination meetings among stakeholders in each of the country’s 22 departments. This decentralized approach allows for region-specific solutions while maintaining a national strategy.</p>
+<p>The law prohibits child pornography and establishes penalties of six to 10 years in prison for producing, promoting, and selling child pornography and two to four years’ imprisonment for possessing it. The commercial sexual exploitation of children, including child sex tourism, remained a problem, with credible reports of child sex tourism in Antigua, Guatemala City, and the department of Solola.</p>
+<p>The Office of the Human Rights Ombudsman did not release the number of cases of commercial sexual exploitation of children, nor did the Public Ministry report the number of convictions in cases of commercial sexual exploitation of children. In 2013 the Ministry of Labor reported the removal of 29 minors (ages 14-17) and three children (ages 13 and below) from nightclubs and bars.</p>
+<p><u>Displaced Children</u>: Criminals and gangs often recruited street children, many victims of domestic abuse, for purposes of stealing, transporting contraband, prostitution, and illegal drug activities. According to the Public Ministry and the PNC, approximately 3,000 youths were involved in street gangs. The NGO Mutual Support Group reported 47 minors suffered violent deaths nationwide between January and September. NGOs dealing with gangs and other youth reported concerns that street youth detained by police were subject to abusive treatment, including physical assaults. During the year there was a significant increase in the number of children leaving the country. Polling indicated a lack of economic and educational opportunity in the country, fear of violence, and family reunification were the primary motivations for migration.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. See the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html"><u>travel.state.gov/content/childabduction/english/legal/compliance.html</u></a> as well as country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/guatemala.html"><u>travel.state.gov/content/childabduction/english/country/guatemala.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish population numbered approximately 2,000 persons.</p>
+<p>On August 28, members of a nonorthodox Jewish group, Lev Tahor, left the town of San Juan La Laguna, Solola Department, for Guatemala City after indigenous and municipal authorities asked them to leave due to “cultural conflict.” The Lev Tahor group of approximately 200 persons had moved from Canada to Guatemala in March after previously having left the United States for Canada.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution contains no specific prohibitions against discrimination based on physical, sensory, intellectual, and mental disabilities in employment, education, access to health care, or the provision of other state services. The law, however, mandates equal access to public facilities and provides some other legal protections. In many cases the law was not enforced, and the government devoted few resources to addressing the problem. The law does not mandate that persons with disabilities have access to information or communications. Accessible public transportation was minimal.</p>
+<p>The National Council for Persons with Disabilities reported few persons with disabilities attended educational institutions or held jobs. The council, composed of representatives of relevant government ministries and agencies, is the principal government entity responsible for protecting the rights of persons with disabilities. The council met regularly to discuss initiatives and had a budget of 10.6 million quetzales ($1.38 million). There were no reports on what, if any, effect the council had on meeting the needs of persons with disabilities.</p>
+<p>There were minimal educational resources for persons with special needs. Most universities did not have accessible facilities for persons with disabilities.</p>
+<p>The Frederico Mora National Hospital for Mental Health, the principal health provider for persons with mental illness, lacked basic supplies, equipment, hygienic living conditions, and adequate professional staff. In 2012 Disability Rights International filed a complaint with the Inter-American Commission on Human Rights and documented mistreatment of mentally ill patients. Later that year the commission found the charges credible and ordered preventive measures aimed at protecting all patients, particularly women and children, from physical, psychological, and sexual violence by other patients, guards, and hospital staff. In 2013 the government agreed to initiate a series of reforms and implement new legal protections for mentally ill persons and those with disabilities. Principal concerns at Frederico Mora remained centered on security, in particular the practice of housing those awaiting criminal proceedings in the same facility as the general population. Additional complaints raised during the year included that patients with serious mental, psychiatric, and physical disabilities were mixed within the general population. As of December disability rights organizations noted no changes had occurred.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>Indigenous People</h2>
+<div class="sub-section_content">
+<p>The government’s National Institute of Statistics estimated that indigenous persons from 22 ethnic groups comprised 44 percent of the population. Many experts believed the number was considerably higher. The law provides for equal rights for indigenous persons and obliges the government to recognize, respect, and promote the lifestyles, customs, traditions, social organizations, and manner of dress of indigenous persons. Indigenous communities were not regularly or adequately consulted on or able to participate in decisions affecting the exploitation of resources in their communities, including energy, minerals, timber, or other natural resources. They lacked effective mechanisms for dialogue with the state to resolve conflicts.</p>
+<p>Indigenous communities continued to report a lack of public infrastructure investment in their communities, resulting in poor roads and limited access to running water and electricity. Indigenous persons reported the need for schools with bilingual (i.e., Spanish and their indigenous language) education and cultural studies, educational scholarships, leadership training to increase indigenous persons’ participation in politics, and the construction of universities (not just extension campuses), hospitals, and health clinics in their communities.</p>
+<p>Indigenous representatives expressed concerns that a number of regional development projects failed to consult meaningfully with local communities and disproportionately benefited corporations, government officials, and their associates, while posing risks to indigenous lands and cultures.</p>
+<p>Indigenous persons were underrepresented in national politics and remained largely outside the political, economic, social, and cultural mainstream. This was largely due to limited educational opportunities (contrary to law), limited communication regarding their rights, pervasive discrimination, and lack of funding for proindigenous political parties. These factors contributed to economic barriers leading to continued disproportionate poverty among most indigenous populations. While some members of the indigenous population participated in politics, civil society representatives questioned whether such participation influenced the national political party structure.</p>
+<p>Indigenous lands lacked effective demarcation, making the formal recognition of titles to the land problematic. Indigenous rights advocates asserted that pervasive ignorance by security authorities of indigenous norms and practices engendered misunderstandings. Few indigenous police officers worked within their own ethnic or linguistic communities. In 2013 the PNC opened two police academies, bringing the total to three, in largely indigenous areas of the country in an attempt to increase the number of indigenous police officers.</p>
+<p>More than 50 percent of indigenous women over the age of 15 were illiterate, and a disproportionate number of indigenous girls did not attend school.</p>
+<p>The Department of Indigenous People in the Ministry of Labor, tasked with investigating cases of discrimination and representing indigenous rights, counseled indigenous persons on their rights; however, limited resources hindered the department’s effectiveness. Indigenous persons were particularly vulnerable to labor trafficking.</p>
+<p>Legally mandated court interpreters for criminal proceedings were rarely available. In many instances bilingual judges or court employees received assignments to areas where their indigenous second language was not spoken.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Antidiscrimination laws exist, but they do not apply to LGBT individuals. LGBT rights groups alleged members of police regularly engaged in extortion and harassed male and transgender individuals they believed to be sex workers. There was general societal discrimination against LGBT persons in access to education, health care, employment, and housing. The government undertook minimal efforts to address this discrimination.</p>
+<p>According to LGBT rights groups, gay and transgender individuals often experienced police abuse. A lack of trust in the judicial system and a fear of further harassment or social recrimination discouraged victims from filing complaints.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The law does not expressly include HIV/AIDS status among the categories prohibited from discrimination, and there was societal discrimination against persons with HIV/AIDS.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>According to the NGO Mutual Support Group, vigilante mobs, often in rural indigenous communities, killed 78 persons through the end of August. Targets were often individuals suspected of rape, kidnapping, theft, or extortion. Many observers attributed the acts to public frustration with the failure of police and judicial authorities to provide justice and security. This vacuum led to the emergence of local citizen security groups. In many instances PNC agents feared for their own safety and refused to intervene.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section7"> </span><span class="st_twitter" st_title="Guatemala #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guatemala - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236692%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of workers, with the exception of security force members, to form and join trade unions of their choice, conduct legal strikes, and bargain collectively; however, the law places some restrictions on these rights. For instance, legal recognition of a new industrywide union requires that the membership constitute a 50-percent-plus-one majority of the workers in an industry and restricts union leadership to citizens. The law prohibits antiunion discrimination and employer interference in union activities and requires employers to reinstate workers dismissed illegally for organizing union activities.</p>
+<p>In addition the process for calling a strike is complex and lengthy. A strike must have the support of 51 percent of a company’s workforce. The president and cabinet may suspend any strike deemed “gravely prejudicial to the country’s essential activities and public services.” The government defined “essential services” more broadly than international standards, thus denying the right to strike to a large number of public workers, such as those working in education, postal services, transport, and the production, transportation, and distribution of energy. Public employees and workers in sectors deemed essential may address grievances by means of mediation and arbitration through the Ministry of Labor’s General Inspectorate of Labor and also directly through the labor courts.</p>
+<p>The law prohibits employer retaliation against strikers engaged in legal strikes, but employers may suspend or terminate workers for absence without leave if authorities have not recognized a strike as legal. The law calls for binding arbitration if there is no agreement after 30 days of negotiation. A factory or business owner is not obligated to negotiate a collective bargaining agreement unless at least 25 percent of workers in that factory or business are union members and request negotiations.</p>
+<p>The government did not effectively enforce the law. Due in part to inadequate allocation of resources and inefficient legal and administrative processes, relevant government institutions did not effectively investigate, prosecute, or punish employers who violated freedom of association and collective bargaining laws or reinstate workers illegally dismissed for engaging in union activities. Inspectors failed to take effective action to gain access to worksites in response to employers’ refusal to permit labor inspectors entry to facilities to investigate worker complaints, including failing to regularly seek police assistance as required. Penalties for labor law violations ranged from 50 quetzales ($6.50) to 5,000 quetzales ($650) but were inadequate and rarely enforced.</p>
+<p>The Labor Ministry cannot impose a fine or otherwise sanction employers for labor law violations discovered during inspections but must instead refer these cases to a court. Employers frequently refused to respect court decisions favorable to workers, and courts rarely sanctioned employers for ignoring court orders. The International Labor Organization (ILO) noted the judiciary reported that 549 labor cases of noncompliance with court orders were referred to the Public Prosecutor’s Office since August 2013. As of September charges for noncompliance had been filed in 33 cases. Appeals and employers’ widespread use of tactics, such as reincorporation as a different entity, often prolonged reinstatement proceedings. The length of time to process cases regarding the reinstatement of workers and other labor law violations was excessive, often taking two to four years and some lasting more than 10 years. Courts also faced difficulties in providing notification of their orders when employers were listed under incorrect addresses or refused access to the court official delivering notification.</p>
+<p>The Special Prosecutor’s Unit for Crimes against Unionists within the Office of the Special Prosecutor for Human Rights in the Public Ministry was responsible for investigating attacks and threats against union members, as well as noncompliance with judicial orders in labor cases. Staffing for the unit increased from five in 2013 to 12 (one prosecutor, eight assistant prosecutors, and three administrators). Nevertheless, impunity remained significantly high. According to Public Ministry statistics, the unit won four convictions, compared with no convictions in the previous year. According to the ILO, the CICIG highlighted several factors that negatively affected investigations, including a lack of methodological planning and continuity between the prosecutors handling the case, delays in conducting the criminal investigation, and witness fear of making declarations.</p>
+<p>The Ministry of Interior operated a protection program that included some trade unionists. During the year the ministry reported it allocated three million quetzals ($389,600) for union member protection measures. The ministry reported that seven union members were covered by some level of protection measures and that it had received three additional requests for protection. Further detail on the type and adequacy of the protection provided was unclear. In August the ministry enacted a Protocol for the Implementation of Immediate and Preventive Security Measures for Human Rights Activists. The ministry had not finalized its process for risk analysis of threats to determine the type of protection needed. Labor groups reported a hotline set up by the ministry in 2013 for union members to report threats continued not to function and that calls were often misdirected or unanswered.</p>
+<p>The government took some steps to implement its 2013 roadmap agreed to with the ILO, including signing a framework agreement to create an interinstitutional coordination group to expedite and exchange information on violence against unionized workers. Nevertheless, the ILO noted several areas where additional and urgent action was needed, including investigation and conviction of perpetrators of trade union violence, the adoption of protection measures for union officials and members, legislative reforms, and awareness raising on freedom of association and collective bargaining. Separately, on September 18, an arbitral panel under the Dominican Republic-Central America-United States Free Trade Agreement (CAFTA-DR) regarding the government’s failure to enforce its labor laws effectively was reactivated.</p>
+<p>Procedural hurdles, union formation restrictions, and impunity for employers refusing to receive or ignoring court orders limited freedom of association and collective bargaining. Violence and threats against trade unionists and worker activists remained serious problems. Several labor leaders were killed or reported death threats and other acts of intimidation. In January, for instance, Marlon Dagoberto Vasquez Lopez, a member of the construction and services union, was killed. There continued to be reports that management or persons hired by management harassed and threatened workers who did not accept employer dismissals or refused to forfeit their right to reinstatement.</p>
+<p>Authorities did not thoroughly investigate most acts of violence and threats and they went unprosecuted, often making it difficult to identify motives for killings. Local unions continued to urge authorities to investigate the killings of unionists and called for increased security for union leaders and members. The Public Ministry reported it was investigating the cases of five union members killed during the year: Wiliam Leonel Retana Carias, Manuel de Jesus Ortiz Jimenez, Gerardo de Jesus Carrillo Navas, Gabriel Enrique Ciramagua Ruiz, and Joaquin Chiroy Chiroy.</p>
+<p>Employers routinely resisted union formation attempts, delayed or only partially complied with labor agreements, and ignored judicial rulings requiring the employer to negotiate with recognized unions. There were credible reports of retaliation by employers against workers who tried to exercise their rights, including numerous complaints filed with the Ministry of Labor and the Public Ministry alleging employer retaliation for union activity. Common practices included termination and harassment of workers who attempted to form workplace unions, creation of illegal company-supported unions to counter legally established unions, blacklisting of union organizers, and threats of factory closures. Employers threatened not to renew contracts or not to offer subcontracted workers permanent employment if the worker joined a union or refused to disaffiliate.</p>
+<p>Employers often failed to comply with reinstatement orders. In some cases where workers were reinstated, they were not reinstated to their prior position nor paid the back wages owed to them. Employers, often with impunity, failed to pay the full amount of legally required payments to workers or to pay court-ordered fines. Local unions reported that businesses continued to use fraudulent bankruptcies, ownership substitution, and reincorporation of companies to circumvent legal obligations to recognize newly formed or established unions, despite legal restrictions on such efforts.</p>
+<p>An active “solidarity association” movement continued. Although the law stipulates that trade unions have an exclusive right to negotiate work conditions on behalf of workers, unions continued to assert that management promoted solidarity associations to discourage the formation of trade unions or to compete with existing labor unions.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The government failed to enforce these laws effectively in some cases. Administrative penalties range from 50 quetzales ($6.50) to 5,000 quetzales ($650) but were inadequate and rarely enforced. Criminal penalties for forced labor range from eight to 18 years’ imprisonment. The government lacked sufficient resources (e.g., labor inspectors, vehicles, equipment) to conduct effective and regular inspection or to pursue remediation for forced labor cases. The government had specialized police and prosecutors to handle cases of human trafficking, including forced labor, but did not obtain any convictions for forced labor.</p>
+<p>Reports continued that men and women were subjected to forced labor in agriculture and domestic service. There were also reports of forced child labor (see section 7.c.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law bars employment of minors below the age of 14, although it allows the Ministry of Labor to authorize children below age 14 to work in exceptional cases. The ministry’s inspectorate reported it did not make any authorizations during the year. The law prohibits persons below the age of 18 from working where alcoholic beverages are served, in unhealthy or dangerous conditions, and at night or overtime. The legal workday for persons younger than 14 years of age is six hours; for persons 14 to 17 years of age, the legal workday is seven hours.</p>
+<p>The Ministry of Labor’s Child Worker Protection Unit is responsible for enforcing restrictions on child labor and educating minors, their parents, and employers on the rights of minors in the labor market. Penalties range from 50 quetzales ($6.50) to 5,000 quetzales ($650). The government did not effectively enforce these laws, a situation exacerbated by the weakness of the labor inspection and labor court systems. The government devoted insufficient resources to prevention programs.</p>
+<p>Child labor was a widespread problem. The NGO Conrad Project Association of the Cross estimated the workforce included approximately one million children between the ages of five and 17. Most child labor occurred in rural indigenous areas. The informal and agricultural sectors regularly employed children below 14, usually in small family enterprises, including in the production of broccoli, coffee, corn, fireworks, gravel, and sugar. Indigenous children also worked in street sales and as shoe shiners and bricklayer assistants. There was limited evidence that children also worked in rubber and timber production. Some child laborers worked an average of 45 hours per week.</p>
+<p>An estimated 39,000 children, primarily indigenous girls, worked as domestic servants and were often vulnerable to physical and sexual abuse. In the Mexican border area, there were reports of forced child labor in municipal dumps and street begging.</p>
+<p>Also see the Department of Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The law explicitly prohibits discrimination with respect to employment or occupation regarding race, sex, religion, and disability. The government did not effectively enforce these laws and regulations. The law does not explicitly prohibit employment discrimination based on language, sexual orientation or gender identity, HIV-positive status or other communicable diseases, or social status.</p>
+<p>Discrimination in employment and occupation occurred. Anecdotally, wage discrimination occurred often in rural areas based on race and sex.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The law sets national minimum wages for agricultural and nonagricultural work and work in garment factories. The minimum wage was 74.97 quetzales ($9.75) per day for agricultural and nonagricultural work and 68.91 quetzales ($8.95) per day for work in export sector regime factories. Minimum wage earners are due a mandatory monthly bonus of 250 quetzales ($31.50), and salaried workers receive two mandatory yearly bonuses (the Christmas bonus and a “14th month” bonus), each equivalent to one month’s salary. The National Statistics Institute estimated the minimum food budget for a family of five was 3,123 quetzales ($406) per month. The basic basket for vital needs, including food and housing, was 5,700 quetzales ($740).</p>
+<p>The legal workweek is 48 hours with at least one paid 24-hour rest period. Workers are not supposed to work (ordinary and overtime) more than 12 hours a day. The law provides for 12 paid annual holidays and paid vacation of 15 days after one year’s work. Daily and weekly maximum hour limits do not apply to domestic workers. Workers in the formal sector receive the standard pay for a day’s work for official annual holidays. Time-and-a-half pay is required for overtime work, and the law prohibits excessive compulsory overtime.</p>
+<p>The government sets occupational health and safety standards, which were inadequate, not current for all industries, and poorly enforced. The law does not provide for the right of workers to remove themselves from situations that endangered health or safety without jeopardy to their employment.</p>
+<p>The Ministry of Labor conducted inspections to monitor compliance with minimum wage law provisions, but the government allocated inadequate resources to enable inspectors to enforce the law, especially in the agricultural sector and informal sector. In 2013, the latest year for which such data were available, the ministry employed approximately 300 labor inspectors, although many of them performed conciliation or administrative duties rather than clearly defined inspection duties.</p>
+<p>Labor inspectors reported uncovering numerous instances of overtime abuses, but effective enforcement was undermined due to inadequate fines by labor courts, labor court inefficiencies, employer refusals to permit labor inspectors to enter facilities or provide access to payroll records and other documentation, and inspectors’ lack of effective follow-up in the face of such refusals. Labor inspectors were not authorized by law to sanction employers but had to send alleged violations to the labor courts, where often inefficient and lengthy court proceedings delayed resolution of cases (in many instances for years). Moreover, fines, which range from 50 quetzales ($6.49) to 5,000 quetzales ($649), were insufficient to deter violations. Authorities often failed to investigate fully or assign responsibility for negligence and rarely sanctioned employers for failing to provide a safe workplace. Legislation requiring companies with more than 50 employees to provide onsite medical facilities for their workers was not enforced.</p>
+<p>The Ministry of Labor continued to operate a call center to receive calls requesting information or advice and registering complaints about labor law violations. The center referred complaints to labor inspectors and labor courts for further action.</p>
+<p>Trade union leaders and human rights groups reported that employers required workers to work overtime without legally mandated premium pay. Management often manipulated employer-provided transportation to worksites to force employees to work overtime, especially in export processing zones located in isolated areas with limited transportation alternatives. Noncompliance with minimum wage provisions in the agricultural and informal sectors was widespread. Advocacy groups estimated more than half of the workers in rural areas who engaged in daylong employment did not receive the wages, benefits, or social security allocations required by law. Some employers in the agricultural sector reportedly conditioned payment of minimum wage on excessive production goals that workers generally were unable to meet. According to official statistics, 69 percent of the workforce continued to work within the informal sector and outside the basic protections afforded by law.</p>
+<p>Local unions continued to highlight and protest violations by employers who failed to pay employer and employee contributions to the national social security system despite employee contribution deductions from workers’ paychecks. These violations, particularly common in the private sector and export industries, resulted in limiting or denying employees’ access to the public health system and reducing or underpaying workers’ pension benefits during their retirement years.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

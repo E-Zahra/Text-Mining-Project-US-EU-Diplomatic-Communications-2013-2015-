@@ -1,0 +1,633 @@
+2015
+Ethiopia
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681"> </span><span class="st_facebook" st_title="Ethiopia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252681">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252681</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=executive"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Ethiopia is a federal republic. The ruling Ethiopian Peoples’ Revolutionary Democratic Front (EPRDF), a coalition of four ethnically based parties, controls the government. On May 24, the country held national and regional elections for the House of People’s Representatives, the parliamentary body. The EPRDF and affiliated parties won all 547 seats to remain in power for a fifth consecutive five-year term. On October 5, parliament elected Hailemariam Desalegn prime minister. Government restrictions severely limited independent observation of the vote. A mission from the African Union, the sole international institution or organization permitted to observe the voting, called the elections “calm, peaceful and credible.” Some nongovernmental organizations (NGOs) reported that an environment conducive to free and fair elections was not in place prior to the election. There were reports of unfair government tactics, including intimidation of opposition candidates and supporters, and violence before and after the election that resulted in six confirmed deaths. Civilian authorities generally maintained control over the security forces, although local police in rural areas, the Somali Region Special Police, and local militias sometimes acted independently.</p>
+<p>The most significant human rights problems included harassment and intimidation of opposition members and supporters and journalists; alleged torture, beating, abuse, and mistreatment of detainees by security forces; and politically motivated trials.</p>
+<p>Other human rights problems included alleged arbitrary killings; harsh and at times life-threatening prison conditions; arbitrary arrest and detention; detention without charge and lengthy pretrial detention; a weak, overburdened judiciary subject to political influence; infringement on citizens’ privacy rights, including illegal searches; alleged abuses in the implementation of the government’s “villagization” program; restrictions on freedom of expression, including continued restrictions on print media and the internet, assembly, association, and movement; restrictions on academic freedom; interference in religious affairs; restrictions on activities of civil society and NGOs; limited ability of citizens to change their government; police, administrative, and judicial corruption; violence and societal discrimination against women and abuse of children; female genital mutilation/cutting (FGM/C); trafficking in persons; societal discrimination against persons with disabilities; clashes between ethnic minorities; discrimination against persons based on their sexual orientation and against persons with HIV/AIDS; and limits on worker rights, forced labor, and child labor, including forced child labor.</p>
+<p>Impunity was a problem. The government, with some reported exceptions, generally did not take steps to prosecute or otherwise punish officials who committed abuses other than corruption.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section1"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>Members of the security forces reportedly committed arbitrary or unlawful killings.</p>
+<p>From the end of the election campaign period on May 21 until the announcement of election results on June 22, opposition parties reported the death of six party members, including one candidate from the Blue Party. The deaths occurred in the Southern Nations, Nationalities, and Peoples’ Region (SNNPR); Oromia; Amhara; and Tigray. The deceased included one supporter of an independent candidate, one member of the Blue Party, and four members of Medrek, an opposition coalition made up of four political parties. One of the six was an accredited election observer for the Oromo Federalist Congress (one of four parties that make up the Medrek opposition coalition). The Ethiopian Human Rights Commission (EHRC) and the Ethiopian Federal Police Commission investigated the deaths and found no political motivation behind the killings.</p>
+<p>Shortly after the May 24 national elections, there were reports of violence between the residents of Hamer County of the South Omo Zone in the SNNPR and security forces that resulted in as many as 48 deaths. According to reports the drivers of the conflict in the South Omo Zone include economic marginalization of local communities, loss of traditional grazing lands to large-scale, government-financed sugar plantations, and restrictions on hunting.</p>
+<p>On June 13 and 14, security forces reportedly opened fire on protesters, killing at least six and wounding several others. The demonstrators were participating in an unauthorized political demonstration in the Chilga district of the Amhara Region (North Gondar). Supporters of a small party representing the Kemant ethnic group refused to accept the election results, refuting the claim of a clean sweep by the Amhara National Democratic Movement, one of the four constituent parties of the ruling EPRDF.</p>
+<p>On November 19, students in the Oromia Region began protesting in opposition to the expansion of the city of Addis Ababa into the surrounding region of Oromia. The protests against land expansion, also known as the Addis Ababa Master Plan, spread to small towns and villages across the Oromia Region. Some of the protests escalated into violent clashes between protesters and security forces, which allegedly used excessive force, resulting in dozens of deaths, including protesters and police officers. The protests and violence in the Oromia Region continued at year’s end.</p>
+<p>In October 2014 gunmen reportedly killed 126 police and civilians in the Gambella Region. The clash occurred between a group of ethnic Majanger and Ethiopian national and local security forces. In December 2014 officials charged at least 46 individuals, including officials from the Gambella regional government, with terrorist acts, and they were on trial at year’s end under the Anti-Terrorism Proclamation (ATP).</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were fewer credible reports than in previous years of disappearances of civilians after clashes between security forces and rebel groups. Opposition parties reported disappearances of party members and observers before and after the national elections on May 24; however, the EHRC later located some of those individuals. Many of those reported missing had fled to Kenya. Due to poor prison administration, family members reported missing individuals who were in custody of prison officials, but whom the families could not locate.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices; nevertheless, there were reports security officials tortured and otherwise abused detainees.</p>
+<p>In February, one of the Zone 9 bloggers on trial accused a prison guard of beating him and leaving him with his hands tied together throughout the night. The EHRC and an NGO investigated the incident. The Ethiopian Federal High Court summoned prison administration officials, but the defendant declined to submit his complaint in writing, as requested by the court. The Federal High Court regularly sought explanations from prison officials concerning allegations of mistreatment.</p>
+<p>There were credible reports police investigators used physical and psychological abuse to extract confessions in Maekelawi, the central police investigation headquarters in Addis Ababa. Interrogators reportedly administered beatings and electric shocks to extract information and confessions from detainees. The NGO Human Rights Watch (HRW) reported abuses, including torture that occurred at Maekelawi. In a 2013 report, HRW described beatings, stress positions, the hanging of detainees by their wrists from the ceiling, prolonged handcuffing, pouring of water over detainees, verbal threats, and solitary confinement at the facility. Authorities continued to restrict access by diplomats and NGOs to Maekelawi, although some NGOs reported limited access. The majority of the mistreatment reportedly occurred in detention centers like Maekelawi and police stations rather than federal prisons.</p>
+<p>According to NGO reports, thousands of ethnic Oromos, whom the government accused of terrorism, were arbitrarily arrested and in some cases reportedly tortured.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and pretrial detention center conditions remained harsh and in some cases life threatening. There were reports authorities beat and tortured prisoners in detention centers and police stations. Medical attention following beatings reportedly was insufficient in some cases.</p>
+<p>The country had six federal and 120 regional prisons. A local NGO ran model prisons in Adama, Mekelle, Debre Birhan, Durashe, and Awassa; these prisons had significantly better conditions than those found in other prisons. There also were many unofficial detention centers throughout the country, including in Dedessa, Bir Sheleko, Tolay, Hormat, Blate, Tatek, Jijiga, Holeta, and Senkele.</p>
+<p>Pretrial detention often occurred in police station detention facilities, where conditions varied widely, but reports on conditions there indicated poor hygiene and police abuse of detainees.</p>
+<p><u>Physical Conditions</u>: Authorities sometimes incarcerated juveniles with adults. Prison officials generally separated male and female prisoners.</p>
+<p>Severe overcrowding was common, especially in prison sleeping quarters. The government provided approximately nine birr ($0.43) per prisoner per day for food, water, and health care, although this amount varied across the country. Many prisoners supplemented this amount with daily food deliveries from family members or by purchasing food from local vendors, although there were reports officials prevented some prisoners from receiving supplemental food from their families. Medical care was unreliable in federal prisons and almost nonexistent in regional prisons. Prisoners had only limited access to potable water, as did many in the country. Water shortages caused unhygienic conditions, and most prisons lacked appropriate sanitary facilities. Many prisoners had serious health problems but received little or no treatment. There were reports prison officials denied some prisoners access to necessary medical care. Information released by the Ministry of Health in 2012 stated nearly 62 percent of inmates in jails across the country experienced mental health problems due to solitary confinement, overcrowding, and lack of adequate health-care facilities and services.</p>
+<p><u>Administration</u>: Due to the lack of transparency regarding incarceration, it was difficult to determine if recordkeeping was adequate. Authorities did not employ alternative sentencing for nonviolent offenders. There were reports prisoners mistreated by prison guards did not have access to prison administrations to complain. Prisons did not have ombudspersons to respond to complaints. Legal aid clinics existed in some prisons for the benefit of prisoners, and at the regional level, had good working relationships with judicial, prison, and government officials. Prison officials allowed the submission by detainees of complaints to judicial authorities without censorship. Courts sometimes declined to hear such complaints.</p>
+<p>The law permits prisoners to have visitors, although in some cases police did not allow pretrial detainees such access (including family members and legal counsel). According to the ATP, a lawyer is permitted to visit only one client per day, and only on Wednesdays and Fridays. Federal prisons had difficulty integrating ATP defendants into the local prison population; most of the latter were either convicted or on trial under the criminal code. Authorities allegedly denied family members charged with terrorist activity access to the prisoners. There were also reports authorities denied the accused visits with lawyers or with representatives of the political parties to which they belonged.</p>
+<p>Prison officials permitted religious observance by prisoners, but this varied by prison, and even by section within a prison, at the discretion of prison management. There were some allegations authorities denied detainees adequate locations in which to pray. Prisoners could voice complaints about prison conditions or treatment to the presiding judge during their trials.</p>
+<p><u>Independent Monitoring</u>: During the year the International Committee of the Red Cross visited prisons throughout the country. The government did not permit access to prisons by other international human rights organizations.</p>
+<p>Regional authorities allowed government and NGO representatives to meet regularly with prisoners without third parties present. Prison officials reportedly denied access to prisoners by civil society representatives and family members, including access to individuals detained in undisclosed locations. The government-established EHRC, which is funded by parliament and subject to parliamentary oversight, monitored federal and regional detention centers and interviewed prison officials and prisoners in response to allegations of widespread human rights abuses. A local NGO continued to have access to various prison and detention facilities around the country.</p>
+<p><u>Improvements</u>: Some government and prison authorities cooperated with NGO efforts to improve prison conditions. A local NGO inaugurated model prisons in Debre Birhan, Durashe, and Awassa, providing improved prison conditions for approximately 3,000 inmates. More than 500 inmates benefited from improved sleeping conditions in Jimma, Metu, Arsi, and Bale. A local NGO collaborated with Adama University to provide vocational training for 230 inmates in Adama Prison.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law prohibit arbitrary arrest and detention, the government ignored these provisions. There were many reports of arbitrary arrest and detention by police and security forces throughout the country.</p>
+<p>On March 15, officials detained seven pastoralist and community leaders at Bole International Airport en route to participate in an agricultural workshop in Nairobi. Investigators later released four without charging them. At year’s end the remaining three on trial were charged with terrorist acts under the ATP.</p>
+<p>In the period preceding the May 24 national elections, opposition parties reported extrajudicial and arbitrary detentions of opposition party members, candidates, and election observers. Authorities subsequently released most without charge, and some fled to Kenya.</p>
+<p>Following weeks of protests throughout the Oromia Region that began in late November in opposition to the Addis Ababa Master Plan, NGOs and opposition party leaders reported violent clashes between protesters and security forces resulting in thousands of extrajudicial and arbitrary detentions. There were reports of security forces arbitrarily detaining students on university campuses in connection with the protests. According to opposition party leaders, security forces arbitrarily detained opposition party members and supporters and accused them of inciting violence.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Federal Police reports to the Ministry of Federal and Pastoralist Affairs, which is subject to parliamentary oversight. The oversight was loose. Each of the country’s nine regions has a state or special police force that reports to the regional civilian authorities. Local militias operated across the country in loose coordination with regional and federal police and the military, with the degree of coordination varying by region. In some cases these militias functioned as extensions of the ruling party.</p>
+<p>Security forces were effective, but impunity remained a serious problem. The mechanisms used to investigate abuses by federal police were not known. The government rarely publicly disclosed the results of investigations into abuses by local security forces, such as arbitrary detention and beatings of civilians.</p>
+<p>The government continued to support human rights training for police and army personnel. In 2014-15 the EHRC conducted training sessions for 4,165 police officers and prison guards on basic human rights concepts as well as rights of detained individuals as provided in the National Human Rights Action Plan. The government continued to accept assistance from NGOs and the EHRC to improve and professionalize its human rights training and curriculum by including more material on the constitution and international human rights treaties and conventions.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law require detainees be brought to court and charged within 48 hours of arrest or as soon thereafter as local circumstances and communications permit. Travel time to the court is not included in the 48-hour period. With a warrant authorities may detain persons suspected of serious offenses for 14 days without charge and for additional 14-day periods if an investigation continues. Under the ATP police may request to hold persons without charge for 28-day periods, up to a maximum of four months, while an investigation is conducted. The law prohibits detention in any facility other than an official detention center; however, local militias and other formal and informal law enforcement entities used dozens of unofficial local detention centers.</p>
+<p>A functioning bail system was in place. Bail was not available for persons charged with terrorism, murder, treason, and corruption. In most cases authorities set bail between 500 and 10,000 birr ($24 and $480), which most citizens could not afford. The government provided public defenders for detainees unable to afford private legal counsel, but they did so only when cases went to court. There were reports that while some detainees were in pretrial detention, authorities allowed them little or no contact with legal counsel, did not provide full information on their health status, and did not allow family visits. There were reports officials held some prisoners incommunicado for weeks at a time.</p>
+<p><u>Arbitrary Arrest</u>: The law permits warrantless arrests for various offenses including “flagrant offenses.” These include offenses in which the suspect is found committing the offense, attempting to commit the offense, or having just completed the offense. The ATP permits a warrantless arrest when police reasonably suspect a person has committed or is committing a terrorist act. Authorities regularly detained persons without warrants. For example, in January and February, authorities arrested a group of 20 Muslims in Addis Ababa and Jimma. On August 17, they charged them under article 7 of the ATP for attempting to establish an Islamic state and inciting violence in an effort to force the government to free the Arbitration Committee Members. In 2012 authorities had arrested this group of Muslim community leaders after widespread protests against alleged government interference in Muslim affairs. The trial continued at year’s end.</p>
+<p>On May 13, police arrested Mamushet Amare, ousted president of the All Ethiopian Unity Party, alleging he was behind unrest at a government-organized anti-Da'esh rally on April 22. After a court ordered his release on June 2, police rearrested Mamushet, citing a need to investigate his case further. On August 28, the Federal First Instance Court ordered Mamushet’s acquittal and release after his defense proved prosecution witnesses falsely testified against him.</p>
+<p><u>Pretrial Detention</u>: Some detainees reported being held for several years without charge and without trial. Information on the percentage of the detainee population in pretrial detention and the average length of time held was not available. Lengthy legal procedures, large numbers of detainees, judicial inefficiency, and staffing shortages often caused trial delays.</p>
+<p><u>Amnesty</u>: In September, in keeping with a long-standing tradition of issuing pardons at the Ethiopian New Year, the federal government pardoned 238 prisoners, including 33 convicted of terrorism. Apart from two foreign journalists in 2012, this was the first time the federal government issued pardons to individuals convicted of terrorism. Regional governments also pardoned 12,941 prisoners in Amhara, Oromia, and Benishangul-Gumuz.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law provides for an independent judiciary. Although the civil courts operated with a large degree of independence, the criminal courts remained weak, overburdened, and subject to political influence. The constitution recognizes both religious and traditional or customary courts.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>By law accused persons have the right to a fair public trial by a court of law “without undue delay,” a presumption of innocence, the right to be represented by legal counsel of their choice, and the right to appeal. The law provides defendants the right not to self-incriminate. The law gives defendants the right to present witnesses and evidence in their defense, cross-examine prosecution witnesses, and access government-held evidence. The court system does not use jury trials. The government continued to train lower-court judges and prosecutors on effective judicial administration. Defendants were often unaware of the specific charges against them until the commencement of their trials; this meant defense attorneys were unprepared to provide an adequate defense. Authorities provided free interpretation as needed, and gave adequate time and facilities to prepare a defense. Defendants are not compelled to testify or confess guilt.</p>
+<p>The Public Defender’s Office, a federal institution, provided legal counsel to indigent defendants, although its scope and quality of service remained limited due to the shortage of attorneys. Numerous free legal aid clinics around the country, based primarily at universities, provided services to clients. In certain areas of the country, the law allows volunteers, such as law students and professors, to represent clients in court on a pro bono basis.</p>
+<p>Many citizens residing in rural areas had little access to formal judicial systems and relied on traditional mechanisms for resolving conflict. By law all parties to a dispute must agree to use a traditional or religious court before such a regional or federal court may hear a case, and either party may appeal to a regular court at any time. Sharia (Islamic law) courts may hear religious and family cases involving Muslims, but both parties must agree to use a sharia court before going to trial. Sharia courts received some funding from the government and adjudicated a majority of cases in the Somali and Afar regions, which are predominantly Muslim. Other traditional systems of justice, such as councils of elders, continued to function. Some women stated they lacked access to free and fair hearings in the traditional court system because local custom excluded them from participation in councils of elders and because of strong gender discrimination in rural areas.</p>
+<p>The Access to Justice and Legal Awareness (AJLA) project, at Haramaya University, began in 2013. It provided previously unavailable legal redress and protection for the neediest populations across East and West Hararghe Zones in Oromia and the Harari Region. By October, 333,863 vulnerable persons (165,498 women and 168,365 men) had benefited from these previously nonexistent legal services.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Estimates by human rights groups and diplomatic missions regarding the number of political prisoners varied widely. The government did not permit access to political or other prisoners by international human rights organizations. There were NGO reports of individuals held in unofficial detention centers throughout the country, particularly in military barracks, but also in private offices and homes.</p>
+<p>On July 8, prison administration officials released Reeyot Alemu, who had served approximately four years of her five-year sentence imposed under the ATP.</p>
+<p>On July 8 and 9, prosecutors dropped antiterrorism charges against three journalists and two bloggers from the Zone 9 blogging collective: Tesfalem Waldyes, Asmamaw Hailegiorgis, Edom Kassaye, Zelalem Kibret, and Mahlet Fantahun.</p>
+<p>In July 2014 police detained 10 individuals including opposition party leaders and others in Addis Ababa and the northern city of Mekelle in separate operations. Police reportedly did not bring Habtamu Ayalew, Daniel Shibeshi, Yeshiwas Assefa, Abraha Desta, Abraha Solomon, Solomon Girma, Tesfaye Teferi, Zelalem Workagegnehu, Yonathan Wolde, and Bahiru Degu before a judge within 48 hours of their detention, as required by law. On August 20, the Federal High Court acquitted Habtamu Ayalew, Abraha Solomon, Daniel Shibeshi, Abraha Desta, and Yeshiwas Assefa of terrorism charges (article 4) due to lack of evidence. The same court reduced charges against Solomon Girma and Tesfaye Teferi to criminal code charges and the charges against Zelalem Workagegnehu, Yonathan Wolde, and Bahiru Degu from article 4 to article 7 of the ATP. The new charges carry lesser sentences.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The law provides citizens the right to appeal human rights violations in civil court. Citizens did not file any such case during the year.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law generally requires authorities to obtain court-issued search warrants prior to searching private property. The law also recognizes exceptions for “hot pursuit,” where a suspect enters premises or disposes of items that are the subject of an offense committed on the premises, and when police have reasonable suspicion that evidence of a crime punishable by more than three years of imprisonment is concealed on or in the property and that a delay in obtaining a search warrant would allow the evidence to be removed. Moreover, the ATP permits warrantless searches of a person or vehicle when authorized by the director general of the Federal Police or his designate or a police officer has reasonable suspicion a terrorist act may be committed and deems it necessary to make a sudden search.</p>
+<p>Opposition political party leaders reported suspicions of telephone tapping and other electronic eavesdropping, and they alleged government agents attempted to lure them into illegal acts by calling and pretending to be representatives of groups--designated by the parliament as terrorist organizations--interested in making financial donations.</p>
+<p>The government reportedly used a widespread system of paid informants to report on the activities of particular individuals. Opposition members reported ruling party operatives and militia members made intimidating and unwelcome visits to their homes and offices.</p>
+<p>Security forces continued to detain family members of persons sought for questioning by the government.</p>
+<p>The national and regional governments continued to put in place the policy of Accelerated Development (informally known as “villagization”) plans in the Afar, Benishangul-Gumuz, Gambella, the SNNPR, Oromia, and Somali regions, which might include resettlement. These plans involved the relocation by regional governments of scattered rural populations from arid or semiarid lands vulnerable to recurring droughts into designated communities closer to water, services, and infrastructure. The stated purposes of accelerated development were to improve the provision of government services (i.e., health care, education, and clean water), protect vulnerable communities from natural disasters and attacks, and change environmentally destructive patterns of shifting cultivation. Some observers alleged the purpose was to enable the large-scale leasing of land for commercial agriculture. The government described the accelerated development program as strictly voluntary. The government had scheduled to conclude the program in 2015, but decide to continue it instead.</p>
+<p>International donors reported that assessments from more than 18 visits to villagization sites since 2011 did not corroborate allegations of systematic human rights violations. They found problems such as delays in establishing promised infrastructure and adequate compensation, as part of promises made to communities before their relocation. Communities and individual families appeared to have agreed to move based on assurances from authorities of food aid, health and education services, and land, although in some instances communities moved before adequate basic services such as water pumps and shelter were in place in the new locations. International human rights organizations, nevertheless, continued to express concern regarding the villagization process.</p>
+<p>Donors were mobilizing to continue monitoring of Accelerated Development sites and intend to report their findings to the government and the public.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section2"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press; however, authorities harassed, arrested, detained, charged, and prosecuted journalists and other persons whom they perceived as critical of the government, creating an environment where self-censorship negatively affected freedom of speech. Some journalists, editors, and publishers fled the country, fearing probable detention. At year’s end at least nine journalists and bloggers remained in detention; of these, two were arrested in February and charged in August. A journalist was convicted under the ATP and sentenced to seven years in prison. Authorities detained one journalist for three weeks and then released him without charge. In July, three journalists and two bloggers, detained since April 2014, were released from prison after the prosecution dropped terrorist charges. In October, four bloggers, including one in absentia, were acquitted of terrorist charges, and the court reduced charges for another blogger from being a terrorist to criminal code charges.</p>
+<p><u>Freedom of Speech and Expression</u>: Authorities arrested and harassed persons for criticizing the government. NGOs reported cases of torture of individuals critical of the government. The government attempted to impede criticism through various forms of intimidation, including detention of journalists and opposition activists and monitoring of and interference in the activities of political opposition groups. Some persons feared authorities would retaliate against them for discussing security force abuses.</p>
+<p><u>Press and Media Freedoms</u>: Independent journalists reported logistical challenges using government printing presses. Access to private printing presses was scarce to nonexistent. In most cases articles cited as examples of incitement were mainly critical of government action.</p>
+<p>In Addis Ababa 15 independent newspapers had a combined weekly circulation of more than 71,000 copies. State-run newspapers had a combined circulation of more than 80,000 copies. Most newspapers were printed on a weekly or biweekly basis, with the exception of the state-owned Amharic and English dailies and the privately run <i>Daily Monitor</i>.</p>
+<p>Government-controlled media closely reflected the views of the government and the ruling EPRDF. The government controlled the only television station that broadcast nationally, which, along with radio, was the primary source of news for much of the population. Six private FM radio stations broadcast in the capital, one private radio station broadcast in the northern Tigray Region, and at least 19 community radio stations broadcast in the regions. State-run Ethiopian Radio had the largest broadcast range in the country, followed by Fana Radio, which was reportedly affiliated with the ruling party.</p>
+<p>The government periodically jammed foreign broadcasts. The law prohibits political and religious organizations and foreigners from owning broadcast stations.</p>
+<p><u>Violence and Harassment</u>: The government continued to arrest, harass, and prosecute journalists. This included the conviction in July of three persons associated with the defunct <i>Muslim Affairs</i> magazine under the ATP and prosecution of two others who worked for the defunct Bilal Radio. In 2014 there were allegations of bloggers and journalists being abused and their rights violated in the Maekelawi detention center.</p>
+<p>On February 18, police detained two journalists affiliated with Bilal Radio. The Federal High Court charged the journalists under the ATP in August and denied them bail. Their trial continued at year’s end.</p>
+<p><u>Censorship or Content Restrictions</u>: Government harassment caused journalists to avoid reporting on sensitive topics. Many private newspapers reported informal editorial control by the government through article placement requests and calls from government officials concerning articles perceived as critical of the government. Private sector and government journalists routinely practiced self-censorship. Several journalists, both local and foreign correspondents, reported an increase in self-censorship. The government reportedly pressured advertisers not to advertise in publications that were critical of the government.</p>
+<p><u>Libel/Slander Laws</u>: In contrast with the previous year, the government did not use libel laws to suppress criticism.</p>
+<p><u>National Security</u>: The government used the ATP to suppress criticism. Journalists feared covering five groups designated by parliament as terrorist organizations in 2011 (Ginbot 7, the Ogaden National Liberation Front (ONLF), the Oromo Liberation Front (OLF), al-Qaida, and al-Shabaab), citing ambiguity on whether reporting on these groups might be punishable under the law.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The state-owned Ethio Telecom was the only internet service provider in the country. The government periodically restricted access to certain content on the internet and blocked several websites, including blogs, opposition websites, and websites of Ginbot 7, the OLF, and the ONLF. The government also temporarily blocked news sites such as al-Jazeera and the BBC. Several news blogs and websites run by opposition diaspora groups were not accessible. These included Addis Neger, Nazret, Ethiopian Review, CyberEthiopia, Quatero Amharic Magazine, Tensae Ethiopia, and the Ethiopian Media Forum. Authorities took steps to block access to Virtual Private Network providers that let users circumvent government screening of internet browsing and e-mail. Authorities monitored telephone calls, text messages, and e-mails. There were reports such surveillance resulted in arrests. According to the International Telecommunication Union, approximately 3 percent of individuals used the internet in 2014.</p>
+<p>In 2013 Citizen Lab, a Canadian research center at the University of Toronto, identified 25 countries, including Ethiopia, that hosted servers linked to FinFisher surveillance software. According to the report, “FinFisher gained notoriety because it has been used in targeted attacks against human rights campaigners and opposition activists in countries with questionable human rights records.” A “FinSpy” campaign in the country allegedly “used pictures of Ginbot 7, an Ethiopian opposition group, as bait to infect users.” In addition to its domestic activities, the government used “FinSpy” to monitor the online activities of Ethiopians living abroad.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government restricted academic freedom, including through decisions on student enrollment, teachers’ appointments, and curricula. Authorities frequently restricted speech, expression, and assembly on university and high school campuses.</p>
+<p>The ruling party, via the Ministry of Education, continued to give preference to students loyal to the party in assignments to postgraduate programs. Some university staff members commented that students who joined the party received priority for employment in all fields after graduation.</p>
+<p>Authorities limited teachers’ ability to deviate from official lesson plans. Numerous anecdotal reports suggested non-EPRDF members were more likely to be transferred to undesirable posts and bypassed for promotions. There were unspecified reports of teachers not affiliated with the EPRDF being summarily dismissed for failure to attend party meetings. There continued to be a lack of transparency in academic staffing decisions, with numerous complaints from individuals in the academic community alleging bias based on party membership, ethnicity, or religion.</p>
+<p>A separate Ministry of Education directive prohibits private universities from offering degree programs in law and teacher education. The directive also requires public universities to align their curriculum with the ministry’s policy of a 70/30 ratio between science and social science academic programs. As a result the number of students studying social sciences and the humanities at public institutions continued to decrease; private universities focused heavily on the social sciences.</p>
+<p>Reports indicated a pattern of surveillance and arbitrary arrests of Oromo University students based on suspicion of their holding dissenting opinions or participation in peaceful demonstrations. According to reports there was an intense buildup of security forces (uniformed and plainclothes) embedded on university campuses in the period preceding the May 24 national elections.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly; however, the government did not always respect this right. Organizers of large public meetings or demonstrations must notify the government 48 hours in advance and obtain a permit. Authorities may not refuse to grant a permit but may require the event be held at a different time or place for reasons of public safety or freedom of movement. If authorities determine an event should be held at another time or place, the law requires organizers be notified in writing within 12 hours of the time of submission of their request.</p>
+<p>The government denied some requests by opposition political parties to hold protests but permitted other requests for demonstrations. Opposition party organizers alleged government interference in most cases, and authorities required several of the protests to move to different dates or locations from those the organizers requested. Protest organizers alleged the government’s claims of needing to move the protests based on public safety concerns were not credible.</p>
+<p>There were numerous reported cases of government denial of freedom of assembly, similar to the following example. On January 25, police detained approximately 35 demonstrators at protest organized by the Unity for Democracy and Justice Party (UDJ). The UDJ claimed to have submitted proper and timely applications for permits for the protest; however, authorities alleged the rally lacked proper authorization.</p>
+<p>Local government officials, almost all of whom affiliated with the EPRDF, controlled access to municipal halls, and there were many complaints from opposition parties that local officials denied or otherwise obstructed the scheduling of opposition parties’ use of halls for lawful political rallies. There were numerous credible reports owners of hotels and other large facilities cited internal rules forbidding political parties from utilizing their spaces for gatherings.</p>
+<p>Regional governments, including the Addis Ababa regional administration, were reluctant to grant permits or provide security for large meetings.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>Although the law provides for freedom of association and the right to engage in unrestricted peaceful political activity, the government limited this right.</p>
+<p>The Charities and Societies Proclamation (CSO) law bans anonymous donations to NGOs. All potential donors were therefore aware their names would be public knowledge. The same was true concerning all donations made to political parties.</p>
+<p>A 2012 report by the UN special rapporteur on the rights to freedom of peaceful assembly and association stated, “The enforcement of these (the CSO law) provisions has a devastating impact on individuals’ ability to form and operate associations effectively.”</p>
+<p>International NGOs seeking to operate in the country had to submit an application via Ethiopian embassies abroad, which the Ministry of Foreign Affairs then submitted to the Charities and Societies Agency for approval.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>Although the law provides for freedom of internal movement, foreign travel, emigration, and repatriation, the government restricted some of these rights.</p>
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons (IDPs), refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern. At times authorities or armed groups limited the ability of humanitarian organizations to operate in areas of insecurity, such as on the country’s borders.</p>
+<p>In 2014 humanitarian organizations reported 32 incidents that impeded humanitarian work in the first half of the year, compared with 36 such incidents during the same period in 2013. The majority of these cases were in the Somali Region. The incidents included hostility toward and violence against humanitarian personnel, theft of assets, interference with the implementation of humanitarian programs, and restrictions on importation of personnel and goods into the country for humanitarian work. The reports referred broadly to humanitarian work and were not limited to activities focusing on IDPs or refugees.</p>
+<p>Access to Nogob (formerly Fik) Zone in the Somali Region improved in 2014. Authorities permitted several government-led, multiagency missions including UN and NGO representatives to visit the area. Access to other parts of the Somali Region, particularly those bordering Somalia, worsened due to security concerns stemming from reports of an increase in al-Shabaab terrorists operating in these areas. In several cases NGOs delayed travel to program sites and could not assess needs. Following credible information about a possible terrorist threat against international staff, UN agencies temporarily withdrew some of their international staff from Dollo Ado in June but began to return them in August. Attacks on vehicles carrying humanitarian personnel, assault on humanitarian staff members, and harassment, including arbitrary detention, reportedly continued.</p>
+<p><u>In-country Movement</u>: The government continued to relax but did not completely remove restrictions on the movement of persons into and within the Somali Region on grounds that the ONLF and al-Shabaab terrorists from neighboring Somalia posed a security threat (see section 2.d., Internally Displaced Persons). Security concerns forced a temporary halt of deliveries of food and medicine in the limited areas affected by fighting. The government continued a policy that allowed refugees to live outside a camp. According to the Administration for Returnees and Refugee Affairs (ARRA), which managed the out-of-camp program, as of August 2014 there were 2,993 individuals living outside the camps (2,806 in Addis Ababa and surrounding areas and 187 from the town of Shire) compared with 3,412 in 2012. Prior to this policy, the government gave such permission primarily to attend higher-education institutions, undergo medical treatment, or avoid security threats at the camps.</p>
+<p><u>Foreign Travel</u>: A 2013 ban on unskilled workers travelling to the Middle East for employment continued. The ban did not affect citizens travelling for investment or other business reasons. The government stated it issued the ban to prevent harassment, intimidation, and trauma suffered by those working abroad, particularly in the Middle East, as domestic employees.</p>
+<p>In March 2014 National Intelligence and Security Service officials at Bole International Airport in Addis Ababa prevented Yilkal Getnet, chairman of the political opposition Semayawi Party, from departing the country. On April 14, Yilkal was permitted to leave.</p>
+<p><u>Exile</u>: Several citizens sought political asylum in other countries or remained abroad in self-imposed exile.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons</h3>
+<div class="sub-sub-section_content">
+<p>The quarterly Internal Displacement Monitoring Report, issued by the International Organization for Migration (IOM), for July-September 2015 listed 505,104 IDPs, including protracted and new cases. This was an increase from the previous quarter (April-June), when the total was 470,261 individuals. Of the total number of IDPs, 425,454 or 84 percent were protracted cases and 79,650 or 16 percent were new cases. The number was also more than the same quarter of previous years: 2014 (426,736), 2013 (416,315), and 2012 (291,104).</p>
+<p>According to the IOM, more than 90 percent of all IDPs were considered “protracted” IDPs, for whom durable solutions (return to home areas, local integration, and resettlement in other parts of the country) were not possible at the time. This was due to lack of resolution of conflicts, lack of political decisions or resources to support local integration, or undesirability of resettlement to other areas of the country.</p>
+<p>Categories and totals of IDPs experiencing protracted displacement included victims of interclan and cross-border conflict (406,727) and 18,085 (natural disasters). The majority of IDPs resided in Somali Region (326,421); followed by 84,550 in Oromia; 36,630 in Gambella; 12,765 in the SNNPR; 4,590 in Afar; 4,580 in Harar; and 750 in Amhara.</p>
+<p>Of the 79,650 newly displaced during July-September, 21,930 were displaced by conflict and 57,720 by natural disasters (16,776 due to flooding, 40,644 due to drought, and 300 due to fire). Among the newly displaced IDPs, 52 percent remained displaced, while the other 48 percent had returned home. Of the individuals that returned home, 64 percent had been displaced by natural disasters and 36 percent by conflict. As in the past, this was due to violence resulting from ethnic tensions, as well as intercommunal fighting between ethnic groups in Gambella and the SNNPR and highlanders.</p>
+<p>The government, through the Disaster Risk Management Food Security Sector (DRMFSS), continued to play an active role in delivering humanitarian assistance to IDPs. Federal and local DRMFSS officials coordinated with the IOM and its partners in monitoring IDP populations. In addition the Somali Regional State-level Disaster Prevention and Preparedness Bureau, in coordination with the IOM and other international actors, set up a Durable Solutions Working Group, which drafted a strategy paper for the large caseload of protracted IDPs in Somali Region. The Somali Regional Government was reviewing the strategy paper as of October.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees.</p>
+<p>According to UNHCR, as of July the country hosted 719,524 refugees. The majority of refugees were from South Sudan (283,030) and Somalia (248,213), with others coming from Eritrea (144,920), Sudan (37,101), and other countries (6,260, of which 832 were registered Yemeni asylum seekers).</p>
+<p>UNHCR, ARRA, and humanitarian agencies continued to care for Sudanese arrivals fleeing from conflict in Sudan’s Blue Nile State. The government also extended support to South Sudanese asylum seekers from South Sudan’s Jonglei and Upper Nile states. Persistent conflict and food insecurity prompted the continued flow of South Sudanese refugees into the country. During the year UNHCR and ARRA jointly developed standard operating procedures to identify Ethiopian nationals attempting to register as refugees.</p>
+<p>Eritrean asylum seekers continued to arrive in the country. This included a large number of unaccompanied minors. Many Eritreans who arrived in the country regularly departed for secondary migration through Egypt and Sudan to go to Israel, Europe, and other final destinations.</p>
+<p><u>Employment</u>: The government did not grant refugees work permits.</p>
+<p><u>Durable Solutions</u>: The government granted refugee status to asylum seekers from Eritrea, Somalia, South Sudan, and Sudan. The government welcomed refugees to settle permanently in the country but did not offer a path to citizenship or facilitate integration. The government supported a policy allowing refugees to live outside camps and engage in informal livelihoods. In addition, refugee students who passed the required tests could attend university with fees paid by the government and UNHCR. As of October 2014 a total of 3,895 refugees, mostly Eritreans and Somalis, were resettled in other countries.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section3"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide citizens the ability to choose their government peacefully in free and fair periodic elections based on universal and equal suffrage. The ruling party’s electoral advantages, however, limited this ability.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: On May 24, the country held national elections for the House of People’s Representatives, the country’s parliamentary body. On October 5, parliament re-elected Hailemariam Desalegn prime minister.</p>
+<p>In the May national parliamentary elections, the EPRDF and affiliated parties won all 547 seats, giving the party a fifth consecutive five-year term. Government restrictions severely limited independent observation of the vote. The African Union was the sole international organization permitted to observe the elections. Opposition party observers accused local police of interference, harassment, and extrajudicial detention. Independent journalists reported little trouble covering the election, including reports from polling stations. Some independent journalists reported receiving their observation credentials the day before the election, after having submitted proper and timely applications. Six rounds of broadcast debates preceded the elections, and for the most part, they were broadcast in full and only slightly edited. The debates included all major political parties. Several laws, regulations, and procedures implemented since the 2005 national elections created a clear advantage for the EPRDF throughout the electoral process. The “first past the post” provision, or 50 percent plus one vote required to win a seat in parliament, as stipulated in the constitution, contributed to EPRDF’s advantage in the electoral process. There were reports of unfair government tactics, including intimidation of opposition candidates and supporters. Various reports confirmed at least six election-related deaths during the period before and immediately following the elections. There were reports questioning the National Electoral Board of Ethiopia’s (NEBE)’s political independence, particularly its decisions concerning party registration and candidate qualification. The NEBE has sole responsibility for voter education and broadcast radio segments and distributed manuals on the topic in many local languages.</p>
+<p>In a pre-election assessment, the African Union called the elections “calm, peaceful and credible” and applauded the government for its registration efforts. It raised concerns, however, about the legal framework underpinning the election. The NEBE registered more than 35 million voters, and did not report any incidents of unfair voter registration practices.</p>
+<p><u>Political Parties and Political Participation</u>: Opposition party members were subject to violence and harassment during the period preceding and following the May national elections. The government, controlled by the ruling EPRDF, restricted media freedom and arrested opposition members. Constituent parties of the EPRDF conferred advantages upon their members; the parties directly owned many businesses and were broadly perceived to award jobs and business contracts to loyal supporters. Several opposition political parties reported difficulty in renting homes or buildings in which to open offices, citing visits by EPRDF members to the property owners to persuade or threaten them not to rent property to these parties.</p>
+<p>There were reports authorities terminated the employment of teachers and other government workers if they belonged to opposition political parties. According to Oromo opposition groups, the Oromia regional government continued to threaten to dismiss opposition party members, particularly teachers, from their jobs. Government officials alleged many members of legitimate Oromo opposition parties were secretly OLF members, and more broadly, that members of many opposition parties had ties to Ginbot 7. At the university level, members of Medrek and its constituent parties were able to teach. There were reports unemployed youths not affiliated with the ruling coalition sometimes had trouble receiving the “support letters” from their kebeles (neighborhoods or wards) necessary to get jobs.</p>
+<p>Registered political parties must receive permission from regional governments to open and occupy local offices. Opposition parties reported difficulty acquiring the required permissions for regional offices, adversely affecting their ability to organize and campaign. Laws requiring parties to report “public meetings” and obtain permission for public rallies were also used to inhibit opposition activities.</p>
+<p><u>Participation of Women and Minorities</u>: No laws or cultural or traditional practices prevented women or minorities from voting or participating in political life on the same basis as men or nonminority citizens, although women were significantly underrepresented in both elected and appointed positions. The Tigray Regional Council included the highest proportion of women nationwide, at 50 percent (76 of the 152 seats).</p>
+<p>Women held three of the 22 federal government ministerial positions, including one of three deputy prime minister positions, and also held 212 of 547 seats in the incoming national parliament.</p>
+<p>The government’s policy of ethnic federalism led to the creation of individual constituencies to provide for representation of all major ethnic groups in the House of People’s Representatives. There were more than 80 ethnic groups, and small groups lacked representation in the legislature. There were 22 nationality groups in six regional states (Tigray, Amhara, Benishangul-Gumuz, the SNNPR, Gambella, and Harar) that did not have a sufficient population to qualify for constituency seats based on the 2007 census; however, in the 2010 elections, individuals from these nationality groups competed for 22 special seats in the House of People’s Representatives. Additionally, these 22 nationality groups had one seat each in the House of Federation.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section4"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials. Despite the government’s prosecution of numerous officials for corruption, some officials continued to engage in corrupt practices. Corruption, especially the solicitation of bribes, remained a problem among low-level bureaucrats. Police and judicial corruption also continued to be problems. Some government officials appeared to manipulate the privatization process, and state- and party-owned businesses received preferential access to land leases and credit.</p>
+<p><u>Corruption</u>: The Ministry of Justice, through the Federal Ethics and Anticorruption Commission (FEACC), continued criminal proceedings against the director general of the Ethiopian Revenues and Customs Authority, his deputy, and other government officials and private business leaders for alleged corrupt practices.</p>
+<p>There were numerous reported corruption cases similar to the following example: on August 9, police arrested former head of the Revenues Bureau of Oromia Regional State, Wondimu Biratu Kena’a, on allegations of grand corruption and embezzlement. Pretrial hearings at the Ethiopian Federal High Court continued at year’s end.</p>
+<p><u>Financial Disclosure</u>: The law requires all government officials and employees to register their wealth and personal property officially. The law includes financial and criminal sanctions for noncompliance. The president and prime minister registered their assets. By November 95,000 government officials had registered their assets as required by law (the 2010 Asset Disclosure and Registration Proclamation).</p>
+<p>The FEACC held financial disclosure records. By law any person seeking access to these records may do so by making a request in writing, although access to information on family assets may be restricted unless the FEACC deems the disclosure necessary.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, but access was largely restricted. The law includes a narrow list of exceptions outlining the grounds for nondisclosure. Responses generally must be made within 30 days of a written request, and fees may not exceed the actual cost of responding to the request. The law includes mechanisms for punishing officials for noncompliance, as well as appeal mechanisms for review of disclosure denials. Information on the number of disclosures or denials during the year was not available.</p>
+<p>The government publishes laws and regulations in the national gazette prior to their taking effect. The Government Communications Affairs Office managed contacts between the government, the press, and the public; the private press reported the government rarely responded to its queries.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section5"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A few domestic human rights groups operated but with significant government restrictions. The government was generally distrustful and wary of domestic human rights groups and international human rights observers. State-controlled media were critical of international human rights groups such as HRW.</p>
+<p>The CSO law prohibits charities, societies, and associations (NGOs or CSOs) that receive more than 10 percent of their funding from foreign sources from engaging in activities that advance human and democratic rights or promote equality of nations, nationalities, peoples, genders, and religions; the rights of children and persons with disabilities; conflict resolution or reconciliation; or the efficiency of justice and law enforcement services. The law severely curtailed civil society’s ability to raise questions of good governance, human rights, corruption, and transparency, and forced many local and international NGOs working on good governance and human rights to either cease advocacy, or reregister under the law and focus on activities other than rights-based advocacy. In 2012 the UN high commissioner for human rights expressed concern that civil society space “has rapidly shrunk” since the CSO law’s enactment. By year’s end 3,056 NGOs had registered under the CSO law. Of these, however, only four groups were actively engaged in human rights-based advocacy.</p>
+<p>Some human rights defender organizations continued to register either as local charities, meaning they could not raise more than 10 percent of their funds from foreign donors but could act in the specified areas, or as resident charities, which allowed foreign donations above 10 percent but prohibited advocacy activities in those areas.</p>
+<p>The government denied most NGOs access to federal prisons, police stations, and undisclosed places of detention. The government permitted a local NGO that has an exemption enabling them to raise unlimited funds from foreign sources and to engage in human rights advocacy, to visit prisoners. Some NGOs played a positive role in improving prisoners’ chances for clemency.</p>
+<p>Due to security concerns, authorities limited access of human rights organizations, the media, humanitarian agencies, and diplomatic missions to conflict-affected areas, although it continued to ease such restrictions. Humanitarian access in the Somali Region in particular continued to improve; however, due to security concerns, some restrictions remained. The government lacked a clear policy on NGO access to sensitive areas, leading regional government officials and military officials frequently to refer requests for access to the federal government. Officials required journalists to register before entering conflict regions. There were isolated reports of regional police or local militias blocking NGOs’ access to particular locations on particular days, citing security concerns. Some government agencies limited project activities for security reasons.</p>
+<p>Some persons feared authorities would retaliate against them if they met with NGOs and foreign government officials who were investigating allegations of abuse.</p>
+<p><u>The United Nations or Other International Bodies</u>: Requests to visit the country from the UN special rapporteur on torture and other cruel, inhuman, or degrading treatment or punishment remained unanswered.</p>
+<p><u>Government Human Rights Bodies</u>: The EHRC investigated human rights complaints and produced annual and thematic reports. The commission operated 112 legal aid centers in collaboration with 22 universities and two civil society organizations, the Ethiopian Women Lawyers’ Association and the Ethiopian Christian Lawyers Fellowship. The commission also signed cooperative agreements with Axum, Wolayta, Debre Berhan, and Jijiga universities.</p>
+<p>The EHRC reported to parliament that in 2014-15 it had accepted 1,254 human rights-related grievances and completed investigations into 259 cases. In addition the EHRC claimed to have provided counseling services to 594 individuals, resolved 166 cases through negotiation, and referred 235 grievances to the relevant government offices.</p>
+<p>The Office of the Ombudsman has authority to receive and investigate complaints with respect to administrative mismanagement by executive branch offices. From July 2014 to July 2015, the office received 3,645 complaints. Of these, the ombudsman opened investigations into 2,066 and resolved the remaining cases through alternative means. The majority of complaints dealt with land, administration of public service, delay in service delivery, poor quality service, administration of government houses, and social security. The Office of the Ombudsman did not compile nationwide statistics.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section6"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides all persons equal protection without discrimination based on race, nation, nationality or other social origin, color, gender, language, religion, political or other opinion, property, birth, or status, but the government did not fully promote and protect these rights. Discrimination based on age, HIV status, or having other communicable disease is not explicitly mentioned, although the constitution adds “or other status” to the list of prohibited bases for discrimination.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape and provides for penalties of five to 20 years’ imprisonment, depending on the severity of the case. The law does not expressly address spousal rape. The government did not fully enforce the law, partially due to widespread underreporting. Recent statistics on the number of abusers prosecuted, convicted, or punished were not available.</p>
+<p>Domestic violence is illegal, but government enforcement of laws was inconsistent.</p>
+<p>Domestic violence, including spousal abuse, was a pervasive social problem. Depending on the severity of damage inflicted, legal penalties range from small fines to imprisonment for up to 15 years.</p>
+<p>Although women had recourse to police and the courts, societal norms and limited infrastructure prevented many women from seeking legal redress, particularly in rural areas. The government prosecuted offenders on a limited scale.</p>
+<p>Domestic violence and rape cases often were delayed significantly and given low priority. In the context of gender-based violence, significant gender gaps in the justice system remained, due to poor documentation and inadequate investigation. Gender-based violence against women and girls was underreported due to cultural acceptance, shame, fear of reprisal, or a victim’s ignorance of legal protections.</p>
+<p>“Child friendly” benches hear cases involving violence against children and women. Police officers were required to receive domestic violence training from domestic NGOs and the Ministry of Women, Children, and Youth Affairs. There was a commissioner for women and children’s affairs on the EHRC.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: FGM/C is illegal, but the government did not actively enforce this prohibition or punish those who practiced it. According to the UN Children’s Fund (UNICEF), 74 percent of women and girls had undergone FGM/C. The government strategy for combatting this practice focused on community education rather than punitive measures, which had been seen to drive the practice underground in other countries.</p>
+<p>A majority of girls had undergone some form of FGM/C, although the results of the 2009 Population Council survey suggest its prevalence declined. Sixty-six percent of female respondents ages 21 to 24 reported undergoing FGM/C, compared with 56 percent of those ages 15 to 17. Of the seven regions surveyed, the study found the rates to be highest in Afar (90 percent), Oromia (77 percent), and the SNNPR (75 percent). The FGM/C prevalence rate was particularly high among ethnic Somalis in the country.</p>
+<p>FGM/C was much less common in urban areas, where 15 percent of the population lived.</p>
+<p>The age at which FGM/C is performed depends on the ethnic group, type of FGM/C adopted, and the region. More than 52 percent of girls who undergo the procedure do so before age one. In the north FGM/C tends to be performed immediately after birth, whereas in the south, where FGM/C is more closely associated with marriage, it is performed later. Girls typically experienced clitoridectomies seven days after birth (consisting of an excision of the clitoris, often with partial labial excision) and infibulation (the most extreme and dangerous form of FGM/C) at the onset of puberty. The penal code criminalizes the practice of clitoridectomy, with imprisonment of at least three months or a fine of at least 500 birr ($24). Infibulation of the genitals is punishable with imprisonment of five to 10 years. No criminal charges, however, have ever been brought for FGM/C. The government’s strategy was to discourage the practice through education in public schools, the Health Extension Program, and broader mass media campaigns rather than to prosecute offenders. International bilateral donors and private organizations were active in community education efforts to reduce the prevalence of FGM/C, following the government’s lead of sensitization rather than legal enforcement.</p>
+<p><u>Other Harmful Traditional Practices</u>: The most prevalent harmful traditional practices other than FGM/C included uvula cutting, tonsil scraping, milk tooth extraction, early marriage, and marriage by abduction.</p>
+<p>Marriage by abduction is illegal, although it continued in some regions despite the government’s attempts to combat the practice. Forced sexual relationships accompanied most marriages by abduction, and women often experienced physical abuse during the abduction. Abductions led to conflicts among families, communities, and ethnic groups. In cases of marriage by abduction, the perpetrator did not face punishment if the victim agreed to marry the perpetrator.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment was widespread. The penal code prescribes penalties of 18 to 24 months’ imprisonment, but authorities generally did not enforce harassment laws.</p>
+<p><u>Reproductive Rights</u>: Individuals and couples have the right to decide freely and responsibly the number, spacing, and timing of their children; manage their reproductive health; and to have access to the information and means to do so, free from discrimination, coercion, or violence. A 2014 Demographic and Health Survey (DHS) found a modern contraceptive prevalence rate of 40 percent nationwide among married women, up from 27 percent three years previously. The DHS also showed delivery with a skilled birth attendant had risen from 10 to 16 percent. Modeling completed by the government with support from the Gates Foundation and UN agencies found the number of women dying during pregnancy and childbirth had dropped from an estimated 676 deaths per 100,000 live births to an estimated 420 deaths per 100,000 live births. Abortion is illegal but with numerous exceptions. The incidence of illegal, unsafe abortions had declined since legislation changed, which accounted in part for the drop in maternal mortality. All maternal and child health services were provided free of charge in the public sector; however, challenges persisted in accessing quality services in more remote areas of the country due to transportation problems.</p>
+<p><u>Discrimination</u>: Discrimination against women was a problem and was most acute in rural areas, where an estimated 85 percent of the population lived. The law contains discriminatory regulations, such as the recognition of the husband as the legal head of the family and the sole guardian of children more than five years old. Courts generally did not consider domestic violence by itself a justification for granting a divorce. Irrespective of the number of years a marriage existed, the number of children raised, and joint property, the law entitled women to only three months’ financial support if a relationship ended. There was limited legal recognition of common-law marriage. A common-law husband had no obligation to provide financial assistance to his family, and consequently women and children sometimes faced abandonment. Traditional courts continued to apply customary law in economic and social relationships.</p>
+<p>According to the constitution, all land belongs to the government. Both men and women have land-use rights, which they may pass on as an inheritance. Land law varies among regions. All federal and regional land laws empower women to access government land. Inheritance laws also enable widows to inherit joint property they acquired during marriage.</p>
+<p>In urban areas women had fewer employment opportunities than men did, and the jobs available did not generally provide equal pay for equal work. Women’s access to gainful employment, credit, and the opportunity to own or manage a business was further limited by their generally lower level of education and training, and by traditional attitudes.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from one’s parents. The law requires all children to be registered at birth. Children born in hospitals were registered, while most children born outside of hospitals were not. The overwhelming majority of children, particularly in rural areas, were born at home.</p>
+<p><u>Education</u>: As a policy primary education was universal and tuition-free; however, there were not enough schools to accommodate the country’s youth, particularly in rural areas. The cost of school supplies was prohibitive for many families, and there was no legislation to enforce compulsory primary education. The number of students enrolled in schools expanded faster than trained teachers could be deployed.</p>
+<p><u>Child Abuse</u>: Child abuse was widespread. <i>The African Report on Child Wellbeing 2013</i>, published by the African Child Policy Forum, found the government had increased punishment for sexual violence against children. “Child friendly” benches heard cases involving violence against children and women. There was a commissioner for women and children’s affairs in the EHRC.</p>
+<p><u>Early and Forced Marriage</u>: The law sets the legal marriage age for girls and boys at 18; however, authorities did not enforce this law uniformly, and rural families sometimes were unaware of this provision. An NGO reported intervening in 400 early marriages. In several regions it was customary for older men to marry girls, although this traditional practice continued to face greater scrutiny and criticism. The government strategy to address underage marriage focused on education and mediation rather than punishment of offenders.</p>
+<p>According to a 2015 UNICEF report, 16 percent of women ages 20-24 were married before age 15 and 41 percent before age 18. According to the 2011 DHS, the median age of first marriage among women between the ages of 20 and 49 who were surveyed was 17.1 years, compared with 16.5 years in 2005.</p>
+<p>In the Amhara and Tigray regions, girls were married as early as age seven. Child marriage was most prevalent in the Amhara Region, where approximately 45 percent of girls marry before age 18, and the median first marriage age was 15.1 years, according to the 2011 DHS, compared with 14.7 years in 2005. Regional governments in Amhara and, to a lesser extent, Tigray offered programs to educate girls, young women, parents, community leaders, and health professionals on problems associated with early marriage.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: See information for girls under 18 in the Women section above.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum age for consensual sex is 18 years, but authorities did not enforce this law. The law provides for three to 15 years in prison for sexual intercourse with a minor. The law provides for one year in prison and a fine of 10,000 birr ($480) for trafficking in indecent material displaying sexual intercourse by minors. The law prohibits profiting from the prostitution of minors and inducing minors to engage in prostitution; however, commercial sexual exploitation of children continued, particularly in urban areas. Girls as young as age 11 reportedly were recruited to work in brothels. Customers often sought these girls because they believed them to be free of sexually transmitted diseases. Young girls were trafficked from rural to urban areas. They also were exploited as prostitutes in hotels, bars, resort towns, and rural truck stops. Reports indicated family members forced some young girls into prostitution.</p>
+<p><u>Infanticide or Infanticide of Children with Disabilities</u>: Ritual and superstition-based infanticide continued in remote tribal areas, particularly South Omo. Local governments worked to educate communities against the practice.</p>
+<p><u>Displaced Children</u>: According to a 2010 report by the Ministry of Labor and Social Affairs, approximately 150,000 children lived on the streets, of whom 60,000 were in the capital. The ministry’s report stated that families’ inability to support children due to parental illness or insufficient household income exacerbated the problem. Research in 2014 by the ministry noted rapid urbanization, illegal employment brokers, high expectations of better life in cities, and rural-urban migration were adding to the problem. These children begged, sometimes as part of a gang, or worked in the informal sector.</p>
+<p><u>Institutionalized Children</u>: There were an estimated 4.5 million orphans in the country in 2012, according to statistics published by UNICEF. The vast majority lived with extended family members. Government and privately run orphanages were overcrowded, and conditions were often unsanitary. Due to severe resource constraints, hospitals and orphanages often overlooked or neglected abandoned infants. Institutionalized children did not receive adequate health care.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/en/country/ethiopia.html">travel.state.gov/content/childabduction/en/country/ethiopia.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community numbered approximately 2,000 persons. There were no reports of anti-Jewish acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution does not mandate equal rights for persons with disabilities. The law prohibits discrimination against persons with physical and mental disabilities in employment and mandates access to buildings but does not explicitly mention intellectual or sensory disabilities. It is illegal for deaf persons to drive.</p>
+<p>The law prohibits employment discrimination based on disability. It also makes employers responsible for providing appropriate working or training conditions and materials to persons with disabilities. The law specifically recognizes the additional burden on women with disabilities. The government took limited measures to enforce the law, for example, by assigning interpreters for hearing-impaired civil service employees (see section 7.d.). The Ministry of Labor and Social Affairs and the Public Servants Administration Commission are responsible for the implementation of the Proclamation on The Rights of Disabled Persons to Employment.</p>
+<p>The law mandates building accessibility and accessible toilet facilities for persons with physical disabilities, although specific regulations that define the accessibility standards were not adopted. Buildings and toilet facilities were usually not accessible. Property owners are required to give persons with disabilities preference for ground-floor apartments, and this was respected.</p>
+<p>Women with disabilities were more disadvantaged than men in education and employment. The 2010 Population Council Young Adult Survey found young persons with disabilities were less likely to have ever attended school than those without disabilities. The survey indicated girls with disabilities were less likely than boys to be in school: 23 percent of girls with disabilities were in school, compared with 48 percent of girls and 55 percent of boys without disabilities. Overall, 48 percent of young persons with disabilities surveyed reported not going to school due to their disability. Girls with disabilities also were much more likely to suffer physical and sexual abuse than girls without disabilities. Of sexually experienced girls with disabilities, 33 percent reported having experienced forced sex. According to the same survey, approximately 6 percent of boys with disabilities had been beaten in the three months prior to the survey, compared with 2 percent of boys without disabilities.</p>
+<p>There were several schools for persons with hearing and vision disabilities and several training centers for children and young persons with intellectual disabilities. There was a network of prosthetic and orthopedic centers in five of the nine regional states.</p>
+<p>The Ministry of Labor and Social Affairs worked on disability-related problems. The CSO law continued to affect negatively several domestic associations, such as the Ethiopian National Association of the Blind, the Ethiopian National Association of the Deaf, and the Ethiopian National Association of the Physically Handicapped, as it did other civil society organizations. International organizations and some local CSOs were active, particularly on issues concerning accessibility and vocational training for persons with disabilities.</p>
+<p>The right of persons with disabilities to vote and otherwise participate in civic affairs is not restricted in law, although lack of accessibility can make participation difficult. In the May national elections, African Union observers reported voters requiring assistance were always provided with assistance, either by a person of their choice or by polling staff. Most polling stations were accessible to persons with disabilities, and priority was given to them as well as the elderly, pregnant women, and nursing mothers.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The country has more than 80 ethnic groups, of which the Oromo, at approximately 35 percent of the population, is the largest. The federal system drew boundaries approximately along major ethnic group lines. Most political parties remained primarily ethnically based, although the ruling party and one of the largest opposition parties are coalitions of ethnically based parties.</p>
+<p>In January eight police officers and three civilians were killed when a group from the Hamer district in the South Omo Zone of the SNNPR confronted police regarding local marginalization, hunting restrictions, and limited land availability due to government-sponsored sugar plantations. The mob killed eight police officers, including the police chief, and three individuals who may have been assisting the police officers.</p>
+<p>Authorities in the western region of Benishangul-Gumuz forcibly evicted as many as 8,000 ethnic Amhara residents from their homes; in 2014 some of those evicted alleged that police beat and harassed them because of their ethnicity. The regional president publicly stated the evictions were a mistake and called on the evictees to return. Government officials also stated victims would be compensated for lost property and any injuries sustained. Authorities dismissed several local officials from their government positions because of their alleged involvement in the evictions and charged some of the officials with criminal offenses.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Consensual same-sex sexual activity is illegal and punishable with three to 15 years’ imprisonment. No law prohibits discrimination against lesbian, gay, bisexual, transgender, and intersex (LGBTI) individuals. There were some reports of violence against LGBTI individuals; reporting was limited due to fear of retribution, discrimination, or stigmatization. There are no hate crime laws or other criminal justice mechanisms to aid in the investigation of abuses against LGBTI persons. Individuals did not identify themselves as LGBTI persons due to severe societal stigma and the illegality of consensual same-sex sexual activity. Activists in the LGBTI community stated they were followed and at times feared for their safety. There were reports as many as a dozen individuals were incarcerated for allegedly engaging in same-sex sexual activities.</p>
+<p>The AIDS Resource Center in Addis Ababa reported the majority of self-identified gay and lesbian callers, most of whom were male, requested assistance in changing their behavior to avoid discrimination. Many gay men reported anxiety, confusion, identity crises, depression, self-ostracism, religious conflict, and suicide attempts.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Societal stigma and discrimination against persons with or affected by HIV/AIDS continued in the areas of education, employment, and community integration. Persons with or affected by HIV/AIDS reported difficulty accessing various services. Despite the abundance of anecdotal information, there were no statistics on the scale of the problem.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section7"> </span><span class="st_twitter" st_title="Ethiopia #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Ethiopia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252681%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide workers, except for civil servants and certain categories of workers primarily in the public sector, with the right to form and join unions, conduct legal strikes, and bargain collectively, although other provisions and laws severely restrict or excessively regulate these rights. The law specifically prohibits managerial employees, teachers, health-care workers, judges, prosecutors, security service workers, domestic workers, and seasonal and part-time agricultural workers from organizing unions.</p>
+<p>A minimum of 10 workers is required to form a union. While the law provides all unions with the right to register, the government may refuse to register trade unions that do not meet its registration requirements and unilaterally cancel the registration of a union. Workers may not join more than one trade union per employment. The law stipulates a trade union organization may not act in an overtly political manner. The law allows administrative authorities to appeal to the courts to cancel union registration for engaging in prohibited activities, such as political action.</p>
+<p>Other laws and regulations that explicitly or potentially infringe upon workers’ rights to associate freely and to organize include the CSO law, Council of Ministers Regulation No. 168/2009 on Charities and Societies to reinforce the CSO law, and Proclamation No. 652/2009 on Antiterrorism. The International Labor Organization (ILO) Committee of Experts on the Application of Conventions and Recommendations noted the CSO law gives the government power to interfere in the right of workers to organize, including through the registration, internal administration, and dissolution of organizations.</p>
+<p>While the law recognizes the right of collective bargaining, this right was severely restricted. Negotiations aimed at amending or replacing a collective agreement must be completed within three months of its expiration; otherwise, the provisions on wages and other benefits cease to apply. Civil servants, including public school teachers, have the right to establish and join professional associations but not to negotiate better wages or working conditions. Arbitration procedures in the public sector are more restrictive than those in the private sector. The law does not provide for effective and adequate sanctions against acts of interference by other agents in the establishment, functioning, or administration of either workers’ or employers’ organizations.</p>
+<p>Although the constitution and law provide workers with the right to strike to protect their interests, the law contains detailed provisions prescribing extremely complex and time-consuming formalities that make legal strike actions difficult. The law requires aggrieved workers to attempt reconciliation with employers before striking and includes a lengthy dispute settlement process. These provisions apply equally to an employer’s right to lock workers out. Two-thirds of the workers concerned must support a strike before it is authorized. If a case has not already been referred to a court or labor relations board, workers retain the right to strike without resorting to either of these options, provided they give at least 10 days’ notice to the other party and the Ministry of Labor and Social Affairs and make efforts at reconciliation.</p>
+<p>The law also prohibits strikes by workers who provide essential services, including air transport and urban bus service workers, electric power suppliers, gas station personnel, hospital and pharmacy personnel, firefighters, telecommunications personnel, and urban sanitary workers. The list of essential services exceeds the ILO definition of essential services. The law prohibits retribution against strikers, but it also provides for civil or penal penalties against unions and workers involved in unauthorized strike actions. Violation of this procedure is an offence punishable with a fine not exceeding 1,200 birr ($58) if committed by a union, or of 300 birr ($14) if committed by an individual worker, unless the provisions of the penal code prescribe more severe penalties in which case the punishment laid down in the alternate becomes applicable. The government may dissolve unions for carrying out strikes in “essential services.”</p>
+<p>The informal labor sector, including domestic workers, is not unionized and is not protected by labor laws. Lack of adequate staffing prevented the government from effectively enforcing applicable laws for those sectors protected by law. Court procedures were subject to lengthy delays and appeals.</p>
+<p>Freedom of association and the right to collective bargaining were respected, but some individual registration problems remained. The government refused for the fourth year to register the National Teachers Union (NTA) on grounds that a national teachers’ association already existed and that the NTA’s registration application was not submitted in accordance with the CSO law. In 2013 an ILO mission made a working visit and signed a joint statement with the Ministry of Labor and Social Affairs, stating the government was committed to registering the NTA. The ILO’s Ethiopia office reiterated this message and characterized the dispute as an administrative issue focused on naming rights and diaspora membership. The ILO described the government as “ready and willing” to register the group in accordance with the CSO law.</p>
+<p>While the government allowed citizens to exercise the right of collective bargaining, enterprise unions are allowed to negotiate wages only at the plant level. Unions in the formal industrial sector made some efforts to enforce labor regulations.</p>
+<p>Antiunion activities occurred but were rarely reported. Despite the law prohibiting antiunion discrimination, unions reported employers terminated union activists. There were unconfirmed reports that some major foreign investors generally did not allow workers to form unions, often transferred or dismissed union leaders, and intimidated and pressured members to leave unions. Lawsuits alleging unlawful dismissal often took years to resolve because of case backlogs in the courts. Employers found guilty of antiunion discrimination were required to reinstate workers dismissed for union activities and generally did so. The law prohibits retribution against strikers, and there were no reported cases of violations. Labor officials reported that high unemployment, fear of retribution, and long delays in hearing labor cases deterred workers from participating in strikes or other labor actions.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>In August the federal government enacted a comprehensive overhaul of its antitrafficking penal code. The new law prescribes harsh penalties of up to life imprisonment and a fine of 500,000 birr ($24,000) for human trafficking and exploitation, including slavery, debt bondage, forced prostitution, and servitude.</p>
+<p>The law prohibits all forms of forced or compulsory labor but permits courts to order forced labor as a punitive measure. The government did not effectively enforce the law. Forced labor occurred, although police at the federal and regional levels began to receive training focused on human trafficking and exploitation. Both adults and children were forced to engage in street vending, begging, traditional weaving, or agricultural work. Children also worked in forced domestic labor. Situations of debt bondage also occurred in traditional weaving, pottery making, cattle herding, and other agricultural activities, mostly in rural areas.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>By law the minimum age for wage or salary employment is 14 years. The minimum age provisions, however, apply only to contractual labor and do not apply to self-employed children or children who perform unpaid work. <i>The National Action Plan to Eliminate the Worst Forms of Child Labor</i>, signed in 2012, covers children between the ages of 14 and 18 and prohibits hazardous or night work. The law defines hazardous work as any work that could jeopardize a child’s health. Prohibited work sectors include passenger transport, work in electric generation plants, factory work, underground work, street cleaning, and many other sectors. The law expressly excludes children under age 16 attending vocational schools from the prohibition on hazardous work. The law does not permit children between the ages of 14 and 18 to work more than seven hours per day, between 10 p.m. and 6 a.m., or on public holidays or rest days.</p>
+<p>Child labor remained a serious problem. The small number of trained labor inspectors and a lack of resources resulted in numerous violations. Occupational safety and health measures were not effectively enforced, and significant numbers of children worked in prohibited work sectors, particularly construction.</p>
+<p>School enrollment was low, particularly in rural areas. To underscore the importance of attending school, joint NGO and government-led community-based awareness raising efforts targeted communities where children were heavily engaged in agricultural work. The government invested in modernizing agricultural practices and constructing schools to combat the problem of child labor in agricultural sectors.</p>
+<p>In both rural and urban areas, children often began working at young ages. Child labor was particularly pervasive in subsistence agricultural production, traditional weaving, fishing, and domestic work. A growing number of children worked in construction. Children in rural areas, especially boys, engaged in activities such as cattle herding, petty trading, plowing, harvesting, and weeding, while other children, mostly girls, collected firewood and fetched water. Children worked in the production of gold. In small-scale gold mining, they dug their own mining pits and carried heavy loads of water. Children in urban areas, including orphans, worked in domestic service, often working long hours, which prevented many from attending school regularly. Children also worked in manufacturing, shining shoes, making clothes, parking, public transport, petty trading, as porters, and directing customers to taxis. Some children worked long hours in dangerous environments for little or no wages and without occupational safety protection. Child laborers often faced physical, sexual, and emotional abuse at the hands of their employers.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination on the basis of race, ethnicity, national origin nationality, gender, marital status, religion, political affiliation, political outlook, pregnancy, socioeconomic status, disability, or “any other conditions.” The law specifically recognizes the additional burden on pregnant women and persons with disabilities (see section 6.). Sexual orientation, gender identity, and HIV-positive status are not specifically protected. The penalty for discrimination on the above grounds is a fine of 1,200 birr ($58). The government took limited measures to enforce the law.</p>
+<p>Discrimination in employment and occupation occurred with respect to women, who had fewer employment opportunities than men, and the jobs available did not provide equal pay for equal work.</p>
+<p>Discrimination against migrant workers also occurred (see section 7.e.).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>There is no national minimum wage. Some government institutions and public enterprises set their own minimum wages. Public sector employees, the largest group of wage earners, earned a monthly minimum wage of approximately 420 birr ($20). The official estimate for the poverty income level was 315 birr ($15) per month.</p>
+<p>Only a small percentage of the population, concentrated in urban areas, was involved in wage-labor employment. Wages in the informal sector generally were below subsistence levels.</p>
+<p>The law provides for a 48-hour maximum legal workweek with a 24-hour rest period, premium pay for overtime, and prohibition of excessive compulsory overtime. The country has 13 paid public holidays per year. The law entitles employees in public enterprises and government financial institutions to overtime pay; civil servants receive compensatory time off for overtime work. The government, industries, and unions negotiated occupational safety and health standards. Workers specifically excluded by law from unionizing, including domestic workers and seasonal and part-time agricultural workers, generally did not benefit from health and safety regulations in the workplace.</p>
+<p>The Ministry of Labor and Social Affairs’ inspection department was responsible for enforcement of workplace standards. In 2014 the country had 380 labor inspectors and, according to the ministry, they completed more than 37,500 inspections in 2014. The labor inspectors did not enforce standards effectively. The ministry’s severely limited administrative capacity; lack of an effective mechanism for receiving, investigating, and tracking allegations of violations; and lack of detailed, sector-specific health and safety guidelines hampered effective enforcement of these standards. Maximum penalties for different types of violations range from 300 birr ($15) to 1,000 birr ($48).</p>
+<p>Compensation, benefits, and working conditions of seasonal agricultural workers were far below those of unionized permanent agricultural employees. The government did little to enforce the law. Most employees in the formal sector worked a 39-hour workweek. Many foreign, migrant, and informal sector workers worked more than 48 hours per week.</p>
+<p>Workers have the right to remove themselves from dangerous situations without jeopardizing their employment; there were no reports that workers exercised this right. Hazardous working conditions existed in the agricultural sector, which was the primary base of the country’s economy. There were also reports of hazardous and exploitative working conditions in the construction and industrial sectors, although specific data on deaths and/or injuries was not available.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

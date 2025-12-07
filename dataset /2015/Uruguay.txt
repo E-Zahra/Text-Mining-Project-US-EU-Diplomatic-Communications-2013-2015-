@@ -1,0 +1,517 @@
+2015
+Uruguay
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047"> </span><span class="st_facebook" st_title="Uruguay" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=253047">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=253047</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=executive"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 4/19/16; see Appendix F: Errata for more information.</em></p>
+<p>The Oriental Republic of Uruguay is a constitutional republic with an elected president and a bicameral legislature. The country has a multiparty electoral system. In 2014, in a free and fair runoff election, Tabare Vazquez won a five-year presidential term, and his Frente Amplio party won a majority in parliament. Civilian authorities maintained effective control over the security forces.</p>
+<p>Principal human rights problems included widespread use of extended pretrial detention that caused severe overcrowding and harsh conditions in some prisons and violence against women.</p>
+<p>Other human rights concerns included violence against children, societal discrimination against Afro-Uruguayans, and trafficking in persons.</p>
+<p>The government took steps to prosecute officials who committed abuses, and there were no reports of impunity during the year.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section1"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices, but during the year one case allegedly involving such practices occurred.</p>
+<p>On August 21, a judge indicted 26 employees of the Uruguayan Institute for Children and Adolescents (INAU) Adolescent Offenders’ Division (SIRPA) for abuses of juveniles at the Ceprili Home. The judge indicted 17 employees on charges of torture and nine on the charge of “accomplice to torture” based on security camera footage from July 24 showing 30 SIRPA employees storming an area of the Ceprili Home where two adolescents were protesting. The employees forcibly removed the juveniles from their cells, handcuffed and threw them to the floor, then hit them and sprayed them with fire extinguishers.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions continued to be harsh and potentially life threatening in some facilities due to police corruption, firearms, and drugs in prison facilities; narcotics trafficking and extortion by prison gangs; poor building maintenance and services; excessive use of force and solitary confinement as disciplinary measures; and inadequate medical attention. Understaffing in some facilities remained a problem. Prisoners with disabilities faced difficulties in receiving the specialized medical care they needed.</p>
+<p><u>Physical Conditions</u>: The National Rehabilitation Institute (INR) reported 9,542 prisoners at the end of 2014 in facilities with a capacity for approximately 9,095 inmates. Some facilities continued to have inadequate sanitation, ventilation, temperature control, lighting, and access to potable water. Many facilities lacked formal clearances from the fire department. Prisoners depended on visitors for clothing and enough food to reach their daily minimum caloric intake. Female and poorer male prisoners often received no support from their families.</p>
+<p>The Las Rosas prison in the province of Maldonado reported overcrowding of 35 percent and inadequate food, sanitation, and medical care access. During the year two prisoners died at Libertad and Comcar prisons from prisoner-on-prisoner violence, compared with 12 prisoners killed as a result of such violence in all prisons during 2014.</p>
+<p>The public mental health hospitals Vilardebo, Colonia Etchepare, and Santin Carlos Rossi held prisoners deemed to have mental health problems. Public mental health hospitals suffered overcrowding and infrastructure problems.</p>
+<p>In February the UN Committee for the Rights of Children raised its concern over the use of torture and other cruel and inhuman treatment of adolescents imprisoned in SIRPA-operated-homes. The committee’s observations support recommendations made earlier by the UN Committee against Torture and the UN special rapporteur on torture. It reported overcrowding, inhuman, and degrading conditions, and excessive use of force and psychotropic drugs at SIRPA homes, particularly at the Hogar Ser facility in Colonia Berro. The report noted severe overcrowding and confinement for up to 22 hours per day. Inmates did not have access to proper sanitation or reading materials. In May, SIRPA closed Hogar Ser. In November, SIRPA and the United Nations signed a memorandum of understanding to train new SIRPA staff. A government interagency advisory commission was established to examine the use of alternative measures to incarceration for juvenile offenders. The Uruguayan Association of NGOs, UNICEF, and the United Nations also participate.</p>
+<p>A report by the National Institution of Human Rights about SIRPA highlighted overcrowding in some facilities; lack of personnel trained to operate a juvenile detention system; excessive use of preventive incarceration measures; and deficiencies in the pre-release process. The report also noted that these conditions made it harder to detect abuse and sanction those responsible.</p>
+<p><u>Administration</u>: Independent authorities investigated credible allegations of inhuman conditions.</p>
+<p>The Office of Probation Measures (OSLA) continued to lack sufficient human and financial resources to work in most interior provinces. Despite these difficulties, OSLA’s efforts reduced incarceration growth and helped the judiciary to increase substitute measures for nonviolent crimes. OSLA reported 226 persons performing work as an alternative to incarceration.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring by independent nongovernmental observers, local human rights groups, the media, International Committee of the Red Cross, and international bodies.</p>
+<p><u>Improvements</u>: An EU-sponsored program offered sewing and dressmaking training to 40 female prisoners. Early in the year the INR opened a new facility in the province of Soriano and an isolation ward for seven prisoners with tuberculosis in the prison of Canelones. The Council of Secondary School Education agreed with INR to provide classes on sexual education and domestic violence to 600 prisoners of Comcar, Punta de Rieles, and Centro Metropolitano de Rehabilitacion Femenino prisons.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law and constitution prohibit arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The National Police under the Ministry of Interior maintain internal security. The National Directorate for Migration, also under the Ministry of the Interior, is responsible for migration and border enforcement. Civilian authorities maintained effective control over the National Police, and the government has effective mechanisms to investigate and punish abuse and corruption. The armed forces under the Ministry of National Defense are responsible for external security and have some domestic responsibilities as guardians of the outside perimeter of six prisons. There were no reports of impunity involving police and security forces during the year.</p>
+<p>The judiciary continued to investigate the serious human rights violations committed during the 1973-85 military dictatorship. The law classifies crimes committed during the dictatorship as crimes against humanity. A May presidential decree created the Truth and Justice Group responsible for further investigating human rights abuses committed in the country between 1968 and 1985.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Police openly apprehended suspects with warrants based on sufficient evidence (probable cause) issued by a duly authorized official and brought before an independent judiciary. The law provides detainees with the right to a prompt judicial determination of the legality of detention and requires that the detaining authority explain the legal grounds for the detention. The constitution states a person may not be detained for longer than 24 hours without a judge being informed of the detention. The judge then has another 24 hours to determine whether the subject is to be indicted and sent to prison, indicted with bail, or released for lack of probable cause. Any confession obtained by police prior to a detainee’s appearance before a judge and without an attorney present is not valid. A judge must investigate any detainee’s claim of mistreatment. A lawyer assigned to each police station reports to the Ministry of the Interior concerning treatment of detainees.</p>
+<p>For any detainee who cannot afford a lawyer, the court appoints a public defender at no cost to the detainee. For most persons accused of crimes punishable by at least two years in prison, the criminal procedure code prohibits bail. A judge may set bail if the individual is a first-time offender and there are provisions in place to prevent the subject from fleeing. Most persons facing lesser charges were not jailed. Officials allowed detainees prompt access to family members.</p>
+<p><u>Pretrial Detention</u>: The use of pretrial detention is mandatory for particular crimes, and lengthy legal procedures, large numbers of detainees, and staff shortages in the judicial system led to trial delays and prison overcrowding. According to a 2014 Ministry of the Interior report, approximately 68 percent of the prison population was in pretrial detention. Some detainees spent years in jail awaiting trial, and the uncertainty and length of detention contributed to tension and psychological stress in the prisons.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the government generally respected judicial independence.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and an independent judiciary generally enforced this right. The constitution states no individual may be imprisoned without a prosecution and trial. Defendants have the right to presumption of innocence, to be informed promptly and in detail of charges against them, and to adequate time and facilities to prepare defense. Juries are not used; trial proceedings usually consist of written arguments to the judge, which normally are not made public. Defendants have the right to consult an attorney in a timely manner, and those who do not have an attorney are provided one at the state’s expense. Only the judge, prosecutor, and defense attorney have access to the written record. Defendants may cross-examine witnesses against them and present witnesses and evidence on their own behalf. Individual judges may elect to hear oral arguments, but most judges chose the written method, a major factor slowing down the judicial process. Defendants have a right of appeal. The law extends these rights to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There are transparent administrative procedures to handle complaints of abuse by government agents. An independent and impartial judiciary handles civil disputes, but its decisions were ineffectively enforced. Local police lacked the training and manpower to enforce restraining orders, which often were generated during civil disputes related to domestic violence. Cases involving violations of an individual’s human rights may be submitted through petitions by individuals or organizations to the Inter-American Commission of Human Rights, which in turn may submit the case to the Inter-American Court of Human Rights. The court may order civil remedies including fair compensation to the individual injured.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions, and there were no reports that the government failed to respect these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section2"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. A study by local think tank RADAR noted that 84 percent of the population used the internet and 75 percent of households had internet access in 2014.</p>
+<p>In October a judge indicted a young man for inciting hatred, disdain, or violence by posting offensive comments on several internet sites and social networks that the defendant ran since 2013. The judge additionally determined that the defendant should receive psychological treatment.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation. The government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>Exile</u>: The law provides that, in extreme cases of national emergency, an individual may be given the option to leave the country as an alternative to trial or imprisonment, but this option has not been exercised in the last three decades.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. Through its refugee commission, the government established a system for adjudicating asylum claims, providing protection to refugees, and finding durable solutions, including resettlement.</p>
+<p><u>Durable Solutions</u>: The government resettled 42 Syrian refugees, 60 percent of them children, from refugee camps in Lebanon in coordination with UNHCR and the International Organization for Migration. The government provided temporary housing and financial assistance as well as food, clothing, language, and employment training for the adults.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section3"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised this right.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2014 Tabare Vazquez of the Frente Amplio (Broad Front) party won a five-year presidential term in a free and fair runoff election. The runoff followed a series of party primaries and a free and fair first-round election among seven parties. In parliamentary elections in October, the Frente Amplio won 15 of 30 seats in the Senate and 50 of 99 seats in the Chamber of Deputies.</p>
+<p><u>Participation of Women and Minorities</u>: Women participated in the political process and government, although primarily at lower and middle levels. There was notable underrepresentation in the middle and higher levels of government. Nine of 30 senators and 17 of 99 representatives were women. Five of the 13 cabinet ministers and one of 19 mayors were women. There was one minority member in parliament.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section4"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, and the government generally implemented the law effectively. Officials sometimes engaged in corrupt practices that authorities addressed with appropriate legal action.</p>
+<p><u>Corruption</u>: A three-member Advisory Economic and Financial Board is responsible for promoting transparency in government and implementing preventive measures in the fight against corruption. It serves as an advisory board for the executive branch and collects financial disclosure information from appointed and elected government officials.</p>
+<p><u>Financial Disclosure</u>: The law requires income and asset disclosure by appointed and elected officials. Each year the presidentially appointed Transparency and Ethics Board lists the names of government officials expected to file a declaration on its web page and informs the individuals’ organizations of those expected to comply. The incumbent, the judiciary, a special congressional committee, or the board may access the information in the declarations (by majority vote of the board). The board may direct an official’s office to retain 50 percent of the employee’s salary until the declaration is presented, and it may publish the names of those who fail to comply in the federal register.</p>
+<p><u>Public Access to Information</u>: The Public Information Access Law, which defines public access to government information as a human right, provides for general access to public information. By law public information includes all information held by a government entity, except information considered classified. The law requires government agencies to make public their organizational charts, responsibilities, salaries, and budget allotment and to produce regular reports. Authorities effectively implemented the law; however, there were no public outreach activities to encourage its use.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section5"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials often were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The National Institute of Human Rights and Ombudsmanship, an autonomous branch of congress, is composed of five board members proposed by civil society organizations and approved by a two-thirds vote in the General Assembly for a period of five years (renewable one time). According to the most recently available information, it received 260 complaints in 2013, primarily about personal integrity, access to jobs, equality and nondiscrimination, and access to justice.</p>
+<p>Half of the complaints were resolved through mediation. The institute worked with the prison ombudsman who reported to the General Assembly. It did not deal with human rights violations committed during the military dictatorship (1973-85), which were handled by the Human Rights Secretariat in the Office of the Presidency.</p>
+<p>The Commission against Racism, Xenophobia, and All Forms of Discrimination of the Ministry of Education and Culture includes government, religious, and civil society representatives. In 2014 the commission investigated 16 cases of alleged discrimination. The commission has been without an allocated budget since 2010. Government agency representatives on the commission received no extra compensation but were able to participate in the commission’s activities during work hours. Members of civil society participated on an ad hoc basis without any additional compensation.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section6"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law prohibits discrimination based on race, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation and/or gender identity, age, language, HIV-positive status, or other communicable diseases. The government effectively enforced these prohibitions.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape. The law allows for sentences of two to 12 years’ imprisonment for a person found guilty of rape, and the law was effectively enforced. The Ministry of Interior reported 114 cases of rape and 13 cases of homicide due to domestic violence in 2014.</p>
+<p>The law criminalizes domestic violence, including physical, psychological, and sexual violence, but survivors without severe injuries often did not file complaints. Survivors of domestic violence requiring hospitalization were more likely to receive follow-up assistance from healthcare providers and police authorities.</p>
+<p>The law allows for sentences of six months’ to two years’ imprisonment for a person found guilty of committing an act of violence or making continued threats of violence. Civil courts decided most of the domestic cases during the year. Judges in these cases often issued restraining orders, which were difficult to enforce. The judiciary and the Ministry of the Interior expanded the use of electronic bracelets with GPS for perpetrators of domestic violence to include the provinces of San Jose, Canelones, Maldonado, Colonia, and Florida. The double-bracelet sets (one bracelet for the victim and one for the aggressor) track distance between the perpetrator and victim. The program included awareness training for judges.</p>
+<p>The Ministry of Social Development (MIDES), some police headquarters in the interior, INAU, and nongovernmental organizations (NGOs) operated shelters where abused women and their children could seek temporary refuge. All services were funded and staffed according to the reported prevalence of domestic violence in each location; nonetheless, NGOs and government actors reported that these shelters were often overcrowded. The Montevideo municipal government and the state-owned telephone company, Antel, funded a free nationwide hotline operated by trained NGO employees for survivors of domestic violence.</p>
+<p>In November the government launched the 2016-19 action plan “For a Life Free of Gender Violence with a Generational View,” which aims to consolidate a national policy to reduce gender violence and provide restitution to victims. The plan provides for an interagency response system for violence prevention, access to justice, victim protection and attention, and punishment of defendants. It also promotes social and cultural awareness and provides for sensitizing and training public servants to deal with gender violence.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment in the workplace and punishes it by fines or dismissal. The law establishes guidelines for the prevention of sexual harassment in the workplace, as well as in student-professor relations, and provides damages for survivors.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and have access to the information and means to do so, free from discrimination, coercion, or violence.</p>
+<p><u>Discrimination</u>: By law women enjoy the same legal status and rights as men, including rights under family, labor, property, nationality, and inheritance laws. Women, however, faced discrimination in employment, pay, credit, education, housing, and business ownership. The law does not require equal pay for equal work. In May the UN Development Program presented a study on unequal opportunities in the labor market related to educational level and gender. The report concluded that, despite having higher educational levels, women, who represent 63 percent of the formal workforce, continued to earn less than men.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived by birth within the country’s territory and/or through one’s parents. The government immediately registered all births.</p>
+<p><u>Child Abuse</u>: In April the NGO Gurises Unidos reported that 80 percent of child abuse occurred within the home, and violence against children occurred frequently. The government sponsored awareness campaigns against child abuse. The Integral System for the Protection of Childhood and Adolescence Against Violence, which is led by INAU and includes MIDES, the Ministries of Health and Interior, and the National Education Board, coordinated interagency efforts regarding protection of children’s rights. INAU’s hotline continued to operate and reported 2,634 calls for information or requests for assistance in 2014, the latest period for which information was available.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age for marriage is 18, but with parental consent is age 12 for girls and age 14 for boys. Early marriages were not perceived to be a significant problem.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits the commercial sexual exploitation of children and child pornography, and authorities made some efforts to enforce the law through investigations and prosecutions. The law does not specifically criminalize prostitution of children as child sex trafficking. The penal code establishes the minimum age for consensual sex as 12. When a sexual union takes place with a minor under age 15, violence is presumed and statutory rape laws, which carry a penalty of two to 12 years in prison, may be applied. Minors between ages 12 and 15 may legally engage in consensual sex with each other. Penalties for trafficking children range from four to 16 years in prison. Child pornography is illegal, and penalties range from one to six years in prison. Some children were victims of commercial sexual exploitation, pornography, and sex trafficking. Laws against child pornography were effectively enforced.</p>
+<p><u>Institutionalized Children</u>: In February the UN Committee for the Rights of Children raised its concern over the use of torture and other cruel and inhuman treatment of adolescents imprisoned at SIRPA facilities, particularly at Hogar Ser, which SIRPA closed in May (see section 1.c., Prison and Detention Center Conditions).</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/uruguay.html">travel.state.gov/content/childabduction/en/country/uruguay.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish Central Committee (JCC) reported that the Jewish community, with an estimated population of 15,000, lived fully integrated in the society and was able to preserve the Jewish-Uruguayan identity in a natural and peaceful coexistence with the rest of the society. Unlike in the previous year, the JCC reported no significant anti-Semitic incidents.</p>
+<p>In January the government granted media networks time to broadcast a commemorative message for International Holocaust Day. The Montevideo Municipality opened in its main hall the art exhibit “Ana Frank, a still valid history” of the Ana Frank Center of Amsterdam. The National Institution of Human Rights issued an official commemorative press release, and congress paid homage during a special session. Jewish leaders reported effective cooperation with police investigating incidents of anti-Semitism. The JCC continued to organize seminars to raise awareness of anti-discrimination legislation.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s Trafficking in Persons Report at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, or the provision of other state services. The law prohibits abuse of persons with disabilities in education and mental facilities, including degrading treatment, arbitrary commitment, and abusive use of physical restraints, unhygienic conditions, inadequate or dangerous medical care, and sexual or other violence. The law also grants persons with disabilities the right to vote and participate in civic affairs without restriction. The government in general did not monitor compliance and did not effectively enforce provisions or promote programs to provide for access to buildings, information, public transportation, and communications.</p>
+<p>A law created the National Disability Program (PRONADIS) of the Ministry of Social Development. PRONADIS is a government program responsible for developing actions, programs, and regulations to grant building and facilities access, cultural, sports and recreation opportunities, education, and employment to persons with disabilities. During the year MIDES presented a manual of good practices for government employees in dealing with persons with disabilities. MIDES additionally organized training workshops for government employees.</p>
+<p>The law reserves no less than 4 percent of public-sector jobs for persons with physical and mental disabilities. Government decrees certify and regulate the use of walking sticks and establish provisions for extending adequate training in their use. Guide dogs legally have full access to public and private premises and transportation. Most public buses did not have provisions for passengers with disabilities other than one seat reserved, although airports and ports offered accessibility accommodations. The law also provides for tax benefits to private-sector companies and grants priority benefits to small and medium-sized companies owned by persons with disabilities.</p>
+<p>The law grants children with disabilities the right to attend school (primary, secondary, and higher education.) Ramps built at public elementary and high schools facilitate access for wheelchair users, and 87 percent of children and adolescents with disabilities attended school, including institutions of higher education. The University of the Republic offers sign-language interpreters for deaf students. Some movie theaters and other cultural venues lacked access ramps. The country’s One Laptop per Child program continued to offer specially adapted laptops to children with disabilities. Some parks in Montevideo and Canelones offered wheelchair accessible facilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The country’s Afro-Uruguayan minority, estimated at 8 percent of the population, continued to face societal discrimination and higher poverty levels. A 2013 law grants 8 percent of state jobs to the Afro-Uruguayan minority provided that candidates comply with constitutional and legal requirements. The National Employment Agency is required to include Afro-Uruguayans in its training courses. The law also requires that all scholarship and student support programs include a quota for Afro-Uruguayans and grants financial benefits to companies hiring them. An interinstitutional antidiscrimination commission and the National Institution of Human Rights receive complaints of racism. A government report stated that in 2014 the government hired 140 Afro-Uruguayans, the majority of them at the lower-ranking levels of the Armed Forces. The report added that only two municipalities in the interior and two government agencies complied with the law. Unemployment of Afro-Uruguayan women remained high.</p>
+<p>The NGO Mundo Afro reported “structural racism” in the society and that the percentage of Afro-Uruguayans working as unskilled laborers was much larger than for other groups. Afro-Uruguayans were underrepresented in government (two congressional representatives and the vice president of the National Postal Service were Afro-Uruguayan), academia, and in the middle and upper echelons of private-sector firms. The first ambassador-at-large for Afro-Uruguayan Affairs was appointed in 2013, a position created by law in 2010. During the year Mundo Afro continued its AM radio talk show to raise awareness of racism and its antidiscrimination campaign through a network of informal AM radio stations; other outreach efforts included regional exhibitions and seminars for government employees responsible for staff recruitment.</p>
+<p>The National Police Academy, National School for Peacekeeping Operations of Uruguay, and the Ministry of Foreign Affairs’ School of Diplomacy included discrimination awareness training as part of their curricula. Mundo Afro’s Higher Institute for Afro Training offered courses on sociology, politics, history, anthropology, music, art, and literature related to Afro-descendant culture.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Authorities generally protected the rights of lesbian, gay, bisexual, transgender, and intersex (LGBTI) persons, although civil society representatives asserted that generally government mechanisms for protection are weak and ineffective. The law prohibits discrimination based on sexual orientation and gender identity.</p>
+<p>The annual LGBTI parade and street party, known locally as the March for Diversity, took place again without incident and gathered an estimated 40,000 participants. The NGO Colectivo Ovejas Negras implemented a domestic violence service hotline for LGBTI persons.</p>
+<p>In July a transgender prostitute was killed by a male client in Montevideo. A court indicted the man for the murder, and he remained in detention awaiting trial.</p>
+<p>In July the president of the Trans Union of Uruguay reported that since the 2009 enactment of the law, only 350 out of the estimated 3,000 transgender persons in the country have changed their official identity card. Alleged reasons were the slow and complex bureaucratic and legal procedures to do so.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>There were isolated reports of societal discrimination against persons with HIV/AIDS. In May the NGO Mujer y Salud in Uruguay presented the report “Monitoring HIV and Violence Against Women,” which stated that neither a unified surveillance system nor statistics to monitor the relationship between HIV and violence against women existed.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section7"> </span><span class="st_twitter" st_title="Uruguay #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Uruguay - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253047%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including related regulations and statutory instruments, protects the right of workers to form and join independent unions, conduct legal strikes, and bargain collectively, and the government respected these rights in practice. Civil servants, employees of state-run enterprises, private-enterprise workers, and legal foreign workers may join unions. The law regulates collective bargaining and grants the government a significant role in adjudicating labor disputes. The law also designates trade unions to negotiate on behalf of workers whose companies are not unionized. The law prohibits antiunion discrimination and requires employers to reinstate workers fired for union activities and pay an indemnity to such workers. In addition, if an employer contracts employees from a third-party firm, the law holds the employer responsible for possible labor infringements committed by the third-party firm. Both foreign and domestic workers in the informal sector were excluded from these protections.</p>
+<p>The Collective Bargaining Division of the Ministry of Labor and Social Security (MTSS) investigates antiunion discrimination claims filed by union members. Information on government remedies and penalties for violations were not provided. There were generally effective albeit lengthy mechanisms for resolving workers’ complaints against employers. The law establishes a conciliatory process before a trial begins and requires the employer be informed of the reason for a claim and the alleged amount owed to the worker.</p>
+<p>Worker organizations operated free of government and political intervention. Collective bargaining occurred regularly. Workers exercised the right to strike.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The MTSS and other authorities did not report identifying or investigating cases of forced labor during the year. Information on the effectiveness of inspections and government remedies was not available. Prescribed penalties for forced labor varied between two to 12 years depending on the statute used. Foreign workers remained vulnerable to forced labor in agriculture and domestic service.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law sets the minimum age for employment at age 15, but work permits for children ages 13 to 15 may be issued by INAU under special circumstances specified by law. Minors ages 15 to 18 require government permission to work, must undergo physical exams prior to beginning work, and must renew these exams yearly to confirm the work being performed does not exceed the physical capacity of the incumbent. The government maintains a list of hazardous or fatiguing work minors should not perform and for which it does not grant permits. Children ages 15 to 18 may not work more than six hours per day within a 36-hour workweek and may not work between 10 p.m. and 6 a.m.</p>
+<p>The MTSS is responsible for overall compliance with labor regulations, but INAU is responsible for enforcing child labor laws. Violations of child labor laws by companies and individuals are punishable by fines determined by an adjustable government index. Parents of minors may receive a sentence of three months to four years in prison, according to the penal code. These penalties were sufficient to deter violations.</p>
+<p>Due to a lack of dedicated resources, enforcement was mixed and particularly poor in the informal economy, where most child labor occurred.</p>
+<p>In 2014, the latest year for which data were available, INAU granted 3,787 work permits. The main labor activities deemed nonhazardous were in the food industry (supermarkets, fast food restaurants, and bakeries) and on small farms and poultry farms; typical activities included clerical work, egg sorting, and cleaning. In 2014, the latest year for which data is available, INAU worked with the MTSS and the National Insurance Bank to investigate 54 complaints of child labor and worked with the Ministry of Interior to allow the judiciary to prosecute cases. INAU had 11 trained child-labor inspectors, who completed 4,523 inspections in 2014. During the year INAU continued its efforts to prevent and regulate child labor and provided training on child labor issues.</p>
+<p>Child labor continued to be reported in activities such as street vending, garbage collection and recycling, construction in the informal sector, and in agriculture and forestry sectors, which were generally less strictly regulated and where children often worked with their families. The most recent data available from the National Committee for the Eradication of Child Labor indicated that approximately 67,000 children and adolescents work. A small percentage of children ages five to 17 begged for a living. Children were also exploited in commercial sexual exploitation (see section 6, Children).</p>
+<p>In February the UN’s Committee for the Rights of Children presented an evaluation of the country’s compliance with the Convention on the Rights of the Child and its optional protocols. The committee raised its concern over children economically exploited, particularly in street vending, garbage collection, construction, domestic and rural sectors.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws and regulations prohibit discrimination with respect to employment and occupation on the basis of race, color, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation and/or gender identity, age, language, HIV-positive status or other communicable diseases. The government in general effectively enforced applicable law and regulations.</p>
+<p>Discrimination in employment and occupation occurred with respect to sex and race (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The monthly minimum wage for all workers was 10,000 pesos (approximately $330). The official per capita poverty income level was approximately 10,740 pesos ($358) per month, according to the National Statistics Institute.</p>
+<p>The law stipulates that the standard workweek for those in the industrial and retail sectors may not exceed 44 or 48 hours with half an hour to two-and-a-half hour daily breaks depending on the sector. The law requires workers receive premium pay for work in excess of regular work schedule hours. The law entitles all workers to 20 days of paid vacation after a year of employment and to paid annual holidays, and prohibits compulsory overtime beyond a maximum 50-hour workweek. Employers in the industrial sector are required to give workers either Sunday off or one day off every six days of work (variable workweek). Workers in the retail sector are entitled to a 36-hour block of free time each week.</p>
+<p>The MTSS sets occupational safety and health standards and such standards are current and appropriate for the main industries in the country. The law and regulations protect the rights of foreign and national workers in the formal sector but does not extend protection to the informal economy.</p>
+<p>Except in the informal sector, workers, including domestic and migrant workers and workers in the agricultural sector, were covered by laws on minimum wage, hours of work, and occupational health and safety standards. Agricultural workers had a slightly higher minimum wage. A National Statistics Institute 2014 report issued in September stated that three of 10 employees in the private sector are in an irregular condition without social security benefits, vacation pay, and bonus. The report added that women (33 percent) and young workers ages 14-19 (61percent) represented most of the workers affected by informality.</p>
+<p>The MTSS is responsible for enforcing the minimum monthly wage for both public and private sector employees and for enforcing legislation regulating health and safety conditions. The number of general inspectors for labor issues and the penalties imposed by the MTSS were unavailable, and penalties appeared to be insufficient to deter violations of labor laws in all cases.</p>
+<p>The government monitored wages and other benefits, such as social security and health insurance, through the Social Security Fund and the Internal Revenue Service. The Ministry of Public Health Bureau of Environment and Occupational Work is responsible for developing policies to detect, analyze, prevent, and control risk factors that may affect workers’ health. In general authorities effectively enforced these standards in the formal sector but less so in the informal sector.</p>
+<p>In addition the MTSS Social Security Fund continued to monitor domestic work and may obtain judicial authorization to conduct home inspections to investigate potential labor law violations. The law establishes August 19 as a paid holiday to recognize the Day of Domestic Workers. The MTSS organized awareness activities with the Domestic Workers Union and the Labor Organization PIT/CNT. The number of inspections conducted was unavailable.</p>
+<p>Formal-sector companies generally complied with minimum wage regulations, and most workers earned more than the minimum wage. Many citizens and foreign workers were employed informally, however, and thus did not benefit from certain legal protections. The law establishes that workers may not be exposed to situations that endanger their health or safety, and can remove themselves from such situations without jeopardy to their employment. Government authorities and unions protected employees who removed themselves from such activities. The Ministry of Agriculture is responsible for carrying out safety and health inspections in the agricultural sector. The number of inspections conducted was not available.</p>
+<p>The MTSS reported 51,730 labor accidents in 2014, primarily in the construction and related services, agriculture and cattle breeding, health services and related activities, and manufacturing industries. The construction workers union (SUNCA) reported 12 deaths in 2014 and that most of the accidents in that sector were falls.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

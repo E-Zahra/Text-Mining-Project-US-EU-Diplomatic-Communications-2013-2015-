@@ -1,0 +1,637 @@
+2014
+Kazakhstan
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640"> </span><span class="st_facebook" st_title="Kazakhstan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236640">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236640</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=executive"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Republic of Kazakhstan has a government system dominated by President Nursultan Nazarbayev and the ruling Nur Otan Party. The constitution concentrates power in the presidency. The president controls the legislature and the judiciary as well as regional and local governments. Changes or amendments to the constitution require presidential consent. The 2012 national elections for the Mazhilis (lower house of parliament) fell short of international standards, as did the 2011 presidential election, in which President Nazarbayev received 95 percent of the vote. Civilian authorities maintained effective control over the security forces.</p>
+<p>The most significant human rights problems were severe limits on citizens’ ability to change the government through the right to vote in free and fair elections; restrictions on freedom of speech, press, assembly, religion, and association; and lack of an independent judiciary and due process, especially in dealing with pervasive corruption and abuses by law enforcement and judicial officials. During the year the parliament passed new criminal and administrative offenses codes as well as a new labor law, that have the potential to further limit freedoms of speech, assembly, and religion.</p>
+<p>Other reported abuses included: arbitrary or unlawful killings; military hazing that led to deaths; detainee and prisoner torture and other abuse; harsh and sometimes life-threatening prison conditions; arbitrary arrest and detention; infringements on citizens’ privacy rights; prohibitive political party registration requirements; restrictions on the activities of nongovernmental organizations (NGOs); violence and discrimination against women; abuse of children; sex and labor trafficking; discrimination against persons with disabilities; societal discrimination against lesbian, gay, bisexual, and transgender (LGBT) persons; discrimination again those with HIV/AIDS; and child labor.</p>
+<p>The government took some steps to prosecute officials who committed abuses, especially in high-profile corruption cases, including several deputy ministers, a regional governor, and the chair of the Agency for Regulating Natural Monopolies; however, corruption was widespread, and impunity existed for those in positions of authority as well as for those with connections to government or law enforcement officials.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section1"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were several reports that the government or its agents committed arbitrary or unlawful killings.</p>
+<p>In May the Interdistrict Criminal Court of North Kazakhstan Oblast convicted three police officers, Umbetov, Aldamasov, and Serikbay, of kidnapping and murdering a 24-year-old man. The court found Umbetov guilty of committing crimes including kidnapping with violence dangerous to life and health, and murder committed to conceal another crime, and sentenced him to 15 years’ imprisonment. Aldamasov and Serikbay were found guilty of aiding in kidnapping and concealment of a particularly serious crime and sentenced to eight years in prison.</p>
+<p>Military hazing led to deaths, suicides, and serious injuries. In February the Military Court of Akmola Garrison convicted two officers of the Karaganda Military Unit No 5451, Aydos Akimbek and Didar Abduman, of extortion and hazing that lead to the suicide death of soldier Rinat Akhmuldinov in April 2013. The court sentenced them each to seven years in prison.</p>
+<p>In May a 19-year-old soldier of the military unit No. 6505 in Karaganda, Myrzabay Saparbayev, shot himself while on guard duty in the colony in Dolinka in the Karaganda region. A few days before the incident Saparbayev asked his relatives for money, according to his mother. The relatives believed that Saparbayev became a victim of hazing. Authorities made no statement that an investigation was underway.</p>
+<p>In April a 19-year-old student of the Military Institute of Air Defense, Adil Akylbek, was found dead on the territory of the institute. Institute officials first told the family he died of poisoning but later they said he died as a result of falling from a window. The family did not believe the officials and reported Akylbek had broken ribs and damaged internal organs. A similar incident happened in November 2013 to another student of the same institute, Ivan Yarmenko, who survived multiple bone fractures. Relatives suspected hazing, but officials made no comment.</p>
+<p>There were deaths reported in prisons due to abuse (see section 1.c.).</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of disappearances during the year.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits torture; nevertheless, police and prison officials allegedly tortured and abused detainees.</p>
+<p>A new provision in the criminal code significantly raises penalties for torture. According to article 146, maximum fines for torture are increased from 926,000 tenge ($5,000) to 9.26 million tenge ($50,000); torture that led to death is punished by 12 years in prison.</p>
+<p>The National Preventive Mechanism (NPM) against torture came into force during the year. Human Rights Ombudsman and Chairman of the NPM Coordination Council Askar Shakirov reported the newly formed NPM groups, which included significant participation by civil society groups, started working in January based on a 2014-16 work plan, which contained a schedule and a list of institutions for inspection. A report on the NPM’s accomplishments was due at year’s end.</p>
+<p>According to local NGOs, torture most often occurred in pretrial detention centers in an effort to obtain or force confessions. On June 28, two teenagers complained to the Public Monitoring Commission of Astana that they had been beaten in one of the city’s pretrial detention centers. One of the teenagers said that on June 6, a prison guard slammed his head against the ground and that he was put into solitary confinement for a week before being examined by a doctor. The other teenager reported that on May 6, he was kicked and beaten with a truncheon. The teenagers both complained to a prosecutor but said they were subsequently threatened and warned against filing a complaint.</p>
+<p>On July 2, six unidentified individuals in plain clothes detained human rights lawyer Zinaida Mukhortova in the city of Balkhash, Karaganda Oblast, and forcefully transferred her to Balkhash psychiatric clinic. On August 1, a medical commission examined Mukhortova and subsequently held her in the clinic without explaining the grounds for the forced treatment. Mukhortova had been forced to undergo psychiatric treatment twice before, in 2012 and 2013. Mukhortova and human rights defenders insisted she was mentally fit and that the legal actions were politically motivated. According to Mukhortova, authorities began investigating her mental competence only after she filed complaints against a high-ranking local official. In December authorities released Mukhortova but required her to check in at the clinic weekly or be returned to full-time residence in the institution.</p>
+<p>According to the Kazakhstan International Bureau for Human Rights and Rule of Law (KIBHR), during the year the bureau received 295 complaints of torture and mistreatment, of which it considered that 196 constituted torture and 99 were other forms of cruel treatment. The Coalition of NGOs against Torture recorded 362 such complaints in 2012 and 201 in 2013. The procurator general reported that 35 criminal cases of torture were opened in 2013, and 31 police officers were convicted.</p>
+<p>Human rights activists asserted the legal definition of torture was too vague to meet UN standards. According to the Coalition of NGOs against Torture, the definition of torture in the new criminal code remains noncompliant with the definition of torture in the UN Convention Against Torture. The Procurator General’s Committee for Legal Statistics reported that during the year 1282 complaints of torture were registered, which is 15 percent more than in 2013. Out of the 1282 complaints, 71 criminal cases on torture were launched, and 34 police officers were convicted. In 2013 the Kazakhstani Commission on Human Rights, which advises the president on human rights issues, reported that cases of torture and other kinds of cruel treatment, although not systemic, continued to exist in the penitentiary system and that law enforcement officers used torture and other illegal methods in investigations. The ombudsman on human rights reported in 2013 that he received 43 complaints about torture, violence, and other cruel and degrading treatment and punishment. The ombudsman can either issue a recommendation directly to the relevant agency or release a public statement, but he cannot legally force agencies to comply with his recommendations.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were generally harsh and sometimes life-threatening, and facilities did not meet international health standards. Health problems among prisoners went untreated in many cases or were exacerbated by prison conditions, such as a widespread lack of heating and proper ventilation. There was an overall scarcity of medical care.</p>
+<p><u>Physical conditions</u>: At year’s end there were 42,114 prisoners in detention facilities.</p>
+<p>Abuse occurred in police cells, pretrial detention facilities, and prisons. Observers cited severe overcrowding, poor treatment of inmates and detainees, and the lack of professional training programs for administrators as the primary problems. The Interior Ministry reported a 50 percent shortage of medical personnel in prison facilities. Tuberculosis mortality, however, declined 68 percent. During prison admissions, medical personnel noted 447 HIV cases, 400 cases of tuberculosis, and 1,400 other diagnoses. In 2012 Aigul Katrenova, head of the Committee of the State Sanitary-Epidemiology Inspectorate of the Ministry of Health, identified the following persistent problems: insufficient access to medical care, lack of monitoring of antiretroviral treatment of HIV-infected prisoners, shortage of medical personnel, lack of infectious disease doctors, and shortages in medication. PRI reported there was a widespread lack of heating and adequate ventilation within the prison system. Prisoners had access to potable water.</p>
+<p>The government reported 39 deaths in pretrial detention centers and police cells in 2012, and PRI reported 220 deaths in prisons as a result of illness and 59 due to other reasons, including suicide. PRI also reported 37 deaths as a result of tuberculosis during the first eight months of 2013.</p>
+<p>The government reported 14 suicides in pretrial detention facilities and police cells in 2011. There were no figures for subsequent years.</p>
+<p>In 2012 (the latest available statistics) there were 340 cases of reported self-mutilation protesting harsh prison conditions and abuse.</p>
+<p><u>Administration</u>: Alternatives for sentencing nonviolent offenders were used more frequently during the year. The Procurator General’s Office reported 14,250 prisoners received alternative punishments. Imprisonment was imposed in 36.7 percent of court decisions. Authorities released on bail approximately 3,700 individuals. The new criminal code introduces alternative sentences including fines and public service. Recordkeeping on prisoners was adequate. Although individual prison ombudsmen were not available to accept prisoners’ complaints, the national human rights ombudsman received and responded to complaints from prisoners.</p>
+<p>According to observers, prisoners and detainees generally had reasonable access to visitors. The 2011 Law on Religious Activity eliminated prayer rooms and religious facilities in prisons, and they reported that prison administrators interfered with prisoners’ religious observance. According to the Law on Religion, a prisoner in need of “religious rituals” or his relatives may ask to invite a representative of a registered religious organization, provided the carrying out of religious rites, ceremonies, and/or meetings does not obstruct the activity of the prison or violate the rights and legal interests of other individuals.</p>
+<p><u>Independent Monitoring</u>: There were no international independent monitors, including from the International Committee of the Red Cross. The newly created NPM’s monitoring groups, included significant participation by representatives of prominent human rights NGOs. Due to the relative newness of the NPM, its effectiveness in monitoring prison conditions could not be fully assessed.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, but the practice occurred. According to the Procurator General’s Office, during the first half of the year, security forces illegally detained 954 individuals.</p>
+<p>On May 29, police in Astana detained dozens of activists who were protesting the country’s entry into the Eurasian Economic Union (EEU). The activists wore surgical masks and held posters saying, “Protect Yourself from Russia’s Imperial Virus!” On the same day, police arrested activist Yermek Narymbayev near his home in Almaty, allegedly for encouraging citizens to wear surgical masks as a sign of protest against the EEU. Earlier, on May 27, police detained 20 anti-EEU activists protesting in a village near Astana. A court convicted 10 of the activists, including a journalist from Radio Free Europe/Radio Liberty and the internet TV channel 16/12, for minor hooliganism and sentenced them to between three and four days’ detention.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Internal Affairs supervises the national police force, which has primary responsibility for internal security, including investigation and prevention of crimes and administrative offenses, and maintenance of public order and security. The Agency of Civil Service Affairs and Anti-Corruption has administrative and criminal investigative powers. The Committee for National Security (KNB) plays a role in border security, internal security, antiterrorism efforts, and the investigation and interdiction of illegal or unregistered groups, such as extremist groups, military groups, political parties, religious groups, and trade unions. The KNB, Syrbar (a separate foreign intelligence service), and Agency of Civil Service Affairs and Anti-Corruption report directly to the president. Many government ministers maintained personal blogs where citizens could register complaints.</p>
+<p>Although the government took some steps to prosecute officials who committed abuses, impunity existed.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Although the judiciary has the authority to deny or grant arrest warrants, judges authorized prosecutors’ warrant requests in the vast majority of cases. In 2012 the courts authorized 11,263--representing 95 percent--of prosecutors’ requests for warrant arrests. Prosecutors continued to have the power to authorize investigative actions, such as search and seizure.</p>
+<p>Persons detained, arrested, or accused of committing a crime have the right to the assistance of a defense lawyer from the moment of detention, arrest, or accusation. The criminal procedure code in effect during the year did not require police to inform detainees that they have the right to an attorney, and police did not do so. The new Criminal Procedure Code, which goes into effect January 1, 2015, introduces an obligation for the police to inform the detainees about all their rights, including the right to an attorney. Human rights observers alleged that law enforcement officials dissuaded detainees from seeing an attorney, gathered evidence through preliminary questioning before a detainee’s attorney arrived, and in some cases used corrupt defense attorneys to gather evidence. The law states that the government must provide an attorney for an indigent suspect or defendant when the suspect is a minor, has physical or mental disabilities, or faces serious criminal charges, but public defenders often lacked the necessary experience and training to assist defendants. Defendants are barred from freely choosing their defense counsel if the cases against them involve state secrets; the law allows only lawyers who have special clearance to work on such cases.</p>
+<p><u>Arbitrary Arrest</u>: Prosecutors reported continuing problems with arbitrary arrest and detention. According to the General Procurator’s Office, authorities illegally arrested 104 persons and unlawfully detained 209 during 2012 and the first half of 2013.</p>
+<p>The government frequently arrested and detained opponents and critics, sometimes for minor infractions such as unsanctioned assembly, which incurred either fines or up to 10 days’ administrative arrest. According to the law, detainees may remain in pretrial detention for up to two months. Depending on the complexity and severity of the alleged offense, authorities may extend the term for up to one year while the investigation takes place. The pretrial detention term cannot be longer than the potential sentence for the offense.</p>
+<p><u>Pretrial Detention</u>: The law allows police to hold a detainee for 72 hours before bringing charges. Human rights observers criticized this period as too lengthy and said that authorities often used this phase of detention to torture, beat, and abuse inmates to extract confessions. A bail system exists but was not used widely, and many individuals remained in pretrial detention until their trial.</p>
+<p>The new criminal code introduces the concept of conditional release on bail. The bail system is designed for persons who commit a criminal offense for the first time or for a crime of minor or moderate severity not associated with causing death or grievous bodily harm of the victim, provided that the penalties for committing such a crime contain a fine as an alternative penalty.</p>
+<p>The law grants prisoners prompt access to family members, although prisoners were sometimes sent to facilities located far from their homes and relatives, thus restricting access for those who could not afford to travel.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law does not provide for an independent judiciary. The executive branch sharply limited judicial independence. Procurators enjoyed a quasi-judicial role and had the authority to suspend court decisions.</p>
+<p>Corruption was evident at every stage of the judicial process. Although judges were among the most highly paid government employees, lawyers and human rights monitors alleged that judges, prosecutors, and other officials solicited bribes in exchange for favorable rulings in many criminal and civil cases. On July 24, Astana’s Almaty District Court sentenced former Astana judge Abdulla Kenzhayev, a former Astana Specialized Interregional Economic Court justice, to six years in prison after finding him guilty of taking a 750,000 tenge ($4,100) bribe for a favorable ruling between two businesses in a civil case.</p>
+<p>Military courts have jurisdiction over civilian criminal defendants in cases allegedly connected to military personnel. Military courts use the same criminal code as civilian courts.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>All defendants enjoy a presumption of innocence and are protected from self-incrimination under the law. Trials are public except in instances that could compromise state secrets or when necessary to protect the private life or personal family concerns of a citizen. Only defendants charged with capital crimes facing the death penalty or a life sentence are entitled to trial by jury.</p>
+<p>Courts conducted jury trials for aggravated murder cases. Observers noted that the juror selection process was inconsistent and that judges, who deliberated with the jurors, tended to dominate the process. The Supreme Court reported that during the year, there were 65 jury trials, compared with 198 in 2013.</p>
+<p>Indigent defendants in criminal cases have the right to counsel and to a government-provided attorney. Under the criminal procedure code, a defendant must be represented by an attorney when the defendant is a minor, has mental or physical disabilities, does not speak the language of the court, or faces 10 or more years of imprisonment. Defense attorneys, however, reportedly participated in only one-half of criminal cases, in part because the government failed to pay them. The law also provides defendants the right to be present at their trials, to be heard in court, to confront witnesses against them, and to call witnesses for the defense. They have the right to appeal a decision to a higher court. According to observers, procurators dominated trials, and defense attorneys played a minor role.</p>
+<p>Domestic and international human rights organizations reported numerous problems in the judicial system, including lack of access to court proceedings, lack of access to government-held evidence, frequent procedural violations, poor explanation of rights to defendants, denial of defense counsel motions, and failure of judges to investigate allegations that authorities extracted confessions through torture or duress. Courts convicted 25,079 individuals and acquitted 458.</p>
+<p>Lack of due process was a problem, particularly in a handful of politically motivated trials involving protests by opposition activists and in cases in which there were allegations of improper political or financial influence. In August authorities denied Vladimir Kozlov relocation to a low-security prison due to four reprimands of which he was reportedly not aware. According to KIBHR Chairman Yevgeniy Zhovtis, it is illegal to reprimand a prisoner without notifying him. Zhovtis noted it was a common practice for the administration of a colony to use reprimands to deprive a person of his right to “easing the measure of imprisonment.”</p>
+<p>Human rights and international legal observers noted investigative and prosecutorial practices that emphasized a confession of guilt over collection of other evidence in building a criminal case against a defendant. Courts generally ignored allegations by defendants that officials had obtained confessions by torture or duress.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>In 2012 the Mangystau Inter-District Court sentenced Vladimir Kozlov, leader of the unregistered political opposition party Alga, to seven and one-half years in prison for “forming a criminal group, inciting social discord, and calling for the violent overthrow of the constitutional order.” The charges were linked to 2011 violence that broke out between police and striking oil workers in the western city of Zhanaozen. Kozlov and members of the now-banned Alga Party provided the strikers with support and financial assistance; however, no evidence linking them to violence or calls for the overthrow of the government was presented in court. The charge of inciting social discord was based on an interpretation of the law that established the government as a social group “analogous to a race, tribe, religion, or class,” and most NGOs and international observers characterized the charges as politically motivated. In August 2013 the Supreme Court refused to consider Kozlov’s appeal, and he remained in custody at year’s end.</p>
+<p>In 2013 a group of civil society activists published a list including the names of at least nine individuals whom they considered to be detained or imprisoned based on politically motivated charges. Four of them were released during the year: Kashkumbayev, Tuletayeva, Kharlamov, and Mukhortova.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Economic and administrative court judges handle civil cases under a court structure that largely mirrors the criminal court structure. Although the law and constitution provide for judicial resolution of civil disputes, observers viewed civil courts as corrupt and unreliable. Litigants reported difficulty in having judgments enforced, particularly if they did not pay a percentage to the court administrator.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit privacy violations; however, the government at times infringed on these rights.</p>
+<p>The law provides procurators with extensive authority to limit citizens’ constitutional rights. The KNB, the Ministry of Internal Affairs, the now-defunct Financial Police, and other agencies, with the concurrence of the Procurator General’s Office, may infringe on the secrecy of private communications and financial records, as well as on the inviolability of the home. Courts may hear an appeal of a procurator’s decision but cannot issue an immediate injunction to cease an infringement. The criminal procedure code allows wiretapping in medium, urgent, and grave cases.</p>
+<p>Government opponents, religious leaders, human rights defenders, and their family members continued to report the government occasionally monitored their movements.</p>
+<p>Temirtau City Court sentenced two former employees of the Ministry of Internal Affairs’ Department for Combating Drug Trafficking in Karaganda province to six years in prison for abuse of authority and violating the inviolability of the home. In December 2013 police beat journalist Zhanbota Sagidolda in the entranceway of her apartment. Although the two parties agreed on a settlement, which normally halts prosecution, the court pronounced the sentence.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section2"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>While the constitution provides for freedom of speech and of the press, the government limited freedom of expression and exerted influence on the media through a variety of means, including laws, harassment, licensing regulations, internet restrictions, and criminal and administrative charges. Judicial actions against journalists and media outlets, including civil and criminal libel suits filed by government officials, led to the suspension of several media outlets and encouraged self-censorship.</p>
+<p>In January the prime minister signed a decree establishing rules on additional measures and restrictions during “social emergencies,” defined as “an emergency on a certain territory caused by contradictions and conflicts in social relations that may cause or have caused loss of life, personal injury, significant property damage, or violation of conditions of the population.” In these situations the government can censor media sources by requiring them to provide their print, audio, and video information to the authorities 24 hours before issuance/broadcasting for approval. Political parties and public associations can be suspended or closed should they obstruct the efforts of security forces. The regulations also allow the government to restrict or ban copying equipment, radio and broadcasting equipment, and audio and video recording devices and temporarily seize sound-enhancing equipment.</p>
+<p><u>Freedom of Speech</u>: The government limited individuals’ ability to criticize the country’s leadership, and regional leaders attempted to limit criticism of their actions in the local media. The law prohibits insulting the president, the president’s family, and other senior officials.</p>
+<p>The new criminal code penalizes intentionally spreading false information with fines of up to 12.96 million tenge ($71,000) and imprisonment for up to 10 years.</p>
+<p><u>Press Freedoms</u>: According to official statistics, the government owned 16 percent of the country’s media outlets in 2013. Many privately owned newspapers and television stations received government subsidies. Companies allegedly controlled by members of the president’s family or loyal associates owned the majority of those broadcast media outlets that the government did not control outright. According to media observers, the government wholly or partly owned most of the seven nationwide television broadcasters. Regional governments owned several frequencies, and the Ministry of Investment and Development distributed those frequencies to independent broadcasters via a tender system.</p>
+<p>All media are required to register with the Ministry of Investment and Development, although websites are exempt from this requirement.</p>
+<p>The law limits the simultaneous broadcast of foreign-produced programming to 20 percent of a station’s weekly airtime. This provision burdened smaller, less-developed regional television stations that lacked resources to develop programs, although the government did not sanction any media outlet under this provision.</p>
+<p>For a few days in April, authorities blocked access to the website of the newspaper <i>Uralskaya Nedelya</i> in West Kazakhstan (<i>uralskweek.kz</i>). Subscribers of Kazakhtelecom JSC and Kcell were not able to access the website. Editor in chief of the newspaper Lukpan Akhmedyarov believed that the website was blocked because it published information on an April 12 meeting criticizing the government’s plans to join Russia and Belarus in establishing a Eurasian Economic Union. During the first half of the year, the information portal Azattyk (the Kazakhstani bureau of Radio Freedom/Radio Liberty) reported its website had also been blocked on several occasions.</p>
+<p><u>Violence and Harassment</u>: During the year press advocacy NGO Adil Soz recorded 16 attacks on editorial offices and journalists, compared with nine in 2013. According to the NGO, reporters were prevented from carrying out their duties in 30 instances between January and September, and authorities denied or significantly restricted journalists’ access to public information 230 times, compared with 187 times in 2013.</p>
+<p>Journalists working in opposition media and those covering stories related to corruption reported harassment and intimidation by government officials and private actors.</p>
+<p>On April 15, journalists of television channels KTK, 31 Channel, the Kazakhstan news agency Interfax-Kazakhstan, Radio Azattyk (Radio Freedom/Radio Liberty), and Internet Channel 16/12 covered a protest in Astana, where women with children chained themselves to the fence near the General Procurator’s Office to protest the state’s exercise of eminent domain. The protesters had been evicted from their homes and said that the compensation was too low to afford another house in Astana. Radio Azattyk reporter Svetlana Glushkova reported that police did not allow the journalists to film the protest and twisted the arms of journalists and cameramen. The cameraman of 16/12 Internet Channel received a head injury for filming the protest.</p>
+<p><u>Censorship or Content Restrictions</u>: The law enables the government to restrict media content through amendments that prohibit undermining state security or advocating class, social, race, national, or religious discord. Owners, editors, distributors, and journalists may be held civilly and criminally responsible for content unless it came from an official source. The government used this provision to limit media freedom.</p>
+<p>In April the president signed legislation to allow the procurator general to suspend access to the internet and other means of communication without a court order. When communication networks used “for criminal purposes to harm the interests of an individual, society, or the state, or to disseminate information violating the Election Law of Kazakhstan or containing calls for extremist or terrorist activities, riots, or participation in mass (public) activities carried out in violation of the established order,” the procurator general can suspend communication services.</p>
+<p>On April 21, the Medeusky District Court in Almaty ruled the newspaper <i>Assandi Times</i> constituted a “structural part” of the opposition <i>Respublika</i> newspaper, which was banned for alleged extremism in 2012, and therefore must stop its operations. On June 12, the Almaty City Court upheld the decision.</p>
+<p>On November 20, the Medeusky District Court bailiff delivered a court order suspending operations of leading independent journal <i>ADAMbol</i>. According to a complaint filed by the Almaty akim’s office, the magazine’s August 29 issue contained an article containing “signs of war propaganda.” On December 24, the Medeusky District Court ruled the magazine be closed. At year’s end the magazine was shuttered, and an appeal was pending.</p>
+<p><u>Libel Laws/National Security</u>: The law on state secrets criminalizes the release of information regarding the health, finances, or private life of the president, as well as economic information such as data about mineral reserves or government debts to foreign creditors. To avoid possible legal problems, media outlets often practiced self-censorship regarding the president and his family.</p>
+<p>Private parties can initiate criminal libel suits without independent action by the government, and an individual filing such a suit is also able to file a civil suit based upon the same allegations. Officials used the law’s libel and defamation provisions to restrict media outlets from publishing unflattering information. Both the criminal and civil codes contain articles establishing broad liability for libel, with no statute of limitation or maximum amount of compensation. The requirement that owners, editors, distributors, publishing houses, and journalists prove the veracity of published information, regardless of its source, encouraged self-censorship at each level.</p>
+<p>The new criminal code significantly increases penalties for defamatory remarks made in the mass media or “information-communication networks.” The three parts of the new code’s article 130 are: part 1, simple libel; part 2, libel committed publicly or through media or communication networks; and part 3, libel as described in part 2, but accusing a person of corruption, a severe or especially severe crime, or leading to severe consequences. Maximum fines for each part increase from approximately 370,400 tenge ($2,000) for part 1; 926,000 tenge ($5,000) for part 2; and house arrest to imprisonment, but without any fine for part 3 to approximately 1.852 million tenge ($10,000); 3.704 million tenge ($20,000) and 5,556 million tenge ($30,000). In addition, article 130 carries potential prison terms of one, two, or three years for violations under parts 1, 2, and 3. Journalists and freedom of speech activists fear this provision will strengthen the government’s ability to restrict investigative journalism and be used for political purposes.</p>
+<p>NGOs reported that libel cases against journalists and media outlets remained a problem. During the year Adil Soz cited 38 criminal cases against media outlets and journalists, including eight cases where the defendants were charged with inciting interethnic and religious hatred or discord. There were also 106 instances of civil charges against media outlets and journalists during the year.</p>
+<p>On March 5, a court opened a criminal defamation case against independent journalist Natalya Sadykova. The case was initiated when a former parliamentarian, Marat Itegulov, claimed an article published on the <i>Respublika</i> online portal was aimed at defaming him. He accused Natalia of authoring the article under a pseudonym. On March 17, the Aktobe City Court sanctioned Natalia’s arrest in absentia. Since March 9, Natalya and her family have remained in Ukraine.</p>
+<p>The Law on National Security prohibited “Influencing public and individual consciousness to the detriment of national security through the deliberate distortion of information.” According to experts, the term “unreliable information” is overly broad. The law also requires owners of communication networks and service providers to obey the orders of authorities in case of terrorist attacks or the government’s order to enact the suppression of mass riots.</p>
+<p>The law prohibits publication of any statement that promotes or glorifies “extremism” or “incites social discord,” terms international legal experts said the government had not clearly defined. The government subjected media outlets that criticized the president to intimidation, such as law enforcement actions or civil suits. Although these actions continued to have a chilling effect on media outlets, some criticism of government policies continued. Incidents of local government pressure on the media continued.</p>
+<p>On July 30, an Almaty court found Zharylkap Kalybay, chief editor of the magazine <i>Zhuldyzdar Otbasy-Anyz Adam</i> (Celebrities Family-Legendary People), guilty of “propagating and justifying extremism.” The court fined Kalybay 27,780 tenge ($150) and the magazine 129,640 tenge ($700). The court also ruled the magazine’s April issue had to be confiscated. The issue contained photographs and memories of Adolph Hitler from his associates and friends. It also included excerpts from Hitler’s <i>Mein Kampf</i>. In June the same court found the issue dedicated to Hitler insulted 13 veterans of World War II and ruled Kalybay must pay 991,000 tenge ($5,350) to each of the plaintiffs.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>Observers reported the government blocked or slowed access to opposition websites and planted progovernment propaganda in internet chat rooms. The state regulated the country’s 22 internet providers, including the state-owned Kaztelecom. Nevertheless, websites expressed a wide variety of views, including viewpoints critical of the government. The UN Broadband Commission for Digital Development reported 55 percent of the population had internet access in 2013.</p>
+<p>The Ministry of Culture and Sport controlled the registration of “.kz” internet domains. Authorities may suspend or revoke registration for locating servers outside the country. Observers criticized the registration process as unduly restrictive and vulnerable to abuse.</p>
+<p>Adil Soz reported 25 cases of blocking or restricting access to websites during the first half of the year. The government’s intermittent blocking of the website LiveJournal continued, although the site remained accessible outside the country. Bloggers reported anecdotally their sites were periodically blocked, including the independent news sites <i>ratel.su</i>, <i>uralskweek.kz</i>, <i>socialismkz.info</i>, and <i>www.janaozen.net</i>, as well as the website of the banned newspaper <i>Respublika</i>. Websites such as <i>respublika-kaz.info</i>, <i>guljan.org</i>, and <i>kplustv.net</i> were permanently blocked.</p>
+<p>Courts frequently suspended opposition websites while considering claims against them.</p>
+<p>In 2011 the government implemented regulations on internet access that mandated surveillance cameras in all internet cafes, required visitors to present identification to use the internet, demanded internet cafes keep a log of visited websites, and authorized law enforcement officials to access the names and internet histories of users. In April the president signed a law further restricting freedoms of communication (see section 2.a., Censorship or Content Restrictions).</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government generally did not restrict academic freedom, although academics, like other citizens, were prohibited from infringing on the dignity and honor of the president and his family. Many academics practiced self-censorship.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for limited freedom of assembly, but there were significant restrictions on this right, and police used force to disrupt peaceful demonstrations.</p>
+<p>On February 15, an estimated 200 persons gathered in Almaty to participate in an unsanctioned rally against the devaluation of the tenge. The protesters did not follow the procurators’ instructions to disperse, and police dispersed the rally and violently forced the protesters into vans. Police arrested a total of 32 individuals. One participant in the rally, Adilkhan Yermekov, received a 10-day sentence, while the remaining defendants received financial penalties ranging from 5,556 tenge ($30) to 37,000 tenge ($200).</p>
+<p>The law defines unsanctioned gatherings, public meetings, marches, demonstrations, illegal picketing, and strikes that upset social and political stability as national security threats.</p>
+<p>Article 400 of the new criminal code introduces penalties for organizing or participating in illegal gatherings and for providing organizational support in the form of property, means of communication, equipment, and transportation, if the enumerated actions cause significant damage to the rights and legal interests of citizens, entities, or legally protected interests of the society or the state.</p>
+<p>Under the laws governing public assembly, organizations must apply to local authorities for a permit to hold a demonstration or public meeting at least 10 days in advance. Opposition figures and human rights monitors complained that complicated and vague procedures and the 10-day notification period made it difficult for groups to organize public meetings and demonstrations and noted local authorities turned down many applications for demonstrations or only allowed them to take place outside of the city center.</p>
+<p>Authorities often briefly detained and fined organizers of unsanctioned gatherings, including political party gatherings. The KIBHR, which monitored demonstrations in the seven largest cities, recorded 81 peaceful demonstrations during the first seven months of the year, 94 percent of which were unsanctioned. The government sanctioned five demonstrations, mostly by progovernment groups.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for limited freedom of association, but there were significant restrictions on this right. Any public organization set up by citizens, including religious groups, must be registered with the Ministry of Justice, as well as with the local departments of justice in every region in which the organization conducts activities. The law requires public or religious associations to define their specific activities, and any association that acts outside the scope of its charter may be warned, fined, suspended, or ultimately banned. Participation in unregistered public organizations may result in administrative or criminal penalties, such as fines, imprisonment, the closure of an organization, or the suspension of its activities.</p>
+<p>Membership organizations other than religious groups, which are covered under separate legislation, must have 10 members to register at the local level and must have branches in more than half of the country’s regions for national registration. The government considered political parties and labor unions to be membership organizations but required political parties to have 40,000 signatures for registration. If authorities challenge the applications by alleging irregular signatures, the registration process can continue only if the total number of eligible signatures exceeds the minimum number of signatures required. The law prohibits parties established on an ethnic, gender, or religious basis. The law also prohibits members of the armed forces, employees of law enforcement and other national security organizations, and judges from participating in trade unions or political parties.</p>
+<p>NGOs reported the NGO registration process was straightforward, although corruption in the process was common. NGOs involved in human rights advocacy and political activities faced greater administrative delays and other obstacles, although there were no reports the government denied registration or closed organizations.</p>
+<p>The new criminal code includes a new term--leader of a public association--which is defined as the head of an organization, or a participant who has the ability to affect the management and activities of the organization through his or her influence or authority. The “ability to influence” the activity of an organization is not defined; it had a potentially negative impact on NGO and political party membership and left all members vulnerable to vague charges such as inciting social discord or propagating extremism.</p>
+<p>Members of public associations are banned from “illegal interference” in the activities of the government. Article 403 of the new criminal code prohibits the illegal interference by members of public associations in the activities of the government, with a fine of up to 555,600 tenge ($3,000) or imprisonment for up to 75 days. If committed by the leader of the organization, the fine can be up to 926,000 tenge ($5,000) or no greater than 90 days’ imprisonment. “Illegal interference” is not clearly defined in the law.</p>
+<p>According to article 489 of the new Code of Administrative Violations, public associations, along with an association’s leaders and members, can face fines for performing activities outside the association’s charter. It was unclear what the delineation was between actions an NGO member takes in his or her private capacity versus as part of an organization.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of movement within the country, foreign travel, emigration, and repatriation, and despite some regulatory restrictions, the government generally respected these rights. The government cooperated with the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations to provide protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-country Movement</u>: The government required all citizens and foreigners who remained in the country for more than five days to register with the migration police. Foreigners entering the country had to register at certain border posts. Registration in most of the country generally was routine; nonetheless, some foreigners reported local authorities occasionally requested bribes before completing registration. Migration police routinely checked the registrations of foreigners, including labor migrants, and reportedly requested bribes on occasion. Some foreigners experienced problems traveling to regions outside their registration area. The government developed a new <i>Concept on Improving Migration Policy</i> covering internal migration, repatriation of ethnic Kazakh returnees (oralmans), and external labor migration. There is a registration exemption for families of legal migrant workers for a 30-day period after the worker starts employment. The government has broad authority to deport those who violate the regulations.</p>
+<p>The government has not reported the number of foreigners deported for gross violation of visitor rules since 2011. During the first nine months of 2011, the Ministry of Internal Affairs deported 12,644 foreigners for alleged gross violations of the visitor rules, the majority of whom were citizens of countries in the Commonwealth of Independent States (CIS). Individuals facing deportation can request asylum if they fear persecution in their home country. According to the UNHCR, during the year there were 633 refugees in the country, 89 asylum seekers, and 7,038 stateless persons. The government required persons who were suspects in criminal investigations to sign statements they would not leave their city of residence. Authorities routinely detained individuals for identity checks despite having no suspicion of a criminal offense.</p>
+<p>Authorities required foreigners to obtain prior permission to travel to certain border areas adjoining China and cities in close proximity to military installations. The government continued to declare particular areas closed to foreigners due to their proximity to military bases and the space launch center at Baikonur.</p>
+<p><u>Foreign Travel</u>: Although the government did not require exit visas for the temporary travel of citizens, there were certain instances in which the government could deny exit from the country, including in the case of travelers subject to pending criminal or civil legal proceedings, unfulfilled prison sentences, unpaid taxes or fines, or compulsory military duty. Travelers who presented false documentation during the exit process could be denied the right to exit, and authorities controlled travel by active-duty military personnel. The law on national security required persons who had access to state secrets obtain permission from their employing government agency for temporary exit from the country.</p>
+<p><u>Exile</u>: The law does not prohibit forced exile if authorized by an appropriate government agency or through a court ruling.</p>
+<p><u>Emigration and Repatriation</u>: The law provides for the right to emigrate and the right to repatriate, and the government generally respected these rights. An exception is the law on national security, which prohibits persons who had access to state secrets from taking up permanent residence abroad for five years after leaving government service. The government required a permanent exit visa for emigration; obtaining this visa required criminal checks, credit checks, and letters from parents and any dependents over the age of 10 expressing no objection to exit visa issuance.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>The government cooperated with the UNHCR and other organizations to provide protection and assistance to refugees from countries where their lives or freedom would be threatened on account of their race, religion, nationality, membership in a particular social group, or political opinion. The government recognized 13 persons as refugees during the year.</p>
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The UNHCR legally can appeal to the government and interfere on behalf of individuals facing deportation. The law on refugees, which is implemented through a number of regulations and by-laws, regulates the granting of asylum and refugee status.</p>
+<p><u>Access to Basic Services</u>: The law on refugees outlines refugee status determination procedures and access to state services, including the right to be legally registered and issued official documents. The Department on Migration Police under the Ministry of Internal Affairs conducts status determination procedures. Observers reported committee representatives lacked expertise, which the UNHCR attributed to rushed implementation of the law. The law stipulates refugees have the right to education and social services, but administrative regulations and the prohibitive cost of services often precluded the exercise of this right. Refugees received temporary resident status that must be renewed annually, which hindered their access to the full range of rights guaranteed to them by the 1951 convention. The majority of refugees have been residing in Kazakhstan for more than 10, some for 20 years, and still did not have access to labor, health care, and education on an equal basis as citizens. Refugees, given the temporary nature of their migratory status, do not have the right to acquire the nationality of Kazakhstan. In addition refugees are precluded from obtaining the status of permanent residents, because the legislation requires them to submit a number of documents, such as bank certificates proving financial solvency or documents that should be acquired from their countries of origin and visa for permanent residence acquired prior to arrival in Kazakhstan, which refugees by virtue of their situation were unable to provide. Even if they were able to fulfill all the required criteria for permanent resident status, they could still be rejected for reasons of security.</p>
+<p>The government generally registered asylum seekers and determined their status; in some cases it allowed asylum seekers and refugees to stay in the country while the UNHCR sought third countries that would accept them.</p>
+<p>The UNHCR reported cordial relations with the government in assisting refugees and asylum seekers. The government usually allowed the UNHCR access to detained foreigners to ensure proper treatment and fair determination of status. The government was generally tolerant in its treatment of local refugee populations, except for a few citizens from former Soviet republics. The government often did not allow refugees without passports or those who had entered the country illegally to register.</p>
+<p>The Department on Migration Police under the Ministry of Internal Affairs reviewed refugee claims, with the UNHCR and a local NGO, KIBHR, participating as observers. Consistent with the Minsk Convention on Migration within the CIS, the government did not recognize Chechens as refugees. Chechens were eligible for temporary legal resident status for up to 180 days, as are any other CIS citizens. This temporary registration was renewable, but local migration officials have discretion over the renewal process. In some cases they solicited bribes, exploiting the vulnerability of Chechens due to their inability to return safely to Chechnya. The government has an agreement with China not to tolerate the presence of ethnic separatists from one country on the territory of the other; the UNHCR reported no new cases of Uighur refugees during the year. Human rights monitors remained concerned about the status of Uighurs from China already living in the country.</p>
+<p>The government did not forcibly return any UNHCR-mandate refugees but did extradite three asylum seekers registered by the government before the decision on their asylum claims was taken.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>Estimates of the number of stateless persons varied. According to Department on Migration Police, there were 7,038 officially recognized stateless persons in the country by end of 2014. The Ministry of Justice estimated there were 21,000 stateless persons; in comparison, 57,000 persons self-identified as stateless in the 2009 census. Stateless persons were generally holders of Soviet passports who failed to renew their documents after independence, ethnic Kazakh repatriates, and labor migrants. Although provided with the same rights as individuals with resident permits, stateless persons reported difficulty finding legal employment and had limited access to education and health care. The UNHCR continued to work with government officials and parliamentarians to obtain reliable data on stateless persons and improve citizenship legislation. In July the UNHCR together with the Department of Migration Police and KIBHR launched an awareness campaign to identify and register stateless persons. According to the Law on Citizenship, anyone can gain citizenship. A simplified procedure exists for ethnic Kazakhs; those with immediate relatives in Kazakhstan; and citizens of Ukraine, Belarus, Russia, and Kyrgyzstan, with which Kazakhstan has agreements. The law gives the government six months to consider an application for citizenship. Some applicants complained that, due to the lengthy bureaucratic process, obtaining citizenship often took years.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section3"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide for the ability of citizens to change their government through the right to vote in free and fair elections, with universal suffrage for those older than 18 years of age; however, the government severely limited exercise of these rights.</p>
+<p>Although 2007 constitutional amendments increased legislative authority in some spheres, the constitution continues to concentrate power in the presidency. The president appoints and dismisses most high-level government officials, including the prime minister, cabinet, procurator general, KNB chief, supreme court and lower-level judges, regional governors, and the chairman and two additional members of the Central Election Commission (CEC), which oversees presidential and parliamentary elections. The Mazhilis must confirm the president’s choice of prime minister, and the senate must confirm the president’s choice of procurator general, chief of the KNB, Supreme Court judges, and the head of the National Bank. The parliament has never failed to confirm a presidential nomination. Modifying or amending the constitution effectively requires the president’s consent. The 2007 constitutional amendments exempt President Nazarbayev from the two-term presidential term limit, and an amendment passed in 2010 gives him protection from prosecution.</p>
+<p>Two 2010 laws termed “Leader-of-the-Nation laws” establish President Nazarbayev as chair of the Kazakhstan People’s Assembly, grant him lifetime membership on the Constitutional and Security Councils, allow him “to address the people of Kazakhstan at any time,” and stipulate that all “initiatives on the country’s development” must be coordinated through him.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2011 President Nazarbayev dismissed the lower house of parliament (Mazhilis) and called for early parliamentary elections to take place in January 2012. The early election resulted in the formation of a multi-party parliament, with the president’s party, Nur Otan, holding the majority of seats. No members of parties considered to oppose the president were elected. According to the Organization for Security and Cooperation in Europe (OSCE), the competitiveness and pluralism of the electoral environment was undermined because the government barred several political parties and candidates from competing. Many OSCE monitors reported instances of ballot stuffing, carousel voting, and proxy voting. The OSCE’s assessment was that the election “did not meet fundamental principles of democratic elections.”</p>
+<p><u>Political Parties and Political Participation</u>: Political parties must register members’ personal information, including date and place of birth, address, and place of employment. This requirement discouraged many citizens from joining political parties. There were credible allegations authorities pressured persons entering government service to join the Nur Otan Party.</p>
+<p>There are nine political parties registered, including Ak Zhol, Birlik, and Auyl. One party remained registered even though it was defunct, leaving eight functioning parties. These parties generally did not oppose President Nazarbayev’s policies.</p>
+<p>In order to register, a political party must hold a founding congress with minimum attendance of 1,000 delegates, including representatives from two-thirds of the oblasts and the cities of Astana and Almaty. Parties must obtain at least 700 signatures from each oblast and the cities of Astana and Almaty, registration from the CEC, and registration from each oblast-level election commission. Opposition parties have not been able to register.</p>
+<p><u>Participation of Women and Minorities</u>: Traditional attitudes sometimes hindered women from holding high office or playing active roles in political life, although there were no legal restrictions on the participation of women or minorities in politics. As of September there were one female deputy prime minister, two female ministers, 28 female members of the Mazhilis (lower house of parliament), and three female senators.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section4"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials; however, the government did not implement the law effectively, and officials frequently engaged in corrupt practices with impunity. There were numerous reports of government corruption during the year.</p>
+<p><u>Corruption</u>: Corruption was widespread in the executive branch, law enforcement agencies, local government administrations, the education system, and the judiciary. The Ministry of Internal Affairs, the Financial Police (whose responsibilities were split in August between the Finance Ministry and the new Agency on Civil Service Affairs and Combatting Corruption), the KNB, and the Disciplinary State Service Commission are responsible for combating corruption. Opposition leaders and human rights NGOs accused the government of rampant corruption. In July the Financial Police arrested head of the Agency of Kazakhstan for Regulation of Natural Monopolies Murat Ospanov on charges of taking bribes in the amount of 54.3 million tenge ($300,000). Ospanov may face up to 15 years in prison with confiscation of property. His trial continued at year’s end.</p>
+<p>On October 16, the Specialized Interdistrict Criminal Court of Astana found former vice minister of agriculture Muslim Umiryayev guilty of taking a bribe, a crime under Article 311 of the criminal code, and sentenced him to 10 years’ imprisonment in a penal colony with confiscation of all his property. Umiryayev took a bribe of 18.523 million tenge ($100,000) and almost seven million tenge ($35,500) from a businessman to help him win in tendering for procurement of vaccines against foot and mouth diseases.</p>
+<p>The new criminal code toughens criminal liability and punishment for crimes related to corruption. Under the new code, probation is no longer allowed for corruption crimes. There is also an additional penalty of a life ban on employment in the civil service, as well as mandatory forfeiture of titles, ranks, grades, and state awards. The statute of limitation does not apply to persons charged with corruption.</p>
+<p><u>Financial Disclosure</u>: The law requires government officials, applicants for government positions, and those who have been recently released from government service to declare their income and assets in the country and abroad to tax authorities annually. The same requirement applies to their spouses, dependents, and adult children. Similar regulations exist for members of parliament and judges.</p>
+<p><u>Public Access to Information</u>: Although the law mandates that the government, public associations, officials, and media outlets provide citizens with information that affects their rights and interests, citizens’ requests for information were not fulfilled in a timely manner. NGOs reported problems with access to information from state agencies, citing red tape, poor content on official websites, and long lines in state agencies. According to an assessment by the local branch of Transparency International, all governmental ministries received poor transparency ratings except for the Ministry of Culture and Sport, which was evaluated as average.</p>
+<p>Although parliament published several draft laws, some parliamentary debates, and occasionally its recorded votes, many parliamentary activities took place outside public view. Accredited journalists and representatives of public associations could observe some parliamentary sessions via video link from a separate room. Transcripts of parliamentary sessions were not available to the public. Parliament continued to prohibit public and media access to discussion of controversial legislation.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section5"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups operated with some freedom to investigate and publish their findings on human rights cases, although some restrictions on human rights NGO activities remained. International and local human rights groups reported the government monitored NGO activities on sensitive issues and practiced harassment, including police visits and surveillance of NGO offices, personnel, and family members. Government officials often were uncooperative or nonresponsive to their views.</p>
+<p>According to some activists, there was a lessening of pressure from the government. The activists welcomed the Ministry of Foreign Affairs initiation of a Consultative Advisory Body (CAB) for dialogue on human rights and rule of law that includes government ministries and prominent international and domestic NGOs. The NGO community generally was positive about the creation of the CAB, saying the platform enabled greater communication with the government about issues of concern. The government and NGOs, however, did not agree on recommendations on issues the government considered sensitive, and some human rights concerns were dismissed from discussion. No concrete actions were taken as a result of CAB consultations.</p>
+<p>The KIBHR, Adil Soz, Freedom House, and PRI were among the most visibly active human rights NGOs. Many other NGOs were active on other issues. Some of them occasionally faced difficulties in acquiring office space and technical facilities. The government continued to participate in--and include NGOs in--roundtables and events on democracy and human rights.</p>
+<p>NGOs affiliated with, or suspected of being affiliated with, political opposition parties or figures reported harassment. On March 11, authorities launched an investigation against the Foundation Aman-Saulyk on allegations of money laundering. Financial Police searched the premises, including personal items, and seized computers, mobile phones, and documents. President Bakhyt Tumenova and accountant Lyudmila Zorina were taken to the Department of Financial Police for questioning. Zorina was detained overnight; Tumenova was released, but her apartment was searched. Tumenova previously was one of the leaders of the now-banned Alga political party and criticized the government for restricting the activities of independent NGOs. In 2012 her office was searched in connection with alleged links to fugitive banker Mukhtar Ablyazov.</p>
+<p><u>The United Nations and Other International Bodies</u>: In general the government did not prevent international NGOs and multi-lateral institutions dealing with human rights from visiting the country and meeting with local human rights groups and government officials. National security laws prohibit foreigners, international organizations, NGOs, and other nonprofit organizations from engaging in political activities. International organizations were prohibited from funding unregistered entities.</p>
+<p><u>Government Human Rights Bodies</u>: The Presidential Commission on Human Rights is a consultative and advisory body that includes members of the public appointed by the president. The commission reviews and investigates complaints, issues recommendations, monitors fulfillment of international human rights conventions, and publishes annual human rights reports in close cooperation with several international organizations, such as the UNHCR, OSCE, International Organization for Migration (IOM), and UN Children’s Fund. During 2013 the commission received 1,291 written and oral complaints. The commission does not have legal authority to remedy human rights violations or implement its recommendations. The ombudsman is the chairman of the Coordinating Council of the National Preventive Mechanism against Torture.</p>
+<p>In 2012 the presidentially appointed human rights ombudsman investigated approximately 1,300 citizen complaints of human rights violations by state agencies. The ombudsman was not authorized to investigate complaints concerning the president, heads of government agencies, the parliament, the cabinet, the Constitutional Council, the Procurator General’s Office, the CEC, or the courts. The Ombudsman’s Office has the authority to appeal to the president, cabinet, or parliament to resolve citizens’ complaints; cooperate with international human rights organizations and NGOs; meet with government officials concerning human rights violations; visit certain facilities, such as military units and prisons; and publicize in the media the results of investigations. The Ombudsman’s Office also published an annual human rights report. During the year the Ombudsman’s Office occasionally briefed the media and issued reports on complaints it had investigated.</p>
+<p>According to domestic human rights observers, the Ombudsman’s Office and the Human Rights Commission were unable to stop human rights abuses or punish perpetrators. The commission and ombudsman avoided addressing underlying structural problems that led to human rights violations, although they advanced human rights by publicizing statistics and individual cases, and aided citizens with less controversial social problems and issues involving lower-level elements of the bureaucracy.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section6"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>While the law prohibits discrimination based on race, gender, disability, language, or social status, the government did not effectively enforce the law. Violence against women, trafficking in persons, and discrimination against persons with disabilities and LGBT persons were reported.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape. The punishment for rape, including spousal rape, ranges from three to 15 years’ imprisonment. Under the law a procurator cannot initiate a rape case absent aggravating circumstances, such as gang rape, unless the victim files a complaint. Once a complaint is filed, the criminal investigation cannot be dismissed if the rape victim recants or refuses to cooperate further with the investigation. This provision was intended to protect victims from coercion. There were anecdotal reports of police and judicial reluctance to act on reports of rape, particularly in spousal rape cases.</p>
+<p>Violence against women, including domestic violence, was a problem. Legislation identifies various types of domestic violence, such as physical, psychological, sexual, and economic, and outlines the responsibilities of the local and national governments and NGOs in providing support to domestic violence victims. The law also outlines mechanisms for the issuance of restraining orders and provides for the 24-hour administrative detention of abusers. The criminal procedure code sets the maximum sentence for spousal assault and battery at 10 years in prison, which is the same as for any assault.</p>
+<p>In February the president signed a law aimed at preventing and combating domestic violence and helping victims of domestic abuse. The law raises punishment for offenders, who can now be banned from living with the victim if the perpetrator has somewhere else to live; allows victims of domestic violence to receive appropriate care regardless of the place of residence; replaces financial penalties with administrative arrest because paying fines hurt victims as well as perpetrators.</p>
+<p>NGOs maintained the domestic violence law does not have an effective mechanism for implementation. According to NGOs, domestic violence remained a serious problem. Although official statistics were scarce, activists estimated one in four families suffered from some form of domestic violence.</p>
+<p>Police intervened in family disputes only when they believed the abuse was life threatening. According to NGO estimates, police investigated approximately 10 percent of such cases.</p>
+<p>NGOs conducted training for police officers on how to handle victims of domestic violence. During the year the OSCE Center worked with the Interior Ministry to conduct five training seminars to increase the capacity of police inspectors of the ministry’s division in charge of women’s protection against violence. Another training goal was to enhance the knowledge and improve the skills of police to investigate and counter domestic violence.</p>
+<p>NGOs reported women often withdrew their complaints because of economic insecurity. When victims pressed charges for domestic violence or spousal rape, police occasionally tried to persuade them not to pursue a case. When domestic violence cases came to trial, the charge was most often light battery, for which judges sentenced domestic abusers to incarceration at a minimum-security labor colony and 120 to 180 hours of work. Sentences for more serious cases of battery, including spousal battery, ranged from three months to three years of imprisonment; the maximum sentence for aggravated battery is 10 years’ imprisonment.</p>
+<p>In 2013 the government stated 29 crisis centers assisted women and two centers assisted men, although NGOs reported the number of active centers was 20. All the crisis centers received funding through government and international grants to NGOs. A number of smaller NGOs assisted victims, and six of the crisis centers provided shelter for victims of violence.</p>
+<p><u>Other Harmful Traditional Practices</u>: Although prohibited by law, the practice of kidnapping women and girls for forced marriage continued in some remote areas. The criminal code has a prison sentence of eight to 10 years for kidnapping. A person who voluntarily releases an abductee is absolved of criminal responsibility if in this action he/she did not commit another offense. Because of this law, a typical bride kidnapper is not necessarily held criminally responsible for the act. Cases were typically not pursued, as families and victims usually withdrew their complaints, finding ways to resolve the problem privately. In 2013 only 17 percent of victims sought assistance from law enforcement agencies, while 51 percent counted on support from relatives. Law enforcement agencies often advised abductees to sort their situation out themselves. According to civil society organizations, making a complaint to police could be a very bureaucratic process and often subjected families and victims to humiliation. The government did not take action to address this issue.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment remained a problem. The law prohibits some forms of sexual harassment, but legal and gender experts regarded the legislation as inadequate. There were reports of incidents of harassment, but in no instance was the law used to protect the victim, nor were there reports of any prosecutions.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children and had the means to do so free from discrimination, coercion, or violence. Women and men received equal treatment for sexually transmitted infections. According to a study published by the UN Fund for Population, approximately 50 percent of women used some form of contraception. According to data published by the World Health Organization, skilled personnel attended more than 99 percent of births.</p>
+<p><u>Discrimination</u>: The constitution and law provide for equal rights and freedoms for men and women. The gender equality law prohibits discrimination based on gender. The law does not require equal pay for equal work. NGOs reported no government body assumed responsibility for implementing the legislation and asserted the definition of gender discrimination does not comply with international standards. More women than men were self-employed or underemployed relative to their education level. According to observers, women in rural areas faced greater discrimination than women in urban areas and suffered from a greater incidence of domestic violence, limited education, and employment opportunities, limited access to information, and discrimination in their land and property rights. According to the World Bank’s <i>Women, Business, and the Law</i> 2013 report, women in the country faced discrimination obtaining work in the same industries as men, and no laws protect women from sexual harassment in the workplace.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived both by birth within the country’s territory and from one’s parents. The government has a duty to register all births immediately.</p>
+<p><u>Child Abuse</u>: There were reports of child abuse. NGOs estimated more than one-half of all children younger than 14 experienced at least one incident of physical or psychological abuse by adults. Abuse was more common in rural areas. Minors age 16 or older have the right to file petitions related to their interests directly with a court.</p>
+<p>The president of the NGO Union of Crisis Centers stated the number of psychological abuse cases exceeded the number of physical abuse cases. In the first seven months of the year, the union’s hotline for children received 158 calls regarding child abuse, 60 percent of which were complaints about abused girls.</p>
+<p>There was one reported incident of child-selling. In July the South Kazakhstan Juvenile Court convicted a 27-year-old woman, a resident of Saryagash District, of selling her four children. The mother and her accomplice, a nurse at a rural outpatient clinic, who was in charge of finding buyers, were each sentenced to eight years in prison for trafficking in minors. The women who bought three children received seven-year suspended sentences.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age for marriage is 18 years, which can be reduced to 16 years in the case of pregnancy or mutual agreement. NGOs noted several cases of marriage under 18 years, especially in the south. Traditionally couples first married in mosques, and when the bride reached the legal age, the marriage would be registered officially. The government did not take any action to address this issue.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not prohibit FGM/C; however, this practice did not occur in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: The criminal code does not specify the minimum age for consensual sex, but an article provides for eight to 15 years in prison as punishment for individuals who force boys or girls under the age of 18 to have sexual intercourse.</p>
+<p>A statute criminalizes the production and distribution of child pornography and provides administrative penalties to cover the sale of pornographic materials to minors. The country retains administrative penalties for child pornography.</p>
+<p>The new criminal code toughens penalties for crimes against minors. Perpetrators convicted of sexual offenses against minors receive a lifetime ban on the right to engage in activities related to working with children.</p>
+<p><u>Displaced Children</u>: According to the Ministry of Education, 3,984 children were identified as “street children” during 2012. According to media reports, police placed homeless children in institutions run by the Ministry of Education for delinquent and street children. There they received medical and psychological assistance before they were released or sent to orphanages. During 2012 authorities sent 3,941 children back to their families and placed 25 children in orphanages and institutions for children deprived of parental care.</p>
+<p><u>Institutionalized Children</u>: NGOs reported many incidents of violence against children in orphanages, boarding schools, and detention facilities for delinquent children, and there were increased media reports of abuses in orphanages and other institutions. NGOs alleged half of the children in orphanages or closed institutions suffered from abuse by teachers or other children.</p>
+<p><u>International Child Abduction</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see the Department of State’s report at <a href="http://travel.state.gov/content/childabduction/english/country/Kazakhstan.html"><u>http://travel.state.gov/content/childabduction/english/country/Kazakhstan.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Approximately 30,000 to 40,000 Jews lived in the country. Leaders of the Jewish community reported no incidents of anti-Semitism by the government or in society.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>According to the Committee for Statistics, in 2013 there were 626,740 persons with disabilities (3.6 percent of the total population) in the country, although analysts argued the real number was higher. The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, and access to health care, and in the provision of other state services, but significant discrimination existed in the areas of employment, education, and access to government services.</p>
+<p>The law provides for access to information for persons with disabilities. The government produced periodicals, scientific journals, reference literature, and fictional works that were recorded either on disk or in Braille. The law requires one national television channel to broadcast news programs with sign-language interpretation. NGOs stated implementation of the law on disability was lacking, and the Nur Otan Party’s Institute of Parliamentary Development concluded access for disabled persons to information and communications was insufficient.</p>
+<p>The law requires companies to set aside 3 percent of their jobs for persons with disabilities. International and local observers noted some improvement regarding the rights of persons with disabilities. During the year the government showed commitment to addressing the rights of persons with disabilities, including high-level enforcement of measures to enhance economic opportunities for the disabled. Nevertheless, there were reports persons with disabilities faced difficulty integrating into society and finding employment. According to the Ministry of Healthcare and Social Development, in July only 95,642 persons with disabilities were employed, an increase of 9,727 people from the end of 2013. The law mandates access to buildings for persons with disabilities, but implementation remained poor. As of August the Ministry of Healthcare and Social Development reported 22,000 of 54,000 public buildings had provided access to persons with disabilities. The vice minister of labor and social protection identified the two biggest problems facing persons with disabilities as poor infrastructure and lack of access to education. Such persons had difficulty accessing public transportation. The government had enacted high-level enforcement of measures to enhance economic opportunities for citizens with disabilities, part of the president’s <i>Strategy 2050</i>.</p>
+<p>Citizens with mental disabilities could be committed to state-run institutions without their consent or judicial review, and the government committed persons at a young age with the permission of their families. Institutions were poorly managed and inadequately funded.</p>
+<p>There are no regulations regarding the rights of patients in mental hospitals. Human rights observers believed this led to widespread abuse of patients’ rights. NGOs reported that patients often were drugged and isolated for minor infractions, and experienced poor conditions and a complete lack of privacy. NGOs reported that orphanages for children with physical and mental disabilities were overcrowded and unsanitary, with insufficient staff to care adequately for children’s needs. Members of NPM may visit mental hospitals to monitor conditions and signs of torture of patients, but orphanages were not on the list of institutions NPM members can visit.</p>
+<p>The government did not legally restrict the right of persons with disabilities to vote and arranged home voting for individuals who could not travel to polling places inaccessible to them.</p>
+<p>The Ministry of Healthcare and Social Development was the primary government agency responsible for protecting the rights of persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Kazakh is the official state language, although local organizations may officially use Russian on an equal basis with Kazakh. The law does not require the ability to speak Kazakh for entry into the civil service and prohibits discrimination on the basis of language. Nonetheless, Kazakh language ability is looked upon favorably, which non-Kazakh speakers protest is language discrimination. The Election Law requires presidential candidates to be fluent in Kazakh.</p>
+<p>The creation of Kazakh-language schools and the conversion of some Russian-language schools to Kazakh reduced the overall number of Russian-only language schools.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The country does not criminalize consensual same-sex sexual activity. Although there were no government statistics on discrimination or violence based on sexual orientation or gender identity, there were reports of such actions. According to representatives of international and local organizations, negative social attitudes towards members of marginalized groups, including LGBT persons, impeded the willingness of the latter to come forward, organize, or seek access to HIV/AIDS programs. LGBT individuals, particularly gay men, were among the most oppressed groups.</p>
+<p>According to a 2009 Soros Foundation study, 64 percent of LGBT respondents said they did not face open discrimination in the workplace, although LGBT individuals often concealed their sexual orientation to avoid such discrimination. LGBT individuals whose sexual orientation became publicly known risked physical and verbal abuse, possible loss of work, and unwanted attention from police and other authorities. A local NGO working on LGBT issues noted new regulations made gender reassignment more cumbersome but cited a slight improvement in public awareness of LGBT rights. Several LGBT organizations operating in the country reported government-run HIV clinics occasionally breached confidentiality and reported patients’ sexual orientation to their families and employers. In 2011 and 2012, the NGO Amulet reported 16 attempts on the lives of LGBT persons and 298 cases of physical violence of varying degrees toward them. The organization reported 13 instances of LGBT persons dismissed from work on the basis of their sexuality and two cases of landlords' refusing to rent property to LGBT persons. In 2011 and 2012, the organization reported 115 cases of LGBT persons denied health care. In 2014 several public officials made inflammatory statements about the LGBT community, and there were reports of several anti-LGBT rallies outside nightclubs thought to welcome patrons from the LGBT community.</p>
+<p>NGOs reported members of the LGBT community seldom turned to law enforcement agencies to report violence against them because they feared hostility, ridicule, and occasionally violence. Additionally, they did not want law enforcement officers to notify their employers of their sexual orientation.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with HIV and AIDS. Observers reported cultural stigma against drug users and other at-risk groups resulted in societal discrimination that continued to affect access to information, services, treatment, and care.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section7"> </span><span class="st_twitter" st_title="Kazakhstan #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Kazakhstan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236640%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The country’s labor union laws protect workers’ right to unionize but jeopardize workers’ freedom of association.</p>
+<p>A trade union law passed in June restricts workers’ freedom of association by requiring existing independent labor unions to affiliate with larger unions at the industry sector or regional level and by erecting significant barriers to the creation of new independent unions. The law took effect, but existing unions have one year to re-register. Observers noted the law was likely to consolidate trade unions further around the Federation of Trade Unions of the Republic of Kazakhstan (FPRK), which had approximately 90 percent of union workers on its rolls, and which critics charged was too close to the government to advocate for workers effectively.</p>
+<p>The law protects the right of workers to bargain collectively. The labor law provides that an individual contract between an employer and each employee sets the employee’s wage and outlines the rights and responsibilities of the employee and the employer. Workers are protected by law against antiunion discrimination, and a court can order reinstatement of a worker fired for union activity.</p>
+<p>Labor laws protect the right to strike in principle but impose onerous restrictions that make strikes less effective or deny the right to a variety of workers.</p>
+<p>A blanket restriction bars certain occupations from striking. Military and other security service members, emergency medical and fire and rescue crews, as well as those who operate “dangerous” production facilities are forbidden to strike, and under the law such strikes are illegal.</p>
+<p>The right to strike is restricted for much of the working population. Workers employed in the railway, transport and communications, civil aviation, health care, and public utilities sectors may strike, but only if they maintain minimum services, do not interrupt “nonstop” production processes (such as metallurgy), and leave “key equipment” unaffected.</p>
+<p>Disagreements between unions and their employers may be presented to a tripartite commission composed of representatives of the government, employer associations, and labor unions. Both state-affiliated and independent labor unions participate in tripartite commissions. The tripartite commission is responsible for developing and signing annual agreements governing most aspects of labor relations. Workers have the right to engage in collective bargaining.</p>
+<p>Numerous legal limitations restrict workers’ rights to strike. Generally workers may not strike unless a labor dispute cannot be resolved through compulsory arbitration procedures, and decisions to strike must be taken in a meeting where at least one-half of an enterprise’s workers are present. A written notice announcing a strike must be submitted to the employer at least five days in advance. Employers may fire striking workers after a court declares a strike illegal. The criminal code enables the government to target labor organizers whose strikes are deemed illegal. Those changes set stiff penalties for those who participate in strikes deemed illegal, which arouses special concern because judges responsible for determining whether a strike is illegal lacked independence, and thus the provisions were more likely to be used to unfairly target labor organizers.</p>
+<p>Foreign workers have the right to join unions; however, the law prohibits the operation of foreign unions and prohibits the financing of unions by foreign entities such as foreign citizens, governments, and international organizations. Irregular migrants and self-employed individuals resided in the country and are not per se exempt from the labor law. Approximately 2.6 million of the nine million economically active citizens were self-employed. International organizations and experts estimated there were between 300,000 and one million irregular migrants in the country.</p>
+<p>The government exercised considerable influence on organized labor and favored state-affiliated unions over independent ones. The largest trade union association, the FPRK, the successor to formerly state-sponsored Soviet-era labor organizations, remained affiliated with the government.</p>
+<p>The new law on labor unions jeopardizes workers’ freedom of association by requiring currently independent labor unions to affiliate with larger ones, violating the country’s obligations under international labor standards and setting the stage for government-sanctioned unions potentially to “monopolize” the country’s labor union movement. Labor officials have argued that requiring independent unions to affiliate with larger ones will make them more effective and improve their ability to bargain collectively, thus preventing labor disputes and social unrest.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, except when it is a consequence of a court sentencing or a condition of a state of emergency or martial law.</p>
+<p>The government did not effectively enforce applicable law. Resources, inspections, and remediation were not sufficient to deter violations. Labor inspectors are responsible for enforcing the labor laws, including prevention of forced labor. The government conducted interagency operations to find victims of forced labor and trafficking. Labor officials stated they were able to prevent the worst forms of abuse.</p>
+<p>Violations of labor laws may result in an administrative penalty such as a fine, or in civil or criminal liability. Although they were tasked with detecting labor law violations, inspectors were not empowered to initiate criminal proceedings. That decision was made by law enforcement agencies.</p>
+<p>Forced labor occurred. Migrant workers were considered most at risk for forced or compulsory labor. Reports varied on the number of labor migrants in the country. Estimates ranged from 300,000 to one million, with the majority of migrant workers coming from Kyrgyzstan, Tajikistan, and Uzbekistan. Migrant workers found employment primarily in agriculture and construction. The Ministry of Health and Social Development is responsible for handling issues related to migrant labor.</p>
+<p>Also see the Department of State’s Trafficking in Persons Report at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The general minimum age for employment is 16 years. With parental permission, however, children between 14 and 16 years of age can perform light work that does not interfere with their health or education. The law also restricts the length of the workday for employees younger than 18 years. The government conducted labor inspections to enforce the minimum age for employment, but enforcement was hindered by the relatively small number of government inspectors.</p>
+<p>Officials reported that during the first eight months of 2013, 76 violations of restrictions on child labor occurred, none of which they considered among the worst forms of child labor. Twelve children were found unlawfully working at car washes.</p>
+<p>Although current comprehensive data on the scope of child labor did not exist, there was evidence children were engaged in the worst forms of child labor in cotton farming and forced begging. Children also engaged in domestic work, street work, and construction.</p>
+<p>The Ministry of Health and Social Development is responsible for enforcement of child labor laws and for administrative offenses punishable by fines. The Ministry of Internal Affairs is responsible for investigating criminal offenses and trains criminal and migration police in investigating the worst forms of child labor.</p>
+<p>The government cooperated with trade unions, employers, and NGOs to raise awareness of and promote interagency cooperation in eliminating child labor.</p>
+<p>Also see the Department of Labor’s Findings on the Worst Forms of Child Labor at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Law and regulations prohibit discrimination regarding origin, social, official, and property status, gender, race, ethnicity, language, religion, convictions, place of residence, or any other circumstances. The government effectively enforced those laws and regulations.</p>
+<p>Discrimination, however, occurred based on the above categories with respect to employment and occupation for disabled persons, orphans, and former convicts. In Aktau young people raised in orphanages stated they could not find jobs in the specialties they had studied and were only offered low-paid jobs as loaders and cleaners. Disability NGOs reported despite government’s efforts, it was hard to obtain employment.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>In 2013 the national monthly minimum wage was 19,966 tenge ($110). Most workers earned above the minimum wage in urban areas. At the end of June, 3 percent of the population lived below the monthly subsistence income level, which was also 19,966 tenge ($110).</p>
+<p>The law stipulates the normal workweek should not exceed 40 hours and limits heavy manual labor or hazardous work to no more than 36 hours per week. The law limits overtime to two hours per day, or one hour per day for heavy manual labor, and requires overtime to be paid at least a 50 percent premium. The law prohibits compulsory overtime and overtime for work in hazardous conditions. The law provides that labor agreements may stipulate the length of working time, holidays, and paid annual leave for each worker. The government sets occupational health and safety standards. The law requires employers to suspend work that could endanger the life or health of workers and to warn workers about any harmful or dangerous work conditions or the possibility of any occupational disease. The law specifically grants workers the right to remove themselves from situations that endanger their health or safety without suffering adverse employment action.</p>
+<p>The Ministry of Labor and Social Protection enforces the minimum wage, work hour restrictions, overtime, and occupational safety and health standards. Ministry inspectors conducted random inspections of employers. The ministry had 320 labor inspectors. Penalties were considered sufficient to deter violations, but observers believed the number of inspectors was insufficient. A 2014 law codifies the right of government labor inspectors to conduct unannounced inspections of workplaces to detect safety and other violations.</p>
+<p>Labor advocates reported some employers regularly violated the law. There were reports some employers ignored regulations concerning occupational health and safety.</p>
+<p>Ministry of Health and Social Development officials reported that, in the first nine months of 2013, inspectors conducted approximately 10,000 inspections, 6,000 of them unannounced, resulting in a total of 9,812 recorded violations, of which 8,623 involved violations of occupational health and safety regulations. In the first eight months of the year, labor inspectors referred 1,007 alleged labor law violations to law enforcement agencies for further investigation. In that period authorities referred 121 cases to prosecutors, including cases involving two workplace deaths; 287 other cases with potential civil liability were referred to the courts for disposition. Unions also conducted inspections of unionized enterprises and reported their findings to authorities for investigation.</p>
+<p>Occupational safety and health conditions in the construction, industrial, and agricultural sectors often were substandard. Workers in factories sometimes lacked quality protective clothing and sometimes worked in conditions of poor visibility and ventilation.</p>
+<p>In the first half of 2013, the government reported 954 people injured at their workplaces. It reported 121 workplace deaths during the first half of the year, down from 277 in 2012. Union officials at the FPRK attributed many labor-related deaths to antiquated equipment, Soviet-era infrastructure, and disregard for safety regulations in the mining, metallurgy, and construction sectors.</p>
+<p>The Statistics Committee under the Ministry of the National Economy of Kazakhstan reported in August 2014 that in 2013 the country’s informal economy totaled 15.3 percent of GDP, or about 5.557 trillion tenge ($30 billion).</p>
+</div>
+</div>
+</div>
+</div>
+</div>

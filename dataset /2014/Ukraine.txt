@@ -1,0 +1,767 @@
+2014
+Ukraine
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588"> </span><span class="st_facebook" st_title="Ukraine" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236588">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236588</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li>
+<a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<p><b><i>Note: Except where otherwise noted, references in this report do not include separatist-controlled areas in the Donbas region of Eastern Ukraine or Russia-occupied Crimea. At the end of this report is a section listing human rights abuses in Russian-occupied Crimea.</i></b></p>
+<p> </p>
+<!-- start multiple doc exception links -->
+<div class="viewer-links">
+<b>READ A SECTION:</b> UKRAINE (BELOW) | <a href="/j/drl/rls/hrrpt/humanrightsreport/index.htm?dynamic_load_id=237935&amp;year=2014">CRIMEA</a></div>
+<div class="old-format-links">
+<b>READ A SECTION:</b> UKRAINE (BELOW) | <a href="/j/drl/rls/hrrpt/2014/eur/237935.htm">CRIMEA</a></div>
+<!-- end multiple doc exception links -->
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=executive"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Ukraine is a republic with a semipresidential political system composed of three branches of government: a unicameral legislature, and executive and judicial divisions. On February 22, parliament (Verkhovna Rada) voted to remove President Viktor Yanukovych from office after he fled the country. Yanukovych’s abrupt departure to Russia followed three months of massive antigovernment protests on the Maidan (Kyiv’s central square) over his decision to postpone signing political and trade agreements with the EU in favor of closer ties with Russia as well as his violent response to the protests. An interim government ruled for three months. On May 25, Petro Poroshenko was elected president in an election considered free and fair by international and domestic observers. On October 26, the country held early parliamentary elections that observers also considered free and fair. Authorities generally maintained effective control over security forces after Yanukovych fled, except in some areas in the eastern part of the country and in Crimea. (For information on the human rights situation in occupied Crimea, see the Crimea section at the end of this report.)</p>
+<p>In February Russian armed forces intervened militarily in Crimea, which Russia occupied and purported to “annex” in March. The international community denounced the occupation and refused to recognize Russia’s purported annexation of Crimea. Russia trained, equipped, and supplied pro-Russian separatist forces in parts of Donetsk and Luhansk oblasts (Donbas region), who were joined by fighters from Russia. The Ukrainian government responded with an “antiterrorist operation” to reclaim and stabilize the two oblasts. International monitors and human rights NGOs attributed thousands of civilian deaths and injuries as well as widespread human rights abuses to Russia-backed separatists in the Donbas region and to the Russian occupation authorities in Crimea.</p>
+<p>The most significant human rights developments in the country during the year were:</p>
+<p>First, the Yanukovych government’s decision to use force to disperse citizen protests and their presence in Kyiv’s Maidan square resulted in more than 100 civilian deaths, most by sniper fire from special security forces, and numerous injuries. In connection with the violence, police and “titushki” (thugs working with police), beat, kidnapped, arbitrarily detained, and physically harassed protesters and journalists.</p>
+<p>Second, Russia’s occupation of Crimea displaced more than 18,000 Crimeans, and Russian occupation authorities committed numerous human rights abuses, targeting ethnic and religious communities, particularly Crimean Tatars.</p>
+<p>Third, beginning in mid-April, Russia-backed separatists took control of territory in Eastern Ukraine (Donbas) and launched violent attacks to establish their authority against the Ukrainian government. The conflict destabilized the Donbas region, resulting by year’s end in more than 4,700 civilian deaths, including 298 persons killed in the July 17 downing of a Malaysian Airlines commercial flight. Additionally, more than 10,000 civilians were injured since fighting began in April. Generally, actions by the separatists deprived more than five million Donbas residents of access to education, health care, housing, the opportunity to earn a living and to the rule of law, and forced more than one million people to leave the region.</p>
+<p>Other problems reported during the year included abuse of persons in custody, in particular beatings and alleged torture of detainees and prisoners; harsh conditions in prisons and detention facilities; a corrupt judicial system; societal violence against women and abuse of children; societal discrimination against and harassment of ethnic minorities; trafficking in persons; discrimination toward persons with HIV/AIDS that endangered their prospects for treatment; limitations on workers’ right to strike, and forced labor.</p>
+<p>The government generally failed to take adequate steps to prosecute or punish most officials who committed abuses, resulting in a climate of impunity. The overall climate, however, improved after Yanukovych fled the country in February. Authorities opened investigations into the events of the Maidan shootings in February and riots in Odesa in May, but they remained incomplete and continued at year’s end.</p>
+<p>Russia-backed separatists controlled areas of Donbas, set up self-proclaimed “people’s republics” in parts of the Luhansk and Donetsk oblasts, and resisted government efforts to reestablish control. Since hostilities against the government began in April, separatists used heavy force and shelling in civilian areas; engaged in unlawful killings, abductions, physical abuse, torture, and unlawful detention; employed child soldiers; and engaged in the large-scale theft of coal, which was shipped to Russia. The conflict continued at year’s end.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section1"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>During the first two months of the year, there were numerous reports the Yanukovych government and its agents committed arbitrary and unlawful killings. In the Donbas region, Russia-backed separatists carried out numerous unlawful killings (see section 1.g.).</p>
+<p>In Kyiv more than 100 persons were killed during antigovernment protests on the Maidan as security forces and Berkut special police used violence to suppress the months-long protest in central Kyiv. According to the UN Human Rights Monitoring Mission to Ukraine, 121 persons were killed between December 1, 2013, and February 20, including 101 protesters killed by security forces. Additionally, 17 internal affairs police officers, a Crimean Tatar, and two government supporters died violently during the unrest. Fighting injured hundreds of others, some critically.</p>
+<p>On January 21, men acting on behalf of former interior minister Vitaliy Zakharchenko kidnapped Maidan protestor and activist Yuri Verbytsky from the Oleksandrivska hospital in Kyiv. Authorities found Verbytsky’s body the next day in a forest near Kyiv with his hands and feet bound with adhesive tape. The Interim Parliamentary Commission investigated the death and determined he was tortured, bound, and left to die of hypothermia in wintry conditions.</p>
+<p>There were also some reports of deaths in custody due to illegal actions or negligence by police officers after the new government came to power.</p>
+<p>On September 24, 30-year-old Yuriy Kofman died in a Mukachevo pretrial detention center in the Transcarpathia region. According to Kofman’s mother, her son died from a police beating to extract a confession for a September 26 court appearance. The head of the Mukachevo police department denied officers interrogated Kofman and asserted the cause of death was unknown. The local prosecutor’s office opened a criminal investigation into the death on allegations police mistreated (redundant) Kofman. The case continued at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were multiple reports of politically motivated disappearances during the first two months of the year. In the Donbas region, there were numerous reports of disappearances and abductions in parts of Luhansk and Donetsk oblasts controlled by Russia-backed separatists (see section 1.g.).</p>
+<p>As protests escalated on the Maidan, security forces frequently resorted to violence, abductions, and detention. According to the EuroMaidan SOS human rights watchdog, an independent human rights group that does not receive outside funding, 29 persons connected with the Maidan protest remained unaccounted for as of August.</p>
+<p>On January 22, activist Dmytro Bulatov was reported missing. Bulatov, who received death threats before he disappeared, was leader of “AutoMaidan,” a group of motorists who supported Maidan protesters. Police stated they had no record of his arrest or whereabouts. On January 31, supporters found Bulatov in a village on the outskirts of Kyiv. Bulatov reported that unknown men who spoke with Russian accents kidnapped and tortured him. While he was in captivity, Bulatov’s abductors reportedly crucified him, pierced his hands, and cut off part of his ear.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit torture and other cruel punishment. The courts cannot use confessions and statements made to police by persons in custody under duress as evidence in court proceedings. There were reports, however, police and other law enforcement officials abused and at times tortured persons in custody to obtain confessions.</p>
+<p>In the Donbas region, separatist forces in the self-proclaimed “people’s republics” of Donetsk and Luhansk committed numerous abuses to maintain control. According to international organizations and NGOs, abuses included beatings, forced labor, psychological and physical torture, public humiliation, and sexual violence. There were also reports government forces and progovernment battalions engaged in military operations in the Donbas region committed human rights abuses (see section 1.g.).</p>
+<p>During the first eight months of the year, the Prosecutor General’s Office opened 8,236 criminal investigations into alleged torture or degrading treatment by police. Of that number, authorities forwarded 1,424 cases of alleged mistreatment to courts, including 28 cases specifically alleging torture or degrading treatment involving 43 law enforcement officers.</p>
+<p>Through September the Prosecutor General’s Office opened criminal investigations involving 1,236 other police officers, mainly related to corruption and abuse of power.</p>
+<p>According to the Ministry of Internal Affairs, during the first nine months of the year, one police officer was convicted of torture and inhuman treatment and criminal proceedings against two others were initiated. Disciplinary actions were imposed against an additional 120 officers.</p>
+<p>On April 29, monitors from the Council of Europe’s Committee for the Prevention of Torture (CPT) released a report based on site visits to facilities operated by the Ministry of Internal Affairs and to temporary detention facilities in Kyiv, Crimea, Dnipropetrovsk, Odesa, and Vinnytsya. The CPT noted some reduction in both the severity and frequency of mistreatment of persons in custody. Nevertheless, the report stated many detainees held by the Ministry of Internal Affairs alleged officers continued to mistreat them physically, including with punches, kicks, and truncheon blows. In some cases the alleged mistreatment was of such severity it could be considered torture. In a number of instances, monitors found medical evidence consistent with the allegations.</p>
+<p>On August 3, in Odesa, approximately 100 persons were involved in a protest that turned violent during a concert at the Ibitsa nightclub. Two protesters and one police officer were injured, and police arrested three activists. Video footage of the concert showed police used excessive force to disperse the protesters. Authorities dismissed five police officers for attacking protesters. The local prosecutor’s office opened a criminal inquiry into abuse of power by police. The investigation continued at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions remained poor, did not meet international standards, and at times posed a serious threat to the life and health of prisoners. Poor sanitation, abuse, and the lack of adequate light, food, and medical care were persistent problems.</p>
+<p><u>Physical Conditions</u>: According to the State Penitentiary Service (SPS), there were 92,290 individuals in 174 penal facilities during the first nine months of the year. Of that number, 1,909 were imprisoned for life; 18,347 were in pretrial detention. Approximately 4,960 were women and 496 were juveniles. Authorities generally held men, women, and juveniles in separate facilities, although there were reports that in some pretrial detention facilities there was no separation of juveniles and adults. Through August authorities reported 579 individuals died in custody, including 42 by suicide. Most prisoners had some access to potable water.</p>
+<p>Conditions in police temporary detention facilities and SPS pretrial detention facilities were harsher than in low- and medium-security prisons. The former often lacked adequate sanitation and medical facilities.</p>
+<p>In the April 29 CPT report on its October 2013 visit, monitors stated they found “some cause for optimism” with regard to improvements in correction facilities in the Dnipropetrovsk, Kharkiv, and Vinnytsya regions, where there were reports of severe police mistreatment. At the same time, however, the report noted prison officials penalized prisoners for talking to CPT monitors. The report also expressed concern detainees did not receive access to medical treatment and attorneys.</p>
+<p><u>Administration</u>: Authorities kept records of prisoners in detention, but they were occasionally incomplete. Human rights groups reported instances in which authorities confiscated prisoners’ passports and failed to return them upon their release. Alternative sentencing, such as fines or community service, was available for some nonviolent offenders. There was no prison ombudsman. Prisoners could file complaints with the Office of the Parliamentary Ombudsman for Human Rights, which conducted prison monitoring. During the first nine months of the year, the ombudsman’s office received 1,752 complaints from prisoners.</p>
+<p>The most common complaints were cruel, inhuman, and degrading treatment; public humiliation; limited communication with family members and relatives; denial of the right to legal consultation; and denial of the right to submit a complaint on actions of the administration. Prisoners also complained about inadequate medical treatment and precautions. For example, prisoners with contagious tuberculosis were not isolated from other patients. Prisoners also complained about the lack of appropriate living space and poor sanitary conditions.</p>
+<p>Officials generally allowed prisoners to receive visitors and observe religious services, although those in disciplinary cells could not receive visitors. Prisoner rights groups noted some families had to pay bribes to obtain permission for prison visits to which they are entitled by law.</p>
+<p>Prisoners and detainees may file complaints about conditions in custody with the parliamentary ombudsman for human rights, but human rights organizations noted prison officials continued to censor or discourage complaints and penalized and abused inmates who filed them. Rights groups reported legal norms did not always ensure confidentiality of complaints.</p>
+<p><u>Independent Monitoring</u>: The government generally permitted independent monitoring of prisons and detention centers by international and local human rights groups, including the CPT.</p>
+<p><u>Improvements</u>: The CPT’s April 29 report noted marginal systemic improvement in the treatment of prisoners, compared with its previous visits. It also observed marked improvement of the treatment of prisoners at Correctional Colony No. 81 in the Vinnytsya region and noted the country’s free legal aid system, which helped to combat mistreatment of prisoners by law enforcement officials.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, but serious problems remained.</p>
+<p>The UN Human Rights Monitoring Mission (HRMM) and other international groups reported numerous unauthorized detentions in areas of the Donbas controlled by separatists (see section 1.g.).</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Internal Affairs is responsible for maintaining internal security and order. The ministry oversees police and other law enforcement personnel. The Security Service of Ukraine (SBU) is responsible for all state security, nonmilitary intelligence, and counterintelligence. The Ministry of Internal Affairs reports to the Cabinet of Ministers, and the SBU reports directly to the president. The State Fiscal Service, formed in June, exercises law enforcement powers through the tax police and reports to the Cabinet of Ministers.</p>
+<p>Civilian authorities maintained control over law enforcement agencies and took action to investigate and punish abuses committed by security forces. During the first two months of the year, the Ministry of Internal Affairs, the SBU, and other law enforcement agencies often acted with impunity and violence to suppress the antigovernment demonstrations on the Maidan to maintain President Yanukovych’s authority. In the months after the new government took power, charges of impunity and abuses by security forces decreased, according to the parliamentary ombudsman for human rights.</p>
+<p>Under the law members of parliament have authority to conduct investigations and public hearings into law enforcement problems. The parliamentary ombudsman for human rights may also initiate investigations into abuses by security forces. In January members of parliament created a temporary commission to investigate mass killings, violence, and other abuse against activists on the Maidan. Authorities sent materials gathered as part of the investigation to the Prosecutor General’s Office in June. Investigations continued at the end of the year.</p>
+<p>Traffic police also harassed AutoMaidan activists, in particular those who staged motorcade protests on streets near the president’s residence, by seizing their vehicles, visiting their homes, and demanding explanations for their activities.</p>
+<p>According to the fifth UN human rights monitoring report released August 29, the Prosecutor General’s Office had opened 84 criminal proceedings against security force members who allegedly committed human rights violations against protesters during the Maidan demonstrations in Kyiv. The abuses included the violent dispersal of protesters at the end of November 2013, killing of protesters on January 19-21, and sniper killings on February 18-20. Authorities transferred seven criminal proceedings against 13 persons who allegedly committed crimes against protesters to the court.</p>
+<p>At year’s end authorities were investigating an additional 27 cases of abuse by seven law enforcement officers of AutoMaidan activists. Five traffic police officers were disciplined for violations against activists.</p>
+<p>The August 29 UN report also stated that through August the Ministry of Internal Affairs and the Prosecutor’s Office investigated 445 cases of unlawful acts against demonstrators between November 2013 and August 1. As of August, 66 of the cases were closed, 265 were merged with other cases, and 84 remained pending. Based on the investigations, 76 civil servants and law enforcement officers, six judges, and two civilians were to undergo pretrial criminal investigation.</p>
+<p>The government provided training to law enforcement personnel to curb abuses, and NGOs provided human rights training. In September the EU sent a mission of 57 trainers to the country as part of a mission to assist with law enforcement reform. Some regional reforms have taken place. For example, in Khmelnytskiy authorities dissolved the traffic police division and merged it with the regular police force to increase the number of patrol officers and efficiency.</p>
+<p>Security forces generally prevented or responded to societal violence. At times, however, they used excessive force to disperse protests and in some cases failed to protect peaceful demonstrators from harassment or violence. For example, on May 2, police did not intervene during a clash in Odesa between pro-Russian and pro-Ukrainian protesters, which resulted in 48 deaths (see section 2.b.).</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>By law authorities may detain a suspect for three days without a warrant, after which time a judge must issue a warrant authorizing continued detention.</p>
+<p>Prosecutors must bring detainees before a judge within 72 hours, and pretrial detention should not exceed six months for minor crimes and 12 months for serious crimes. Under the law citizens have the right to challenge an arrest in court or by appeal to a prosecutor. Authorities must promptly inform detainees of their rights and immediately notify family members of an arrest. Police often did not follow these procedures.</p>
+<p>Under the law the government must provide attorneys for indigent defendants. Compliance was uneven because of a shortage of defense attorneys or because attorneys, citing low government compensation, refused to defend indigent clients. According to the Ministry of Justice, free legal aid centers throughout the country issued 51,695 assignments to lawyers to provide free legal aid during the first nine months of the year. An estimated 70 percent of the population, however, did not understand their right to free legal aid.</p>
+<p>The law provides for bail, but many defendants could not pay the required amounts. Courts sometimes imposed travel restrictions as an alternative to pretrial confinement. Under the criminal procedure code, prosecutors cannot impose travel restrictions without a court order on persons awaiting trial. Prosecutors must prove the restrictions are the minimum possible to ensure suspects will appear at hearings and will not interfere with criminal proceedings.</p>
+<p><u>Arbitrary Arrest</u>: During the first two months of the year, authorities arbitrarily arrested Maidan protesters in Kyiv and other cities on trumped up charges with little or no documentation. Subsequently, authorities released all those arrested.</p>
+<p>On January 20, authorities jailed student Oleksandr Shrabak for one month for allegedly taking part in mass Maidan protests. Witnesses reported a group of men beat Shrabak before police took him to a police station. On January 23, police arrested and jailed Rudolf Abramian for two months. His wife reported that Abramian, a taxi driver, was only driving passengers to the city center near the Maidan when police detained him.</p>
+<p>In the months after Yanukovych fled the country there continued to be reports of unsanctioned arrests under the new government. Police at times failed to keep records or register detained suspects, and courts often extended detention to allow police more time to obtain confessions.</p>
+<p><u>Pretrial Detention</u>: According to the Ministry of Internal Affairs, implementation of the 2012 criminal procedure code lowered the number of persons held in pretrial detention facilities. As of September the Internal Affairs Ministry opened criminal proceedings against approximately 98,800 individuals. Of that number, 10,000 were in pretrial detention facilities, compared with 18,100 in 2013 and 32,000 in 2012.</p>
+<p><u>Detention of Rejected Asylum Seekers or Stateless Persons</u>: Authorities frequently detained asylum seekers for extended periods without court approval. They also regularly detained asylum seekers prior to their deportation (see section 2.d.).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>While the constitution provides for an independent judiciary, courts remained vulnerable to political pressure and corruption and were inefficient. Confidence in the judiciary remained low.</p>
+<p>In April parliament approved a law to restore public confidence in the judiciary. The Law on Restoration of Confidence in the Judiciary mandated a review of the judgments and background of all judges. The local chapter of the Helsinki Human Rights Union said the law undermined the principle of the presumption of innocence. Following the review, however, 80 percent of judges remained in place.</p>
+<p>The new law on the judiciary also established an interim commission to investigate complaints about judges. As of December citizens submitted 541 complaints, of which authorities investigated 82 cases. On September 24, the commission issued its first decisions, determining six judges had violated their oath of office.</p>
+<p>Judges continued to complain about deterioration in the separation of powers between the executive and judicial branches of government. Some judges claimed high-ranking politicians pressured them to decide cases in their favor, regardless of the merits. Other factors also impeded the right to a fair trial, such as lengthy court proceedings, particularly in administrative courts, inadequate funding, and the inability of courts to enforce rulings. According to the parliamentary human rights ombudsman, authorities fully executed only 40 percent of court rulings.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>There is no jury system. A single judge decides most cases, although two judges and three public assessors who have some legal training hear trials on charges carrying a maximum sentence of life imprisonment. The law provides for cross-examination of witnesses by both prosecutors and defense attorneys and for plea-bargaining.</p>
+<p>The law presumes defendants are innocent, and they cannot be compelled to testify or confess, although high conviction rates called into question the legal presumption of innocence. They have the right to be informed promptly and in detail, with interpretation as needed of charges against them, the right to a public trial without undue delay, to communicate privately with an attorney of their choice (or one provided at public expense), and to have adequate time and facilities to prepare a defense. Defendants also are allowed access to government-held evidence, to confront witnesses against them, present witnesses and evidence, and the right to appeal. Appeals courts cannot dismiss convictions or order new trials based on missing documents, nor may they coerce defendants to sign copies of missing documents.</p>
+<p>Trials are open to the public, but some judges prohibited the media from observing proceedings. While trials must start no later than three weeks after filing of charges, prosecutors seldom met this legal requirement. Human rights groups reported officials occasionally monitored meetings between attorneys and their clients.</p>
+<p>In October a law came into effect significantly reforming the Prosecutor General’s Office (PG). The law removes investigative powers and limits the prosecutor general to representing the state in court. The law also limits the prosecutor general’s powers to arrest and detain individuals. Previously the PG could launch investigations on its own authority and without oversight, which was used for political means and a source of corruption.</p>
+<p>Additionally, the law creates a Council of Public Prosecutors and a Qualification Disciplinary Commission to allow independent oversight of the PG. The council makes recommendations on the appointment and dismissal of prosecutors while the commission selects candidates for positions, oversees transfers, and investigates prosecutorial misconduct. The new law also requires written instructions and introduces an examination process for new prosecutors.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>During the first two months of the year, authorities detained a number of individuals for political reasons. After Yanukovych fled in February, there were no further reports authorities selectively prosecuted and detained opposition politicians and civic activists.</p>
+<p>During antigovernment protests on the Maidan in Kyiv in January and February, police arbitrarily detained hundreds of protesters, mainly for political reasons. Detainees reported they often did not know why police detained them, and police frequently did not document arrests. The protesters were released after Yanukovych fled the country.</p>
+<p>On February 22, parliament voted to release former prime minister Yuliya Tymoshenko from prison. Courts convicted her in 2011 of abuse of power and misuse of state funds, sentenced her to seven years in prison, and ordered her to repay the government 1.5 billion hryvnias ($190 million at the then prevailing exchange rate). Domestic and international legal experts regarded Tymoshenko’s arrest, pretrial detention, and trial as politically motivated.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and laws provide for the right to seek redress for any decisions, actions, or omissions of national and local government officials that violate citizens’ human rights. An inefficient and corrupt judicial system limited the right of redress. Individuals may also file a collective legal challenge to legislation they believe may violate basic rights and freedoms. Individuals may appeal to the parliamentary ombudsman for human rights at any time and to the European Court of Human Rights (ECHR) after exhausting domestic remedies.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>Individuals may apply to the ECHR to redress alleged violations of human rights by the state as provided under the European Convention on Human Rights. Through July the court received 10,677 applications and handed down 764 judgments against the country. Most of the judgments concerned violations of the right to a fair trial, unduly long judicial proceedings, violations of the right to liberty and security, and inhuman or degrading treatment.</p>
+<p>Independent observers noted that, while the government at times paid damages assessed by the ECHR, it failed to institute reforms to address the root causes of many of the cases brought before the court or to allocate sufficient funds to pay all fines.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, but there were reports authorities generally did not respect the prohibitions.</p>
+<p>By law the SBU may not conduct surveillance or searches without a court-issued warrant. In an emergency authorities may initiate a search without prior court approval but must seek court approval immediately after the investigation begins.</p>
+<p>Citizens have the right to examine any dossier in the possession of the SBU that concerned them and the right to recover losses resulting from an investigation. Because there was no implementing legislation, authorities generally did not respect these rights, and many citizens were not aware of their rights or that authorities had violated their privacy.</p>
+<p>In January amendments to the law on personal data protection took effect, which delegated oversight of the law to the Office of the Parliamentary Ombudsman for Human Rights. In May the parliament amended the law to ensure the ombudsman had legal authority.</p>
+<p>During the year the Department for Protection of Personal data under the Ombudsman’s Office inspected 37 entities holding personal data and ordered them to eliminate violations. Civil society groups maintained that, despite the amendments, government offices lacked the expertise and resources to ensure the security of personal data. They asserted the law violated a citizen’s right to privacy by permitting large amounts of sensitive personal information to be shared across many government agencies without adequate safeguards to protect the data’s integrity.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>
+				g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p>The armed conflict in areas of Donbas controlled by Russia-backed separatists continued at year’s end, despite a September 5 ceasefire signed in Minsk by Russian and Ukrainian officials and two separatist leaders.</p>
+<p>International organizations and NGOs, including Amnesty International (AI), Human Rights Watch (HRW), and the UN High Commissioner for Human Rights issued periodic reports of human rights abuses committed in the Donbas region by separatist and government forces. Additionally, the Organization for Security and Cooperation in Europe (OSCE) fielded a 358-person special monitoring mission, which issued daily reports on the situation and conditions in most major cities.</p>
+<p>According to the UN’s HRRM, fighting and violence in the Donbas region deprived more than five million residents of their basic human rights to education, health care, and housing, and the opportunity to earn a living. On December 24, the HRMM reported at least 4,771 civilians were killed and 10,360 wounded in the conflict since fighting began in mid-April. This figure included the 298 passengers and crew on board flight MH17, which was shot down in July over Donbas (see section 1.g., Other Conflict-related Abuses). The figures, however, did not include the number of Russian or other foreign fighters killed or wounded who collaborated with the separatists. Additionally, more than 1.2 million residents left separatist-controlled areas of Donetsk and Luhansk oblasts, of whom an estimated 593,000 left the country. Most of those who left went to Russia; the remainder moved to other parts of the country.</p>
+<p>On August 27, Alexander Zakharchenko, the self-proclaimed leader of the “Donetsk People’s Republic,” said on Russian state television that 3,000 to 4,000 Russian citizens were fighting together with armed rebels. This number included former or current Russian soldiers, whom he claimed were “on leave” from duty. Russian authorities supported the rebels and sent numerous convoys of trucks with supplies to the Donbas region without the permission of the Ukrainian government and without monitoring by international relief agencies. International observer groups in Donbas noted an almost constant flow of armed men, weapons, and material crossing from Russia into separatist-controlled areas of Ukraine.</p>
+<p>In a report released October 8, the United Nations stated that, during the period from August 18 to September 16, “international humanitarian law, including the principles of military necessity, distinction, proportionality, and precaution continued to be violated by armed groups and some units and volunteer battalions under the control of the Ukrainian armed forces.” Additionally, “armed groups continued to terrorize the population in areas under their control, pursuing killings, abductions, torture, ill-treatment, and other serious human rights abuses, including destruction of housing and seizure of property.”</p>
+<p>In a subsequent report released December 15, the HRRM stated there was a “near total breakdown in law and order” in separatist-held areas and the human right situation was “dire.” The report stated heavy weapons and foreign fighters, including from Russia, were fuelling the crisis. The HRRM report issued November 20 also reported on the use of cluster munitions in both urban and rural areas, citing concern about their impact on civilian areas. The report called for urgent and thorough investigations of all alleged violations and abuses of international human rights law and violations of international humanitarian law.</p>
+<p><u>Killings</u>: There were multiple reports by media and international monitors of arbitrary and unlawful killings and of “mass graves” in areas of the Donbas region. Lawlessness and a complete breakdown of civic institutions and governance fostered a climate of fear and intimidation among civilians caught in the fighting. Victims included progovernment activists and fighters, government soldiers, members of volunteer battalions, former local government officials, suspected spies, and others swept up by separatist patrols.</p>
+<p>On July 9, separatists abducted and murdered four Protestant church members in Slovyansk, including the pastor’s two sons. Separatists abducted the members after a church service, stole their vehicles, and transferred them to a police station where they were tortured and executed the next day. Separatists buried them secretly in a mass grave containing 10 other bodies.</p>
+<p>Igor “Strelkov” Girkin, a former Russian military intelligence officer who commanded separatist forces in Slovyansk until July, allegedly engaged in unlawful killings. In one case, Girkin reportedly ordered the killing of Aleksey Pichko, whom separatists accused of stealing two shirts and a pair of pants.</p>
+<p>On October 20, AI released a report on its investigation into allegations of execution-style and other deliberate killings in several towns in Donbas. Based on accounts of survivors and eyewitnesses, the report stated while there was no doubt both sides were responsible for such killings, it was difficult to determine the scale of the abuses.</p>
+<p>Some activists and international organizations noted the government took steps to investigate such abuses, but lacked resources to do more. At the same time, they noted the self-proclaimed separatist authorities in Donbas had so far not attempted to investigate reported abuses.</p>
+<p>Both sides also accused each other of indiscriminate shelling in populated areas by using unguided Grad rockets and cluster bombs. The UN HRMM and HRW stated in reports released on October 20 and October 8, respectively, more than 50 persons died, with dozens of others wounded, by shelling in areas of Donetsk city and nearby villages. The government denied it used cluster munitions.</p>
+<p>Shelling in the conflict zone killed several journalists, such as Igor Kornelyuk and Anton Voloshin, who worked for Russian-state television, and one International Red Cross employee. On August 20, two artillery shells hit a prison in Makiivka in Donetsk oblast, killing two inmates and injuring six. On November 5, mortar and artillery shells struck a sports field at a school in Donetsk, killing two children and injuring four.</p>
+<p><u>Abductions</u>: Separatists, government forces, progovernment civilian battalions, and criminal elements engaged in abductions. The October 8 report by the HMMR stated prior to the signing of the September 5 ceasefire that the SBU received up to 50 reports per day of missing or abducted persons. One of the 12 provisions in the September 5 Minsk Protocols called for the “immediate release by both sides of all hostages and unlawfully detained persons.” At that time separatists held approximately 1,000 persons in the “Donetsk People’s Republic.” According to the Internal Affairs Ministry, separatists held about 400 detainees as of the end of December.</p>
+<p>In May separatists abducted two teams of four international observers and local staff seconded to the OSCE’s special monitoring mission. Separatists detained one four-person team in Donetsk city, the second in Slovyansk. One team was released after a week, but the second was detained for more than a month as separatists and the OSCE negotiated their release. A senior OSCE official in Vienna denounced the kidnapping, characterizing it as “sabotage of international efforts to de-escalate the crisis in Donbas.” On November 26, OSCE monitors came under fire from a rocket-propelled grenade and an antiaircraft gun believed to be in separatist territory. Additionally, separatists fired weapons at OSCE drones and used jammers to damage and blind them.</p>
+<p>On June 18, separatists in Luhansk abducted government pilot Nadiya Savchenko, who was on leave to help train a volunteer battalion. Following an interrogation that separatists posted on the internet, she was smuggled out of the country to Russia. She surfaced in Moscow, where authorities charged her with complicity in the killing of two Russian television journalists by providing coordinates for mortar attacks on separatist positions. On August 27, authorities transferred her to the Serbsky Institute, infamous for its use of punitive psychiatry against political detainees. On October 27, authorities deferred her court hearing a second time and extended her detention into 2015.</p>
+<p>On September 8, AI released a report critical of abuses by the progovernment Aydar battalion operating in northern Luhansk oblast. The battalion was one of more than 30 volunteer groups that assisted government security forces to retake separatist-held areas. The report noted Aydar had “acquired locally a reputation for brutal reprisals, robbery, beatings, and extortion.” AI criticized Aydar and other volunteer battalions for being effectively outside government lines of command and control. According to the military prosecutor’s office, authorities opened criminal proceedings against two Aydar fighters for the arbitrary detention of a civilian. The government disbanded another progovernment battalion, Shaktarsk, after accusations it engaged in human rights abuses.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: Separatist forces reportedly abused and tortured civilians as well as progovernment activists and soldiers in detention facilities, which eyewitnesses and survivors described as “concentration camps.” Reported abuses included beatings, forced labor, psychological and physical torture, and sexual violence. There were also reports separatists used civilians and convicted prisoners from local jails as human shields, locking them in rebel-occupied buildings as a deterrent to government forces seeking to recapture the structures.</p>
+<p>On August 7, armed men abducted Dmytro Potekhin, a prominent civic activist and blogger, in Donetsk on suspicion he was from Kyiv. They put a bag over his head and took him into an abandoned hotel, interrogated him, and then transferred him to a makeshift holding cell in the basement of a former arts center. He was held for 48 days and subjected to forced labor, intimidation, and humiliation. In a published account of his captivity in the <i>Financial Times</i>, “How I Survived the Dungeon in Donetsk,” Potemkin wrote he was one of hundreds of prisoners kept in such “isolators.”</p>
+<p>On August 24, separatists detained Iryna Dovhan in Donetsk, accusing her of spying. The Donetsk native admitted to gathering donations for government forces but denied being a spy. Dovhan said the separatists turned her over to mercenaries whom she believed were from North Ossetia in Russia; they tortured her and intimidated her with threats of gang rape. Her captors wrapped her in the country’s flag and forced her to stand at a Donetsk intersection with a sign identifying her as a spy. Passersby berated, slapped, spit on, and kicked her; press and social media subsequently carried photographs of her abuse. She was freed August 28, after two foreign journalists interceded with rebels on her behalf.</p>
+<p>Separatist forces subjected hostages to humiliating and degrading treatment. In August separatists marched prisoners, who were bound at the wrists and some of whom were wounded, through the streets of Donetsk at bayonet point while a crowd assaulted and abused them. Separatists also conducted arbitrary “trials” without due process of criminal suspects that resulted in physical punishment. In November separatists in Alchevsk, Luhansk oblast, conducted a much-publicized show trial of two individuals accused of rape. The separatists allowed the audience to determine sentences by show of hands; one of the accused was sentenced to death.</p>
+<p><u>Child Soldiers</u>: There were reports children as young as age 14 served as spotters and fighters with separatists and foreign fighters in Donetsk. On October 1, Russia’s ITAR-TASS news agency reported that Alexsander Zakharchenko, the self-proclaimed “prime minster” of Donetsk, stated there were child fighters as young as 14 in his armed rebel unit, Oplot. He also claimed that 15-year-old children had served as spotters during fighting with government troops for Saur-Mohyla hill.</p>
+<p>On October 23, a posting on the Donetsk separatist website included a video interview with two boys, ages 16 and 17, under the headline, “Sixteen-year-old Youths Signing up to Fight for Novorossiya.” The boys, dressed in camouflage, said they were ready to volunteer. In a related video post, a separatist representative, Pavel Savkun, praised the teenagers as heroes and claimed adolescents first attend a study center to take courses in fighting and warfare. “The rebel Motorola unit has many young ones, including 17- and 18-year-olds,” Savkun stated in the video, “They go freely. May praise and honor be upon them.”</p>
+<p><u>Other Conflict-related Abuses</u>: On July 17, Malaysian Airlines flight MH17, from Amsterdam to Kuala Lumpur flying over Ukraine, crashed in rebel-held territory in Donetsk oblast near the Russian border. All 298 passengers and crew on board died. On September 9, the Dutch Safety Board stated in a preliminary report the plane broke apart due to “impact from a large number of fragments, suggesting it was shot down from the ground.” Intelligence analysts from Western countries assessed the aircraft was shot down by a surface-to-air 9K37 “Buk” missile fired from separatist-controlled territory in Donetsk. Separatists denied possessing such missiles, and Russian officials denied providing rebels with military materiel. Separatists, however, had previously declared they had 9K37 “Buk” missiles and launchers. At the time of the crash, separatists announced they had shot down a Ukrainian AN-26 transport plane but retracted the claim after it was evident a civilian airliner had been shot down instead. An investigation into the crash continued at year’s end.</p>
+<p>On November 2, the self-proclaimed “people’s republics” of Donetsk and Luhansk staged unauthorized “presidential” and “legislative” elections, which resulted in the election of Aleksander Zakharchenko as head of the so-called “Donetsk People’s Republic” and Ihor Plotnitsky as head of the so-called “Luhansk People’s Republic.”</p>
+<p>The elections were contrary to the September 5 Minsk Protocols, were not authorized under Ukrainian law, and were not monitored by impartial observers. Separatists allowed voting through the internet and regular mail. Relatively few polling stations were open, many residents could not or would not cast ballots, and some voters cast multiple ballots. Armed separatists were present at the election stations, often standing next to ballot boxes. Separatists encouraged voting by offering ration cards and subsidized food. Paramilitary fighters from Russia were eligible to vote.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section2"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provides for freedom of speech and press, but authorities did not always respect these protections.</p>
+<p>During the first two months of the year, the Yanukovych government took measures to restrict press and speech freedom. On January 16, the ruling Party of Regions forced through parliament a series of draconian laws with harsh penalties, including several that restricted free speech and the media to eliminate dissent and quash antigovernment protests. These “black Thursday laws” were repealed two weeks later. During the remainder of the year, authorities generally respected freedom of speech and press. Nevertheless, some restrictive practices continued, including self-censorship, so-called “jeansa” payments to journalists for favorable news reports, and slanted news coverage by media owners with close ties to the new government or those who supported opposition political parties.</p>
+<p>In the Donbas region, separatists suppressed freedom of speech and the press through harassment, intimidation, abductions, and assaults on journalists and media outlets. Domestic human rights NGOs and media watchdogs, such as the Postup human rights center and the Institute of Mass Information (IMI), documented hundreds of cases of abuses in separatist-controlled areas of Luhansk and Donetsk (see section 1.g.).</p>
+<p><u>Freedom of Speech</u>: For most of the year, individuals in most of the country could criticize the new government publicly and privately and discuss matters of public interest without fear of reprisal. Freedom of speech was restricted during the first two months of the year under the Yanukovych government and in areas of the country not under control of the government.</p>
+<p>In a May 16 report, the UN HRMM documented a series of freedom of expression violations in Kharkiv, Sumy, Odesa, and Donetsk between April 2 and May 6. These included seizures of local television stations and print media outlets by pro-Russian separatists in the Donbas region, attacks on media owners and journalists by progovernment and proseparatist activists, and actions by the interim government to regulate the activity of journalists, particularly of foreign media, in the country.</p>
+<p>On April 17 and 28, separatists seized television towers in the Luhansk and Donetsk oblasts that broadcast programs to Slavyansk, Donetsk, and other cities in the Donbas region. They disconnected all Ukrainian channels and installed special equipment to receive and transmit digital Russian programming. Some areas in Donbas lost all access to Ukrainian television channels.</p>
+<p>On April 25, government authorities deported a Russian journalist and camera operator from the country on grounds their work was harming “the security and territorial integrity of the country.”</p>
+<p><u>Press Freedoms</u>: Independent media and internet news sites were active and expressed a wide range of views. Nevertheless, both independent and state-owned media periodically engaged in self-censorship when reporting on stories that might expose political allies to criticism.</p>
+<p>On October 27, the Office for Democratic Institutions and Human Rights of the Organization for Security and Cooperation (OSCE/ODIHR), in a statement on the early parliamentary elections, noted the media environment during campaigning was characterized by a lack of independent reporting due to an absence of autonomy from political and corporate interests.</p>
+<p>Natalia Ligachova, critic and founder of the Ukrainian media watchdog <i>Telekritika</i>, asserted media, politicians, and business owners had not changed to the extent society expected, in view of the sacrifices made by thousands of individuals during the months-long EuroMaidan protests. “The media are playing an old scenario as they provide unbalanced information, help media owners promote themselves, and engage in dishonest investigative journalism filled with false allegations,” she wrote.</p>
+<p><u>Violence and Harassment</u>: According to media watchdog IMI, during the first 11 months of the year, there were 281 assaults on journalists and seven killings. The highest number of assaults occurred in January, with 82 of the cases connected to government attempts to suppress mass protests on Maidan square in Kyiv. In the months following the change of government, the majority of violence and harassment against journalists (88 cases) occurred in the separatist-controlled areas of the Donbas region between May and September.</p>
+<p>On February 19, a masked group of suspected “titushki,” (armed thugs hired by the government) attacked journalist Vyacheslav Veremyi and information technology specialist Aleksey Lymarenko with bats and other weapons when their taxi stopped near Maidan square. Both worked for the local <i>Vesti</i> newspaper. Veremyi later died from a gunshot wound to the chest.</p>
+<p>On June 2, Russia-backed separatists in Donetsk detained journalists Oleksandr Bryzh and Leonid Lapa and threatened them with violence if they did not change the editorial policy of their newspapers to report more favorably on the insurgency. On June 13, the OSCE representative on media freedom in a statement called on the insurgents to stop harassing journalists. The separatists released the journalists unharmed, but Bryzh and Lapa subsequently suspended publishing their newspapers,<i> Donbas</i> and <i>Vecherniy Donetsk</i>.</p>
+<p>In the Donbas region, there were reports that several journalists were killed in cross fire between government forces and Russia-backed separatists killed. On June 17, Igor Kornelyuk, a journalist for the Russian state television channel VGTRK, died from wounds sustained in a mortar attack near the village of Metalist, Luhansk. His sound engineer, Anton Voloshin, was also killed in the shelling (see section 1.g.).</p>
+<p>In November the Internal Affairs Ministry announced it had completed the investigation into the December 2013 beating of journalist and civil activist Tetyana Chornovol. Three suspects were awaiting trial, while another three remained at large (at least one of whom was in Russia). The ministry said former President Yanukovych ordered the attack, in which a group of men ran Chornovol’s vehicle off the road outside of Kyiv hours after she posted photographs on a news website of the lavish residence of Vitaliy Zakharchenko, the former head of the Internal Affairs Ministry. She attempted to escape on foot, but was caught, beaten, and left for dead.</p>
+<p><u>Censorship or Content Restrictions</u>: Unlike in previous years, there were no heavy-handed attempts by the government to censor or direct media content. Nevertheless, authorities who assumed power in the new government took measures to regulate and, in some cases, censored media deemed a national security threat.</p>
+<p>During the first 11 months of the year, local media watchdog IMI documented 120 cases of censorship and another 137 incidents in which journalists were impeded in the course of their work.</p>
+<p>In March the National Council for Television and Radio Broadcasting stopped broadcasts of several Russian television channels on grounds of “information security.” On September 9, a Kyiv regional court imposed further restrictions on Russian programming, including banning the rebroadcast of 15 Russian television channels on Ukrainian networks.</p>
+<p><u>Libel Laws/National Security</u>: Libel is a civil offense, and the law limits the amount of damages a plaintiff can claim in lawsuits. The press can generally publish critical materials and opinions without penalty. Public officials enjoy fewer legal protections from criticism than do other citizens.</p>
+<p>Local media observers continued to express concern over high monetary damages demanded and awarded for alleged libel. Government entities, and public figures in particular, used the threat of civil suits based on alleged damage to a “person’s honor and integrity” to influence or intimidate the press and investigative journalists.</p>
+<p><u>Nongovernmental Impact</u>: Separatist militias in the Donetsk and Luhansk oblasts attempted to suppress what they viewed as pro-Ukrainian media through violence, kidnapping, harassment, and blocking transmissions. In one highly publicized incident, pro-Russian separatists detained American journalist Simon Ostrovsky in Slovyansk. He was held for three days and beaten. Separatists also burned the offices of several progovernment newspapers, such as <i>Provintsiia</i> in Kostiantynivka and <i>Horniak</i> in Torez, both in the Donetsk oblast.</p>
+<p>In Crimea Russian occupation authorities significantly restricted freedom of speech and press. There were reports of a dramatic increase in attacks on both international and Ukrainian journalists in the occupied territory (see section 1.g. and the separate section on occupied Crimea at the end of this report).</p>
+<div class="sub-sub-section">
+<h3>
+						Actions to Expand Press Freedom</h3>
+<div class="sub-sub-section_content">
+<p>On November 7, the Cabinet of Ministers created a joint-stock company national public television and radio broadcaster. The government formed the new entity from the liquidated assets of numerous state-owned media groups, including the national television and radio companies.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>Since the change in government, authorities did not restrict or disrupt access to the internet or censor online content. Law enforcement bodies monitored the internet, at times without appropriate legal authority. Surveys indicated more than 50 percent of adults were regular internet users.</p>
+<p>Although new internet-based media outlets emerged to provide more diverse and accurate information about current events and public affairs, an increasing number of cyberattacks and misleading clone websites partly offset their influence. For example, cyberattacks, such as coordinated denial-of-service incidents, disrupted the websites of major independent news and information outlets. In January, during antigovernment protests in Kyiv, the websites of <i>Telekritika</i>, television channels “5” and “1+1”, and several regional news sites in Mukachevo and Transcarpathia experienced coordinated denial-of-service attacks, allegedly organized by authorities. In May there were additional cyberattacks on internet-based media in Donbas and Bukovyna in the far western part of the country. Some outlets, such as the Donetsk-based <i>Ostro.org</i> stopped its work temporarily due to the ongoing conflict. Some government websites, including that of the Presidential Administration and the Central Election Commission, also came under periodic denial-of-service attacks.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of government restrictions on academic freedom or cultural events, except in those regions of the country not under control of the government (see section 1.g. and the separate section on Crimea).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides citizens with the right to freedom of assembly, and the new government generally respected this right. There are no laws, however, regulating the process of organizing and conducting events to provide for freedom of peaceful assembly. Authorities have wide discretion under a Soviet-era directive to either grant or refuse permission for assemblies on grounds of protecting public order and safety. Organizers are required to inform authorities in advance of plans for protests or demonstrations.</p>
+<p>During the year citizens generally exercised the right to peaceful assembly without restriction in most of country except for regions in Donbas and Crimea not under control of the government.</p>
+<p>Most of the assemblies that took place were peaceful and at times accompanied by a very large police presence to maintain order. The types of demonstrations that took place reflected the changing social, political, and economic developments in the country, such as support for or opposition to the government, calls for federalism and decentralization, demands to dismiss corrupt officials, improvement of the situation of internally displaced persons, dissatisfaction with local officials, and issues connected with the conflict in the Donbas region.</p>
+<p>In some instances, however, peaceful rallies ended in mass disorder and violence. On May 2 in Odesa, clashes between pro-Russian and progovernment supporters during a national unity rally killed 48 persons and injured 250 others. Most of the deaths occurred in a fire in a trade union building where pro-Russian protesters had taken refuge and become trapped as both sides threw gasoline bombs. The Prosecutor General’s Office opened an investigation into the events and the role of police and their inability to respond appropriately and protect the public. On September 25, the Internal Affairs Ministry completed a pretrial investigation into the mass disorder, identifying 24 suspects. Authorities filed criminal charges with the court. Authorities placed nine suspects, some of whom participated in and organized the clashes, on a wanted list to determine their whereabouts. The investigation continued at year’s end.</p>
+<p>In the southern city of Mykolayiv, authorities requested a ban on all rallies in the city center after clashes at a demonstration on June 2 required police intervention. On June 4, a district administrative court granted the ban, asserting the right to peaceful assembly was not as important as the right to life. Courts in Kyiv and Odesa imposed similar restrictions in late August to prevent possible rival protests that could turn violent during events marking the country’s independence day.</p>
+<p>According to civic groups, the number of restrictions on freedom of assembly and administrative penalties imposed for disobeying them decreased during the year. In the first nine months of the year, courts sided with local authorities to deny permission for demonstrations in 83 percent of cases.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of association. The government generally respected this right. Organizations must comply with registration requirements, but there were no reports the government used them to disband existing organizations or to prevent the formation of new ones.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide citizens with freedom of internal movement, foreign travel, emigration, and repatriation. The government generally respected these rights, although the conflict in the eastern part of the country restricted freedom of internal movement. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern. International and domestic organizations reported the system for protecting asylum seekers, stateless persons, and other persons of concern did not operate effectively.</p>
+<p>Individuals crossing from occupied Crimea to the mainland were subjected to strict passport controls at the administrative border between Kherson and Crimea oblasts. Human rights groups complained government border guards unnecessarily searched Ukrainian citizens. Additionally, some border guards forced some Ukrainian citizens to return to Crimea and demanded bribes to cross into Kherson oblast.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>According to the UNHCR, as of December 22, there were an estimated 610,000 internally displaced persons (IDPs) due to the conflict in Donbas and occupation of Crimea. The largest number resided in areas immediately surrounding the conflict zones, in peaceful areas of Donetsk and Luhansk oblasts, as well as in the Kharkiv, Dnipropetrovsk, and Zaporizhzhya oblasts. Due to delays in adopting a government policy on IDPs, many had to rely on their own resources, as well as those of family, friends, and civil society, to meet their basic needs.</p>
+<p>On November 19, President Poroshenko signed into effect the Law on the Protection of Rights and Freedoms of Infernally Displaced People. The law provides 880 hryvnia ($55) per month for children and persons with disabilities and 440 ($28) hryvnia per month for those able to work. Aid to children and persons with disabilities was provided for up to six months. Authorities reduced aid for those able to work by half after two months and stopped it after four months. Families may receive no more than 2,400 hryvnia ($152) a month for six months. The process of IDP registration and aid distribution, however, was slow and inefficient.</p>
+<p>The bulk of assistance for IDPs was provided on a temporary basis by local and civil society organizations, and eventually by international humanitarian organizations. UN agencies commented the ability of grassroots organizations to continue absorbing IDPs was limited. As displacement continued, tensions emerged between host populations and IDPs as competition for resources increased.</p>
+<p>Critics accused internally displaced men who moved to western Ukraine of evading military service, while competition rose for housing, employment, and educational opportunities in Kyiv and Lviv. The UN’s HRRM also reported IDPs who left their homes without their “labor book” experienced difficulties securing employment or acquiring insurance payments for unemployment. IDPs settled around Mariupol lived in extreme hardship, often sleeping in tents or cars and with insufficient toilet facilities and no potable water. Romani activists expressed concern some Roma in eastern Ukraine could not afford to flee the conflict areas, while others had no choice but to leave their homes.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>In a report released in July, the UN HRMM found that, despite progress in some areas, authorities failed to make progress implementing asylum legislation in the previous year. The HRMM continued to advise other countries not to return asylum seekers to the country, because refugees could not have assurance of a fair and efficient procedure to determine refugee status or effective protection against refoulement.</p>
+<p><u>Access to Asylum</u>: The law provides for asylum or refugee status, and the government has established a legal system to protect refugees. Protection for refugees and asylum seekers was insufficient, due to gaps in the law and the system of implementation.</p>
+<p>Human rights groups noted the refugee law falls short of international standards due to its restrictive definition of who is a refugee. The law permits authorities to reject many asylum applications without a thorough case assessment. In other instances government officials declined to accept initial asylum applications without a legal basis, leaving asylum seekers without documentation and vulnerable to frequent police stops, fines, detention, and exploitation. Asylum seekers in detention centers were sometimes unable to apply for refugee status within the prescribed time limits and had limited access to legal and other assistance. Asylum seekers have five days to appeal an order of detention or deportation.</p>
+<p>The UNHCR noted the Refugee Department of the State Migration Service (SMS) lacked sufficient autonomy to make impartial determinations about refugee status. The absence of such autonomy left asylum decisions open to influence by other factors.</p>
+<p>A lack of access to qualified interpreters also hampered the full range of asylum procedures. International observers noted the government did not provide resources for interpreters, which created opportunities for corruption and undermined the fairness of asylum application procedures.</p>
+<p>During the first nine months of the year, the SMS reported applications for asylum remained stable in comparison with the same period in 2013. A total of 1,015 persons applied for asylum between January 1 and September 30. Of these, authorities rejected 182 applicants and granted refugee status to 77. They granted complementary protection to 153. The rate of recognition of refugees (rate of refugee status and complementary protection) also improved, with a total recognition rate at 89 percent. The three most frequent countries of origin of asylum seekers were Iran (222 applicants), Afghanistan (199), and Syria (196).</p>
+<p><u>Refoulement</u>: The government did not ensure protection against the expulsion or return of refugees to a country where there was reason to believe their lives or freedom would be threatened on account of their race, religion, nationality, membership in a particular social group, or political opinion. The UNHCR described refoulement at the border as a “largely hidden phenomenon,” as persons seeking asylum may not receive legal aid or interpretation at border crossing points or temporary holding facilities and were therefore unable to apply for asylum before being deported.</p>
+<p>Human rights groups noted the law offers legal protection against forcible return.</p>
+<p><u>Refugee Abuse</u>: Authorities frequently detained asylum seekers for extended periods without court approval.</p>
+<p><u>Employment</u>: Language instruction for asylum seekers was provided in only three cities: Kyiv, Kharkiv, and Odesa. Authorities did not provide social assistance, or employment assistance, and most asylum seekers were unable to obtain a work permit as required by law. For a six-month period during the year, only three refugee seekers obtained official status as an unemployed person and one person secured employment. Some attempted to work illegally, increasing their risk of exploitation.</p>
+<p><u>Access to Basic Services</u>: Although during the year the government adopted a national plan on the integration of refugees, it did not allocate resources for its implementation. Human rights groups reported authorities did not accord social and economic rights to asylum seekers or assist them. Authorities did not provide language courses or social assistance. A UNHCR report indicated all newly recognized refugees received a one-time grant of approximately 31 hryvnias (two dollars).</p>
+<p>Only two temporary accommodation centers of three existing had a reception capacity of 300 persons and could accommodate about 30 percent of applicants. Asylum-seekers living outside a center often experienced difficulties obtaining residence registration, and authorities regularly fined them more than 500 hryvnias ($32) because they lacked this registration. Authorities did not implement legislation enacted in May to allow homeless shelters to provide residence registration to recognized refugees.</p>
+<p>The UNHCR noted an improvement in the quantity and quality of food provided in the migrant custody centers and a willingness of authorities to address other shortcomings. The UNHCR cited the lack of educational programs and vocational activities for those in detention for extended periods. It encouraged authorities to provide other arrangements than the migrant custody centers to care for asylum seekers and to increase educational support for children.</p>
+<p>According to the UNHCR, gaps in housing and social support for unaccompanied children left many without access to state-run accommodation centers or children’s shelters. As of September 1, there were 100 separated children; 24 were registered during the year, of whom 14 percent received accommodation from government authorities. Many children had to rely on informal networks for food, shelter, and other needs. As a result they remained vulnerable to abuse, trafficking, and other forms of exploitation.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>According to law a person may acquire citizenship by birth, territorial origin, naturalization, restored citizenship, and adoption.</p>
+<p>According to the UNHCR, 33,271 stateless persons resided in the country during the year. The SMS reported that, as of October 1, there were 5,424 stateless persons legally residing in the country on a permanent residence permit and 223 persons held temporary residence permits. The government naturalized 377 stateless persons, 362 of them through a simplified process.</p>
+<p>The law requires establishing identity through a court procedure, which demanded more time and money than some applicants had. The UNHCR reported Roma were at particular risk for statelessness, since many Roma did not have birth certificates or any other types of documentation to verify their identity.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section3"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide citizens with the ability to change their government through the right to vote in free and fair elections, and citizens exercised this right based on universal suffrage. During the year early elections for president on May 25, and for parliament on October 26, were generally considered to be free and fair. Voting took place in all parts of the country except Russia-occupied Crimea and some areas of the Donbas region, where Russia-backed separatist forces blocked elections or discouraged residents from voting. Due to the hostile security environment, only 17 of 32 district election commissions in Donbas operated on election day.</p>
+<p>In a response to provisions of the September 5 Minsk Protocols, which included a special status for the Donbas region, the government proposed holding local elections in the region on December 7. Instead, separatists held their own unlawful “elections” in separatist-controlled areas on November 2. The government declared the elections illegal and a violation of the Minsk Protocols (see section 1.g.).</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: After former president Viktor Yanukovych abandoned his office in February, the parliament voted to remove him from power. An interim government called early presidential elections on May 25.</p>
+<p>On May 25, voters elected Petro Poroshenko president in an election marked by high voter turnout (60 percent) and minimal problems. Poroshenko received almost 54 percent of the vote; his nearest contender, former prime minister Yuliya Tymoshenko, received 13 percent of the vote. The OSCE monitoring mission characterized the election as “a genuine election largely in line with international commitments and with a respect for fundamental freedoms in the vast majority of the country,” despite Russia’s occupation of Crimea and violence in Donbas. The Central Election Committee allowed IDPs to vote at their temporary residences by showing proof of employment or temporary registration documents.</p>
+<p>Russia-backed separatists made efforts to disrupt voting on May 25, particularly in Donetsk where armed gunmen surrounded some polling places to intimidate voters. According to domestic and international media reports, armed Chechen and Ossetian fighters from Russia reinforced separatists on May 24 and 25 to disrupt voting. Additionally, the SBU prevented a cyberattack on the Central Election Commission’s computer servers that would have erased election results through a malicious virus.</p>
+<p>Two leading domestic NGOs, the Committee of Voters Ukraine and OPORA, stated there were no grounds to challenge the fairness, transparency, and legitimacy of the election, although voter turnout in areas of the Donbas region was low.</p>
+<p>OSCE election observers reported authorities conducted the early October 26 parliamentary elections in line with international commitments and standards. International and domestic observers highlighted many positive elements, such as an impartial Central Election Commission, ample competition that offered voters real choice, and a general respect for fundamental freedoms. In most parts of the country, election day proceeded calmly, with few disturbances and only isolated security incidents reported during voting hours. The IDP law permitted displaced persons to participate in national elections without changing their place of official residence. Election irregularities were noted in some districts, however, and the election did not take place in areas occupied by Russia or where Russia-backed separatist forces were in control.</p>
+<p><u>Participation of Women and Minorities</u>: There were 47 women in the 423-seat parliament. Women held three posts in the cabinet of ministers, and the 17-member Constitutional Court included one female justice.</p>
+<p>The number of minorities in parliament and the cabinet was generally not available due to privacy laws. One Crimean Tatar was a member of the national parliament.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section4"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption, although authorities did not effectively implement the law, and some officials engaged in corrupt practices with impunity. While there were fewer reports of government corruption than in previous years, corruption remained pervasive at all levels in the executive, legislative, and judicial branches of government and in society.</p>
+<p>The Freedom House 2014 <i>Freedom in the World</i> report stated corruption was “one of the country’s most serious problems,” pointing in particular to abuses under former president Yanukovych. While there was major corruption at the highest levels of the Yanukovych government, bribery remained a pervasive form of low-level corruption.</p>
+<p>During the year the new government embarked on important reform efforts and enacted several keys laws to fight corruption. Their effectiveness, however, could not be assessed by year’s end.</p>
+<p><u>Corruption</u>: The largest cases of corruption were associated with former president Yanukovych, his family members, and a group of close associates, colloquially known as “the family.” Journalist and open source research into corrupt structures designed, nurtured, and protected by Yanukovych and his associates showed the former president stole billions of dollars from government accounts and extorted billions more in pyramid-like kickback schemes.</p>
+<p>During the year government corruption remained a significant problem. While authorities tried a large number of corruption cases, they were almost exclusively minor violations. Despite reports of cases initiated against high-level officials, authorities brought no such cases to trial and did not formally charge them.</p>
+<p>Members of parliament are immune from prosecution. Judges may not be arrested or detained before they are convicted, unless parliament rescinds their immunity.</p>
+<p>On April 10, parliament amended the law on state procurement to increase transparency. The amendments strengthen public oversight over procurement and require state-owned companies to publish procurement data and disclose tender proposals. Additionally, the Ministry of Economy opened the State Procurement Bulletin to the public. Previously, the bulk of procurement information was available only to central government agencies.</p>
+<p>On October 23, the president signed into law a series of laws to fight corruption and improve transparency. Two of the laws, known as the Anticorruption Strategy, took effect October 26. A third, the Law on Beneficiaries, took effect November 25. A fourth law to create a National Anticorruption Bureau was expected to enter into force on January 15, 2015. Together, these laws establish specific mechanisms to form and implement a national anticorruption strategy and create a legal framework for the government to implement anticorruption policies.</p>
+<p>The president also signed into law legislation to reform the state prosecution system. The new law curtails the previously vast authority and supervisory power of the Prosecutor General’s Office by limiting prosecutors to litigating criminal cases, thereby reducing influence on civil cases. The law also removes the prosecutor’s investigative function and powers of arrest, including pretrial detention. Additionally, the law sets out new criteria and standards for prosecutors that should reduce corruption, including a competitive hiring process and a transparent discipline procedure.</p>
+<p>During the year the government enacted two “lustration” Laws. One provides a legal basis and objective criteria for vetting and excluding officials from public office, including former members of the notoriously corrupt Yanukovych government and high-ranking members of the communist regime. The second law focuses on vetting judges based on the decisions they made during the antigovernment protests on the Maidan.</p>
+<p><u>Financial Disclosure</u>: On October 14, parliament adopted the Law on the Prevention of Corruption. It established mandatory filing of income and expenditure declarations by public officials and a special review process, allows for public access to declarations, and sets penalties for either not filing or for filing a false declaration. Previously, public servants were required to file income declarations, but there was no mechanism for review or penalties for filing false declarations.</p>
+<p>The new law also establishes mechanisms to prevent conflict of interests, prohibits nepotism and gifts, and creates a system for whistleblower protection. It also provides for creation of a National Agency on Corruption Prevention to review financial declarations and monitor the income and expenditures of high officials.</p>
+<p><u>Public Access to Information</u>: The constitution and law require authorities to provide government information upon request, unless it pertains to national security. By law officials must respond to regular requests within five days, and within 20 days to requests for large amounts of data. Denials can be appealed within agencies and ultimately to the court system. Instructions for filing information requests are now a common and conspicuous component of government websites.</p>
+<p><u>Illicit Trade in Natural Resources</u>: There were numerous reports by the media, mining companies, and unions that Russian-backed militants stole coal from mines in the Donetsk region. For example, on August 7, DTEK, an electricity company that operated its own coalmines, announced armed militants stole more than 5,000 tons of coal in a large-scale operation involving more than 70 trucks. Trains under separatist control moving coal to the Russian Federation were widely reported in August and September. Investigative journalists linked large-scale sale of state-owned coal and coal from illegal mines operating in separatist-controlled areas to companies linked to associates of former president Yanukovych.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section5"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Unlike in previous years, government officials were cooperative and responsive to their views.</p>
+<p>During the protests on the Maidan, authorities pressured and intimidated civic groups. In early February the NGO Center UA reported the Ministry of Interior had opened a criminal case accusing the organization of money laundering. Police initially questioned 10 persons affiliated with Center UA and then expanded the number of those questioned to include an estimated 200 others.</p>
+<p>The new government has demonstrated a more cooperative approach to working with NGOs and human rights groups. President Poroshenko ordered the Cabinet of Ministers to draft a national human rights strategy by year’s end. According to the decree, the strategy was to be developed with involvement and cooperation from representatives of the government and local self-administration agencies, civil society, and leading Ukrainian human rights experts and NGOs.</p>
+<p><u>Government Human Rights Bodies</u>: The constitution provides for a human rights ombudsman, officially designated as the parliamentary commissioner on human rights. The ombudsman’s office frequently collaborated with NGOs through civic advisory councils on various projects for monitoring human rights practices in prisons and other government institutions (see sections 1.c. and 1.d.).</p>
+<p>Valeriya Lutkovska was nominated and confirmed as the parliamentary ombudsman for human rights in 2012. Human rights groups and activists criticized her for maintaining a low profile during the months-long protests on the Maidan and for not directly confronting government authorities on human rights abuses. In April Lutkovska’s office released an account of human rights abuses committed between November 2013 and February 22 and her attempts to address abuses through a series of letters and other correspondence to various government ministries.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section6"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>While the constitution and law prohibit discrimination based on race, sex, gender, disability, language, social status, and ethnic and social origin, the government lacked effective legal instruments to enforce the prohibitions, and both governmental and societal discrimination persisted. The law covers discrimination, although experts raised concerns the definition of discrimination was too narrow and the law lacked meaningful enforcement mechanisms.</p>
+<p>In May the parliament amended the law to define discrimination and related actions and prohibit direct and indirect discrimination on behalf of national and local government authorities, legal entities, and natural persons.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law prohibits rape but does not explicitly address spousal rape. The courts may use a law against “forced sex with a materially dependent person” as grounds to prosecute spousal rape. Under the law authorities can detain a person for up to five days for offenses related to domestic violence and spousal abuse.</p>
+<p>Sexual assault and rape continued to be significant problems. According to the Prosecutor General’s Office, through September there were 317 reports of rape or attempted rape.</p>
+<p>Domestic violence against women remained a serious problem. Spousal abuse was common. Advocacy groups asserted the percentage of women subjected to physical violence or psychological abuse at home remained high. Human rights groups noted the ability of agencies to detect and report cases of domestic violence was limited and preventive services remained underfunded and underdeveloped.</p>
+<p>Through September the Ministry of Internal Affairs received 85,200 domestic violence complaints. Police issued 68,198 domestic violence warnings and protection orders during the period, while courts considered almost 39,700 administrative orders for domestic violence and disobeying protective orders. According to the ministry, 82,200 persons were under police monitoring in connection with domestic violence. Punishment included fines, administrative arrest, and community service.</p>
+<p>La Strada-Ukraine, an NGO focused on gender issues, operated a national hotline for victims of violence and sexual harassment. Through September, 4,833 individuals called the hotline for assistance related to domestic or sexual violence, accounting for 81.8 percent of all calls. The NGO said expanded public awareness campaigns had increased the number of requests for assistance each year for five years.</p>
+<p>Although the law requires the government to operate a shelter in every major city, it did not do so, in part due to lack of municipal funding. During the year officials reported 20 centers for social and psychological help and nine centers for psychological and legal help for women who suffered from domestic violence. There were concerns government austerity measures implemented during the year could lead to the elimination of some services provided by these centers.</p>
+<p>Through September, according to the Ministry of Social Policy, government centers provided domestic violence-related services, in the form of social-psychological assistance, to 14,463 individuals. Social services centers assisted 1,688 families in matters related to domestic violence and child abuse. NGOs operated additional centers for victims of domestic violence in several regions, but women’s rights groups noted many nongovernment shelters closed due to lack of funding. There were no state-run shelters for adult victims of domestic violence in the Kharkiv, Vinnytsya, and Poltava Kherson regions.</p>
+<p>According to women’s advocacy groups, municipally and privately funded shelters were not always accessible. Shelters were frequently full, and resources were limited. Some shelters did not function throughout the year, and administrative restrictions prevented women and families from accessing services. For example, some shelters would only accept children of certain ages, while others did not admit women not registered as local residents. Government centers offered only limited legal, psychological, and economic assistance to victims of domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not prohibit FGM/C. There were no reports of the abuse during the year.</p>
+<p><u>Sexual Harassment</u>: The law puts sexual harassment in the same category as discrimination, but women’s rights groups asserted there was no effective mechanism to protect against sexual harassment. They reported continuing and widespread sexual harassment, including coerced sex, in the workplace. Women rarely sought legal recourse, because courts declined to hear their cases and rarely convicted perpetrators. Women’s groups also cited a persistent culture of sexism and harassment.</p>
+<p>While the law prohibits coercing a “materially dependent person” to have sexual intercourse, legal experts stated safeguards against harassment were inadequate.</p>
+<p><u>Reproductive Rights</u>: The government recognized the right of couples and individuals to decide freely and responsibly the number, spacing, and timing of their children and to have the information and means to do so. They have the right to attain the highest standard of reproductive health free from discrimination, coercion, and violence. Quality prenatal and postnatal care remained inaccessible to many women. The quality of sexual and reproductive health services was poor in state-funded hospitals, and high prices in private medical clinics made them unaffordable for many persons.</p>
+<p><u>Discrimination</u>: Under the law women enjoy the same rights as men, including equal pay for equal work. Industries dominated by women workers had the lowest relative wages. Women received lower salaries due to limited opportunities for advancement and the types of industries that employed them. According to the Ombudsman’s Office, men earned on average of 29.5 percent more than women. Domestic and international observers noted women held few elected or appointed offices at the national and regional levels.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p>On August 12, President Poroshenko signed amendments into the law that strengthened the protection of children by prohibiting the military mobilization of parents raising minors.</p>
+<p>The Office of the Parliamentary Ombudsman for Human Rights includes a representative for children’s rights, nondiscrimination, and gender equality. Through November the Ombudsman’s Office received 671 complaints regarding children’s rights and made 42 visits to children’s facilities and institutions during the year.</p>
+<p><u>Birth Registration</u>: Birthplace or parentage determines citizenship. A child born in the country to stateless parents residing permanently in the country is a citizen. The law requires that parents register a child within a month of birth.</p>
+<p><u>Child Abuse</u>: The office of the Parliamentary Ombudsman received 799 complaints involving crimes against children. Human rights groups noted authorities lacked the capability to detect violence against children and refer victims for assistance. Preventive services remained underfunded and underdeveloped. There were also instances of forced labor involving children (see section 7.c.).</p>
+<p>Authorities did not take effective measures at the national level to protect children from abuse and violence and to prevent such problems. The parliamentary ombudsman for human rights noted the imperfection of mechanisms to protect children who survived violence or witnessed violence, in particular violence committed by their parents. According to the law, parents were legal representatives of children, even if they perpetrated violence against children. There is no procedure for appointing a temporary legal representative of a child during the investigation of a case of violence committed by parents. Children continued to be victims of violence and abuse.</p>
+<p>A major consequence of the violence in Donbas was its outsized effect on children. According to the UN Children’s Fund (UNICEF), as of September 16, the conflict killed at least 33 children and wounded 82 other minors. On June 12, armed separatists kidnapped 16 children from an orphanage and transported them to Russia. On June 13, the ECHR ordered the immediate return of the orphans. Russian authorities subsequently returned the children to Ukraine.</p>
+<p><u>Early and Forced Marriage</u>: The minimum age for marriage is 18. A court may grant a child as young as 16 permission to marry if it finds marriage to be in the child’s interest. According to a report funded by UNICEF, in 2013 approximately 11 percent of women reported being married or in a union before they were 18 (10 percent of urban and 14.5 percent of rural residents). Romani rights groups reported early marriages involving girls under 18 were common in the Romani community.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not prohibit FGM/C. There were no reports of the practice on children during the year.</p>
+<p>UNICEF does not list the country as one where the practice is concentrated. The OECD Social Institutions and Gender Index states genital mutilation was not performed in the country. No specific legislation prohibits the practice nor is there much awareness about the problem. Authorities, however, could prosecute such actions under other laws regarding child and sexual abuse in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum prison sentence for child rape is 10 years. Molesting children under the age of 16 is punishable by imprisonment for up to five years. The same offense committed against a child under 14 is punishable by imprisonment for five to eight years.</p>
+<p>The Ministry of Internal Affairs recorded 245 sexual crimes against children during the year. Sexual exploitation of children, however, remained significantly underreported. Commercial sexual exploitation of children remained a serious problem.</p>
+<p>Domestic and foreign law enforcement officials reported a significant amount of child pornography on the internet continued to originate in the country. The International Organization for Migration reported children from socially disadvantaged families and those in state custody continued to be at high risk of trafficking and exploitation for commercial sex and the production of pornography. Courts may limit access to websites that disseminate child pornography and impose financial penalties and prison sentences on those operating the websites.</p>
+<p><u>Child Soldiers</u>: There were reports of child soldiers in the conflict in eastern Ukraine (see section 1.g.).</p>
+<p><u>Displaced Children</u>: According to the Ministry of Social Policy, there were 14 shelters and 76 assistance centers for children across the country. In the first nine months of the year, more than 5,230 children received treatment in these shelters. According to the UNHCR, approximately 27 percent, or 170,000, of the country’s 630,000 IDPs were children at year’s end. The majority of IDP children were from the Donetsk and Luhansk regions.</p>
+<p><u>Institutionalized Children</u>: The child-care system continued to rely on long-term residential care for children at social risk or who had no parental care. The number of such residential care institutions continued to drop. As of January 1, there were 95 orphanages, compared with 207 in 2012. During the year some 9,500 orphans and other children were deprived of parental care lived and studied in various types of boarding schools.</p>
+<p>In recent years the state implemented policies to address the abandonment of children or their reintegration with their biological families. As a result there was a decrease in the number of children deprived of parental care. In 2013, according to the Ministry of Social Policy, 90,772 children lived in child-care institutions, compared with 100,787 children in 2009. Human rights groups and the media reported the deteriorated economic situation and government inaction created unsafe, inhuman, and sometimes life-threatening conditions in some institutions.</p>
+<p>According to the Ombudsman’s Office, 85 children from the Krasnodon and 20 from the Robenky boarding schools (Luhansk region) remained in the area under separatist control. Children also remained in two tuberculosis sanatoriums in Alchevsk (Luhansk region). There were 64 orphanages in Donetsk and Luhansk regions housing 1,223 children; due to hostilities, more than 1,000 of these were evacuated to the Kyiv, Zaporizhzhya, Odesa, and Kharkiv regions.</p>
+<p>Observers noted the judicial system lacked the expertise to work effectively with minors, and the legal process for juveniles emphasized punishment over rehabilitation. Supportive social services were often lacking, and children in custody or under supervision faced bureaucratic and social barriers to reintegration. During the year more than 130,000 children were brought before a court. Authorities viewed imprisonment as a form of supervision and punishment rather than correction and education. Youth who received an alternative sentence often did not receive sufficient social and educational support, leading to a recidivism rate of approximately 35 percent.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see <a href="http://travel.state.gov/content/childabduction/english/country/ukraine.html"><u>travel.state.gov/content/childabduction/english/country/ukraine.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>A according to census data and international Jewish groups, an estimated 103,600 Jews lived in the country, constituting approximately 0.2 percent of the population. Local Jewish leaders estimated the number of persons with ethnic Jewish ancestry to be as high as 370,000.</p>
+<p>Jewish community leaders reported anti-Semitism was in decline, and authorities took steps to address problems of anti-Semitism when they arose.</p>
+<p>The Association of Jewish Organizations and Communities (VAAD) continued to cite reductions in the level of anti-Semitism. Institutional anti-Semitism was rare, and VAAD stated attacks and vandalism were caused by isolated individuals rather than organized groups. It described negative attitudes towards Jews and Judaism as continuing to be low.</p>
+<p>The media reported some acts of anti-Semitism during the year that involved physical attacks or vandalism of Jewish property. Members of various political parties and organizations continued to make occasional extremist, intolerant, and anti-Semitic statements. Jewish organizations in the country believed some anti-Semitic attacks might have been provocations meant to discredit the government.</p>
+<p>According to VAAD, there were 15 incidents of vandalism in the first 10 months of the year. Graffiti swastikas continued to appear in Kyiv and other cities.</p>
+<p>In September the Jewish pilgrimage to the Uman burial site of Rabbi Nakhman took place without significant incidents. Jewish pilgrims visited other burial sites of prominent spiritual leaders in Belz, Medzhybizh, Berdychiv, and Hadyach without significant incidents.</p>
+<p>On February 24, unknown persons threw Molotov cocktails at the Giymat Rosa synagogue and community center in Zaporizhzhya. The building suffered cosmetic exterior damage.</p>
+<p>On April 21, in Dnipropetrovsk, unknown persons spray painted swastikas on the tomb of Dov Ber Schneerson, brother of the late Lubavicher rebbe, Menahem Mendel Schneerson.</p>
+<p>In November there were two incidents in which the Babyn Yar massacre memorial was desecrated with anti-Semitic graffiti. The Ministry of the Interior was investigating the crimes at year’s end. No suspects were apprehended.</p>
+<p>Senior government officials and politicians from various political parties continued efforts to combat anti-Semitism by speaking out against extremism and social intolerance and criticizing anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, and the provision of other state services, although the government did not effectively enforce these provisions.</p>
+<p>According to the State Statistics Service, as of January 1, there were 2,831,726 persons with disabilities including 168,280 children with disabilities in the country.</p>
+<p>The law requires the government to ensure access to public venues, and involvement in public, educational, cultural, and sporting activities for persons with disabilities. The law also requires employers to take into account the individual needs of employees with disabilities. The government generally did not enforce these laws.</p>
+<p>Advocacy groups maintained that, despite the legal requirements, most public buildings remained inaccessible to persons with disabilities, restricting the ability of such persons to participate in society. Access to employment, education, health care, transportation, and financial services remained difficult (see section 7.d.).</p>
+<p>Special needs education remained problematic. Authorities often did not integrate students with disabilities into the general student population. Only secondary schools offered classes for students with special needs. State employment centers lacked resources to place disabled students in appropriate jobs.</p>
+<p>NGOs noted the government was unable to provide outpatient care to persons with disabilities, thus putting the main burden on their families and forcing them to place children and sometimes adults with disabilities in state institutions.</p>
+<p>Government policy favored institutionalization of disabled children over placement with their families. The state cared for approximately one-third of the country’s estimated 168, 280 children with disabilities, but lacked the legal framework and funds to deinstitutionalize them. Programs to provide for the basic needs of children with disabilities and inpatient and outpatient therapy programs were underfunded and understaffed. The inadequate number of educational and training programs for children with disabilities left many isolated and limited their professional opportunities in adulthood.</p>
+<p>Patients in mental health facilities remained at risk of abuse, and many psychiatric hospitals continued to use outdated methods and medicines. According to the Ukrainian Psychiatric Association, insufficient funding, patients’ lack of access to legal counsel, and poor enforcement of legal protections deprived patients with disabilities of their right to adequate medical care.</p>
+<p>A government report published in April 2013 stated government monitors observed incidents of involuntary seclusion and application of physical restraints to persons with mental disabilities at psychiatric and neuropsychiatric institutions of the Ministry of Social Policy. Health-care authorities placed patients in isolated and unequipped premises or even metal cages in which they were held for long periods without being able to satisfy basic human needs.</p>
+<p>By law employers must set aside 4 percent of employment opportunities for persons with disabilities. NGOs noted many of those employed to satisfy this requirement received nominal salaries but did not actually work at their companies. During the first six months of the year, an estimated 5,834 persons with disabilities received jobs through government placement services, according to the Ministry of Social Policy.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Mistreatment of minority groups and harassment of foreigners of non-Slavic appearance remained problems. NGOs dedicated to combating racism and hate crimes observed that overall xenophobic incidents declined slightly during the year.</p>
+<p>The law criminalizes deliberate actions to incite hatred or to discriminate based on nationality, race, or religion, including insulting the national honor or dignity of citizens in connection with their religious and political beliefs, race, or skin color. The law imposes increased penalties for hate crimes; premeditated killing on grounds of racial, ethnic, or religious hatred carries a 10- to 15-year prison sentence. Penalties for other hate crimes include fines of 3,400 to 8,500 hryvnia ($215 to $538) or imprisonment for up to five years.</p>
+<p>Human rights organizations stated the requirement to prove actual intent, including proof of premeditation, to secure a conviction made application of the law difficult. Through September authorities registered 540 cases of offenses against foreign citizens, 155 of which were resolved. None of the criminal proceedings were prosecuted under the laws on racial, national, or religious offences. Police and prosecutors continued to prosecute racially motivated crimes under laws against hooliganism or related offenses.</p>
+<p>According to the Prosecutor General’s Office, authorities registered 26 criminal cases involving racial, national, or religious hatred during the first eight months of the year. Of these authorities forwarded 12 cases to court. While no official statistics were available on the number of racially motivated attacks, the Diversity Initiative Monitoring Group, a coalition of international and local NGOs headed by the International Organization for Migration mission in Kyiv, reported at least 25 cases involving more than 26 victims of suspected violence on the ground of hatred. Victims of the attacks were migrants from Chad, Egypt, Pakistan, Uganda, Somalia, Sudan, and Ethiopia, as well as Ukrainian citizens of Jewish, Crimean-Tatar, and Romani origin. The main targets of violence were migrants of African origin. Most of the incidents occurred in Kyiv, Odesa, and Simferopol.</p>
+<p>On September 13, five men kidnapped a Syrian businessman and detained him for almost a week in the basement of a village home in the Kyiv area. They demanded ransom of one million hryvnias ($63,000). Authorities arrested the men, who were detained for two months on charges of kidnapping, extortion, and torture. Investigation into the case continued at year’s end.</p>
+<p>Roma continued to face governmental and societal discrimination, although authorities had become more responsive to Romani community concerns. Romani rights groups estimated the Romani population to be between 200,000 and 400,000. Official census data placed the number at 47,600. The discrepancy in population estimates was due in part to a lack of legal documentation for many Roma. According to experts there were more than 100 Romani NGOs, but most lacked capacity to act as effective advocates or service providers for the Romani community. Romani settlements were mainly located in Transcarpathia, Odesa, and Eastern Ukraine.</p>
+<p>According to Zola Kondur, head of the Romani women’s organization “Chircili,” there were several attacks against Roma by separatists in eastern Ukraine. In November separatists raped and shot two women and a girl in Antracit after the latter returned to their home, which had been looted. In December separatists attacked Romani residences in Sverdlovsk, stealing property and passports.</p>
+<p>According to the parliamentary commissioner for human rights, the Romani minority faced significant barriers accessing education, health care, social services, and employment due in part to discriminatory attitudes against them. Very few Roma had personal identity documents proving citizenship and many experienced serious problems in almost every area of life. Local state authorities reportedly created barriers to prevent issuing passports to Romani individuals.</p>
+<p>On April 29, a Romani family’s house was set on fire and destroyed in Cherkassy. Police did not intervene to protect the family sufficiently and only did so under pressure from local NGOs and activists.</p>
+<p>In one case Roma in the town of Chorostyn near Kyiv were forced to flee after a group of masked individuals, armed with baseball bats and pistols, arrived in luxury vehicles. After Romani men and women endured beatings by the group and surrendered their money, jewelry, and other valuables, they were forced to pack their bags and move to relatives’ homes.</p>
+<p>NGOs reported a lack of schooling remained a significant problem within the Romani community.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Human rights experts and the LGBT community criticized amendments to antidiscrimination legislation passed by parliament in May because it did not explicitly prohibit discrimination due to sexual orientation and gender identity.</p>
+<p>The country’s two largest Orthodox churches opposed adoption of any law extending discrimination protections to LGBT persons, asserting such laws would “encourage citizens to engage in same-sex relationships.”</p>
+<p>On May 7, the High Specialized Court issued a letter to appellate courts stating discrimination based on sexual orientation in employment is illegal in the country. The LGBT community asserted the letter had virtually no effect on the overall situation with regard to the protection of LGBT rights in the country.</p>
+<p>According to the LGBT rights group Our World (Nash Mir), the situation of LGBT persons did not improve during the year and deteriorated in Russia-occupied Crimea and the parts of Donetsk and Luhansk oblasts controlled by Russia-backed separatists (see section 1.g. and the Crimea section).</p>
+<p>LGBT individuals complained of societal intolerance and stigmatization. Participants canceled an LGBT “equality march” scheduled for July 5 because Kyiv police claimed they could not provide for the safety of participants. Other events during the June 30-July 6 Kyiv pride festival took place, however, including cultural, human rights, and educational programs.</p>
+<p>Between January and September, Our World documented 42 cases of abuses and discrimination based on sexual orientation or gender identity. The largest number of abuses was reported in the cities of Zhytomir, Chernivtsi, and Kyiv. There were 25 hate-motivated cases, 20 of which involved threats of physical violence, and eight cases that involved alleged violations by law enforcement agencies. Our World registered eight cases of robbery and extortion, three incidents of workplace discrimination, and eight cases involving the disclosure of or threats to disclose confidential information. Our World documented three cases of alleged torture and degrading treatment, two incidents of rape and sexual harassment, and one case of kidnapping. In two incidents the victims’ families were driven out of their homes.</p>
+<p>On October 29, fire seriously damaged the Zhovten movie theater in Kyiv during the screening of films as part of an LGBT film festival. In November police arrested two youths who claimed they attacked the theater to disrupt the film showing and intimidate the LGBT community. Damage to the theater, the oldest in the city, was estimated at more than 7.9 million hryvnias ($500,000).</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Persons with HIV/AIDS faced discrimination and, at times, lacked access to treatment. In the most recent demographic and health survey for the country (2007), 78 percent of women and 89 percent of men reported holding discriminatory attitudes towards those living with HIV.</p>
+<p>UNICEF reported children with HIV/AIDS were at high risk of abandonment, social stigma, and discrimination. Many children infected with HIV/AIDS were prevented from attending kindergartens or schools, subject to neglect, and kept isolated from other children. The most at-risk adolescents faced higher risk of contracting HIV/AIDs as well as additional barriers to accessing information and services for its prevention and treatment.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section7"> </span><span class="st_twitter" st_title="Ukraine #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Ukraine - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236588%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides most workers the right to form and join independent unions, to bargain collectively, and to conduct legal strikes. There are no laws or legal mechanisms to prevent antiunion discrimination, although the labor code requires employers to provide justification for layoffs and firings, and union activity is not an acceptable justification. Legal recourse is available for reinstatement, back wages, and punitive damages, although observers described court enforcement as arbitrary and unpredictable.</p>
+<p>The law contains several limits to these rights. Labor laws and civil codes that apply to worker organizations are excessively complex and contradictory. Unions reported significant bureaucratic hurdles in the registration process, entailing the payment of multiple fees and requiring visits to as many as 10 different offices. Independent unions reported multiple incidents of harassment by local law enforcement officials while navigating the registration process, including nonstandard requests for documentation and membership information.</p>
+<p>Restrictions on the right to strike include the requirement that a large percentage of a workforce (two-thirds of conference delegates or 50 percent of workers in an enterprise) must vote in favor of a strike before it may be called. Poorly defined legal grounds allowed authorities to deny the right to strike due to national security or to protect the health or “rights and liberties” of citizens. The law also prohibits strikes by specific categories of workers, including personnel in the Prosecutor General’s Office, the judiciary, armed forces, security services, law enforcement agencies, transportation sector workers, and employees in the public service sector.</p>
+<p>The law made it difficult for independent unions to take part in tripartite negotiations, participate in social insurance programs, or represent labor at the national and international levels, while further entrenching the Federation of Trade Unions (FPU) and hindering the ability of smaller independent unions to act as effective representatives of their members’ interests.</p>
+<p>While there were sufficient regulations and laws for the government to protect workers and ensure organized labor was a vibrant part of civil society, it did not effectively enforce labor laws, particularly where inspections and worker safety were concerned. On the regulatory side, inspectors were limited in number and in funding. A cabinet minister’s decision to halt surprise inspections due to significant funding cuts caused the number of labor inspections to decrease significantly. The government passed a regulation meant to cut the number of required inspections and certifications, many of which were associated with corruption. From July onward regulations required the State Labor Inspectorate to go through a lengthy interagency process to obtain permission to conduct an inspection. As a result the number of inspections dropped from an average of 3,500 per month to just 14 inspections in total from July through November. Authorities reduced funding to the State Labor Inspectorate by 70 percent in advance of a reorganization of the service, which resulted in cutting employment for inspectors to part time.</p>
+<p>Penalties for infractions were normally administrative and did not constitute an effective deterrent. Fines ranged from 510 to 1,700 hryvnia ($32 to $107). Labor activists and the media noted companies had long found ways to either co-opt or work around unions to make staffing changes. Cases brought before courts were often subject to lengthy delays and appeals.</p>
+<p>Apart from events related to the former Yanukovych government’s treatment of EuroMaidan, the government respected freedom of association and the right to collective bargaining. The question of independence from government and employer control was a contested issue, with independent trade unions alleging the country’s largest trade confederation, the FPU, enjoyed a cozy relationship with employers and had an especially close relationship with the former government and the Party of Regions. For example, a former head of the FPU had been Yanukovych’s chief of staff.</p>
+<p>The government continued to deny unions not affiliated with the FPU a share of disputed trade union assets inherited by the FPU from the Soviet era.</p>
+<p>Statutory worker-management commissions were not always effective, and enforcement was arbitrary and inconsistent. Management, or union representatives co-opted by management, at times dominated these commissions. Workers renouncing membership in an FPU-affiliated union and joining a new union faced loss of pay, undesirable work assignments, and dismissal.</p>
+<p>In March Volodymyr Stepanenko, the chair of the Independent Trade Union of Miners of Ukraine (NPGU) at Kalinina mine, filed a formal complaint alleging that mine management threatened independent union members with dismissals and salary cuts. Threats by employers significantly reduced the independent union’s membership.</p>
+<p>Russia-backed militants and organized criminals in the Donbas region attacked union organizations, leaders, and individual union members. The attacks involved systematic kidnapping of union and enterprise officials and threatening enterprises to extort money, equipment, or personnel. For example, on May 4, Donetsk separatists captured and reportedly tortured two NPGU miners, Oleksandr Vovk and Oleksandr Gurov. In June militants kidnapped Ivan Reznichenko, the NPGU head at state enterprise Artemsil (in Soledar, Donetsk oblast), on his way home from work.</p>
+<p>Under the Yanukovych government, there were widespread reports of state-owned businesses and private progovernment businesses pressuring or threatening employees to attend “progovernment” rallies and not to attend pro-Maidan events. In January chairmen of NPGU primary organizations at Donetsk oblast mines in towns such as Krasnyi Louch, Krasnoarmiysk, Dobropillia, Selidovo, Makiivka, and Pervomaysk were reportedly forced by mine management to participate in the rallies with the slogans “No to Strikes!” and “No to Maidan!” State-owned businesses were complicit in trying to prevent workers from participating in the massive “EuroMaidan” demonstrations in Kyiv and across the country. In some cases state security services threatened individuals attempting to travel to Kyiv to participate in demonstrations with loss of employment or the loss of employment by family members.</p>
+<p>There were several cases of companies, private and state-owned, not honoring collective bargaining agreements during bankruptcies. Wage arrears were common in the country and increased during the year (see section 7.e.).</p>
+<p>Labor NGOs operated in the country and focused on compliance with international labor standards and supporting the independent labor movement. The International Labor Organization (ILO) had an office in the Ministry of Social Policy, and the ministry routinely consulted it. An ILO representative served on various boards and committees. One NGO, the Solidarity Center, focused on fostering independent unions and provided economic and legal training for union leaders.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. Nevertheless, there were reports women, men, and children were trafficked for labor. Resources, inspections, and remediation were inadequate to ensure enforcement. Penalties for violations ranged from three to 15 years’ imprisonment and were sufficiently stringent to deter violations. As of October 1, the International Organization for Migration assisted 642 victims of trafficking (282 women and 360 men), 90 percent of whom were victims of labor exploitation.</p>
+<p>Traffickers subjected some foreign nationals to forced labor in construction, agriculture, manufacturing, domestic work, the lumber industry, nursing, and forced begging. Traffickers subjected some children to forced labor (see section 7.c.).</p>
+<p>Reports indicated Russia-backed separatists in the Donbas region subjected citizens to forced labor in “punishment squads,” including forcing individuals to work without pay near the front lines at military checkpoints. These punishment squads were composed of people separatists detained for minor infractions, such as breaking the curfew.</p>
+<p>Also, see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law sets 16 as the minimum age for most employment. Children who are 15 years of age may perform “light work” with a parent’s consent, but the law does not clearly define the term. The law allows children to do some forms of work beginning at age 14 as part of an apprenticeship in the context of a vocational training. The government did not effectively enforce the law.</p>
+<p>The most frequent violations of labor law for minors related to their work in hazardous conditions, long workdays, failure to maintain work records, and delayed salary payments.</p>
+<p>A 2012 Office of the Ombudsman for Children’s Rights study on child labor trends found child labor in agriculture (30 percent), sales activities in kiosks and in the distribution of advertising leaflets (25 to 30 percent), construction (19 percent), and other unskilled positions. The survey was not nationally representative and did not include children in the informal sector. Children from socially disadvantaged families and those in state custody remained at high risk of being trafficked or exploited inside the country for begging. Commercial sexual exploitation occurred (see section 6, Children). Most child labor in the informal sector occurred in the agricultural and service sectors.</p>
+<p>During the year enforcement of child labor laws deteriorated due to administrative barriers and lack of funding (see section 7.a.). The number of cases officials prosecuted remained a small fraction of cases inspectors discovered. Resources and inspections were inadequate. Penalties for violations ranged from small fines to prison sentences and were insufficient to deter violations. The penalty for forcing children to beg is imprisonment for up to three years.</p>
+<p>The State Labor Inspectorate reportedly conducted 5,038 child labor inspections through October and identified 287 working minors, three of whom were 14 or 15 years old. Twelve of the employed minors were 15 or 16 years old, while the remaining 272 children were between the ages of 16 and 18. The State Labor Inspectorate discovered 202 employers using child labor. Inspectors filed 101 administrative cases against employers, and the inspectorate passed 19 cases to law enforcement bodies for action.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Laws and regulations prohibit discrimination in employment or occupation with respect to race, gender, disability, language, or HIV-positive status. The antidiscrimination laws do not specifically identify sexual orientation or gender as a protected class. Discrimination in employment and occupation occurred with respect to gender, disability, nationality, race, minority status, sexual orientation or gender identity, and HIV-positive status.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>As of January 1, the national monthly minimum wage for all sectors was 1,218 hryvnias ($77). The government based the minimum wage on the monthly subsistence income level that it set. The government cancelled increases in the minimum wage planned for July and October, citing the country’s difficult political and economic situation. As a result the subsistence income level remained unchanged through the year. In May and June, the minimum wage was raised by 3 percent, to reflect inflation, to 1,255 hryvnia ($79). Workers in the informal sector received wages below this established minimum.</p>
+<p>The law provides for a maximum 40-hour workweek, a 24-hour period of rest per week, and at least 24 days of paid vacation per year. It provides for double pay for overtime work and regulates the number of overtime hours allowed. The law requires agreement on all overtime between employers and the respective local trade union organization and sets limits on the number of overtime hours allowable. Authorities did not always effectively enforce regulations covering rest periods, maximum work hours, and overtime.</p>
+<p>Wage arrears increased 156 percent from January through October 1. According to the State Statistics Committee, arrears stood at 1.93 billion hryvnia ($120 million) as of October. Most arrears accumulated in industry, but also significantly affected construction, transport, communications, real estate, and agricultural enterprises.</p>
+<p>The law requires employers to provide safe workspaces. While the law and associated regulations contain occupational safety and health standards, employers frequently ignored them because of the lack of enforcement mechanisms and the government’s failure to hold employers accountable for unsafe working conditions.</p>
+<p>The government did not effectively enforce minimum wage, hours of work, and occupational safety and health standards. The State Labor Inspectorate was responsible for enforcing labor laws. As of July 1, the inspectorate’s staffing schedule provided for 780 labor inspector positions, but the agency employed only 616 inspectors nationwide, which was not enough to monitor all employers. A 70 percent funding cut spurred inspectors to leave the service. By November 1, the number of inspectors had dropped to 457. Penalties for violations ranged from 510 to 1,700 hryvnia ($32 to $107), which were insufficient to deter violations.</p>
+<p>Lax safety standards and aging equipment caused many injuries on the job. The mining sector proved particularly problematic, with wage arrears, nonpayment of overtime, and operational safety and health complaints common.</p>
+<p>Mineworkers, particularly in the illegal mining sector, faced very serious safety and health problems. Through September there were 77 mining fatalities, almost 5 percent more than for the same period in 2013. From January to September, 1,771 coal miners were reported injured, almost 31 percent fewer than reported in the same period in 2013. There were 4,891 work-related injuries across all employment types through September, or 27 percent fewer than in the first nine months of 2013. Work-related fatalities through October totaled 422 persons, a 2.2 percent decline from the same period in 2013. Workers faced unsafe situations in areas of conflict in Donetsk and Luhansk oblasts.</p>
+<p>Despite armed conflict taking place close to industrial enterprises in the Donbas region, enterprises largely continued to operate through July. Fighting resulted in physical damage to mines and plants by causing loss of power, destroyed transformers, physical damage to enterprises from shelling, and reportedly intentional flooding of mines by separatists. Miners were especially vulnerable, as loss of electrical power could strand them underground. Additionally, loss of electrical power threatened to make safety equipment that prevented the buildup of explosive gases in mines inoperable.</p>
+<p>Raids by pro-Russia militants made workplaces in Donbas unsafe. For example, on May 22, armed men took control of mines owned by Lisichanskugol in Luhansk, stealing equipment and explosives. On June 21, gunmen attacked a DTEK-owned mine in Komsomolets, stealing equipment and cash while workers were held at gunpoint. From January through October, there were 45 workplace fatalities, including nine miners, attributed to conflict with pro-Russian militants. Many coalmines in conflict areas eventually halted operations (see section 1.g.).</p>
+<p>The law provides workers the right to remove themselves from dangerous working conditions without jeopardizing their continued employment. According to one NGO that follows labor issues, employers in the metal and mining industries often violated the rule and retaliated against workers by pressuring them to quit.</p>
+<p> </p>
+<!-- start multiple doc exception links -->
+<div class="viewer-links">
+<b>READ A SECTION:</b> UKRAINE (ABOVE) | <a href="/j/drl/rls/hrrpt/humanrightsreport/index.htm?dynamic_load_id=237935&amp;year=2014">CRIMEA</a></div>
+<div class="old-format-links">
+<b>READ A SECTION:</b> UKRAINE (ABOVE) | <a href="/j/drl/rls/hrrpt/2014/eur/237935.htm">CRIMEA</a></div>
+<!-- end multiple doc exception links --></div>
+</div>
+</div>
+</div>
+</div>

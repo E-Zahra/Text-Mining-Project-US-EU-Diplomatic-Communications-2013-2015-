@@ -1,0 +1,514 @@
+2014
+Guinea
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366"> </span><span class="st_facebook" st_title="Guinea" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236366">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid;=236366</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=executive"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Guinea is a constitutional democratic republic in the early stages of a transition from decades of authoritarian rule. In 2010 the country inaugurated Alpha Conde, the candidate of the Rally of the Guinean People Party and longtime opposition leader, as its first democratically elected president since independence from France in 1958. The country began its second major step toward democratic transition on September 28, 2013, when voters participated in the country’s first competitive and inclusive legislative election, electing a 114-member National Assembly. International, regional, and domestic observers generally regarded the legislative elections as free and fair, despite technical shortcomings. The holding of legislative elections was part of a July 2013 political accord, but other provisions of the accord--including investigating 2012-13 political violence, revising the electoral code, resolving the dispute over local elections, and ensuring an unbiased and impartial role by the National Election Committee--had not been implemented by year’s end. Despite tighter rules of engagement and a prohibition on the use of lethal force during street protests, elements of the security forces on occasion acted independently of civilian control.</p>
+<p>The most serious human rights problems included life-threatening prison and detention center conditions; denial of fair trial; and violence and discrimination against women and girls, including forced and early marriage and female genital mutilation/cutting (FGM/C).</p>
+<p>Other human rights problems included the following: security force killings and use of excessive force; arbitrary arrest; lengthy pretrial detention and indefinite detention, including of political prisoners; arbitrary interference with family and home; restrictions on freedoms of press and assembly; corruption at all levels of government; discrimination against persons with disabilities; human trafficking; and forced labor, including by children.</p>
+<p>Impunity remained a problem. The government took minimal steps to prosecute or punish officials who committed abuses during the year or in years past.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section1"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were reports the government or its agents committed arbitrary or unlawful killings. Police use of excessive force resulted in the deaths of demonstrators (see section 2.b.).</p>
+<p>For example, in February police in Fria arrested Tafsir Sylla on marijuana charges and subsequently beat him to death while he was in custody. Authorities had taken no action against the perpetrators by year’s end.</p>
+<p>Despite a promise by the prime minister to investigate 2012-13 political violence that resulted in at least 50 deaths, no investigation results were released by year’s end, and many observers doubted an investigation had been conducted. The promise to investigate the deaths--many of which were perpetrated by gendarmes and police--was included in the July 2013 political accord.</p>
+<p>Communal violence resulted in deaths (see section 6).</p>
+<p>Impunity persisted for grave abuses perpetrated by state actors in years past, including the security force killings of at least 150 demonstrators and the rape of more than 100 women and girls in the 2009 stadium massacre. By year’s end only one person--a lower-level gendarme--had been tried and convicted of rape during the stadium massacre; four lower-level military officers arrested in 2010 remained in indefinite detention. Two of the indicted ringleaders of the massacre--Colonel Claude Pivi and Colonel Moussa Tiegboro Camara--remained in high-level government posts. As of October 1, the three-judge panel investigating the massacre had yet to interview former junta leader Dadis Camara, who remained in exile in Burkina Faso. In February, however, a Burkinabe judge interviewed Dadis Camara with questions provided by the Guinean panel; results of the interview were sealed pending completion of the investigation. Aboubacar “Toumba” Diakite, another indicted alleged ringleader and Dadis Camara’s aide de camp, was believed to be in hiding abroad. At least twice during the year, 2010 transitional leader General Sekouba Keita met with the International Criminal Court in The Hague and gave the prosecutor a list of the names of 50 persons he said were responsible for the massacre. By year’s end, however, authorities took no action to exhume any of the bodies reportedly buried by security forces in mass graves.</p>
+<p>The government took no action against the perpetrators of the killings of between 137 and 186 demonstrators in early 2007.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+<p>The government continued to take no action to investigate the disappearance of dozens of prodemocracy demonstrators following the 2009 stadium massacre. The Association for the Victims of September 28 estimated that 84 persons were missing and presumed dead.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law prohibit such practices, government officials continued to employ them with impunity. According to Freedom House, “security forces continue to engage in arbitrary arrests, torture of detainees, and extrajudicial executions with impunity.” According to local nongovernmental organizations (NGOs) that regularly visited Conakry Central Prison, however, there were fewer such reports than in previous years. Security force personnel used violence to quell demonstrations, which resulted in deaths and injuries (see section 2.b.).</p>
+<p>Abuse of inmates in prisons reportedly declined, but abuse in judicial police and gendarme detention centers continued. Gendarmes and police designated as “judicial police officers” (OPJs) routinely abused detainees to coerce confessions. Human rights activists noted the most egregious abuses occurred during arrest or in gendarme detention centers. According to NGOs, during the political violence in 2013, OPJs abused prisoners to intimidate protesters. Guards tortured, beat, raped, and otherwise abused detainees, including children. Guards coerced some women into exchanging sex for better treatment.</p>
+<p>There were reports of rape at police commissariats that went uninvestigated, including that of a former Sierra Leonean refugee reportedly detained at the Kapporo Rails police commissariat.</p>
+<p>The government took no action against officials responsible for the September 2013 arbitrary detention and abuse of 33 persons, who authorities held at the PM3 gendarme detention center in Matam and subsequently transferred to the Soronkony Military Camp near Kankan. The victims, all of whom were released in 2013, alleged their captors beat them and threatened them with death and torture at Soronkony. One prisoner subsequently died from injuries inflicted during his detention, according to the UN Office of the High Commissioner for Human Rights in Guinea (OHCHR).</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Conditions in civilian prisons, which are under the Ministry of Justice, remained harsh and life threatening. Abuse, poor sanitation, malnutrition, disease, and lack of medical attention were pervasive throughout the prison system and worse in gendarme and police detention facilities. Torture, beatings, bribery, and intermingling of minors, women, and men continued to be problems.</p>
+<p><u>Physical Conditions</u>: The government did not keep complete nationwide statistics on the number of prisoners held in prisons or in gendarmerie detention centers, but reputable NGOs estimated 2,500 prisoners were incarcerated in three civilian prisons nationwide. No statistics were available on the number of prisoners held in gendarmerie detention centers.</p>
+<p>As of June 10, Conakry Central Prison--with a capacity for 300 persons--held 1,181 inmates, including 96 women and 105 minors. Authorities held one woman--who was pregnant when arrested and lived in prison with her child--for more than four years without trial. A 14-year-old boy was held for more than a year for stealing a car battery. Authorities held minors in a separate section of the prison, where they slept on iron bunk beds with no mattresses or on the floor because it was too hot on the upper bunks below the buildings’ metal roof. Authorities did not separate pretrial detainees from convicted prisoners, and the prison system often was unable to track pretrial detainees after arrest.</p>
+<p>Most prisons and detention centers were overcrowded. In one section of Conakry Central Prison, approximately 700 prisoners were held in three buildings, with an estimated 50 prisoners packed into each of the cells that measured approximately 20 by 25 feet, with an open toilet and shower in the middle of each cell. Prisoners, who slept shoulder to shoulder on the floor due to overcrowding and lack of beds, were permitted to leave their cells only one hour each day. Prison officials converted rehabilitation facilities such as schools and workshops into dormitories due to overcrowding.</p>
+<p>In the two prisons outside of Conakry and in gendarmerie detention centers, men and women were intermingled. The country did not have a juvenile detention system, and officials generally held juveniles with adults in prisons outside the capital. Men, women, and children were intermingled at gendarmerie detention centers, sometimes with women sleeping in hallways outside the prison cells.</p>
+<p>Lack of medicine in prisons, combined with endemic malnutrition and dehydration, made infection or illness life threatening. Conakry Central Prison had a full-time doctor and medical staff but lacked medicine and funds. The prison had a sick ward where approximately 30 patients were crowded into a room 15 by 30 feet. One prisoner visited had a broken and disfigured leg treated only with a bandage; the prisoner claimed a gendarme broke his leg during arrest. Prisoners relied on family members, charities, or NGOs to bring medication, but visitors often had to pay bribes to provide the medicine to prisoners. Prisoners were sometimes close to death before they received treatment. According to the doctor at Conakry Central Prison, eight prisoners died from January through June due to malnutrition or lack of medical treatment for diseases such as tuberculosis. Although officials separated prisoners with tuberculosis in Conakry Central Prison, they held prisoners with tuberculosis together with uninfected inmates in other facilities.</p>
+<p>Neglect, mismanagement, and lack of resources were prevalent. Toilets did not function, and prisoners slept and ate in the same space used for sanitation purposes. Access to drinking and bathing water was inadequate. Many prisons were former warehouses with little ventilation. Temperatures were stifling, and electricity was insufficient.</p>
+<p>NGOs reported endemic malnutrition throughout the prison system. Authorities provided food at the Conakry Central Prison, but most prison directors relied on charities, the International Committee of the Red Cross (ICRC), and NGOs to provide food for inmates. The Conakry Central Prison claimed it began providing two meals a day to all inmates in 2011; however, NGOs claimed prisoners in Conakry and elsewhere still received only one meal per day and that many relied on food from their families or outside sources. Relatives often abandoned prisoners due to the difficulty and cost of travel to prisons and because guards often demanded bribes for delivering food they frequently confiscated.</p>
+<p>The OHCHR and NGOs noted that conditions at gendarmerie detention centers, which were intended to hold detainees for not more than two days while they awaited court processing, were much worse than in prisons. Such “temporary” detention could last from a few days to several months, and facilities had no established system to provide meals or medical treatment. As in the case of prisons, gendarmerie facilities were dank and fetid. The government routinely suspended habeas corpus.</p>
+<p>Although the Ministry of Justice administered civilian prisons, some prisoners exercised more power than guards, controlling conditions and cell assignments and providing better conditions to prisoners who were able to pay. Prison administrators and the supervisors of gendarme detention centers said they sometimes had to follow directives from their military or gendarme superiors, even when they conflicted with orders from the Ministry of Justice. Sometimes the court would order prisoners released, but guards would not release them until they paid bribes.</p>
+<p><u>Administration</u>: Authorities did not use alternatives to incarceration for nonviolent offenders. Prison recordkeeping was inadequate. If prisoners paid bribes for their release, records of their arrest often would be “lost.” There were no ombudsmen to respond to complaints. An inspector-general of prisons with the Ministry of Justice had responsibility for handling complaints, but this rarely occurred. There was a mosque and chapel at Conakry Central Prison. Prisoners could pray at normal prayer hours in the mosque or in their cells if the mosque was full. A priest visited the prison for regular Christian prayer sessions in the chapel. The local NGO Equal Rights for All (MDT) stated religious practice was restricted at other prisons. Prisoners and detainees have the right to submit complaints but seldom did so due to fear of reprisal by prison guards or gendarmes. Prisoners must use a lawyer to file a complaint, but lawyers were scarce and expensive. Prison authorities did not investigate credible allegations of abuse or inhuman prison conditions. For example, authorities did not execute arrest warrants for police officers accused in 2011 of torturing Djalla Moris to death in detention at the commissariat of Port of Conakry.</p>
+<p>Authorities sometimes imprisoned persons involved in civil litigation. For example, in August police arrested a guest at the Palm Camayenne Hotel for not paying his bills; he was detained at Conakry Central Prison at year’s end.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison visits by local humanitarian and religious organizations that offered medical care and food to those in severe need. Local NGOs--such as MDT and the Association for the Support of Refugees, Displaced Persons, and Detainees--as well as volunteers and religious groups received regular and unimpeded access to Conakry Central Prison. The ICRC had regular access to all civilian detention facilities and continued partnership programs with prison and security authorities to improve civilian prison conditions. The government also allowed international organizations and NGOs access to detention centers operated by the gendarmerie.</p>
+<p>Conditions in military prisons, which were under the Ministry of Defense, could not be verified since the government denied access to prison advocacy groups and international organizations. Although military authorities claimed they did not hold civilians at military prisons, previous cases contradicted this assertion. Reports indicated a prison continued to exist at a military camp on Kassa Island, but authorities refused to permit independent monitoring.</p>
+<p><u>Improvements</u>: NGOs cited some improvements, including a reduction in abuse at Conakry Central Prison. During the year a foreign bar association provided human rights training to guards in N’Zerekore and Kankan prisons.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, but the government did not always observe these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The gendarmerie, a part of the Ministry of Defense, and the National Police, under the Ministry of Security, share responsibility for internal security, although their mandates are not clearly defined. The army is responsible for external security but also plays a role in domestic security. The law permits the military, the gendarmerie, and police to make arrests, but only the gendarmerie can arrest members of the military and police. There are also special police or gendarme units, such as the Anti-Criminal Bureau and the Secretariat General of the Presidency in Charge of Special Services in the Fight against Drugs and Organized Crime. OPJs--mixed units of police and gendarmes with special training in investigative techniques--were responsible to the courts and investigated specific crimes.</p>
+<p>There were instances in which security forces failed to prevent or respond to societal violence. Police were unable to quell clashes over land rights in Mamou, Lelouma, Dalaba, and other areas, resulting in numerous injuries. In August youth in Kankan attacked the prison and governor’s house, and in May a mob killed two suspected criminals in Siguiri. In September villagers in Womey attacked an Ebola awareness team, killing at least 11 persons (see section 6).</p>
+<p>Police remained ineffective, poorly paid, and inadequately equipped. There were multiple reports of security service units disregarding their orders and resorting to excessive force.</p>
+<p>For example, in March, in the Cosa neighborhood of Conakry, police shot and killed a young man apprehended for driving without a license. Officials had not conducted an investigation into the killing by year’s end.</p>
+<p>Corruption remained widespread (see section 4). Administrative controls over police were ineffective, and security forces rarely followed the penal code. Few victims reported crimes due to the common perception that police were corrupt, ineffective, and dangerous.</p>
+<p>The government continued reform efforts by standardizing uniforms, providing identity cards, and removing imposters. The gendarmerie continued to receive improved training and equipment. The government established strict rules of engagement for protest marches, with standing orders to allow destruction of property--including police stations--rather than resort to lethal force.</p>
+<p>There were limited internal and external mechanisms to investigate security force abuse, and these mechanisms were ineffective due to a lack of professionalism and skills and a dysfunctional judicial system.</p>
+<p>Impunity remained a widespread problem, and the government took minimal steps to prosecute or punish officials who committed abuses.</p>
+<p>For example, authorities had tried no perpetrators in the 2012 killing of Aissatou Boiro, an anticorruption activist, by year’s end. Authorities arrested two persons in 2012 and charged them with the killing but later released one of the suspects when a criminal court employee forged the prosecutor’s signature on court documents. Authorities rearrested the suspect, but the case had not gone to trial by year’s end.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Although the law requires arrest warrants, police arrested many persons without warrants. The law also provides that detainees be charged before a magistrate within 48 hours, renewable once if authorized by a judge, but many detainees were held for longer periods. Authorities held most prisoners in the three main prisons indefinitely without trial. In cases involving national security, the law allows the length of time to be doubled to 96 hours, renewable once. The OHCHR noted some improvement in adhering to the 48-hour regulation at gendarmerie detention centers, but violations persisted.</p>
+<p>The law precludes the arrest of persons in their homes between 9 p.m. and 6 a.m., but night arrests occurred. After being charged, the accused may be held until the conclusion of the case, including a period of appeal. Authorities must inform detainees of charges against them within 48 hours. Authorities routinely ignored the legal provision entitling defendants to an attorney and did not provide indigent defendants with an attorney at state expense. Although the law prohibits incommunicado detention, it occurred. Release on bail was at the discretion of the magistrate who had jurisdiction. The law allows detainees prompt access to family members, but such access was sometimes denied or allowed only if an official was present, or if the family member paid a bribe for access.</p>
+<p><u>Arbitrary Arrest</u>: Many arrests took place without warrants and in violation of other due process protections provided in the law. Police arbitrarily arrested and detained opposition members. Authorities also arrested family members for alleged offenses committed by other individuals (see sections 1.e. and 1.f.).</p>
+<p><u>Pretrial Detention</u>: Authorities held approximately 75 percent of prisoners in indefinite pretrial detention. They often held pretrial detainees three years or more before trial completion, and sentencing or release. Judicial inefficiency and corruption contributed to the long delays.</p>
+<p>Lost files also resulted in indefinite detention without possibility of release. In May in Dixinn, authorities convicted five detainees, although a fire had destroyed their files a few months earlier. The five, who remained in prison at year’s end, claimed the government arbitrarily arrested them as a form of political harassment.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law provide for an independent judiciary, the judicial system lacked independence and was underfunded, inefficient, and overtly corrupt. Budget shortfalls, a shortage of qualified lawyers and magistrates, an outdated and restrictive penal code, nepotism, and ethnic bias limited the judiciary’s effectiveness. As of 2012 the country had only 200 magistrates (judges, court reporters, and prosecutors). As a result, in the lowest courts in prefectural regions (Courts of the Peace), one person often acted as judge, prosecutor, and court reporter. Regularly scheduled criminal trials with the Cour d’Assises (High Crimes Court) resumed in 2012 after a seven-year suspension. The court, which is supposed to meet three times a year to try “high crimes,” had only met one time by year’s end. Domestic court orders often were not enforced. For example, some prisoners freed by the courts remained in prison because they could not pay “exit fees” to guards. On the other hand, politically connected criminals often escaped prosecution.</p>
+<p>Many citizens, wary of judicial corruption or with no other choice, relied on traditional systems of justice at the village or urban neighborhood level. Litigants presented their civil cases before a village chief, a neighborhood leader, or a council of “wise men.” The dividing line between the formal and informal justice systems was vague, and authorities sometimes referred a case from the formal to the traditional system to assure compliance by all parties. Similarly, a case not resolved to the satisfaction of all parties in the traditional system could be referred to the formal system for adjudication. In the traditional system, evidence given by women carried less weight.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Trials are public, and juries are used for criminal cases in the High Crimes Court. Defendants have the right to be present and to consult with an attorney in a timely manner. The prosecution prepares a case file, including testimony and other evidence, and provides a copy for the defense. Defendants have the right to confront and question prosecution witnesses and to present witnesses and evidence on their own behalf. The law provides for the presumption of innocence of accused persons, the independence of judges, the equality of citizens before the law, the right of the accused to counsel (but only for major crimes), and the right to appeal a judicial decision, but these rights were not consistently observed. Authorities must inform defendants in detail of the charges, with free interpretation as necessary, and charge or release them within 48 hours, but authorities did not always respect these rights. Defendants generally had adequate time but not the facilities, such as access to a lawyer, to prepare a defense. Most cases never came to trial. Officials may not hold defendants for more than six months to a year (depending on the charge) before trial. Authorities frequently denied defendants these rights.</p>
+<p>Although the government was responsible for funding legal defense costs in serious criminal cases, it rarely disbursed funds for this purpose. The attorney for the defense, if there was one, frequently received no payment. Authorities allowed detainees’ attorneys access to their clients, but often in the presence of prison guards or gendarmes. The defendants were not compelled to incriminate themselves, but torture in detention centers undermined this protection.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>No estimates were available on the number of political prisoners or detainees, but observers believed there were few. In 2013 more than 100 opposition members were arrested and detained, but all were released in 2013. The government arrested a few individuals as “political intimidation” but released them shortly thereafter, according to NGOs. The government permitted access to such persons on a regular basis by the ICRC.</p>
+<p>General Nouhou Thiam and four other military personnel remained in prison in connection with the July 2011 assassination attempt on President Conde. They were awaiting a military tribunal, although the country has no military court despite a constitutional provision requiring one. Since no trial of General Thiam had begun, and the prospect for one looked unlikely, most NGOs considered him a political prisoner.</p>
+<p>In July 2011 the government arrested, detained, and convicted Fatou Badiar in connection with the 2011 assassination attempt on the president. NGOs claimed her arrest and detention were a government attempt to take revenge on her family because of her brother’s involvement. Authorities held Badiar in solitary confinement for four months at gendarme detention center PM3, where she claimed she was physically abused and denied medical care. They subsequently transferred Badiar to Conakry Central Prison under better conditions.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for a judicial procedure in civil matters, including lawsuits seeking damages for human rights violations. Nevertheless, the judicial process was neither independent nor impartial, and bribes and political and social status often influenced decisions. There were few lawsuits seeking damages for human rights violations, in part due to public fear of suing security force members and lack of confidence in the competence and impartiality of the judiciary. Domestic court orders often were not enforced. NGOs that filed cases for civilians in 2012, 2013, and 2014--ranging from torture to indefinite detention--claimed their cases had yet to be heard.</p>
+<p>One case, however, made it to trial. On April 10, the tribunal of first instance in Kaloum found Colonel Ansoumane “Bafoe” Camara, the head of the National Police’s operation unit, guilty of one charge of violating a person’s home. The tribunal ordered him to pay four million Guinean francs (GNF) ($563) to Doussou Thermite Mara, a police commissioner. Mara had accused Camara of invading her home in August 2013, violating her public rights, and assault. Camara, who authorities ordered to stand trial several times in 2013, never appeared at court.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions, but police reportedly ignored legal procedures in the pursuit of criminal suspects or when it served their interests (see section 1.e.). Authorities sometimes removed detainees from their homes at all hours, stole their personal belongings, and demanded payment for their release.</p>
+<p>Authorities took no action against police and gendarmes who in 2013 attacked the home of Cellou Dalein Diallo, head of the opposition Union of Guinea’s Democratic Force, despite the promise of an investigation.</p>
+<p>The government continued to punish family members for alleged offenses committed by other individuals.</p>
+<p>For example, in July police arrested 72-year-old Dian Bailo Diallo, whom authorities held without charge for more than two months at Conakry Central Prison. Diallo’s son, Mamadou Diallo, had accused a ruling party supporter of assault with a knife, and the lawyer for the elder Diallo speculated that authorities arrested the father to pressure the younger Diallo to drop his complaint. Although numerous persons witnessed the assault, the government took no action to investigate or prosecute the perpetrator.</p>
+<p>In 2011 Alseny Diakite, the brother of Aboubacar “Toumba” Diakite--an indicted alleged ringleader in the 2009 Stadium Massacre--was killed. Observers speculated that the killing was an effort to encourage Toumba to come out of hiding after his participation in the 2009 attempt to assassinate former president Camara. Another one of his brothers remained in hiding.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section2"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and of the press, but the government restricted press freedoms.</p>
+<p><u>Press Freedoms</u>: Independent and opposition-owned media were active and generally expressed a wide variety of views. Print media had limited reach due to the low literacy rate (41 percent) and the high cost of newspapers. Radio remained the most important source of information for the public, and numerous private stations broadcast throughout the country. FM radio call-in shows were popular and allowed citizens to express broad discontent with the government. An increase in online news websites reflected the growing demand for divergent views. Nevertheless, allegations of personal corruption or “insulting” statements could result in government reprisals, including suspensions and fines.</p>
+<p><u>Violence and Harassment</u>: There were reports of direct physical attacks, harassment, and intimidation of journalists by government and military officials.</p>
+<p>In April Bate FM’s director, Moussa Diawara--who fled to Mali following an August 2013 attack by progovernment demonstrators--returned to Kankan, where he continued to work as a journalist.</p>
+<p>Civilian attacks on journalists resulted in deaths, injuries, and the destruction of property. For example, in September a mob attacked a local government delegation during an anti-Ebola event in the village of Womey; at least 11 persons were killed, including two rural radio journalists and a third reporter from N’Zerekore Radio Liberty (see section 6).</p>
+<p><u>Censorship or Content Restrictions</u>: The government penalized stations and journalists who broadcast items criticizing government officials and their actions.</p>
+<p>For example, in August police operating under the authority of the minister of communications threatened to shut down Espace FM and Espace TV, charging the studios operated without a government license. Espace FM, which often investigated allegations of government corruption on its popular political talk show “Les Grandes Gueles” (The Big Mouths), claimed the government refused to answer the requests of its parent company, Hadafao Media, for a television license. As a result Espace TV was not available on Guinean television but broadcast through agreements with a French station and was accessible via satellite.</p>
+<p>Some journalists accused government officials of attempting to influence the tone of their reporting with inappropriate pressure and bribes. Others hired bodyguards, and many practiced self-censorship.</p>
+<p><u>Libel Laws/National Security</u>: Libel against the head of state, slander, and false reporting are subject to heavy fines. Officials used these laws to harass opposition leaders, although there were no such reports during the year.</p>
+<p>In October, OPJs summoned reggae singer Elie Kamano, who alleged in an interview that the president was not from Guinea. They asked Kamano to apologize to the president and to sign a statement promising not to disparage the president again. Kamano reportedly refused to apologize or sign the statement.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. Although companies expanded internet service during the year, less than 2 percent of individuals had access to the internet.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of assembly, but the government restricted this right. The law bans any meeting that has an ethnic or racial character or any gathering “whose nature threatens national unity.” The government requires a 72-working-hour advance notification for public gatherings. The law permits local authorities to prohibit a demonstration or meeting if they believe it poses a threat to public order. Authorities may also hold event organizers criminally liable if violence or destruction of property occur.</p>
+<p>Police use of excessive force to disperse demonstrators--often protesting poor public services--resulted in deaths and injuries. For example, in February police shot and killed a bystander during a protest by women demanding fresh water in the Hamdallaye district of Conakry.</p>
+<p>Unlike in the previous year, there were no significant political protests, in large part because organizers cancelled demonstrations to urge completion of the July 2013 political accord due to the Ebola epidemic.</p>
+<p>The government interfered, however, with one political party’s attempt to hold a national congress meeting. The Union of the Republican Forces (UFR) had planned to hold its congress in June at the “Palace of the People.” The UFR reserved the venue and made payments to rent the hall and provide fuel for generators. When party supporters from across the nation arrived on the morning of June 7, however, the gates were locked, and the congress was not allowed to take place.</p>
+<p>In September a group representing victims and families of victims of the 2009 stadium massacre sought permission to hold a peaceful ceremony and plant flowers at the stadium on the fifth anniversary of the massacre. The governor of Conakry and the local municipality denied them the right to do so.</p>
+<p>Part of the July 2013 political accord promised an investigation into the political violence that resulted in the deaths of more than 50 persons in 2012 and 2013, and to hold perpetrators accountable and indemnify victims. The government had not conducted an investigation by year’s end.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of association, and authorities generally respected this provision. Requirements to obtain official recognition for public, social, cultural, religious, or political associations were not cumbersome, although bureaucratic delays sometimes impeded registration.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. Police and security forces, however, continued to detain persons at roadblocks to extort money, impeding the free movement of travelers and threatening their safety. The Ebola epidemic further complicated matters as authorities closed borders with Senegal, Sierra Leone, and Liberia, impeding the movement of persons and goods. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, stateless persons, and asylum seekers.</p>
+<p><u>In-country Movement</u>: The government required all citizens over age 18 to carry national identification cards, which they had to present on demand at security checkpoints.</p>
+<p>In 2012 the government announced the elimination of all roadblocks on the highways but declared it would maintain checkpoints along the borders and on certain strategic routes in Conakry. Police and gendarmes, however, set up random checkpoints throughout the capital and the country and routinely asked drivers to pay “tolls” or other illegal fees. Police and gendarmes occasionally robbed and beat travelers at these checkpoints and sometimes threatened them with death. High-level government officials acknowledged the practice continued but claimed to be powerless to stop it.</p>
+<p>In addition to closing borders in response to the Ebola epidemic, the government also banned large public gatherings and cancelled all public concerts. It also postponed independence celebrations and the traditional festival in Kankan.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>Interethnic violence in parts of the country occasionally resulted in limited internal displacement. Humanitarian organizations were able to access these populations and provided assistance.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>The country hosted refugees from neighboring countries, including Cote d’Ivoire, Liberia, and Sierra Leone. As of August the UNHCR estimated the total population of concern to be 8,696 persons, including 6,598 Ivoirians. The country was also home to 1,763 UNHCR-recognized refugees from Liberia and 191 from Sierra Leone.</p>
+<p>A few hundred persons from Sierra Leone sporadically protested the loss of their refugee status, which expired in 2009.</p>
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. According to the UNHCR, 319 persons asked for asylum during the first half of the year.</p>
+<p><u>Access to Basic Services</u>: Refugees had access to basic services such as education and health services. Due to the Ebola crisis, however, authorities closed schools nationwide.</p>
+<p><u>Temporary Protection</u>: The government continued to provide temporary protection to approximately 65 individuals of various African nationalities who may not qualify as refugees under the 1951 Convention relating to the Status of Refugees or its 1967 Protocol.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>There were a few hundred effectively stateless persons, who originally came from Sierra Leone. These persons did not meet any of the criteria for Guinean citizenship--birth within the country, marriage, naturalization, or parental heritage. According to the UNHCR, these refugees requested neither repatriation nor local integration after the invocation of the cessation clause for refugees from Sierra Leone. Some of this population lived in abandoned refugee camps, while others moved from former refugee sites in Kissidougou to artisanal gold-mining areas in the northeast of the country.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section3"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law provide the ability of citizens to change their government through free and fair elections, but citizens were restricted in their ability to exercise this right.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: After more than two years of delay, citizens voted in the country’s first competitive and inclusive legislative election on September 28, 2013. Violent protests resulted in the postponement of elections scheduled for May 2013 and June 2013. The July 2013 political accord allowed elections to go forward, and more than three million citizens went to the polls peacefully and elected a 114-member National Assembly. While there were reports of technical and logistical difficulties, as well as a lack of voter and poll worker education, domestic and international observers largely regarded the election as free and fair. No party emerged with a majority, but the ruling party won a plurality of seats and formed a majority with its coalition partners. The National Assembly convened on January 13.</p>
+<p>With the 2010 presidential election and the 2013 legislative election, the country completed two important steps in its democratic transition. The constitution, however, calls for local elections within six months of the installation of the National Assembly. Although the Assembly convened in January, communal elections--last held in 2004--were not conducted by year’s end.</p>
+<p><u>Political Parties and Political Participation</u>: There were no official restrictions on political party formation beyond registration requirements, but parties may not represent a single region or ethnicity. According to the Ministry of Territorial Affairs and Decentralization, there were an estimated 140 registered political parties. Only 29 parties actually registered candidates for the September 2013 legislative elections.</p>
+<p>Opposition access to state media was usually limited or nonexistent throughout the year. During the legislative election campaign in 2013, however, the government instituted and adhered to an equal access policy for all parties, granting all parties the same amount of time to broadcast messages on national television and Rural Radio. The opposition had more access to private media and in some cases owned their own radio stations and newspapers. On election day all radio stations agreed to work together and broadcast the same news programs and updates throughout the day.</p>
+<p><u>Participation of Women and Minorities</u>: Five of 34 cabinet ministers were women, and 25 of the 114 National Assembly deputies were women.</p>
+<p>Minority ethnic groups had representation in the National Assembly, the courts, and the cabinet. The electoral code requires 30 percent of candidates for any party competing for seats in the National Assembly to be women. Not every party adhered to this rule, which was not enforced.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section4"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Although the law provides criminal penalties for corruption by officials, the government did not implement the law effectively, and officials often engaged in corrupt practices with impunity. The World Bank’s most recent Worldwide Governance Indicators reflected that corruption continued to be a severe problem. Officials diverted public funds for private use or for illegitimate public uses, such as buying expensive vehicles for government workers. Land sales and business contracts generally lacked transparency.</p>
+<p>On July 4, the country reached a major milestone by winning the Extractive Industries Transparency Initiative certification of compliance for the first time.</p>
+<p>A poll by Afrobarometer and Stat View International of 1,200 citizens from 2011 to 2013 found 57 percent of respondents reported paying a bribe within the past 12 months. A separate survey by the National Agency to Fight Against Corruption (ANLC), Open Society Initiative West Africa, and Transparency International found that among private households, 61 percent of respondents claimed they were asked to pay a bribe for national services and 24 percent for local services. In addition 24 percent claimed to have paid traffic-related bribes to police, 24 percent for better medical treatment, 19 percent for better water or electricity services, and 8 percent for better judicial treatment.</p>
+<p><u>Corruption</u>: In March, two local NGOs and a human rights lawyer filed suit against two government ministers and another high-ranking government official for alleged corruption in the Public Works Ministry. The public prosecutor in Dixinn, however, did not press charges. The NGOs attempted to organize a sit-in at the court to publicize their case but cancelled the event due to the Ebola epidemic.</p>
+<p>The government continued 2013 efforts to identify and prosecute corrupt officials involved in the awarding of iron ore concessions to BSG Resources Limited. Interpol and a foreign government were assisting in these efforts.</p>
+<p>Security force corruption was endemic. Police and gendarmes ignored legal procedures and extorted money from citizens at roadblocks, in prisons, and in detention centers. The government reduced the number of road checkpoints, but traders, small business operators, drivers, and passengers were still obliged to pay bribes in order to pass. Observers noted prisoners exchanging money with guards in exchange for favors.</p>
+<p>The judicial system was endemically corrupt. Magistrates were poorly paid and had no assurance of tenure. Judicial authorities routinely required bribes in exchange for favorable rulings. Gendarmes, police, and prison guards--also poorly paid--offered to release prisoners in exchange for bribes, including prisoners to whom the courts had already granted release. Police and court officials often asked defendants in criminal and civil cases for money to reduce or eliminate charges.</p>
+<p>For example, in September authorities arrested and detained a foreign citizen for incurring and failing to pay $40,000 in charges at a luxury hotel. Several times during his detention and during court proceedings, he claimed police and court officials promised his release if he paid a lesser amount to them directly. He said police instructed him repeatedly to pay them $20,000 directly and not to pay the hotel. As of October 1, the foreign citizen remained in detention for failure to pay the debt.</p>
+<p>Business leaders asserted that regulatory procedures were opaque and facilitated corruption.</p>
+<p>The ANLC, created in 2004, is the only state agency focused solely on fighting corruption. It is an autonomous agency but reports directly to the presidency. The ANLC receives anonymous tips concerning possible corruption cases received by the Bureau of Compliant Reception. During the past two years, however, there were no prosecutions based on any of these tips. ANLC Executive Director Francois Falcone claimed the agency lacked everything needed to function adequately, including computers, vehicles, and funds. The ANLC had a budget of 7.7 billion GNF ($1.08 million) per year.</p>
+<p><u>Financial Disclosure</u>: Public officials are not subject to public disclosure laws. The electoral code bars persons from certain types of financial activity if they are members of or candidates for the National Assembly. They may not be paid by a foreign state; be the chief executive officer (CEO), a deputy of a CEO, or the president of a company under state control; or be a shareholder in an enterprise under state control or reliant on state subsidies or other state benefits. Despite these rules, some National Assembly members depended on state revenues to support their businesses, such as operating schools funded by public tuition. Authorities threatened to cut the state subsidies of some National Assembly members if they did not support the ruling party.</p>
+<p><u>Public Access to Information</u>: Although in 2010 the National Transition Council adopted a law providing free access to government information, free access was not regularly provided. Lower-level bureaucrats often did not respond to requests in a timely fashion, if at all. Government websites and other files functioned poorly, provided little information, and were not easy to navigate.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section5"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Some domestic and international human rights groups monitored and attempted to disseminate information on human rights abuses. They generally operated without government restriction. NGOs are required to renew their permits with the government every three years.</p>
+<p>Despite the government’s willingness to meet with and listen to NGOs on human rights, it did not often act on their requests or suggestions. For example, the government continued to ignore a request from human rights groups and the international community to dismiss or place on administrative leave government officials indicted in connection with the 2009 stadium massacre.</p>
+<p><u>Government Human Rights Bodies</u>: In 2012 the government established its first Ministry of Human Rights and Public Freedoms and named Diaby Gassama Kalifa as its first minister. The ministry’s purpose is to promote human rights awareness and fight impunity, but it does not fulfill the requirement for an independent human rights commission, as called for in the constitution. NGOs, nevertheless, considered establishing the ministry an important step. Although part of the government, the ministry continued to assert its independence, and observers praised Minister Diaby for raising the profile of human rights.</p>
+<p>The Provisional Commission for National Reconciliation, established in 2011 to promote reconciliation for human rights abuses committed since independence, continued to operate. Lack of financial support and delayed legal proceedings prevented the commission from achieving significant objectives.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section6"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law states that all persons are equal before the law regardless of race or gender; however, it does not specifically prohibit discrimination based on sex, disability, language, sexual orientation, gender identity, or social status. The government did not enforce these provisions uniformly. A new labor code adopted in February prohibits discrimination in employment based on gender, disability, or ethnic identity.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape and domestic violence, but both occurred frequently, and authorities rarely prosecuted the perpetrators. The law does not address spousal rape. Rape is punishable by five to 10 years in prison. The penalty increases to 20 years’ imprisonment if the rape is committed against a pregnant woman, a gun is used, an accomplice is involved, or the rape involves incest. According to a 2011 government study, 91 percent of women were victims of gender-based violence and 49 percent of sexual assault. Victims reported less than 1 percent of these crimes to police due to custom, fear of stigmatization and reprisal, and lack of cooperation from investigating police or gendarmes. Studies indicated citizens also were reluctant to report crimes because they feared police would ask the victim to pay for the investigation. The police Office for Protection of Women, Children, and Morals (OPROGEM) referred for investigation 20 rape cases through June, including 17 against minors.</p>
+<p>Violence against a woman causing an injury is punishable by up to five years in prison and a fine of up to 30,000 GNF ($4.22). If the injury causes mutilation, amputation, or other loss of body parts, it is punishable by 20 years’ imprisonment; if the victim dies, the crime is punishable by life imprisonment. The law does not directly address wife beating, although authorities may file charges under general assault, which carries sentences of two to five years in prison and fines of 50,000 to 300,000 GNF ($7 to $42). Assault constitutes grounds for divorce under civil law, but police rarely intervened in domestic disputes or punished perpetrators.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits FGM/C, which occurred in all regions and among all religious and ethnic groups (see section 6, Children).</p>
+<p><u>Sexual Harassment</u>: In February the government adopted a new labor code that prohibits all forms of workplace harassment, including sexual harassment; the constitution prohibits harassment based on sex, race, ethnicity, political opinions, or other grounds. Although urban women working in the formal sector complained of frequent sexual harassment, employers did not penalize perpetrators.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely the number, spacing, and timing of their children and generally had access to information on how to do so without fear of discrimination, coercion, or violence. In 2010 the maternal mortality ratio was 610 deaths per 100,000 live births. Only 9 percent of women of reproductive age used a modern method of contraception, and only 30 percent had their demand for contraception satisfied, according to the UN Population Fund (UNFPA). Health care for pregnant women was free and included limited access to skilled attendance during childbirth, prenatal care, essential obstetric care, and postpartum care. A government survey estimated 85 percent of women received prenatal care, and 45 percent had a skilled birth attendant present during childbirth; only 40 percent of births occurred at a health facility or hospital. Cultural norms and taboos reportedly dissuaded individuals from taking advantage of opportunities to learn about reproductive health or seek health services for sexually transmitted infections.</p>
+<p><u>Discrimination</u>: The law generally provides for equal treatment of men and women, although it discriminates against women in inheritance. The labor code adopted in February prohibits gender discrimination in hiring. Nevertheless, women routinely experienced discrimination in employment, pay, and education. Although the law requires equal pay for equal work, women received lower pay for similar work (see section 7.d.). Traditional law discriminates against women and sometimes took precedence over formal law, particularly in rural areas.</p>
+<p>The Ministry of Social Action and the Promotion of Women and Children worked to advance legal equality for women, who faced discrimination throughout society, but particularly in rural areas where opportunities were limited. According to the Organization for Economic Cooperation and Development (OECD), women under traditional law are entitled to hold land only under an agreement basis, which authorizes them to work family-owned land and draw a wage but not to own it. Women had difficulty obtaining loans, according to the OECD.</p>
+<p>Government officials acknowledged that polygyny was common. Divorce laws generally favor men in awarding custody and dividing communal assets. Legal testimony given by women carried less weight than testimony by men, in accordance with Islamic precepts and customary law.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Children derive citizenship by birth within the country, marriage, naturalization, or parental heritage. According to the UN Children’s Fund (UNICEF), authorities registered only 41 percent of rural births, compared with 77 percent of urban births. Observers attributed the low registration rate to distances between registration offices, illiteracy, and the cost of birth certificates. Authorities did not permit children without birth certificates to attend school or access health care.</p>
+<p><u>Education</u>: Government policy provides for tuition-free, compulsory primary education for six years. Secondary school is not compulsory, and most children who attended primary school left school at age 13 or earlier. While girls and boys had equal access to all levels of primary and secondary education, approximately 56 percent of girls attended primary school, compared with 66 percent of boys. Government figures indicated 11 percent of girls obtained secondary education, compared with 21 percent of boys; a 2011 study from the International Labor Organization (ILO) confirmed this disparity. Sexual harassment, demand for girls’ labor at home, child marriage, and other factors lowered attendance of female students.</p>
+<p><u>Child Abuse</u>: Child abuse was a problem. OPROGEM investigated 29 cases of child abuse and seven cases of neglect during the year, but observers believed this number vastly understated the incidence of the problem. Child abuse, which occurred openly on the street, rarely was reported. Families ignored most cases or addressed them at the community level.</p>
+<p><u>Early and Forced Marriage</u>: The legal age for marriage is 21 for men and 17 for women, but tradition permits marriage at age 14. Early marriage was a problem. According to the UNFPA, 63 percent of women ages 20 to 24 were married before age 18. Parents contracted marriages for girls as young as age 10 in Middle Guinea and the Forest Region. According to the Inter-African Committee on Traditional Practices, forced marriage of women and girls was common. There were no reported prosecutions related to child marriage during the year, although OPROGEM investigated one case of forced marriage.</p>
+<p>In January, TOSTAN--in collaboration with the Ministries for Social Action and the Promotion of Women and Children, Health, and Religious Affairs--conducted an education campaign with 74 communities in Middle Guinea to discourage early marriage and FGM/C. They selected Middle Guinea due to its high rate of early marriage.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits FGM/C, but the practice occurred in all regions and among all religious and ethnic groups, primarily on girls between ages four and 17. According to a UNICEF study using 2011 data from the Demographic and Health Survey, 100 percent of women ages 45 to 49 had undergone FGM/C. According to UNICEF’s 2013 report on FGM/C, 96.6 percent of women had undergone FGM/C before age 15. The law provides for a penalty of up to life in prison or death if the victim dies within 40 days of the procedure. The child code provides for minimum imprisonment of three months to two years and fines of between 300,000 to one million GNF ($42 to $141). If a victim is severely injured or dies, the child code specifies imprisonment of five to 20 years and a fine of up to three million GNF ($423). The government was in the process of harmonizing the child code with the penal code.</p>
+<p>The most common form of FGM/C was excision, which involves the partial or total removal of the clitoris and the labia minora (Type II, according to the World Health Organization’s classification). Infibulation, the most dangerous form of FGM/C, rarely was performed. The Coordinating Committee on Traditional Practices Affecting Women’s and Children’s Health reported high rates of infant and maternal mortality due to FGM/C. Social pressure to adhere to FGM/C customs was intense, and many families believed the stigma and social consequences of not conforming were more harmful than the procedure.</p>
+<p>In July a court sentenced 80-year-old Yamo Lamah to two years in prison and a one million GNF ($141) fine after one of her FGM/C victims was hospitalized due to severe hemorrhaging.</p>
+<p>During the year a foreign embassy assisted the government in the launch of the National Campaign to Accelerate the Abandonment of FGM/C, a UNFPA-UNICEF joint program. The campaign was conducted in the country’s eight geographical regions, where 65,000 women and girls in 900 villages were exposed to mass excision ceremonies. In collaboration with UNICEF and UNFPA partners, the campaign included NGOs, media, civil society networks, and several ministries. Police worked with campaign partners to implement the law.</p>
+<p>The government also cooperated with NGOs in their efforts to eradicate FGM/C and educate health workers, state employees, and citizens on the dangers of the practice. More than 60 health facilities had integrated FGM/C prevention into prenatal, neonatal, and immunization services. A trend for medically trained staff to perform FGM/C under more hygienic conditions continued. Urban, educated families increasingly opted to perform only a slight, symbolic incision on a girl’s genitals rather than the complete procedure.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prescribes penalties of five to 10 years’ imprisonment for all forms of child trafficking, including the commercial sexual exploitation of children, but it was a problem. The minimum age of consensual sex is 15. Punishment if convicted of sex with a child under age 15 is three to 10 years in prison and a fine of up to two million GNF ($282). The law also prohibits child pornography. These laws were not regularly enforced, and sexual assault of children, including rape, was a serious problem. Girls between the ages of 11 and 15 were most vulnerable and represented more than half of all rape victims. The country was a destination for sex tourism.</p>
+<p><u>Displaced Children</u>: Although official statistics were unavailable, there was a large population of children living in the streets, particularly in urban areas. Children frequently begged in mosques, on the street, and in markets. OPROGEM reported 144 children went missing from January through August, although authorities recovered most of the children and returned them to their parents.</p>
+<p><u>Institutionalized Children</u>: The country had numerous registered and unregistered orphanages. According to the Ministry of Social Action and the Promotion of Women and Children, 49 registered orphanages cared for 4,822 children. While reports of abuse at orphanages sometimes appeared in the press, reliable statistics were not available. Authorities institutionalized some children after family members died from the Ebola virus.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community was very small, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law does not prohibit discrimination against persons with disabilities in education, air travel and other transportation, access to health care, or the provision of other state services. In February, however, the country adopted a new labor code that prohibits discrimination against persons with disabilities in employment. Although there were no official reports, most observers believed societal and governmental discrimination against such individuals was pervasive. The law does not mandate accessibility for persons with disabilities, and buildings and vehicles remained inaccessible. Few persons with disabilities worked in the formal sector, although some worked in small family businesses; many survived by begging in the streets. The Ministry of Social Action and the Promotion of Women and Children is responsible for protecting the rights of persons with disabilities, but it was ineffective. The country had one school for the blind in N’Zerekore and a school for children with disabilities in Conakry. The government provided no support to mainstream such children into regular schools.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The population was diverse, with three main linguistic groups and several smaller ones identifying with specific regions. While the groups resided throughout the country’s four major regions, Middle Guinea was largely populated by the Peuhl, Upper Guinea by Malinke, with the Soussou in the plurality of Coastal Guinea. There were smaller linguistic groups throughout the country. Conakry and other large urban areas such as Kankan were ethnically heterogeneous. The Forest Region had an estimated 24 distinct languages, some spoken by as few as 20,000 persons.</p>
+<p>The ethnic group in charge of the government has traditionally used its power to discriminate against its rivals and to suppress their political and economic activities.</p>
+<p>While the law prohibits racial or ethnic discrimination, discrimination by members of all major ethnic groups occurred in private sector hiring patterns, ethnic segregation of urban neighborhoods, and ethnically divisive rhetoric during political campaigns. Ethnically targeted violence occurred during the year.</p>
+<p>On September 11, Justice Minister Cheick Sako vowed to prosecute perpetrators of the July 2013 violence in N’Zerekore, Beyla, and Koule that resulted in an estimated 200 deaths. Security forces were not implicated in this communal violence but were criticized for their late, ineffective response. Separate investigations into past conflicts in those regions failed to produce any results, however, and some observers doubted investigations had been initiated.</p>
+<p>Vigilante violence also occurred. For example, in May a mob killed two presumed roadside bandits. In August a mob overran a prison in Kankan in an attempt to attack suspected bandits.</p>
+<p>Societal violence against journalists and medical teams involved in controlling the Ebola epidemic resulted in deaths and injuries. In April villagers attacked and looted a Doctors Without Borders facility in Macenta. In September villagers in Womey killed three journalists and eight members of a team that had travelled to the area to teach residents how to stop the spread of the Ebola virus.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law criminalizes consensual same-sex sexual activity, which is punishable by three years in prison; there were no known prosecutions. In 2012 the government restructured OPROGEM to include a unit for investigating morals violations, including same-sex sexual conduct. Unlike in the previous year, there were no reports authorities arrested cross-dressing men in nightclubs on public nuisance charges. Antidiscrimination laws do not apply to lesbian, gay, bisexual, and transgender (LGBT) individuals.</p>
+<p>Deep religious and cultural taboos against consensual same-sex sexual conduct existed. There were no official or NGO reports of discrimination based on their sexual orientation or gender identity, although societal stigma likely prevented victims from reporting abuse or harassment. There were no active LGBT organizations.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Laws to protect HIV-infected persons from stigmatization exist, but the government relied on donor efforts to combat discrimination against persons with HIV/AIDS. Government efforts were limited to paying salaries for health-service providers. Most victims of stigmatization were women whose families abandoned them after their husbands died of AIDS. Doctors and health workers routinely disregarded medical confidentiality standards, resulting in widespread distrust of testing.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Discrimination against persons with albinism occurred, particularly in the Forest Region. Speculation continued about albino sacrifice, but authorities did not receive any confirmed reports during the year. Albino rights NGOs continued to raise awareness of discrimination and violence against persons with albinism.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section7"> </span><span class="st_twitter" st_title="Guinea #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Guinea - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236366%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>Although the law provides for the right of workers to organize and join independent unions, engage in strikes, and bargain collectively, the law also places restrictions on the free exercise of these rights. In February the government adopted a new labor code that requires unions to obtain support of 20 percent of the workers in a company, region, or trade that the union claims to represent. The new code mandates that unions provide a 10-day notice to the Ministry of Labor before striking, although it allows work slowdowns without notice. Strikes are permitted only for “professional claims”; such permission does not apply to government workers, members of the armed forces, or temporary government workers.</p>
+<p>While the labor code protects union officials from antiunion discrimination, it does not extend that same protection to other workers. The code prohibits employers from taking into consideration union membership and activities with regard to decisions about employee hiring, firing, and conduct. It also allows workers 30 days to appeal any labor decisions.</p>
+<p>The Office of the Inspector-General of Work within the Ministry of Labor manages consensus arbitration, as required by law. Employers often imposed binding arbitration, particularly in “essential services.”</p>
+<p>The government did not effectively enforce applicable laws. Resources and inspections were not adequate to ensure compliance, and penalties were not enforced. Information on delays of administrative and judicial procedures was not available.</p>
+<p>Worker organizations generally operated independently of government or political party interference. Authorities did not always respect freedom of association and the right to collective bargaining. For example, in September 2013, when workers at the telecom company Orange went on strike during salary and benefit negotiations, Orange demoted the leaders of the strike when they returned to work.</p>
+<p>Penalties for various labor violations range from fines of 50,000 to 1.5 million GNF ($7 to $210), imprisonment for six months to five years, or both. Included among the various labor violations in the penal code are forced labor, smuggling illegal workers, and preventing union meetings. The penal code also defines labor crimes to include punishment of workers and employers who subvert national interests or steal trade secrets.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits some types of forced labor, but it does not prohibit debt bondage. The law provides penalties of five to 10 years’ imprisonment and confiscation of any proceeds from the crime for depriving third parties of their liberty through forced labor. The government did not effectively enforce this law or obtain convictions for forced labor under the law. Resources and penalties were not adequate to deter violations. While criminal sentences calling for forced labor are illegal, prisoners could be obligated to participate in prison chores such as cleaning.</p>
+<p>The government arrested and charged at least three human traffickers during the year. In January the National Committee for the Fight Against Trafficking in Persons (CNLTP) began holding regular meetings; meetings had been suspended following the death of the previous president in 2012. The CNLTP held a two-day workshop in July to write a new action plan.</p>
+<p>Reports indicated that forced labor among men and women was most common in the agricultural sector. Forced child labor occurred as well (see section 7.c.).</p>
+<p>Migrant laborers represented a small proportion of forced labor victims.</p>
+<p>See also the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits child labor in the formal sector and sets forth penalties of three to 10 years’ imprisonment and confiscation of resulting profits. The law does not protect children in the informal sector. The minimum age for employment is 16. Exceptions allow children to work at age 12 as apprentices for light work in such sectors as domestic service and agriculture, and at age 14 for other work. The law does not permit workers and apprentices under age 18 to work more than 10 consecutive hours, at night, or on Sundays. The Ministry of Labor maintained a list of occupations that may not employ women and youth under age 18, but enforcement was limited to large firms in the formal sector. The penal code increases penalties for forced labor if minors are involved, but penalties did not meet international standards, and enforcement was not sufficient to deter child labor violations. The most recent statistics indicated that more than one-third of all children under age 18 worked in industries considered dangerous by the ILO. Although the child code provides that the laws respect treaty obligations and is regarded as law by the justice system, ambiguity about the code’s validity continued due to the government’s failure to pass implementing legislation.</p>
+<p>The Ministry of Labor is responsible for enforcing child labor laws, and it conducted occasional inspections. Authorities did not bring any cases to justice, and inspections were not adequate. OPROGEM, under the Ministry of Security, is responsible for investigating child trafficking and child labor violations. After making an arrest, police transfer all information to the Ministry of Justice. In 2012 the Ministry of Security set up a new unit specifically focused on child trafficking and child labor. The unit had 30 members and brought five cases to trial in 2012, one in 2013, and four during the first half of 2014. In July the court sentenced three traffickers to four months in prison for trafficking 22 minors to Senegal.</p>
+<p>Child labor by boys occurred most frequently in the informal sectors of subsistence farming, small-scale commerce, forced begging, street vending, shoe shining, and mining. Smaller numbers of girls, mostly migrants from neighboring countries, were subjected to domestic servitude. Forced child labor occurred primarily in the cashew, cocoa, coffee, gold, and diamond sectors of the economy. Many children between ages five and 16 worked 10 to 15 hours a day in the diamond and gold mines for minimal compensation and little food. Child laborers extracted, transported, and cleaned the minerals. They operated in extreme conditions, lacked protective gear, did not have access to water or electricity, and faced a constant threat of disease and sickness. Many children did not attend school and could not contact their parents.</p>
+<p>According to a 2011 government study conducted with the ILO, 43 percent of all children between ages five and 17 worked, including 33 percent of children ages five to 11, 56 percent between ages 12 and 15, and 61 percent between ages 16 and 17. Of working children, 93 percent were employed in what the ILO defines as hazardous conditions--indicating 40.1 percent of all children in the country worked in hazardous conditions. This included more than one million children in fishing and agriculture, 30,619 in manufacturing, 46,072 in mining, 15,169 in construction, 204,818 in commerce and restaurants, 6,816 in transport, and 92,873 in other hazardous or dangerous work.</p>
+<p>Many parents sent their children to live with relatives or Quranic teachers while the children attended school. Host families often required such children to perform domestic or agricultural labor, or to sell water or shine shoes on the streets.</p>
+<p>Commercial sexual exploitation of children also occurred (see section 6).</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The labor code adopted in February prohibits discrimination in hiring based on sex, disability, or ethnicity. The code does not address discrimination based on sexual orientation, HIV-positive status or other communicable diseases, or social status. The government did not effectively enforce these laws and regulations.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The labor code allows the government to set a minimum monthly wage, enforced by the Ministry of Labor. In 2013 the government exercised this provision for the first time, setting the minimum wage for domestic workers at 440,000 GNF ($62) per month. No minimum wage for other sectors was established. There was no known official poverty income level established by the government.</p>
+<p>The law mandates that regular work should not exceed 10-hour days or 48-hour weeks, and it mandates a period of at least 24 consecutive hours of rest each week, usually on Sunday. Every salaried worker has the legal right to an annual paid vacation, accumulated at the rate of at least two workdays per month of work. There also are provisions in the law for overtime and night wages, which are a fixed percentage of the regular wage. The law stipulates a maximum of 100 hours of compulsory overtime a year.</p>
+<p>The law contains general provisions regarding occupational safety and health, but the government did not establish a set of practical workplace health and safety standards. Moreover, it did not issue any orders laying out the specific safety requirements for certain occupations or for certain methods of work called for in the labor code. All workers, foreign and migrant included, have the right to refuse to work in unsafe conditions without penalty.</p>
+<p>The Ministry of Labor is responsible for enforcing labor standards, and its 160 inspectors were empowered to suspend work immediately in situations deemed hazardous to workers’ health. Nevertheless, enforcement efforts were sporadic. According to the ILO, inspectors received inadequate training and had limited resources. Retired labor inspector positions went unfilled. Inspectors lacked computers and transportation to carry out their duties. Penalties for violation of the labor law were not sufficient to deter violations. The penal code calls for prison terms of up to 10 years for persons found guilty of trafficking in persons. Additionally, the law requires traffickers to forfeit objects of value or money received through forced labor. Offering someone into forced labor is punishable by up to five years’ imprisonment.</p>
+<p>Authorities rarely monitored work practices or enforced workweek standards or overtime rules. Teachers’ wages were extremely low, and teachers sometimes went six months or more without pay. Salary arrears were not paid, and some teachers lived in abject poverty.</p>
+<p>Violations of wage, overtime, and occupational health and safety standards were common across sectors. Forced child labor, which constituted the majority of forced labor victims, occurred primarily in the gold, diamond, cashew, cocoa, and coffee sectors. There were, for example, reports of unsafe working conditions in the artisanal (small-scale) gold mining communities in the northern section of the country, where inspectors found occupational health and environmental hazards.</p>
+<p>Despite legal protection against working in unsafe conditions, many workers feared retaliation and did not exercise their right to refuse to work under unsafe conditions. Data were not available on workplace fatalities and accidents, but accidents in unsafe working conditions were common. The government banned wildcat gold and other mining during the rainy season to prevent deaths from mudslides. Nevertheless, the practice continued, resulting in numerous deaths, including 30 during a September 16 mine collapse in Siguiri.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

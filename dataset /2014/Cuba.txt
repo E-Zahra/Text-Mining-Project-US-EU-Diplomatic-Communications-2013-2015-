@@ -1,0 +1,584 @@
+2014
+Cuba
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680"> </span><span class="st_facebook" st_title="Cuba" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236680">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236680</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=executive"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Cuba is an authoritarian state led by Raul Castro, who is president of the council of state and council of ministers, Communist Party (CP) first secretary, and commander in chief of security forces. The constitution recognizes the CP as the only legal party and “the superior leading force of society and of the state.” A CP candidacy commission preapproved all candidates for the February 2013 uncontested National Assembly elections, which were neither free nor fair. The national leadership, including members of the military, maintained effective control over the security forces.</p>
+<p>The principal human rights abuses included those involving the abridgement of the ability of citizens to change the government and the use of government threats, extrajudicial physical assault, intimidation, violent government-organized counter-protests against peaceful dissent, and harassment and detentions to prevent free expression and peaceful assembly.</p>
+<p>The following additional abuses continued: short-term, arbitrary unlawful detentions and arrests, harsh prison conditions, selective prosecution, denial of fair trial, and travel restrictions. Authorities interfered with privacy, engaging in pervasive monitoring of private communications. The government did not respect freedom of speech and press, restricted internet access, maintained a monopoly on media outlets, circumscribed academic freedom, and maintained some restrictions on the ability of religious groups to meet and worship. The government refused to recognize independent human rights groups or permit them to function legally. In addition the government continued to prevent workers from forming independent unions and otherwise exercising their labor rights.</p>
+<p>Most human rights abuses were committed by officials at the direction of the government. Impunity for the perpetrators remained widespread.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section1"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no confirmed reports that the government or its agents committed arbitrary or unlawful killings during the year (see section 1.d.). There was one incident, however, where the violent assault on a pregnant protester may have resulted in the loss of the child. There were no mechanisms readily available to investigate abuses committed by the security forces.</p>
+<p>By the end of the year, the government had not responded to calls for an international investigation into the 2012 deaths of opposition activists Oswaldo Paya and Harold Cepero. The government claimed that the two died in a car accident, although in October the driver of that car, Angel Carromero, publicly reiterated his allegation that the car crash that led to their deaths occurred because state security forces followed Paya’s vehicle too closely, struck the car, and forced it off the road.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances during the year.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits abusive treatment of detainees and prisoners. There were reports, however, that members of the security forces intimidated and sometimes physically assaulted human rights and prodemocracy advocates, dissidents, and other detainees and prisoners both during detention and while imprisoned, and they did so with impunity. Some detainees and prisoners endured physical abuse, sometimes by other inmates with the acquiescence of guards.</p>
+<p>There were reports of police assaulting detainees or being complicit in public harassment of and physical assaults on peaceful demonstrators.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions continued to be harsh. Prisons continued to be overcrowded, and facilities, sanitation, and medical care were seriously deficient. There were a few reports of beatings of prisoners that included beatings by prison officials as well as among prisoners. There were some reports of prisoner-on-prisoner sexual assaults, allegedly due to lax security by prison guards.</p>
+<p><u>Physical Conditions</u>: In 2012, for the first time in decades, the government published the number of prisoners, declaring that 57,337 persons were incarcerated. The government made no similar publication during the year, nor did it provide information regarding the number, location, or capacity of detention centers, which included not only prisons but also work camps and other kinds of detention facilities. Human rights organizations estimated there were more than 65,000 prisoners and detainees.</p>
+<p>Men and women were held in separate prisons and police detention facilities. Generally, women reported the same poor prison conditions as men, including inadequate medical care. Women also reported lack of access to feminine hygiene products and inadequate prenatal care. There were reports of inmates as young as 15 in maximum-security prisons.</p>
+<p>Prison cells lacked adequate water, sanitation, space, light, ventilation, and temperature control. Although the state provided basic food and some medical care, many prisoners relied on family parcels for food and other basic supplies. Potable water was frequently unavailable. Prison cells were overcrowded, limiting freedom of movement during the day. Prisoners often slept on concrete bunks without a mattress, with some reports of more than one person sharing a narrow bunk. Where available, mattresses were thin and often infested with vermin and insects.</p>
+<p>Prisoners, family members, and nongovernmental organizations (NGOs) reported inadequate health care, which led to or aggravated multiple maladies. Prisoners also reported outbreaks of dengue, tuberculosis, hepatitis, and cholera. Prison health workers reportedly reused syringes, raising safety and hygiene concerns.</p>
+<p>Political prisoners and the general prison population were held in similar conditions. Political prisoners who refused to wear standard prison uniforms were denied certain privileges, such as access to prison libraries and standard reductions in the severity of their sentence (for example, being transferred from a maximum-security to a medium-security prison). The government sometimes placed healthy prisoners, including political prisoners, in cells with mentally disturbed inmates as punishment. Political prisoners also reported being threatened or harassed by fellow inmates whom they believed were acting on orders of prison authorities.</p>
+<p>There were reports of prison deaths from heart attacks, asthma attacks, HIV/AIDS, and other chronic medical conditions, as well as from suicide.</p>
+<p>Prisoners reported that solitary confinement was a common punishment for misconduct and that some had been held in isolation for months or even years at a time. In general prisoners in isolation had restrictions on family visits.</p>
+<p>Prisoners who criticized the government or engaged in hunger strikes and other forms of protest were subjected to extended solitary confinement, beatings, restrictions on family visits, and denial of medical care. Prisoners had no effective complaint mechanism to seek redress.</p>
+<p><u>Administration</u>: There was no publicly available information about prison administration or recordkeeping in the prison system.</p>
+<p>Alternative sentencing was available for nonviolent offenders and for juveniles. Nonviolent offenders may be sentenced to probation. Juveniles may be sentenced to one of 12 Escuelas de Formacion Integral, or Holistic Training Schools, which worked to rehabilitate troubled youth.</p>
+<p>A legal department within the Attorney General’s Office is empowered to investigate allegations of abuse in the prison system. The results of these investigations were not publicly accessible. By law prisoners and detainees may seek redress regarding prison conditions and procedural violations, such as continued incarceration after their prison sentence has expired. Prisoners reported that government officials refused to allow or accept complaints, or failed to respond to the complaints once submitted.</p>
+<p>Prisoners and pretrial detainees had access to visitors, although some political prisoners’ relatives reported that prison officials arbitrarily canceled scheduled visits. Some prisoners were able to communicate information about their living conditions through telephone calls to human rights observers and reports to family members.</p>
+<p>Prisoners could practice limited religious observance. The Catholic Church and other church groups reported access to prisoners during the year, with services offered in prisons and detention centers in most, if not all, provinces. The interdenominational seminary in Matanzas reported developing a program to train chaplains to offer religious counseling to prisoners. There were isolated reports that prison authorities did not inform inmates of their right to religious assistance, delayed months before responding to such requests, and limited visits to a maximum of two or three times per year.</p>
+<p><u>Independent Monitoring</u>: The government did not permit independent monitoring of prison conditions by international or national human rights groups and did not permit access to detainees by international humanitarian organizations. Although the government pledged in previous years to allow a visit by the UN special rapporteur on torture and other cruel, inhuman, and degrading treatment or punishment, no visit occurred during the year. Unlike in 2013 the government did not invite foreign journalists to tour specific prisons. Independent human rights organizations were not allowed access to prisons during the year.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Arbitrary arrest and short-term detention continued to be a common method for the government to control independent public expression and political activity. By law police have wide discretion to stop and question citizens, request their identification, and carry out arrests and searches. The law provides that police officials provide suspects with a signed “act of detention,” noting the basis, date, and location of any detention in a police facility and a registry of personal items seized during a police search. There were also reports of short-term detentions following interactions with members of the diplomatic community in Havana. Police officials routinely conducted short-term detentions, at times accompanied by beatings. Arbitrary stops and searches were most common in urban areas and at government-controlled checkpoints located at the entrances to provinces and municipalities. Searches and seizures of property by police officials without providing any record or legal justification were also common practice.</p>
+<p>Police and security officials continued to use short-term and sometimes violent detentions to prevent independent political activity or free assembly. Such detentions generally lasted from several hours to several days. An independent domestic monitoring group, the Cuban Commission on Human Rights and Reconciliation (CCDHRN), counted 8,899 through the end of the year, compared with 6,424 in 2013. Long-term imprisonment of peaceful opponents, while rare, did not cease entirely. In February authorities charged, tried, and sentenced more than 50 members of the Santiago-based opposition group Union Patriotica de Cuba (UNPACU) to prison for months or years as punishment for their political activity. In October and November authorities handed down sentences of two to six years to seven individuals who had been held for varying periods without due process. This included independent musician Angel Yunier Remon Arzuaga, who was sentenced to six years’ imprisonment, following his alleged assault of a state security agent during a government-organized act of repudiation against Arzuaga in March 2013. He remained in prison at the end of the year.</p>
+<p>The law allows up to a four-year detention of individuals before they commit an actual crime, with a subjective determination of “potential dangerousness,” defined as the “special proclivity of a person to commit crimes, demonstrated by conduct in manifest contradiction of socialist norms.” Mostly used as a tool to control “antisocial” behaviors such as substance abuse or prostitution, authorities also used it to silence peaceful political opponents. While there was no definitive estimate of the number of persons serving sentences for “potential dangerousness,” the CCDHRN estimated more than four thousand citizens were held on the charge.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Interior exercises control over police, internal security forces, and the prison system. The ministry’s National Revolutionary Police is the country’s primary law enforcement organization and was moderately effective in investigating common crimes. Specialized units of the ministry’s state security branch are responsible for monitoring, infiltrating, and suppressing independent political activity. The police supported state security agents by carrying out house searches, arresting persons of interest to the ministry, and providing interrogation facilities.</p>
+<p>Police routinely violated procedural laws with impunity and often failed or refused to provide citizens with legally required documentation, particularly during arbitrary detentions and searches. Members of the security forces acted with impunity in committing civil rights and human rights abuses.</p>
+<p>Although the law on criminal procedure prohibits the use of coercion during investigative interrogations, police and security forces routinely relied on aggressive and physically abusive tactics, threats, and harassment during questioning. Detainees reported that officers threatened them with long-term detention, loss of child custody rights, denial of permission to depart the country, and other intimidation, such as suggesting that an elderly relative might suffer an accident.</p>
+<p>There were no mechanisms readily available to investigate government abuses.</p>
+<p>Undercover police and agents from the Ministry of Interior were often present and directed activities to disrupt efforts at peaceful assembly (see section 2.b.).</p>
+<p>Many state-orchestrated “acts of repudiation” directed against independent civil society groups, including the Damas de Blanco (Ladies in White) and other organizations, were organized to prevent meetings or to shame them publicly. In December 2013 state security agents and affiliated groups staged a protest outside the office of Estado de SATS coordinator, Antonio Enrique Gonzalez-Rodiles. State security brought in buses of schoolchildren to assist in the protest and forced them to watch while state security officers held Rodiles upside down and repeatedly kicked him in the head. Subsequently, Rodiles was briefly detained. Human rights activist and blogger Roberto de Jesus Guerra was reportedly beaten by state security agents on June 11 and warned to stop reporting on human rights abuses. On June 21, during a peaceful protest in Holguin, state police officers allegedly arrested and beat eight-month pregnant Lady in White Magaly Norvis Otero, after which she miscarried.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Under the criminal procedure code, police have 24 hours after an arrest to present a criminal complaint to a police official called an instructor. The instructor has 72 hours to investigate and prepare a report for the prosecutor, who, in turn, has 72 hours to recommend to the appropriate court whether to open a criminal investigation. Detainees have no right to counsel during this seven-day period.</p>
+<p>After the 168-hour detention period, by law detainees must be informed of the basis for the arrest and criminal investigation and have access to legal representation. Detainees facing formal charges must retain counsel within five days of being charged or the state can appoint an attorney on their behalf. Those charged can be released on bail, placed in home detention, or held in continued investigative detention. Once the accused has an attorney, the defense has five days to respond to the prosecution’s charges, after which a court date usually is set. Prosecutors can demand summary trials “in extraordinary circumstances” and in cases involving crimes against state security.</p>
+<p>There were reports that defendants met with their attorneys for the first time only minutes before their trials and were not informed of the basis for their arrest within the required 168-hour period.</p>
+<p>Bail was available, although typically not granted in cases involving those arrested for political activities. Time in detention before trial counted toward time served, if convicted.</p>
+<p>Detainees can be interrogated at any time during detention and have no right to request the presence of counsel. Detainees have the right to remain silent, but officials do not have a legal obligation to inform them specifically of that right.</p>
+<p>By law investigators must complete criminal investigations within 60 days. Prosecutors may grant investigators two 60-day extensions upon request, for a total of 180 days of investigative time. This deadline can be waived by the supervising court in “extraordinary circumstances” and upon special request by the prosecutor. In that instance no additional legal requirement exists to complete an investigation and file criminal charges, and a person could be held in detention without charge indefinitely. This exception was invoked often.</p>
+<p><u>Arbitrary Arrest</u>: Officials often disregarded many of the legal procedures governing the arrest process. Authorities often detained suspects much longer than 168 hours without informing them of the nature of the arrest or affording them legal counsel.</p>
+<p>In 2012 authorities detained and held without charge for nearly 18 months independent librarian Sonia Garro Alonso; her husband, independent journalist Ramon Munoz Gonzalez; and activist Eugenio Hernandez Hernandez after they engaged in a public protest. In September 2013 authorities charged them with attempted murder, assault, and public disorder. Their trial was postponed on three occasions during the year, but on December 9, Garro, Munoz, and Hernandez were freed with no known conditions.</p>
+<p><u>Pretrial Detention</u>: Detainees were held for months or years in investigative detention, in both political and nonpolitical cases. In nonpolitical cases delays were often due to bureaucratic inefficiencies, a lack of checks on police, and prosecutorial or judicial excesses.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>While the constitution recognizes the independence of the judiciary, the judiciary is directly subordinate to the National Assembly and the CP, which can remove or appoint judges at any time. The judiciary was thoroughly dominated by political considerations, and there was little separation of powers between the judicial system, the CP, and the Council of State.</p>
+<p>Civilian courts exist at the municipal, provincial, and Supreme Court levels. Special tribunals are convened for political (“counterrevolutionary”) cases and other cases deemed sensitive to “state security” and act behind closed doors. Officials denied entry to trials by some observers during the year. Military tribunals may also have jurisdiction over civilians in cases where any of the defendants were members of the military, police force, or other law enforcement agency.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Due process rights apply equally to all citizens as well as foreigners, but courts often failed to protect or observe these rights. The law presumes defendants to be innocent until proven guilty, but authorities often ignored this, placing the burden on the defendant to prove innocence.</p>
+<p>Defendants generally have the right to a public trial, but politically motivated trials were often held in secret, citing exceptions for crimes involving “state security” or “extraordinary circumstances.” The law does not provide for jury trials. Almost all cases concluded in less than one day and were not open to the press.</p>
+<p>The law provides the accused with the right to be present during trial and requires that defendants be represented by an attorney at trial, at public expense if necessary. Defendants’ attorneys can cross-examine state witnesses and present witnesses and evidence on the defendants’ behalf. The only attorneys licensed to practice in criminal courts are attorneys who work for state collective law offices.</p>
+<p>Criteria for admitting evidence was often arbitrary and discriminatory. According to numerous reports, prosecutors routinely introduced irrelevant or unreliable evidence to prove intent or testimony about the revolutionary credentials of a defendant.</p>
+<p>Defense attorneys have the right to review the investigation files of a defendant, but not if the charges involve “crimes against the security of the state.” In these cases defense attorneys are not allowed access until charges have been filed. Many detainees, especially political detainees, reported that their attorneys had difficulties accessing their files due to administrative obstacles.</p>
+<p>In trials of defendants charged with potential dangerousness (see section 1.d.), the state must show only that the defendant has “proclivity” for crime, so an actual criminal act need not have occurred. Penalties can be up to four years in prison. Authorities normally applied this law to prostitutes, alcoholics, young persons who refused to report to work centers, and repeat offenders of laws restricting change of domicile, as well as to political activists who participated in public protests.</p>
+<p>The law recognizes the right of appeal in municipal courts but limits it in provincial courts to cases involving lengthy prison terms or the death penalty.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The government continued to deny holding any political prisoners but refused access to its jails by international humanitarian organizations and the United Nations.</p>
+<p>On December 17, the government committed to releasing 53 “prisoners of interest,” considered political prisoners by outside observers. At least 10 of the 53 prisoners were released by the end of the year, though some may have been released with conditions, including travel restrictions. While the announcement was made on December 17, some prisoners were released as early as August. Some of the individuals released were later subject to arbitrary short-term detentions when participating in peaceful assemblies and for freely expressing their views.</p>
+<p>Accurate numbers of peaceful political prisoners were difficult to determine. Lack of governmental transparency and systemic violations of due process rights obfuscated the true nature of criminal prosecutions and investigations, allowing government authorities to prosecute and sentence human rights activists for criminal violations or “dangerousness.” The government used the designation of “CR” (counterrevolutionary) for inmates deemed to be opponents to the regime, but it did not release those numbers. The government continued to deny access to its jails to independent monitors who could help determine the size of the political prisoner population. At least two independent organizations provided estimates on the number of political prisoners being held in prisons. These groups were closely monitored by the government and often faced harassment from state police.</p>
+<p>Political prisoners reported being held in isolation for extended periods, even years. Political prisoners were not given the same protections as other prisoners or detainees. In particular they were frequently denied early parole or transfers to lower-security facilities that were commonly granted to other prisoners. Political prisoners also were frequently denied access to home visits, prison classes, telephone calls, and, on occasion, family visits.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Although it is possible to seek judicial remedies through civil courts for violations of administrative determinations, lawyers noted that general procedural and bureaucratic inefficiencies often delayed or undermined the enforcement of both administrative determinations and civil court orders. Civil courts, like all courts in the country, lacked an independence and impartiality as well as effective procedural guarantees. No courts allowed claimants to bring lawsuits seeking remedies for human rights violations.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution protects citizens’ privacy rights in their homes and correspondence, and police must have a warrant signed by a prosecutor or magistrate before entering or conducting a search. Nevertheless, the government routinely and systematically monitored correspondence and communications between citizens, tracked their movements, and entered homes without legal authority and with impunity. Police searched homes and seized personal goods without the legally required documentation.</p>
+<p>In July security forces entered the home of Jorge Luis Perez Garcia “Antunez” without providing legal documentation showing purpose for entering. Security forces struck Antunez and his wife and confiscated documents, including visas, and personal items. Security forces also damaged their furniture and other personal items.</p>
+<p>The Ministry of Interior employed a system of informants and block committees, known as Committees for the Defense of the Revolution, to monitor government opponents and report on their activities. Agents from the ministry’s General Directorate for State Security subjected foreign journalists, visiting foreign officials, academics, and businesspeople - as well as diplomats - to frequent surveillance, including electronic surveillance.</p>
+<p>The CP is the only legally recognized political party, and the government actively suppressed attempts to form other parties. The government encouraged mass political mobilization and favored citizens who actively participated (see section 2.b.).</p>
+<p>Family members of government employees who leave international work missions without official permission at times faced government harassment or lost employment, access to education, or other public benefits.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section2"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press only insofar as it “conforms to the aims of socialist society.” Laws banning criticism of government leaders and distribution of antigovernment propaganda carry penalties ranging from three months to 15 years in prison.</p>
+<p><u>Freedom of Speech</u>: The government had little tolerance for public criticism of government officials or programs. Public debate of issues considered politically sensitive was limited. During the year state security continuously harassed the organizers of independent fora for debates on cultural and social topics to force them to stop discussing issues deemed controversial. Forum organizers reported assaults by state security, video surveillance installed outside the venue, and detention of panelists and guests on the day they were expected to appear. On several occasions security agents blocked access to personal cell phones and sent false text messages ostensibly from the organizers to program participants to disrupt events.</p>
+<p>During the year some religious groups reported greater latitude to express their opinions during sermons and at religious gatherings, although most members of the clergy continued to exercise self-censorship. Religious leaders in some cases criticized the government, its policies, and even the country’s leadership without reprisals. The Catholic Church operated a cultural center in Havana that hosted debates featuring participants voicing different opinions about the country’s future, at which well-known dissidents were allowed to participate. Some Protestant leaders claimed they were unable to hold debates and openly criticize the government without reprisals. In September the Catholic Church published a pastoral plan for 2014-20 entitled “On the Road to Emmaus,” which offered a three-part reflection on the social and political reality on the Church in Cuba and expressed direct criticisms of the government.</p>
+<p><u>Press Freedoms</u>: The government directly owned all print and broadcast media outlets and all widely available sources of information, and it did not allow editorial independence. News and information programming was nearly uniform across all outlets, with the exception of broadcasts of Venezuelan government news programming. The government also controlled nearly all publications and press prints, and the CP must give prior approval for printing of nearly all publications and censored public screenings and performances. The government also limited the importation of printed materials. Foreign correspondents in Cuba had limited access. They were often officially denied interviews and access to gather facts for stories. Despite meeting government vetting requirements, official journalists who reported on sensitive subjects did so at personal risk. <i>Granma</i> correspondent Jose Antonio Torres remained in prison at the end of the year; he was sentenced in 2012 to 14 years’ imprisonment on charges of espionage for articles he wrote.</p>
+<p>Independent journalists faced sustained government harassment, including detention and physical abuse. In December, however, the government accredited an independent journalist affiliated with the independent news organization <i>14yMedio </i>to cover an international film festival in Havana.</p>
+<p>The Catholic Church received permission to broadcast Christmas and Easter messages as well as religious ceremonies on other holidays on state-run television stations. The Council of Churches, the government-recognized Protestant umbrella organization, was authorized to host a monthly 20-minute radio broadcast.</p>
+<p><u>Violence and Harassment</u>: The government does not recognize independent journalism and subjected some independent journalists to detentions, harassment, equipment seizures, and imprisonment. On June 13, several members of the independent civil action brigade, including independent journalists, were arrested after protesting in Havana for human rights. On September 6, state police arrested Bernardo Arevalo Padron, an independent journalist based in Cienfuegos, because of his reporting for the opposition newspaper <i>El Cubano Libre, de Hoy</i>. He was threatened with a four-year jail sentence if he did not leave the country. Several reporters from the organization Hablemos Press, a society for independent journalists, were the targets of threats, including Jose Leonel Silva Guerrero, who was briefly detained and threatened with reprisals against his family if he did not stop working as the Hablemos Press correspondent in Holguin. On June 11, security agents repeatedly punched and stabbed with a pen Roberto de Jesus Guerra, director of Hablemos Press, as he was walking through a Havana residential neighborhood. He suffered a broken nose and a torn ligament.</p>
+<p><u>Censorship or Content Restrictions</u>: The law prohibits distribution of printed materials considered “counterrevolutionary” or critical of the government. Foreign newspapers or magazines were generally unavailable. Distribution of material with political content, interpreted broadly to include the Universal Declaration of Human Rights, foreign newspapers, and independent information on public health, was not allowed and resulted in harassment and, at times, detention. Doctors and religious officials reported government officials threatened and warned them not to discuss public health issues, including outbreaks of diseases, such as cholera, dengue, and chikungunya.</p>
+<p>The government sometimes barred independent libraries from receiving materials from abroad and seized materials donated by foreign governments, religious organizations, and individuals. Government officials also confiscated or destroyed cameras and telephones of individuals to prevent them from distributing photographs and videos deemed objectionable, such as those taken during arrests and detentions.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were significant government restrictions on access to the internet and widespread reports that the government monitored without appropriate legal authority the limited e-mail and internet chat rooms and browsing that were permitted. The government controlled all internet access, with the exception of extremely limited facilities provided by a few diplomatic missions and limited but increasing black market facilities.</p>
+<p>While the International Telecommunication Union reported that 26 percent of citizens used the internet in 2013, in many cases this access was limited to a domestic intranet that offered only e-mail or highly restricted access to the World Wide Web. Other international groups reported lower internet penetration, with 3 to 5 percent of the population having access to open internet.</p>
+<p>The government selectively granted internet access to certain sectors, consisting mostly of government officials, established professionals, some professors and students, journalists, and artists. Others could access limited e-mail and internet services through government-sponsored “youth clubs” or small internet centers approved and regulated by the Ministry for Information, Technology, and Communications. Users were required to purchase prepaid cards and provide personal information in order to access the internet in these centers.</p>
+<p>In 2013 the government expanded internet access to encompass 334 computer terminals in 118 computer centers throughout the country. Early in the year, the government-owned telephone company, ETECSA, began offering a limited phone-based e-mail service - but no web access - to its cellular customers. Authorities reviewed the browsing history of users, reviewed and censored e-mail, employed internet search filters, and blocked access to websites considered objectionable. Access cost approximately 4.50 convertible pesos (CUC) ($4.50) per hour, well beyond the means of many citizens, whose average official income was approximately 19 CUC ($19) per month.</p>
+<p>While the law does not set specific penalties for unauthorized internet use, it is illegal to own a satellite dish that would provide uncensored internet access. Cuban authorities restricted the importation of wireless routers and reportedly actively targeted private wireless access points and confiscated equipment.</p>
+<p>The use of encryption software and transfer of encrypted files are also illegal. Despite poor access, harassment, and infrastructure challenges, a growing number of citizens maintained blogs where they often posted opinions critical of the government, with help from foreign supporters who often built and maintained the blog sites. The government blocked local access to most of these blogs. In addition a small but growing number of citizens could use Twitter, Facebook, Instagram, and other social media channels to report independently on developments in the country, including observations critical of the government. Like other government critics, bloggers faced sustained government harassment, including detention and physical abuse.</p>
+<p>Foreigners could buy internet access cards from the national telecommunications provider and use hotel business centers, where internet access could be purchased only in hard currency. Access usually cost between five and 10 CUC ($5 to $10) an hour, a rate well beyond the means of most citizens. Citizens usually could purchase internet access at the national telecommunications provider and use hotel business centers, but they were occasionally prohibited from purchasing access.</p>
+<p>Human rights activists reported frequent government monitoring and disruption of cell phone and landline services prior to planned events or key anniversaries related to human rights. ETECSA often disconnected service for human rights organizers in order to disrupt their planned activities.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government restricted academic freedom and controlled the curriculum at all schools and universities, emphasizing the importance of reinforcing “revolutionary ideology” and “discipline.” Most academics refrained from meeting with foreigners, including diplomats, journalists, and visiting scholars, without prior government approval and the presence of a government monitor. Those permitted to travel abroad were aware that their actions, if deemed politically unfavorable, could negatively affect them and their relatives back home. During the year some religious educational centers were allowed greater space to operate.</p>
+<p>Outspoken artists and academics faced some harassment and criticism orchestrated by the government. On December 30, authorities detained artist Tania Bruguera and approximately 60 others to prevent Bruguera from staging an open mic performance in the Plaza de la Revolution, a prominent plaza in Havana. Authorities also threatened dozens of other activists with detention or house arrest to prevent them from attending the event. All of those detained were released within three days.</p>
+<p>Independent movie theatres, which had shown international films and were common in urban areas, were closed by the government in late 2013 and remained closed.</p>
+<p>Public libraries required citizens to complete a registration process before access to books or information was granted. Citizens could be denied access if they could not demonstrate a need to visit a particular library. Libraries required a letter of permission from an employer or academic institution for access to censored, sensitive, or rare books and materials. Religious institutions organized small libraries. Independent libraries, however, remained illegal but continued to exist and faced harassment and intimidation. On August 5, authorities accused the director of an independent library, Rene Rouco Machin, of spreading enemy propaganda, incarcerated him, and then beat him.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>Although the constitution grants a limited right of assembly, the right is subject to the requirement that it may not be “exercised against the existence and objectives of the socialist state.” The law requires citizens to request authorization for organized meetings of three or more persons, and failure to do so carries a penalty of up to three months in prison and a fine. In practice, however, some gatherings were tolerated. Religious groups reported the ability to gather without registering or facing sanctions.</p>
+<p>Independent activists faced greater obstacles, and state security forces often suppressed attempts to assemble, even when these were in private dwellings and in small numbers. This trend was particularly pronounced in the eastern part of the country. For example, on August 24, the political opposition group UNPACU reported that state security forces forcibly detained more than 130 activists in Santiago de Cuba during a peaceful protest.</p>
+<p>The government continued to organize mobs to assault and disperse those who assembled peacefully. Participants arrived in government-owned buses or were recruited by government officials from nearby workplaces or schools. Participants arrived and departed in shifts, chanted revolutionary slogans, sang revolutionary songs, and verbally taunted the targets of the protest for hours. The targets of this harassment were at times physically assaulted or suffered property damage. Government security officials at the scene, often present in overwhelming numbers, did not arrest those who physically attacked the victims or respond to victims’ complaints and instead frequently orchestrated the activities. Reports indicated that officials took direct part in physical assaults.</p>
+<p>The government did not grant permission to independent demonstrators or approve public meetings by human rights groups or others critical of any government activity. While the government tolerated the Damas de Blanco’s Sunday marches after Mass in the suburbs of Havana, government-organized mobs often broke up marches planned by the Damas in other locations, particularly in Matanzas Province. State security forces also aggressively and arbitrarily detained women to prevent them from marching, sometimes injuring the women in the process. On multiple occasions security forces forced peaceful political protesters into state security vehicles, drove out of town, and released the protesters in remote areas. The government also restricted free assembly by preventing citizens from leaving their homes under threat of arrest. Plainclothes police officers posted themselves in the vicinity of the house to ensure that the citizen could not leave until a public event such as a concert, memorial service, march, or political demonstration was over.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The government routinely denied its citizens freedom of association and did not recognize independent associations. The constitution proscribes any political organization not officially recognized. Authorities have never recognized an independent human rights organization, but a number of independent organizations, including opposition political parties and professional associations, operated as NGOs without legal recognition.</p>
+<p>Recognized churches, the Roman Catholic humanitarian organization Caritas, the Freemason movement, and a number of fraternal and professional organizations were the only associations legally permitted to function outside the formal structure of the state, the CP, and government-organized organizations. These groups are under the supervision of the CP’s Office of Religious Affairs, which has the authority to deny permits for religious activities and exerted pressure on church leaders.</p>
+<p>Nonreligious groups must register through the Ministry of Justice to receive official recognition. Authorities continued to ignore applications for legal recognition from new groups, including several new religious groups as well as women’s rights and gay rights organizations, thereby subjecting members to potential charges of illegal association.</p>
+<p>The government continued to afford preferential treatment for those who took an active part in CP activities and mass demonstrations in support of the government, especially when awarding valued public benefits, such as admissions to higher education, fellowships, and job opportunities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>There were restrictions on freedom of movement within the country, foreign travel, and migration with the right of return. The government also limited internal migration from rural areas to Havana.</p>
+<p><u>In-country Movement</u>: Although the constitution allows all citizens to travel anywhere within the country, changes of residence to Havana were heavily restricted. The local housing commission and provincial government authorities must authorize any change of residence. Persons living in a location without authorization from these bodies may be fined and sent back to their legally authorized place of residence. There were reports of persons who lived in Havana illegally without access to food rations, local identification cards, and other social services. Police occasionally threatened to prosecute for “dangerousness” anyone who returned to Havana after having been expelled. A 2011 decision allowing “illegally present” family members of registered Havana residents to legalize their status to Havana did not improve circumstances for citizens who did not have family members registered as Havana residents.</p>
+<p>The law permits authorities to bar an individual from a certain area within the country, or to restrict an individual to a certain area, for up to 10 years. Under this provision authorities may internally exile any person whose presence in a given location is considered “socially dangerous.” Some dissidents reported they were prevented from leaving their home provinces or detained by authorities and returned to their homes. One government employee was reportedly fired from his work because of independent political activism but then reinstated and assigned to a different job in a remote area.</p>
+<p><u>Foreign Travel</u>: In January 2013 the government eased restrictions on both migration and temporary foreign travel by eliminating previously required exit permits and replacing them with a system under which citizens are eligible to travel after applying for a two-year passport. The government continued to require several classes of citizens to obtain permission to travel, including highly specialized medical personnel, military or security personnel, many government officials, including academics, and some former political prisoners or well-known activists. On January 26, Manuel Cuesta Morua was one of dozens of activists arrested while organizing an alternative forum to the Community of Latin American and Caribbean States (CELAC) summit. After four days of confinement, the government released him with the charge of “spreading false news against international peace.” The government imposed an injunction prohibiting travel abroad pending the conclusion of legal proceedings. In late November the government lifted the travel ban on Cuesta Morua with no explanation.</p>
+<p>There were reports of academic officials denied foreign travel permission by the government because of their public statements that CP authorities deemed “unhelpful.” Several former political prisoners on supervised release were prevented from traveling.</p>
+<p><u>Emigration and Repatriation</u>: Individuals seeking to migrate legally said they also faced police interrogation, fines, house searches, harassment, and intimidation, including involuntary dismissal from employment. Government employees who applied to migrate legally to the United States sometimes were fired from their jobs when their plans became known. Some family members of government employees who immigrated to the United States lost public benefits or were denied passports to travel and join their family members in the United States.</p>
+<p>The law provides for imprisonment of up to three years or a fine of 12 to 80 CUC ($12 to $80) for unauthorized departures from the island, the overwhelming majority of which were by sea. Nonetheless, most persons caught attempting unauthorized departures were detained for no more than two to three weeks and fined. In the case of military or police defectors or those traveling with children, the punishment could be more severe. Jail terms were also more common for persons attempting to flee to the United States through the Guantanamo U.S. Naval Station.</p>
+<p>Under the terms of the 1994 U.S.-Cuba Migration Accord, the government agreed not to prosecute or retaliate against migrants returned from international or U.S. waters, or from the U.S. Naval Station at Guantanamo, after attempting to emigrate illegally if they had not committed a separate criminal offense. The government prevented independent monitoring trips of repatriated Cubans outside of Havana. Some would-be migrants alleged harassment and discrimination such as fines, expulsion from school, and job loss, and others reported more severe punishment. Rolando Guerra, brother of civil society activist Roberto de Jesus Guerra, who was incarcerated after his repatriation to Cuba in 2012 on charges of attempting an unauthorized departure, remained in a maximum-security prison ward, without trial.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The constitution provides for the granting of asylum to individuals persecuted for their ideals or actions involving a number of specified political grounds. The government has no formal mechanism to process asylum for foreign nationals.</p>
+<p><u>Temporary Protection</u>: On the small number of cases of persons seeking asylum, the government worked with the Office of the UN High Commissioner for Refugees and other humanitarian organizations to provide protection and assistance, pending third-country settlement. In addition the government allowed foreign students who feared persecution in their home countries to remain in the country after the end of their studies, until their claims could be investigated.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section3"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Citizens do not have the ability to change their government through the right to vote in free and fair elections, and the government retaliated against those who sought peaceful political change.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: All 612 candidates in the February 2013 National Assembly elections were prescreened by government-run bodies and, once approved by the CP, ran for office uncontested. The president is selected by the National Assembly.</p>
+<p><u>Political Parties and Political Participation</u>: All candidates for office were preapproved by government-run commissions, which rejected independent candidacies without explanation or the right of appeal. All 612 candidates elected in February 2013 and serving in 2014 were either CP members or affiliated and approved by the CP. The government routinely used propaganda campaigns in the state-owned media to criticize opponents.</p>
+<p>In the 2012 municipal elections, scores of candidates were summarily refused the opportunity to run. Some independent candidates for municipal positions managed to run, although they were all defeated in nonsecret voting.</p>
+<p><u>Participation of Women and Minorities</u>: There were no official restrictions on women or minorities, and the government actively promoted participation of both in government. President (and CP first secretary) Castro highlighted that the composition of the Central Committee included 47 women (48 percent) and 36 Afro-Cubans (31 percent). The government reported the composition of the National Assembly as approximately 63 percent white, 20 percent black, and 17 percent mixed race.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section4"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption, and the government was highly sensitive to corruption allegations and often conducted anticorruption crackdowns.</p>
+<p><u>Corruption</u>: All government agencies, especially the Office of the General Comptroller and the Ministry of Interior, were tasked with combating corruption, including through prosecution of government officials, although official media was actively discouraged from investigating corruption.</p>
+<p>The law provides for three to eight years’ imprisonment for “illegal enrichment” by authorities or government employees. Government officials were not subject to special financial disclosure laws.</p>
+<p>In September authorities tried and convicted a prominent foreign businessman of corruption, including bribery, fraud, and tax evasion. The company alleged the government presented weak evidence and denounced the lack of due process in the case. They publicly alleged that they engaged only in common business practices and that the corruption trials were actually hostile takeovers of their businesses.</p>
+<p>There were widespread reports of police corruption. Multiple sources reported that when searching homes and vehicles, police sometimes took the owner’s belongings or sought bribes in place of fines or arrests. There were numerous reports of law enforcement and other official corruption in enforcement of a myriad of economic restrictions and government services.</p>
+<p><u>Financial Disclosure</u>: The law does not require appointed and elected officials to disclose their assets.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, but requests for information were routinely rejected. The government engaged in limited public outreach activities. It did not conduct training of public officials to encourage effective use of the law granting public access to government information.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section5"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The government did not recognize domestic human rights groups or permit them to function legally. Several human rights organizations continued to function outside the law, including the CCDHRN, UNPACU, the Christian Liberation Movement, Assembly to Promote Civil Society, and Lawton Foundation for Human Rights. The government subjected domestic human rights advocates to intimidation, harassment, and periodic short-term detentions.</p>
+<p>No officially recognized, independent NGOs monitored human rights. The government refused to recognize or meet with any unauthorized NGOs that monitored human rights. Furthermore, there were multiple reports of explicit government harassment of individuals who met with unauthorized NGOs.</p>
+<p><u>The United Nations or Other International Bodies</u>: The government continued to deny international human rights organizations, the United Nations, and the International Committee of the Red Cross access to prisoners and detainees.</p>
+<p>In January 2013 the UN Working Group on Arbitrary Detention published a report on the detention of foreign development worker Alan Gross and found his detention to be arbitrary. The government rejected this determination, but on December 17, authorities released Gross and he left the island after a five-year incarceration.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section6"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on race, gender, disability, or social status. Racial discrimination, however, occurred frequently in all levels of society, mostly directed at the Afro-Cuban population.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and the government enforced the law. Penalties for rape are at least four years’ imprisonment, with longer prison terms or death as possible penalties, depending on the circumstances of the rape. The government released some statistics on 2013 arrests, prosecutions, and convictions for violence against women and sexual acts against women and children.</p>
+<p>The law does not recognize domestic violence as a distinct category of violence but prohibits threats and violence, including those associated with domestic violence. Penalties for domestic violence are covered by the laws against assault and range from fines to prison sentences of varying lengths, depending on the severity of the offense.</p>
+<p>To raise awareness about domestic violence, the government continued to carry out media campaigns. Official television, radio, and print media occasionally discussed issues pertaining to women, including domestic violence. In addition a few government-organized organizations held conferences and worked with local communities to improve services. The UN Children’s Fund reported that the government ran counseling centers for women and children in most municipalities, with staff trained in assisting victims of abuse.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No law prohibits FGM/C, but no evidence indicated the existence of the practice.</p>
+<p><u>Sexual Harassment</u>: The law provides penalties for sexual harassment, with potential sentences of three months’ to five years’ imprisonment. The government did not release any statistics on arrests, prosecutions, or convictions for offenses related to sexual harassment during the year. Civil society groups reported sexual harassment was underreported. NGOs reported security forces used sexual harassment as a means of repression for women activists in detention.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of children; had the information and means to do so; and have the right to attain reproductive health services, free from discrimination, coercion, and violence. Past anecdotal reports noted instances of forced abortion to maintain artificially low infant mortality rates, but no reports of that practice surfaced during the year. Access to information on modern contraception and skilled health attendance during pregnancy, at delivery, and in postpartum care were available, but access to information and contraception to prevent the spread of HIV/AIDS was limited. Individuals had access to emergency health care, including services for the management of complications arising from abortion.</p>
+<p><u>Discrimination</u>: The law accords women and men equal rights and responsibilities regarding marriage, divorce, raising children, maintaining the home, and pursuing a career. The law grants working mothers preferential access to goods and services. The law provides for equal pay for equal work, but there were reports that women are restricted from certain occupations deemed hazardous to their physical or psychological health.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is normally derived by birth within the country’s territory, and births were generally registered promptly. Those who immigrate abroad and have children must request a Cuban passport for the child before re-entering Cuba. Children born outside of Cuba to parents on official business are granted Cuban citizenship.</p>
+<p><u>Child Abuse</u>: According to the government, there was no societal pattern of child abuse. The government operated 174 Guidance Centers for Women and Families, or Casas de Orientacion a la Mujer y la Familia, charged with providing family counseling services. In 2013, the latest year from which data is available, these centers reported they provided assistance to 857 individuals harmed by intrafamilial violence. Nonetheless, some lawyers noted that the country’s circa 1975 family code should be modernized to reflect societal changes and new approaches in the legal treatment of violence in families, including child abuse.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age of consent for marriage is 18. Marriage for girls as young as 14 and for boys as young as 16 is permitted with parental consent.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No law prohibits FGM/C, but no evidence indicated existence of the practice.</p>
+<p><u>Sexual Exploitation of Children</u>: Prostitution is legal for 16 year olds and older. While there were numerous reports of underage prostitution, there were no reliable statistics available regarding its extent. In November, however, the government reported that 2,231 children were victims of sexual abuse in 2013. The minimum age of consent for consensual sex is 16. There is no statutory rape law, although penalties for rape increase as the age of the victim decreases. The penal code imposes seven to 15 years’ imprisonment for involving minors under 16 in pornographic acts. The punishment may increase to 20 or 30 years or death under aggravating circumstances. The proposal to participate in such acts is punishable with two to five years’ imprisonment. The law does not criminalize the possession of pornography, but it punishes the production or circulation of any kind of obscene graphic material with three months’ to one year’s imprisonment and a fine. The offer, provision, or sale of obscene or pornographic material to minors under 16 is punishable with two to five years in prison. International trafficking of minors is punishable with seven to 15 years’ imprisonment.</p>
+<p>The government, in cooperation with the British government and a British NGO, maintained centers in Havana, Santiago de Cuba, and Santa Clara for the treatment of child sexual abuse victims. The centers employed modern treatment techniques, including the preparation of children to be witnesses in criminal prosecutions.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There were between 1,000 and 1,500 members of the Jewish community. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>There is no known law prohibiting discrimination against persons with disabilities in employment, education, access to health care, or the provision of other state services. A Ministry of Labor and Social Security resolution accords persons with disabilities the right to equal employment opportunities and equal pay for equal work. There was no information available, however, on compliance with this resolution. There are laws recommending that buildings, communications facilities, air travel, and other transportation services accommodate persons with disabilities, but these facilities and services were rarely accessible to persons with disabilities, and information for persons with disabilities was limited.</p>
+<p>The Special Education Division of the Ministry of Education is responsible for the education and training of children with disabilities. Children with disabilities attended school; there were no known patterns of discriminatory abuse in educational facilities or in mental health facilities during the year. The Ministry of Labor and Social Security is in charge of the Employment Program for Persons with Disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Although the government’s declared policy actively favored racial integration and inclusiveness, Afro-Cubans often suffered racial discrimination, including disproportionate stops for identity checks and searches, and some were subject to racial epithets while undergoing unlawful beatings at the hands of security agents related to political activity. Afro-Cubans also reported employment discrimination, particularly in sought-after positions within the tourism industry and at high levels within the government (see section 7.d.). Afro-Cubans were represented disproportionately in neighborhoods with the worst housing conditions and were economically disadvantaged.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination based on sexual orientation in employment, housing, statelessness, or access to education or health care. Nonetheless, societal discrimination based on sexual orientation or gender identity persisted.</p>
+<p>Mariela Castro, President Castro’s daughter, headed the national Center for Sexual Education and continued to be outspoken in promoting the rights of lesbian, gay, bisexual, and transgender (LGBT) persons. Throughout the year the government promoted the rights of LGBT persons, including nonviolence and nondiscrimination in regional and international fora. In May the government sponsored a march and an extensive program of events to commemorate the International Day Against Homophobia and Transphobia. Nonetheless, nongovernmental rights activists asserted the government had not done enough to stop harassment of LGBT persons. Several unrecognized NGOs promoted LGBT issues and faced government criticism, not for their promotion of LGBT issues, but for their independence from official government institutions.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>There were reports that some persons with HIV/AIDS suffered job discrimination (see section 7.d.). The government operated four prisons exclusively for inmates with HIV/AIDS. Some inmates were serving sentences for “propagating an epidemic.” Special diets and medications for HIV patients were routinely unavailable. Several NGOs lamented that contraceptives and information to prevent the spread of HIV/AIDS was limited.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section7"> </span><span class="st_twitter" st_title="Cuba #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Cuba - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236680%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including related regulations and statutes, severely restricts worker rights by recognizing only the CP-controlled Workers’ Central Union of Cuba (CTC) as the paramount trade union confederation. All trade groups must belong to the CTC to operate legally. The law does not provide for the right to strike. The law also does not provide for collective bargaining, instead setting up a complicated process for reaching collective agreements. The International Labor Organization continued to raise concerns regarding the trade union monopoly of the CTC, the prohibition on the right to strike, and restrictions to collective bargaining and agreements, including that government authorities and CTC officials had the final say on all such agreements.</p>
+<p>The government continued to prevent the formation of independent trade unions in all sectors. The CP chose CTC’s leaders. The CTC’s principal responsibility was to manage government relations with the workforce. The CTC does not bargain collectively, promote worker rights, or advocate for the right to strike. The CTC took a lead role in disseminating information regarding the government’s planned large-scale layoffs of government workers and in defending the government’s decision to do so.</p>
+<p>According to government statistics, approximately 476,000 workers were self-employed during the year, an increase of 12 percent from 2013.</p>
+<p>Several small independent labor organizations operated without legal recognition, including the National Independent Workers’ Confederation of Cuba, the National Independent Laborer Confederation of Cuba, and the Joint Council of Workers of Cuba; together they comprise the Coalition of Independent Unions of Cuba. These organizations continued to be subjected to police harassment and infiltration by government agents and had a limited capacity to represent workers effectively or work on their behalf.</p>
+<p>The government can determine that a worker is “unfit” to work, resulting in job loss and the denial of job opportunities. Persons were deemed unfit because of their political beliefs, including their refusal to join the official union, and for trying to depart the country illegally. Professionals who expressed interest in emigrating were also penalized.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law does not appear to prohibit forced labor explicitly. The law prohibits unlawful imprisonment, coercion, and extortion, with penalties ranging from fines to imprisonment, but there was no evidence that these provisions were used to prosecute forced labor cases.</p>
+<p>Compulsory military service of young men was occasionally completed by assignment to an economic entity controlled by the military or assignment to other government services.</p>
+<p>The government continued to use some high school students in rural areas to harvest agricultural products (also see section 7.c.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The legal minimum working age is 17, although the labor code permits the employment of children ages 15 and 16 to obtain training or fill labor shortages. The labor code does not permit children ages 15 and 16 to work more than seven hours per day or 40 hours per week or on holidays. Children ages 13 to 18 cannot work in specified hazardous occupations, such as mining, or at night.</p>
+<p>There were no known government programs to prevent child labor or remove children from such labor. Antitruancy programs, however, helped ensure that children were in school and not in the labor market. Inspections and penalties were adequate to enforce the law, and it was rare that children under 17 worked. The use of minors in forced labor, drug trafficking, prostitution, pornography, or organ trade is punishable by seven to 15 years’ incarceration.</p>
+<p>The government used some high school students in rural areas to harvest agricultural products for government cooperatives during peak harvest time. Student participants were not paid but received school credit and favorable recommendations towards university admission. Failure to participate without an excused absence reportedly could result in unfavorable grades or university recommendations, although students were reportedly able to participate in other activities (instead of the harvest) to support their application for university admission.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>In December 2013 the National Assembly approved changes to the labor code, which include prohibiting workplace discrimination based on skin color, gender, religious belief, sexual orientation, nationality, “or any other distinction harmful to human dignity.” There was no information available on government enforcement of these provisions during the year. The government failed to pass legislation presented during the year that would address discrimination against LGBT persons, including pushing for workplace discrimination protections, antihomophobia demonstrations, and laws for better treatment of transgender individuals.</p>
+<p>Discrimination in employment and occupation occurred with respect to persons with HIV and members of the Afro-Cuban population. Leaders within the Afro-Cuban community noted that some Afro-Cubans could not get jobs in sectors such as tourism and hospitality because they were “too dark.” The Afro-Cuban leaders explained that jobs in sectors that deal with tourists were filled with fairer-skinned Cubans and were often among the best-paying jobs available. Afro-Cubans were more frequently given menial jobs including cleaning and garbage disposal that excluded them from close contact with tourists, a major source of hard currency.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The monthly minimum wage was fixed at 225 pesos (nine dollars). The minimum wage requirement does not apply to the small nonstate sector. The government supplemented the minimum wage with free education, subsidized medical care (daily pay is reduced by 40 percent after the third day of a hospital stay), housing, and some food. Even with subsidies the government acknowledged that the average wage of 471 non-convertible pesos ($19) per month did not provide a reasonable standard of living.</p>
+<p>The standard workweek is 44 hours, with shorter workweeks in hazardous occupations, such as mining. The law provides workers with a weekly minimum 24-hour rest period and 24 days of paid annual holidays. These standards apply to state workers as well as to the small nonstate sector (but not to the self-employed). The law does not provide for premium pay for overtime or prohibit obligatory overtime but generally caps the number of overtime hours at 12 per week or 160 per year. The law provides little grounds for a worker to refuse to work overtime. Refusal to work overtime can result in a notation in the employee’s official work history that could imperil subsequent requests for vacation time. The Ministry of Labor has the authority to establish different overtime caps as needed. Compensation for overtime is paid in cash at the regular hourly rate or in additional rest time, particularly for workers directly linked to production or services, and it does not apply to management.</p>
+<p>The government sets workplace safety standards, although such standards were outdated. The Ministry of Labor enforced minimum wage and hours of work standards through offices at the national, provincial, and municipal levels, but the government lacked mechanisms to enforce occupational safety and health standards. There was no confirmed information available about the number of labor inspectors. Reports suggested that there were very few inspectors and that health and safety standards frequently were ignored.</p>
+<p>Workers complained that overtime compensation was either not paid or not paid in a timely manner. The government maintained the number of trades that could be plied privately (201) and allowed the self-employed to hire labor. Despite criminal penalties for doing so, a significant number of workers participated in the informal economy. Foreign companies operated in a limited number of sectors, such as hotels, tourism, and mining. Such companies operated on the basis of a joint venture policy, in which the government contracted and paid company workers in pesos, an amount that was a small fraction of what the company remitted to the state for labor costs. Most formal employment was only through government employment agencies. Employers, including international businesses and organizations, were generally prohibited from contracting or paying workers directly, although many reportedly made supplemental payments under the table.</p>
+<p>The independent and illegal Confederation of Independent Workers of Cuba reported some violations of health and safety laws at worksites throughout the country, including inadequate and poorly maintained equipment and protective gear. The CTC seldom informed workers of their rights and at times did not respond to or assist workers who complained about hazardous workplace conditions. Workers could not remove themselves from dangerous situations without jeopardizing their employment, and authorities did not effectively protect workers facing this dilemma.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

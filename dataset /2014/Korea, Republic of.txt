@@ -1,0 +1,581 @@
+2014
+Korea, Republic of
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450"> </span><span class="st_facebook" st_title="Korea, Republic of" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236450">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236450</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=executive"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Republic of Korea (South Korea) is a constitutional democracy governed by a president and a unicameral legislature. July parliamentary by-elections, June local elections, and December 2012 presidential elections were viewed as free and fair. Authorities maintained effective control over security forces.</p>
+<p>The primary human rights problems reported were government interpretation of the National Security Law, libel laws, and other laws to limit freedom of speech and expression and restrict access to the internet; the continued jailing of conscientious objectors to military service; and bullying and hazing in the military.</p>
+<p>Other human rights problems included some official corruption, the absence of a comprehensive antidiscrimination law, sexual and domestic violence, child prostitution, and trafficking in persons. Societal discrimination occurred against defectors from the Democratic People’s Republic of Korea (North Korea or DPRK); ethnic/racial minorities; lesbian, gay, bisexual, and transgender (LGBT) persons; persons with HIV/AIDS; and foreigners. Restrictions on workers’ rights, including freedom of association and assembly and limitations on political engagement of public servants and teachers, were also problematic.</p>
+<p>The government took steps to prosecute officials who committed abuses, and impunity was not evident.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section1"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>In August public outrage erupted after details emerged regarding the April death of a conscript army private from choking and beating at the hands of his superiors. Six soldiers were charged with murder in the case; in October the court sentenced the soldiers to between three months and 45 years in prison.</p>
+<p>During the first half of the year, the Ministry of National Defense reported 37 suicides among military personnel, generally attributed to bullying, hazing, or inability to adjust to military life. In August the joint suicide of two draftees due to difficulty in adjusting to military life and alleged bullying and hazing gained nationwide attention. Responding to calls by the president to reform military culture and address human rights abuses, the ministry set up a human rights council in August, increased the number of human rights instructors from 250 to 2,000, and planned a human rights assessment of the military in 2015. The National Human Rights Commission (NHRC) also launched a Military Human Rights Team in September to investigate and prevent human rights abuses in the military.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices, although there were credible reports that government officials employed them during the year.</p>
+<p>The law allows judges or a Ministry of Justice committee to sentence sex offenders who have attacked victims under the age of 19 to chemical castration as a potential punishment. The Ministry of Justice filed seven requests for chemical castration as of September.</p>
+<p>The government reported 300 criminal cases filed in the military for mistreatment and hazing of soldiers and conscripts. Military authorities reported in newspapers that more than 3,900 members of the military participated in hazing in April alone (see also section 1.a.).</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards, and the government permitted visits by independent human rights observers.</p>
+<p><u>Physical Conditions</u>: According to the Ministry of Justice, the total number of prisoners as of July 31 was 50,800, of whom 3,025 were women and 492 were under age 19. According to the nongovernmental organization (NGO) International Center for Prison Studies, there were 36 correctional institutions, one private correctional institution, 11 detention centers, and three detention branches in the country in 2013. Correctional facilities had a capacity of 46,180 persons as of July 2014. Authorities confined male and female prisoners in separate but similar quarters specifically designed to meet particular population needs and generally confined foreign prisoners in separate but otherwise equal facilities with the same rules. Children and juveniles (under 19) were kept in facilities separate from adults. The Ministry of Justice reported 17,880 pretrial detainees, and they were held in detention centers. Persons sentenced to confinement were committed to prisons. From January through July, there were 19 reported deaths in prison: 16 from disease and three from suicide.</p>
+<p>The Ministry of Justice reported that as of the end of July, of 85 prisoner allegations submitted to its Reporting Center for Human Rights Infringement, investigations resulted in eight cases rejected for not falling under the category of human rights infringement, 67 cases dismissed because of false or insufficient evidence after investigation, and 10 cases referred for correction. The National Human Rights Commission reported 94 cases in the first seven months of the year that alleged violence or harsh treatment by prison guards, of which it rejected 15, investigated then dismissed 39, and continued investigating 40. Women’s prisons contained special examination areas for women’s health concerns and annual checkups. Food, sanitation, and medical care were adequate, and prisoners had access to potable water.</p>
+<p><u>Administration</u>: Authorities managed prison records according to law, maintained them for various periods at relevant institutions, and systematically transferred them to the national records center after 30 years. No legal steps require alternative sentences for non-violent offenders, but penalty fees, community service, and suspended sentences were determined on a case-by-case basis and used regularly. Prisoners and detainees had reasonable access to visitors as well as freedom of religious observance. There were no prison ombudsmen, but prisoners and detainees could request investigations and submit complaints without censorship to the Ministry of Justice and National Human Rights Commission, or via the ministry’s national Human Rights Violation Hotline Center. Authorities investigated credible allegations of problematic conditions and documented the results of such investigations in a publicly accessible manner. Authorities investigated all 79 petitions submitted to the ministry during the year with no findings of unfair treatment of prisoners by prison officers.</p>
+<p><u>Independent Monitoring</u>: There were no problems reported with access to prison facilities. The International Committee of the Red Cross did not request monitoring of detention conditions during the year.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions. The National Security Law (NSL) grants authorities the power to detain, arrest, and imprison persons believed to have committed acts intended to endanger the “security of the state.” Domestic and international NGOs continued to call for reform or repeal of the law, contending its provisions do not clearly define prohibited activity. The Ministry of Justice maintained the courts had established legal precedents for strict interpretation of the law that preclude arbitrary application.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Korean National Police Agency is responsible for internal security under the supervision of the Ministry of Public Administration and Security. Civilian authorities maintained effective control over police, and the government had effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving security forces during the year.</p>
+<p>The National Intelligence Service (NIS) has the authority to investigate crimes or criminal activity related to national security and subversion. An August report by the International Crisis Group stated that extensive NIS powers and secrecy combined with little oversight enabled the NIS to unreasonably expansively define and investigate activities it deemed a threat to national security. In September a former director of the NIS was found guilty of violating the National Intelligence Service Act by ordering approximately 70 agents to post political comments on websites from February 2009 to December 2012, ahead of the 2012 presidential elections. In November a district court sentenced five intelligence agents to between 12 and 30 months in prison for forging Chinese government documents to frame a North Korean defector for espionage.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires warrants in cases of arrest, detention, seizure, or search, except if a person is apprehended while committing a criminal act or if a judge is not available, and authorities believe a suspect may destroy evidence or escape capture if not arrested quickly. In such cases, a public prosecutor or police officer must prepare an affidavit of emergency arrest immediately upon apprehension of the suspect. Authorities may not interrogate a person who voluntarily submits to questioning at a police station for more than six hours. Authorities must either indict or release an arrested suspect within 20 days. The law allows 10 additional days of detention in exceptional circumstances.</p>
+<p>There is a bail system. Human rights lawyers stated authorities generally did not grant bail for detainees who were charged with committing serious offenses, might attempt to flee or harm another, or had no fixed address.</p>
+<p>The law provides for the right to representation by an attorney, including during police interrogation. There were no reports of denial of access to counsel. There are no restrictions on access to a lawyer, but authorities can limit a lawyer’s participation in an interrogation if the lawyer obstructs the interrogation or discloses information that impedes an investigation. The courts respected a defendant’s right to a lawyer. During the trial stage, and under certain circumstances during the pretrial stage, an indigent detainee may request that the government provide a lawyer. Some NGOs alleged North Korean defectors who were screened at the defector protection center and suspected of espionage did not receive proper legal assistance. In September a local court acquitted a suspected North Korean spy, stating he was not read his legal rights and was detained without warrant for 135 days.</p>
+<p>Access to family members during detention varied according to the severity of the crime.</p>
+<p><u>Arbitrary Arrest</u>: In contrast to more than 100 indictments in 2013, the Ministry of Justice reported only seven detentions for violating the NSL during the year. Of the seven, there have been one conviction and six cases remain on trial. Some NGOs stated that, as of September, 18 persons continued to be detained for violating the NSL.</p>
+<p>In August the Supreme Court acquitted Park Jeong-geun of violating the NSL by re-tweeting posts praising North Korea between December 2010 and December 2011. The defendant argued the posts were satirical.</p>
+<p>Also in August the Seoul High Court reduced the nine-year prison sentence of Lee Seok-ki and six other members of the minor opposition Unified Progressive Party (UPP) for incitement to rebellion and violation of the NSL. The judge acquitted Lee of the charge of plotting a rebellion.</p>
+<p><u>Amnesty</u>: The government reported 5,925 persons received amnesty in January. One NGO noted the president reduced sentences by one to two months for approximately 100 Jehovah’s Witnesses in prison for conscientious objection.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law provides for an independent judiciary, and the government respected judicial independence. In past years international human rights NGOs criticized actions by senior judges that allegedly interfered with the independence of junior judges and alleged political interference with the judiciary.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and an independent judiciary generally enforced this right. By law defendants in criminal trials are presumed innocent and enjoy protection against self-incrimination; they have the right to be informed promptly and in detail of charges, with free interpretation as necessary, the right to a speedy and fair trial; and the right of appeal. They are also protected against retroactive laws and double jeopardy. Initial trials must begin within six months of arrest.</p>
+<p>Trials are open to the public, but judges may restrict attendance if they believe spectators might disrupt the proceedings. There is a jury system, but jury verdicts are not legally binding. In serious cases a jury may reach a verdict for certain felonies, such as murder and rape, but only with the consultation and consent of the judge. The defendant must request a jury trial beforehand.</p>
+<p>The government provides and pays court-appointed lawyers in cases where defendants cannot afford legal counsel. Judges have considerable scope to examine witnesses for both the prosecution and defense. Defendants have the right to be present and consult with an attorney. They may not be compelled to testify or confess guilt, and they have the right to appeal. Defendants also may have access to relevant government-held evidence.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Justice stated there were no persons incarcerated solely because of their political beliefs. Some NGOs, however, argued that individuals arrested for violations of the NSL, for conscientious objection to military service, or for strike activities qualified as political prisoners.</p>
+<p>The law requires military service by all male citizens and does not distinguish conscientious objectors from others who do not report for duty; the penalty for failing or refusing to report is up to three years in prison. There is no provision for alternative service by conscientious objectors. The Ministry of National Defense reported granting 4,050 exemptions for health, disability, or other reasons as of July. Amnesty International reported there were 680 persons in prison for conscientious objection as of September. The NGO Watchtower stated that as of September 30, 576 Jehovah’s Witnesses were in prison. The government reported that, as of July, 336 persons were convicted for failing to report for military service and were sentenced to 18 months in prison. During the year an increasing number of individuals prosecuted for failure to meet their mandatory military service requirements claimed conscientious objector status on political or moral, not religious, grounds. One NGO reported Canada, France, and Australia granted political asylum to Korean conscientious objectors seeking exemption from military service, including a January case in Australia.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent and impartial judiciary in civil matters, and there were no problems enforcing domestic court orders. Citizens had court access to bring lawsuits seeking damages for, or cessation of, a human rights violation. Administrative and judicial remedies are available for alleged wrongs.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions, and the government generally respected these prohibitions. The law establishes conditions under which the government may monitor telephone calls, mail, and other forms of communication for up to two months in criminal investigations and four months in national security cases. According to the Ministry of Justice, as of July courts approved 109 wiretaps. The Security Surveillance Act requires some persons sentenced to prison for breaching the NSL to report their whereabouts, family relations, occupation, and financial status to a local police office within seven days of leaving prison and every third month thereafter. In March the NGO Asian Human Rights Commission asserted the Security Surveillance Act interfered with privacy and freedom of movement and was vague.</p>
+<p>The NSL forbids citizens from listening to DPRK radio programs in their homes or reading books published in the DPRK if the government determines such an action endangers national security or the basic order of democracy. Enforcement of these prohibitions continued to be rare, however, and viewing DPRK satellite telecasts in private homes is legal.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section2"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press, but the government’s interpretation of the NSL; Article 21, Paragraph 4, of the constitution; the Criminal Act; the Framework Act on Telecommunications (Framework Act); and the Act on Promotion of Information and Communication Network Utilization and Information Protection (Network Act) limited freedom of speech and expression and restricted access to the internet.</p>
+<p><u>Freedom of Speech</u>: Although the law provides for freedom of speech, under the NSL the government may limit the expression of ideas that praise or incite the activities of “anti-state” individuals or groups. During the year prosecutions under the NSL for speech that allegedly supported or praised the DPRK government continued. In August a Chinese student was deported for violating the immigration law by posting hundreds of online comments in support of the DPRK and critical of President Park. During the Asian games in September, the Ministry of Unification banned citizens from possessing or bringing DPRK flags into stadiums. Those whom authorities deem to have criticized the country’s political leaders may also be punished under laws that criminalize defamation, whether fact-based or false, if the comments are deemed not to be in the public interest.</p>
+<p><u>Press Freedoms</u>: Independent media were active and expressed a wide variety of views, but strict defamation laws limited freedom of the press. The UN special rapporteur on the promotion and protection of the right to freedom of opinion and expression voiced concern that defamation suits filed for statements that were true and in the public interest were used to penalize individuals who criticized the government.</p>
+<p>In October the Seoul Central Prosecutors' Office used the Network Act to indict Japanese newspaper Sankei Shimbun's Seoul bureau chief Tatsuya Kato for allegedly defaming President Park over the Sewol ferry accident. If found guilty of defamation, the law allows for up to seven years in prison or a fine of up to 50 million won ($47,913). In September the police seized and searched the house of a Korean reporter from a separate news outlet who translated and posted the Sankei article online. Newspapers reported that as of September, the Supreme Court stated 1,274 persons had been charged under the Network Act, with 121 persons receiving prison terms, compared with 58 in 2013.</p>
+<p><u>Censorship or Content Restrictions</u>: The Ministry of Gender Equality and Family monitors song lyrics and may ban releases it considers offensive. The Korea Communications Standards Commission (KCSC) maintains ethical standards in broadcasting and internet communications. The UN special rapporteur on freedom of expression and opinion reported concerns about insufficient safeguards to ensure the KCSC does not operate as a de facto censorship body to delete content critical of the government or powerful corporations. In September the Supreme Prosecutor’s Office formed a team of five prosecutors and investigators within the Seoul Central District Prosecutor’s Office to monitor the internet for false information and remove it as it was discovered. In October newspapers reported that during the course of a week, more than 400,000 users abandoned Kakao Talk, the country’s top mobile messenger app, following fears of potential state cyber surveillance.</p>
+<p><u>Libel Laws/National Security</u>: The law broadly defines and criminalizes defamation, which could have a chilling effect on news coverage. The law allows punishment of up to seven years in prison. In August prosecutors indicted opposition lawmaker Park Jie-won on charges of defaming three persons close to the president. As of July the Ministry of Justice reported 11,623 individuals charged with defamation, with 166 persons indicted and 1,386 summarily indicted.</p>
+<p>The law punishes defamation of deceased persons as well; the maximum punishment is two year’s imprisonment.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were some government restrictions on internet access, and the government monitored e-mail and internet chat rooms with wide authority under the law. Internet access was available and used widely.</p>
+<p>The government’s Office of Internet Communications Review determines whether posts made on social networking sites, such as Twitter and Facebook, or in chat rooms contain unlawful content, defined as harmful or illegal speech. If the government finds prohibited materials, it has the power to warn the user. If the prohibited materials are not removed, the user’s account may be blocked.</p>
+<p>The government also blocked violent, sexually explicit, gambling-oriented, and other websites found to violate law and order, including, but not limited to, the illegal trade of internal organs, food, or medical supplies; violation of intellectual property rights; and the encouragement or planning of suicide. The government also continued to block DPRK websites and direct access to the DPRK’s YouTube channel and Twitter account. Although viewing websites praising the DPRK regime is lawful, disseminating information about those websites, including posting links to the sites, is unlawful under the NSL.</p>
+<p>During the first of half of the year, the KCSC blocked content promoting the DPRK regime and Juche ideology on 750 Facebook and Twitter accounts believed to be operated by DPRK cyber agents. According to the National Assembly, the Ministry of National Defense found and deleted 37,130 pro-North Korea postings between 2012 and August 2014.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions specifically targeting academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of assembly, and the government generally respected this right. The Assembly and Demonstrations Act prohibits assemblies considered likely to undermine public order and requires notification of police in advance of demonstrations of all types, including political rallies. Police must notify organizers if they consider an event impermissible under this law. Police banned some protests by groups that had not properly registered or that were responsible for violent protests in the past. In 2013, out of 139,812 assemblies reported, the police banned 203, and UN Special Rapporteur For Human Rights Defenders Sekaggya criticized laws that require citizens to report to authorities in advance when they want to have a large gathering, saying those laws were effectively a licensing system that could be used to prevent peaceful demonstrations. Some NGOs reported Article 314 of the Criminal Act on obstruction of business also restricts the right to peaceful assembly.</p>
+<p>Amnesty International reported that, as of August, 222 persons were charged for violating the Assembly and Demonstrations Act, compared with 156 during that same period in 2013. In December the Seoul Western District Court found four leaders of the Korean Railway Workers’ Union not guilty on charges of obstruction of business under the Criminal Act, after they had led a 22-day strike against railway privatization in December 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of association, and the government generally respected this right. Associations operated freely, except those seeking to overthrow the government through force or violence.</p>
+<p>In June a local court upheld the government’s disbandment of the Korean Teachers and Education Workers Union for keeping teachers who had lost their jobs on its rolls. The International Labor Organization criticized the action as a violation of freedom of association, and critics alleged the Ministry of Employment and Labor intended to destroy the union because it advanced education policies contrary to the government’s position. The union filed an appeal with the Seoul High Court (see section 7.a.).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of movement within the country, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>Foreign Travel</u>: All South Korean citizen travelers to North Korea are required to obtain permission from the Ministry of Unification before departure. The travelers must demonstrate their trip has no political purpose and is not intended to praise North Korea or criticize the South Korean government. Visiting North Korea without government approval is punishable by up to 10 years in prison under the NSL.</p>
+<p>Citizens indicted for a crime for which the potential sentence is two years’ imprisonment or more and citizens convicted of a crime with suspended sentences that have yet to be fulfilled may have their passport privileges limited or revoked by the Ministry of Foreign Affairs.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for granting asylum or refugee status. The government considers refugees from North Korea under a separate legal framework and does not include refugees from North Korea in refugee or asylum statistics. The government has an established system for protecting refugees but does not routinely grant refugee status or asylum to non-North Koreans. In June 2013 the government established the Refugee Division in the Ministry of Justice to develop and implement refugee policy. The government operated refugee application counters at airports and harbors, so asylum seekers could file applications and get a preliminary review when entering the country. It protects asylum seekers’ right to an attorney and bans forced repatriation. Asylum seekers can ask for interpretation and legal aid services from the government and receive a work permit six months after the submission of their applications; previously the wait was one year. The budget for refugee support increased to 2.5 billion won ($2.4 million), up from 2.07 billion won ($1.97 million) in 2013.</p>
+<p>Requests for asylum continued to increase markedly. Through July, 1,300 applications for refugee status and asylum were submitted, 39 applications were approved, 1,122 denied, and 334 applicants were permitted to stay for humanitarian reasons. It takes on average 15 months from application to review.</p>
+<p><u>Access to Basic Services</u>: The government continued its longstanding policy of accepting refugees or defectors from North Korea, who by law are entitled to South Korean citizenship. The government resettled approximately 730 such persons during the first half of the year, raising the total to slightly more than 26,800 since the end of the Korean War. Cultural and social differences posed adjustment difficulties, and many refugees from North Korea alleged societal discrimination. In a 2014 survey of 200 North Korean defectors, many complained prejudice and discrimination against North Koreans could make them feel like second-class citizens. The government provided adjustment assistance services to recently settled defectors, including rental aid, exemption from education fees for middle- and high-school students, medical assistance, business loans, and employment assistance. The government also operated Hana Centers, or Centers to Adjust to Regions, which educated refugees about adapting to specific geographic areas, provided counseling services, and aided social adjustment.</p>
+<p><u>Temporary Protection</u>: Government guidelines provide for offering both temporary refugee status in the case of a mass influx of asylum seekers and an alternate form of protection--a renewable, short-term permit--to those for whom the category of refugees does not apply but for whom there are reasonable grounds to believe their life or personal freedom may be egregiously violated by torture or other inhuman treatment or punishment. From January to July, the government provided temporary humanitarian protection to 334 persons who did not qualify as refugees.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section3"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage for all citizens age 19 or older.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: Parliamentary by-elections in July, nationwide local elections in June, and presidential and National Assembly elections in 2012 were generally viewed as free and fair.</p>
+<p>In August after a months-long probe, the Ministry of National Defense concluded officials from the Cyber Warfare Command made more than 7,100 posts on the internet in an online smear campaign against the opposition party during the period preceding the 2012 presidential elections. The ministry indicted 21 officials, including former commanders of Cyber Command Yeon Jae-wook and Ok Do-kyung, for violating Article 94 of the Military Criminal Act, which states officials have an obligation to remain politically neutral. In September the Seoul Central District Court found Won Sei-hoon, former head of the NIS, guilty of ordering agents to post politically sensitive comments on major internet bulletin boards and social media ahead of the 2012 presidential elections.</p>
+<p>Although the requirement that persons use their real names when making online postings to large websites was ruled unconstitutional in 2012, the election campaign law requires real names for internet postings about forthcoming elections.</p>
+<p><u>Political Parties and Political Participation</u>: The Constitutional Court ruled in December to disband the UPP because of its pro-North Korea stance. The government brought the case in November 2013 because of the UPP’s pro-North Korea stance. The decision was the first disbandment of a party by court or government order since the country adopted its first constitution in 1948. The government also brought charges under the NSL against members of the UPP for praising and propagating North Korean ideology.</p>
+<p><u>Participation of Women and Minorities</u>: By law in general elections half of each party’s candidates for the 54 seats decided by proportional ballot must be women, and the law recommends at least 30 percent of each party’s candidates for the 245 single-member constituencies be women. The president was a woman, and there were 49 women in the 300-seat National Assembly. Women chaired two of the 16 National Assembly standing committees, and two of the 12 Supreme Court justices were women. One of the 17 cabinet ministers was a woman.</p>
+<p>There was no major difference between male and female voting rates in elections. In the 2012 presidential election, the rate for men was 74.8 percent and for women 76.4 percent. In the general election the same year, the rate for women was 53.1 percent and for men 55.7 percent. In the 2014 local elections, the rate for both men and women was 57.2 percent.</p>
+<p>The National Assembly included one ethnic minority group member: Jasmine Lee, an ethnic Filipina and the first naturalized citizen to serve as a legislator.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section4"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, and the government implemented the law effectively. There were some reports of officials receiving bribes and meddling in domestic politics.</p>
+<p><u>Corruption</u>: Several government agencies are responsible for combating official corruption, including the Board of Audit and Inspection, which monitors government expenditures, and the Public Service Ethics Committee, which monitors civil servant financial disclosures and activities. The Anticorruption and Civil Rights Commission manages public complaints and administrative appeals regarding corrupt government practices. Cases related to corrupt activities by high-ranking incumbent officials are subject to privacy closure. These agencies operated effectively, independently, with sufficient resources, and collaborated actively with civil society.</p>
+<p>In September, three incumbent lawmakers from the main opposition and ruling parties were indicted on charges of receiving bribes. Representative Cho Hyun-ryong of the ruling Saenuri Party was under suspicion of accepting 160 million won ($152,000) from railway parts supplier Sampyo E&amp;C. Representative Kim Jae-yun of the opposition New Politics Alliance for Democracy was suspected of receiving approximately 53 million won ($50,500) from a local vocational training school. Representative Park Sang-eun of the Saenuri Party was accused of hiding political funds worth 834 million won ($794,000) at the residence of his eldest son and accepting 120 million won ($114,000) from his former employer as consulting fees.</p>
+<p><u>Financial Disclosure</u>: By law public servants above a specified rank, including elected officials, must register their income and assets, including how they accumulated them, and make their holdings public.</p>
+<p><u>Public Access to Information</u>: The country has a freedom of information law, and the government granted public access to citizens and noncitizens alike.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section5"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A wide variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were cooperative and responsive to their views. On October 6, UN Special Rapporteur on Racism and Xenophobia Mutuma Ruteere concluded a weeklong visit to South Korea to examine the situation of migrant workers.</p>
+<p><u>Government Human Rights Bodies</u>: The NHRC, established as an independent government body to protect and promote the human rights enumerated in the constitution, has no enforcement power, and its recommendations and decisions are non-binding. It investigates complaints, issues policy recommendations, trains local officials, and conducts education campaigns. NGOs asserted the NHRC was not independent of the Office of the President, was under resourced, and was overly focused on North Korean problems. As of July 31, 5,126 allegations of human rights violations were filed with the NHRC, and it investigated 4,787 cases. No cases involving the NSL or conscientious objectors were filed.</p>
+<p>Ombudsman activities are the responsibility of the independent Anticorruption and Civil Rights Commission, which had adequate resources. It issued annual reports and interacted with various government institutions, including the Office of the President, the National Assembly, and ministries. The commission continued to address complaints and concerns from both citizens and foreign residents, and observers stated it generally enjoyed the public’s trust.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section6"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law forbids discrimination based on race, gender, disability, sexual orientation, and social status, but not discrimination based on language or gender identity. There is no enforcement mechanism in the law, and it does not protect migrant workers against racial discrimination, pregnant women against employment discrimination, or pregnant school-age girls against being denied an education.</p>
+<p>In February 2013, following the recommendation of the UN Human Rights Council Universal Periodic Review, legislators prepared comprehensive antidiscrimination legislation. The legislation was withdrawn, however, due to aggressive lobbying, primarily from conservative religious groups opposed to efforts to provide protection to gays and pregnant women.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape. Although no specific statute defines spousal rape as illegal, the Supreme Court acknowledged marital rape as illegal in May 2013. The penalty for rape is at least three years in prison; if a weapon is used or two or more persons commit the rape, punishment ranges from a minimum of five years’ imprisonment to life. If the perpetrator is a relative of the victim, the minimum prison sentence for rape or sexual assault without a weapon increases from three years to five. If a weapon was used or two or more persons committed the crime, the minimum penalty increases from five years to seven. During the year the government identified sexual assault and domestic violence as two of four social evils to tackle.</p>
+<p>The law defines domestic violence as a serious crime and authorizes authorities to order offenders to stay away from victims for up to six months. This order may be extended up to two years. Offenders may be sentenced to a maximum of five years in prison and fined up to seven million won ($6,700) for domestic violence offenses. Noncompliance with domestic violence restraining orders may result in a maximum sentence of two years in prison and a fine of up to 20 million won ($19,000). Authorities may also place offenders on probation or order them to see court-designated counselors. The law requires police to respond immediately to reports of domestic violence, and they were for the most part responsive.</p>
+<p>When there is a danger of domestic violence recurring and an immediate need for protection, the act allows a provisional order to be issued ex officio or at the request of the victim. This order may restrict the subject of the order from living in the same home, approaching within 109 yards of the victim, or contacting the victim through telecommunication devices.</p>
+<p>During the year the government revised the Act on the Prevention of Domestic Violence and Protection of Victims, the Act on the Prevention of Sexual Violence and Protection of Victims, and the Act on Women’s Development to require preventive education about and awareness of domestic violence, sexual violence, and sexual harassment in national agencies, local governments, and public organizations. In September 2013 the government established a Violence Preventive Education Division.</p>
+<p>The Ministry of Justice stated there were 27,656 reported cases of rape, sexual assault, and domestic violence through July. Of the 16,095 cases of sexual assault reported, authorities detained 1,468 offenders. Of the 11,561 cases of domestic violence reported, authorities detained 228 offenders.</p>
+<p>The Ministry of Gender Equality and Family funded 33 integrated support centers for victims of sexual violence at hospitals, providing counseling, medical aid, case investigations, and legal assistance. The government also subsidized 96 counseling centers, and there were 76 nonsubsidized counseling centers, for a total of 172 counseling centers in the country. These provided victims with free medical services, legal services, support during the investigation and trial, and therapy and rehabilitation programs. As of August, 23 of the 172 facilities were for victims with disabilities. As of August there were a further 25 protection facilities for victims of sexual violence, of which seven were for victims with disabilities and two for child and juvenile victims of sexual violence.</p>
+<p>For domestic violence victims with children over 10 years old, the government established two new family protection facilities during the year and three in 2013. The government operated 27 protection facilities for migrant women victims of domestic violence. The government also supported 194 group home facilities, which provided counseling, job referral, and vocational training for victims.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: There is no specific law related to FGM/C. There were no reported cases of the practice.</p>
+<p><u>Sexual Harassment</u>: The law obligates companies and organizations to take preventive measures against sexual harassment, and the government enforced the law effectively. Business owners are subject to a penalty of up to 10 million won ($9,500) for an incident of sexual harassment in the workplace, but there is no specific criminal punishment. Approximately 16,000 administrative agencies, local governments, and public organizations are also obligated to submit their annual plans and ratings every year to the Ministry of Gender Equality and Family on efforts to prevent sexual harassment in the workplace and raise awareness. During the year the ministry conducted special training for managers at 174 agencies who received poor ratings based on their annual plans. In September the Ministry of Employment and Labor released a guidebook to prevent sexual harassment in the workplace, to help individuals understand what harassment is, and to provide guidance on how to cope with it.</p>
+<p>Civil remedies are generally available for sexual harassment claims, and education about sexual harassment was widely available nationwide. At public institutions administrative remedies are also available.</p>
+<p><u>Reproductive Rights</u>: The law allows couples and individuals to decide freely the number, spacing, and timing of their children; to have the information and means to do so; and to have the right to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. Contraception and maternal health services, including skilled attendance during childbirth, prenatal care, and essential obstetric and postpartum care, were widely accessible and available.</p>
+<p><u>Discrimination</u>: Women enjoy the same legal rights under the constitution as men; however, there is no law that punishes employment discrimination against pregnant women. The law provides for equal pay for equal work, but an OECD report released in August stated that the country’s gender-pay gap was 37.4 percent in 2012. The law permits a woman to head a household, recognizes a wife’s right to a portion of a couple’s property, and allows a woman to maintain contact with her children after a divorce. Custody cases were decided on their merits with women often gaining custody. The law also allows a remarried woman to change the family name of her children to her new husband’s name. In June the government launched the first private-public task force on Gender Parity and Empowerment of Women to promote gender equality and make the best use of female talent in the workplace. In June 2013, the government launched the Academy for Talented Women in an effort to build the capacity of mid-level female managers in the public, private, and nonprofit sectors. From January to October 2014, the academy trained 4,374 women.</p>
+<p>The law provides a fine of up to five million won ($4,760) for companies found guilty of practicing sexual discrimination against women in hiring and promotions. As of July the NHRC had received 47 complaints of alleged sexual discrimination: 20 cases concerning employment, 11 involving discrimination related to goods or services, nine concerning facility usage, and seven miscellaneous cases.</p>
+<p>Nationwide there were 140 “New Work for Women Centers” that provided employment support and vocational training for women. The Ministry of Employment and Labor also maintained an affirmative action program for public institutions with 50 or more employees and private institutions with 500 or more employees. The program requires these institutions to comply with a hiring plan devised by the ministry if they do not maintain a female workforce greater than or equal to 60 percent of the ratio of female workers compared with total workers in relevant occupations. When the Public Procurement Service evaluates submitted bids, it gives more weight to businesses with effective affirmative action measures.</p>
+<p>The Ministry of Employment and Labor reported the number of women in entry-level civil service positions and new diplomatic positions continued to increase. The ministry and the Korean Employers Federation reported the number of female managers in businesses with more than 1,000 workers increased slightly. In 2013 the federation reported women held 16.3 percent of managerial positions at public and private institutions with 1,000 workers or more.</p>
+<p>Women continued to experience a pay gap, since a higher percentage of women than of men filled lower-paying, low-skilled, contract jobs.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship requires that one parent be a citizen of the country at the time of birth. Authorities also grant citizenship in circumstances where parentage is unclear or if the child would otherwise be stateless. Parents go to a district office to register their children’s births.</p>
+<p><u>Child Abuse</u>: The government enacted the Special Act on the Punishment of Child Abuse in January. The new law criminalizes serious injury and repeated abuse of children, increases prison terms to between five years and life, and no longer allows for suspended sentences in cases resulting in death. The law followed two child abuse cases in 2013 in which stepmothers beat their stepdaughters to death. In 2013 there were 6,796 child abuse cases reported to the Ministry for Health and Welfare, up 6.1 percent from the previous year. Of those, 980 were recurrent cases. The ministry operated 51 facilities to treat and protect victims of child abuse and ran programs for families designed to prevent reoccurrence. Seven group homes offered mental health services to abused children during the year.</p>
+<p><u>Early and Forced Marriage</u>: The minimum legal age for men and women to marry is 18.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: There is no specific law related to FGM/C. There were no reported cases of the practice.</p>
+<p><u>Sexual Exploitation of Children</u>: The age of consent is 13. It is illegal to deceive or pressure anyone under the age of 19 into having sexual intercourse; however, commercial sexual exploitation of teenagers, particularly runaways, remained a problem.</p>
+<p>The penalty for rape of a minor under age 13 ranges from 10 years’ to life imprisonment. The minimum penalty drops to five years in prison for rape of a minor age 13 to 19. Other penalties include electronic monitoring of offenders and the public release of their personal information. A court may also order a person convicted of a sexual assault on any person to undergo reversible hormonal treatment (chemical castration) to curb the level of sexual impulse. As of July there were 2,247 reported cases of sexual violence against children.</p>
+<p>The law prohibits child pornography. Offenders who produce or possess it for the purpose of selling, renting, or distributing it for profit are subject to a maximum of seven years’ imprisonment. In addition, any possessor of child pornography may be fined up to 20 million won ($19,000). During the first six months of the year, authorities forwarded 86 child-pornography cases involving 99 suspects to prosecutors at the Ministry of Justice.</p>
+<p>The Ministry of Gender Equality and Family maintained centers that provided counseling, treatment, and legal assistance to child victims of sexual violence.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information, see the Department of State’s report at <a href="http://travel.state.gov/content/childabduction/english/country/south-korea.html"><u>travel.state.gov/content/childabduction/english/country/south-korea.html</u></a><u>.</u></p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There is a small Jewish population consisting almost entirely of expatriates. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, or the provision of other state services. Legislation enacted in May, with implementation scheduled to start in 2016, also creates a special task force of prosecutors and police trained to work with persons with disabilities and increases support for persons with disabilities and their families. The government effectively enforced the law, although many local government ordinances and regulations still directly discriminate against persons with disabilities, according to media reports and NGOs. The government also implemented laws and programs to facilitate access to buildings, information, and communications for persons with disabilities. The law establishes penalties for deliberate discrimination of up to three years in prison and a fine of 30 million won ($28,500). The Ministry of Health and Welfare continued to implement a comprehensive set of policies that included encouraging public and private buildings and facilities to provide barrier-free access, providing part-time employment, and employing a task force to introduce a long-term care system. The government operated rehabilitation hospitals in six regions, plus a national rehabilitation research center to increase opportunities and access for persons with disabilities.</p>
+<p>Under the Mental Health Act, a mentally ill person may be hospitalized against his/her will with the consent of two guardians and the advice of a neuropsychiatrist. The constitutionality of these measures was under review at the Constitutional Court.</p>
+<p>In September the government reported 81 laws and regulations contradicted antidiscrimination protections for persons with disabilities. The NHRC reported 671 discrimination cases against persons with disabilities in 2013.</p>
+<p>In March, following media reports, the government investigated allegations of labor exploitation of disabled men on salt farms on west coast islands, to include verbal and physical abuse, nonpayment of wages, long work hours, and unsanitary working and living conditions. In September the Gwangju High Court sentenced two salt farm owners to two and a half and two years’ imprisonment, but with suspended sentences. One trafficker received a suspended sentence of 18 months’ imprisonment.</p>
+<p>Any business with 50 or more full-time employees is required to meet an employment quota for persons with disabilities (3 percent for government agencies, 2.3 percent to 3 percent for public organizations, and 2.3 percent for private companies). Foreign companies operating in export processing zones are exempt from this requirement. Any private company or public organization with 30 to 100 full-time workers (expanded from 100 or more full-time workers in 2012) that does not meet its quota is subject to a monthly penalty ranging from 676,000 to 1.089 million won ($645 to $1,040) for each available qualified person with a disability whom it fails to hire. An additional penalty may be imposed if the employment rate of workers with disabilities does not reach 50 percent of the required quota. The Minimum Wage Act excludes “those who clearly lack the capacity to work.” In October the UN Committee on the Rights of Persons with Disabilities stated its concern that many persons with disabilities who work, especially those with psychosocial disability, received compensation below the minimum wage. In 2013 a total of 7,549 companies were assessed penalties amounting to 334 billion won ($318 million). A person with disabilities working for any company with 50 full-time employees can request a reasonable accommodation, such as adjusted working hours, and the denial of such a request could constitute discrimination.</p>
+<p>To increase pressure for compliance on businesses, twice during the year the Ministry of Employment and Labor disclosed to the media and in the official gazette the names of businesses that failed to meet the employment quotas.</p>
+<p>The government provided a pension system for adults and children with disabilities, an allowance for children with disabilities under age 18 whose household income was below or near the National Basic Livelihood Security Standard, and a disability allowance for low-income persons age 18 and older with mild disabilities. The National Pension Service decides the degree of the disability, and local governments provide the pension directly to qualified persons. Some NGOs noted the pension and allowance system for individuals with disabilities puts an undue burden on families and assumes more economically well-off families will support their relatives with disabilities. At the end of 2013, out of 2.5 million registered persons with disabilities, 48,335 persons were eligible under the pension and allowance system.</p>
+<p>Children with disabilities qualified as special education beneficiaries and attended special, free schools for children between three and 17. Children with severe disabilities may receive hospitalized education. All public and private schools, child-care centers, educational facilities, and training institutions must provide equipment and other resources to accommodate students with disabilities. As an example, a private kindergarten assigns assistant teachers to ensure children with disabilities can participate in outdoor activities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>As of July more than 1.62 million foreigners lived in the country, which is otherwise a racially homogeneous country of approximately 50 million. According to the Ministry of Justice, 189,126 foreigners were in the country illegally as of August. On October 6, UN Special Rapporteur on Racism Mutuma Ruteere concluded his weeklong visit and called on the country to ratify the UN convention on protecting migrant workers’ rights, increase monitoring of migrant workers in the fishing and agricultural industries, and pass comprehensive antidiscrimination legislation.</p>
+<p>Societal discrimination against ethnic and racial minorities was common but underreported. In February national broadcaster, Korea Broadcasting System, showed three Korean comedians in a comedy show who dressed as “Africans” by wearing curly wigs and painting their faces black. In August a bar in Seoul banned Africans from frequenting its establishment for fear they could be carrying the Ebola virus. As of July the NHRC had investigated 52 cases of alleged ethnic and racial discrimination: Six cases were under investigation at year’s end, five were resolved before the investigation concluded, one was resolved based on recommendations provided by the NHRC after its investigation, eight were not investigated because the cases did not constitute discrimination, and 32 were dismissed after investigation for insufficient evidence. Some NGOs alleged language and/or special educational requirements imposed on foreign spouses of Korean nationals to obtain visas discriminated against persons from some countries, including China, Vietnam, the Philippines, Cambodia, Mongolia, Uzbekistan, and Thailand.</p>
+<p>In response to the steady growth of ethnic minorities due to the increasing number of migrant workers and foreign brides, the Ministries of Gender Equality and Family and of Employment and Labor continued programs to increase public awareness of cultural diversity and to assist foreign workers, wives, and multicultural families to adjust to life in the country. The government also continued to operate multicultural and migrant worker help centers.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The Ministry of Justice reported the constitution’s equality principles apply to LGBT persons. The law that established the NHRC prohibits discrimination based on sexual orientation and authorizes the NHRC to review cases of such discrimination, but the law does not specify discrimination based on gender identity. From 2010 to 2013, four provincial education offices adopted Student Rights’ Decrees that prohibit discrimination in schools, including that based on sexual orientation or gender identity.</p>
+<p>No laws either specify punishment for persons found to discriminate against LGBT persons or provide for remedies to victims of discrimination or violence. During the first half of the year, the NHRC reported eight cases of such alleged discrimination.</p>
+<p>While there were no known cases of violence against LGBT persons during the year, LGBT individuals and organizations continued to face societal discrimination. In June conservative Christian groups obstructed gay cultural festivals in Seoul and Daegu. In May the Seodaemun District Office in Seoul cancelled the approval of the Queer Cultural Festival. Although the NHRC ruled in June the cancellation violated freedom of assembly and equal rights, the district mayor did not reverse the decision.</p>
+<p>The Military Criminal Act criminalizes consensual sodomy between men in the military with up to two years’ imprisonment.</p>
+<p>LGBT groups kept a very low profile because same-sex relationships were not widely accepted. For example, few entertainers were openly gay, and one who was “outed” claimed various entertainment organizations fired him as a result. The legality of the 2013 same-sex wedding of movie director Kim Jho Kwang-soo was under review by a local district court in Seoul.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Observers claimed persons with HIV/AIDS continued to suffer from societal discrimination and social stigma. The law protects the right to confidentiality of persons with HIV/AIDS and prohibits discrimination against them.</p>
+<p>The Ministry of Health and Welfare reported that under the Prevention of Acquired Immune Deficiency Syndrome Act, foreigners who wish to engage in teaching, entertainment, sports, or other show business and stay in the country for more than 90 days are required to take a test to prove they are not HIV positive before they qualify for a work visa.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section7"> </span><span class="st_twitter" st_title="Korea, Republic of #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Korea, Republic of - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236450%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the rights of workers to form and join independent unions, conduct legal strikes, and bargain collectively, but certain limitations apply to public officials, including teachers. By law public officials may not perform a “collective act for any labor campaign.” There is an exception for those who have a union-related job. The law also prohibits temporary, “irregular,” or “dispatch” workers from joining unions. Legal migrant workers employed in the government’s Employee Permit System (EPS) can form or join a union.</p>
+<p>The law also places some restrictions on these rights. Although the law allows multiple unions to form at a single enterprise, it permits only a single negotiation channel with management, selected by the unions, unless the employer agrees to more than one negotiation channel. If unions are unable to identify a single negotiation channel, the union with the largest number of members bargains on behalf of all members of the participating unions.</p>
+<p>The law limits the right to strike in a number of ways, such as for workers in “essential services.” The list of essential services, which is more broadly defined than international standards specify, includes those services that, if suspended, could “endanger the lives, health, physical safety, or daily life of the public,” such as railroads, air transport, communications, water supply and other utilities, and hospitals. Moreover, individuals designated by labor unions as essential may not strike. The law also prohibits strikes by national and local government officials, with some exceptions for specified public servants.</p>
+<p>By law unions must submit a request for mediation to the National Labor Relations Commission before a strike; otherwise, the strike is illegal. In most cases mediation must be completed within 10 days. Strikes initiated following this period are legal if they obtain majority support from union membership. The law prohibits strikes when a dispute has been referred to binding arbitration.</p>
+<p>The law also adopts a narrow interpretation of “labor dispute,” which often makes strikes on issues falling under managerial rights illegal. Strikes not specifically pertaining to labor conditions, wages, benefits, or working hours are also illegal. If striking employees resort to violence, unlawfully occupy premises, or damage facilities, their actions are deemed illegal. The government usually respected legal protections in practice.</p>
+<p>The law permits workers to file complaints of unfair labor practices against employers who interfere with union organizing or who discriminate against union members. The National Labor Relations Commission may require employers found to have engaged in unfair practices to reinstate workers fired for union activities and did so during the year. The law prohibits retribution against workers who conduct a legal strike.</p>
+<p>The government generally enforced legislation related to freedom of association. According to the Trade Union and Labor Relations Adjustment Act, employers who violate a regulation on unfair labor practices may be imprisoned for a maximum of two years or fined up to 20 million won ($19,000). In addition an employer can be punished for disregarding a National Labor Relations Commission order to reinstate a worker. The law sets penalties for illegal strike activities at imprisonment for up to five years or a fine of up to 50 million won ($47,500), depending on the offense, and the government effectively enforced applicable law. The law also sets penalties against employers who refuse or neglect to accept unions’ legitimate requests for bargaining (maximum of two years’ imprisonment or a penalty of up to 20 million won ($19,000)) or conduct lockouts (maximum of one year imprisonment or a penalty of up to 10 million won ($9,500)).</p>
+<p>The government generally respected freedom of association and collective bargaining, but some restrictions on workers’ rights were problematic. Labor federations generally operated without government interference. The government recognized a range of labor federations, including independent white-collar federations representing hospital workers, journalists, and office workers at construction firms and government research institutes. In July the government reopened a tripartite dialogue channel between unions, employers, and the government after a seven-month hiatus.</p>
+<p>NGOs and labor activists criticized the Ministry of Education for putting undue pressure on the Korean Teachers and Education Workers Union (KTU) after a local court upheld the Ministry of Labor and Employment’s June decision to disband the union for refusing to remove teachers who had lost their positions from its rolls. The Seoul High Court granted a temporary stay of the order in September so that the KTU organization could remain a union as it appealed the decision to the judiciary. The NGOs and activists called on the ministry to await the end of the appeals process before taking any action.</p>
+<p>Laws banning education workers from engaging in certain political activities, such as joining a political party or openly endorsing a political party or candidate, constrained unions’ abilities to advocate for their positions. Public officials, including government officials and teachers in public schools, are prohibited from expressing their opinions in accordance with the State Public Officials Act.</p>
+<p>In December 2013 more than 8,700 members of the Korean Railway Workers Union, the labor union of the state-run Korean Railway Corporation (KORAIL), went on strike to protest the government’s proposal for a new subsidiary bullet train, which union members argued would lead to privatization. In August the Supreme Court ruled a company’s managerial decisions cannot be subject to collective bargaining. The court deemed the 22-day strike, the longest in the country’s railway history, as illegal for not specifically pertaining to labor conditions, wages, benefits, or working hours. It also found the strikes inflicted enormous confusion and huge damages on KORAIL’s operations, which it stated might have been avoidable as labor negotiations continued.</p>
+<p>The case to recognize a Migrant Workers’ Union established in 2005 remained under appeal with the Supreme Court, seven years after the Seoul High Court ruled illegal workers should be guaranteed their labor rights to establish a union.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The government generally enforced the law effectively; however, there were reports some workers were subjected to forced labor.</p>
+<p>The penalties for trafficking in persons, including for forced labor, are commensurate with those for other serious crimes. The government revised the criminal code to prohibit all forms of trafficking and prescribes up to 15 years’ imprisonment for trafficking crimes.</p>
+<p>Migrant workers who traveled to the country for employment sometimes incurred thousands of dollars in debts, making them vulnerable to debt bondage. Some migrant workers in the agriculture, livestock, and fisheries industries faced conditions indicative of forced labor, including deceptive recruiting practices, confiscation of passports, and nonpayment of wages. From January to June, the government conducted 40 percent of its inspections in the agricultural and livestock industries, due to employees’ greater vulnerability to exploitation and abuse. As of 2013 the government also educated 6,949 employers on labor laws and fair treatment of migrant workers. In 2013 the government inspected 3,048 businesses employing migrant workers to monitor payment of wages and found 244 cases violated the Minimum Wage Act, and 116 cases involved nonpayment of wages. According to the Immigration Control Law, it is illegal for employers to confiscate their employees’ passports. In 2013 the Ministry of Employment and Labor reported 46 cases of illegal passport confiscation by employers to immigration services.</p>
+<p>A report released by Amnesty International in October highlighted poor conditions for migrant workers in agriculture (see section 7.d.), including conditions indicative of forced labor. According to the report, this was consistent with a larger survey conducted by the National Human Rights Commission of Korea and published in 2013, in which 58 percent of respondents reported being forced to work beyond legal working hours and 16 percent reported confiscation of identity documents.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law protects children from exploitation in the workplace and prohibits the employment of persons under age 15 without an authorization certificate from the Ministry of Employment and Labor. Authorities issued few such certificates for full-time employment because education is compulsory through middle school (approximately age 15). To obtain employment children under 18 must obtain written approval from either parents or guardians. Employers must limit minors’ overtime hours and may not employ minors at night without special permission from the ministry. According to labor laws, employers in industries considered harmful or hazardous in ethical or health terms are prohibited from employing children under 18 and can face up fines of up to 20 million won ($19,000) or three years’ imprisonment. The government carries out inspections of businesses employing large numbers of juveniles. In May the government established a plan to protect juvenile workers’ rights, including strengthening labor inspections of businesses, improving the reporting system, and establishing educational programs on labor rights.</p>
+<p>There were some reports of commercial sexual exploitation of children (see section 6, Children).</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The constitution and laws prohibit discrimination in employment based on race, gender, disability, sexual orientation, and social status, but there is no comprehensive mechanism to enforce these provisions if discrimination occurs. The law states there shall be no discrimination in economic, social, or cultural life based on sex, religion, or social status. Labor laws generally provide foreign and migrant workers the same legal protections as nationals. Discrimination nonetheless occurred. The law requires equal pay for equal work when men and women do work of equal value in the same business, but wage inequality was a concern (see section 6, Women).</p>
+<p>The law prohibits discrimination against irregular workers (those who do not have full-time, permanent employment and who do not receive benefits at the same level as permanent workers) and requires the conversion of those employed longer than two years to permanent status. Nonetheless, subcontracted workers (known as “dispatched workers”) and temporary workers comprised approximately one-third of wageworkers in the labor force and faced discriminatory working conditions. The Ministry of Employment and Labor reported the Act on the Protection of Fixed-Term and Part-Time Workers enacted in March guarantees overtime pay for these workers.</p>
+<p>Both labor and business groups complained the two-year conversion provision forced many businesses to limit the contract terms of irregular workers to two years and incur the cost for entry of new workers every two years. NGOs and the local media reported irregular workers were at greater risk for discrimination because of their status. In a case pending against the country’s largest automaker for almost four years, the Seoul Central District Court ruled in September that the nearly 1,000 in-house subcontractors dispatched to Hyundai for more than two years should be considered “regular” workers. Under the Dispatched Workers Act, anyone employed as a dispatched worker for more than two years must be hired directly by the employer. The court also ordered Hyundai to pay approximately 23 billion won ($20.5 million) in back pay wages to the 994 workers, whose annual income was approximately sixty percent of that of Hyundai’s regular employees.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The annual national minimum wage was 5,210 won ($4.95) per hour. A person making the minimum wage for a 40-hour workweek would earn significantly less than the minimum monthly cost of living for a family of four, according to the Ministry of Health and Welfare.</p>
+<p>The law requires employers to allow 30 minutes’ rest in a four-hour work period and one hour’s rest in an eight-hour work period. The law also allows a flexible system under which employees may work more than eight hours during certain days or 40 hours per week during certain weeks, so long as average weekly work hours for any given two-week period do not exceed 40. For employers who adopt a flexible system, amounts exceeding 40 hours constitute overtime.</p>
+<p>Foreign companies operating in the export-processing zones are exempt from labor regulations that mandate one day of rest a week, such as weekends, also referred to as “weekly rest.”</p>
+<p>Persons working in the financial/insurance industry, publicly invested companies, state corporations, and companies with more than 20 employees are required to receive premium pay at a 50 percent higher rate for work in excess of 40 hours per week. The law limits overtime of ordinary workers to 12 hours a week to protect workers’ health.</p>
+<p>The government sets occupational health and safety standards and is responsible for monitoring industry adherence to these standards. Under the law, workers have the right to remove themselves from situations of danger without jeopardizing their employment. These standards apply to all sectors, including agriculture, fisheries, or mining.</p>
+<p>During the year authorities adopted stronger punishments to allow immediate judicial action against violators. Penalties for violations are a maximum of seven years in prison and fines up to 100 million won ($95,240). The government conducted labor inspections both proactively, according to regulations, and reactively, within a month after an accident occurred. As of September there were 350 national industrial accident prevention inspectors and 1,091 working condition inspectors employed in 47 local offices countrywide. The government also conducted educational programs to prevent accidents. During the year the government also conducted inspections of establishments employing foreign, temporary entertainment workers, a vulnerable migrant population.</p>
+<p>As of June there were approximately 532,270 low-skilled migrant workers from elsewhere in Asia, approximately half of whom were employed under the EPS. A set of regulations, including the EPS, outlines legal protections for migrant (those under the EPS) and foreign (all others) workers. Permit holders may work only in certain industries and have limited job mobility, but most enjoyed the same protections under labor law as citizens. Contract workers, irregular workers, and part-time workers accounted for a substantial portion of the workforce, particularly in electronics, automotive, and services sectors.</p>
+<p>Workers under the EPS faced multiple restrictions to employment mobility. Such workers lost their legal status if they lost their job and did not find a new employer within three months. If a migrant worker was not able to get a job within three months, authorities could cancel his/her work permit, forcing the worker to return home. This situation was particularly difficult for seasonal workers, such as those involved in agriculture or construction. Migrant workers did not have the right to peruse lists of companies that were hiring when they wanted to change jobs, which made it more difficult for these workers to change jobs freely. Employers effectively controlled the list of job-seeking workers and had the right to contact the person they choose. Migrant laborers were required to return home after a maximum of four years and 10 months in the country but could apply to reenter after three months.</p>
+<p>To prevent violations and improve working conditions for migrant and foreign workers, the government provided pre-employment training to newly arrived foreign workers, workplace adaptation training to those who changed workplaces, and training to employers who hired foreign workers. The government funded 37 foreign worker support centers nationwide, a call center that provided foreign workers with counseling services in 15 languages, Korean language and cultural programs, shelter, and free health-care services. The Ministry of Employment and Labor continued programs previously implemented for foreign workers, including free legal advice, counseling, translation services, health checkups in their native language, and the establishment of several human rights protection centers for foreigners.</p>
+<p>In July the government revised the Act on the Employment of Foreign Workers, requiring migrant workers to depart the country to receive severance pay. NGOs reported the new regulation sought to prevent migrant workers from illegally staying in the country after the completion of their contracts.</p>
+<p>In October an Amnesty International report documented excessive working hours, underpayment, illegal subcontracting, and poor living conditions facing migrant workers in the agricultural sector. Some NGOs reported migrant workers were particularly vulnerable to exploitation because the law excludes regulations on working hours, holidays, and benefits for the agricultural, livestock, and fisheries industries--industries with large populations of migrant workers. Other NGOs reported foreign laborers sometimes faced physical abuse and exploitation by employers in the form of longer working hours and lower wages than their citizen counterparts. Moreover, according to NGOs, contract changes, such as the deduction of accommodation or meal expenses from wages, also victimized migrant workers. Female migrant workers in South Korea reported they were often sexually assaulted or harassed.</p>
+<p>The government reported descriptions of and statistics on work-related injuries and fatalities on a quarterly basis on its websites. As of June the government inspected 169,559 workplaces for industrial health safety and health. There were 91,824 industrial work-related accidents reported and 1,929 fatalities. The government did not provide information on sectors most affected.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,440 @@
+2015
+Taiwan
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801"> </span><span class="st_facebook" st_title="Taiwan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252801">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252801</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6indigenouspeople">Indigenous People</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination With Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=executive"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Taiwan is governed by a president and a parliament selected in multiparty elections. In 2012 voters re-elected President Ma Ying-jeou of the Kuomintang Party (KMT) to a second four-year term in an election considered free and fair. Civilian authorities maintained effective control over the security forces.</p>
+<p>Principal human rights problems reported during the year were labor exploitation of migrant workers by fishing companies, exploitation of domestic workers by brokerage agencies, and official corruption.</p>
+<p>As of July authorities indicted 285 officials, including 22 high-ranking officials, on corruption charges during the year. There were no reports of impunity.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section1"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the authorities or their agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution stipulates that no violence, threat, inducement, fraud, or other improper means should be used against accused persons.</p>
+<p>To address long-standing concerns about the treatment of military conscripts, on April 21, the legislature amended the Armed Forces Punishment Law to abolish the use of “confinement” and shorten the period of “penitence” from 30 to 15 days.</p>
+<p>In February the Taiwan High Court increased the sentences on military officials involved in the 2013 death of army conscript Hung Chung-chiu of heatstroke following prolonged exercise in extreme heat. The High Court heard the case following Hung’s family’s appeal of the original sentences as too lenient. Of the 18 defendants, 15 were found guilty and sentenced to between three months and three years in prison. Hung’s company commander’s original eight-month sentence was extended to three years, and the deputy brigade commander’s six-month sentence was extended to three years. The High Court overturned the brigade commander’s guilty verdict. In March the High Prosecutor’s Office appealed the verdicts of the brigade commander and six others to the Supreme Court.</p>
+<p>The Hung case and the military’s response sparked accusations of torture; mass protests that led to the resignation of the minister of defense; and passage of an amendment to the law, retroactively applied to this case, that transferred jurisdiction of military criminal cases to the civilian judicial system during peacetime. Hung’s death also led to intense scrutiny of previous deaths under the military conscription system and accusations that mistreatment of conscripts was more common than previously believed.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards, and authorities permitted visits by independent human rights observers.</p>
+<p><u>Physical Conditions</u>: Overcrowding was a problem; prisons operated at 116 percent of designed capacity.</p>
+<p>The case of former president Chen Shui-bian continued to receive high-profile attention from domestic and international political figures and human rights activists. In January the Ministry of Justice (MOJ) granted Chen medical parole for one month based on a medical panel’s unanimous finding that Chen needed around-the-clock care and that the medical care he had received in prison had not improved his health. Chen’s parole was reviewed every three months and had been extended at each review. He was required to seek special permission if he wished to pursue activities unrelated to medical treatment, such as engaging in political activities. If his health stabilizes, he will be required to return to prison to serve the remaining 14 years of his sentence.</p>
+<p><u>Administration</u>: Prison authorities investigated claims of inhuman conditions and released the results of their investigation to judicial authorities and occasionally to the press. Authorities investigated and monitored prison and detention center conditions.</p>
+<p>During the active investigation phase of their cases, a small number of detainees, on court order, were deprived of visitation rights, although these detainees retained access to legal counsel.</p>
+<p><u>Independent Monitoring</u>: Authorities allowed independent nongovernmental observers to investigate prison conditions.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits arbitrary arrest and detention, and the authorities generally observed these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The National Police Administration (NPA) of the Ministry of Interior has administrative jurisdiction over all police units, although city mayors and county magistrates appoint city and county police commissioners. Civilian authorities maintained effective control over the NPA, and authorities had effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving security forces during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>A warrant or summons is required by law, except when there is ample reason to believe the suspect may flee, or in urgent circumstances, as specified in the code of criminal procedures. Indicted persons may be released on bail at judicial discretion. Prosecutors must apply to the courts within 24 hours after arrest for permission to continue detaining an arrestee. Authorities generally observed these procedures, and trials usually took place within three months of indictment. Prosecutors may apply to a court for approval of pretrial detention of an unindicted suspect for a maximum of two months, with one possible two-month extension. Courts may request pretrial detention in cases in which the potential sentence is five years or more and when there is a reasonable concern that the suspect could flee, collude with other suspects or witnesses, or tamper or destroy material evidence.</p>
+<p>While courts are required to appoint counsel after an indictment is filed, the law does not specify what lawyers could or should do to protect the rights of indigent criminal suspects during initial police questioning. The judicial branch (Judicial Yuan) and the NPA operated a program to provide legal counsel during initial police questioning to qualifying indigent suspects who have a mental disability or have been charged with a crime punishable by three or more years in prison. Detained persons may request the assistance of the Legal Aid Foundation (LAF), which provides professional legal assistance through its 21 branch offices to persons who would not otherwise have legal representation. LAF is a non-profit entity funded by the Judicial Yuan. During regular consultations with police and when participating in police conferences, LAF officials remind police of their obligation to notify suspects of the existence of such counseling. The prosecutor proposes and a court decides whether a suspect should be detained without visitation rights other than legal counsel or held under house arrest. Suspects and prisoners may be prohibited from receiving visitors, but they are entitled to meet and consult with legal counsel. The law affords the right of compensation to those who have been unlawfully detained.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary; however, the judicial system suffered from some corruption. Although authorities made efforts to eliminate corruption and diminish political influence in the judiciary, some residual problems remained. During the year judicial reform advocates pressed for greater public accountability, reforms of the personnel system, and other procedural reforms. Some political commentators and academics also publicly questioned the impartiality of judges and prosecutors involved in high-profile and politically sensitive cases.</p>
+<p>On September 1, the High Court overturned a death penalty case and declared the defendant Hsu Tzu-chiang not guilty after his ninth appeal found major flaws and inconsistencies in forensic evidence and testimonies. Hsu had been on death row for 20 years, and several domestic and international rights groups had called for reinvestigation of his case. On September 20, the High Prosecutor’s Office appealed the verdict to the Supreme Court. On October 1, the Judicial Reform Foundation urged the High Prosecutor’s Office to withdraw its appeal.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and an independent judiciary generally enforced this right.</p>
+<p>Under an amendment to the Certiorari Act that took effect in 2014, when a person is arrested or detained by any authority without a court order, any person, including the arrestee/detainee, may petition a court of justice having jurisdiction for a writ of habeas corpus, and the case must be brought before a judge within 24 hours. The revised law also requires agencies to inform detainees of their right to see a judge for a writ of habeas corpus. Detaining authorities who violate the law may face a maximum sentence of three years in prison and a fine of up to New Taiwan dollars (NT) $100,000 ($3,100).</p>
+<p>All defendants are presumed innocent until proven guilty and have the right to an attorney. Trials are public, although court permission may be required to attend trials involving juveniles or potentially sensitive issues that might attract crowds. Judges, rather than juries, decide cases; all judges are appointed by and answer to the Judicial Yuan. A single judge, rather than a defense attorney or prosecutor, typically interrogates parties and witnesses. Defendants have the right to be informed promptly of charges, communicate with an attorney of choice or have one provided, prepare a defense, confront witnesses against them, and present witnesses and evidence. The presiding judge determines on a case-by-case basis a defendant’s access to evidence held by the prosecution.</p>
+<p>The law states that a suspect may not be compelled to testify and that a confession shall not be the sole evidence used to find a defendant guilty. All convicted persons have the right to appeal to the next higher court level. Persons sentenced to terms of imprisonment of three years or more may appeal beyond that level. The law extends the above rights to all citizens.</p>
+<p>In September the Judge Evaluation Committee of the Judicial Yuan recommended that a Taoyuan District Court judge be dismissed from his position for repeatedly yelling in court and intimidating defendants. The committee also recommended forwarding the case to the Control Yuan. This was the harshest punishment ever delivered to a judge for unprofessional or aggressive behavior in court.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent and impartial judiciary for civil matters. Administrative remedies are available in addition to judicial remedies for alleged wrongs, including human rights violations.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and there were no reports that authorities failed to respect these prohibitions during the year.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section2"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and authorities generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Press and Media Freedoms</u>: The independent media were active and expressed a wide variety of views without restriction. There was, however, concern about the impact of the increasing concentration of media ownership on freedom of the press.</p>
+<p><u>Violence and Harassment</u>: Physical attacks and threats against journalists were rare. Local media reported incidents of police obstruction and violence directed at journalists who were covering protests against administration policies.</p>
+<p>On July 23, three journalists were arrested while covering a student protest against proposed changes to curriculum guidelines for high school textbooks (see section 2.b.). The journalists were arrested for allegedly trespassing when they entered the Ministry of Education without a permit and joined a group of protesters who climbed over a fence and broke into Minister Wu Se-hwa’s office. The journalists, who denied the accusation, were released without charge the next day. On August 10, the Ministry of Education dropped its complaint against the journalists. The Association of Taiwan Journalists condemned the arrests, saying they infringed on freedom of the press, violated the journalists’ human rights, and were meant to deter media coverage of protests.</p>
+<p><u>Censorship or Content Restrictions</u>: Local academics and media activists alleged that self-censorship continued as some media chose to present news stories in favor of the People’s Republic of China (PRC) due to political considerations and the influence of local businesses with close ties to the PRC.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The authorities did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that they monitored private online communications without appropriate legal authority. The internet was widely available and used extensively.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation, and authorities generally respected these rights.</p>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law does not provide for the granting of asylum or refugee status, and the authorities have not established a system for providing protection to refugees. All PRC citizens unlawfully present are required by law to be returned to the PRC, although there have been cases of Taiwan granting permanent resident status to PRC asylum seekers who resided in Taiwan for an extended period of time.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section3"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution provides citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2012 Taiwan held presidential and legislative elections in tandem for the first time. KMT presidential candidate Ma Ying-jeou won re-election, and his party retained a majority in the legislature. On November 29, 2014, Taiwan voters elected more than 11,000 local government leaders, including city mayors and county magistrates. Observers regarded the elections as fair and transparent, although there were numerous allegations of vote buying by candidates and supporters of both major political parties. As of July a first trial had nullified 85 individuals’ election victories pending a second court’s ruling, and prosecutors were seeking to annul the election victories of 89 additional persons. Most cases were related to vote buying and involved races for relatively low-level positions, such as warden chiefs and city or county councilors.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section4"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, and authorities generally implemented the law effectively. There were reports of official corruption during the year. As of July, 22 ranking officials, 117 mid-level, 146 low-level, and nine elected officials had been indicted for corruption.</p>
+<p><u>Corruption</u>: MOJ and its subordinate Agency against Corruption are in charge of combating official corruption. The ministry was sufficiently resourced and collaborated with civil society within the scope of the law. Some legal scholars and politicians said MOJ was not sufficiently independent and conducted politically motivated investigations of politicians. The Control Yuan is responsible for impeachment of officials if any wrongdoing is found.</p>
+<p>Former New Taipei City Deputy Mayor Hsu Chih-chieh was detained in July on charges of having expedited the approval and review process of several urban development and construction projects in return for money, gold bars, and luxury watches from two real estate developers. On November 25, Taipei District Prosecutors’ Office indicted Hsu on charges of corruption and asked the judge to impose a harsh sentence.</p>
+<p><u>Financial Disclosure</u>: The law requires specified appointed as well as elected officials to disclose their income and assets to the Control Yuan, which makes the disclosures public. Those failing to declare property are subject to a fine ranging from NT$200,000 ($6,200) to NT$4 million ($124,000) and may be punished with a prison term of no more than one year for repeatedly failing to comply with the requirement. The law also requires civil servants to account for abnormal increases in their assets and makes failure to do so a punishable offense, and there are criminal and administrative sanctions for noncompliance.</p>
+<p><u>Public Access to Information</u>: The law stipulates that all government information shall be made available to the public upon request, with the exception of national secrets, professional secrets, personal information, and protected intellectual property. According to the law, within 15 days of receiving a request for government information, the receiving agency shall determine whether to approve such a request. The time limit may be extended for no longer than 15 days if necessary. The agency may charge a fee, which it sets based on the purpose of the request. The fees may be reduced or waived if the request is for academic research or is in the public interest. Officials are subject to punishment or reprimand if they violate the law. The law provides that registered citizens, companies, and groups may submit information requests and may appeal requests that are denied. These privileges are extended on a reciprocal basis to citizens of foreign countries. Since the law was implemented in 2005, some cabinet-level agencies, including the Ministry of Interior and MOJ, have provided officials with related training.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section5"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A variety of domestic and international human rights groups generally operated without restriction, investigating and publishing their findings on human rights cases. Authorities were generally cooperative and responsive to their views.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section6"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution prohibits discrimination based on race, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation and gender identity, age, language, or HIV or other communicable disease status, and the authorities effectively enforced these prohibitions.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and domestic violence. Many victims did not report the crime for fear of social stigmatization, and various nongovernmental organization (NGO) and academic studies estimated that the total number of sexual assaults was seven to 10 times the number reported to police.</p>
+<p>The law provides protection for rape survivors. Rape trials are not open to the public unless the victim consents. The law permits a charge of rape even if the victim chooses not to press charges.</p>
+<p>The law establishes the punishment for rape as not less than five years’ imprisonment, and courts usually sentenced individuals convicted of rape to five to 10 years in prison. According to MOJ, the average prosecution rate for rape and sexual assault over the past five years was approximately 45 percent, and the average conviction rate of cases prosecuted was approximately 89 percent.</p>
+<p>Courts typically sentenced individuals convicted in domestic violence cases to less than six months in prison. Social pressure not to disgrace their families discouraged some abused women from reporting incidents to police. The law allows prosecutors to take the initiative in investigating complaints of domestic violence without waiting for the victim to file a formal complaint.</p>
+<p>The law requires all cities and counties to establish violence prevention and control centers to address domestic and sexual violence, child abuse, and elder abuse. These centers provided victims with protection, medical treatment, emergency assistance, shelter, legal counseling, education, and training on a 24-hour basis. The Ministry of Health and Welfare (MOHW) is responsible for combating and addressing rape and domestic violence. In January the Legislative Yuan passed amendments to the Domestic Violence Prevention Law to expand protections for domestic violence victims. The revised law broadens the scope of victims beyond family members to include intimate partners who do not live together and to include protection of minors who witness domestic violence. It also expands the definition of domestic violence to include harassment and coercion, extends the validity of protection orders from less than one year to a maximum of two years, and stipulates the need to establish a domestic violence prevention fund.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment generally (see section 7.d. regarding sexual harassment in the workplace). According to the latest figures available from the Ministry of Education, in 2013 there were 1,550 cases of sexual harassment against female students or staff reported by schools’ and universities’ Commissions of Gender Equality Education. In most cases, perpetrators were required to attend classes on gender equality and counseling sessions.</p>
+<p><u>Reproductive Rights</u>: Individuals and couples have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and have the information and means to do so, free from discrimination, coercion, and violence. Unmarried persons, however, are prohibited by law from obtaining fertility treatment.</p>
+<p><u>Discrimination</u>: The law provides the same legal status and rights for women as for men, including under family, labor, property, nationality, and inheritance laws. Women experienced some discrimination in employment (see section 7.d.).</p>
+<p><u>Gender-biased Sex Selection</u>: In 2014 the ratio of boy-to-girl births was 107 to 100. Medical institutions may not carry out gender-biased sex selection procedures. Clinics and hospitals with higher rates of imbalance may be put under surveillance, and doctors who facilitate gender-biased sex selection can be fined. There were no reported cases of the authorities imposing these fines during the year.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from one’s parents. Births must be registered within 60 days; failure to do so results in the denial of national health care and education benefits.</p>
+<p><u>Child Abuse</u>: According to MOHW, the percentage of abused children under six increased from 20.8 to 22.6 percent over the past three years. Central and local authorities coordinated with private organizations to identify and assist high-risk children and families and to increase public awareness of child abuse and domestic violence.</p>
+<p>The law stipulates that persons discovering cases of child abuse or neglect must notify the police or welfare authorities. Child welfare specialists must notify local authorities within 24 hours, and authorities must take appropriate measures within 24 hours. Regulations encourage officials to submit an investigation report within four days. MOHW and NGO specialists monitored cases to ensure that requirements were met. An official 24-hour hotline accepted complaints of child abuse and offered counseling. Courts are required to appoint guardians for children whose parents are deemed unfit.</p>
+<p>Despite safeguards, in July, three children died in a three-day period in separate cases of suspected abuse by their parents or other relatives.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age of marriage is 18 for men and 16 for women.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits the commercial sexual exploitation of children and child pornography, and the authorities effectively enforced the law. In January the legislature passed amendments to the Child and Youth Sexual Transaction Prevention Act, renaming it the Child and Youth Sexual Exploitation Prevention Act. The amended law expands the definition of sexual exploitation, enhances victim protection, and increases penalties for certain types of offenses.</p>
+<p>The minimum age for engaging in consensual sexual relations is 18. Persons who engage in sex with children under 14 face sentences of three to 10 years in prison. Those who engage in sex with minors between 14 and 16 receive a mandatory prison sentence of three to seven years. Solicitors of sex with minors over 16 but under 18 face up to one year in prison or hard labor or a fine of up to NT$3 million ($92,900). There were some reports of children under 18 engaged in prostitution. Many victims were lured through the internet and online applications, according to a Garden of Hope Foundation survey conducted between June and August.</p>
+<p><u>International Child Abductions</u>: Due to its unique political status, Taiwan is not eligible to become a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://www.travel.state.gov/content/childabduction/en/legal/compliance.html">www.travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://www.travel.state.gov/content/childabduction/en/country/taiwan.html">www.travel.state.gov/content/childabduction/en/country/taiwan.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community was very small, estimated at 200 individuals who meet regularly, and consists predominately of expatriates. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation services, access to health care, and the provision of other state services (see section 7.d.).</p>
+<p>Authorities enacted and effectively implemented laws and programs to ensure access to buildings, information, and communications. The Ministry of Transportation and Communications subsidized drivers’ procurement of accessible taxis. A law passed in 2014 to adhere voluntarily to the UN Convention on the Rights of Persons with Disabilities stipulates that new public buildings, facilities, and transportation equipment must be accessible to persons with disabilities, and this requirement was generally met. The law established a taskforce to coordinate among ministries, examine existing laws for compliance to the UN convention, and compile a list of regulations to be amended or abolished. The law also requires the authorities to publish periodic reports on efforts to protect the rights of persons with disabilities beginning two years after enactment.</p>
+<p>Persons with disabilities have the right to vote and participate in civic affairs. NGOs, however, contended that the lack of barrier-free spaces and accessible transportation systems continued to place limits on civic engagement by citizens with disabilities, particularly outside Taipei. Advocacy groups raised the problem of older buildings and parking garages not catering to the needs of persons with disabilities and said 50 percent of primary and secondary schools were not barrier free.</p>
+<p>Children with disabilities attended school, and officials noted no patterns of abuse during the year, although there were occasional reports of sexual assaults in educational and mental health facilities. Students with disabilities mostly attended mainstream schools. NGOs claimed that services for students with disabilities remained largely inadequate, and disabled students at mainstream schools often relied on the assistance of maids, parents, or grandparents to attend schools and use school facilities due to a lack of barrier-free facilities or adequate alternative facilities. Special primary, secondary, and vocational schools were available for students with disabilities.</p>
+<p>MOHW and the Ministry of Labor (MOL) are responsible for protecting the rights of persons with disabilities. The law stipulates that authorities must provide services and programs to persons with disabilities. The authorities provided free universal medical care to persons with disabilities. NGOs continued to assert the need for more public nursing homes and expansion of current programs, such as home care services, to meet the growing needs of those with disabilities, an increasing number of whom were elderly persons.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>As of July foreign-born spouses, primarily from Vietnam, Indonesia, or Thailand, and PRC-born spouses accounted for 2 percent of the population. Foreign and mainland-born spouses were targets of discrimination both inside and outside the home.</p>
+<p>Authorities offered free Chinese-language and child-rearing classes and counseling services at community outreach centers to facilitate foreign-born spouses’ integration into society. Legal Aid Foundation provided legal services to foreign spouses and operated a hotline to receive complaints. The Ministry of Interior operated its own hotline with staff conversant in Vietnamese, Cambodian, Thai, Indonesian, and English, as well as Chinese.</p>
+<p>PRC-born spouses must wait six years to apply for Taiwan residency, whereas spouses born elsewhere may apply after three years. Unlike non-PRC spouses, PRC-born spouses are permitted to work in Taiwan immediately on arrival.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>Indigenous People</h2>
+<div class="sub-section_content">
+<p>The authorities officially recognize 16 indigenous tribes, accounting for approximately 2 percent of the population. The law guarantees indigenous people equal civil and political rights and stipulates that the authorities should provide resources to help indigenous groups develop a system of self-governance, formulate policies to protect their basic rights, and promote the preservation and development of their languages and cultures. On June 9, the Legislative Yuan passed an amendment to the 2005 Indigenous Peoples’ Basic Law requiring the authorities to obtain prior consent from and provide compensation to affected tribes and individuals if imposing any restrictions on indigenous peoples’ use of their tribal lands or surrounding natural resources. The amended law also stipulates that the authorities should allocate adequate funds to subsidize travel costs arising from the indigenous peoples’ use of medical services and social welfare resources, such as medical treatment, emergency medical services, medical evacuation, and long-term care.</p>
+<p>Critics complained that the authorities’ efforts to preserve indigenous cultures and languages were inadequate. On January 5, members of the Puyuma tribe protested the December 2014 arrest of nine Puyuma hunters for carrying unregistered firearms in violation of the Controlling Guns, Ammunition, and Knives Act. Human rights advocates said the arrest showed disrespect for the Puyuma culture and the failure of gun control regulations to take into account different cultural traditions. On February 7, the Puyuma National Congress demanded an official apology from the police, as well as national legislation to protect the hunting rights of indigenous people.</p>
+<p>Indigenous people participated in decisions affecting their land through the political process, which includes a quota in the legislature for aboriginal participation. Six of the 113 seats in the legislature are reserved for aboriginal tribal representatives, who are elected by aboriginal voters.</p>
+<p>According to the Indigenous People’s Basic Law, the authorities should establish a committee for demarcation and management of indigenous lands, although the authorities have not yet done so. The law provides that the authorities and the private sector should also consult with indigenous people and obtain their consent to and/or participation in, as well as share with them the benefits of, land development, resource utilization, ecology conservation, and academic research in indigenous areas. This provision, however, has also not been put into practice.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law stipulates that employers cannot discriminate against job seekers on the basis of sexual orientation and also prohibits schools from discriminating against students on the basis of their gender temperament, gender identity, or sexual orientation. Activists for lesbian, gay, bisexual, transgender, and intersex (LGBTI) rights said discrimination against LGBTI individuals was more widespread than suggested by the number of court cases, due to victims’ reluctance to lodge formal complaints. Reported instances of violence against LGBTI individuals were rare, and the police response was adequate. Advocacy groups were unable to collect reliable statistics on violence targeting LGBTI individuals because the law does not define hate crime, so police do not use that category to disaggregate cases. LGBTI rights activists said the inability of unmarried persons to obtain fertility treatments and adopt children resulted in discrimination against LGBTI persons. The Center for Disease Control operates LGBTI awareness and assistance centers in Taipei, New Taipei City, Taoyuan, Hsinchu, Miaoli, Taichung, Tainan, and Kaohsiung that offer services including counseling and free HIV testing.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The law prohibits potential employers from requesting health examination reports from job candidates to prove they do not have HIV or other communicable diseases. There was reported discrimination, including employment discrimination, against persons with HIV/AIDS (see section 7.d.).</p>
+<p>In January, the legislature amended the HIV Prevention and Patients’ Rights Protection Act to lift restrictions on the entry, and end the automatic deportation, of HIV-positive foreigners. The revised law allows HIV-positive foreigners to apply for residency in Taiwan. An earlier amendment to the same law also stipulates that citizens with HIV cannot be denied access to education, medical services, housing, or other necessities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section7"> </span><span class="st_twitter" st_title="Taiwan #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Taiwan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252801%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of workers to form and join independent unions, conduct legal strikes, and bargain collectively. The right to strike, however, is highly regulated, and some workers are excluded from collective bargaining. The law prohibits discrimination, dismissal, or other unfair treatment of workers for union-related activities and requires reinstatement of workers fired for trade union activity.</p>
+<p>Teachers may form unions and federations. The law allows foreign workers to form and join unions and to serve as union officers. Employees hired through dispatching agencies (i.e., temporary workers) do not have the right to organize and bargain collectively in the enterprises where they work. Although labor unions may draw up their own rules and constitutions, to register a union requires approval from the local competent authority or the MOL, and authorities have the power to order unions to cease part or all of their operations if they break the law or violate their charter.</p>
+<p>Teachers, civil servants, and defense industry employees do not have the right to strike. Workers in industries such as utilities, hospital services, and telecommunication service providers are allowed to strike only if they maintain basic services during the strike. Authorities may prohibit, limit, or break up a strike during a disaster. The law divides labor disputes into two categories: “rights disputes” and “adjustment disputes.” Workers are allowed to strike only in adjustment disputes, which include issues such as compensation and working schedules. The law forbids strikes in rights disputes, which could include collective agreements, labor contracts, regulations, and other issues. Rights disputes must be settled through arbitration or the judicial process.</p>
+<p>The law requires mediation of labor disputes when the authorities deem disputes to be sufficiently serious or to involve unfair practices. The law prohibits labor and management from disturbing the “working order” while mediation or arbitration is in progress. On average the mediation process took 20 to 50 days and arbitration took 45 to 80 days. Labor organizations reported that compulsory prerequisites were impediments to exercising the right to strike.</p>
+<p>Taiwan authorities effectively enforced laws providing for the freedom of association and collective bargaining. Violators are subject to fines. Such fines were not sufficient to deter violations. An MOL arbitration committee reviews cases of enterprises using discriminatory or improper action to repress union leaders and their activities; violators are fined. Both labor and management have the right to apply for arbitration in labor disputes if there is no legal reason for the other side to refuse collective negotiation.</p>
+<p>Labor unions charged that during employee cutbacks, union leaders were sometimes laid off first or dismissed without reasonable cause. Most labor disputes were related to wage and severance issues. Taiwan’s only foreign workers’ union, a union of Filipino fisherman, was established in 2013 to protect migrant fishermen from abuse and labor exploitation (see section 7.d.).</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The authorities effectively enforced the law. The law prescribes penalties of up to seven years in prison for forced labor; such penalties were sufficiently stringent. The authorities continued public awareness campaigns, including disseminating worker education pamphlets, foreign worker hotlines, and Ministry of Education programs on labor trafficking as part of the broader human rights curriculum. According to the National Immigration Agency, 20 persons were convicted for forced labor in the first six months of the year.</p>
+<p>Forced labor occurred in such sectors as domestic services, farming, fishing, manufacturing, and construction. Foreign workers were most susceptible to forced labor. NGOs reported that some labor brokers and employers regularly collected high fees or loan payments from foreign workers, using debts incurred in the source country to create conditions of involuntary servitude (also see section 7.e.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law stipulates 15 as the minimum age for employment. The law prohibits children under 16 and senior high school students from doing heavy or hazardous work. Their working hours are limited to eight hours per day, and they are prohibited from overtime work and night shifts.</p>
+<p>County and city labor bureaus effectively enforced minimum age laws by ensuring the implementation of compulsory education. According to MOL, employers who violate minimum age laws face a prison sentence not to exceed six months and/or fines of up to NT$300,000 ($9,290).</p>
+<p>There were some reports of commercial sexual exploitation of children (see section 6, children).</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination With Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws and regulations prohibit discrimination with respect to employment and occupation on the basis of race, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation and/or gender identity, age, language, HIV-positive status, or other communicable disease status.</p>
+<p>The law also prohibits potential employers from requesting medical reports from job candidates to prove they do not have HIV or other communicable diseases. In February, following passage of an amended law, MOHW ended the requirement for foreign nationals to undergo an HIV test if they want to work in Taiwan. A ministry regulatory change in July stipulated that foreign workers may not be forcibly deported if, during annual health examinations, they are found to have contracted a communicable disease.</p>
+<p>The law requires 3 percent of the workforce in the public sector and 1 percent of the workforce in the private sector to be individuals with disabilities. All public employers and private firms that employ 30 or more persons are required to enact preventive measures and establish complaint procedures to deter sexual harassment. The law forbids termination of employment because of pregnancy or marriage.</p>
+<p>The local labor affairs bureau intervenes and investigates complaints of employment discrimination or of failure to meet legal hiring quotas. The fine for employment discrimination ranges from NT$300,000 ($9,290) to NT$1.5 million ($46,500), and authorities enforced the law effectively. Sexual harassment in the workplace is a crime punishable by fines of NT$100,000 to NT$1 million ($3,100 to $31,000) and imprisonment for up to two years. Workers who encounter discrimination can file complaints with two independent committees composed of scholars, experts, and officials in city and county departments of labor affairs. The authorities enforced decisions made by those committees. Employers can appeal rulings to MOL and the Administrative Court.</p>
+<p>Persons with disabilities and HIV-positive persons remained vulnerable to discrimination in employment and occupation. The unemployment rate of persons with disabilities was much higher than that of individuals without disabilities. Non-profit and advocacy groups said many public and private sector employers opted to pay fines rather than meeting hiring quotas for persons with disabilities. There were also reports of indirect discrimination in the hiring process, such as employers failing to provide assistive devices in pre-employment tests.</p>
+<p>Women were promoted less frequently, occupied fewer management positions, and worked for lower pay than their male counterparts. Household caregivers and domestic workers did not enjoy the same legal protections as other workers (see section 7.e.).</p>
+<p>Women’s groups reported that judicial authorities were sometimes dismissive of sexual harassment complaints. According to the Ministry of Labor’s latest survey on this subject in 2013, an estimated 4.2 percent of women encountered sexual harassment in the workplace, with most victims ages 15 to 34. A poll conducted by the Awakening Foundation in May found that 50 percent of the women surveyed faced censure when they informed their employers of their pregnancy, 49 percent were assigned to a different job or department, and 15 percent were asked to resign.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The Labor Standards Law provides for standards for working conditions and health and safety requirements. It applies to workers agriculture, forestry, fishery, and animal husbandry; mining and quarrying; manufacturing; mass communication; and other lines of business specified by the authorities. The minimum wage of NT$20,008 ($620) per month, or NT$120 ($3.72) per hour, took effect in July. There is no minimum wage for workers in categories not covered by the law, such as management employees, healthcare workers, gardeners, bodyguards, doctors, self-employed lawyers, civil servants, contractors for local authorities, and domestic workers. Authorities defined the poverty level as 60 percent below the average monthly disposable income of the median households in a designated area. By this definition, the poverty level was NT$14,794 ($458) per person in Taipei, NT$11,832 ($366) per person in New Taipei City, NT$11,890 ($368) per person in Kaohsiung, and NT$10,869 ($336) per person in all other areas.</p>
+<p>On May 15, the Legislative Yuan passed an amendment to the Labor Standards Law stipulating new legal working hours of eight hours per day and 40 hours per week, reduced from the previous limit of eight hours per day and 84 hours biweekly. The new rule was scheduled to take effect January 1, 2016, and would affect 3.4 million workers, according to the MOL. Employees in “authorized special categories” approved by the ministry are exempt from regular working hours stipulated in the law. These categories include security guards, flight attendants, insurance salespersons, real estate agents, nursery school teachers, ambulance drivers, and hospital workers.</p>
+<p>All workers under the Labor Standards Law are entitled to paid leave on recognized holidays and to a certain number of paid special leave days based on the number of years spent working for their employer. The law specifies that employees who work on national holidays should be paid double time and that workers who do not take their special leave should receive compensation.</p>
+<p>In May the MOL issued an instruction requiring employees to include all offsite and remote computing hours in calculating their total regular hours worked. According to ministry estimates, more than 550,000 workers were subject to the new regulation, including those in sectors that rely on telecommunications (e.g., graphic design) and those who routinely conduct work outside the office (e.g., journalists, insurance and real estate brokers, and bus drivers). The MOL has stated that any additional work assigned to workers outside their shifts should be deemed overtime, regardless of how it was assigned, and that existing labor regulations were sufficient to address the problem.</p>
+<p>Household caregivers and domestic workers are not protected under the Labor Standards Law and are not covered by a mandated minimum wage, overtime pay, limits on the workday or workweek, minimum breaks, or vacation regulations.</p>
+<p>The Occupational Safety and Health Law sets health and safety standards. The law was amended in 2013 to expand coverage from workers in 15 categories to employees in all industries, better protect female workers and those under age 18, prevent overworking, impose higher safety standards on the petroleum and chemical industries, and impose higher fines for violations.</p>
+<p>The Ministry of Labor increased the number of inspectors from 294 in 2013 to 370 as of the end of July, and also subsidized local authorities’ hiring of 325 contract inspectors during the year. Although the number of labor inspections decreased in the first half of the year from the same period last year, local authorities conducted 8,000 more inspections during the year than in the same period in the previous year. Labor NGOs and academics have stated that the number of inspectors and labor inspection rate were too low to serve as an effective deterrent against labor violations and unsafe working conditions, whereas the Taiwan Confederation of Trade Unions said the situation had improved somewhat. The authorities can fine employers NT$300,000 ($9,290) for violations of the Occupational Safety and Health Law, and the law mandates that the names of offending companies be broadcast to the public.</p>
+<p>Regulations require inspection and oversight of foreign labor brokerage companies. The National Immigration Agency is responsible for all immigration-related policies and procedures for foreign workers, foreign spouses, immigrant services, and repatriation of undocumented immigrants. The MOL is responsible for occupation work permits and services and also provides mediation services. The MOL may also permit the transfer of employees when they have suffered exploitation or abuse.</p>
+<p>An employer may deduct only labor insurance fees, health insurance premiums, income taxes, and meal and lodging fees from the wages of a foreign worker. Violators face fines of NT$60,000 to NT$300,000 ($1,860 to $9,290) and loss of hiring privileges. Critics, however, complained that violations continued and that MOL did not effectively enforce statutes and regulations intended to protect foreign laborers from unscrupulous brokers and employers.</p>
+<p>The MOL operated a Foreign Worker Direct Hire Service Center and an online platform to allow employers to hire foreign workers without going through a broker. Caregivers and domestic workers, and workers in manufacturing, fisheries, construction, and other industries could be hired through the Center. Employers could also renew foreign workers’ employment contracts at the Center. During the year, the MOL reported that the Center had provided support to 110,000 foreign workers, saving them up to NT$4.6 billion ($142.4 million) in brokerage fee payments, since it began operating in 2008. NGOs asserted that complicated hiring procedures and the online service’s incompatibilities with certain recruitment systems in workers’ countries of origin prevented widespread implementation, and they advocated lifting restrictions on transfers between employers.</p>
+<p>The average manufacturing wage was more than double the legal minimum wage, and the average wage for service industry employees was even higher. The average monthly wage increased 3.6 percent in 2014.</p>
+<p>Violations of legal working hours were common in all sectors. A survey conducted by the Institute of Labor, Occupational Safety, and Health showed 78 percent of workers in the media industry worked on average more than 10 hours per day. An MOL inspection found that that working hours of pilots, bus drivers, and banking sector employees exceeded the legal limit. In a survey conducted by Yes123 Employment Service Co., 56 percent of employees reported that they had not received overtime pay for work exceeding their normal working hours. The Taiwan Confederation of Trade Unions and other labor groups called on authorities to end the “authorized special category” system, to enact a law to limit the use of labor dispatching, to strengthen inspection of employers, and to raise fines on violators. In addition, the Taiwan Labor Front and Taiwan Confederation of Trade Unions have cited labor dispatching (i.e., temporary worker) programs and employers’ use of instant-messaging applications to conduct business afterhours as factors undermining working conditions in Taiwan.</p>
+<p>In September the legislature amended the Employment Service Law to allow foreign caregivers and maids to work in the country up to 14 (vice 12) years. This industry was largely controlled by brokerage agencies that hired workers overseas and acted as their representative in Taiwan. Brokerage agencies required workers to take out loans for “training” and other fees at local branches of Taiwan banks in their home countries at inflated interest rates. Domestic workers covered the full cost of their own health insurance.</p>
+<p>Some employers of domestic workers did not pay them directly, but rather through the brokerage agencies. Agencies then deducted fees and loan repayments from the wages before paying the worker. In such cases, actual take-home pay for domestic workers could be far below the current poverty level, with NGOs reporting that the monthly take-home pay of some domestic workers was as low as 6.7 percent of the official poverty level. NGOs and academics urge the MOL to provide basic labor protections such as minimum wage, overtime, and a mandatory day off for household caregivers and domestic workers. In August, MOL reached an agreement with Indonesia, the Philippines, Vietnam, and Thailand to raise the wages of caregivers and domestic workers from NT$15,840 ($490) to NT$17,000 ($526). The agreement took effect on September 1 and applied only to workers entering new contracts or renewing contracts after three years of service.</p>
+<p>Migrant workers, including those from Indonesia, Vietnam, the Philippines, and Thailand, were vulnerable to exploitation. NGOs asserted that foreign workers often were unwilling to report employer abuses for fear the employer would terminate the contract and deport them, leaving them unable to reimburse debt accrued to brokers or others.</p>
+<p>In September, one Indonesian fisherman died and another went missing while working on the Kaohsiung-registered deep-sea fishing vessel Fu Si Chun. The Yilan County Fishermen’s Association accused the boat crew of abusing one fisherman to death and not making efforts to rescue the missing fisherman after he fell overboard. In response to the incident, the Yilan County Fishermen’s Association called for labor laws to be amended to protect workers hired overseas better. As of October the Pingtung District Prosecutor’s Office was investigating the death.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

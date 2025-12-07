@@ -1,0 +1,601 @@
+2015
+Serbia
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897"> </span><span class="st_facebook" st_title="Serbia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252897">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252897</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=executive"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Republic of Serbia is a constitutional, multiparty, parliamentary democracy. In March 2014 the country held parliamentary elections that international observers stated offered voters a genuine choice and respected fundamental freedoms through the campaign, despite some credible reports of voter intimidation and irregularities in voter lists. The Serbian Progressive Party won an absolute majority of the seats in the parliamentary election and headed the governing coalition. Civilian authorities maintained effective control over the security forces.</p>
+<p>The most serious human rights problems during the year included discrimination and societal violence against members of minority groups, especially Roma. Harassment of journalists and pressure on them to practice self-censorship was also a significant problem. Corruption existed in health care, education, and multiple branches of government, including the police. An inefficient judicial system that caused lengthy and delayed trials as well as long periods of pretrial detention also adversely affected citizens’ access to justice.</p>
+<p>Other problems reported during the year included police mistreatment of detainees; harassment of human rights advocates as well as groups and individuals critical of the government; lack of durable solutions for large numbers of displaced persons from the wars of the 1990s; societal and domestic violence against women, children, and persons with disabilities; trafficking in persons; harassment of lesbian, gay, bisexual, transgender, and intersex (LGBTI) groups and individuals; and discrimination against national minorities.</p>
+<p>The government took steps to prosecute officials, both in the police force and elsewhere in the government, following public exposure of such abuses. Nevertheless, many observers believed that numerous cases of corruption, social and domestic violence, and other abuses went unreported and unpunished.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section1"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+<p>Throughout the year the government continued to discuss publicly the 1999 disappearance and murder of Ylli, Agron, and Mehmet Bytyqi, three Kosovar-American brothers taken into custody by Serb paramilitaries. Senior Serbian officials made numerous claims that new evidence was found in the case. The government made no significant progress toward providing justice for the victims, however.</p>
+<p>The special war crimes chamber of the Belgrade District Court continued to investigate and try cases arising from crimes committed during the 1991-99 conflicts in the former Yugoslavia. This included cooperation on information and evidence exchanges with Croatia, Montenegro, Bosnia and Herzegovina, and the EU Rule of Law Mission in Kosovo (EULEX).</p>
+<p>In March, as a result of cooperation with Bosnia and Herzegovina, authorities arrested eight Bosnian Serbs suspected of having participated in the 1995 genocide that occurred in Srebrenica.</p>
+<p>On August 17, the Humanitarian Law Center filed a criminal complaint with the Office of the War Crimes Prosecutor about the alleged involvement of Dragan Obradovic in war crimes committed by the 86th Detachment of the Special Police Unit of the Ministry of the Interior during the 1999 Kosovo conflict. By year’s end the office had not acted on the complaint.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution prohibits such practices, police allegedly at times beat detainees and harassed persons, usually during arrest or initial detention, with a view towards obtaining a confession, even though such evidence is not permissible in court.</p>
+<p>According to the ombudsman’s 2014 annual report, impunity for abuse or torture during arrest or initial detention was prevalent. There were few prosecutions and even fewer convictions for abuse or torture. Irregularities in the treatment of prisoners included failure to perform medical examination of inmates after the use of force, failure to determine whether the examined person was subjected to mistreatment, and lack of knowledge of how best to provide health care to a person against whom force was used. In February the European Court of Human Rights ordered the state to pay 3,500 euros ($3,850) in damages to each of the 37 former inmates of the Nis prison for injuries suffered during riots in 2006.</p>
+<p>On August 10, the First Basic Court in Belgrade passed two judgments ordering the government to pay compensation to six Kosovo Albanians from Glogovac in amounts ranging from 125,000 to 370,000 dinars ($1,150 to $3,400). These judgments stemmed from the country’s responsibility for torture and unlawful detention committed by members of the Ministry of the Interior in 1999.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Many prisons and detention centers did not meet international standards and were severely overcrowded, had generally poor sanitation, lacked proper lighting and ventilation, and had poorly disciplined and trained custodial staff. The Organization for Security and Cooperation in Europe (OSCE) reported that prisons and detention centers lacked proper facilities for prisoners with disabilities. In September the ombudsman stated that health care services in prisons were insufficient and that most facilities were understaffed.</p>
+<p><u>Physical Conditions</u>: Prison conditions in maximum-security prisons were harsh due to gross overcrowding, physical abuse, and inadequate sanitary conditions and medical care. In September Deputy Ombudsman Milos Jankovic stated that, in spite of recent improvements, prison conditions were still not satisfactory and that the country had failed to fulfill all EU standards.</p>
+<p>In December 2014 the Belgrade Center for Human Rights reported that there were approximately 10,400 prisoners in the country. The maximum capacity of the country’s prisons was estimated at 9,300 (an increase from a reported capacity of 6,500 in 2013). Women made up approximately 3 percent of the prison population while juveniles constituted 1 percent. While prison conditions did not vary by gender, the ombudsman’s 2014 annual report noted that the relatively small number of female prisoners resulted in their frequently being placed in de facto solitary confinement for extended periods of time. Youth and adult populations lacked proper separation at the correctional facility for younger prisoners; the maximum age of prisoners at this facility was 23.</p>
+<p>Prison conditions varied greatly between facilities. Guards generally were poorly trained in the proper handling of prisoners.</p>
+<p>According to the Belgrade Center for Human Rights’ 2014 report, 52 persons died in custody, of whom five committed suicide. As of November information on the causes of the other deaths was not available.</p>
+<p>One prison lacked dining facilities, so inmates ate in their cells, resulting in unsanitary conditions. In another prison, some inmates slept on mattresses placed on the floor beneath other inmates’ beds. Higher-security “closed” wards sometimes lacked natural light and proper ventilation.</p>
+<p>During the year the ombudsman noted other shortcomings in prisons due to failure of authorities to allow inmates to work, to participate in cultural activities, to have more time outside of their cells in communal areas, and to place detainees with more significant disabilities in appropriate detention units. In addition, the ombudsman found that there was no adequate support for prisoners with mental disabilities within the formal penal system.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was inadequate.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring by independent observers, such as human rights groups, the media, the International Committee of the Red Cross, and the Council of Europe’s Committee for the Prevention of Torture. The ombudsman has the right to visit prisoners and make recommendations concerning prison conditions.</p>
+<p><u>Improvements</u>: In September the ombudsman stated that prison and detention center staff had attained a better understanding through his visits that mistreatment, abuse, and torture were not allowed. He added that prison and detention center staff understood that external observation was necessary to do away with abuse.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The country’s approximately 32,000 police officers are under the authority of the Ministry of the Interior. Civilian authorities maintained effective control over the five main departments that supervise 27 regional police directorates reporting to the national government. Despite a sustained effort by prosecutors and police to tackle corruption, abuse, and fraud, significant problems and abuses in these areas remained. There was no specialized governmental body to examine killings at the hands of the security forces. Police, the Security Information Agency (BIA), and the Directorate for the Enforcement of Penal Sanctions examine such cases through internal audits.</p>
+<p>The effectiveness of the police force varied. While most officers were ethnic Serbs, the force included Bosniaks (Slavic Muslims), ethnic Hungarians, ethnic Montenegrins, a small number of ethnic Albanians, and other minorities. The government has taken steps to minimize the underrepresentation of minorities in police departments in multi-ethnic communities.</p>
+<p>Police corruption and impunity were problems. During the year experts from civil society noted that the quality of police internal investigations continued to improve, primarily because of the implementation of the new criminal procedure code. As of July, charges were filed against 122 police officers. In 2014 the police internal control unit examined 4,696 complaints against officers, 80 percent of which were made by citizens. Charges were filed against 148 officers in 2014. The Ministry of the Interior maintained a hotline for citizens to report police corruption. During the year the government, in cooperation with international organizations, sponsored more than 50 anticorruption training events, which included police, border patrol officers, prosecutors, and customs officers.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Authorities generally based arrests on warrants. The law requires a judge to approve any detention lasting longer than 48 hours, and authorities generally respected this requirement. The police could hold a suspect in custody exceptionally for up to 48 hours. Immediately after questioning, the prosecutor decides whether to release the arrested person or request that the judge, for preliminary proceedings, order pretrial detention.</p>
+<p>The law provides the possibility of pretrial release for some detainees. Nonetheless, pretrial release was not used frequently as an alternative to detention. There were instances when authorities used detention in questionable circumstances. For example, in May 2014 authorities detained three individuals on the accusation of causing panic for one week by posting on public websites unconfirmed information about large numbers of floating bodies of flood victims during the 2014 flood crisis. Authorities justified the detention on the grounds that the accused were likely to recommit the offense. In May authorities filed criminal charges against one of the individuals who had been detained in 2014 for “spreading of panic and disorder,” which carries a penalty of six months to five years in prison.</p>
+<p>The law allows bail, but detainees rarely used it. There appeared to be a trend towards greater use of bail and home detention in organized crime, high-level corruption, and war-crime proceedings.</p>
+<p>The constitution provides that police must inform arrested persons immediately of their rights, and authorities generally respected this requirement. According to the law, prosecutors and police cannot question a suspect without informing the suspect of the right to have counsel present, nor in the absence of a prosecutor. The law provides that detainees can obtain access to counsel at government expense, if necessary. Authorities generally allowed family members to visit detainees. Authorities may hold suspects detained in connection with serious crimes for up to six months before indicting them.</p>
+<p>The law prohibits excessive delays by authorities in filing formal charges against suspects and in conducting investigations. According to the law, investigations should conclude within 12 months for cases of special jurisdiction (organized crime, high corruption, and war crimes). It was nonetheless possible for investigations to last longer than the prescribed time limits, as there was no clear consequence for not meeting the deadline.</p>
+<p><u>Pretrial Detention</u>: Prolonged pretrial detention remained a problem. As of September approximately 14 percent of the country’s total prison population was in pretrial detention. The average length was not reported and could not be reliably estimated. The court is generally obliged by the law to act with urgency when deciding on pretrial detention. The constitution and the law limit the length of pretrial detention to six months, but there is no statutory limit to detention once a trial begins. There is also no statutory limit for detention during appellate proceedings. Because of inefficient court procedures, some of which the law requires, cases often took extended periods to come to trial. Once begun, trials often took between several months to many years to complete. The government used house arrest in some cases, which helped to relieve overcrowding problems in pretrial detention centers.</p>
+<p>The law allows for indefinite detention of prisoners who have been deemed a danger to the public because of mental illness.</p>
+<p><u>Amnesty</u>: During 2014 the government released 284 persons from prison pursuant to the amnesty law.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, but the courts remained susceptible to corruption and political influence.</p>
+<p>In June a judicial disciplinary panel reversed an earlier ruling and found Judge Vladimir Vucinic guilty of violating disciplinary rules. The panel reprimanded Vucinic, who had first been charged in 2013, purportedly for improper contacts with the press, when he alleged that his supervisor had pressured him to change the bail conditions for a defendant in a corruption case. The supervisor initiated the charges and Vucinic was not reappointed to a position as chief judge of the Special Court for Organized Crime.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law grant defendants the presumption of innocence. Authorities must inform defendants promptly and in detail of the charges against them, with free interpretation as necessary. Defendants have a right to a fair and public trial without undue delay, although authorities may close a trial if the trial judge determines it is warranted for the protection of morals, public order, national security, the interests of a minor, the privacy of a participant, or during testimony of a state-protected witness. The country does not use juries, but has lay judges sitting on the trial benches in all cases except those handled by the organized crime and war crimes authorities. Defendants also have the right to have an attorney represent them at public expense for cases in which defense is legally mandatory or a defendant lacks resources to acquire representation and the right to adequate time and facilities to prepare defense. Defendants have the right to access government evidence, to question witnesses, and not to be compelled to testify or confess guilt. Both the defense and the prosecution have the right to appeal a verdict. The government generally respects these rights, although some defendants complained about not being able to present evidence at court and not being able to depose their witnesses. Poorer defendants struggled to get legal representation, as the country does not have a functional system of free legal aid for all situations. Free legal aid was granted only in more serious cases, where the law mandates representation.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no confirmed reports of political prisoners or detainees. There were, however, reports that the government arrested persons on corruption charges for political reasons.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The constitution grants individuals the right to appeal to the Constitutional Court based on a violation of human rights. In addition to ruling whether a violation occurred, a decision of the court also can serve as grounds for seeking restitution. The government generally respected decisions rendered by the Constitutional Court. Citizens may appeal cases involving alleged violations of the European Convention on Human Rights to the European Court of Human Rights.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>The Serbian Restitution Agency provided in-kind restitution for property confiscated by communist authorities following World War II. According to the agency, it has resolved about 40 percent of nonagricultural claims and 5 percent of agricultural claims. Based on its estimates, the agency would need two more years to act on all claims for in-kind property restitution and five years to complete compensation claims. Payment of financial compensation was supposed to start in 2014 but has been delayed until 2018. The law permits in-kind property restitution, financial reimbursement, and the substitution of communal religious property. The government has not adopted a law to address restitution of heirless property confiscated as a result of the Holocaust.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>While the constitution prohibits such actions, there were reports that the government failed to respect prohibitions on interfering with correspondence and communications. The law requires the Ministry of Interior to obtain a court order before monitoring potential criminal activity, and police to obtain a warrant before entering property except to save persons or possessions, but police occasionally failed to respect these laws.</p>
+<p>Human rights leaders believed that authorities monitored their communications, and most observers believed that authorities selectively monitored communications, eavesdropped on conversations, and read mail and e-mail. In January the ombudsman revealed, and the Ministry of Defense subsequently confirmed, that the Military Security Agency had unlawfully monitored the communications of some opposition political parties, union leaders, and judges.</p>
+<p>The law allows the government to access communications data without previous approval under certain special circumstances. Even with these special circumstances taken into account, the Security Information Agency (BIA) must submit a request for a retroactive warrant justifying surveillance.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section2"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press. A lack of transparency of media ownership, continuing government involvement in media ownership, and threats and attacks on journalists undermined these freedoms.</p>
+<p><u>Freedom of Speech and Expression</u>: The constitution provides for freedom of speech but specifically allows restrictions on speech “to protect the rights and reputation of others, to uphold the authority and objectivity of the courts, and to protect public health, morals of a democratic society and national security.” While the law does not include a specific provision on hate speech, it is a criminal offense to “incite” national, racial, or religious intolerance. The ombudsman reported that the Military Security Agency had monitored unlawfully communications of opposition political parties.</p>
+<p><u>Press and Media Freedoms</u>: While independent media organizations generally were active and expressed a wide range of views, there were reports that the government pressured media. The ombudsman’s 2014 report stated that the media in the country were not free to the extent expected from a modern European country and society. The report added that during 2014 media freedom declined. A July report from Human Rights Watch documented punitive lawsuits, threats, physical attacks, smear campaigns, and other forms of intimidation against investigative journalists. Most print and broadcast media were independent and privately owned, although the state maintained extensive media resources. Privatization of government-owned media continued, but was not completed by the legally prescribed deadline of July 1. Parliament amended the deadline to October 31, which was also not met. Some media organizations did not reveal their ownership publicly, leading observers to question their independence.</p>
+<p><u>Violence and Harassment</u>: The law prohibits threatening or otherwise putting pressure on public media and journalists or exerting any other kind of influence that might obstruct their work. During the year some reporters and media organizations were victims of vandalism, intimidation, and physical attacks. The Independent Journalists’ Association of Serbia recorded 34 cases of verbal threats, physical assaults, and attacks on media professionals’ property as of December 22. For example, on August 18 two young men beat investigative journalist Ivan Ninic, an associate of the Anticorruption Council and the anticorruption portal Pistaljka, in front of Ninic’s house. In November, Ninic’s colleague, Miroslava Milenovic, was physically attacked by unknown perpetrators, allegedly for her work on the Council. The association recorded 23 attacks during the year. On police recommendation authorities provided around-the-clock police protection to some journalists who were threatened in connection with their work. In September, Serbian journalists were harassed by police while reporting on a controversial construction project.</p>
+<p><u>Censorship or Content Restrictions</u>: There were reports that the government actively sought to direct media reporting on a number of issues.</p>
+<p>Early in the year, a sustained public media campaign targeted the non-profit Balkan Investigative Reporting Network (BIRN) after it published articles critical of the government. Critics close to the government publicly called BIRN a “spy” organization and its staff “foreign mercenaries.” On January 9, Prime Minister Vucic criticized BIRN in response to its investigation into a controversial government tender. The prime minister accused BIRN of taking money from the EU delegation to the country in exchange for criticizing the government, an allegation that the EU delegation denied categorically.</p>
+<p>Economic pressure sometimes led media outlets to practice self-censorship. State-controlled funds were believed to contribute a significant percentage of overall advertising revenue, giving the state correspondingly strong leverage over media outlets. Since the media depended heavily on advertising to survive, advertising agencies were in a strong position to influence them, including through the nontransparent termination of advertising contracts, making asymmetrical changes to such contracts, and inequitably distributing funds from public budgets and state-controlled advertising funds (such as those for public companies or municipalities). Many media outlets faced financial pressures that may be used to shape editorial opinion and news coverage and affect working conditions for journalists.</p>
+<p><u>Nongovernmental Impact</u>: In 2014 the nationalist movement Nasi published a list of 30 actors, directors, writers, political analysts, and journalists whom it described as “traitors” and the “greatest haters of the Serbian people.” The Prosecutor’s Office responded and indicted Nasi’s leader Ivan Ivanovic for inciting “racial and other discrimination.” The first hearings on the case were held earlier in the year. As of September, the case was still in progress.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports that the government restricted or disrupted access to the internet or censored online content. There were credible reports that the government monitored private online communications without appropriate legal authority (see section 1.f.). According to the country’s National Institute of Statistics, 63 percent of the country’s population had an internet connection.</p>
+<p>Although the internet remained unrestricted, the law obliges telecommunications operators to retain for one year data on the source and destination of a communication; the beginning, duration, and end of a communication; the type of communication; terminal equipment identification; and the location of the customer’s mobile terminal equipment. While intelligence agencies can access this information without court permission, the law requires a court order to access the contents of these communications.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>Serbian theatre director Kokan Mladenovic maintained that his play <i>Kostana</i> was canceled because of its critical position towards the state of affairs in cultural life and the political leadership.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of assembly, and the government generally respected that right. The law obliges protesters to apply to police for a permit, providing the exact date, time, and estimated number of demonstrators. Police generally issued a permit if a protest was not likely to disturb the public or public transportation; otherwise, police consulted city authorities before issuing a permit. Higher-level government authorities decided whether to issue permits for gatherings assessed as posing high security risks. In 2013 the Constitutional Court ruled that limiting freedom of assembly for security reasons violated the constitution, but the Ministry of the Interior has continued to do so. During the year the Serbian Institute for Social Sciences released a report that identified several gaps in citizens’ full enjoyment of freedom of assembly. These gaps included bans of peaceful assemblies because of the potential violence from counter demonstrators, the large number of permits that some organizers are forced to acquire, and by-laws that prohibit gatherings in the vicinity of the National Assembly.</p>
+<p>On July 11, citing security reasons, the Ministry of Interior banned all public events in Belgrade commemorating the 20th anniversary of the Srebrenica genocide. In August the ministry banned a public protest organized by ultra-nationalist organizations that sought to protest against the settling of asylum seekers in Serbia. On September 20, the Belgrade Pride parade took place for the second year in a row, promoting LGBTI rights in the country. Police, who greatly outnumbered participants in the parade, shut down a large portion of central Belgrade to secure the route and ensure that there was no contact between parade participants and hooligans.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of political, union, and any other form of association, and the government generally respected this right.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of movement within the country, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-country Movement</u>: Based on the registration conducted following the Kosovo conflict in cooperation with UNHCR, the government provided all persons displaced by the conflict who wanted to register as internally displaced persons (IDPs) with an IDP card that made them eligible for humanitarian assistance and facilitated their movement as well as access to basic government services.</p>
+<p><u>Emigration and Repatriation</u>: According to UNHCR, 133 displaced persons from Kosovo who had been living in the country returned to Kosovo during the first six months of the year. Of those, 109 were ethnic Serb, five were Bosniaks, and 19 were Gorani.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>The law provides protection to IDPs in accordance with the UN Guiding Principles on Internal Displacement, but implementation fell short in some areas because of bureaucratic inconsistencies. According to official statistics of the Serbian Commissariat for Refugees and Migration (SCRM), 206,026 displaced persons (referred to as IDPs by UNHCR) from Kosovo resided in the country, mainly Serbs, Montenegrins, Roma, Egyptians, Ashkali, Gorani, and Bosniaks who left Kosovo as a result of the 1998-99 war. Approximately 80 percent resided in urban areas. According to UNHCR, more than 90,000 persons were extremely vulnerable and in need of assistance.</p>
+<p>Roma were the largest ethnic minority group in the population of displaced persons. There were approximately 23,000 officially registered Romani displaced persons, but UNHCR estimated that 40,000 to 45,000 displaced Roma lived in the country, many of whom lacked the personal documents necessary to register their status. According to UNHCR research conducted by the Center for Free Elections and Democracy, 18 municipalities in the country had approximately 21,000 Romani IDPs living below the poverty line. While some displaced Roma lived in government-supported collective centers, living conditions for Roma (both local and displaced) generally were extremely poor. Local municipalities often were reluctant to accommodate them. If Roma did stay, they often lived near major cities or towns in unauthorized, isolated, informal settlements without electricity, water, sanitation, or other public services.</p>
+<p>Displaced persons who were not properly registered, especially Roma, Ashkali, and Egyptians, were generally ineligible for government health insurance, social welfare, and public schooling as they lacked authorized local addresses. Non-regularized Roma settlements do not have authorized local addresses. The law enables individuals without an authorized local address to register at the local center for social welfare and obtain two-year renewable identification documents, but the law was not fully implemented.</p>
+<p>The government assisted some of the most vulnerable displaced persons by providing them with food, small income-generation grants, and accommodation in collective centers. While government officials continued to state publicly that displaced persons from Kosovo should return, senior government officials also claimed that it was unsafe for many to do so. To assist both refugees from Croatia and Bosnia and Herzegovina and displaced persons, largely from Kosovo, the government implemented its 2002 national strategy, which was adopted in line with UN guiding principles and expanded and updated in 2011 and again during the year.</p>
+<p>The housing situation of many displaced persons remained a source of concern. As of the end of July, the SCRM reported that 495 displaced persons from Kosovo remained in 10 official collective centers in the country, in minimally habitable facilities originally constructed for temporary accommodation. Many of the 90,000 extremely vulnerable displaced persons from Kosovo lived in substandard private accommodation.</p>
+<p>In the first eight months of the year, the government provided 307 housing solutions and 491 income-generation packages to displaced persons. Local NGOs and international organizations provided additional housing, economic assistance, and free legal assistance for civil registration, resolution of property claims, and obtaining other relevant personal documents.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>During the year many countries in the EU and Southeast Europe experienced an unprecedented wave of migration from the Middle East, Africa, and Asia, consisting of a mix of asylum seekers/potential refugees, economic migrants, and trafficking victims, among others. For simplicity, this report will refer to these populations as ‘migrants and asylum seekers’ if more specific information is not available.</p>
+<p>According to the government, Serbia was a transit country through which a very large, mixed flow of migrants and asylum seekers traveled to Western Europe.</p>
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has a system for providing protection to refugees. The asylum office within the Ministry of the Interior is responsible for implementing the system but lacked capacity, resources, and trained staff to do so effectively.</p>
+<p>While the law is broadly in accordance with international standards, failures and delays in the implementation of its provisions deny asylum-seekers a prompt and effective individual assessment of their protection needs. In the majority of cases, asylum applications were discontinued or suspended because applicants left the country.</p>
+<p>According to UNHCR the primary reasons for asylum seekers to leave the country were their lack of interest in living in Serbia, and the lengthy government procedure for deciding applications. As of year’s end, although 577,995 individuals had expressed an intention to seek asylum in the country, most had departed, only 30 were interviewed, and authorities made only 14 positive refugee status determinations and no subsidiary protection determinations.</p>
+<p>According to the Ministry of Interior and UNHCR, as of October, on average, 5,000 (and up to 10,000) migrants and asylum seekers were entering and exiting the country daily. In response the government opened two reception centers in southern Serbia, with the capacity to register and process 6,000 migrants per day and provide accommodations for up to 40 women and children. The government also opened a reception center in Kanjiza, near the border with Hungary, which could accommodate 1,000 persons.</p>
+<p><u>Safe Country of Origin/Transit</u>: UNHCR raised concerns about the government’s interpretation and use of the concept of safe third country, which was not in line with international standards. It was government policy to issue blanket denials of asylum to applicants from a “safe country of origin.” UNHCR claimed that this policy and the list of “safe third countries” was nonsensical because the Ministry of Foreign Affairs determined them based solely on Serbia’s relations and affiliations with those countries and not on their actual safety with regard to humanitarian and human rights conditions. As a result all neighboring states recognized by Serbia were on its list of “safe third countries.” UNHCR’s implementing partners petitioned the Constitutional Court to abolish the list, but the court declared that making such a decision did not fall within its competency.</p>
+<p><u>Refoulement</u>: UNHCR noted that Serbia lacked the resources and expertise to provide sufficient protection against refoulement, but has in principle agreed to refrain from refoulement.</p>
+<p><u>Refugee Abuse</u>: NGOs have periodically reported police mistreatment of migrants and asylum-seekers after the large influx of migrants and asylum-seekers began. In July, Amnesty International reported that several migrants or refugees interviewed while passing through the country on the way to Western Europe alleged that law enforcement officers had mistreated them or had exploited them financially. Serbian media reported that at least two police officers were disciplined for financial exploitation of migrants and asylum seekers.</p>
+<p><u>Employment</u>: Asylum seekers do not have the right to employment. Employment was available only once an applicant has been recognized as a refugee at the end of the country’s refugee determination process. The SCRM remained in charge of local integration of refugees but did not provide support, as all refugees with asylum-seeker status or seeking subsidiary protection departed Serbia.</p>
+<p><u>Durable Solutions</u>: The government provided some support for the resettlement and integration of refugees, mostly on an ad hoc basis. Refugees from the former Yugoslavia enjoyed the same rights as Serbian nationals except the right to vote and had access to simplified naturalization in the country. According to official SCRM statistics, 25,962 refugees from Croatia and 9,287 from Bosnia and Herzegovina resided in the country, while the government estimated that approximately 200,000 to 400,000 former refugees were naturalized but not socially and economically integrated into the country. Approximately 230 refugees lived in 10 collective centers throughout the country. The government provided housing for 297 persons and employment opportunities for 272 persons.</p>
+<p>Together with Bosnia and Herzegovina, Croatia, and Montenegro, the country participated in the Regional Housing Project (RHP) to provide housing for approximately 16,000 vulnerable refugee families who decided to integrate in the country. An international donors’ conference in 2012 gathered 260 million euros ($286 million) in commitments for the RHP, about half of the requested five-year budget. The RHP assembly of donors approved five project proposals to provide housing for 4,153 refugee families living in Serbia. The total value of the five projects was 87 million euros ($96 million). After initial delays, largely attributable to the international implementing partner chosen by the donors, the government continued implementing the projects.</p>
+<p>The government also provided some support for the return of refugees to their home countries.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>According to UNHCR, an estimated 3,868 persons--primarily Roma, Egyptians, and Ashkali--were at risk of statelessness in the country. The government has laws and procedures that afford the opportunity to gain nationality but implementation was sometimes deficient. Poverty, social marginalization, lack of information, cumbersome and lengthy bureaucratic procedures, difficulty in obtaining documents, the lack of an officially recognized residence, and the lack of birth registration limited the ability of those at risk of statelessness to gain nationality. The government cooperated tepidly with international organizations and implemented measures to deal with specific statelessness situations.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section3"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide citizens the ability to choose their government in free and fair, periodic elections based on universal and equal suffrage, and citizens exercised that ability.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In March 2014 the country held parliamentary elections that international observers considered to be mostly free and fair, but lacking in transparency. The final report of the limited election observation mission of the Organization for Security and Cooperation in Europe (OSCE) noted: “The early parliamentary elections offered voters a genuine choice. Although fundamental freedoms were respected throughout the campaign, credible reports about cases of intimidation of voters overshadowed the campaign environment.” The OSCE mission also noted that voter register lists contained a number of double entries and records of deceased voters.</p>
+<p><u>Political Parties</u><u> and Political Participation</u>: During the year the opposition Democratic Party accused the nationally dominant Serbian Progressive Party of 95 incidents of intimidation at local levels, including multiple attacks on Democratic Party candidates. Democratic Party officials stated that, over the previous three years, 83 of its members have been arrested and spent up to 10 months in pretrial detention. Authorities charged few with a crime and have released all 83. In August graffiti appeared in the city of Novi Sad declaring, “Death to Bojan Pajtic,” the head of the Democratic Party.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section4"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials. There was a widespread public perception that the government did not implement the law systematically, and that officials sometimes engaged in corrupt practices with impunity. EU experts noted continuing problems with the overuse of the vague “abuse of office” charge for alleged private sector corruption schemes. Despite the government’s publicly stated commitment to fight corruption, the Anticorruption Council and Transparency Serbia, a prominent NGO, continued to point to lack of governmental transparency and risk from corruption.</p>
+<p>The Organized Crime Prosecutor’s Office (OCPO) prosecutes cases of high-level corruption in the Belgrade Higher Court for Organized Crime; other corruption cases are tried in the country’s regular court system. The Ministry of Interior generally handled internal corruption cases within the ministry and turns over the results of the investigation to the appropriate prosecutor’s office. In April the government unveiled its 2015-16 Financial Fraud Investigation Strategy and Action Plan. Experts commented that this was the government’s principal tool in addressing corruption from a law enforcement perspective.</p>
+<p>The Anticorruption Agency (ACA) is an autonomous and independent oversight body accountable to parliament. Its main tasks include supervising the implementation of the national strategy for combating corruption and its related action plan; resolving conflict of interest cases; controlling political party financing; international cooperation in the fight against corruption; and preventing corruption in cooperation with the government, media, NGOs, and the general public. Although the ACA actively engaged with other state institutions and civil society organizations and received technical assistance from various donors, it failed to perform some of its functions and establish its authority. Because of legislative loopholes, the ACA also was unable to react in a number of cases of clear public-private conflict of interest. According to the director of the ACA, during the year there were 6 1/2 times the number of requests for investigations compared to 2014. The ACA was understaffed and under-resourced. The follow-up on its findings and recommendations by other state institutions and officials was very limited. The ACA filed 27 criminal reports against officials. These officials were suspected of not having reported or having falsely reported their assets to the agency with the intention of concealing them.</p>
+<p><u>Corruption</u>: During the year criminal justice and law enforcement authorities initiated a number of high-level anticorruption cases. In June authorities arrested 29 border police officers and nine customs officers for bribery and smuggling-related offenses. The Internal Control Department of the Ministry of Interior, in cooperation with the OCPO and Hungarian law enforcement, handled the investigation. Law enforcement authorities and OCPO participated in an investigation with several other European countries that led to 69 arrests in June of individuals accused of smuggling drugs. Based on information obtained in the investigation, a Belgrade High Court judge was arrested in July and charged with accepting bribes in exchange for influencing a criminal trial before the Supreme Court.</p>
+<p><u>Financial Disclosure</u>: The law requires income and asset disclosure by appointed or elected officials. Under the law, the ACA oversees the filing of these disclosures and verifies their completeness and accuracy. Declarations are publicly available on the ACA website and upon request. Failure to file or to disclose income and assets fully are subject to administrative and/or criminal sanctions. Disclosures cover assets of officials, spouses, and dependent children. Significant changes to assets or income must be reported annually. Officials also must file a disclosure form immediately after leaving office and must inform the ACA of any significant changes to their assets for two years after leaving office.</p>
+<p>The ACA continued to initiate administrative and criminal proceedings against several former and current government officials who failed to file or incorrectly filed asset disclosure forms. During the year it initiated 217 requests for misdemeanor proceedings; a majority of the cases were for failing to report assets. The ACA also filed 15 criminal reports, which is a formal referral of a case to the prosecutor’s office, against individuals alleged to have failed to report with an intention to hide assets.</p>
+<p><u>Public Access to Information</u>: The government has not fully implemented the access to information law and generally did not provide access to government information. The law provides for public access to information of “legitimate public importance”--with many exceptions--and establishes an independent commissioner for information of public importance, selected by parliament, to handle appeals when government agencies reject requests for information.</p>
+<p>The majority of complaints filed during the year involving access to public information referred to instances of government bodies failing to respond to freedom of information requests. While the commissioner’s staff had adequate office space, 60 percent of staff positions prescribed by law were unfilled. The number of cases in which public authorities invoked confidentiality of information without proper legal basis increased, but there were fewer cases in which public authorities qualified freedom of information requests as an abuse of the right to obtain information. The commissioner criticized ministries and state organs for not adopting by-laws to implement their legal obligations.</p>
+<p>In June the Whistleblower Protection Law, adopted by the parliament in December 2014, took effect. The government sponsored a public outreach campaign and a series of training events for judges and prosecutors who were affected by the new law.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section5"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of independent domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. While government officials generally were cooperative and responsive to their questions, the groups were subject to criticism, harassment, and threats from nongovernmental actors for expressing views critical of the government or contrary to nationalist views regarding Kosovo, the International Criminal Tribunal for the former Yugoslavia, and the wars of the 1990s.</p>
+<p><u>Government Human Rights Bodies</u>: The office of the ombudsman is responsible for identifying problems within state institutions and making recommendations on ways to remedy them. The ombudsman continued to operate branch offices in three municipalities with significant ethnic Albanian populations. Vojvodina Province had its own ombudsman, who operated independently during the year. The commissioner for the protection of equality has legal authority to bring civil lawsuits against businesses and government institutions for violations of the law.</p>
+<p>During the year ombudsman Sasa Jankovic faced personal attacks from a number of media outlets that have close ties to the dominant Serbian Progressive Party. The attacks began after he filed criminal charges against two members of the military police in January. The charges stemmed from an incident during the 2014 Belgrade pride parade in which two members of the military police, the prime minister’s brother, and the brother of the mayor of Belgrade clashed with members of a special police unit. Several high-level government officials criticized the ombudsman publicly for filing charges.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section6"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on race, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation, gender identity, age, language, or for being HIV positive or having other communicable diseases. The government did not enforce these prohibitions effectively.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, including spousal rape, is punishable by up to 40 years in prison. The government did not enforce the law effectively. Advocates believed that only a small percentage of rape victims reported their attacks because of fear of reprisal from their attackers or humiliation in court.</p>
+<p>Violence against women continued to be a problem. Domestic violence is punishable by up to 10 years’ imprisonment. The law provides women the right to obtain a restraining order against abusers. The government did not enforce the law effectively. Domestic violence cases were difficult to prosecute because of the lack of witnesses and evidence and the unwillingness of witnesses or victims to testify. While authorities generally acknowledged high levels of domestic violence, there were no reliable statistics on the extent of the problem. According to media reports, through August family violence had claimed the lives of 28 women. In August the new commissioner for protection of equality appealed to media to end sensationalist reporting on violence against women, because they tended to only report on cases that involved murder or severe violence.</p>
+<p>The few official agencies dedicated to combatting family violence had inadequate resources. There were 14 safe houses for women in operation, most operated by NGOs. In a few cases, local municipalities contributed financial support. All safe houses also accommodated the children of the women in residence. According to media reports, approximately 15 percent of women who sought refuge in safe houses returned to their abusers.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment is a crime punishable by imprisonment for up to six months in cases that do not involve abuse or a power relationship and for up to one year for abuse of a subordinate or dependent. The government did not enforce the law effectively. Public awareness of the problem remained low, and women filed few complaints during the year.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely the number, spacing, and timing of their children, manage their reproductive health, and have access to the information and means to do so, free from discrimination, coercion, and violence.</p>
+<p><u>Discrimination</u>: The law provides for the same legal status and rights for women as for men, including under family, labor, property, nationality, and inheritance laws, but the government did not always respect these laws in practice. Women experienced widespread discrimination in employment, access to credit, wages, owning or managing businesses, education, and housing (see section 7.d.).</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from one’s parents. The law on birth records provides for universal birth registration. Some Romani children were not registered at birth. Subsequent birth registration is possible but complicated (see section 2.d.). Children who are not registered do not have access to public services, such as health care.</p>
+<p><u>Education</u>: Education was free through the secondary level but compulsory only from preschool through age 15. Ethnic discrimination and economic hardship discouraged some children from attending school. In Romani and poor rural communities, girls were more likely to quit school earlier than boys.</p>
+<p><u>Child Abuse</u>: Children were often victims of family violence, and there were a growing number of reports of child victims of parental neglect. A national study on child sexual abuse found that on average four children from each classroom (the national average is 22 children per classroom) suffered from some kind of sexual violence. According to the study, only 7 percent of these cases were reported to police. Girls were victims in 83 percent of cases of sexual violence.</p>
+<p>The media reported that it was easier for authorities to act in cases of obvious physical abuse. Police usually responded to complaints, and authorities prosecuted child abuse cases during the year. Psychological and legal assistance was available for victims. Children were accommodated in safe houses for victims of family violence.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age of marriage is 18. A court can allow a minor older than 16 but younger than 18 to marry if the minor is mature enough to “enjoy the rights and fulfill the responsibilities of marriage.” While the rate of child early and forced marriage among the general population was low, it was a problem in some communities, particularly among Roma and in rural areas of the southern and eastern parts of the country. The most recent census, conducted in 2011, suggests that early marriage occurred among individuals from a variety of economic and social backgrounds. In the Romani community, boys and girls generally married between the ages of 14 and 18, with 16 as the average age. Boys generally married a few years later than girls, and some girls married as early as age 12. Nearly 44 percent of Romani girls in the 15-19 age group were married or in a long-term relationship, compared with only 19 percent of Romani men in the same age group.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits commercial sexual exploitation of children and child pornography, and the government enforced the law. However, commercial sexual exploitation and the use of children in production of pornography occurred. Evidence of these activities was limited and the extent of the problem was unknown. The minimum age for consensual sex is 14, regardless of sexual orientation or gender.</p>
+<p><u>Displaced Children</u>: According to local NGOs and media reports, an estimated 2,000 children lived on Belgrade’s streets. Most of these children were not registered at birth, and the government did not provide them any systematic support. UNHCR reported that 5,800 unaccompanied migrant or asylum seeker children (predominantly from Syria, Iraq, and Afghanistan) had transited the country by September 1. The government grants guardianship of such children to centers for social welfare, but most minors chose to transit the country with other families.</p>
+<p><u>Institutionalized Children</u>: Children in orphanages and institutions were sometimes victims of physical and emotional abuse by caretakers and guardians and of sexual abuse by peers. The law on social protection places priority on deinstitutionalization of children, including those with developmental problems, and their placement in foster families. Children with disabilities who were housed in institutions faced issues like isolation, neglect, a lack of stimulation, and were mixed with adults in the same facility.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/serbia.html">travel.state.gov/content/childabduction/english/country/serbia.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>According to the 2011 census, 787 persons declared themselves as Jewish. While the law prohibits hate speech, translations of anti-Semitic literature were available from ultranationalist groups and conservative publishers. Anti-Semitic books were widely available in bookshops. Right-wing youth groups and internet forums continued to promote anti-Semitism and used hate speech against the Jewish community.</p>
+<p>Holocaust education continued to be a part of the school curriculum at the direction of the Ministry of Education. The role of the collaborationist National Salvation government run by Milan Nedi<em>c</em> during the Nazi occupation was debated as part of the secondary school curriculum. Some commentators continued to seek to minimize and reinterpret the role of national collaborators’ movements during World War II and their role in the Holocaust. On January 27, the government organized an official commemoration of International Holocaust Remembrance Day, at which the country’s president spoke. The City of Belgrade, in cooperation with the Jewish Community of Serbia, commemorated Belgrade Holocaust Remembrance Day on May 10.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, or the provision of other state services. The government did not enforce these laws effectively. Persons with disabilities and their families suffered from stigmatization and segregation because of deeply entrenched prejudices and the lack of information. Persons with disabilities were among the most vulnerable social groups and were marginalized with little access to education, other basic services, employment, and participation in social and political life (also see section 7.d.). In December, Deputy Ombudsman for the Rights of Persons with Disabilities Vladana Jovic said that the position of persons with disabilities in Serbia remains very difficult.</p>
+<p>The law provides for all public buildings to be accessible to persons with disabilities, but public transportation and many older public buildings were not accessible. The ombudsman reported that 35,000 adults with disabilities in Serbia had lost almost all legal rights, were considered minors by the state, and could not legally work. Many children and adults with intellectual disabilities remained in institutions, sometimes restrained or isolated. An NGO reported that 93 percent of adults and 68 percent of children in institutions would die in either that or another institution.</p>
+<p>The law also prohibits physical, emotional, and verbal abuse in schools. Children with disabilities generally attended school. Depending on parents’ preferences, the children could enroll in regular or special schools. Parents found that enrolling their children with intellectual disabilities in regular schools was challenging and often chose to enroll their children in special schools. NGOs noted that children with disabilities faced discrimination in access to education and health care.</p>
+<p>The Ministry of Labor, Employment, Veterans, and Social Issues, the Ministry of Education, and the Ministry of Health had sections with responsibilities to protect persons with disabilities. The Ministry of Labor, Employment, Veterans, and Social Issues had a broad mandate to liaise with NGOs, distribute social assistance, manage residential institutions, and monitor laws to ensure protection for the rights of persons with disabilities. The Ministries of Health and Education offered assistance and protection in their respective spheres.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>On April 7, the ombudsman stated that Roma continued to be the most endangered minority in Serbia and that results achieved in improving their position in society did not remove the main obstacles to their socio-economic integration.</p>
+<p>The law requires all residents to record changes of residency. Authorities denied some displaced persons (mostly Roma, Ashkali, and Egyptians) access to government services because they lacked regular identification documents, which could be difficult to acquire if adequate paperwork was not filed at birth or if the registry books with their registration were lost during the conflicts of the 1990s. To meet the address change requirement and deregister from their original addresses, displaced persons from Kosovo were required to travel to the location of relocated civil registries from Kosovo that were held in municipalities scattered throughout the country. The law provides a special court procedure for the ex post facto establishment of time and place of birth in order to facilitate subsequent civil registration.</p>
+<p>Numerous observers noted the existence of a climate of hostility toward members of national and ethnic minorities. Discrimination with respect to employment and occupation was also reported (see section 7.d.). According to the 2011 census, members of these minorities constituted approximately 17 percent of the country’s population and included, in order of size, ethnic Hungarians, Roma, Bosniaks, Croats, Slovaks, Vlachs, Romanians, Bulgarians, Albanians, Ashkali, Egyptians, and others. According to census figures, 21 distinct ethnic groups lived in the country.</p>
+<p>Many Roma lived in informal settlements that lacked basic services, such as water, sewage facilities, access to medical care, and schools. While the educational system provided nine years of free mandatory schooling, including the year before elementary school, ethnic prejudice, cultural norms, and economic hardship prevented some Romani children, especially girls, from finishing mandatory schooling.</p>
+<p>In April, Amnesty International released a report stating that more than 100 Roma families whom the authorities had forcibly evicted from the Belvil settlement in Belgrade in 2012 had still not received adequate alternative housing despite commitments from the City of Belgrade and the allocation of European Commission funds to rectify the situation.</p>
+<p>Bodies known as national minority councils represented the country’s ethnic minority groups and had broad competency over education, media, culture, and the use of minority languages. Ethnic Albanian leaders in the southern municipalities of Presevo, Medvedja, and Bujanovac and Bosniaks in the southwestern region of Sandzak complained that they were underrepresented in state institutions at the local level. Ethnic Albanians lacked sufficient textbooks in the Albanian language for secondary education.</p>
+<p>The government took some steps to counter violence and discrimination against minorities. The stand-alone government office for Human and Minority Rights supported minority communities. Civic education classes, offered by the government as an alternative to religion courses in secondary schools, included information on minority cultures and multi-ethnic tolerance.</p>
+<p>During the year the Institute for the Improvement of the Quality of Education, with support from the OSCE Mission to Serbia, drafted standards for the mandatory teaching of Serbian as a non-mother tongue in primary and secondary schools. During the year the standards were tested and used to improve further the teaching of Serbian for all minorities in the country. The government, with support from several international organizations, continued efforts to improve the teaching of Serbian as a non-mother tongue in Albanian-language primary schools.</p>
+<p>As a part of Serbia’s 2015 chairmanship of the OSCE, a coalition of Serbian NGOs conducted an independent self-evaluation of Serbia’s implementation of its human rights commitments. The coalition concluded that the protection of the rights of individuals belonging to minority communities and the principle of voluntary self-identification have not been fully implemented. The coalition reported that segregation has been the de facto result of minority rights policies in Serbia.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits discrimination based on sexual orientation and gender identity, violence and discrimination against members of the LGBTI community were serious problems. While attacks happened often, few were reported to authorities because victims were afraid of further harassment. Members of the community were also exposed to constant threats and hate speech. In one example, on September 27, two suspected members of a violent soccer fan club attacked several LGBTI women, including activist Dragoslava Barzut, in a Belgrade cafe. The men beat the women while screaming and cursing them as “lesbians.” They injured three of the women before the police arrived. The police continued to investigate the incident, but did not identify suspects before year’s end.</p>
+<p>On May 11, the head of the parliamentary Committee on Human and Minority Rights stated that there was a need for stronger and more efficient cooperation between state institutions and NGOs working to protect the LGBTI community.</p>
+<p>LGBTI activists maintained that members of the LGBTI community did not report many violent attacks against them to police because the victims did not believe their cases would be addressed properly and wanted to avoid further victimization from police or publicity generated by their complaints. LGBTI activists also noted that the inadequate government response to violent acts against the LGBTI community encouraged perpetrators to target members of the community with death threats, assaults, and verbal abuse.</p>
+<p>On June 27, LGBTI and other human rights groups marked International LGBTI Pride Day. The commissioner for protection of equality and a number of government officials participated in the event. The event was announced in the media and there were no incidents. Participants marched among other members of the public along the central pedestrian street in downtown Belgrade. On September 20, the Belgrade Pride parade was permitted for a second year in a row.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The commissioner for protection of equality’s annual report for 2014 stated that people with HIV/AIDS suffered from discrimination in health care, work, and employment as well as from negative reactions from family and friends. NGOs reported acts of discrimination against persons with HIV/AIDS, including job loss and harassment from neighbors. NGOs and health workers reported that some medical workers discriminated against persons with HIV/AIDS.</p>
+<p>Early in the year, there were 1,956 persons living with HIV and an estimated 1,100 additional persons who did not know they were infected. The association of organizations working with HIV-infected persons stated that the mortality rate of persons with AIDS was relatively high because of a low testing rate, late diagnoses, lack of knowledge about the disease, and the stigma and discrimination experienced by individuals with HIV/AIDS.</p>
+<p>In the most recent national health survey, conducted in October-December 2013, one-third of the population between the ages of 15 and 49 showed discriminatory attitudes towards persons living with HIV, responding “no” to the question, “Would you buy fresh vegetables from a shopkeeper or vendor if you know that this person had HIV?”</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section7"> </span><span class="st_twitter" st_title="Serbia #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Serbia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252897%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the right of workers to form and join independent unions of their choice, bargain collectively, and conduct legal strikes. These rights are subject to restrictions, such as the requirement that the Ministry of Labor, Employment, Veterans, and Social Issues approve union leaders. Employers must verify that union leaders are full-time employees, which reportedly was tantamount to a requirement of employer approval. Essential- service employees constituted more than 50 percent of the workforce and faced restrictions on the right to strike. These workers must provide a 10-day advance notification of strikes, as well as a “minimum level of work” during the strike. In addition, under the law strikes can only be staged on the employers’ premises. The law prohibits discrimination on the basis of trade union membership but does not provide any specific sanctions for antiunion harassment, nor does it expressly prohibit discrimination for trade union activities. The law provides for the reinstatement of workers fired for union activity, and fired workers generally returned to work quickly.</p>
+<p>The state-affiliated Confederation of Autonomous Trade Unions of Serbia, a federation of unions formed during the country’s socialist period and supported by the Milo<em>sevic</em> regime, had more union members than did the independent labor unions in the public sector. Independent trade unions were able to organize and address management in state-owned companies on behalf of their members.</p>
+<p>The government generally enforced the labor law, but allegations of physical attacks against trade unions persisted. Both public and private sector employees freely exercised the right to strike. Violations of the labor law can incur fines of up to two million dinars ($18,400). These fines were sufficient to deter violations. The Labor Inspectorate lacked adequate staffing and equipment, which made properly enforcing the labor law challenging.</p>
+<p>The labor law protects the right to bargain collectively, and this right was effectively enforced and practiced. The law requires collective bargaining agreements for any company with more than 10 employees. In order to negotiate with an employer, however, a union must represent 15 percent of company employees. In July 2014 the government adopted amendments to the labor law allowing it to extend collective bargaining agreements to employers who are not members of the employers association or do not take part in collective bargaining. The new law stipulates that employers subject to a collective agreement must prove they employ at least 50 percent of workers in a given sector to apply for the extension of collective bargaining agreements to employers outside the agreement.</p>
+<p>Allegations of antiunion dismissals and discrimination persisted. According to the NGOs Felicitas and the Center for Democracy as well as the Labor Inspectorate of the Ministry of Labor, Employment, Veterans, and Social Issues, the most common violations of workers’ rights involved work performed without an employment contract; nonpayment of salary, overtime, and benefits; employers not following procedures in terminating employment contracts; nonpayment of obligatory pension and health contributions; employers withholding maternity leave allowances; discrimination based on gender and age; discrimination against persons with disabilities; unsafe working conditions; and general harassment.</p>
+<p>Labor NGOs have worked to increase awareness regarding workers’ rights and to improve the conditions of women, persons with disabilities, and other groups facing discrimination in employment or occupation.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits forced and compulsory labor. The law also prohibits all forms of labor trafficking and “slavery or a relationship similar to slavery.” The government enforced the law, but forced labor still occurred. Serbian nationals, particularly men, were subjected to labor trafficking in labor-intensive sectors, such as the construction industry in European countries and the United Arab Emirates. Penalties ranged from one to 15 years’ imprisonment and were sufficiently stringent compared with other serious violations.</p>
+<p>Increasing numbers of children, primarily from the Romani community, were forced to engage in commercial sexual activities, begging, theft, and other forms of labor (see section 7.c.).</p>
+<p>See also the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for employment is 15, and youths under 18 require written parental or guardian permission to work. The labor law stipulates specific working conditions for minors and limits their workweek to 35 hours, with a maximum of eight hours per day, without overtime or night work. Penalties for violations included fines of up to 1.5 million dinars ($13,800).</p>
+<p>The Labor Inspectorate of the Ministry for Labor, Employment, Veterans, and Social Issues was responsible for enforcing child labor laws. According to the inspectorate, in 2014 inspectors did not register any labor cases involving children under 15 but registered 25 cases involving employment of youths between the ages of 15 and 18 without parental permission.</p>
+<p>The government effectively enforced laws protecting children from exploitation in the industrial sector but did not prevent exploitation in informal workplaces or individual households. In villages and farming communities, underage children commonly worked in family businesses. In urban areas children, primarily Roma, worked in the informal sector as street vendors, car washers, and garbage sorters.</p>
+<p>With regard to the worst forms of child labor, traffickers subjected children to commercial sexual exploitation; used children in the production of pornography and drugs; and sometimes forced children to beg and commit crimes (see section 6, Children). Some Romani children were forced into manual labor or begging. Many of these children lived in substandard housing and did not have access to education.</p>
+<p>Resources, inspections, and remediation were not adequate to enforce the law effectively in the informal sector. The law provides penalties of three months to five years in prison for parents or guardians who force a minor to engage in begging, excessive labor, or labor incompatible with his/her age.</p>
+<p>See also the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws prohibit direct and indirect discrimination in employment and occupation on the basis of sex, birth, language, race, skin color, age, pregnancy, disabilities, health conditions, nationality, religion, marital status, family obligations, sexual orientation, political or other beliefs, social status, property status, membership in political organizations or trade unions, or other personal relations. The government enforced these laws with varying degrees of success.</p>
+<p>Discrimination in employment and occupation occurred with respect to race, sex, disability, language, sexual orientation, gender identity, ethnicity, and HIV-positive status. In 2014 labor inspectors issued 32 decisions regarding discrimination and seven decisions related to gender equality.</p>
+<p>During the year the Center for Free Elections and Democracy published research which found that citizens believed women, and Romani women in particular, were subject to the most discrimination of any group in the country. Discrimination was most frequent in hiring and employment, the study found, with the state and its institutions as the major discriminators. The law provides for equal pay, but employers frequently did not observe these provisions in practice. Women earned on average 20 percent less per month than their male counterparts, their career advancement was slower, and they were underrepresented in most professions. Women also faced discrimination related to maternity leave (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The monthly net minimum wage is approximately 21,000 dinars ($193). The relative poverty line per household is 13,680 dinars ($126) per month. According to the Republic Statistical Office, 25 percent of the country’s households were at risk of falling below the poverty line and approximately 10 percent of the population lived in poverty. The Labor Inspectorate is responsible for enforcing the minimum wage. In companies with a trade union presence, there was generally effective enforcement of the minimum wage because of monitoring by the union. Employers in smaller private companies, however, often were unwilling or unable to pay minimum wages and mandatory social benefits to all their employees, leading those companies to employ unregistered, off-the-books workers. Unregistered workers, paid in cash without social or pension contributions, did not report labor violations because they feared losing their jobs. In 2014 the Labor Inspectorate completed 52,863 labor inspections involving more than 626,000 employees and uncovered 6,757 informal employment arrangements within legal entities. Following the inspections, formalized employment contracts were granted to 4,726 workers. Informal arrangements existed most often in the trade, hotel and restaurant, construction, agriculture, and transport sectors. The most frequently reported irregularities related to contractual obligations, payment of salaries, changes to the labor contract, and overtime.</p>
+<p>The law stipulates a standard workweek of 40 hours and provides for paid leave, annual holidays, and premium pay for night and overtime hours. A worker may have up to eight hours of overtime per week and may not work more than 12 hours in one day, including overtime. One 30-minute break is required during an eight-hour workday. At least a 12-hour break is required between shifts during a workweek, and at least a 24-hour break is required over a weekend. The standard workweek and mandatory breaks were observed in state-owned enterprises but not in private companies where the government had less ability to monitor practices.</p>
+<p>The labor law requires that the premium for overtime work be at least 26 percent of the base salary, as defined by the relevant collective bargaining agreement. While trade unions within a company were the primary agents for enforcing overtime pay, the Labor Inspectorate also had enforcement responsibilities.</p>
+<p>The law requires that companies must establish a safety and security unit to monitor observance of safety and security regulations. These units often were focused on rudimentary aspects of safety (such as purchasing soap and detergents), rather than on providing safety equipment for workers. For cases in which the employer does not take action, the employee may call the Labor Inspectorate. Employers may call the Labor Inspectorate if they think that an employee’s request related to safety and health conditions is not justified. In case of a direct threat to life and health, employees have the right to take action or to remove themselves from the job or situation without responsibility for any damage it may cause the employer and without jeopardy to their employment. The government protects employees with varying degrees of success. The Labor Inspectorate employed 241 inspectors and was responsible for worker safety and health. The country had an estimated 331,269 registered businesses, meaning that one inspector must cover 1,330 businesses. In 2014 the Labor Inspectorate completed 16,698 inspections relating to safety and health, involving nearly 330,897 employees. Of this total, 1,100 inspections related to injuries in the workplace, including 21 cases in which the employees died immediately and 17 cases in which severe injuries eventually resulted in the employees’ death.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

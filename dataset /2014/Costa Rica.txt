@@ -1,0 +1,546 @@
+2014
+Costa Rica
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678"> </span><span class="st_facebook" st_title="Costa Rica" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236678">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236678</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=executive"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Costa Rica is a constitutional republic governed by a president and a unicameral legislative assembly directly elected in multi-party elections every four years. On April 6, voters elected Luis Guillermo Solis of the Citizen Action Party (PAC) during a second round of elections after no presidential candidate achieved 40 percent of the votes February 2. In legislative elections the PAC, Broad Front, and Social Christian Unity Party gained seats and formed a coalition that gave them control of the legislature. The National Liberation Party gained the largest number of seats, although the party did not achieve the required majority. All elections were generally considered free and fair. Authorities maintained effective control over the security forces.</p>
+<p>Principal human rights abuses included trafficking in persons, particularly sex trafficking of children; discrimination based on sexual orientation and gender identity; and harsh prison conditions and treatment.</p>
+<p>Other human rights concerns included rising reports of official corruption and infringements on the rights of indigenous people.</p>
+<p>The government investigated and prosecuted officials who committed abuses; however, impunity still existed.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section1"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings. In June the criminal court of Alajuela, the country’s second-largest city, acquitted 10 prison guards accused in 2011 of killing Joehl Araya Ramirez, whom prison authorities discovered dead in his maximum-security cell days after he helped lead an escape attempt that resulted in the death of a prison guard and two other inmates.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution prohibits such practices and the government generally respected this prohibition, there were reports that some government officials employed them. The government investigated, prosecuted, and punished agents responsible for confirmed cases of abuse.</p>
+<p>After receiving more than 30 complaints against prison police for beatings and mistreatment, the Supreme Court’s Constitutional Chamber ordered the Ministry of Justice to provide a written action plan to provide for proper protection of inmates at the maximum-security section of La Reforma prison. On June 7, the Supreme Court restricted the use of tear gas in La Reforma prison until surveillance cameras were installed to monitor and affirm the appropriate use of tear gas and other crowd control measures.</p>
+<p>The Ombudsman’s Office recorded 131 complaints of police abuse, arbitrary detention, torture, and other inhumane or degrading treatment during the first six months of the year. Abuse by prison police was a recurrent complaint, according to the Ombudsman’s Office. Very few of the accusers followed through and registered their complaints at police stations.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh due to overcrowding, inadequate sanitation, difficulties obtaining medical care, and violence among prisoners. Security and administrative staffing were insufficient to care for the needs of prisoners, including ensuring their personal safety.</p>
+<p><u>Physical Conditions</u>: The prison population increased and exceeded the designed capacity of prisons by 33 percent. Prison overcrowding made security and control difficult and contributed to health problems. Poor conditions included inadequate space for resting, deteriorated mattresses on the floor, and inadequate access to health services. Illegal narcotics were readily available in the prisons, and drug abuse was common.</p>
+<p>As of June 30, the Ministry of Justice’s social adaptation (prisons) division supervised a total prison population of 31,466, compared with 31,491 in August 2013. The population included 13,903 prisoners in closed-regime centers, 2,930 persons required to spend nights and weekends in prison, and 13,769 in supervised work programs requiring no prison time. There were 398 juvenile and 673 women prisoners as of June 30. Officials generally separated prisoners by age, gender, and level of security (minimum, medium, and maximum). Authorities held pretrial detainees with convicted prisoners on occasion. The Ombudsman’s Office confirmed prison conditions were the same for women and men.</p>
+<p>As of June 30, the San Sebastian, San Carlos, Cartago, Liberia, Pococi, Perez Zeledon, Puntarenas, Limon, La Reforma, Gerardo Rodriguez, San Rafael, and San Ramon prisons remained overcrowded, with the population in pretrial detention experiencing the most overcrowding. In San Sebastian, where most prisoners in pretrial detention were held, 1,084 prisoners lived in unsanitary conditions in a facility with a planned capacity of 664. On July 11, the Constitutional Chamber ordered the Ministry of Justice to reduce overcrowding and improve conditions at the medium-level security section of La Reforma prison within seven months.</p>
+<p>Potable water was available in prison facilities, and the food provided was adequate.</p>
+<p>The Ministry of Justice’s social adaptation division reported 11 deaths in closed regime centers as of June 30.</p>
+<p><u>Administration</u>: Recordkeeping was adequate. Judicial authorities used alternative measures such as semidetention, requiring individuals to spend nights and weekends in prison, and supervised work programs requiring no prison time. Prisoners had reasonable access to visitors and could practice their religions. Authorities permitted prisoners and detainees to submit complaints to authorities without censorship and request investigation of credible allegations of inhuman conditions. If complaints were not processed, prisoners could submit them to the Ombudsman’s Office, which investigated all complaints at an administrative level. The Ombudsman’s Office, through the national prevention mechanism against torture, periodically inspected all detention centers.</p>
+<p><u>Independent Monitoring</u>: The government permitted independent monitoring of prison conditions by international and local human rights observers, including representatives from the Ombudsman’s Office. Human rights observers could speak to prisoners and prison employees in confidence and without the presence of prison staff or other third parties.</p>
+<p><u>Improvements</u>: The Ministry of Justice reported maintenance and minor repairs in all of the country’s prison centers, including the construction of a sewage system at San Rafael prison and two projects to build 400 spaces for inmates at La Reforma prison and 100 spaces at Pococi prison. The Constitutional Court ordered the ministry to install comprehensive video monitoring systems to prevent abuses by guards and inmates alike. Ministry officials also undertook a comprehensive review and reform of prison visit protocol. Officials eliminated unmonitored inmate-created and controlled meeting spaces that allowed a range of abuses to occur, including sexual assaults and at least one documented rape.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The country has no military forces. Civilian authorities maintained effective control over the 13 agencies that have law enforcement components, including the judicial branch’s Judicial Investigative Organization. The Ministry of Public Security is responsible for the uniformed police force, drug control police, border police, air wing, and coast guard. The Ministry of Public Works and Transportation supervises the traffic police, the Ministry of Environment supervises park police, and the Ministry of Justice manages the penitentiary police. Several municipalities manage municipal police forces. The government has mechanisms to investigate and punish abuse and corruption. The number of licensed private security services was significantly greater than the number of police. There were no reports of impunity involving the security forces during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires issuance of judicial warrants before making arrests, except where probable cause is evident to the arresting officer. The law entitles a detainee to a judicial determination of the legality of detention during arraignment before a judge within 24 hours of arrest. The law provides for the right to post bail and prompt access to an attorney and family members. Authorities generally observed these rights. Indigent persons have access to a public attorney at government expense. Those without sufficient personal funds are also able to use the services of a public defender. With judicial authorization, authorities may hold a suspect incommunicado for 48 hours after arrest or, under special circumstances, for up to 10 days. Special circumstances include cases in which pretrial detention previously was ordered and there is reason to believe a suspect may reach an agreement with accomplices or may obstruct the investigation. Suspects were allowed access to attorneys immediately before submitting declarations. Authorities promptly informed suspects of any offenses under investigation.</p>
+<p><u>Pretrial Detention</u>: A criminal court may hold suspects in pretrial detention for up to one year, and the court of appeals may extend this period to two years in especially complex cases. The law requires a court review every three months of cases of suspects in pretrial detention to determine the appropriateness of continued detention. By law, if a judge declares a case is related to organized crime, special procedural rules require that the period of pretrial detention not exceed 24 months (although the court of appeals may grant one extension not to exceed an additional 12 months). The statute of limitations is 10 years from the date of the last crime. The Ombudsman’s Office reported that authorities frequently used pretrial detention. According to the Ministry of Justice, as of June 30, there were 2,894 persons in pretrial detention, constituting approximately 9 percent of the prison population. In some cases delays were due to pending criminal investigations. In other cases the delays were a result of court backlogs. According to the judicial branch’s statistics office, at the end of December 2013, there were 1,536 persons in pretrial detention, of whom 708 had been held for three months or less, 414 had been held for three to six months, 241 had been held for six to nine months, and 173 had been held for periods of nine months to two and one-half years. In addition, the statistics office reported that 717 convicted prisoners were in detention awaiting sentencing. In these cases delays were most frequently attributed to a pending appeal process or a verdict subject to and awaiting confirmation.</p>
+<p><u>Amnesty</u>: The president pardoned two female inmates, one July 30 and the other August 7.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the government generally respected judicial independence. The legal system faced many challenges, including significant delays in the adjudication of criminal cases and civil disputes and a growing workload. In 2013, the most recent year for which information was available, approximately 171,715 criminal complaints were filed with the judicial branch, of which 7.7 percent (13,268 cases) went to trial with a conviction rate of 66 percent, according to the statistics office of the judicial branch. Many cases filed did not have sufficient evidence to go to trial.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for the right to a fair trial, and an independent judiciary generally enforced this right.</p>
+<p>All defendants have the right to the presumption of innocence, to be informed promptly and in detail of the charges against them (with free interpretation as necessary), and to a fair and public trial without undue delay. All trials, except those that include juvenile defendants, are public. There are no jury trials. A single judge or a three-judge panel presides over trials, depending on the potential penalties arising from the charges. Trials that involve victims or witnesses who are minors are closed during the portion of the trial when the minor is called to testify. Defendants have the right to be present during trial and consult an attorney of choice in a timely manner, or to have one provided at public expense. Defendants enjoy the right to adequate time and facilities to prepare a defense. Victims can request special arrangements in the courtroom to avoid unwanted contact with defendants. The law provides detainees and attorneys access to government-held evidence, and during the trial defendants can confront adverse witnesses and present witnesses and evidence on their own behalf. Defendants have the right not to be compelled to testify or confess guilt. Defendants, if convicted, have the right to appeal. The law extends these rights to citizens and noncitizens alike. Fast-track courts, which prosecute cases when suspects are arrested on the spot for alleged transgressions, provide the same protections and rights as other courts.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>An independent and impartial judiciary presides over lawsuits in civil matters, including human rights violations. Administrative and judicial remedies for alleged wrongs are available to the public.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>As of October the legislative assembly had not complied with the Inter-American Court of Human Rights’ recommendation to pass a law regulating in vitro fertilization (IVF). A March 31 order of the court reminded the government to adopt measures to comply with the 2012 binding ruling against the country’s ban on IVF.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and there were no reports the government failed to respect these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section2"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Freedom of Speech</u>: Individuals are generally free to criticize the government openly without reprisal. The law limits hate speech in publications with regard to ethnic origin, race, or color. On July 21, a court acquitted a businessperson after a former president sued him for defamation because of a post on Facebook. The court established that public officials face a higher standard of proof when alleging defamation.</p>
+<p><u>Press Freedoms</u>: On March 21, the Constitutional Chamber of the Supreme Court banned judicial police from tracking journalists’ telephone calls after a daily newspaper filed a constitutional complaint alleging police had tapped journalists’ telephones and violated their right to protect their sources.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private communications without appropriate legal authority. The International Telecommunication Union reported that 46.7 percent of individuals used the internet and 47 percent of households had internet access in 2013. On January 23, a weekly newspaper suffered an eight-hour denial of service attack following the publication of a poll a few days before the national elections.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the freedoms of assembly and association, and the government generally respected these rights in practice.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, stateless persons, or other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The General Directorate of Immigration reported receiving 598 asylum requests during the first six months of the year. The law requires the directorate to process the claims within three months of receipt, but decisions took an average of five months. According to the UNHCR, 12,737 recognized refugees and 8,290 persons of concern to the UNHCR (persons not recognized as refugees by the government but in need of international protection) lived in the country. The majority of refugees were Colombian, but there was an increase of arrivals from El Salvador, Honduras, and Guatemala.</p>
+<p><u>Employment</u>: Refugee regulations provide asylum seekers an opportunity to obtain work permits if they have to wait beyond the three months the law allows for a decision on their asylum claim. Few asylum seekers were able to exercise this right effectively. The refugee unit failed to process claims in a timely manner or to educate employers about this right effectively. The Appeals Tribunal, which adjudicates all migration appeals, had a backlog of 700 cases that it estimated would take three years to complete. The refugee unit issued 344 temporary work authorizations for asylum seekers from January to June.</p>
+<p><u>Access to Basic Services</u>: By law asylum seekers and refugees had access to public services, but access was often hampered by lack of knowledge about their status in the country and feelings of xenophobia among some service providers in certain cases. For example, Colombian asylum seekers and refugees frequently faced discrimination when attempting to enroll children in local schools or open a bank account. The government required refugees to buy public health insurance once they receive refugee status, but refugees in some instances could not afford the fees.</p>
+<p><u>Durable Solutions</u>: The immigration office’s integration division took steps, by adopting a comprehensive 2013-23 migration policy, to promote the integration of refugees, including their integration into the labor market and education and health systems. In April the UNHCR and the Ministry of Education signed a cooperation agreement to promote local integration of refugees into the public education system and to encourage peaceful coexistence.</p>
+<p><u>Temporary Protection</u>: There were no programs for temporary protection beyond refugee status. Due to low recognition rates (approximately 7.8 percent of applicants received asylum), the UNHCR had to consider an increasing number of rejected asylum seekers as “persons of concern” in need of international protection. The UNHCR provided support and access to integration programs to individuals still pursuing adjudication and appeals.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Foreign Affairs reported the recognition of five person’s status as stateless, and there were no reports of stateless persons who were also refugees. There continued to be problems of statelessness of indigenous children and children of seasonal workers in the border areas with Panama and Nicaragua derived from the difficulties linked to birth registrations. Members of the Ngobe-Bugle indigenous group from Panama often worked on Costa Rican plantations and occasionally gave birth there. In these cases parents did not register Ngobe-Bugle children as Costa Rican citizens at birth because they did not think it necessary, although the children lacked registration in Panama as well.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section3"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: On April 6, voters elected PAC’s Luis Guillermo Solis during a second round of elections, after no presidential candidate achieved 40 percent of the first round vote February 2. Presidential and legislative elections are simultaneous. In legislative elections the National Liberation Party gained the most seats, but three parties – the PAC, Broad Front, and Social Christian Unity Party – gained enough seats in the 57-member legislative assembly to form a coalition that gave them control of the legislature. Observers considered the elections generally free and fair. The Organization of American States team that monitored the elections for the first time noted the election process included citizens voting from abroad.</p>
+<p><u>Participation of Women and Minorities</u>: Women and persons of African descent (representing approximately 2.4 percent and 7.7 percent of the population, respectively, according to the 2011 census) were represented in government, but indigenous people were not. The electoral code requires that a minimum of 50 percent of candidates for elective office be women, with their names placed alternately with men on the ballots by party slate. There were nine women among the 21 cabinet ministers. There were 19 women in the 57-seat legislative assembly, including the vice president of the assembly and the first and second secretaries, a chief of faction, and four chairpersons of legislative committees. A woman served as chief justice of the Supreme Court. Indigenous persons did not play a significant role in politics or government and remained underrepresented. There were no indigenous members in the legislative assembly. Two Afro-Caribbean women were elected as legislators. An Afro-Caribbean woman headed the Limon Port Authority, an autonomous government institution.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section4"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, and the government generally implemented the law effectively. There were numerous reports of government corruption during the year.</p>
+<p><u>Corruption</u>: During the first six months of the year, the Ministry of Public Security suspended 208 of a total of approximately 13,030 uniformed police officers. Most of the suspensions occurred due to investigations related to breach of duty, negligence in performing duties, dereliction of duty, inappropriate behavior, and misuse of resources. During the first six months of the year, authorities arrested nine uniformed police officers for involvement in criminal activity.</p>
+<p>In June President Solis declared fighting corruption his top priority as president, and he confirmed the government was investigating an unspecified number of corruption cases from the previous administration. On July 1, the minister of culture announced the Attorney General’s Office was investigating the ministry’s expenses over concerns regarding increased prices for contracts for the five previous years. On July 7, the ombudswoman resigned after she was implicated in a growing tax fraud investigation.</p>
+<p>The public ethics solicitor, attorney general, comptroller general, and ombudsman are responsible for combating government corruption. The Public Ethics Solicitor’s Office is responsible for taking the necessary administrative steps to prevent, detect, and eradicate corruption and to raise ethical and transparency standards in the public service. The Attorney General’s Office includes an anticorruption unit responsible for the investigation and prosecution of cases involving public officials. The Judicial Inspection Tribunal is the organ of the judiciary responsible for investigating and sanctioning judicial misconduct.</p>
+<p><u>Financial Disclosure</u>: Public officials are subject to financial disclosure laws that require senior officials to submit sworn declarations of income, assets, and liabilities. The law requires income and asset disclosure by appointed and elected officials. The Comptroller General’s Office monitors and verifies disclosures. The content of the declarations is not made available to the public. The law stipulates administrative sanctions for noncompliance and identifies which assets, liabilities, and interests public officials must declare. Officials are required to file a declaration annually and when they enter and leave office.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and the government generally implemented the law effectively, providing access for citizens and noncitizens, including foreign media. Authorities have 10 days to disclose or respond to a request for access. There are no processing fees or sanctions for noncompliance, although requesters can file a petition if their request is denied. Government institutions published reports that detailed their activities during the year. The Public Ethics Solicitor’s Office provided regular training to public employees on public access to information. The Ombudsman’s Office operated a webpage dedicated to enhancing transparency by improving citizens’ access to public information.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section5"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were often cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The Ombudsman’s Office reviews government action or inaction that affects citizens’ rights and interests. The ombudsman is accountable to the legislative assembly, which appoints him or her to a four-year term and funds office operations. The ombudsman participates in the drafting and approval of legislation, promotes good administration and transparency, and reports annually to the legislative assembly with nonbinding recommendations. A special committee of the legislative assembly studies and reports on problems relating to the violation of human rights, and it also reviews bills relating to human rights and international humanitarian law.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section6"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on race, sex, gender, disability, language, sexual orientation and gender identity, or social status, and the government effectively enforced these prohibitions.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape and domestic violence, and provides penalties from 10 to 18 years in prison for rape. The length of the sentence depends on the victim’s age and other factors, such as the assailant’s use of violence or position of influence over the victim. According to a local NGO, rape was underreported due to fear of retribution, further violence, social stigma, or lack of trust in the judicial system. On July 28, in an unprecedented decision, the legislative assembly removed a Supreme Court justice so he could face a criminal trial on six counts of alleged rape and one count of attempted rape.</p>
+<p>According to the National Institute of Women (INAMU), the rape law applies to spousal rape, although such cases were much more difficult to prove. The judicial branch and the social security system implemented a program for collecting physical evidence in cases of rape so that victims could receive immediate attention. The program also provided training to emergency services staff. Four locations in the country, besides the judicial forensic clinic, had rape kits to collect and analyze physical evidence for use in prosecutions. According to the judicial branch’s statistics office, there were 1,921 reported rape cases in 2013. Ultimately, courts tried 332 cases of rape, 18 cases of attempted rape, and 87 cases of aggravated rape in 2013, and they convicted and sentenced 147, 15, and 40 defendants, respectively.</p>
+<p>The government continued to identify domestic violence against women and children as a serious and growing societal problem. According to a local NGO, intrafamily and extrafamily violence was approaching “pandemic levels.” The judicial branch reported that 36 women died from gender-based violence (including 18 femicides) during 2013. In 2012 a total of 42 women and girls died from gender-based violence (including 26 femicides). The law prohibits domestic violence and provides measures for the protection of domestic violence victims. Criminal penalties range from 10 to 100 days in prison for aggravated threats and up to 35 years in prison for aggravated homicide, including a sentence of 20 to 35 years for persons who kill their partners. If a domestic violence offender has no violent criminal record and is sentenced to less than three years’ imprisonment, the law also provides for alternative sanctions, such as weekend detentions and assistance, including referrals for social services and rehabilitation. In 2013, according to the judicial branch’s statistics office, authorities opened 20,513 cases of domestic violence throughout the country. Although only 839 cases were tried and 437 persons sentenced for crimes of violence against women, including seven homicides, this represented an increase of 117 cases from those tried in 2012.</p>
+<p>INAMU assisted women and their children who were victims of domestic violence in its regional office in San Jose and in three other specialized centers and temporary shelters. INAMU maintained a domestic abuse hotline connected to the 911 emergency telephone system and provided counseling to 3,740 women and protection to 211women during the first six months of the year.</p>
+<p>The public prosecutor, police, and ombudsman have offices dedicated to addressing domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: According to INAMU the law does not prohibit FGM/C explicitly, but the criminal code stipulates a maximum sentence of 10 years for anyone convicted of inflicting wounds that cause physical and psychological damage. The practice was virtually nonexistent in the country.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment in the workplace and educational institutions, and the Ministry of Labor and Social Security generally enforced this prohibition. The law imposes penalties ranging from a letter of reprimand to dismissal, with more serious incidents subject to criminal prosecution. The Ombudsman’s Office received 113 complaints of sexual harassment in the workplace between January and June.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely and responsibly the number, spacing, and timing of children; to have the information and means to do so; and to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. The maternal mortality rate was 40 per 100,000 live births as of 2010.</p>
+<p><u>Discrimination</u>: Women enjoy the same legal status and rights as men under the law in most cases. The law prohibits discrimination against women and obligates the government to promote political, economic, social, and cultural equality. The government maintained offices for gender-related problems in most ministries. The Ministry of Labor is responsible for investigating allegations of gender discrimination. INAMU implemented programs that promoted gender equality and publicized the rights of women, including the creation of a technical standard certification to promote gender equality. In 2013 the National Institute of Statistics and Census (INEC) reported women represented 45.2 percent of the labor force. The law requires women and men receive equal pay for equal work. In 2012 INEC estimated earnings for women were 93.4 percent of earned income for men.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is obtained from birth within the country’s territory or can be derived if either parent is Costa Rican. There were occasional problems encountered in the registration at birth of children born of migrant parents (see section 2.d.). Birth registration was not always automatic, and migrant children were especially at risk of statelessness since they did not have access to legal documents to establish their identity if their parents did not seek birth registration for them.</p>
+<p><u>Child Abuse</u>: Abuse of children continued to be a problem. The autonomous National Institute for Children (PANI) reported an increase in cases of violence against children and adolescents – 7,245 cases from January to June, compared with 6,266 during the same period in 2013. According to the judicial branch’s statistics office, in 2013 authorities received 713 reports of sexual abuse of minors, and courts convicted 410 persons for the crime. There were two reports of attempted abuse of minors that resulted in one perpetrator being convicted. In addition, there were 21 cases involving sex with minors and one case of aggravated sexual corruption of minors. From January to June, PANI assisted in 4,535 cases of physical abuse, 994 cases of sexual abuse, and 1,716 cases of emotional abuse. Traditional attitudes and the inclination to treat sexual and psychological abuse as misdemeanors hampered legal proceedings against persons accused of committing crimes against children. Among the efforts to combat violence against children, during the first six months of the year, PANI implemented programs against abuse and exploitation through social media.</p>
+<p><u>Early and Forced Marriage</u>: The minimum legal age of marriage is 18, or 15 with parental consent. The 2011 national census identified 4,019 women between the ages of 15 and 19 who were married, 21,224 women between the ages of 15 and 19 living under common-law marriage, and 981 girls and adolescents between the ages of 12 and 14 living under common-law marriage. On September 24, the government launched an awareness campaign aimed at reducing adolescent pregnancy.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: According to INAMU, the law does not prohibit FGM/C explicitly, but the criminal code stipulates a maximum sentence of 10 years for anyone convicted of inflicting wounds that cause physical and psychological damage. The practice was virtually nonexistent in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum age of consensual sex is 15 years. The law criminalizes the commercial sexual exploitation of children and provides sentences of up to 16 years in prison for violations. The law provides for sentences of two to 10 years in prison for statutory rape and three to eight years in prison for child pornography. Sentences are lengthier in aggravated circumstances; for example, rape involving physical violence or a victim under the age of 13 is punishable by 10 to 16 years’ imprisonment. The government, security officials, and child advocacy organizations acknowledged that commercial sexual exploitation of children was a serious problem. From January to June, PANI reported 11 cases of commercial sexual exploitation of minors and seven cases of trafficking for commercial sexual exploitation. In 2013 the judicial branch’s statistics office reported five cases of sex with minors with payment involved. In a 2013 case of commercial sexual exploitation involving a Nicaraguan minor, the accused offender received a 27-year sentence. The government identified child sex tourism as a serious problem.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html"><u>travel.state.gov/content/childabduction/english/legal/compliance.html</u></a> as well as country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/costa-rica.html"><u>travel.state.gov/content/childabduction/english/country/costa-rica.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish Zionist Center estimated there were 3,000 Jews in the country. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits discrimination against persons with physical, sensory, intellectual, or mental disabilities in employment, education, and access to health care or other state services. Discriminatory practices were reported in access to education, employment, information, public buildings, and transportation. The National Rehabilitation and Special Education Council (CNREE) is the government body responsible for protecting the rights of persons with disabilities and for coordinating interagency efforts. The law establishes a clear right to employment for persons with disabilities, but the government did not implement it. According to the 2011 INEC survey, 54 percent of individuals with disabilities between the ages of 15 and 65 were unemployed (see section 7.d.). In August the government launched an employment strategy that included policies to favor persons with disabilities. The government implemented the “empleate plus” program, a public-private partnership to promote employment among youth with a component for persons with disabilities.</p>
+<p>From January to June, the Ombudsman’s Office reported receiving 269 complaints of discrimination against persons with disabilities, including 179 cases of restrictions on access to health services. During the first six months of 2013, the CNREE received 25 complaints for violations of the law regarding protection of equal opportunities for persons with disabilities. All 25 cases were investigated, and 23 remained under investigation as of August 2013.</p>
+<p>Although the law mandates access to buildings for persons with disabilities, the government did not enforce this provision, and many buildings remained inaccessible to persons with disabilities. Persons with disabilities did not have access to all public transportation.</p>
+<p>The CNREE also reported the education system required a comprehensive reform, especially in rural areas, to improve physical access to facilities, technical assistance and training, interagency coordination, and support services in secondary schools.</p>
+<p>Both the government policy on education and the national plan for higher education establish the right to education for students with special needs. The Ministry of Education operated a program for persons with disabilities that provided support services to students with special needs in both regular and special education systems. In 2012, the most recent year for which information available, there were 22 special education centers serving 4,286 students with disabilities. The government supported adults with disabilities through 28 attention centers.</p>
+<p>A political party, Accessibility without Exclusion, represented the interests of persons with disabilities and held one seat in the legislative assembly. The Supreme Elections Tribunal took measures (voting procedures, facilities, materials, and trained personnel) to provide for fully accessible elections for all persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Approximately 8 percent of the population is of African descent. Of this group, the greatest concentration was in the provinces of San Jose (32 percent), Alajuela (16 percent), and the Atlantic province of Limon (15 percent), according to the 2011 INEC survey. Lack of government investment in infrastructure resulted in Limon being one of the least developed areas of the country. In 2013 INEC reported that 27.1 percent of inhabitants in the Atlantic region lived in poverty. The Atlantic region had one of the highest rates of unemployment (10.8 percent in 2013) and crime (22 homicides per 100,000 inhabitants in 2012).</p>
+<p>There were sporadic reports of discrimination, including labor discrimination, usually directed against Nicaraguans (see section 7.d.).</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The Ombudsman’s Office reported land ownership continued to be a problem in most indigenous territories. Violent incidents at the Bribri Salitre reservation over a land dispute between indigenous inhabitants and nonindigenous farmers reemerged after a group of Bribri residents built shelters on a property at the edge of the reserve. On July 5, nonindigenous farmers blocked the entrance to the indigenous reserve and burned several homes of indigenous families in Salitre, forcing the indigenous residents to flee to the mountains. The government resolved the standoff through on-site mediation and negotiated a peace agreement.</p>
+<p>In 2013 the government and indigenous leaders established a permanent dialogue to address land ownership, community public policies, and development; to discuss a bill for the autonomous development of indigenous peoples; and to conduct analysis of the right to consult with indigenous peoples. Indigenous representatives initially chose not to discuss the implementation of the right of consultation but ultimately agreed to evaluate options for a consultation mechanism to allow them to review government plans for a hydroelectric project that could affect indigenous territories. The Office of the UN Resident Coordinator carried out training activities for government and indigenous leaders related to the indigenous peoples’ right to consultation.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The constitution establishes that all persons are equal before the law and no discrimination contrary to human dignity shall be practiced. Discrimination against persons based on sexual orientation and gender identity is prohibited by a series of executive orders and workplace policies but not by national laws. Transgender persons were able to change their gender on their identity documents through an administrative law judge’s decision and later registration in the Civil Registry Office. There were cases of discrimination against persons based on sexual orientation, ranging from employment, police abuse, and education to access to health care services. Lesbian, gay, bisexual, and transgender (LGBT) organizations operated freely and lobbied for legal reforms. A 2013 youth law includes a provision legalizing domestic partnership benefits only for persons between 18 and 35 years of age.</p>
+<p>On May 22, the social security system approved a regulation extending insurance benefits to same-sex couples, which includes access to public medical services and hospital visitation rights. On May 16, President Solis raised the flag of the LGBT movement at the presidential office in honor of the International Day Against Homophobia.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits discrimination based on HIV/AIDS in health care, employment, and education, discrimination occurred. From January to June, the Ombudsman’s Office reported receiving two complaints of discrimination against patients with HIV/AIDS. A local NGO reported unfriendliness of health care professionals toward HIV-positive patients and lack of enforcement of labor regulations related to HIV-positive individuals.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section7"> </span><span class="st_twitter" st_title="Costa Rica #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Costa Rica - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236678%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of workers to form and join independent unions, bargain collectively, and conduct legal strikes, and the government respected these rights. The law prohibits antiunion discrimination and provides for reinstatement of workers fired for union activity. Restrictions on the minimum number of employees (12) needed to form a union may have hampered freedom of association in small enterprises. The law permits foreign workers to join unions but prohibits them from holding positions of authority within the unions, except for foreign workers who are married to citizens of the country and have legally resided in the country for at least five years.</p>
+<p>The legislative assembly had not established the minimum number of employees in an enterprise required to support a strike for it to be legal. A 2011 Constitutional Court decision requires that the assembly establish a percentage not to exceed 50 percent. The law restricts the right to strike of workers in services designated as essential by the government, including in sectors such as oil refineries and ports that are not recognized as essential services under international standards.</p>
+<p>The law requires employers to initiate the bargaining process with a trade union if more than one-third of the total workforce, including union and nonunion members, requests collective bargaining, but the law also permits direct bargaining agreements with nonunionized workers. The law also permits the formation of “solidarity associations,” which were often organized by employers and have legal status under the constitution. The law prohibits such associations from representing workers in collective bargaining negotiations or in any other way that assumes the functions or inhibits the formation of trade unions.</p>
+<p>Although public sector employees are permitted to bargain collectively, the Supreme Court has held that some fringe benefits received by certain public employees were disproportionate and unreasonable, and it repealed sections of collective bargaining agreements between public sector unions and government agencies, thus restricting this right in practice.</p>
+<p>The government generally enforced applicable laws, although procedures were subject to lengthy delays and appeals. The law establishes administrative sanctions (fines and fees) for infractions. The amount of fines and fees was determined by the severity of the infraction and was based on the minimum wage. Penalties were not sufficient to deter violations, since cases were resolved by a labor court through a lengthy process, not by the labor inspectorate. Labor inspectors were not allowed to impose fines directly because by law it is the exclusive competence of the judiciary. Concerns about slow proceedings in cases of antiunion discrimination continued to be a problem. Cases of antiunion discrimination often took an extremely long time to reach a final court ruling due to numerous appeals. The International Trade Union Confederation noted the reinstatement process for workers who were unfairly dismissed averaged approximately two and one-half years.</p>
+<p>Freedom of association and collective bargaining were generally respected in practice. Labor unions asserted solidarity associations conducted negotiations, and employers sometimes required membership in a solidarity association as a condition for employment. Such associations, to the extent that they displaced trade unions, affected the independence of workers’ organizations from employers’ influence and infringed on the right to organize and bargain collectively. In recent years the International Labor Organization (ILO) has reported an expansion of direct bargaining agreements between employers and nonunionized workers and noted its concern that the number of collective bargaining agreements in the private sector continued to be low when compared with a high number of direct agreements with nonunionized workers. The Labor Ministry reported not receiving any complaints related to collective bargaining during the first six months of the year.</p>
+<p>There continued to be a pattern of employers firing employees who were attempting to unionize. The Ministry of Labor reported six complaints of antiunion discrimination in the first six months of the year: two complaints were accepted for settlement, three were rejected, and one was settled through conciliation. There were reports some employers also preferred to use “flexible,” or short-term, contracts, making it difficult for workers to organize and collectively bargain. Migrant workers in agriculture frequently were hired on short-term contracts (five months) through intermediaries, faced antiunion discrimination and challenges in organizing, and were often more vulnerable to labor exploitation.</p>
+<p>The ILO noted there were no trade unions operating in the country’s export-processing zones and identified the zones as a hostile environment for organizing. Labor unions asserted that efforts by workers in export-processing zones to organize were met with illegal employment termination, threats, and intimidation and that some employers maintained blacklists of workers identified as activists.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The law establishes criminal penalties for trafficking in persons, including forced labor, with sentences of between four and eight years in prison for forcing a person to perform work the law considers a “detriment to his/her fundamental human rights.” The penalty is increased to between six and 12 years if the victim is a minor or a vulnerable person, including any individual who has no alternative but to be subjected to exploitation. As of October the government was in the process of approving and publishing the implementing regulations of the new law, but violators could nonetheless be punished per its provisions. Penalties were generally sufficient to deter violations.</p>
+<p>The government failed to enforce the law effectively in responding to cases of forced labor, and there were reports that such practices occurred. In 2013 there were isolated reports of men and women subjected to forced labor in fisheries, construction, small businesses, and agricultural activities, as well as some women and girls subjected to domestic servitude (see section 7.c.). The government identified three adults and one minor as victims of forced labor in 2013.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The child and adolescence code prohibits labor of all children under the age of 15 without exceptions; it supersedes the minimum working age of 12 established in the labor code, which had not been amended to reflect this change. Adolescents between the ages of 15 and 18 may work a maximum of six hours daily and 36 hours weekly. The law prohibits night work and overtime for minors. The law prohibits children under the age of 18 from engaging in hazardous or unhealthy activities and specifies a list of hazardous occupations. The government generally enforced laws against child labor effectively in the formal sector but not in the informal sector.</p>
+<p>Child labor occurred primarily in the informal economy, especially in the agricultural, commercial, and industrial sectors. The 2011 survey on child and adolescent labor identified 47,000 working minors (representing 4.6 percent of the child population between the ages of five and 17). Of this number, 41,000 worked in trades prohibited for minors, 16,000 were children under 15, and approximately 25,000 were adolescents between the ages of 15 and 17 who worked in jobs considered dangerous. The worst forms of child labor occurred in agriculture on small third-party farms in the formal sector and on family farms in the informal sector. Forced child labor reportedly occurred in some service sectors, such as construction, fishing, street vending, and domestic service, and some children were subject to commercial sexual exploitation (see section 6, Children).</p>
+<p>While the Ministry of Labor is responsible for enforcing and taking administrative actions (fines and fees) against possible violations of, or lack of compliance with, child labor laws, the Prosecutor’s Office intervenes in cases regarding the worst forms of child labor. The amount of fines and fees was determined by the severity of the infraction and was based on an equation derived from the minimum wage. Penalties were generally sufficient to deter violations.</p>
+<p>In 2013, the latest year for which such data were available, the Ministry of Labor’s Office for the Eradication of Child Labor (OATIA) investigated 226 cases of child labor, including 70 involving children under 15 years and 156 involving children between the ages of 15 and 18 in hazardous work. In 2013 the OATIA assisted 461 working minors, of whom 349 were referred to government agencies for inclusion in social programs. The government continued to implement programming to eliminate illegal child labor and the worst forms of child labor by conducting child-labor awareness training for 316 individuals and developing projects against child labor through public-private partnerships.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor </i>at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings</u></a>/.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The laws and regulations prohibit discrimination regarding race, sex, gender, disability, language, sexual orientation and/or gender identity, HIV-positive status or other communicable diseases, or social status. The government effectively enforced these laws and regulations. The Labor Ministry reported three cases of discrimination, including one in the northern area of the country; as of October, the three cases were under investigation.</p>
+<p>Discrimination in employment and occupation occurred with respect to persons with disabilities and the LGBT population (see section 6). Discrimination against migrant workers occurred (see section 7.e.).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The wage council of the Ministry of Labor sets the minimum wage scale for the public and private sectors twice a year. Monthly minimum wages for the private sector ranged from 165,016.84 colones ($303) for domestic workers to 597,349.03 colones ($1,100) for university graduates since July 1. According to INEC, in 2013 the poverty line was 100,943 colones ($185) in urban areas and 77,401 colones ($142) in rural areas. The national minimum wage applied for both Costa Rican and migrant workers. The law sets workday hours, overtime remuneration, days of rest, and annual vacation rights. Workers generally may work a maximum of eight hours a day or 48 hours weekly. All workers are entitled to one day of rest after six consecutive days of work and annual paid vacations. The law provides that workers be paid for overtime work at a rate 50 percent above their stipulated wage or salary. Although there is no statutory prohibition against compulsory overtime, the labor code stipulates the workday may not exceed 12 hours. Law 9095 covers labor exploitation as part of antitrafficking law and imposes penalties upon employers who exploit workers in conditions that are a “detriment to [a worker’s] fundamental human rights” but which may not rise to the level of forced labor.</p>
+<p>The Ministry of Labor’s Inspection Directorate (DNI) was responsible for labor inspection, in collaboration with the Social Security Agency and the National Insurance Institute. The DNI employed 104 labor inspectors who investigated all types of labor violations. Although resource constraints continued to hinder the DNI’s ability to carry out its mandate, as of June 30, a total of 15,657 inspections were conducted. Inspectors identified 267 cases of noncompliance with labor laws, of which 143 cases were forwarded to judicial authorities. The ministry continued pursuing administrative steps for the remaining 124 employers. According to the Ministry of Labor, inspections occurred in response to complaints, per advanced scheduling, and at random in specific regions or activities.</p>
+<p>The Labor Ministry generally addressed complaints effectively by sending inspection teams to investigate and coordinate with each other on follow-up actions. Inspectors cannot fine or sanction employers who do not comply with labor laws; rather, they investigate and refer noncompliance results to labor courts. The process of fining companies or compelling employers to pay back wages or overtime could take years.</p>
+<p>The Ministry of Labor generally enforced minimum wages effectively in the San Jose area but was not as effective in enforcing the minimum wage laws in rural areas, particularly where large numbers of migrants were employed. The ministry publicly recognized that many workers, including in the formal sector, received less than the minimum wage.</p>
+<p>The government continued to implement the campaign for minimum wage compliance launched in 2010. During the first six months of the year, the Ministry of Labor conducted 8,880 visits to business establishments ( 6,920 of which were to microbusinesses and 1,607 to small businesses) to assess compliance with minimum wage laws According to the ministry, 30.6 percent of the economically active population in the nonagricultural sector was in the informal economy. On August 14, the government launched a national strategy for employment and production that aimed at expanding decent work opportunities--particularly for working mothers and persons with disabilities--and creating 217,000 formal sector jobs in four years.</p>
+<p>The government maintains a dedicated authority to enforce occupational safety and health (OSH) standards. The national council of occupational health and safety of the Labor Ministry is a tripartite regulatory authority on OSH standards and includes government, employer, and employee representation. According to labor organizations, the government did not enforce these standards effectively in either the formal or informal sectors.</p>
+<p>Observers expressed concern about exploitative working conditions in fisheries, small businesses, and agricultural activities. Unions also reported systematic violations of labor rights and provisions concerning working conditions, overtime, and wages in the export-processing zones. Labor unions reported overtime pay violations, such as nonpayment of wages and mandatory overtime, were common in the private sector and particularly in export-processing zones. There were reports agricultural workers, particularly migrant laborers in the pineapple industry, worked in unsafe conditions, including exposure to hazardous chemicals without proper training. The national insurance company reported 56,248 cases of workplace-related illnesses and injuries and 15 workplace fatalities from January to June.</p>
+<p>Workers seeking to remove themselves from situations that endangered their health or safety could not do so without jeopardy to their employment. According to the Labor Ministry, authorities would have no regulatory basis for protecting employees in this situation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

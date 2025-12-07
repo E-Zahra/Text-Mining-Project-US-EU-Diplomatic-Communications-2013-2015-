@@ -1,0 +1,523 @@
+2014
+Denmark
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518"> </span><span class="st_facebook" st_title="Denmark" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236518">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236518</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=executive"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Kingdom of Denmark is a constitutional monarchy with democratic, parliamentary rule. Queen Margrethe II is head of state. A prime minister, usually the leader of the majority party of a multi-party coalition, is head of government and presides over the cabinet, which is accountable to a unicameral parliament (Folketing). Greenland and the Faroe Islands are autonomous parts of the kingdom with similar political structures and legal rights. They manage most of their domestic affairs, while the central Danish government is responsible for foreign relations, financial affairs, internal security, and defense. National elections in 2011, which observers deemed free and fair, gave a plurality to a left-of-center coalition led by the Social Democratic Party. Authorities maintained effective control over the security forces.</p>
+<p>The country’s most significant human rights problems included authorities’ holding pretrial detainees together with convicted criminals and youth offenders with adults at times. According to human rights groups, police did not wear identification to allow victims of alleged police abuse to identify perpetrators. There continued to be instances of rape and domestic violence against women.</p>
+<p>Other human rights problems included prolonged detention of rejected asylum applicants. There continued to be occasional reports of societal discrimination against religious and ethnic minority groups and of the detention of child asylum seekers, including criticism by some human rights groups of the conditions were the children held. Some anti-Semitic vandalism occurred. The government denied asylum to a group of Ugandan lesbian, gay, bisexual, and transgender (LGBT) persons.</p>
+<p>The government took steps to prosecute officials, whether in the military or elsewhere in government, accused of committing abuses.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section1"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances or abductions.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibits such practices, and there were no reports government officials employed them.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards.</p>
+<p><u>Physical Conditions</u>: According to government statistics, in September 2013 the prison population was 4,008, approximately 97.1 percent of capacity. Women accounted for 171 prisoners, and 12 prisoners were juveniles. Women and men were held in the same institutions, but not in mixed-sex cells. According to human rights observers, authorities occasionally continued to hold pretrial detainees with convicted criminals and detained children with adults. Human rights groups continued to criticize what they deemed as authorities’ excessive use of solitary confinement. Certain human rights groups also expressed concern about overcrowding, stating that periodically exceeding maximum capacity could lead to conditions amounting to inhuman and demeaning treatment.</p>
+<p>In 2013 three prisoners committed suicide and five died of natural causes in prisons and detention centers. Prisoners had sufficient nutrition and access to potable water. Sanitation and medical care were adequate.</p>
+<p><u>Administration</u>: Recordkeeping was adequate, and authorities used alternatives to sentencing for nonviolent offenders. The parliamentary ombudsman functioned as a prison ombudsman as required.</p>
+<p>Prisoners generally had access to visitors and could attend religious observance. Prisoners were able to submit complaints without censorship directly to the Prison and Probation Service or through the parliamentary ombudsman. Authorities investigated credible allegations of inhuman conditions and recorded their investigations in a public register.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring visits by independent human rights observers, including the media. During the period February 4-13, the Council of Europe’s Committee for the Prevention of Torture (CPT) visited five police headquarters, six prisons, two establishments for the detention of minors, and the Ellebaek Institution for Asylum Seekers. The CPT’s delegation focused on the treatment of inmates in several prison establishments, as well as of juveniles held in two secure institutions for juveniles. In addition the CPT visited three psychiatric establishments with a particular focus on the use of coercive measures on patients, several police stations, and the Ellebaek Institution for Asylum Seekers. The CPT’s report, published in September, criticized the increased use of coercive measures in the psychiatric facilities. It remained seriously concerned about immobilizations, and notably immobilization lasting longer than 48 hours, which reached all-time peaks in 2012 and 2013. The CPT attributed this and other shortcomings found in the three psychiatric hospitals visited in part to low staffing levels. The CPT praised the government for the variety of structured activities for juveniles in secure institutions, including the supportive teaching approach and the physical environment.</p>
+<p>Independent observers, such as the International Committee of the Red Cross and other independent observer nongovernmental organizations (NGOs), also regularly received access to Ellebaek.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The national police maintain internal security. The military forces are responsible for external security and have some internal responsibilities during natural disasters. Police report to the Ministry for Justice, while military services report to the Ministry of Defense.</p>
+<p>Civilian authorities maintained effective control over the national police, and the government has effective mechanisms to investigate and punish abuse and corruption. The Independent Police Complaints Authority received 653 complaints about police conduct in 2013.</p>
+<p>Human rights observers expressed concern authorities could not investigate a number of complaints against police because they could not identify the officers involved. In April a police officer forced a man from his wheelchair after he yelled profanities at a group of officers. The incident was recorded and posted on YouTube, where it gained a large amount of attention. The man’s official complaint with the Independent Police Complaints Authority led to increased pressure on the Ministry for Justice for police officers to wear identity numbers. At the end of the year, the minister of justice was considering three new identification models.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law allows police to begin investigations and make arrests either on their own initiative based upon visual evidence or based on a court order following an indictment filed by public prosecutors with the courts.</p>
+<p>While the law generally mandates an individual taken into custody appear before a judge within 24 hours, authorities may hold an irregular migrant up to 72 hours before bringing him or her before a judge. The law requires police to make every effort to limit this time to less than 12 hours, but statistics on the actual time between the apprehension of prisoners and their first appearance before a judge were not available. In most cases authorities may not hold detainees for more than 72 hours while the judge determines their status, with generally no limitations to prompt access to counsel.</p>
+<p>Authorities generally respected the right of detainees to a prompt judicial determination and informed them promptly of charges against them. While there is no bail system, judges decide either to release detainees on their own recognizance or to keep them in jail until trial. A judge may authorize detention prior to trial only when authorities are charging the detainee with a violation that could result in a sentence of more than 18 months or when the judge determines the detainee would seek to impede the investigation of the case, would be a flight risk, or may commit a new offense. The standard period of pretrial custody is up to four weeks, but a court order may further extend custody in four-week increments. There were no known instances of authorities’ detaining suspects incommunicado or holding them under house arrest.</p>
+<p>Arrested persons have the right to unsupervised visits with an attorney from the time police bring them to a police station. The government provided counsel for those who could not afford legal representation. Detainees have the right to inform their next of kin of their arrest and to obtain medical treatment, and authorities generally respected these rights. Police may deny other forms of visitation, subject to a court appeal, but generally did not do so. Human rights observers expressed concern about the administrative use of solitary confinement in some cases, as well as a need to reduce the use and duration of remand custody.</p>
+<p><u>Detention of Rejected Asylum Seekers or Stateless Persons</u>: Authorities detained some applicants for asylum pending deportation. Human rights observers expressed particular concern authorities could imprison vulnerable persons, including victims of torture, mentally ill individuals, and minors pending the finalization of their cases. They noted unaccompanied minors from Afghanistan whose asylum applications had been rejected were held with criminals.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, and the government generally respected judicial independence.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and an independent judiciary generally enforced this right.</p>
+<p>Defendants enjoy the right to a presumption of innocence, prompt and detailed notification of the charges against them (with free interpretation as necessary), a fair and public trial without undue delay, a trial by jury, communication with an attorney of choice (or to have one provided at public expense), adequate time and facilities to prepare their defense, access to government-held evidence, the opportunity to confront witnesses against them and present witnesses and evidence, protection against being compelled to testify or confess guilt, and appeal against adverse judgments. The constitution and law extend these rights to all citizens and legal residents.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals and organizations may seek civil remedies in domestic courts for alleged human rights violations.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions, and there were no reports the government failed to respect these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section2"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press with some limitations on child pornography, libel, blasphemy, hate speech, expression of racism, or promoting the affairs of a terrorist organization. The government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Freedom of Speech</u>: The law prohibits any public speech or the dissemination of statements or other pronouncements that threaten, deride, or degrade a group because of race, skin color, national or ethnic background, religion, or sexual orientation. Authorities may fine or imprison offenders for up to two years. There were no trials or convictions on these grounds during the year. The law also prohibits blasphemy and provides that a person who publicly mocks or insults a legally existing religious community’s tenets of faith or worship may be fined or imprisoned for up to four months. The government has not prosecuted any cases under the blasphemy provision since 1938.</p>
+<p><u>Press Freedoms</u>: Independent media were active and expressed a wide variety of views.</p>
+<p>In July 2013 the country’s Eastern High Court found Roj TV and its associated broadcasting company, Mesopotamia Broadcasting, guilty of promoting the activities of the terrorist Kurdistan Workers Party (PKK) and of receiving support from the PKK. In February the Supreme Court revoked Roj TV’s broadcasting license.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private online communications without appropriate legal authority. Authorities continued to employ an internet filter designed to block child pornography. There were no reports of the filter’s affecting legitimate websites. According to estimates compiled by the International Telecommunication Union, 92.7 percent of households had internet access at home, and approximately 94.6 percent of the population used the internet in 2013.</p>
+<p>Under the EU’s Data Retention Directive, the government logged all internet and telephone data in the country. In June the minister of justice repealed the law on logging calls, based on the European Court of Justice’s declaration in April that the so-called logging directive was contrary to the EU Charter of Fundamental Rights and therefore invalid.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/"><u>www.state.gov/j/drl/irf/rpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. Due to the controversy over a rejection in 2013 of asylum seekers from Uganda, during the year the government passed a law formalizing the UN’s 1951 Convention relating to the Status of Refugees and its 1967 Protocol as the legal basis for granting asylum. This convention characterizes a refugee as any person who has a well-founded fear of persecution in his country of residence due to race, religion, nationality, membership in a particular social group, or support of a particular political opinion. For specific information about problems involving granting asylum to minor refugees, see section 6, Displaced Children.</p>
+<p><u>Safe Country of Origin/Transit</u>: The country employed the provisions of the EU’s Dublin III Regulation to determine the safe country of origin and transit of asylum seekers, and immigration authorities questioned asylum seekers individually to determine their identity, situation, and route. Authorities did not consider certain countries within the EU to be safe countries for processing, and in those cases, the Immigration Service processed the asylum seekers in Denmark.</p>
+<p><u>Refoulement</u>: In July the ECHR ruled in government’s favor regarding the 2010 deportation of a Palestinian man to Syria, where he was subsequently arrested and subjected to treatment the court deemed torture. The Supreme Court convicted the man of drug trafficking in 2006, and the government expelled him from the country in 2010 upon the exhaustion of his appeals. The ECHR believed “there were no substantial grounds” for the government to believe the man would be mistreated in Syria.</p>
+<p><u>Employment</u>: If an asylum seeker is over 18 and meets certain conditions, he or she can apply to the immigration service to approve an offer of employment until he or she is granted a residence permit in the country, leaves the country, or is deported. An asylum seeker may be employed in any ordinary full- or part-time, paid or unpaid job without public subsidy. The asylum seeker may not run his or her own business.</p>
+<p><u>Access to Basic Services</u>: If an asylum seeker is married to a person legally residing in the country, the asylum seeker’s spouse is required to support him or her.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>According to UNHCR statistics, 4,263 stateless persons were in the country at the beginning of the year. Citizenship is based primarily on the citizenship of one’s parents. Stateless persons born outside the country to noncitizens, including refugees, are not eligible to acquire citizenship but may acquire residency permits. Certain persons born in the country to noncitizens may also acquire citizenship by virtue of UN conventions to which the country is a signatory. The same UN conventions require authorities to grant citizenship to otherwise stateless persons born in the country, and certain persons born in the country to noncitizens may acquire citizenship on that basis. This is not an automatic process, and in most cases, individuals must apply for citizenship before their 21st birthday.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section3"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+<p>Greenland and the Faroe Islands have democratically elected governments whose powers encompass all matters except foreign and national security affairs, police services, and monetary matters. Greenlanders and Faroese have the same rights throughout the kingdom as other citizens. Each elects two representatives to the Danish parliament.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: Free and fair parliamentary elections took place in 2011. There were no reports of abuses or irregularities. The Faroe Islands held parliamentary elections in 2011, and Greenland did so on November 28; these elections were also determined to be free and fair. On May 25, the country held free and fair elections for seats in the European Parliament.</p>
+<p><u>Participation of Women and Minorities</u>: As of July, 70 women were members of the 179-seat parliament and eight of the 20-seat cabinet, including the prime minister.</p>
+<p>In the 2011 elections, citizens elected four individuals other than Danish, Greenlandic, or Faroese origin to the parliament. There was one member of an ethnic minority in the cabinet.</p>
+<p>Until late September, when her government resigned pending new elections on November 28, a female premier headed the Greenlandic cabinet, which was composed of two female members and seven male members. As of December 4, a new coalition government was not formed. Following the elections on November 28, 14 of the 31 members of the Greenlandic parliament were women. The Faroese parliament had 10 women among its 33 members. There was one woman in the seven-person Faroese cabinet.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section4"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, and the government generally implemented the law effectively. There were no reports of government corruption in Denmark during the year. In Greenland allegations of corruption forced the resignation of the premier in September (over alleged use of government funds for her family’s travel overseas). Several other cabinet and party leaders also resigned at the same time. An investigation into the allegations started.</p>
+<p><u>Corruption</u>: The ministry for justice and the state employer’s authority in the ministry of finance are responsible for combating government corruption, primarily by investigating purported cases. They collaborated actively with civil society, operated effectively and independently, and had sufficient resources.</p>
+<p><u>Financial Disclosure</u>: Public officials are not subject to financial disclosure laws, but government officials may not work on specific matters in which they, or someone they represent or have close relations with, have any personal or economic interest. Officials must inform their superiors of any possible conflicts of interest that might disqualify them.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and the government effectively implemented the law and granted access to citizens and noncitizens, including foreign media. The law provides for an appeals process. The law exempts from freedom of information requests documents involving advice provided to ministers by civil servants.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section5"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials often were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: A parliamentary ombudsman investigated complaints regarding national and local public authorities and any decisions they made regarding the treatment of citizens and their cases. At his initiative the ombudsman can independently inspect prisons, detention centers, and psychiatric hospitals. An ombudsman for European matters oversaw compliance with EU basic rights, a consumers’ ombudsman investigated complaints related to discriminatory marketing, and two royal ombudsmen represented the state in the Faroe Islands and Greenland. These ombudsmen enjoyed the government’s cooperation, operated without government or political interference, had adequate resources, and were considered effective.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section6"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law prohibit discrimination based on race, sex, gender, disability, language, sexual orientation, gender identity, or social status, and the government effectively enforced these prohibitions.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and domestic violence. During the year parliament adopted a law criminalizing rape of victims in a helpless state due to physical or mental illness, drugs, alcohol, or unconsciousness that had previously received milder punishment than other forms of rape. The new law also abolished the practice of granting immunity or reduced sentences in cases of spousal rape.</p>
+<p>Penalties for rape include imprisonment for up to 12 years, depending on the seriousness of the offense. The government effectively prosecuted persons accused of rape. In 2013 authorities received reports of 339 rapes, compared with 364 in 2012. In 2013 courts handed down 57 convictions for rape and 575 convictions for other sexual offenses.</p>
+<p>Violence against women, including spousal abuse, remained a problem. The government and NGOs operated 24-hour hotlines, counseling centers, and shelters for female victims of violence. The royal family supported a variety of NGOs that worked to improve conditions and services at shelters and to help families afflicted with domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits any procedure or attempted procedure that involves removing any parts of the female external sex organs. During the year there were no reports the procedure was performed in the country.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment and provides that authorities may order a perpetrator or an employer who allowed or failed to prevent an incident of harassment to pay monetary compensation to victims. The government enforced the law effectively. Few cases were officially reported during the year, and they were generally handled through the employee unions, which function as semigovernmental institutions.</p>
+<p><u>Reproductive Rights</u>: The government recognized the basic right of couples and individuals to decide freely and responsibly the number, spacing, and timing of their children; to obtain the information and means to do so; and to attain the highest standard of reproductive health, free from discrimination, coercion, and violence.</p>
+<p><u>Discrimination</u>: Women have the same legal status and rights as men, and the law requires equal pay for equal work. There was little reported discrimination in employment, pay, ownership, and management of businesses, or access to credit, education, or housing. The law requires the 1,100 largest companies to establish targets for the participation of women on their boards, develop specific plans for recruiting women, and describe their actions to promote women’s participation in annual reports that explain when any targets were not met.</p>
+<p>The government’s standing gender equality committee has a wide focus, including increasing the proportion of women on boards and problems related to paternity leave, human trafficking, prostitution, and violence against women.</p>
+<p>During the year gender-quota legislation was enacted in Greenland, which requires boards of government-owned companies to have at least 50 percent female membership. This led to numerous changes in board structures.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Most children acquire citizenship from their parents. Stateless persons and certain persons born in the country to noncitizens may acquire citizenship by naturalization, provided, in most cases, they apply for citizenship before their 21st birthday. The law requires that medical practitioners promptly register the births of children they deliver, and they generally did so.</p>
+<p><u>Child Abuse</u>: In 2013 authorities prosecuted 144 allegations of sexual abuse of children who were 12 years and under, and 263 allegations involving children 13 years to 15 years old. In 2013 courts handed down 54 convictions with imprisonment in child abuse cases involving children under the age of 12 and 18 convictions involving children 13 years to 15 years old. The national police and public prosecutors actively investigated child abuse cases.</p>
+<p><u>Early and Forced Marriage</u>: The legal age for marriage is 18 years. Very few boys or girls married before reaching 18 years.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits any procedure or attempted procedure that involves removing any parts of the female external sex organs. No statistics provided the extent, type, and category of FGM/C in the country. The law provides for removal of the child from the family and suspension of parental custody in cases of FGM/C. Guidelines exist for various professionals on how to act when they come across a girl who has been subjected to or is at risk of FGM/C.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits the commercial sexual exploitation of children and child pornography. The government generally enforced these laws. The minimum age of consensual sexual activity is 15 years. The purchase of sexual services from a person under the age of 18 is illegal.</p>
+<p><u>Displaced Children</u>: The Council of Europe’s commissioner for human rights visited the country in November 2013. In his subsequent report, released on March 24, he emphasized his concern regarding the rights of displaced children. According to the report, considerations relating to immigration control too often had primacy over the best interests of the child. Of particular concern was the impact of living in asylum centers for indefinite periods of time and the protocol regarding unaccompanied minor immigrants. Various NGOs echoed these sentiments and also highlighted the necessity of determining a clear legal status, including residence status, for unaccompanied minor asylum seekers who were deemed too immature to undergo asylum case processing but could not be granted a residence permit as an unaccompanied minor.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see <a href="http://travel.state.gov/content/childabduction/english/country/denmark.html"><u>travel.state.gov/content/childabduction/english/country/denmark.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The NGO Jewish Community in Denmark estimated the Jewish population at between 6,000 and 8,000.</p>
+<p>There was some controversy in the Jewish community regarding a law to ban ritual animal slaughter without stunning the animal beforehand; previously, an exception for kosher and halal slaughter had existed. Although the country’s Jews import kosher meat from other countries, community leaders believed the law could have detrimental effects for Jews throughout Europe and could ostracize the country’s Jewish community. Similar controversy arose regarding discussions on prohibiting male circumcision in the country. Although Jewish community leaders did not believe either of these regulations was motivated by anti-Semitism, they objected to the regulations’ potential infringement on their customary religious practices.</p>
+<p>In 2013, according to a February document issued by the Jewish Community in Denmark, there were 43 anti-Semitic incidents in the country, compared with 41 incidents registered in 2012. The number of assaults decreased from eight in 2012 to four in 2013, and the number of vandalism instances decreased from eight to five. Anti-Semitic verbal assaults rose from 17 to 31 and comprised almost 75 percent of the aggregate number of incidents registered in 2013. On August 19, hundreds of demonstrators marched in a predominantly Muslim neighborhood of Copenhagen to protest a rise in anti-Semitism.</p>
+<p>There was a marked increase in anti-Semitic incidents during the Israel-Gaza conflict, peaking with 25 incidents reported by the Jewish Community in July in a total of 34 from January to October. Administrators at a private Jewish school in Copenhagen asked parents to make sure their children did not wear religious symbols on or near school grounds to ensure their safety. Shortly after, the school was a target of anti-Semitic vandalism. The Anti-Defamation League reported on August 21 vandals broke the windows of a Jewish school in Copenhagen and spray-painted the building with epithets.</p>
+<p>According to victims’ reports, perpetrators of anti-Semitic incidents were mainly immigrants, often from Arab and other Muslim countries. In one instance, school officials in a predominantly Muslim-immigrant community recommended Jewish parents not send their children to schools in that community due to potential safety problems. In another, the imam of Aarhus’s mosque, Abu Bilal Ismail, prayed for the death of Jews in an appearance at a mosque in Germany. Neo-Nazis also reportedly perpetrated a few incidents. The newspaper <i>Berlingske</i> reported the incidents had motivated the Copenhagen City Council’s deputy mayor for Integration to call an interfaith meeting to focus on the problem, inviting the Muslim Community, the Muslim Council, and the Jewish Community of Denmark, which in turn led to a call for a national action plan to address the situation.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a><u>.</u></p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in a number of areas including employment, education, air travel and other transportation, access to health care, and other government services. It also mandates access by persons with disabilities to government buildings, education, information, and communications. The government generally enforced these provisions. The Danish Institute of Human Rights (DIHR) reported discrimination enforcement legislation was well established for the workplace (see also section 7.d.) but less so in other areas, such as public transportation and educational facilities. Antidiscrimination legislation provides for compensation for persons with disabilities but does not provide for total inclusion of such persons outside the workplace.</p>
+<p>According to the DIHR, although building legislation sets out accessibility requirements, new buildings often were not accessible for persons with disabilities. Furthermore, the accessibility requirements focused primarily only on accessibility for those with physical disabilities. While the National Board of Health and Welfare operated an online network with technology to assist persons with disabilities, the DIHR noted a study by the Danish Agency for Digitization found 34 percent of public sector websites were not as accessible as they should be.</p>
+<p>Children with disabilities attended school. The right of persons with disabilities to vote or participate in civic affairs was generally not restricted, but some persons with disabilities reported problems in connection with public elections, including ballots that were not accessible to blind persons or persons with learning disabilities. The country maintains a system of guardianship for persons considered incapable of managing their own affairs due to psychosocial or intellectual disabilities; persons under guardianship are automatically deprived of their right to vote.</p>
+<p>The parliamentary ombudsman monitored the treatment of persons with disabilities and issued opinions regarding complaints of disability discrimination.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>According to the Security and Intelligence Service, authorities recorded 320 hate crimes in 2012, the latest data available. The service categorized 77 of these as racially motivated, 36 as politically motivated, 33 as sexually motivated, and 33 as religiously motivated. Police categorized the remaining 141 offenses as related to extremism or as unspecified hate crimes. The government effectively investigated hate crimes and prosecuted the perpetrators.</p>
+<p>The board of equal treatment handled 36 complaints of ethnic discrimination in 2013 including access to employment, apartment rental, and the services of private businesses as well as bullying in public schools (also see section 7.d.). Complaints included discrimination against minorities and reverse discrimination against ethnic Danes.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The law protects the rights of the indigenous Inuit inhabitants of Greenland, whose legal system seeks to accommodate their traditions. Through their elected government, they participate in decisions affecting their lands, culture, and traditions and the exploitation of energy, minerals, and other natural resources. The law provides for the use of laypersons as judges and the sentencing of most convicted persons to holding centers (rather than prisons), where they are encouraged to work, hunt, or fish during the day. Authorities throughout the kingdom effectively protected Inuit civil, political, and economic rights, including the right to nondiscriminatory treatment in employment, education, housing, and other services.</p>
+<p>In 2013 the DIHR and the Greenlandic Council for Human Rights established cooperative mechanisms to evaluate human rights conditions in Greenland. On May 15, as part of this agreement they published an extensive report concerning Greenland’s human rights situation, including recommendations for improvements. Additional reports are to be published biennially, with meetings between the two organizations occurring every two years.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons based on sexual orientation and gender identity. Any person who makes a statement or imparts other information that threatens, scorns, or degrades a group of persons because of their sexual orientation is liable to a fine or to imprisonment for not more than two years. If a person is found guilty of a crime the motive of which was the sexual orientation of the victim, the judge must consider that motive to be an aggravating factor when determining the sentence.</p>
+<p>Human rights observers alleged the government denied asylum to some LGBT asylum seekers from Uganda who claimed to be at risk of persecution in their home country due to their sexual orientation. The government declared the denial was based on the merits of the asylum petition without considering sexual orientation as a factor; the individuals whose asylum was denied did not present any evidence of prior persecution in their home countries as a result of their LGBT status but claimed potential future persecution.</p>
+<p>According to the latest available data reported by the security and intelligence service, 33 of the 320 hate crimes recorded in the country in 2012 were “sexually oriented,” although a number were unrelated to sexual orientation or gender identity. Authorities actively investigated and punished those complicit in abuses.</p>
+<p>On September 1, a law came into force that allows transgender persons to obtain official documents reflecting their gender identity without requiring a diagnosis for a mental disorder or undergoing surgery. Previously, transgender persons could change their legal gender only after undergoing medical treatments, including irreversible sterilization and hormone treatments, or after a psychiatric diagnosis of “transsexualism.”</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section7"> </span><span class="st_twitter" st_title="Denmark #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Denmark - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236518%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law states all workers may form or join independent unions of their choosing without previous authorization or excessive requirements. The law provides for the right to collective bargaining and to legal strikes but does not provide nonresident, foreign workers on Danish ships the right to bargain collectively. It allows unions to conduct their activities without interference and prohibits antiunion discrimination. Workers fired for union activities can take the employer to court and receive reinstatement or a cash settlement on a case-by-case basis.</p>
+<p>These laws were effectively enforced. Resources, inspections, and remediation including supporting regulations were adequate. Penalties for violations include fines from 10,000 kronor ($1,700) to 160,000 kronor ($27,000) and imprisonment of up to one year. Penalties were sufficient to deter violations. Lengthy judicial delays and appeals did not seriously hamper enforcement. Employers and the government generally respected freedom of association and the right to collective bargaining. Worker organizations operated independent of the government and political parties. Annual collective bargaining agreements covered members of the workforce associated with unions and indirectly affected the wages and working conditions of nonunion employees. Authorities and employers respected the right to conduct union activities without interference.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, including by children, and the government effectively enforced this prohibition. The law prescribes sanctions of up to 10 years’ imprisonment and was generally sufficient to deter violations. The government’s <i>National Action Plan on Trafficking in Persons</i>, covering the period 2011-14, focuses on persons trafficked for sexual exploitation but also provides for continued investigation of possible trafficking for forced labor in other sectors. In 2013 the government identified 11 victims of forced labor, primarily in construction and cleaning. In February the government prosecuted three persons who were accused of keeping nine Romanians imprisoned in a garage in North Zealand for six years and forcing them to work as cleaners for up to 20 hours a day. The government also trained tax inspectors and trade union officials to identify forced labor.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum legal age for full-time employment is 15 years. The law sets a minimum age of 13 years for part-time employment and limits school-age children to less strenuous tasks. The law limits work hours and sets occupational health and safety restrictions for children, and the government effectively enforced these laws.</p>
+<p>There were no reported instances of unlawful child labor. The law prohibits the exploitation of children in the workplace, and the government, via the Danish Working Environment Authority (DWEA), enforced this prohibition. Information regarding resources, investigations, and remediation efforts, was not available because there were no reported instances of unlawful child labor. Penalties are determined based upon the size of the company and the seriousness of the violation and range from fines between 40,000 to 80,000 kronor ($6,700 to $13,000) and two years’ imprisonment.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws prohibited employment discrimination with respect to race, sex, gender, disability, language, sexual orientation and/or gender identity, HIV-positive status or other communicable diseases, or social status. The government generally enforced these laws. Discrimination in employment and occupation occurred with respect to ethnicity (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The law does not mandate a national minimum wage, and unions and employer associations negotiate minimum wages in collective bargaining agreements. The average minimum wage for all private and public sector collective bargaining agreements was 110 kronor ($18) per hour, exclusive of pension benefits. The law requires equal pay for equal work; migrant workers are entitled to the same minimum wages and working conditions as other workers.</p>
+<p>Workers generally worked a 37.5-hour week established by contract rather than law. Workers received premium pay for overtime, and there was no compulsory overtime. Working hours were determined by collective bargaining agreements adhering to the EU directive that an average workweek not exceed 48 hours. These agreements also provide workers at least five weeks’ paid vacation per year.</p>
+<p>The law prescribes conditions of work, including safety and health standards, and authorities enforced compliance with labor legislation.</p>
+<p>The DWEA effectively enforced labor health and safety standards in all sectors, including enforcement of limiting the hours worked per week. As of July the DWEA inspected 17,571 workplaces and issued 15,927 improvement notices. The DWEA has the authority to report violations to the police or the courts if an employer fails to make required improvements by the deadline. Court decisions regarding violations are released to the public and show past fines of 2,500 kronor ($420) to 40,000 kronor ($6,700) imposed against noncompliant companies or court-ordered reinstatement of employment. Greenland and the Faroe Islands have similar work conditions, except in both cases collective bargaining agreements set the standard workweeks at 40 hours.</p>
+<p>As of July the DWEA recorded 20,777 workplace accidents that resulted in 20 fatalities. Workers can remove themselves from situations they believe endanger their health or safety without jeopardy to their employment, and authorities effectively protected employees in these situations. The same laws protect legal immigrants and foreign workers and apply equally to both categories of workers.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

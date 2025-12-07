@@ -1,0 +1,492 @@
+2015
+Germany
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851"> </span><span class="st_facebook" st_title="Germany" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252851">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252851</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=executive"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Germany is a constitutional democracy. Citizens choose their representatives periodically in free and fair multiparty elections. The lower chamber of the federal parliament (Bundestag) elects the head of the federal government, the chancellor. The second legislative chamber, the Federal Council (Bundesrat), represents the 16 states at the federal level and is composed of members of the state governments. Observers considered the 2013 national elections for the Bundestag to have been free and fair. Civilian authorities maintained effective control over security forces.</p>
+<p>The country faced the arrival of approximately one million migrants and asylum seekers during the year, and government and civil society responded by allocating additional resources and staff to care for, register, and integrate new arrivals. Receiving five times the 2014 number of arrivals, however, strained existing structures and policies designed to accommodate migrants and asylum seekers and exacerbated tensions within society.</p>
+<p>Right-wing extremism and xenophobia continued to be the most significant human rights problems. Perpetrators attacked ethnic non-Germans on a number of occasions, including arson attacks on government-run housing for refugees and asylum seekers. Some police committed human rights abuses against migrants and refugees in their custody. A series of anti-immigrant protests aimed particularly at Muslim refugees and migrants took place during the year, and some turned violent. Continuing manifestations of anti-Semitism, including several anti-Semitic incidents and many instances of anti-Semitic behavior, were another serious source of concern. Authorities attributed the incidents to adherents of the extreme right as well as to some Muslims.</p>
+<p>There were a number of other human rights problems. Authorities continued to prolong the incarceration of certain categories of offenders after they completed their sentences, asserting they remained a threat to society. The government limited the freedoms of speech, press, assembly, and association of neo-Nazi and other groups deemed extremist or threats to the constitution. Emergency accommodations for migrants and asylum seekers became overcrowded, and authorities reduced their cash benefits and increased employment restrictions on asylum seekers from safe countries of origin. There were reports of discrimination at the federal and state levels against some religious minorities, notably Scientologists, members of Jehovah’s Witnesses, and Muslims. There were also reports of gender-based violence, including against refugees and migrants, and trafficking of men, women, and children for sexual exploitation and labor. Societal violence and discrimination because of sexual orientation persisted, as did some societal discrimination against persons with HIV/AIDS. There were instances of societal violence against Muslims and immigrants.</p>
+<p>The government took steps to prosecute and punish officials in the security services and elsewhere in government who committed abuses.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section1"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such practices, and there were few reports that government officials employed them.</p>
+<p>There were instances of abuse by police of migrants and refugees in their custody. For example, on May 15, the Hannover Public Prosecutor Office opened an investigation of an officer of the Federal Police Inspectorate at the Hannover main train station who allegedly mistreated two migrants from Afghanistan and Morocco while they were in custody at the city’s police station. The accused officers allegedly beat and choked the two handcuffed men, forced one to eat rotten pork off the floor, and later boasted about the incidents on social media. In August authorities expanded their investigations to include four officers who may have been involved in a separate incident of beating a man and knocking out one of his teeth.</p>
+<p>In the reports on its 2010 and 2013 visits to the country, the Council of Europe’s Committee for the Prevention of Torture (CPT) criticized the use of voluntary surgical castration as a means of treatment of sex offenders, stating that it was a mutilating, irreversible intervention whose application to detained sex offenders “could be considered as amounting to degrading treatment.” Authorities reported that the use of the procedure had declined in use; the most recent data showed they approved two of the eight applications they received in 2010-12. Authorities also said detained sex offenders voluntarily applied to a commission of experts for the procedure. If an application was approved, a separate expert reviewed the consent given by each offender.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards.</p>
+<p><u>Physical Conditions</u>: Statistics on the prevalence of death in prisons and pretrial detention centers were not available.</p>
+<p><u>Administration</u>: Authorities investigated credible allegations of inhuman conditions. There was no ombudsman for prisons or prisoner affairs.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring by independent nongovernmental observers.</p>
+<p><u>Improvements</u>: On January 1, justice ministers of the states doubled the staff of the Federal Agency for the Prevention of Torture from four to eight. A law enacted in North Rhine-Westphalia included additional provisions for the social rehabilitation of prisoners in preparation for their release.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>Police forces of the 16 states and two federal law enforcement agencies, the Federal Criminal Police Office (BKA) and the Federal Police, maintain internal security, including border security. The states’ police forces report to their respective interior ministries; the federal police forces report to the Federal Ministry of the Interior. The Federal Office for the Protection of the Constitution (FOPC) and the state offices for the protection of the constitution (OPCs) are responsible for gathering intelligence on threats to domestic order and certain other security functions. Like police, the OPCs report to their respective state ministries of the interior. Civilian authorities maintained effective control over police and the OPCs, and the government has effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving the security forces during the year.</p>
+<p>In September, Cologne’s police chief dissolved the city’s special forces unit and suspended 15 of its members. The Cologne prosecutor’s office was investigating 10 of the suspended members for abusive initiation practices and five other former special forces personnel for misusing a police helicopter to take private photographs.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Authorities may arrest an individual only with a warrant issued by a competent judicial authority unless police apprehend a suspect in the act of committing a crime or have strong reason to believe that the individual intends to commit a crime. The constitution provides that authorities must bring a suspect they have apprehended before a judge no later than the day after taking him into custody. At that time the judge must inform the suspect of the reasons for detention and provide an opportunity for objections. The court must then either issue an arrest warrant stating the grounds for detention or order the individual’s release. Authorities generally respected these rights. The law entitles a detainee to prompt access to an attorney at any time, including prior to any police questioning. According to the law, before interrogations begin authorities must inform suspects, arrested or not, of their right to consult an attorney.</p>
+<p>Bail exists, but authorities granted it infrequently. They usually released individuals awaiting trial without requiring bail, except in cases where a court decided there was a clear risk that the individual might flee. In such cases authorities can hold detainees for the duration of the investigation and subsequent trial, subject to judicial review. Time spent in investigative custody applies toward any eventual sentence. If a court acquits a defendant whom authorities have incarcerated, the government must compensate the defendant for financial losses as well as for “moral prejudice” due to the incarceration.</p>
+<p>While the law does not allow courts to punish persons twice for the same crime, a court may order that an offender convicted of rape, homicide, or manslaughter spend additional time in “subsequent preventive detention” after completion of the sentence if it determines that the offender suffered from a mental disorder or would, upon completion of the served term, represent a continuing serious danger to the public and commit severe, violent, sexual criminal offenses. The law permits the imposition of such detention for an indefinite period, subject to periodic reviews.</p>
+<p>Because the law does not regard such detention as punishment, authorities are legally required to keep subsequent prevention detainees in separate buildings or at least in special sections of prisons, and to provide better conditions than in prison. Authorities must also provide a range of social and psychological therapy programs. In their response to CPT criticism following its 2013 visit, authorities reported they were implementing such programs, including antiviolence programs, social training, and group therapy. Courts monitored the situation of such detainees. At the end of March, according to the Federal Statistics Office, prisons held 521 offenders, including one woman, in subsequent preventive detention.</p>
+<p>To comply with past court rulings on preventive detention, states implemented measures such as providing separate facilities and therapy arrangements. Some states (such as Bremen, Saarland, and Brandenburg) made cooperative arrangements with other states to accommodate such detainees and meet the requirements of the law.</p>
+<p><u>Protracted Detention of Rejected Asylum Seekers or Stateless Persons</u>: Authorities in the various states continued the practice of detaining rejected asylum seekers awaiting deportation, sometimes for protracted periods. The nongovernmental organization (NGO) Pro Asyl continued to express concern that accommodations, especially for women, were inadequate.</p>
+<p>In June 2014 the Federal Court of Justice ruled that authorities may detain asylum seekers awaiting deportation to a country within the EU under Dublin procedures only if there was evidence they might abscond. Court rulings required authorities to move refugees awaiting deportation from prisons to separate, special facilities with less strict security measures. As of October only five states had separate facilities, although some states shared facilities. Under amended asylum law, authorities may return migrants who are from safe countries of origin or who are not eligible for asylum without giving prior notice.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the government generally respected judicial independence.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair and public trial without undue delay, and an independent judiciary generally enforced this right. Defendants enjoy a presumption of innocence, have the right to be informed promptly and in detail of the charges (with free interpretation as necessary), and have the right to adequate time and facilities to prepare a defense. Juries are not used. A single judge, a panel of professional judges, or a mixed panel of professional and nonprofessional judges may try a case, depending on the severity of the charges. The law requires that defendants be present at their trials. Defendants have the right to consult with an attorney, and the government provides an attorney at public expense if defendants demonstrate financial need. Defendants and their attorneys have access to all court-held evidence relevant to their cases. Defendants may confront and question adverse witnesses and present witnesses and evidence on their behalf, and are not compelled to testify or confess guilt. Defendants have a right of appeal. These rights extend to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens could file complaints about violations of their human rights with petition committees and commissioners for citizens’ affairs. Citizens usually referred to these points of contact as “ombudsmen.” Additionally, an independent and impartial judiciary in civil matters provides access to a court to bring lawsuits seeking damages for, or cessation of, a human rights violation. Persons who exhaust domestic legal remedies can appeal cases involving alleged violations by the government of the European Convention on Human Rights to the European Court of Human Rights.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and there were no reports that the government failed to respect these prohibitions.</p>
+<p>Law enforcement officials may monitor the telecommunications of suspects only in investigations of certain serious crimes, including crimes that could endanger the free democratic order or existence of the state. In most instances when they do so, they must obtain court approval. In intelligence-related cases, such as suspected involvement in terrorism, intelligence services may engage in surveillance activities without court approval. In such cases an independent commission elected by a parliamentary control committee must approve the surveillance.</p>
+<p>The federal and state OPCs continued to monitor political groupings deemed potentially hostile to the constitution, including the Left Party and the right-wing extremist National Democratic Party. Authorities stated they employed monitoring as a last resort requiring approval by state or federal interior ministries and review by state or federal parliamentary intelligence committees. Authorities indicated that they monitored the Left Party because they considered it tolerated left-extremist groups within its ranks.</p>
+<p>All OPC activities are challengeable in court, including ultimately in the Federal Constitutional Court. Following a Constitutional Court ruling, the government indicated in 2014 that the FOPC would no longer observe Bundestag members.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section2"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press. The law bans Nazi propaganda, Holocaust denial, and fomenting racial hatred.</p>
+<p><u>Freedom of Speech and Expression</u>: While the government generally respected these rights, it imposed limits aimed at groups it deemed extremist. The government arrested, tried, convicted, and imprisoned a number of individuals for speech that incited racial hatred, endorsed Nazism, or denied the Holocaust (see also section 6, Anti-Semitism).</p>
+<p><u>Press and Media Freedoms</u>: The independent media were active and expressed a wide variety of views with few restrictions; however, there were limitations on press freedoms similar to those on speech.</p>
+<p><u>Violence and Harassment</u>: There were some incidents of intimidation by perpetrators thought to be either Islamic or neo-Nazi extremists. For example, on January 11, unknown perpetrators threw incendiary devices at the offices of the <i>Hamburger Morgenpost</i> newspaper; no one was injured. The newspaper had that day reprinted five cartoons of Mohammed from the French satirical newspaper <i>Charlie Hebdo</i>, after terrorists attacked the newspaper’s Paris office on January 7. In March, Hamburg police detained and later released nine suspects but made no charges.</p>
+<p>On March 9, a group of masked individuals threw stones at a journalist from Dortmund, North Rhine-Westphalia, injuring him after he covered a neo-Nazi rally. Neo-Nazis had previously threatened the journalist by posting fake obituaries about him and other journalists online in February. Although Dortmund police began an investigation, the prosecutor closed the case in July for lack of suspects.</p>
+<p><u>National Security</u>: Free press advocates, including the minister of justice and opposition members of the Bundestag, criticized the intelligence services and Prosecutor General’s Office for being too harsh on journalists suspected of sharing classified material. In an investigation of two persons from the blog <i>netzpolitik for possible</i> treason for publishing classified government documents used to criticize domestic intelligence monitoring of social networks, the prosecutor general said on August 3 that some of the documents were state secrets, but that the minister of justice ordered him to suspend the investigation. On August 4, the minister asked the prosecutor general to retire. On August 10, the Office of the Federal Prosecutor closed the investigation. It concluded that the published documents did not qualify as state secrets, a prerequisite for treason charges, and that there was no proof of intent. On August 19, the Bundestag’s Legal Affairs Committee held a closed hearing on the case.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. The government has the authority to take down websites that belong to banned organizations or include speech that incites racial hatred, endorses Nazism, or denies the Holocaust. Authorities worked directly with internet service providers and online media companies to monitor and sometimes remove such content. According to the International Telecommunication Union, 86 percent of the country’s population used the internet in 2014.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were some government restrictions on academic freedom and cultural events supporting extreme right-wing neo-Nazism.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly, and the government generally respected this right. Groups seeking to hold open-air public rallies and marches must obtain permits, and state and local officials may deny permits when public safety concerns arise or the applicant is one of certain prohibited organizations, mainly right-wing extremist groups. In rare instances during the year, authorities denied applications to assemble publicly.</p>
+<p>Authorities allowed several right-wing extremist or neo-Nazi groups to hold public rallies or marches when they did so in accordance with the law and the groups were not prohibited organizations.</p>
+<p>It is illegal to block an officially registered demonstration, including demonstrations organized by neo-Nazi groups. Many anti-Nazi activists refused to accept such restrictions and attempted to block neo-Nazi demonstrations or to hold counterdemonstrations, resulting in clashes between police and anti-Nazi demonstrators.</p>
+<p>Police detained known or suspected activists, primarily right- or left-wing extremists, when they believed such individuals intended to participate in illegal or unauthorized demonstrations. The length of detention varied from state to state.</p>
+<p>On September 11, the Constitutional Court upheld a lower court’s denial of a protest permit to right-wing group that planned to march against refugees on September 12 in Hamburg. The lower court based its denial on the expectation that violence would break out. When right-wing protesters attempted to travel to Bremen to protest there instead, they clashed with left-wing protesters at Hamburg’s main train station. Police closed Hamburg’s main railroad station for several hours and detained more than 30 neo-Nazis for provoking and clashing with left-wing demonstrators but later released them.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of association, and the government generally respected this right. The law permits authorities to prohibit organizations whose activities the Constitutional Court or federal or state governments determine to be opposed to the constitutional democratic order or otherwise illegal. While only the Federal Constitutional Court may prohibit political parties on these grounds, both federal and state governments may prohibit or restrict other organizations, including groups that authorities classify as extremist or criminal in nature. Organizations have the right to appeal such prohibitions or restrictions.</p>
+<p>The federal and state OPCs monitored several hundred organizations. Monitoring generally consisted of collecting information from written materials and firsthand accounts but also included intrusive methods, such as the use of undercover agents who were subject to legal oversight. The FOPC and state OPCs published lists of monitored organizations, including left-wing political parties. Although the law stipulates that surveillance must not interfere with an organization’s activities, representatives of monitored groups complained that the publication of the organizations’ names contributed to prejudice against them. In a number of cases, authorities banned organizations and raided their premises. Authorities stated they took such actions if there was evidence the groups or persons were incompatible with or caused a threat to the country’s democratic order.</p>
+<p>On March 26, the Federal Ministry of the Interior banned Tauhid Germany, a militant jihadist Islamist group, including its internet sites and information outlets known as Team Tauhid Media, on the grounds that it was a successor organization to Millatu Ibrahim, an organization the ministry banned in 2012.</p>
+<p>On August 5, 41 neo-Nazis and sympathizers (among them Martin Wiese, who in 2003 was convicted for a planned attack on the site of the new Munich synagogue) filed suit against the Bavarian Interior Ministry’s July 2014 ban against the state’s largest neo-Nazi organization, Free Network of the South (Freies Netz Sued), an umbrella network of 20 groups with approximately 150 members. Bavaria’s interior minister stated that material confiscated during a 2013 raid of 70 locations showed that the organization was aggressive and opposed to the constitution and that the network was a continuation of the activity of the Frankish Action Front organization, which authorities banned in 2004. The Bavarian Administrative Court opened proceedings on October 13.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>During the year many countries in the EU and Southeast Europe experienced an unprecedented wave of migration from the Middle East, Africa, and Asia, consisting of a mix of asylum seekers/potential refugees, economic migrants, and trafficking victims, among others. For simplicity, this report will refer to these populations as “migrants and asylum seekers” if more specific information is not available.</p>
+<p><u>Access to Asylum</u>: Laws provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. In the first 11 months of the year, 964,000 migrants and asylum seekers arrived in the country, more than four times the number in 2014. Federal, state, and local authorities registered almost all new arrivals under existing laws and regulations, although some states did not have enough personnel and facilities to register and accommodate each day’s arrivals on the same day. NGOs and civil society organizations in all states provided additional support for new arrivals, including accommodation, meals, transportation, childcare, and medical and psychological care.</p>
+<p><u>Safe Country of Origin/Transit</u>: The country is a party to the EU’s Dublin III regulation, which permits authorities to turn back or deport individuals who attempt to enter the country through a “safe country of transit,” i.e., a member state of the EU, excluding Greece, or a country adhering to the 1951 Convention relating to the Status of Refugees. In August, as the flow of migrants and asylum seekers increased sharply, the Federal Office for Migration and Refugees, citing humanitarian grounds, issued a new guideline that suspended application of the Dublin procedure to Syrians. Some cases already in progress were completed. The Interior Ministry stated there was no blanket denial of asylum to applicants from safe countries of origin or transit, and all have an opportunity to appeal. Such an appeal, however, would not prevent authorities from returning applicants to their country of origin or transit before a court rules on the appeal. During the year authorities returned 131 Syrians to other EU countries under Dublin procedures.</p>
+<p>The Federal Interior Ministry continued its existing policy of excluding Greece as a safe country to which it could return migrants and asylum seekers, citing systemic failures in Greece’s asylum system.</p>
+<p>In October the Bundestag passed legislation to expand the list of safe countries to include Albania, Montenegro, and Kosovo, stating that these countries’ governments do not persecute persons for political reasons. Consequently, authorities rarely approved applications for asylum by persons from these countries. In making this decision, the Bundestag cited the reforms those countries had made as part of their efforts to become candidates for EU membership. Some NGOs criticized the decision, asserting that the Sinti and Romani populations continued to face social discrimination in these countries.</p>
+<p><u>Refoulement</u>: Reports continued that authorities deported Roma and others to Kosovo, and human rights organizations questioned whether an agreement with Kosovo provided adequate safeguards for failed asylum seekers whom authorities deported. The federal government considered the security situation for returnees in Kosovo, including for members of the Romani minority, to be stable.</p>
+<p>In September a group of 40 Roma from the Balkans, mostly children, started a protest in Hamburg against the city’s order to deport them. A spokesperson for the group stated they were seeking asylum because they would face persecution and racial discrimination in their home countries.</p>
+<p><u>Refugee Abuse</u>: Some human rights organizations continued to criticize the “fast procedure” at the Frankfurt Airport. Using this procedure the Federal Office for Migration and Refugees reaches a decision on asylum applications within two days and detains applicants at the airport for this period. An applicant could appeal a denial of asylum, and authorities of would make a final decision within two weeks, while the applicant remained in detention at the airport. If authorities denied the appeal, they deported the applicant. Authorities maintained that they applied this procedure only to persons coming from safe countries of origin. The NGO Pro Asyl stated the number of asylum seekers rejected under the fast procedure was relatively low and the vast majority of asylum seekers entered the country and filed their applications from inside the country.</p>
+<p>Although initial statistics were preliminary, instances of assault, including arson and hate-speech graffiti, on asylum seekers and attacks on state-provided asylum homes increased throughout the country. Some resulted in severe injuries and complete destruction of asylum homes. The BKA’s figures for the year showed that authorities registered 1,005 offenses committed at refugee and asylum shelters or directly aimed at the shelters, compared to 199 incidents in 2014. Authorities categorized 901 of these as politically motivated offenses with a clear right-wing motivation (compared to 177 in 2014). The total number included 173 violent offenses (there were 28 in 2014). The BKA described 92 of these incidents as arson against both occupied and uninhabited asylum homes in several states (compared to six in 2014). The interior minister stated there were no signs of coordinated, organized structures behind these attacks.</p>
+<p>On September 4, assailants set an asylum shelter in Heppenheim, Hesse, on fire. Several refugees suffered from smoke inhalation, and one person sustained severe injuries when he jumped to safety from a window. Police were investigating, but arrested no suspects as of December 10.</p>
+<p>In June a Hamburg state parliamentary inquiry reported that Hamburg authorities conducted medical exams on the genitals and breasts of young, unaccompanied migrants to determine their age, a practice that the Hamburg Medical Chamber described as not medically justifiable. Hamburg authorities stated the exams were voluntary, but that if asylum seekers refused to participate, they were categorized as adults.</p>
+<p><u>Employment</u>: After being in the country for three months, asylum seekers may work or start apprenticeships and job training programs. During the first 15 months, however, employers must give priority to a citizen of an EU member state. Other hurdles to employment remained, such as long review times for recognition of previous qualifications, lack of language skills and certificates, and employers’ uncertainty about asylum seekers’ likelihood of staying in the country. Legislation passed in October blocks employment for asylum seekers from safe countries of origin.</p>
+<p><u>Access to Basic Services</u>: Because standard apartment or dormitory housing was insufficient for the number of asylum seekers and refugees arriving during the year, state and local officials housed large groups of them, often on cots, in temporary emergency accommodations across the country, including gymnasiums, indoor stadiums, former schools and office complexes, large tents, and container-sized shelters. State and local authorities, the armed forces, and NGOs such as the German Red Cross provided tent housing for new arrivals. Lack of standard housing options, however, led states to continue housing asylum seekers in temporary shelters such as tents, sometimes for several months. In October the Bundestag expanded the legal provision that gave preference to payment in kind over cash to provide for the needs of asylum seekers, not only during their arrival and registration but also, for those whose asylum applications were denied, pending their deportation. Observers questioned new restrictions on employment and cash benefits for refugees and asylum seekers and depicted emergency accommodations as overcrowded. In July, two asylum seekers from Syria attempted suicide at a refugee shelter in Duisburg, citing crowded living quarters with no privacy.</p>
+<p>Under legislation passed in October, authorities no longer housed unaccompanied minors in urban centers but instead began to distribute them among the 16 federal states according to predetermined formulas, as they did other refugees and asylum seekers. NGOs criticized this move, saying that state and local authorities were not prepared to provide unaccompanied minors with the required schooling, counseling, and housing separate from adults.</p>
+<p>NGOs criticized medical care for asylum seekers, which was free only in cases of acute illness or pain. Some local communities and private groups initiated additional health-care projects. Authorities responded to reported outbreaks of disease, such as scabies, in some housing shelters. A few states provided medical insurance cards.</p>
+<p><u>Durable Solutions</u>: The government accepted for resettlement refugees who fled to countries other than their countries of origin and facilitated local integration (including naturalization), particularly of refuges in protracted situations. The government assisted the safe, voluntary return of refugees to their homes. In coordination with UNHCR, authorities granted residence permits to long-term refugees with no prospects of returning to their home countries.</p>
+<p><u>Temporary Protection</u>: The government also provided protection to individuals who did not qualify as refugees. In the first 11 months of the year, the government extended subsidiary protection to approximately 1,507 persons and humanitarian protection to an estimated 1,878 others.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>UNHCR reported 11,917 stateless persons in the country in 2014. The country’s authorities, who used somewhat different criteria, estimated that as of September there were 14,000 stateless persons, who claimed to have been in the country for an average of 23 years. Many of these persons lost their previous citizenship when the Soviet Union collapsed and Yugoslavia disintegrated.</p>
+<p>The government generally implemented laws and policies to provide stateless persons the opportunity to gain citizenship on a nondiscriminatory basis. Refugees and stateless persons may apply for citizenship after six years’ residence, but producing sufficient evidence to establish statelessness could be difficult, since the burden of proof is on the applicant. Authorities generally protected stateless persons from deportation to their country of origin or usual residence if they faced a threat of political persecution there.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section3"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution provides citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised that right.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2013 the country held parliamentary elections that observers considered free and fair.</p>
+<p><u>Political Parties and Political Participation</u>: Political parties generally operated without restriction or outside interference unless authorities deemed them a threat to the federal constitution. When federal authorities perceive such a threat, they can petition the Federal Constitutional Court to ban the party. The court banned two parties in the 1950s.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section4"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, and the government generally implemented the law effectively. There were some reports of government corruption.</p>
+<p><u>Corruption</u>: In July the Cottbus Administrative Court sentenced a manager to three years’ imprisonment for corruption and bribery. He had awarded a contract for installing water pipes at the Berlin-Brandenburg Airport in exchange for restaurant meals, hotel stays, and building supplies for his own house. Two other managers involved received suspended sentences.</p>
+<p><u>Financial Disclosure</u>: Members of state and federal parliaments are subject to financial disclosure laws that require them to publish their earnings from outside employment. They must disclose outside regular employment and earnings greater than 1,000 euros ($1,100) in a month in 10 different income categories, with the highest category being for income above 250,000 euros ($275,000) per month. Disclosures are available to the public via the Bundestag website and in the <i>Official Handbook of the Bundestag</i>. Sanctions for noncompliance can range from an administrative fine to as much as one-half of a parliamentarian’s annual salary. Appointed officials are subject to the public disclosure rules for civil servants, who must disclose outside activity and earnings. If the remuneration exceeds certain limits, which vary by grade, the civil servant must transfer the excess to the employing agency.</p>
+<p><u>Public Access to Information</u>: Federal law provides for public access to government information, but there are numerous exceptions, and fees for records searches could be as much as 500 euros ($550), payable in advance. Of the 16 federal states, 11 also have freedom-of-information laws. There is an appeals process.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section5"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials often were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: A wide range of government bodies and NGOs worked to protect human rights. The Bundestag has a Committee for Human Rights and Humanitarian Aid as well as a Petitions Committee. The latter fields a variety of complaints from the public, including human rights concerns. The German Institute for Human Rights has responsibility for monitoring the country’s implementation of its international human rights commitments, including human rights treaties and conventions. The Federal Antidiscrimination Agency (FADA) is a semi-independent body that studies discrimination and supports victims of discrimination. The Office of the Federal Commissioner for Persons with Disabilities has specific responsibility for protecting the rights of persons with disabilities. A commissioner of human rights within the Justice Ministry oversees implementation of decisions by the courts, whose rulings continue to refine human rights protections.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section6"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and laws prohibit discrimination, including in employment, based on sex, parentage, race, language, country of origin, faith, religious and political opinion, disability, sexual orientation and gender identity, age, and social status. Authorities compiled a strong enforcement record in most of these areas but acknowledged that they needed to do more in some areas, such as enforcement of laws prohibiting discrimination against persons with disabilities.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and provides penalties of up to 15 years in prison. The government devoted considerable personnel and financial resources to this problem, but authorities believed that violence against women was widespread. The Federal Ministry of Family Affairs, Senior Citizens, Women, and Youth reported in 2013 that approximately35 percent of women in the country had at some time experienced physical or sexual violence, but that 85 percent of these women did not seek external assistance. Government data for 2014 indicated that police identified the perpetrators in 82 percent of cases reported to them, but courts convicted only approximately 12 percent of identified perpetrators due to a lack of required evidence. NGOs and the Green Party criticized the courts’ evidentiary standards as too stringent.</p>
+<p>Media reported a number of incidents of rape involving the many recent migrants and refugees. Some observers cited the disproportionate number of men in some of the refugee shelters, cramped living conditions, and lack of privacy, as contributing to the problem.</p>
+<p>The federal government, the federal states, and NGOs supported numerous projects to deal with gender-based violence, both to prevent it and to give victims greater access to medical care and legal assistance.</p>
+<p>Officials may temporarily deny abusers access to the household without a court order, put them under a restraining order, or in severe cases, prosecute them for assault or rape, and require them to pay damages. Penalties depend on the nature of the case. The government enforced the law.</p>
+<p>In 2014 approximately 350 women’s shelters were operational. According to the NGO Central Information Agency of Autonomous Women’s Homes, approximately 17,000 to 20,000 women, plus their children, used the shelters annually. The ministry’s national 24-hour hotline had a staff of 60 persons who provided counseling to affected women in 15 languages. In 2014 the hotline was contacted 49,411 times and provided 25,346 counseling sessions. Many NGOs at the local level also provided hotlines, assistance, advice, and shelter.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: FGM/C of women and girls is a criminal offense punishable by one to 15 years in prison. FGM/C affected segments of the immigrant population and their German-born children, although official statistics were limited. Immigration law includes provisions requiring authorities to consider FGM/C in reviewing immigration and asylum applications.</p>
+<p><u>Other Harmful Traditional Practices</u>: Forced marriages are illegal, invalid, and punishable by up to five years’ imprisonment. There were no reliable statistics on the number of forced marriages. Evidence indicated that the problem was more prevalent in the immigrant Muslim community than in the general population. Forced marriages reportedly often led to violence. Victims included women and, in some cases men, whose families arranged for them to acquire spouses from abroad. Some families also sent women to other countries to marry against their will.</p>
+<p>The law criminalizes “honor killings,” as it does any form of murder, and provides penalties that include life in prison. The government enforced the law effectively.</p>
+<p>On December 1, the Darmstadt State Court sentenced Pakistani parents to life in prison for killing their 19-year-old Pakistani-German daughter in Darmstadt to “restore their honor” after they learned she had had premarital sex with her boyfriend.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment of women was a recognized problem. The law prohibits it and requires employers to protect employees from it. A variety of disciplinary measures against harassment in the workplace were available, including dismissal of the perpetrator. The law considers an employer’s failure to take measures to protect employees from sexual harassment to be a breach of contract, and an affected employee has the right to paid leave until the employer rectifies the problem. A 2014 FADA study found that 49 percent of woman experienced sexual harassment at work. Unions, churches, government agencies, and NGOs operated a variety of support programs for women who experienced sexual harassment and sponsored seminars and training to prevent it.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and have access to the information and means to do so, free from discrimination, coercion, or violence.</p>
+<p><u>Discrimination</u>: Men and women enjoy the same legal status and rights under the constitution, including in family, labor, property, nationality, and inheritance laws. The law provides for equal pay for equal work. Women were underrepresented in highly paid managerial positions and overrepresented in some lower-wage occupations (see section 7.d.).</p>
+<p>In August 2014 the German Institute for Economic Research published a study indicating that women’s per capita gross income, including income from property, interest, and investments, was 49 percent that of men.</p>
+<p>In 2014 women occupied 5 percent of the positions on the management boards and 18 percent of positions on supervisory boards in the country’s top 200 companies. In March the Bundestag enacted legislation to introduce a gender quota of 30 percent for supervisory boards of certain publicly traded corporations. The law also requires approximately 3,500 companies to set and publish self-determined targets for increasing the share of women in leading positions (executive boards and management) by 2017, and to report on their performance.</p>
+<p>In July 2014 a study by the Federal Statistics Office showed that from 2002 to 2012 the share of female professors in higher education institutions had almost doubled, to 20 percent. Slightly more than half of university graduates in 2012 were women.</p>
+<p>No statistics on discrimination against women’s access to credit or housing were available, but there were reports of single mothers with children having problems renting apartments.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: In most cases persons derive citizenship from their parents, but the law also allows citizenship based on birth in the country if one parent has been a resident for at least eight years or has had a permanent residence permit for at least three years. Parents or guardians have the responsibility to apply for registration for newborn children. Once officials received registration applications, they generally processed them expeditiously. Parents who fail to register their child’s birth may be subject to a fine.</p>
+<p><u>Child Abuse</u>: There were incidents of child abuse. According to BKA statistics, police identified the perpetrators in 85.6 percent of cases of sexual abuse. The Federal Ministry for Family, Seniors, Women, and Youth sponsored a number of programs throughout the year on the prevention of child abuse. The ministry sought to create networks among parents, youth services, schools, pediatricians, and courts and to support existing programs at the state and local level. Other programs provided therapy and support for adult and youth victims of sexual abuse. The Early Help program created and expanded networks to support first-time parents facing social and economic challenges.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age for marriage is 18. Forced marriages are invalid and illegal--punishable by a prison sentence of up to five years. There were no reliable statistics on the number of forced or early marriages.</p>
+<p><u>Female Genital Mutilation/Cutting</u>: See information for girls younger than 18 in the section on women above.</p>
+<p><u>Sexual Exploitation of Children</u>: The penalty for rape--up to 15 years in prison--also applies to the rape of children. Consensual sex is legal from the age of 14 in most cases. There is an exception if the older partner is older than 18 and is “exploiting a coercive situation” or offering compensation and the younger partner is under 16. It is also illegal for someone older than 21 to have sex with someone under the age of 16 if the older person “exploits the victim’s lack of capacity for sexual self-determination.”</p>
+<p>Possession of child pornography is a criminal offense. By law possession of, or attempts to acquire, any material reflecting a true or realistic incident of child pornography is punishable by imprisonment for three months to five years. According to criminal statistics published by the BKA, in 2014 there were 2,535cases involving the distribution of child pornography and 3,982cases of ownership and procurement of child pornography.</p>
+<p><u>Displaced Children</u>: There were no reliable statistics on the number of street children. Some observers indicated that there were several thousand, but authorities contended that such estimates were inflated and not a true representation of the often temporary status of homeless children. Authorities believed these children were frequently fleeing violent and abusive homes. Street children often turned to prostitution for income.</p>
+<p>According to estimates by Off Road Kids, an NGO active in street social work in major cities, there were up to 2,500 runaways in the country. More than 300 of these children were between the ages of 12 and 18 and lived on the streets.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/en/country/germany.html">travel.state.gov/content/childabduction/en/country/germany.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Observers estimated the country’s Jewish population to be between 100,000 and 250,000. Deficiencies in Holocaust education continued. Manifestations of anti-Semitism, including physical and verbal attacks, occurred at public demonstrations, sporting and social events, and in certain media. Apart from anti-Semitic speech, desecration of cemeteries and Holocaust monuments represented the most widespread anti-Semitic acts. Observers attributed most anti-Semitic acts to neo-Nazi or other right-wing extremist groups or persons. Observers also noted an increase of anti-Semitic attitudes among some Muslim youth.</p>
+<p>In May, Interior Minister Thomas de Maiziere stated that anti-Semitic offenses rose 25 percent in 2014 to 1,596 following a decline in 2013. The minister indicated the rise was partially due to new reporting methods that more closely tracked the motivation of perpetrators, but he described the rise as “worrying.”</p>
+<p>The annual FOPC report reported that the number of right-wing and violent anti-Semitic incidents declined to 31 in 2014 compared with 45 in 2013. It noted that membership in skinhead and neo-Nazi groups remained steady at approximately 6,000. Federal prosecutors brought charges against suspects and maintained permanent security measures around many synagogues.</p>
+<p>On February 5, the Wuppertal Local Court placed three Palestinians on probation and gave two of them suspended 18-month sentences for attempted aggravated arson. They threw Molotov cocktails at the main synagogue in Wuppertal. Their actions caused 800 euros ($880) in damage, although the devices failed to ignite.</p>
+<p>Anti-Semitic speech and actions increased in the first 11 months of the year. Police investigated the incidents to determine if they violated bans on anti-Semitic speech and acts but sometimes terminated investigations without bringing charges because of lack of evidence.</p>
+<p>On January 31, the Essen District Court sentenced an anti-Semitic agitator to three months in prison and fined him 200 euros ($220) for his role in inciting violent behavior among approximately 1,000 anti-Israel and pro-Israel demonstrators in July 2014. State prosecutors discontinued investigation of 45 of 49 cases stemming from the demonstrations for lack of sufficient photographic evidence.</p>
+<p>More events than in previous years took place across the country to mark the day of remembrance for victims of Nazism, since the year was the 70th anniversary of the liberation of many concentration camps. On January 27, Federal President Gauck spoke at the Bundestag’s annual special session on the anniversary of the liberation of the Auschwitz death camp to pay tribute to those who were killed under the Nazi dictatorship.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical or mental disabilities in employment, education, access to health care, and the provision of other federal government services, including access to air travel and other transportation. The relevant law makes no specific mention of persons with sensory or intellectual disabilities, but these are considered to be subsumed under the other headings. The extent to which the government effectively enforced these provisions remained debatable among NGOs, and the government expressed interest in learning about ways to enhance enforcement of its antidiscrimination laws.</p>
+<p>Persons with disabilities faced particular difficulties finding housing. The country’s approximately 500,000 children with disabilities attended school. Some persons with disabilities attended special schools, which officials contended were often better equipped to take care of such students. Some observers asserted that these institutions prevented the full integration of children with disabilities into the professional world and society as a whole. These were reports of discrimination in labor and employment against persons with disabilities (see section 7.d.).</p>
+<p>The federal states continued efforts to improve access to public buildings and transportation and to integrate students with disabilities into regular schools, including by upgrading buildings, equipment, and staff. Progress varied from region to region.</p>
+<p>By law the federal government must provide barrier-free access to communications, especially access to administrative internet sites and official forms and notifications, but compliance was incomplete. Authorities continued efforts to improve barrier-free access to public transportation; stations and vehicles in cities were accessible, but access in rural areas was difficult.</p>
+<p>Pursuant to an agreement between German Railways (Deutsche Bahn) and the Federal Ministry for Labor and Social Affairs, persons with disabilities who meet certain requirements may ride all regional trains within the country free of charge. Some railway stations are not fully accessible, and for assistance the railways offered a mobility service, which travelers with disabilities travelers could request in advance for boarding, transferring, and disembarking.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Beatings and harassment of foreigners and members of racial minorities remained a problem throughout the country. Hostility increased and focused on the increasing number of refugees and asylum seekers from the Middle East and Africa and against government leaders for adopting policies perceived by critics as being too welcoming. Other protesters continued to target their activities toward Muslims, Africans, and other racial and ethnic minorities already in the country.</p>
+<p>The annual FOPC report covering 2014 described 512 of the 900 violent “politically motivated crimes” with “right-wing extremist backgrounds” (i.e., offenses related to the victims’ ideology, nationality, ethnicity, race, skin color, religion, worldview, ancestry, sexual orientation, disability status, parents, or social status ) as xenophobic.</p>
+<p>The movement known as Patriotic Europeans against the Islamization of the Occident (PEGIDA) held weekly demonstrations in Dresden, Saxony, calling for curbs on immigration and an end to political asylum. The generally peaceful demonstrations attracted 5,000-25,000 protesters and exhibited a wide variety of sentiments against Muslims, immigrants, political leaders, and Western countries. PEGIDA was less active in other cities. Counterdemonstrators from political parties, churches, NGOs, and union groups called for tolerance they outnumbered PEGIDA demonstrators everywhere except Dresden.</p>
+<p>Other right-wing extremist groups, smaller than PEGIDA, held protests and counterprotests in several towns and cities across the country, and some of these led to violent encounters with left-wing counterdemonstrators. For example, on August 21-23, violence broke out when approximately 1,000 persons attended rallies organized by the right-wing extremist National Democratic Party of Germany protesting against a shelter housing 600 asylum seekers in Heidenau, Saxony (population 16,000). There were no arrests.</p>
+<p>Persons of foreign origin faced particular difficulties finding housing. FADA reported cases of landlords denying rental apartments to persons not of ethnic-German origin, particularly of Turkish and African origin, saying that the neighborhood’s population was majority ethnic German.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The antidiscrimination law prohibits discrimination based on sexual orientation and gender identity. When registering the birth of a child, parents may check a blank box for the gender of an intersex child.</p>
+<p>There were no official statistics on mistreatment of lesbian, gay, bisexual, transgender, and intersex (LGBTI) persons; the availability of NGO reports on the incidence of such mistreatment varied widely in different parts of the country, although some quantitative data was available for cities with large populations of LGBTI persons. In 2014 there were 259 assaults in Berlin motivated by bias against LGTBI persons, according to the NGO Maneo. They included one killing, 64 incidents involving physical assault or attempted assault, and 74 cases of theft. Transgender persons were targets of 21 assaults.</p>
+<p>On July 11, unknown attackers physically assaulted a same-sex couple following Munich’s gay pride celebration. The victims criticized police publicly for insisting on testing the victims’ alcohol limit rather than pursuing the attackers. Police promised to provide clarifying information but did not do so, nor did they identify any suspects.</p>
+<p>Hostility toward LGBTI orientation remained, particularly among immigrants from developing countries. On March 12, a father and two male accomplices were fined 1,350 euros ($1,490) each for kidnapping his teenage son and attempting to take him to Turkey for a forced marriage in 2012. According to the son’s statements, his family had harassed, tortured, and almost killed him when he told them he was gay.</p>
+<p>In July 2014, in response to a parliamentary inquiry, the federal government stated that enforcement authorities as well as medical licensing agencies and associations would have to initiate a professional conduct review of any person who offered therapies intended to harm a person, such as attempting to change his or her sexual orientation.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The NGO German AIDS Foundation (Deutsche Aids Stiftung) noted that societal discrimination against persons with HIV/AIDS ranged from isolation and negative comments from acquaintances, family, and friends to bullying at work and denial of service at medical facilities (see section 7.d.). A domestic AIDS service NGO criticized authorities in Bavaria for their continued practice of mandatory HIV testing for asylum seekers.</p>
+<p>The government worked with NGOs, religious groups, and businesses to educate the public about HIV/AIDS and its prevention. NGOs and health officials created and funded numerous awareness programs on World AIDS Day and throughout the year through posters, television advertising, and charity events.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>There were increasing instances of actual or attempted mob violence against refugees and migrants in some parts of the country (see section 2.d) and against Muslims (see National/Racial/Ethnic Minorities above).</p>
+<p>Islamic extremists also carried out acts against others. On August 31, Wuppertal prosecutors filed charges against nine radical Muslims, including well-known Islamic extremist Sven Lau, for misuse of uniforms and against another 11 for violating laws on assembly. In September 2014 the group, wearing jackets labeled “Sharia Police.” briefly staged patrols in Wuppertal, Aachen, and Bonn to counter alcohol consumption, gambling, smoking, and concerts and to pressure youth to convert to Islam.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section7"> </span><span class="st_twitter" st_title="Germany #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Germany - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252851%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution, federal legislation, and government regulations provide for the right of employees to form and join independent unions, bargain collectively, and conduct legal strikes. The government generally respected these rights. The law prohibits antiunion discrimination and offers legal remedies to claim damages.</p>
+<p>No laws or regulations limit these labor rights. Case law excludes civil servants not engaged in the administration of the state (such as teachers) from collective bargaining. All civil servants (including some teachers, postal workers, railways employees, and police), and members of the armed forces are prohibited from striking. All employees, whether trade union members or not, are subject to the provisions of the bargained collective agreement. Employers generally are free to decide whether to be a party to a collective bargaining agreement, unless the Ministry of Labor and Social Affairs declares a collective bargaining agreement as generally binding. Employers can contest in court a strike’s proportionality and a trade union’s right to take strike actions. Legislation fails to establish clear criteria, but case law provides specific measures on strike matters.</p>
+<p>The government enforced the applicable laws with adequate resources. Remediation efforts were also sufficient. Employers not legally bound by collective bargaining agreements also often made use of them to determine part or all employment conditions of their employees.</p>
+<p>There were reports that a few employers, primarily owner-managed companies, interfered in the work council elections, in which employees elect representatives to participate in discussions and cooperation efforts with employers. The penalty for employers who interfere in work councils’ elections and operations is up to one year in prison or a fine. Work councils are independent from labor unions, but the formation of a work council was often the first step toward creation of a union representation structure within a company.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The constitution and federal law prohibit all forms of forced or compulsory labor; nevertheless, there were reports of forced labor. Penalties for forced labor range from six months to 10 years in prison and were sufficiently stringent.</p>
+<p>The government effectively enforced the law when persons were discovered employing forced labor, but NGOs questioned the adequacy of resources to investigate and prosecute forced labor, and courts at times failed to impose appropriate sentences. Some traffickers received suspended sentences, which limited the effectiveness of government enforcement efforts.</p>
+<p>There were reports of forced labor involving adults, mainly in construction, agriculture, restaurants, hotels, meat-processing plants, seasonal industries, and domestic households. In 2014, the latest year for which statistics were available, police completed 11 labor-trafficking investigations, which identified 26 victims, mostly from Bulgaria, Romania, and Vietnam.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children younger than 15 years old with a few exceptions: Children who are 13 or 14 years of age may perform farm work for up to three hours per day or perform such services as delivering newspapers, babysitting, and dog walking for up to two hours per day. Children of this age may not work during school hours, before 8 a.m., or after 6 p.m. The type of work must not pose any risk to the security, health, or development of the child and must not prevent the child from obtaining schooling and training. Children are not allowed to work with hazardous materials, carry or handle items weighing more than 22 pounds, perform work requiring an unsuitable posture, or work that exposes them to the risk of an accident (especially by machine operation and animal care). Children between three and 14 years of age may take part in cultural performances under strict limits on the kinds of activity, number of hours, and times of the day. The government effectively enforced these laws.</p>
+<p>Isolated cases of child labor may have occurred in small, family-owned businesses, such as cafes, restaurants, family farms, and grocery stores. Inspections by the regional inspection agencies and the resources and remediation available to them were adequate to ensure broad compliance. Courts may punish violators with fines of up to 15,000 euros ($16,500) and a prison sentence of up to one year for severe cases that intentionally lead to serious risk to the health and employability of a child.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The law and associated regulations regarding employment and occupation prohibit discrimination based on race, ethnic origin, sex, religion or belief/world view, disability, age, sexual orientation, gender identity, and HIV and chronic diseases. The law protects against discrimination in access to employment, self-employment, promotion, and career advancement.</p>
+<p>The law obliges employers to protect employees from discrimination at work. Employees who believe they are victims of discrimination have a right to file an official complaint and to have the complaint heard. If an employer remains inactive or fails to protect the employee effectively, employees may remove themselves from places and situations of discrimination without losing employment or pay. In cases of violations of the Equal Treatment Law, the employer is obliged to pay compensation or indemnity.</p>
+<p>The government effectively enforced these laws and regulations. According to FADA the most common grounds of employment-related discrimination were age, gender, disability, ethnic origin, and HIV-positive status. Persons of foreign origin and persons with disabilities faced particular difficulties finding employment.</p>
+<p>According to studies conducted by FADA during the year, job applicants with foreign-sounding names were 24 percent less likely to be invited to a job interview than equally qualified applicants with German names. The public sector sometimes conducted similar studies using anonymized applications, but it was not yet a widespread practice.</p>
+<p>A 2014 study by the German Statistics Office found that women’s wages were on average 22 percent less than those of men, and women less frequently held managerial and executive positions. The gap was considerably larger in the western part of the country (23 percent) than in the east (9 percent). The survey also found that the gender pay gap increased with age. Based on 2010 data, the latest to include structural adjustments, the gap narrowed to 7 percent when adjusted for structural differences (such as profession, education, part-time and full-time employment). FADA reported that women were at a disadvantage regarding promotions, often due to interruptions for child rearing.</p>
+<p>There were reports of employment discrimination against persons with disabilities. The unemployment rate among persons with disabilities was 13.9 percent in 2014, higher than that of the general population. The government undertook a number of measures to promote the employment of persons with disabilities. Employers with 20 or more employees must hire persons with more significant disabilities to fill at least 5 percent of all positions. There are special provisions for companies with 20-40 employees (one position for persons with disabilities) and 40-60 (two positions for persons with disabilities). Companies that fail to meet these quotas face a monthly fine of 105-260 euros ($116-$286) for each required position not filled by a person with disabilities.</p>
+<p>In May the Federal Constitutional Court ruled in favor of two teachers who sued the state of North Rhine-Westphalia because the state denied them permanent civil servant status due to age. The court ruled the age limit to be unjustified and a massive infringement of the fundamental right of freedom to pursue a professional activity.</p>
+<p>The law provides for equal treatment of foreign workers; however, foreign workers faced some wage discrimination. For example, employers, particularly in the construction sector, sometimes paid lower wages to seasonal workers from Eastern Europe who were in the country on temporary work permits. According to a January 2013 study by the Institute of Labor Market Research, the wage gap between foreign workers and other workers narrowed as the foreign worker’s stay in the country lengthened; nevertheless, information from 2008 indicated that after eight years working in the country, foreign workers earned 28 percent less than the average worker.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>On January 1, the first statutory countrywide minimum wage of 8.50 euros ($9.35) per hour entered into effect. The new law exempts young persons under 18 and the long-term unemployed during their first six months in a new job. Sectors with existing collective agreements that include minimum wages below 8.50 euros ($9.35) per hour have until January 2017 to transition. The sectors covered by the new law include electrical trades, painting, scaffolding, roofing, waste management, large-scale laundries, cleaning services, nursing care, hairdressing, meat processing, special mining services, and temporary employment agencies. Sector-wide minimum wages, which were generally lower in the eastern than in the western parts of the country, ranged from 7.20 euros ($7.92) per hour in agriculture and forestry (east) to 14.05 euros ($15.50) per hour for skilled construction work (west).</p>
+<p>As of 2014 official social indicators on poverty and social exclusion (“federal indicators”) indicated that persons with disposable incomes of less than 11,580 euros ($12,700) per year (60 percent of the median income) were at risk of poverty. More than 13 million persons (16.7 percent of the population) fell below this threshold, according to the EU Statistical Office.</p>
+<p>Federal regulations set the workday at eight hours limit the average workweek to 48 hours. Collective bargaining agreements, which directly or indirectly affecting 79 percent of the working population, regulate the number of hours of work per week and stipulate an average maximum of 37.7 hours per week. According to the Federal Statistical Office, the average workweek of full-time employees was 41.5 hours in 2014. A rest period for lunch was an accepted practice. Provisions for overtime, holiday, and weekend pay varied, depending upon the applicable collective bargaining agreement. Such agreements or individual contracts prohibited excessive compulsory overtime and protected workers against arbitrary employer requests.</p>
+<p>An extensive set of laws and regulations governs occupational safety and health. A comprehensive system of worker insurance carriers enforced safety requirements in the workplace. Workers can remove themselves from situations that endanger their health or safety without jeopardy to their employment, and authorities effectively protected employees in this situation.</p>
+<p>The Federal Ministry of Labor and Social Affairs and its counterparts in the federal states effectively monitored and enforced occupational safety and health standards through a network of government bodies, including the Federal Agency for Occupational Safety and Health. At the local level, professional and trade associations--self-governing public corporations with delegates representing both employers and unions--as well as work councils oversaw worker safety.</p>
+<p>The number of inspectors and companies visited declined in recent years due to the budget constraints of local inspection authorities. In 2013, 2,935 inspectors visited approximately 100,000 companies to examine working conditions and compliance with occupational safety and health regulations. In 2013 there were 417,489 complaints. Employees could sue employers who do not comply with occupational safety and health regulations. In cases in which the employer culpably infringed the duty to have regard for the welfare of the employees, a court can sentence the company to pay compensation to the affected employees and a fine of up to 25,000 euros ($27,500). In severe cases offenders faced prison sentences of up to one year.</p>
+<p>During the year workplace fatalities and accidents occurred, but their rate of frequency decreased. Most accidents were in the construction, sanitation, transportation, and warehousing industries.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

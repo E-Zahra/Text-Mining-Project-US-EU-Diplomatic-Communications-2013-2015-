@@ -1,0 +1,656 @@
+2014
+Romania
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568"> </span><span class="st_facebook" st_title="Romania" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236568">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236568</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li>
+<a href="#section6promotionof">Promotion of Acts of Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=executive"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 6/29/15; see Appendix H: Errata for more information.</em></p>
+<p>Romania is a constitutional republic with a democratic, multi-party parliamentary system. On November 2 and 16, presidential elections took place and electoral observers noted irregularities during the two rounds, including insufficient polling stations for the large diaspora community. The bicameral parliament (Parlamentul Romaniei) consists of the Senate (Senat) and the Chamber of Deputies (Camera Deputatilor), both elected by popular vote. In 2012 the country held parliamentary elections that observers generally considered to be without irregularities. Authorities maintained effective control over the security forces.</p>
+<p>Major human rights problems included police and gendarme mistreatment and harassment of detainees and Roma, including the death of at least one person at the hands of police. Government corruption remained a widespread problem that affected all sections of society. Systematic societal discrimination against Roma affected their access to adequate education, housing, health care, and employment opportunities.</p>
+<p>Other human rights problems reported during the year included poor prison conditions and continued attempts by some political figures to compromise the independence of the judiciary. The government failed to take effective action to return the Greek Catholic churches confiscated by the former communist government. Personal and professional threats to journalists undermined media freedom. There were continued reports of violence and discrimination against women. There were some anti-Semitic acts and statements, and media continued to publish anti-Semitic articles. Anti-Semitic, racist, xenophobic, and nationalistic views continued to be disseminated via the internet. Government agencies provided inadequate assistance to persons with disabilities and neglected persons with disabilities in institutions. Societal discrimination against lesbian, gay, bisexual, and transgender (LGBT) persons and individuals with HIV/AIDS, particularly children, remained problems. Worker rights continued to be a concern.</p>
+<p>The judiciary took steps to prosecute and punish officials who committed abuses, but authorities repeatedly delayed lawsuits involving alleged police abuse, which in many cases resulted in acquittals.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section1"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There was at least one report that the government or its agents committed an arbitrary or unlawful killing.</p>
+<p>On the evening of March 4, police of Bucharest precinct 10 took a 26-year-old Romani man, Daniel Gabriel Dumitrache, to its headquarters for soliciting parking fees in a parking lot. According to the Association for the Defense of Human Rights in Romania-the Helsinki Committee (APADOR-CH), Dumitrache worked as a “parking boy,” earning income by finding parking spaces for drivers in exchange for tips. Other parking boys in the area reported police harassment, according to APADOR-CH. Dumitrache died shortly after midnight on the night of his detention, police told his family. They provided no details. Relatives claimed his body was covered with bruises. The police issued a communique three days after Dumitrache’s death stating that he became ill in the police headquarters and, in spite of receiving medical care, died shortly thereafter. The communique stated that there were no signs of violence on his body. According to the forensic report, the cause of Dumitrache’s death was a ruptured spleen. After an internal investigation, police arrested officer George Stefan Isopescu for unlawful use of deadly force. According to media reports, in June, Isopescu was released under judicial supervision and moved to a different precinct. The case remained pending at the end of October.</p>
+<p>In December 2013 authorities charged police officer George Bogdan Grigoras with first-degree murder for the August 2013 shooting of a man in the village of Tapu (Sibiu County). The case was pending as of mid-November.</p>
+<p>In 2012 the Institute for Investigating Communist Crimes and the Memory of the Romanian Exile received authority to initiate criminal investigations of communist-era crimes discovered through its research. At the request of the institute, in August 2013 the prosecutor general’s office began criminal investigations of communist-era prison officials. In June and August, the prosecutor general’s office charged communist-era prison officials Alexandru Visinescu and Ion Ficior, reportedly responsible for the death of 12 people and the imprisonment of 103 others, with crimes against humanity. On October 22, the court ordered the freezing of Visinescu’s assets. The cases were in progress in mid-November.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances, abductions, or kidnappings.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, but there were reports from nongovernmental organizations (NGOs) and the media that police mistreated and abused prisoners, pretrial detainees, Roma, and other citizens, primarily through use of excessive force including beatings. Media reported such cases in Galati, Constanta, Targu Jiu, Craiova, Piatra Neamt, Resita, the village of Turburea, and other localities. In most cases the police officers involved were exonerated.</p>
+<p>The Piatra Neamt chief of police resigned in March after surveillance camera footage showed him slapping and kicking a 14-year-old girl at police headquarters. The Directorate for the Investigation of Organized Crimes and Terrorism initiated an investigation, which remained pending at the end of October. An investigation also began of the police officer on duty on the day of the beating on suspicion that he had disseminated the camera footage.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions remained harsh and did not meet international standards. The abuse of prisoners by authorities and other prisoners reportedly continued to be a problem.</p>
+<p><u>Physical conditions</u>: According to the National Administration of Penitentiaries of the Ministry of Justice, at the end of August 31, there were 637 persons, including 1,568 women and 338 minors, in prison, detention centers, or juvenile detention facilities. As of the beginning of September, the penal system had a legal capacity of 28,989 prisoners. According to official figures, overcrowding was a problem, and some prisons did not meet the standard of 43 square feet per prisoner set by the Council of Europe’s Committee for the Prevention of Torture. Prisoners had access to potable water. Some prisons provided insufficient medical care, and food quality was poor and sometimes insufficient in quantity. In some prisons the heating and ventilation were inadequate and there was poor lighting.</p>
+<p>APADOR-CH reported that most prisons were overcrowded and singled out the prisons in Craiova, Braila, and Satu Mare, as well as the police pretrial detention facility of Iasi County, as particularly overcrowded. APADOR-CH also noted inadequate conditions in some prisons, including insufficient medical care, poor food quality, mold in the kitchen, understaffing, an insufficient number of bathrooms, and inadequate educational activities. APADOR-CH also criticized the lack of adequate treatment for former drug addicts with substitute substances. The NGO stated that most police pretrial detention facilities had inadequate conditions. Such facilities were often located in basements and had no natural light or sanitary installations. The NGO’s visit in May to the police pretrial detention facility in Iasi revealed poor conditions, including extreme overcrowding, inadequate ventilation, and the absence of natural light. The rooms had no toilets, showers, or sinks, and detainees did not have use of the toilets in the corridor at night. In some pretrial detention facilities, there was no possibility for confidential meetings between detainees and their families or attorneys.</p>
+<p>According to media and NGO reports, prisoners at times assaulted and abused their fellow inmates.</p>
+<p>According to the annual report of the National Administration of Penitentiaries, 102 persons died in prisons in 2013, of whom 26 died violently. In one of these cases, the death of Catalin Resmovici at the end of 2013, authorities stated that Resmovici had died of a drug overdose, while his family claimed that his body showed signs of violence, including broken teeth, a broken arm, and severe head injuries. The family filed a criminal complaint in January. The family declared to the media in February that although they filed several criminal complaints, the relevant authorities ignored them and did not start an investigation. The Prosecutor’s Office attached to the High Court of Cassation and Justice replied that the case was not in its jurisdiction.</p>
+<p>By mid-June the European Court of Human Rights (ECHR) had issued 11 rulings against the state for poor prison conditions and inhuman and degrading treatment in prisons.</p>
+<p><u>Administration</u>: There were no reports of inadequate recordkeeping on prisoners. The law provides alternatives to prison for nonviolent offenders, including suspended sentences, sentences executed at the workplace, or fines. According to human rights NGOs, authorities made some progress in implementing four detention regimes (closed, semiclosed, semiopen, and open) for various categories of prisoners. Prisoners assigned to semiopen and open regimes reportedly benefited from placement in the type of prison appropriate to their sentence, although APADOR-CH stated that, because of the focus on prisons specializing in one of the four regimes, authorities placed some prisoners in facilities far from their hometowns. This policy was particularly a problem for female prisoners because of the existence of fewer regime-specialized facilities for women.</p>
+<p>In September the government amended the law concerning the ombudsman to create a mechanism for the prevention of torture and observance of human rights in prisons. A judge-delegate handled prisoner complaints in each prison. Prisoners had access to visitors. Regulations allowed all religious groups unrestricted access to prisoners, and authorities permitted them religious observance. Prisoners could submit complaints to judicial authorities without censorship. The new criminal code makes it mandatory to review a prisoner for parole when two-thirds of the prisoner’s sentence is complete.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring visits by independent human rights observers, and such visits occurred during the year. After visiting a significant number of prisons, detention centers, and police pretrial detention facilities during the year, APADOR-CH reported critically on prison conditions.</p>
+<p><u>Improvements</u>: The government continued efforts, including through partnerships with NGOs, to alleviate harsh conditions; improve the condition of detention rooms; provide more daily activities, training courses, and educational programs; and deter the spread of HIV and tuberculosis. After visiting the detention center for minors and youth in Craiova for the second time this year on July 28, APADOR-CH noted that center authorities had painted rooms, repaired the electrical mains, and added new mattresses. The government increased the number of places in the prison system by construction/repair works and upgraded conditions and training programs of the prisons in Aiud, Codlea, Giurgiu, Iasi, Poarta Alba, Jilava, and Tichilesti. It also developed social assistance and educational programs and implemented a strategy created in 2013 to curb aggressive behavior in prisons.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally respected these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Internal Affairs is responsible for the General Inspectorate of the Romanian Police; the gendarmerie; the border police; the Department of Intelligence and Internal Protection (DIPI), which oversees the collection of intelligence on organized crime and corruption; and the Directorate General for Anticorruption. The prime minister appoints the head of the DIPI. The General Inspectorate of the Romanian Police is divided into functional directorates, and there are 42 regional directorates for the counties and the city of Bucharest. The Romanian Intelligence Service (SRI), the domestic security service, investigates terrorism and national security issues. The president nominates, and the parliament appoints, the SRI director. The SRI submits annual activity reports to the parliament, which has a standing committee for SRI oversight. Internal disciplinary councils at the work location of the accused officers handle complaints of police misconduct.</p>
+<p>During the year authorities investigated 189 police officers for possible human rights violations. One officer received an administrative fine, one received a criminal fine, and investigators exonerated 127 others, and sent the cases of nine to courts (of whom one was convicted for abusive conduct). The rest remained under investigation.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law provides that only judges may issue detention and search warrants, and the government generally respected this provision. The law requires authorities to inform detainees at the time of arrest of the charges against them and their legal rights, including the right to remain silent and the right to an attorney. Police must notify detainees of their rights in a language they understand before obtaining a statement. Authorities must bring detainees before a court within 24 hours of arrest. Although authorities generally respected these requirements, there were some reports of abuses during the year. The law provides for pretrial release and home detention at the discretion of the court. A bail system also exists, but it was seldom used. Detainees have the right to counsel and in most cases had prompt access to a lawyer of their choice. Authorities provided indigent detainees legal counsel at public expense. The arresting officer is also responsible for contacting the detainee’s lawyer or, alternatively, the local bar association, to arrange for a lawyer. The detainee has the right to meet privately with counsel before the first police interview. The lawyer may be present during the interview or interrogation. Detainees also had prompt access to their families.</p>
+<p>The law allows police to take to a police station, without a warrant, any person who endangers the public or other individuals, or disrupts public order. There were allegations that police often used this provision to hold persons for up to 24 hours. Since those held in such cases were not formally detained or arrested, authorities considered their right to counsel did not apply. APADOR-CH criticized this provision as leaving room for abuse.</p>
+<p><u>Pretrial Detention</u>: A judge may order pretrial detention for periods up to 30 days, depending on the status of the case. While a court may extend this period in 30-day increments, total pretrial detention may not exceed 180 days. Under the law detainees may hold courts and prosecutors liable for unjustifiable, illegal, or abusive measures. According to human rights NGOs, in many cases authorities automatically extended pretrial detention, even if the reasons for the original arrest no longer existed.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary. The government generally respected judicial independence but failed to provide sufficient personnel, physical space, and technology to enable the judiciary to act swiftly and efficiently, thereby resulting in excessively long trials.</p>
+<p>A European Commission report on the Cooperation and Verification Mechanism, made public in January, noted that while the government had respected the constitution and the Constitutional Court’s role and decisions, it had not fully implemented commitments to provide for anticorruption measures and the protection of the judiciary against attacks.</p>
+<p>The Superior Council of Magistrates is the country’s judicial governance body. It generally maintained transparency of operations and acted promptly to suspend judges and prosecutors under suspicion of legal violations. The number of high-level corruption trials increased during the year.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law provide for the right to a fair trial, and an independent judiciary generally enforced this right.</p>
+<p>Under the law defendants enjoy the right to the presumption of innocence, have the right to be informed promptly and in detail of the charges against them, and the right to free linguistic interpretation if necessary. Under the law trials are open to the public and should take place without undue delay, but in many cases delays occurred because of the heavy caseload or procedural inconsistencies. The law does not provide for trial by jury. Defendants have the right to be present at trial. The law provides for the right to counsel and the right to consult an attorney in a timely manner. The law requires that the government provide an attorney to juveniles in criminal cases; the Ministry of Justice paid local bar associations to provide attorneys to indigent clients. Defendants may confront or question witnesses against them (unless witnesses are undercover agents), present witnesses and evidence on their own behalf, and have a court-appointed interpreter. Generally the law provides for the right of defendants and their attorneys to consult and see case files. The prosecution may restrict access to evidence for reasons such as victim’s rights and national security. Both prosecutors and defendants have a right of appeal. Defendants cannot be compelled to testify against themselves, but have the legal right to abstain from making statements, with no negative legal consequence. Prosecutors may use any statements defendants do make against them in court.</p>
+<p>The government implemented a new criminal code and criminal procedure code in February with the aim of reducing the number of cases sent to trial. However, it did not carry out an impact analysis and failed to allocate the necessary human resources and tools necessary to implement the codes properly. The criminal procedure code allows for home detention using electronic monitoring devices, but the government has yet to procure such devices. The new codes also separate the roles of various types of judges, including the preliminary judge, who examines evidence and pretrial motions; the judge for rights and liberties; and the trial judge, who is legally required to be separate from the judge for rights and liberties. Some courts, however, lacked a sufficient number of judges to separate the functions. The criminal code includes a number of inconsistencies; amendments to remedy these were pending in parliament.</p>
+<p>Prosecutors could reveal evidence, including evidence acquired from wiretaps, during their investigations and in their indictments. Media often reported this information, especially in corruption cases. Some judges complained that media coverage of such cases precluded the defendant receiving a fair trial. The Superior Council of Magistrates, following the implementation of the new criminal procedure code and an ECHR decision, issued new media guidelines restricting the information prosecutors may reveal during a case in progress.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Civil courts are independent and function in every jurisdiction. Judicial and administrative remedies are available to individuals and organizations for violations of human rights by government agencies. Plaintiffs may appeal adverse judgments involving alleged violations of human rights by the state to the ECHR after exhausting the avenues of appeal in the domestic courts.</p>
+<p>Litigants sometimes encountered difficulties enforcing civil verdicts because the procedures for enforcing court orders were impractical and caused delays. The civil procedure code places some responsibilities on notaries to reduce the number of new cases on the dockets of civil courts, which started to bear results during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>During the year the ECHR issued numerous judgments against the state for violating one or more rights under the European Convention on Human Rights. The great majority of ECHR rulings against the state involved infringement of article 6 of the ECHR Convention (the right to a fair trial). In some instances the court found unreasonable lengths of trials and found several inequitable trials. The ECHR found the state infringed the right to respect private and family life and, in one case, the provision regarding lawful detention. Compliance with ECHR decisions was inconsistent.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>A 2013 law for restituting property seized by the former communist and fascist regimes creates a “points” system (one point for each leu of property value) to compensate claimants for whom restitution of the original property is not possible. The claimants can use the points later to bid in auctions of state-owned property or in exchange for monetary compensation. The parliament intended the law to speed up restitution and aimed at in-kind restitution whenever practicable, but local authorities hindered land restitution by failing to make a land inventory, and the central government enabled the delays by extending the deadline for the inventory’s completion. County commissions suspended their issuance of decisions by county commissions to compensate current Romanian citizens who had to abandon property in former Romanian territories lost during or just after World War II until the end of the year. By mid-September the special commission in charge of restituting religious and ethnic communal property met four times, restituted nine buildings to their former owners, and rejected 64 claims.</p>
+<p>There were numerous disputes over church buildings and property that the Orthodox Church did not return to the Greek Catholic Church in violation of valid court orders to do so. The government also failed to take effective action to return the Greek Catholic churches confiscated by the post-World War II communist government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the constitution and the law prohibit such actions, there were reports that authorities engaged in electronic eavesdropping in violation of these prohibitions.</p>
+<p>The law permits the use of electronic eavesdropping in cases involving organized crime, national security, and other serious offenses. Under the criminal code, the investigating prosecutor must first obtain a warrant from a judge. In exceptional circumstances, when delays in getting the warrant would seriously affect a criminal investigation, prosecutors may begin surveillance for 48 hours without a judicial warrant, but they must then submit a request within 24 hours for retroactive authorization. When there is a threat to national security, the national security law permits the prosecutor general to request authorization from the president of the High Court of Cassation and Justice to authorize the issuance of a warrant for an initial period of six months and to request extensions for up to two years in three-month increments. Some human rights NGOs noted the contradiction between the two laws with regard to the requirement for judicial approval of wiretaps.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section2"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. An independent press, largely independent judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Freedom of Speech</u>: Insulting the state insignia (the coat of arms, national flag, or national anthem) is an offense punishable by imprisonment. Such laws restricting freedom of speech continued to cause concern among the media and NGOs. The law also prohibits acts of “religious defamation” and “public offense to religious symbols” as well as public denial of the Holocaust and fascist, racist, and xenophobic organizations and symbols. The law forbids the celebration or commemoration of individuals who committed crimes against peace and mankind and forbids the promotion of fascist, racist, and xenophobic ideologies.</p>
+<p><u>Press Freedoms</u>: The law’s restrictions on insulting state insignia; religious defamation; denying the Holocaust; using fascist, racist or xenophobic symbols; commemorating individuals who committed crimes against mankind, or promoting fascist, racist, or xenophobic ideologies apply to the print media as well. While the independent media were active and expressed a wide variety of views without overt restriction, politicians and persons with close ties to politicians and political groups either owned or indirectly controlled numerous media outlets at the national and local levels. The news and editorial tone of these outlets frequently reflected the views of the owners. There were also allegations that owners suppressed stories at odds with their interests or threatened the authors of such stories.</p>
+<p>Media outlets owned by politicians Dan Voiculescu (Conservative Party) and Sebastian Ghita (Social Democratic Party) repeatedly verbally attacked journalists who reported on the businesses controlled by them or on the government’s activity. In January more than 340 journalists across the country protested “degrading media practices” used by Voiculescu’s television station, Antena 3. Online news portal Hotnews analyst Dan Tapalaga reported Ghita made statements that Tapalaga and his family considered intimidating. Ghita replied he did not threaten Tapalaga but only said that the reporter had annoyed him. Tapalaga and his outlet repeatedly wrote about contracts of Ghita’s companies with government-owned institutions.</p>
+<p>Some judges stated that media coverage of corruption cases put undue pressure on them by mocking and pillorying them in personal terms with insulting characterizations and that such media coverage in some cases made it difficult for them to judge a case on its merits.</p>
+<p><u>Violence and Harassment</u>: During the year politicians and citizens sometimes insulted or harassed journalists.</p>
+<p>In August, three journalists were assaulted during a demonstration organized by Antena 3 to protest the sentencing of its founder, Dan Voiculescu, to 10 years in prison for fraud worth an estimated 60 million euros ($75 million). Several NGOs and media complained that police did not intervene to stop the violence.</p>
+<p>Both Prime Minister Ponta and his former spokesperson, Mirel Palada, publicly disparaged journalists working for outlets that criticized government policies. In July, Ponta called Mediafax news agency reporters “mujahidin” and “Taliban,” and in August Palada, using his Facebook page, called journalists “jackasses,” adding that he felt “pleasure in executing them electronically.” Both the media and NGOs considered that Ponta and Palada intended to intimidate independent reporters. Palada’s comments led the prime minister to replace him as spokesperson.</p>
+<p><u>Censorship or Content Restrictions</u>: In May the Superior Council of Magistrates adopted a magistrates’ guide to media relations that limited the amount of information available to the public during ongoing trials and investigations. They updated the guide in accordance with the new criminal procedure code. NGOs and journalists complained that the Superior Council of Magistrates did not consider their concerns and claimed that the new media guide was a step away from media freedom.</p>
+<p>Journalists and NGOs accused National Audiovisual Council’s for making decisions based on political biases. They complained that the council, which is a public entity, broke the law by limiting access to its public meetings and blocking their live broadcast.</p>
+<p><u>Libel Laws/National Security</u>: Under Romanian law, libel and insult are civil and not criminal matters. In 2011 former prosecutor Marcel Sanpetru sued Ondine Ghergut, an investigative journalist for the newspaper <i>Romania Libera</i>, for reporting on corruption accusations that Sanpetru was facing. In June a court ordered Ghergut to pay damages and trial expenses of 15,000 lei ($4,000) and publish the court sentence in seven newspapers, which would cost her 300,000 euros ($375,000). Ghergut appealed the order; the appeal remained under review at the end of October. NGOs and other media outlets supported the journalist.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>While the government did not restrict or disrupt access to the internet or censor online content, there were reports that the government monitored private online communications without appropriate legal authority. According to International Telecommunication Union statistics, approximately 50 percent of the country’s population used the internet.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on cultural events. There were, however, instances of government restrictions on academic freedom.</p>
+<p>In January, Professor Viorel Barbu announced he lost his positions as president of the Iasi branch of the Romanian Academy and as a member of the National Council for Certification of Titles, Diplomas, and University Certificates, in response to a 2012 ruling by the Council that Prime Minister Ponta had plagiarized large parts of his doctoral thesis. Barbu’s replacement was an individual close to the prime minister’s party.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly, and the government generally respected this right. The law provides that unarmed citizens may assemble peacefully but also stipulates that meetings must not interfere with other economic or social activities and may not take place near such locations as hospitals, airports, or military installations. Organizers of public assemblies must request permits in writing three days in advance from the mayor’s office of the locality where the gathering would occur. There were reports that some protesters had difficulty obtaining permits. Most protests concerning the Rosia Montana gold mine and shale gas were peaceful. There were reports that police fined some protesters without cause and that some police used pepper spray.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law provide for freedom of association, and the government generally respected this right. The law prohibits fascist, communist, racist, or xenophobic ideologies, organizations, and symbols. Political parties are required to have at least 25,000 members to have legal status.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/"><u>www.state.gov/j/drl/irf/rpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation. The government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees (including persons with subsidiary protection), asylum seekers, stateless persons who have refugee or subsidiary protection status, and other persons of concern.</p>
+<p><u>In-country Movement</u>: The internal movement of asylum seekers was generally not restricted. The law provides, however, that the General Inspectorate for Immigration may designate a specific place of residence for an individual while authorities determine his or her refugee status, when such a designation is justified by the public interest, national security, public order, health, public morals, or the protection of the rights and freedoms of other persons. Individuals falling within some of these categories--particularly those declared “undesirable” for reasons of national security--are subject to administrative detention in public custody centers.</p>
+<p>Authorities treated rejected asylum seekers as aliens who no longer have a right to stay in the country and may take them into custody prior to deporting them. Such aliens were released from detention if granted access to a new asylum procedure. The government may grant “tolerated status” within the country’s borders to asylum seekers who do not meet the requirements for refugee status or subsidiary protection, but who cannot be returned for technical reasons, such as uncertain nationality or because of a crisis in their countries of origin.</p>
+<p><u>Foreign Travel</u>: While both refugees and beneficiaries of subsidiary protection have equal access to social, economic, and cultural rights, beneficiaries of subsidiary protection receive identity and travel documents with shorter validity than those of refugees. Beneficiaries of subsidiary protection also encountered difficulties when traveling to certain European countries that require additional procedures prior to entry, such as a visa application.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for granting access to asylum procedures to foreign nationals and stateless persons who express their desire for protection by the government in the form of refugee status, subsidiary protection status, and temporary protection. The law on asylum, based on EU legislation, prohibits the expulsion, extradition, or forced return of any asylum seeker at the country’s border or from within the country’s territory and excludes granting international protection to aliens and stateless persons who planned, facilitated, or participated in terrorist activities as defined by international instruments to which the country is a party.</p>
+<p>Authorities accommodated asylum seekers in open reception centers. The government operated a 100-bed reception center in Giurgiu, a 320-bed center in Bucharest, a 250-bed center in Galati, a 100-bed center in Somcuta Mare, and a 100-bed center in Radauti. The UNHCR, the International Organization for Migration, and the government operated a 250-bed emergency transit center in Timisoara.</p>
+<p>The aliens’ law regulates the regime of aliens and stateless persons in the country except for those applying for asylum and those benefitting from a form of protection. Authorities take aliens who no longer have a right to stay in the country into public custody (administrative detention) pending removal from its territory. The government operated a 100-bed detention center in Otopeni and a 50-bed center in Arad.</p>
+<p><u>Safe Country of Origin/Transit</u>: The law provides for the concept of safe countries of origin, and asylum seekers coming from such countries have their asylum applications processed in an accelerated procedure. The government considered EU member states safe countries of origin, as are other countries that meet criteria concerning the number of asylum applicants granted protection; observance of human rights; observance of democratic principles, political pluralism, and free elections; the existence of operational democratic institutions to monitor human rights; and the existence of factors of stability. The law also permits officials to take other evaluation criteria into consideration. They reject as unfounded the asylum applications of individuals coming from safe countries of origin under accelerated procedures except where the factual situation or evidence presented by the applicant shows the existence of a well-founded fear of persecution. The law does not provide exceptions for serious risks of harm that warrant the granting of subsidiary protection. According to the UNHCR, there were no known reports of rejection of asylum applications based on the application of this concept of safe country of origin per se.</p>
+<p>The law also includes the concept of a safe country of transit, which applies to aliens who transited a safe country before arriving in Romania and had the opportunity to contact authorities of that country and apply for protection, or who received an offer of protection from the authorities of that country. In such cases Romanian authorities may deny access to the asylum seeker if the safe country of transit agrees to readmit the applicant and grant him or her access to asylum procedures. While the country of transit must meet certain conditions, including respect for the principle of nonrefoulement and the prohibition against torture, inhuman, or degrading treatment, the law lacks explicit reference to protection against serious risks to life or bodily integrity.</p>
+<p><u>Refoulement</u>: The government generally provided protection against the expulsion or return of refugees to countries of origin where their lives or freedom would be under threat based on their race, religion, nationality, membership in a particular social group, or political opinion. Similarly, beneficiaries of subsidiary protection generally received protection from expulsion or return to their country of origin or habitual residence if they faced certain serious risks defined by the asylum law. An antiterrorism law establishes exceptions to the principle of nonrefoulement following a declaration of a person as “undesirable,” for example, when classified information or other “well-founded indications” show that aliens support terrorism or intend to commit terrorist acts. Authorities took asylum seekers they found to be “undesirable” for reasons of national security into public custody until the completion of their asylum process and then deported them.</p>
+<p><u>Employment</u>: Asylum seekers have the right to work for one year after they have submitted their first asylum application. This period begins again if the alien obtains access to a new asylum procedure. Even when granted the right to work, many asylum seekers had problems finding legal work, mainly due to the limited validity of their identification documents and lack of awareness among potential employers of their right to work.</p>
+<p>Refugees and beneficiaries of subsidiary protection may seek employment. However, a scarcity of jobs, lack of language proficiency, absence of educational credentials, and lack difficulty in obtaining recognition of foreign academic credentials often resulted in unemployment or job seekers resorting to under-the-table employment without the protections of a legal contract.</p>
+<p><u>Access to Basic Services</u>: Asylum seekers were accommodated in six open reception centers throughout the country, but were free to reside outside these centers should they have the necessary means to do so pending a final adjudication of their asylum claim. During the year the occupancy rate at these reception centers was lower than in previous years, because most Syrian asylum seekers chose to stay with relatives and friends rather than in the reception centers.</p>
+<p>Reception conditions improved in certain respects over previous years, mainly due to the decrease in the number of asylum seekers living at the reception centers. The UNHCR remained concerned that the financial and material assistance provided to asylum seekers was insufficient to meet basic needs, particularly for asylum seekers with special needs or vulnerabilities. Limitations imposed on asylum seekers’ right to work made the situation worse. The government did not provide asylum seekers with sufficient options for meaningful activities, such as language classes, cultural orientation, skills training, or social, psychological, and medical assistance, especially for victims of trauma and torture.</p>
+<p>According to the law, persons granted refugee or subsidiary protection status enjoy the same rights as citizens, apart from the right to vote. This includes access to all levels of education, housing, lifelong learning, employment, public health care, and social security. Nevertheless, effective access to, and exercise of, these rights varied throughout the country.</p>
+<p><u>Durable Solutions</u>: Refugees and beneficiaries of subsidiary protection continued to face challenges accessing housing, employment, education, vocational training adapted to their specific needs, counseling programs, and information on citizenship interviews. Persons granted refugee status may apply for citizenship after five years of continuous legal residence in the country. These favorable conditions do not apply to beneficiaries of subsidiary protection, who are required to have eight years of continuous legal residence in the country prior to applying for naturalization.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>The country’s citizenship law gives the opportunity to gain nationality to stateless persons legally residing on the territory under the same conditions as those that apply to other foreigners. It includes favorable provisions for stateless persons of Romanian origin to reacquire Romanian citizenship. Nevertheless, there remained a lack of safeguards against statelessness for children born in the country whose parents were either themselves stateless or foreigners unable to pass on their nationality to their children.</p>
+<p>The government did not have a procedure to determine statelessness. As of March 31, the General Inspectorate for Immigration indicated there were 313 stateless persons in the country. This number included only persons with valid residence permits whom the relevant authorities registered as stateless. The majority of stateless persons held long-term residence permits (115 persons), permits based on family ties to citizens (104 persons), or permits for persons granted either refugee status or subsidiary protection (57 persons).</p>
+<p>Lack of birth registration rendered some children, especially those in extreme poverty, significantly more vulnerable to statelessness because it left them without proof of birthplace, parentage, and other key facts needed to establish their status under the nationality law (see section 6, Children).</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section3"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens with the ability to change their government peacefully, which they exercised through periodic, free, and mostly fair elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: The country held presidential elections on November 2 and 16. There were some reports of irregularities, particularly because the government amended the electoral law to allow citizens to cast votes outside their place of residence. Some electoral observers alleged that the governing party used this loophole to increase votes in some remote villages artificially. A major issue in both rounds of the elections was limited international polling locations abroad. There were numerous reports of diaspora waiting in long queues to vote at embassies in capitals across Europe and reports that thousands were unable to vote before polls closed. These reports triggered nationwide protests.</p>
+<p>The country held national parliamentary elections in 2012, which observers noted had some irregularities but judged to be generally free and fair.</p>
+<p><u>Political Parties and Political Participation</u>: The law requires political parties to register with the Bucharest Tribunal and to submit their statutes, program, and a roster of at least 25,000 signatures. Among these 25,000 “founding members” must be individuals from at least 18 counties, including Bucharest, with a minimum of 700 persons from each county. The party’s statutes and program must not include ideas that incite war; discrimination; hatred of a national, racist, or religious nature; or territorial separatism.</p>
+<p>Organizations representing ethnic minorities may also field candidates in elections provided the minorities in question are “national minorities,” defined as ethnic groups represented in the Council of National Minorities. These organizations must meet requirements similar to those for political parties. The law sets more-stringent requirements for organizations representing minorities not represented in parliament than for those representing minority groups already represented in parliament. The former must provide the Central Electoral Bureau with a list of members equal to at least 15 percent of the total number of persons belonging to that ethnic group as determined by the most recent census. If 15 percent of the ethnic group amounts to more than 20,000 persons, the organization must submit a list with at least 20,000 names distributed among a minimum of 15 counties plus the city of Bucharest, with no fewer than 300 persons from each county.</p>
+<p><u>Participation of Women and Minorities</u>: While the law does not restrict women’s participation in government or politics, societal attitudes presented a significant barrier. As of September 1, there were 55 women in the 404-seat Chamber of Deputies and 12 women in the 175-seat Senate. One of the nine justices on the Constitutional Court was a woman and 10 of 32 of the country’s members of the European Parliament were women. There were five women in the 25-member cabinet and five female prefects (governors appointed by the central government) for the 42 counties. A majority of magistrates were women, including the president of the High Court of Cassation and Justice and several other court presidents.</p>
+<p>Under the constitution each recognized ethnic minority is entitled to have one representative in the Chamber of Deputies, even if the minority’s organization cannot obtain the 5 percent of the vote needed to elect a deputy outright. A limitation to this entitlement is the requirement that the organization receive votes equal to 10 percent of the nationwide average number of votes necessary for a deputy to be elected. Organizations representing 18 minority groups received deputies under this provision in the 2012 elections. There were 45 members representing ethnic minorities in parliament, eight in the Senate and 35 in the Chamber of Deputies.</p>
+<p>Ethnic Hungarians, represented by the Democratic Union of Hungarians in Romania umbrella party, were the sole ethnic minority to gain parliamentary representation by passing the 5-percent threshold. Only one Romani organization, the Roma Party-Pro Europe had representation parliament (one member). Low voter turnout among Roma likely resulted from a lack of awareness, inability to demonstrate an established domicile, and/or lack of identity documents.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section4"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>While the law provides criminal penalties for corruption by officials, the government did not implement the law effectively, and officials, including judges, sometimes engaged in corrupt practices with impunity. The immunity from criminal prosecution enjoyed by current and former cabinet members who were also members of parliament sometimes investigations of their behavior. According to World Bank’s indicators, corruption was a problem. In 2007, as part of the country’s agreement on accession to the EU, the European Commission established the Cooperation and Verification Mechanism to monitor the country’s progress in reforming the judicial branch and fighting corruption.</p>
+<p><u>Corruption</u>: The National Anticorruption Directorate (DNA) continued its investigation of medium- and high-level corruption cases at a steady pace throughout the year. Included were cases involving political, judicial, and administrative officials. By September 15, the DNA had sent to court 710 defendants (of whom 24 accepted plea bargains), compared with 530 in the first seven months of 2013. The defendants included seven members of the national parliament, six county council chairs, 17 mayors, three vice mayors, one councilor to a minister, two chairs and two vice chairs of national regulatory agencies, one chair of a chamber of commerce, one prefect and one subprefect, one secretary general with the financial supervision authority, two prosecutors, 18 judges (of whom four were with the High Court of Cassation and Justice), 23 Interior Ministry officers, one chairman of a sports federation, and one local political party chairman. Prosecutors ordered seizures of assets worth 135 million euros ($169 million) in the indicted defendants’ cases.</p>
+<p>As of August 8, courts had issued 228 final convictions of 895 defendants in cases investigated by the DNA, compared with 148 final convictions against 775 defendants in the same period of 2013. Convicted defendants included: one former prime minister; five members of parliament; two ministers; one founder of a political party; one vice chair of the national restitution authority; one secretary general in the health ministry; six judges; six prosecutors; 18 lawyers; two public notaries; 12 Interior Ministry officers; 10 military officers; 28 emergency management authority officers, including two deputies to the chief inspector and 34 emergency management authority petty officers; one chairman of the national drug agency; 10 National Defense Ministry officers and one petty officer; eight Financial Guard commissioners, including one chief commissioner; four National Environmental Guard commissioners, including one chief commissioner; 25 managers of public institutions; 17 mayors; and one prefect and two subprefects. As of July 31, courts had ordered the forfeiture of 28 million euros ($35 million) as a result of DNA cases.</p>
+<p>Between January 1 and September 15, courts acquitted 92 defendants in corruption cases, an increase over the same period of the previous year, when courts acquitted 60 defendants. The High Court of Cassation and Justice significantly increased the pace of high-level corruption trials compared with previous years. Verdicts in corruption offenses were often inconsistent, with sentences varying widely for similar offenses. The number of convictions in corruption cases increased during the year. With the implementation of the new criminal and criminal procedure codes, the High Court of Cassation and Justice gained the ability to consult on matters of interpretation at the request of lower courts. Enforcement of court procedures lagged due to procedural issues.</p>
+<p>Police corruption contributed to citizens’ lack of respect for police and a corresponding disregard for police authority. Low salaries and the absence of incentives and bonuses led to personnel shortages and contributed to the susceptibility of individual law enforcement officials to bribery. Authorities referred instances of high-level corruption to the Directorate General for Anticorruption within the Ministry of Internal Affairs, which continued to publicize its anticorruption telephone hotline to generate prosecutorial leads for corruption within the police force.</p>
+<p>Conflicts of interest, disrespect for standards of ethical conduct, and improbity in public office in general remained problems in all three branches of government. Corruption was widespread in public procurement. Individual executive agencies were slow in enforcing sanctions, and agencies’ own inspection bodies were generally inactive.</p>
+<p>Asset forfeiture laws, including extended confiscation, exist, but judges and prosecutors did not order confiscation regularly. The ability of prosecutors and police to track assets improved slightly, especially with the deployment of financial investigators to work with prosecution officials, but the number of investigators remained insufficient to keep pace with the number of corruption cases. The National Agency for Fiscal Administration, the institution charged with confiscating, managing, and liquidating the assets acquired from criminals, both the proceeds of their criminal activities and the fines levied on them, was understaffed and lacked resources necessary to fulfill its mission.</p>
+<p><u>Financial Disclosure</u>: The law empowers the National Integrity Agency to administer and audit financial disclosure statements for all public officials and to monitor conflicts of interest. The law stipulates that the agency can identify “significant discrepancies” between an official’s income and his assets, defined as more than 45,000 lei ($12,000), and allows for seizure and forfeiture of these unjustified assets.” The mechanism for confiscation of “unjustified assets” was cumbersome.</p>
+<p><u>Public Access to Information</u>: Although the law provides for public access to government information related to official decision making, human rights NGOs and the media reported that the government applied the law inadequately and inconsistently. The government and parliament wrote and passed laws in a nontransparent manner, and the government continued to pass a large number of emergency ordinances without parliamentary scrutiny, increasing the government’s legislative powers. The parliament often voted against lifting immunity of its members for prosecution for corruption. NGOs and private companies complained that frequent changes to laws and regulations hurt their ability to conduct business. Procedures for releasing information were arduous and varied greatly by public institution. Many agencies did not make public their annual performance reports required by law. NGOs and journalists regularly continued to sue in court to gain access to official government information. Bribery was common, especially in the healthcare sector.</p>
+<p>In December 2013 the parliament passed a law without consultation that essentially granted politicians super-immunity by making members of parliament servants of the people (as opposed to civil servants), thereby exempting them from many criminal charges, including corruption. The Constitutional Court struck down the law in January.</p>
+<p>The government did not often observe existing law requiring transparency in governmental decision making. The Department for Online Service and Design in the prime minister’s office is responsible for coordinating the implementation of the Open Government Partnership (OGP) action plan for the country in coordination with NGOs. The OGP process was somewhat successful in increasing the amount of open data and in teaching citizens how to use the data.</p>
+<p>Although the intelligence services transferred the majority of the files of the communist-era Securitate intelligence service to the National College for the Study of the Securitate Archives, the powers of the college remained limited because the law does not permit it to issue binding verdicts on individuals’ past records as Securitate collaborators.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section5"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials generally met with human rights NGOs and were cooperative and responsive to their views. There were reports that government officials were reluctant to cooperate with NGOs that focused on institutionalized persons with disabilities or to accept NGO criticism of institutions for persons with disabilities.</p>
+<p><u>Government Human Rights Bodies</u>: The Office of the Ombudsman had limited power and had no authority to protect citizens’ constitutional rights in cases requiring judicial action. The office handled 4,918 complaints during the first six months of the year. Although the Office of the Ombudsman is the only institution that can challenge emergency ordinances in the Constitutional Court, it failed to challenge several controversial ordinances despite persistent calls by civil society for it to do so.</p>
+<p>Each chamber of parliament has a human rights committee tasked with drafting reports on bills that pertain to human rights. The members of these committees usually expressed the views of their political parties, rather than addressing the problems objectively.</p>
+<p>The National Council for Combating Discrimination (CNCD) is an independent governmental agency under parliamentary control. As of September 1, the CNCD had handled 370 public complaints of discrimination, of which 20 involved alleged discrimination based on nationality, five complaints based on sexual orientation, and four complaints based on religious grounds. During the same period, the CNCD handled 21 complaints regarding discrimination against Roma. The CNCD operated with the government’s cooperation and, for the most part, without government or party interference. According to the CNCD and the Office of the Ombudsman, neither institution received adequate resources. Observers generally regarded the CNCD as effective, while most observers regarded the Office of the Ombudsman as inactive, despite its larger staff, particularly since the appointment of a new ombudsman in May. Both the CNCD and the Ombudsman’s Office issued yearly activity reports.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section6"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law forbids discrimination based on race, gender, disability, ethnicity, nationality, language, social status, beliefs, sexual orientation, age, noncontagious chronic disease, HIV infection, or belonging to an underprivileged category, or on any criteria that aim at restricting human rights and fundamental freedoms. The government did not enforce these prohibitions effectively, and women, as well as Roma and other minorities, often experienced discrimination and violence.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, including spousal rape, is illegal. The new criminal code, which became effective February 1, provides for three to 10 years imprisonment for rape and two to seven years’ imprisonment for sexual assault. The sentence increases to five to 18 years if there are aggravating circumstances. For sexual assault with aggravating circumstances, the sentence is three to 15 years. The successful prosecution of rape cases was difficult because the law requires a medical certificate and, as in all criminal cases, requires either the active cooperation of the victim or a third-party witness to the crime. Police and prosecutors cannot pursue a case on their own, even with independent physical evidence. Consequently, a rapist could avoid punishment if the victim withdrew the complaint.</p>
+<p>According to Interior Ministry statistics, there were 1,274 reported cases of rape by July 31. According to Public Ministry statistical figures, by May 1, 104 persons, of whom six were minors, were convicted by first instance courts for rape, while 78 persons, of whom seven were minors, received final tribunal convictions for rape by August 1.</p>
+<p>Violence against women, including spousal abuse, continued to be a serious problem, according to NGOs and other sources. The government did not effectively address it. The law prohibits domestic violence and allows police intervention in such cases. It provides for the issuance of restraining orders upon the victim’s request and for the payment by the abuser of some expenses, such as medical and trial expenses or the cost of the victim’s accommodation in a shelter. While the law imposes stronger sanctions for violent offenses committed against family members than for similar offenses committed against others, the courts prosecuted very few cases of domestic abuse. Many cases were resolved before or during trial when alleged victims dropped their charges or reconciled with the alleged abuser. In cases with strong evidence of physical abuse, the court can prohibit the abusive spouse from returning to the home. The law also permits police to fine spouses 100 to 3,000 lei ($27 to $810) for various abusive acts. According to the Interior Ministry, as of July 8, a total of 165 women had been victims of domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not explicitly prohibit FGM/C. The country has no tradition of FGM/C, and there were no reported FGM/C cases.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment. According to the new criminal code, penalties range from fines to imprisonment for three months to one year. Although the problem existed, public awareness of it continued to be low. No effective programs existed to educate the public about sexual harassment.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals had the right to decide freely and responsibly the number, spacing, and timing of children. Nevertheless, there were barriers to access to information and services to ensure the highest standard of reproductive health existed. They included: lack of adequate postmortem in cases of maternal mortality; lack of age-appropriate sex education to adolescents; a high adolescent pregnancy rate; lack of funds allocated to contraception programs; lack of a national strategy regarding sexual and reproductive health and rights; and occurrence of preventable abortion-related complications. Some women, especially Roma, had difficulty accessing reproductive health services for reasons that included lack of information, ethnic discrimination, lack of health insurance, and poverty. There was no recent data about the skilled health attendance during pregnancy and childbirth, but in 2008, skilled health personnel attended 98.7 percent of births, according to the World Health Organization’s “Health for All” database. According to the Ministry of Health, in 2012, 62.9 percent of pregnant women were registered in the first trimester, while 13.2 percent were registered in the third trimester of pregnancy. There were no reports regarding coercive family planning practices, including sterilization, but qualitative research carried out in three psychiatric rehabilitation centers and released in March reported on the practice of providing oral contraceptives to women with mental disabilities without their informed consent.</p>
+<p><u>Discrimination</u>: Under the law women and men enjoy equal rights, including under family law, labor law, property law, and inheritance law. The law requires equal pay for equal work. The government did not enforce these provisions, and authorities did not devote significant attention or resources to challenges facing women (see section 7.d.). Women occupied few influential positions in the private sector, and differences between the salaries of women and men continued to exist in most sectors of the economy. According to Eurostat the salary gap between men and women was 9.7 percent in 2012.</p>
+<p>The CNCD is the government body that deals with discrimination against women. In July, following a complaint filed by a group of NGOs, the CNCD gave a warning to the mayor of Constanta, Radu Mazare, for stating in a campaign to promote the Mamaia Black Sea resort, that “ladies should be chased like deer,” and for urging younger tourists to watch the birds on the beach, while older ones could watch birds in a separate, special area. The NGOs claimed such statements were sexist and encouraged sexual harassment.</p>
+<p>While the law provides female employees reentering the workforce after maternity leave the right to return to their previous or a similar job, pregnant women and other women of childbearing age could still suffer unacknowledged discrimination in the labor market.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Children derive citizenship by birth from at least one citizen parent. Although birth registration is mandatory under the law, it was not universal, and authorities denied some children public services as a result. The most common reason for failure to register children at birth was that parents did not declare the child’s birth to authorities, sometimes because the parents lacked identity documents or residence papers or because the birth took place abroad in countries where parents were present illegally. Most such children had access to schools, and authorities assisted in obtaining birth documents for unregistered children, but the education of unregistered children depended on the decision of school authorities. Undocumented children also faced difficulties in gaining access to health care. This was a particular problem among the Romani population, but also occurred in other communities.</p>
+<p><u>Education</u>: There were reports that the government effectively segregated Romani children from non-Romani students and subjected Romani children to discriminatory treatment (see National/Racial/Ethnic Minorities).</p>
+<p><u>Child Abuse</u>: Child abuse and neglect continued to be serious problems, and public awareness remained poor. The media reported several severe cases of abuse or neglect in family homes, foster care, and child welfare institutions. According to statistics of the Ministry of Labor, Family, Social Protection, and the Elderly, by the end of March, child welfare services identified 3,202 cases of child abuse. They consisted of 264 instances of physical abuse, 465 of emotional abuse, 146 of sexual abuse, 39 of labor exploitation, six of sexual exploitation, 27 of exploitation to commit criminal offenses, and 2,255 of neglect. Of the reported cases, 1,532 involved boys and 1,670 involved girls.</p>
+<p>The government has not established a mechanism to identify and treat abused and neglected children and their families.</p>
+<p><u>Early and Forced Marriage</u>: The legal age of marriage is usually 18 for both boys and girls, but the law permits girls as young as 15 to marry under certain circumstances. Illegal child marriage was reportedly common within certain social groups, particularly Roma. According to the National Institute of Statistics, in 2013 there were 541 marriages involving girls who were minors. Media occasionally reported individual cases. There were no public policies to prevent child marriage or government institutions that dealt with the problem. In March the self-proclaimed Romani king, Dorin Cioaba, banned early marriages in the Romani community, threatening to expel from the community and report to authorities individuals who did not follow the prohibition.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law does not explicitly prohibit FGM/C. The country has no tradition of FGM/C, and there were no reported FGM/C cases.</p>
+<p><u>Sexual Exploitation of Children</u>: The new criminal code provides one- to 10-year prison sentences for persons convicted of sexual acts with minors, depending on the circumstances and the child’s age category. Any kind of sexual act with a minor 13 to 15 years of age is punishable by a one- to five-year prison sentence. A sexual act with a minor under 13 years of age is punishable by a two- to seven-year prison sentence and deprivation of some rights. In neither case is the act punishable if the age difference between the perpetrator and victim is less than three years. Any kind of sexual act committed by an adult with a minor 13 to 15 years of age, when the adult abuses his or her authority or influence over the victim, is punishable by a two- to seven-year prison sentence and deprivation of some rights. All of these forms of child exploitation are punishable by three- to 10-year prison sentences and deprivation of some rights if the minor is a sibling, is in the care, education, or treatment of the perpetrator, or if the deed was committed with the goal of producing child pornography.</p>
+<p><u>Displaced Children</u>: According to official figures from the General Directorates for Social Assistance and Child Protection, at the end of March there were 715 homeless children nationwide. NGOs working with homeless children believed there were actually two or three times that number.</p>
+<p><u>Institutionalized Children</u>: According to the Ministry of Labor, Family, Social Protection, and the Elderly there were 61,720 children in the special protection system at the end of March. Of them 37,832 were in family-type care (i.e., professional foster care or with relatives, other families, or other persons), 1,630 in alternative care (with a guardian), and 18,218 in public or private residential care.</p>
+<p>There were also reports that some personnel in state institutions mistreated abandoned children with physical disabilities and subjected children in state orphanages to lengthy incarceration as punishment for misbehavior.</p>
+<p>In the first six months of the year, according to official statistics, parents abandoned 750 children in maternity wards or other hospitals. NGOs claimed that the official statistics underestimated the problem and that the government never officially recognized many children living in state institutions as abandoned.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html"><u>http://travel.state.gov/content/childabduction/english/legal/compliance.html</u></a><u> </u>and country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/romania.html"><u>travel.state.gov/content/childabduction/english/country/romania.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>According to the 2011 census, the Jewish population numbered 3,271. Acts of anti-Semitism occurred.</p>
+<p>The law prohibits public denial of the Holocaust and includes the oppression of Roma as well as Jews in its definition of Holocaust. There were no prosecutions under the statute during the year.</p>
+<p>Extremist organizations occasionally held high-profile public events with anti-Semitic themes and sponsored events, including religious services, symposia, and marches, commemorating leaders, such as Horia Sima and Corneliu Zelea Codreanu, of the pre-World War II fascist, xenophobic, and racist Legionnaire Movement. Such events took place in Sibiu, Alba Iulia, Tandarei, Fetea, Ciolpani, and Bucharest.</p>
+<p>Some local and municipal governments occasionally honored Legionnaire members, permitted memorials to pro-Nazi historical figures and Holocaust deniers, and gave streets their names. Material promoting anti-Semitic views and glorifying Legionnaires also appeared in the media, including the internet.</p>
+<p>On May 27 and June 21, Orthodox monk Teodot, during a religious service at Petru-Voda monastery and during a religious service to celebrate the 87th anniversary of the Legionnaire Movement in Ciolpani, respectively, made anti-Semitic statements. The Federation of Jewish Communities in Romania, the Wiesel Institute, and the Center for Monitoring Anti-Semitism in Romania (MCA Romania) urged the Orthodox Church and the authorities to take action. The Orthodox Church rejected accusations that its clergy were preaching anti-Semitism and asked the monk’s supervisors to take measures against him. Authorities did not take any legal action against Teodot.</p>
+<p>In June unidentified individuals threw stones, breaking the windows of a synagogue in Ploiesti and threw a Molotov cocktail onto the wooden floor of a former synagogue in Sighisoara that hosted a cultural center. Investigations were pending in both cases.</p>
+<p>In August, Antena-1 television broadcast a news item regarding an ad posted on the internet, in which an unidentified person living in Targu Jiu offered for sale a lampshade made of the skin of a Jewish Holocaust victim for 20,000 euros ($25,000). During a phone interview with journalists, the seller offered to provide proof of its origin as well as additional lampshades for sale. MCA Romania filed a complaint with the police inspectorate of Gorj County for trafficking of human organs. Police started an investigation, which was pending at the end of October.</p>
+<p>On September 7, Prime Minister Victor Ponta, appearing on a television talk show, stated that “the impact of [President Traian] Basescu’s 10-year rule is similar to that of the Nazi regime on Germany.” The statement triggered harsh reactions from foreign and domestic politicians, civil society, diplomats, the Federation of the Romanian Jewish Communities, and the Wiesel Institute. ActiveWatch, a human rights NGO, filed a complaint with the CNCD, asserting that Ponta implicitly denied the Holocaust and trivialized Nazi crimes. On September 24, the CNCD decided that Ponta’s statements were within the limits of the freedom of expression and were not discriminatory.</p>
+<p>The government continued to implement the recommendations of the International Commission on the Holocaust in Romania (Wiesel Commission) Report and to promote Holocaust education in school curricula. The Ministry of National Education provided written materials and maintained a website with a guide for teaching about the Holocaust designed to assist teachers nationwide. Schools nationwide commemorated National Holocaust Remembrance Day, October 9.</p>
+<p>The government continued to make progress in its effort to expand education on the history of the Holocaust in Romania. Holocaust history was included in the seventh, ninth, 11th, and 12th grades. During the 2012-13 school year, 106 high schools offered the optional course, History of the Jews--The Holocaust. The Ministry of National Education sponsored national and international seminars on teaching Holocaust history and provided additional educational resources to help combat anti-Semitism. In March the Bucharest School Inspectorate and the Wiesel Institute sponsored a seminar in Bucharest regarding the teaching of the Holocaust for 150 teachers.</p>
+<p>In October 2013 the Ministry of National Education, the Wiesel Institute, the Memorial Library and Art Collection of the Second World War Society (New York), and the Association for Eastern Europe Studies agreed to organize a national school competition, The Memory of Holocaust, during the 2013-14 school year. High-level officials made public statements against extremism, anti-Semitism, xenophobia, and Holocaust denial.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, transportation (without specifying air travel), access to health care, and the provision of other services. The government did not fully implement the law, and discrimination against persons with disabilities remained a problem.</p>
+<p>In many cases persons with disabilities faced institutional and societal discrimination. According to a 2012 report drafted by the EU’s Agency for Fundamental Rights (FRA), only 1 percent of persons with mental disabilities had employment. The FRA report also indicated that persons with mental disabilities in institutional settings, in particular children, were subjected to various forms of bullying, harassment, and abuse. According to an EU-funded survey published in 2012, 87 percent of respondents viewed discrimination (broadly understood) as one of the major problems faced by persons with disabilities.</p>
+<p>The law mandates accessibility for persons with disabilities to buildings and public transportation. While the number of buildings with facilities for persons with disabilities continued to increase during the year, the country still had an insufficient number of facilities specifically designed to accommodate persons with disabilities, and persons with disabilities could have extreme difficulty navigating city streets or gaining access to public buildings.</p>
+<p>According to the Ministry of Labor, Family, Social Protection, and the Elderly, 715,201 persons with disabilities were registered at the end of March, of whom only 29,184 were employed. At the end of June, there were 387 public social assistance institutions for adults with disabilities, coordinated by the Ministry of Labor. At the end of March, there were 61,720 children with disabilities registered with the Directorate for Child Protection.</p>
+<p>Between October 2013 and March, the Center for Legal Resources (CRJ) paid unannounced visits, on the basis of written protocols with the Ministry of Labor, Family, Social Protection, and the Elderly and the Ministry of Health, to public and private residential centers for children with disabilities. As a result of these visits, the CRJ identified a series of violations of some patients’ rights and of the law. The CRJ found that there were no effective procedures to record and settle complaints and that verbal and physical abuse of children, sedation, excessive physical restraint, lack of hygiene, inadequate living conditions, lack of medical care, and lack of access to education were common problems.</p>
+<p>A CRJ report expressed concern about the observance of the rights of people with disabilities in Breaza-based Saint Toma Home for intellectually disabled. The CRJ visited this institution twice. On March 28, the CRJ was denied access to the home. On April 15, when the CRJ representatives were allowed to visit the home, they were denied access to documents regarding the condition of the patients. The CRJ reported that this center operated illegally and that six people died there during the 18 months before the CRJ visit and no proper investigation of the circumstances of the deaths took place. The CRJ further stated that the patients’ living conditions and medical care were inadequate and that they could not make complaints to the relevant authorities.</p>
+<p>After a five-day visit to the country in April, Nils Muiznieks, the Council of Europe commissioner for human rights, expressed concern about the situation of the children with disabilities placed in institutions. He noted the country’s laws were not aligned with the UN Convention on the Rights of Persons with Disabilities to ensure that persons with disabilities enjoy legal capacity on an equal basis with others in all aspects of life.</p>
+<p>In July the ECHR for the first time accepted that NGOs may represent the interests of a young HIV-positive man who had no relatives and who died in a psychiatric ward in Poiana Mare in 2004. The ECHR ruled that the state had violated the young man’s right to life and ordered it to pay 35,000 euros ($43,800) in compensation to the NGOs.</p>
+<p>According to human rights NGOs, there was no system to ensure that government-run institutions for children with mental disabilities observed the rights of children in their care.</p>
+<p>The Directorate General for the Protection of Persons with Disabilities in the Ministry of Labor coordinated at the central level the activities of special protection and advocacy for the rights of persons with disabilities, drafted policies, strategies, and standards in field of rights of persons with disabilities, and monitored the implementation of regulations.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Discrimination against Roma continued to be a major problem. Observers estimated that there were between 1.8 and 2.5 million Roma in the country, constituting approximately 10 percent of the total population. According to the most recent official census of 2011, there were 621,573 Roma, or 3.1 percent of the population.</p>
+<p>Romani groups complained that harassment and police brutality, including beatings, were routine. Both domestic and international media and observers widely reported societal discrimination against Roma. NGOs reported that Roma were denied access to, or refused service in, many public places. Roma also experienced poor access to government services, a shortage of employment opportunities, high rates of school attrition, inadequate health care, and pervasive discrimination. A lack of identity documents excluded many Roma from participating in elections, receiving social benefits, accessing health insurance, securing property documents, and participating in the labor market. Roma were disproportionately unemployed or underemployed. A study regarding the inclusion of Roma, made public in June 2013 by Impreuna Agency, a Romani rights NGO, indicated that Romani children had a higher school dropout rate than non-Romani children. Roma had a higher unemployment rate and a lower life expectancy than non-Roma.</p>
+<p>Stereotypes and discriminatory language regarding Roma were widespread. Journalists and several senior government officials made statements viewed as discriminatory by members of the Romani community; the CNCD fined some individuals as a result. Anti-Roma banners, chants, and songs were prevalent and widespread, particularly at large televised sporting events. Discriminatory ads continued to appear in written publications and on the internet.</p>
+<p>According to media reports, evictions of Roma continued in Constanta, Cluj, Pitesti, Eforie, and other localities during the year. On July 16, 10 Romani families (approximately 50 people) were evicted in Eforie from an abandoned school, where they had been relocated after having been evicted in September 2013. Three of the families (including 14 children) did not receive any housing, and the rest were relocated in container homes.</p>
+<p>NGOs and the media reported that discrimination by teachers and other students against Romani students was a disincentive for Romani children to complete their studies. Despite an order by the Ministry of Education forbidding segregation of Romani students, there were anecdotal reports of school officials placing Romani children in the back of classrooms, teachers ignoring Romani students, and unimpeded bullying of Romani students by other schoolchildren. In some communities authorities placed Romani students in separate classrooms or even in separate schools.</p>
+<p>NGO observers noted Romani women faced both gender and ethnic discrimination. Romani women often lacked the training, marketable skills, or relevant work experience needed to participate in the formal economy.</p>
+<p>On February 10, the CNCD decided that President Basescu’s 2010 statement that “few of the nomad Roma want to work; many of them traditionally live on what they steal” was discriminatory and fined him 600 lei ($160). Basescu challenged the decision in court and the Bucharest Court of Appeal rejected his complaint on June 27.</p>
+<p>In December 2013 the court in Cluj decided that the eviction of 270 Roma from downtown Cluj and their relocation to Pata Rat near a garbage dump in 2010 was illegal and ruled that each of the evicted Roma should receive 2,000 euros ($2,500) as compensation.</p>
+<p>The National Agency for Roma was tasked with coordinating public policies for Roma. Romani NGOs, however, criticized the scope of this agency’s responsibilities, noting that they were too broad and often overlapped with the activities of other government bodies. NGOs also criticized the ineffectiveness of the National Strategy to Improve the Situation of Roma. Despite opposition and criticism by a large number of NGOs, on May 27 the parliament adopted a law that establishes a government-controlled NGO to attract domestic and foreign funds for Roma programs. NGOs believed that such a foundation would supersede both the National Agency for Roma and civil society and would have a monopoly of activities in this area.</p>
+<p>Within the General Inspectorate of the Romanian Police, an advisory board is responsible for managing the relationship between police and the Romani community. To improve relations with the Romani community, police continued to use Romani mediators to facilitate communication between Roma and authorities and to assist in crises.</p>
+<p>According to the most recent census, conducted in 2011, ethnic Hungarians were the country’s largest ethnic minority with a population of approximately 1.2 million.</p>
+<p>Ethnic Hungarians continued to report that they faced discrimination. They stated that they were not permitted use their maternal language in courts, that many municipalities did not use bilingual signs, and that there were obstructions and bans against the use of the Szekler flag. The High Court of Cassation and Justice ruled that the local authorities’ requirement for public servants to speak the Hungarian language in areas with a majority ethnic Hungarian population was discriminatory against other ethnic groups. Additional court and CNCD rulings stated that funding publications only in the Hungarian language discriminated against other ethnic groups. Ethnic Hungarians called these decisions discriminatory.</p>
+<p>The CNCD rejected a July 2013 complaint filed by the Democratic Union of Hungarians in Romania (UDMR) against the Romanian Agency to Ensure the Quality of Higher Education, which distributed a letter stating that resident doctors have to speak only Romanian with their patients. The UDMR’s complaint stated that the requirement negatively affected quality of care for ethnic Hungarian patients and inhibited practical training of ethnic Hungarian students.</p>
+<p>In the region of Moldavia, the Roman Catholic, Hungarian-speaking Csango minority continued to operate government-funded Hungarian language classes. In some other localities, authorities denied requests for Hungarian language classes.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination based on sexual orientation. NGOs reported that police abuse and societal discrimination against LGBT persons were common and that open hostility prevented the reporting of some harassment and discrimination. Members of the LGBT community continued to voice concerns about discrimination in public education and the health care system.</p>
+<p>On March 13, Member of Parliament Sonia Draghici made derogatory statements about homosexuality in an interview with the daily newspaper <i>Gandul</i>, implying that it was a mental illness or at least a behavioral flaw and linking it to pedophilia.</p>
+<p>In September, following a complaint by a client, a gay couple was forbidden by the director of the fitness club in the Radisson Blu Hotel in Bucharest to change the clothes of their three-year-old daughter in the men’s locker. The couple and ACCEPT Association, an NGO promoting LGBT rights, filed a complaint with the CNCD.</p>
+<p>In September the Orthodox Church asked local authorities in Botosani to remove an array of umbrellas meant to provide shade at tables in a sitting area in the traditional city center. The array consisted of approximately 40 umbrellas of different colors, and Orthodox priests believed that their rainbow colors represented the LGBT community. Authorities acceded to the request and removed the umbrellas.</p>
+<p>The law governing the ability of transgender persons to change their identity was vague and incomplete, resulting in inconsistency in judicial practice concerning legal recognition of gender identity, and in some cases recognition of a change in identity was denied unless a sex-reassignment intervention had occurred. Because of the difficult legal procedure for gender recognition, it was often impossible for transgender persons to get documents reflecting their gender identity, which led to difficulties in the area of all services requiring identity documents (health care, transportation pass, banking services). There were reports that transgender persons faced particular difficulties in accessing health care because doctors had very limited knowledge about transgender issues and, consequently, did not know how to treat transgender patients. There were almost no doctors who had the knowledge or willingness to undertake sex-reassignment surgery. Access to adequate psychological services was also limited because there were few specialists with the knowledge and expertise to deal with transgender issues, while others refused to accept transgender patients.</p>
+<p>In June the High Court of Cassation and Justice ruled in favor of ACCEPT regarding the case of a young man whom police had harassed and threatened in 2011 based on his presumed sexual orientation. Police did not investigate the case, and the CNCD stated that it did not have the competence to investigate internal measures by the police.</p>
+<p>On June 7, more than 500 persons participated in the gay pride parade in Bucharest, which transpired without incident. Prior to the pride parade, several dozen persons took part in a “normalcy march” sponsored by an extreme-right NGO, the New Right, to protest against homosexuality. The EU Commission and the embassies of 18 countries signed a message of support for the rights of LGBT persons.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>According to the national HIV/AIDS database maintained by the Ministry of Health, 12,603 patients diagnosed with HIV and AIDS were registered at the end of June 2014. Of these, 8,846 patients received free retroviral treatment, but the treatment was interrupted in many counties during the year because of red tape and insufficient funding by the Ministry of Health.</p>
+<p>The government did not adopt a national strategy on HIV, and consequently there was no national HIV-prevention program in place. Additionally the lack of sex education programs in schools negatively affected the health of the LGBT community and the general population.</p>
+<p>Societal discrimination against persons with HIV/AIDS occurred. Although the law provides that HIV-infected persons have the right to confidentiality and to adequate treatment, authorities rarely enforced the law, and discrimination against persons with HIV/AIDS impeded access to routine medical and dental care. Breaches of confidentiality involving individuals’ HIV status were common and rarely punished.</p>
+<p>Observers noted authorities’ failure to protect children with HIV/AIDS from widespread discrimination, abuse, and neglect. Some doctors reportedly refused to treat children and youths with HIV/AIDS. Medical personnel, school officials, and government employees did not always maintain the confidentiality of information about infected children. HIV-infected adolescents frequently experienced reduced access to facilities for reproductive health care and the prevention of HIV and sexually transmitted infections. The government provided access to antiretroviral therapy, although stigma and discrimination against persons with HIV/AIDS frequently impeded their access to education, other medical care, government services, and employment. Many infected persons dropped out of school due to stigmatization, discrimination, or disease.</p>
+<p>In August the media reported the case of an HIV-positive young man who was denied dental treatment in Suceava County and had to go to Constanta County, where he found a foundation willing to treat him.</p>
+<p>HIV-positive women reported to the Euroregional Center for Public Initiatives (ECPI) in 2012 that they had difficulty accessing maternal health care in maternity hospitals due to discrimination by medical personnel. They asserted they experienced degrading treatment, breaches of confidentiality, segregation, and denial of cesarean sections. The ECPI noted that the medical staffs of obstetrics and gynecology units did not appear to understand and apply the Ministry of Health’s clinical guidelines for the management of pregnancy in HIV-positive women. The center received information that some hospitals automatically tested pregnant women for HIV prior to giving birth without informed consent and prior counseling, although HIV testing is voluntary under the law.</p>
+</div>
+</div>
+<div class="sub-section section6promotionof">
+<a class="goto" name="section6promotionof"></a>
+<h2>
+				Promotion of Acts of Discrimination</h2>
+<div class="sub-section_content">
+<p>Throughout the year government officials made statements that contributed to ethnic stereotyping of Roma (see section 6, National/Racial/Ethnic Minorities).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section7"> </span><span class="st_twitter" st_title="Romania #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Romania - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236568%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the rights of workers to form and join independent labor unions, bargain collectively, and conduct legal strikes. The law prohibits antiunion discrimination but does not require reinstatement of workers fired for union activity. The government did not fully respect these rights, as mechanisms for enforcement, including implementing regulations and sanctions, were not in place.</p>
+<p>Employees of the Ministry of National Defense, certain categories of civilian employees of the Ministry of Interior and the Ministry of Justice, judges, prosecutors, and intelligence personnel did not have the right to unionize. The law does not allow certain public sector workers, such as those involved in border protection, prisons, or the military, to form unions or strike. This includes any employee involved in security-related activities, and security-related activities are broadly defined. Although the law permits strikes by most workers, lengthy and cumbersome requirements made it difficult to hold strikes legally. Although not compulsory, unions normally seek arbitration from the Ministry of Labor and Social Protection. Unions may strike only if they give employers 48 hours’ notice. Only strikes in defense of workers’ economic interests are permitted, and arbitration, although not compulsory, was a normal practice, with most arbitrations resolved within 20 days. The law provides no legal basis for national collective labor contracts. The law providing for employers and unions to negotiate collective bargaining agreements at “lower levels” (local) had not defined these levels by year’s end. Employers are not required to consult with unions on such problems as granting employees leave without pay or reducing the workweek due to economic reasons.</p>
+<p>The law does not effectively protect against antiunion discrimination because there are no accompanying sanctions for such discrimination. Some union representatives alleged that, due to extensive legal loopholes, enforcement remained minimal, in particular in small and medium sized private businesses. Under the law union leaders may be fired for reasons related to their professional performance as an employee.</p>
+<p>Unions remained concerned that they must submit their grievances to government-sponsored arbitration before initiating a strike and that the courts had a propensity to declare strikes illegal. Companies may claim damages from strike organizers if a court deems a strike illegal.</p>
+<p>Trade unions continued to raise concerns pertaining to the division of trade union assets, lengthy procedures for registering trade unions and modifying union statutes or executive committees, and excessive control of trade union finances. Discrepancies between national law and international labor standards on freedom of association exist, including those pertaining to the scope of application of the law on certain categories of workers, eligibility conditions for trade union officials and restrictions of trade union activities.</p>
+<p>The government did not effectively enforce applicable laws. Resources related to implementing regulations were not adequate to provide for effective enforcement. Inspections were limited and in 2013 included reports of managers receiving advanced notice of unannounced inspections. Information regarding penalties for violations and their sufficiency to deter violations was not available. Administrative and judicial procedures were subject to lengthy delays.</p>
+<p>The government generally respected the right of association, and union officials stated that registration requirements stipulated by law were complicated but generally reasonable. Unions objected to the requirement that they submit lists of prospective union members with their registration application. Since employers also had access to this list, union officials feared that this could lead to reprisals against individual unionized employees, hindering the formation of new unions.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. Nevertheless, there were reports that such practices continued to occur.</p>
+<p>The government effectively enforced the law. Penalties included prison terms of six months to three years and were sufficient to deter violations.</p>
+<p>Romanian men, women, and children were subjected to labor trafficking in agriculture, construction, domestic service, hotels, and manufacturing. Organized rings, often involving family members, forced persons, including significant numbers of Romani women and children, as well as women and children from Moldova, to engage in begging and petty theft (also see section 7.c.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for most forms of employment is 16. Children may work with the consent of parents or guardians at age 15. The law prohibits minors (under 18) from working in hazardous conditions, provides a basis for the elimination of hazardous work for children, includes a list of dangerous jobs, and specifies penalties for offenders. Parents whose children carry out hazardous activities are required to attend parental education programs or counseling and can be fined between 100 lei ($27) and 1,000 lei ($270) for failure to do so. Persons who employ children for hazardous tasks can be fined 500 lei ($135) to 1,500 lei ($405).</p>
+<p>Minors over the age of 15 and enrolled in school are also prohibited from performing specified activities that might endanger their health, morality, or safety. Children under the age of 16 who work have the right to continue their education, and the law obliges employers to assist in this regard. Children between ages 15 and 18 may work a maximum of six hours per day and no more than 30 hours per week, provided their school attendance is not affected. Many children reportedly did not attend school while working. Minors may not work overtime or during the night and have the right to an additional three days of annual leave.</p>
+<p>The law requires schools to notify social services immediately if children miss class to work. Social services have the responsibility to reintegrate such children into the educational system. Due to lack of funding, the government did not conduct information campaigns to raise awareness of child labor and children’s rights among children, potential employers, school officials, and the general public.</p>
+<p>The Ministry of Labor can impose fines and close factories where it finds exploitation of child labor, but enforcement of most violations tended to be lax. In previous years employers found to have violated child labor laws were generally required to pay the 500 lei ($135) to 1,500 lei ($405) fine, but not prosecuted in court.</p>
+<p>Child labor, including begging, selling trinkets on the street, and washing windshields, remained widespread in Romani communities, especially in urban areas. Children as young as five engaged in such activities.</p>
+<p>The Directorate for Child Protection (DPC) in the Ministry of Labor is responsible for monitoring and coordinating all programs for the prevention and elimination of the worst forms of child labor. According to DPC statistics, for the first three months of the year, there were 39 confirmed cases of child labor. Of this total, 21 cases were in urban areas and 18 cases in rural ones; 11 cases involved girls and 28 boys; 27 of the children were below 14 years of age, and 12 were between 14 and 18.</p>
+<p>The government effectively enforced the law. Penalties included fines of 500 to 1,500 lei ($135 to $405). There were 39 cases of child labor violations in the first three months of 2014.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws and regulations prohibit discrimination regarding race, sex, gender, disability, language, sexual orientation and/or gender identity, HIV-positive status or other communicable diseases, or social status. The government did not enforce these laws effectively.</p>
+<p>Discrimination in employment or occupation occurred with respect to, gender, disability, and HIV-positive status. Discrimination against Roma and migrant workers occurred (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>Effective in January, the gross minimum wage was 850 lei ($230), which was subsequently raised to 900 lei ($244) on July 1 for a full-time schedule of 169.3 hours per month, or approximately 5.31 lei ($1.44) per hour. The minimum wage for skilled workers was 20 percent higher. According to Eurostat, the monthly individual income level for persons “at risk of poverty threshold” was 907 lei ($246) in 2010. The law provides for equal pay for equal work.</p>
+<p>The law provides for a standard workweek of 40 hours or five days. Workers are entitled to overtime pay for weekend or holiday work or work in excess of 40 hours, which may not exceed 48 hours per week, averaged for the month. The law requires a 24-hour rest period in the workweek, although most workers received two days off per week. During reductions of workplace activity for economic or technical reasons, the law allows employers to shorten employees’ workweek and reduce associated salary. Excessive overtime can lead to fines on employers if workers file a complaint, but complaints were rare. The law prohibits compulsory overtime.</p>
+<p>The law gives employers wide discretion regarding performance-based evaluation of employees. The law permits lengthier trial periods for new employees and simplifies termination procedures during this probationary period.</p>
+<p>The law provides for temporary and seasonal work and sets penalties for work performed without a labor contract in either the formal or the informal sector of the economy. The use of illegal labor allows for incarceration or fines up to 100,000 lei ($27,000). The maximum duration of a temporary contract is 24 months and can be extended successively as long as the total contract length does not exceed 36 months, in accordance with EU law.</p>
+<p>The Ministry of Labor is responsible for enforcing the law on working conditions, safety, and minimum wage rates. According to trade union reports, many employers paid supplemental salaries under the table to reduce both the employees’ and the employers’ tax burdens. This practice negatively affects employees’ future pensions and their ability to obtain credit from banks and other lenders. During the year approximately one-quarter of all employees received only the minimum wage.</p>
+<p>The government did not effectively enforce working time standards. Union leaders complained that overtime violations were the main problem facing their members, since employees were often required to work more than the legal maximum number of hours, and the overtime compensation required by law was not always paid. This practice was especially prevalent in the textile, banking and finance, and construction sectors. Union officials alleged that a majority of on-the-job accidents occurred during such compulsory, uncompensated overtime. During the year the government enforced prohibition on work without a labor contract weakly, in part because of corruption within the labor inspectorate and also because both employers and employees could benefit from lower taxes by working without a labor contract or by receiving a supplemental salary under the table. Authorities rarely fully enforced sanctions against employers using illegal labor under the previous law. Previously, the country had an estimated 1,500 labor inspectors at the national level, although union representatives believed this number has dropped in recent years due to budget cuts. Penalties for violations ranged from 300 lei ($84) for minor violations up to 100,000 lei ($27,000) for more serious violations. Penalties were generally not sufficiently serious or well enough enforced to deter violations.</p>
+<p>The ministry is responsible for establishing and enforcing safety standards for most industries but lacked trained personnel to do so effectively. Employers often ignored the ministry’s recommendations.</p>
+<p>Information regarding the number of workplace accidents and fatalities was not available.</p>
+<p>Workers cannot remove themselves from situations that endanger health or safety without jeopardy to their employment. There are no whistleblower laws for labor issues.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
