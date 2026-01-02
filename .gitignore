@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# raw datasets (do not track)
+dataset/2013/
+dataset/2014/
+dataset/2015/
