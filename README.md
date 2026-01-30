@@ -425,8 +425,3 @@ All code and processed data from Zahra Eshtiaghi's unsupervised BERTopic impleme
 4. Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. *Journal of Machine Learning Research*.
 5. McInnes, L., Healy, J., & Melville, J. (2018). UMAP: Uniform Manifold Approximation and Projection. *arXiv:1802.03426*.
 
----
-
-**Author Contributions:** Zahra Eshtiaghi (476679) implemented the unsupervised transformer-based BERTopic methodology, including all preprocessing, model training, evaluation metrics, regional and temporal analysis. Other team members contributed complementary methodologies and comparative analysis.
-
-*This report documents collaborative work with clearly delineated individual contributions.*
