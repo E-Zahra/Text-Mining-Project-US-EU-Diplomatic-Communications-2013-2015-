@@ -238,8 +238,10 @@ The project highlights how computational methods can complement traditional dipl
 4. DiMaggio, P., Nag, M., & Blei, D. (2013). Exploiting affinities between topic modeling and the sociological perspective on culture. *Poetics*.
 
 ## **Appendix: Technical Implementation Details**
+topicmodeling_corpus.ipynb
+topicmodeling_Transformer_Final.ipynb
+supervised_topic_modeling.ipynb
 
-Complete code, preprocessing scripts, model configurations, and analysis notebooks are available in our project repository: [GitHub Link]
 
 *Table A1: Complete Parameter Settings*
 | **Parameter** | **LDA Value** | **BERTopic Value** |
