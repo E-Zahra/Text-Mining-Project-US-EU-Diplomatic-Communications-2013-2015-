@@ -395,12 +395,12 @@ This project makes four significant contributions:
 
 ### **8.3 Code Repository Structure**
 
-```
+
 **Notebook Files:**
 1. `topicmodeling_corpus.ipynb` - Traditional LDA implementation
 2. `topicmodeling_Transformer.ipynb` - Unsupervised BERTopic implementation
 3. `supervised_topic_modeling.ipynb` - Supervised BERTopic with hyperparameter optimization
-```
+
 
 ## **References**
 
