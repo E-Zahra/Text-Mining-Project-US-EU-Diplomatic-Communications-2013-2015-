@@ -1,0 +1,588 @@
+2014
+France
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524"> </span><span class="st_facebook" st_title="France" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524"> </span><span class="st_twitter" st_title="France #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236524">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236524</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=executive"> </span><span class="st_twitter" st_title="France #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>France is a multi-party constitutional democracy. The president of the republic is elected by popular vote for a five-year term. Voters elected Francois Hollande to that position in 2012. The upper house (Senate) of the bicameral parliament is elected indirectly through an electoral college, while the public elects the lower house (National Assembly) directly. The 2012 presidential and National Assembly elections and the 2014 elections for the Senate were considered free and fair. Authorities generally maintained effective control over the security forces.</p>
+<p>The most significant human rights problems during the year included an increasing number of anti-Semitic incidents. Anti-Semitic incidents and violence surged during the summer in connection with public protests against Israeli actions in Gaza. Government evictions of Roma from illegal camps, as well as overcrowded and unhygienic prisons, and problems in the judicial system, including lengthy pretrial detention and protracted investigations and trials, continued.</p>
+<p>Other reported human rights problems included instances of excessive use of force by police, societal violence against women, anti-Muslim incidents, and trafficking in persons.</p>
+<p>The government took steps to prosecute and punish security forces and other officials who committed abuses. Impunity was not widespread.</p>
+<p><i>Note: The country includes 11 overseas administrative divisions covered in this report. Four overseas territories in French Guiana, Guadeloupe, Martinique, and La Reunion have the same political status as the 22 metropolitan regions and 101 departments on the mainland. Five divisions are overseas “collectivities”: French Polynesia, Saint-Barthelemy, Saint-Martin, Saint-Pierre and Miquelon, and Wallis and Futuna. New Caledonia is a special overseas collectivity with a unique, semiautonomous status between an independent country and an overseas department. Citizens of these territories periodically elect deputies and senators to represent them in parliament, like the other overseas regions and departments</i>.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section1"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances, abductions, or kidnappings.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices. There were, however, occasional accusations of police discrimination and degrading treatment.</p>
+<p>In 2012 the Council of Europe’s Committee for the Prevention of Torture (CPT) released a report on its 2010 visit to the country. The report noted detainee allegations of excessive use of force by police officers during arrests and beatings shortly after arrest, some of which involved minors and persons suffering psychiatric disorders. In many cases CPT physicians identified injuries to prisoners consistent with these allegations.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>While prisons and detention centers met many international standards, credible nongovernmental organizations (NGOs) and government officials reported overcrowding and unhygienic conditions in prisons. The government permitted visits by independent human rights observers.</p>
+<p><u>Physical Conditions</u>: The maximum acceptable capacity for the country’s 190 prisons was 57,390 inmates. As of October the Prison Service reported the country’s prisons held 66,494 inmates, including 2,213 women and 712 minors, representing 114.5 percent of prison capacity. The number of inmates decreased slightly from the end of 2013, when 67,738 persons were reported as incarcerated. Detention conditions for women were often better than for men because overcrowding was less common. The occupancy rate was 238 percent at the Faa’a Nuutania prison in French Polynesia. No information was available on prison capacities and occupancy rates in other overseas territories.</p>
+<p>A January 2013 National Assembly Commission on Laws report described overcrowding in prisons as “an alarming situation” and outlined ways to reduce the problem. The report cited instances of “very poor” and “undignified” living conditions as well as “unsanitary” facilities, especially in older prisons and those in overseas territories.</p>
+<p>Although there were no known deaths in prison due to mistreatment or adverse conditions during the year, prison suicides remained a problem. According to credible NGOs, 97 inmates committed suicide in 2013, a figure considerably higher than the per capita suicide rates outside prison. Prisoners and detainees had access to potable water, and food provided was adequate.</p>
+<p>On July 23, the Administrative Court of Lille ordered the state to pay 34,000 euros ($42,500) in compensation to the family of a prisoner who died in 2007 following several epileptic crises without receiving treatment from emergency services.</p>
+<p>In its 2012 report, the CPT raised concerns about inadequate medical and psychiatric staffing and degrading treatment of prisoners by prison staff during medical evaluations in some prisons. The CPT also noted overall good conditions in detention centers but mentioned detainee complaints of derogatory comments by staff and the lack of opportunities for detainees to work or engage in other activities.</p>
+<p>Authorities maintained administrative holding centers for foreigners who could not be immediately deported. Authorities could hold undocumented migrants in these facilities for a maximum of 45 days. There were 25 holding centers on the mainland and three in the overseas territories with a total capacity of 1,755.</p>
+<p>In April 2013 the defender of rights submitted his report on the overall migration situation in the department of Mayotte, located in the Indian Ocean. Observing that approximately 3,000 unaccompanied foreign minors on the island were not receiving assistance, the defender of rights sent a letter to the interior minister on February 24, recalling the duty of public authorities to protect children and urging the government to establish a representation of the French Office for Immigration and Integration on Mayotte to provide better support to minors. Since 2012, local police can detain suspected undocumented migrants for not having a residency permit up to four hours.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was adequate. Authorities permitted prisoners and detainees reasonable access to visitors and to religious observance. Authorities allowed prisoners and detainees to submit complaints to judicial authorities without censorship and to request investigation of credible allegations of inhuman conditions. Authorities investigated such allegations and documented the results in a publicly accessible manner. The government investigated and monitored prison and detention center conditions.</p>
+<p>On July 17, the parliament adopted Justice Minister Taubira’s criminal law reform, eliminating mandatory minimum sentences for repeat offenders. The law, aimed at reducing the size of the country’s prison population, creates a new form of penalty without prison sentencing. Part of the criminal law reform includes the increased use of electronic surveillance for prison sentences up to two years and makes repeat offenders convicted of nonviolent crimes eligible for probation.</p>
+<p>The Inspector General for Places of Detention, an independent authority, is responsible for ensuring that authorities respect detainees’ fundamental rights. In addition detainees may address concerns about the prison or justice system to the state mediator or his delegate, who are part of the Office of the Defender of Rights. On May 15, the parliament strengthened the Office of the Inspector General, increasing access to information and improving the protection of sources of information.</p>
+<p>As of October 1, 10,120 prisoners were under electronic surveillance, a 2.5 percent increase from October 2013.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison visits by independent human rights observers, both local and foreign. In addition to periodic visits by the CPT, the UN Committee against Torture regularly examined prisons, most recently in 2010.</p>
+<p><u>Improvements</u>: The Ministry of Justice continued to increase prisoner access to work, sports, libraries, worship, cultural services, education, and training programs.</p>
+<p>On July 21, authorities closed the Sante prison in Paris and began a complete renovation. The Inspector General for Places of Detention cited the prison in Paris for “dysfunction and degrading living conditions” in a 2012 report.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions, although lengthy pretrial detention was a problem. The government handed down 49 decisions in wrongful incarceration trials in 2013 and provided approximately 1.1 million euros ($1.4 million) in financial compensation to victims.</p>
+<p>On January 6, the Paris Court of Appeals ordered authorities to pay 45,000 euros ($56,000) in compensation to a Guinea-born citizen wrongly convicted and jailed for five months in 2001 in a case of mistaken identity with a convicted child rapist of the same name.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>Under the direction of the Ministry of the Interior, Overseas France, Local Authorities, and Immigration, a civilian national police force of 140,000 and a quasi-military national gendarmes force of 100,000 maintained internal security. In conjunction with specific gendarme units used for military operations, the army was responsible for external security under the Ministry of Defense. Observers considered police and gendarmes generally effective.</p>
+<p>Official impunity was not widespread. The Inspector General of National Police (IGPN) and the Office of Judicial Police investigated and prosecuted allegations of brutality in the police force and the gendarmes, a unit within the armed forces responsible for general law enforcement. The Office of the Defender of Rights (DOR), the equivalent of an official ombudsman for civil liberties, investigated allegations of misconduct by municipal police, gendarmes, and private security forces and reported its findings to the prime minister and parliament. According to the 2013 DOR report, individuals filed 571 complaints against security forces in 2013.</p>
+<p>On February 19, Saint-Denis’s prosecutor on Reunion Island charged four police officers for voluntary aggravated assault and failure to assist a person in danger after they fired a flash-ball (a nonlethal, handheld weapon), causing a teenager to lose an eye. The date of the trial had not been set by year’s end.</p>
+<p>According to the 2013 IGPN report, 2,416 police officers received sanctions in 2013, a 7 percent decrease compared with 2012.</p>
+<p>In September 2013 the IGPN initiated an inquiry into anti-Muslim comments made on Facebook by police officers who had conducted an identity check of a woman in Trappes wearing the banned face-covering veil. The identity check led to two days of rioting in July 2013. In November 2013 the Versailles public prosecutor opened an official inquiry into the actions of an officer involved in the incident. The inquiry sought to determine whether prosecution of the officer for “incitement to hatred on the basis of religion” was warranted. On January 30, authorities charged the officer and, on March 26, decided to prosecute him. No trial date had been set at year’s end.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires police to obtain warrants based on sufficient evidence prior to detaining suspects, but police can immediately arrest suspects caught committing an illegal act. Individuals have the right to a judicial notification on the legality of their detention during their first hour in custody, and authorities generally respected this right.</p>
+<p>By law police must inform persons taken into custody of their right to remain silent and their right to have a lawyer present during questioning. Authorities must inform detainees of charges against them once they are in police custody, and defense lawyers can ask questions throughout the interrogation. If a medical examination is required, the examiner must respect professional confidentiality. The law forbids complete strip searches except in cases where authorities suspect the accused of hiding dangerous items or drugs. A system of bail exists, and authorities made use of it. Detainees generally had access to a lawyer, and the state provides legal counsel to indigent detainees. The law allows police to detain individuals for up to 24 hours if police suspect them of having committed a crime punishable by a prison sentence. Authorities may extend this period of detention for an additional 24 hours regardless of the seriousness of the crime.</p>
+<p>In cases involving terrorism or drug trafficking, the law allows extended periods of detention before notification to counsel. Authorities may hold suspects for up to 96 hours without charge or access to a lawyer and may petition a judge to extend detention by an additional 48 hours. Following this maximum six-day period, authorities must either charge suspects or release them.</p>
+<p><u>Pretrial Detention</u>: Long delays in bringing cases to trial and lengthy pretrial detention were problems. Although authorities generally allowed pretrial detention only in cases involving possible sentences of more than three years in prison, some suspects spent many years in detention before trial. As of October pretrial detainees made up 25.9 percent of the prison population.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, and the government generally respected judicial independence; however, delays in bringing cases to trial were a problem. The country does not have an independent military court; rather, the Paris Magistrates Court tries any military personnel who commit crimes outside the country.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for the right to a fair trial, and an independent judiciary generally enforced this right. Defendants enjoy a presumption of innocence, and authorities inform defendants of the charges against them at the time of arrest. Except for those involving minors, trials are public and usually held before a judge or tribunal of judges. In cases where the potential punishment exceeds 10 years’ imprisonment, a panel of professional and lay judges hears the case. Defendants have the right to be present and to consult with an attorney in a timely manner. Authorities provide an attorney at public expense if needed when defendants face serious criminal charges. Defendants are able to question the testimony of prosecution witnesses and present witnesses and evidence in their defense. Authorities allow defendants adequate time and facilities to prepare a defense. Defendants and their attorneys have access to government-held evidence relevant to their cases. Defendants have the right to remain silent and to appeal.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent and impartial judiciary in civil matters and access to a court to bring lawsuits seeking damages for, or cessation of, human rights violations. Individuals can file complaints with the European Court of Human Rights (ECHR) for alleged violations of the European Convention on Human Rights by the state once they have exhausted avenues for appeal through the domestic courts.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>The country is subject to the jurisdiction of the ECHR. In 2013 the ECHR issued 28 judgments involving at least one violation by the state of the European Convention on Human Rights. The government generally complied with ECHR decisions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit interference with privacy, family, home, or correspondence, and there were no reports that the government failed to respect these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section2"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to ensure freedom of speech and press.</p>
+<p><u>Freedom of Speech</u>: While individuals could criticize the government publicly or privately without reprisal, there were some limitations of freedom of speech. Strict antidefamation laws prohibit racially or religiously motivated verbal and physical abuse. Written or oral speech that incites racial or ethnic hatred as well as Holocaust denial and denial of crimes against humanity are illegal. Authorities may deport a noncitizen for publicly using “hate speech” or speech constituting a threat of terrorism.</p>
+<p><u>Press Freedoms</u>: While the independent media were active and generally expressed a wide variety of views without restriction, the media were subject to the same antidefamation laws that limited freedom of speech. The law provides protection to journalists, who can be compelled to reveal sources only in cases where serious crimes occurred and access to a journalist’s sources was required to complete an official investigation.</p>
+<p>On June 17, the Superior Council of Audiovisual (CSA), an independent broadcasting authority, strongly warned radio RTL after broadcaster Eric Zemmour stated in a May 6 chronicle, “the great invasions that followed the fall of the Roman empire have been replaced by gangs of Chechens, Roma, Kosovars, people from Maghreb, and Africans, who rob, assault and pillage.” The CSA asserted that Zemmour’s statements could encourage discriminatory behavior towards the populations he cited.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal oversight. Of the general population, 80 percent had access to the internet, according to the International Telecommunication Union.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt"><u>www.state.gov/j/drl/irf/rpt</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of movement within the country, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p>The law requires persons engaged in itinerant activities with a fixed domicile to obtain a license renewable every four years. Itinerant persons without a fixed abode must possess travel documents. In 2012 the Constitutional Council partially repealed a law requiring members of the itinerant community to update papers every three months because it found that the law was economically discriminatory. The ruling also repealed the previously imposed fine on individuals who were late in renewing their documents. In February 2013 Jean-Marc Ayrault, then prime minister, created a special temporary commission to review possible methods to promote the social inclusion of the itinerant community. On March 28, the UN Human Rights Council ordered the state to amend its legislation within six months because the registration booklet does not respect the principle of free movement of persons.</p>
+<p>On November 4, the parliament adopted a bill aimed at preventing the recruitment of French citizens and residents to join terrorist groups, including those fighting in Syria and Iraq. The bill includes a ban on leaving the country for anyone suspected of planning to travel abroad to take part in terrorist activities, the creation of an “individual terrorist enterprise” offense, and an administrative blocking of websites that endorse acts of terrorism.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws provide for the granting of asylum or refugee status, and the government has a system for providing protection to refugees. The system was active and accessible to those seeking protection. The Office for the Protection of Refugees and Stateless Refugees (OFPRA) provided asylum application forms in 24 languages, including English, Albanian, Russian, Serbo-Croatian, Turkish, Tamil, and Arabic, although applicants must complete them in French.</p>
+<p><u>Safe Country of Origin/Transit</u>: The government considered 17 countries to be “safe countries of origin” for purposes of asylum. A “safe country” is one that provides for compliance with principles of liberty, democracy, rule of law, and fundamental human rights. This policy reduced the chances of an asylum seeker from one of these countries obtaining asylum but did not prevent it. While individuals originating from a safe country of origin may apply for asylum, they may receive only a special form of temporary residence status allowing them to remain in the country. Authorities examined asylum requests through an emergency procedure that cannot exceed 15 days. Countries considered “safe” included Albania, Armenia, Benin, Bosnia and Herzegovina, Cape Verde, Georgia, Ghana, India, Kosovo, Macedonia, Mauritius, Moldova, Mongolia, Montenegro, Senegal, Serbia, and Tanzania.</p>
+<p><u>Refoulement</u>: The government provided protection against the expulsion or return of persons to countries where their lives or freedom would be threatened because of race, religion, nationality, membership in a particular social group, or political opinion. Nevertheless, human rights groups regularly criticized the government’s deportation practices for their strict adherence to the law. During the year several French NGOs provided legal advice to immigrants and criticized individual cases of deportations.</p>
+<p><u>Temporary Protection</u>: Temporary protection is a procedure that provides for immediate temporary protection in the case of a mass influx or an imminent influx of displaced persons. Authorities often initiated this protection when the asylum system was unable to process such an influx. Authorities may grant individuals a one-year renewable permit, which could be extended for an additional two years. According to OFPRA, the government granted temporary protection to 11,371 persons in 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>According to OFPRA there were 1,247 stateless persons in the country as of January, which OFPRA attributed to various factors, including contradictions between differing national laws, government stripping of nationality, or lack of birth registration. As the agency responsible for the implementation of international conventions on refugees and stateless persons, OFPRA provided benefits to stateless persons. The government provides a one-year residence permit marked “private and family life” to persons deemed stateless, which allows them to work. After two permit renewals, stateless persons can apply for and obtain a 10-year resident permit.</p>
+<p>The laws afford individuals the opportunity to gain citizenship. A person may become a citizen if either parent is a citizen, is legally adopted by a citizen, is a child born in the country to stateless parents or to individuals whose nationality does not transfer to the child, or through marriage to a citizen. A person who has reached the legal age of majority, 18, may apply for citizenship through naturalization after five years of habitual residence in the country. Applicants for citizenship must have good knowledge of both the French language and civics.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section3"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: The 2012 presidential and national assembly elections were considered free and fair, as were the September 28 elections.</p>
+<p><u>Participation of Women and Minorities</u>: Following the 2012 National Assembly elections and 2014 by-elections, there were 238 women in the two chambers of the 925-seat parliament, 151 in the National Assembly, and 87 in the Senate. There were 16 female ministers in the 34-member ministerial cabinet. Women made up 48 percent of regional council members, 13.9 percent of departmental council members, and 40.3 percent of municipal council members. Women held three presidencies of the 26 regional councils, six presidencies of the 101 departmental councils, two presidencies of the eight overseas territorial administrations, and 16 percent of mayoral positions. The law requires political parties to present candidate lists containing equal numbers of male and female candidates or face fines.</p>
+<p>Because the law prohibits the government from collecting information on the racial or ethnic background of residents of the country, no statistics on minority participation in government were available. With the exception of parliamentary representatives from some of the overseas territories where the populations were predominantly of non-European origin, minorities appeared significantly underrepresented in the government. At year’s end there were 11 self-identified, ethnic minority members in the National Assembly. These members comprised 2 percent of the National Assembly, while 10 percent of the country’s citizens were foreign born. As of year’s end, six of the 34 cabinet ministers were from ethnic minorities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section4"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, and the government generally implemented these laws effectively. The law provides for public access to government information, and the government provided access for citizens and noncitizens, including foreign media. There were some reports of government corruption during the year.</p>
+<p><u>Corruption</u>: On April 10, French billionaire industrialist and main opposition center-right Union for a Popular Movement Senator Serge Dassault was charged with vote buying, complicity in illegal election campaign financing, and exceeding campaign spending limits. Investigators suspected Dassault of operating an extensive system of vote buying that influenced the outcome of three elections in Corbeil-Essonnes, where he was formerly mayor. As of year’s end, a date for the trial had not been set.</p>
+<p>On September 23, National Assembly Deputy Sylvie Andrieux of Marseille (formerly of the Socialist Party) was convicted for misuse of public funds between 2005 and 2008 and sentenced to four years in prison and a fine of 100,000 euros ($125,000), as well as five years of ineligibility from public office.</p>
+<p>The IGPN and Inspectorate of the National Gendarmerie actively investigated and prosecuted allegations of police and gendarme corruption. The IGPN received 832 formal notices against police officers or gendarmes in 2013. In September 2013 then interior minister Valls initiated a reform of the IGPN, allowing citizens to report police abuses on the internet through the Ministry of Interior’s website, provided they identify themselves. From September to December 2013, citizens registered 1,154 reports online.</p>
+<p>In 2011 the government charged socialist senator and president of the General Council of the Bouches-du-Rhone, Jean-Noel Guerini, with criminal association, conflict of interest, and influence peddling. He was accused of having intervened in certain illegal activities on behalf of his brother, Alexandre Guerini, who ran several private waste management companies. On October 13, Guerini appeared before a Marseille criminal court. On October 13, the Marseille prosecutor’s office requested a six-month suspended prison sentence and one year of ineligibility from holding public office. On December 8, a court acquitted Guerini.</p>
+<p><u>Financial Disclosure</u>: The president, parliamentarians, members of the European Parliament, ministers, regional and departmental council heads, mayors of larger communities, and directors of state-owned companies (post office, railway, and telephone) are required to declare their personal assets to the Commission for the Financial Transparency of Political Life at the beginning and the end of their terms. The commission issued and made available to the public periodic reports on officials’ financial holdings on a discretionary basis at least once every three years.</p>
+<p>The Central Office for the Prevention of Corruption (Service Central de Prevention de la Corruption, or SCPC) is responsible for combating corruption. The SCPC is an interministerial agency formally attached to the Ministry of Justice. The SCPC’s main role is to collect information regarding corruption-related offenses and use it to prevent corruption.</p>
+<p>In October 2013 the government established the Central Office for Combating Corruption and Financial and Tax Crimes to investigate offenses including tax fraud, influence peddling, and failure of elected officials to make financial disclosures or report their own violations of existing law.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and the government provided access for citizens and noncitizens, including foreign media.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section5"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A wide variety of domestic and international human rights organizations generally operated, investigated, and published their findings on human rights cases without government restrictions. Government officials were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The National Consultative Commission on Human Rights (CNCDH) served in an advisory role to the government on human rights and produced an annual report on racism and xenophobia in the country. Domestic and international human rights organizations widely considered the CNCDH independent and effective. Observers also considered the defender of rights independent and effective, with access to all necessary resources.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section6"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law prohibit discrimination based on race, gender, disability, language, social status, or sexual orientation, and the government generally enforced these prohibitions.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p>The Ministry of Social Affairs, Health and Women’s Rights is responsible for preparing and implementing government policies that enforce women’s rights in society, fight discriminatory practices, and promote protection for female victims of violence and harassment. The ministry played a key role in drafting laws promoting gender equality and laws against women’s precarious financial situation and domestic violence.</p>
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and the government generally enforced the law effectively. The penalty for rape is 15 years’ imprisonment, which may be increased, depending on the age of the victim and the rapist’s relationship to the victim. The government and NGOs provided shelters, counseling, and hotlines for rape victims.</p>
+<p>The 2013 ONDRP report registered 6,421 rape cases in the country in 2013. The ONDRP based its finding on the number of lawsuits filed in which the defendant was accused of committing rape. According to the Ministry of Justice, authorities convicted 1,293 persons of rape in 2012, the most recent year for which data was available. According to an inquiry conducted in 2013 by the Ministry for Social Affairs, Health and Women’s rights, 83,000 women were victims of rape or attempted rape each year. Eleven percent of them reported the crime.</p>
+<p>The law prohibits domestic violence against women and men, including spousal abuse, and the government generally enforced the law. The penalty for domestic violence against either gender varies according to the type of crime, ranging from three years in prison and a fine of 45,000 euros ($56,250) to 20 years in prison. The government reported that spouses killed 121 women and 25 men in domestic violence cases in 2013, a 16 percent decrease from 2012. The ONDRP estimated that 201,000 women residing in the country were victims of physical and sexual domestic violence in metropolitan France in 2010-12. The government sponsored and funded programs targeted at female victims of violence, including shelters, counseling, hotlines, free mobile phones, and a media campaign. The government also supported the work of 25 associations and NGOs dedicated to fighting domestic violence.</p>
+<p>In November 2013 the government budgeted 66 million euros ($82.5 million) to fund its 2014-16 interministerial plan to combat violence against women, a 50 percent increase over the previous three-year plan. The program focused on enhancing protection and social assistance for victims, increasing the number of social workers in police stations by 350 and beds in emergency shelters by 1,650, expanding the operating hours of a free emergency domestic abuse hotline, raising public awareness about rape and violence against women, and improving training to help health-care workers and other government employees identify victims.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits FGM/C as “violence involving mutilation or permanent infirmity.” It is punishable by up to 10 years in prison and a fine of 150,000 euros ($187,500). The government provides reconstructive surgery and counseling for FGM/C victims. In July 2013 parliament adopted a law that created two new criminal offenses: inciting a minor to undergo FGM and inciting another person to perform FGM. Both are punishable by up to five years’ imprisonment and a fine of up to 75,000 euros ($93,800).</p>
+<p>According to the Ministry of Social Affairs, Health and Women’s Rights, during the year 20,000 women were circumcised or at risk of FGM/C. According to a study released in 2007 by the National Institute for Demographic Studies (INED), 53,000 circumcised women resided in the country. The majority of FGM/C victims were recent sub-Saharan African immigrants who had had the procedure performed in their country of origin.</p>
+<p><u>Sexual Harassment</u>: The law prohibits gender-based job discrimination and harassment of subordinates by superiors. Sexual harassment is defined as “subjecting an individual to repeated acts, comments, or any other conduct of a sexual nature that are detrimental to a person’s dignity because of their degrading or humiliating character, thereby creating an intimidating, hostile, or offensive environment.” The law divides sexual harassment into two categories: the first, for repeated instances of harassment, carries a maximum sentence of two years’ imprisonment and a 30,000 euros ($37,500) fine; the second, for a single serious offense, carries a maximum sentence of three years’ imprisonment and a 45,000 euros ($56,000) fine. The law also criminalizes discrimination against transgender individuals.</p>
+<p>The Ministry of Justice estimated that 300,000 cases of sexual harassment occurred in the country each year but that only approximately one thousand victims filed complaints. Of those, approximately 80 resulted in convictions, with an average penalty of 1,000 euros ($1,250). On March 7, the DOR published a French Institute of Public Opinion survey, which indicated that one woman in five reported facing sexual harassment in her professional life and that 5 percent of those cases were brought to trial.</p>
+<p>On January 27, the Versailles Criminal Court sentenced a civil servant to nine months in prison and a 10,000 euro ($12,500) fine for sexually harassing two female colleagues. In an administrative procedure, the civil service dismissed the 62-year-old man.</p>
+<p>On April 15, Defense Minister Le Drian announced an action plan to fight sexual harassment and violence against women in the French army. The plan focuses on four main areas: victims’ assistance, prevention, transparency (notably the publication of annual statistics on this matter), and disciplinary sanctions. The plan also includes the creation of a surveillance unit to protect victims of sexual harassment and violence in the army.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals could decide freely and responsibly the number, spacing, and timing of their children and had the information and means to do so, free from discrimination, coercion, and violence. There was easy access to contraception and skilled attendance during childbirth.</p>
+<p><u>Discrimination</u>: The law prohibits gender-based job discrimination and harassment of subordinates by superiors, but it does not apply to relationships between peers. Under the constitution and law, women have the same rights as men in family, inheritance, and property law and in the judicial system. The Ministry for Social Affairs, Health and Women’s Rights is responsible for the legal rights of women. The constitution and law provide for equal access to professional and social positions.</p>
+<p>The law requires that women receive equal pay for equal work. In a study released in 2013, the National Institute of Statistics and Economic Studies (INSEE) reported that in 2010, the most recent year for which data were available, the average annual private sector salary was 21,700 euros ($27,100) for men, while women on average earned 15,603 euros ($19,500) or 72 percent of the average salary for men. In the public sector, women’s salaries were 82 percent of men’s salaries. Although they constituted 65 percent of the public sector workforce, women were underrepresented in managerial careers and faced continuing difficulties in attaining positions of higher responsibility. A 2012 INSEE study also indicated that 19 percent of salaried men in the private sector held managerial positions, while 12 percent of women with similar skills were managers. Women were generally much more likely to work part time, due in part to child-care responsibilities. Data for 2014 was unavailable at year’s end.</p>
+<p>Women were underrepresented in most levels of government leadership, although the proportion of women in the National Assembly increased to 26 percent from 18 percent in 2007.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The law confers nationality to a child born to at least one parent with French citizenship, or a child born in the country to stateless parents or to parents whose nationality does not transfer to the child. Parents must register births of children regardless of citizenship within three days at the local city hall. Parents who do not register within this period are subject to legal action.</p>
+<p><u>Child Abuse</u>: There are strict laws against child abuse by parents or guardians, and the government generally enforced the law effectively and prosecuted abusers. The DOR acts as the government’s advocate for children and is in charge of defending and promoting children’s rights. The government provided counseling, financial aid, foster homes, a free emergency number for abused children, and orphanages for abuse victims. Various NGOs helped minors in cases of mistreatment by parents.</p>
+<p>On July 4, a Paris criminal court sentenced 20 Romanians to up to eight years in prison for forcing approximately 40 children between the ages of nine and 17 to steal and pickpocket under threat of violence in Paris and its suburbs in 2011 and 2012.</p>
+<p><u>Early and Forced Marriage</u>: The minimum legal age for marriage is 18. Child marriage was a problem, particularly in communities of African or Asian descent. According to human rights observers, 70,000 children between the ages of 10 and 18 were at risk of forced marriage. Although most forced marriage ceremonies occurred outside the country, authorities took steps to address the problem. A 2003 law provides for the prosecution of forced marriage cases, even when the marriage occurred abroad. Penalties for violations are up to three years’ imprisonment and a 45,000 euro ($56,000) fine. Women and girls could seek refuge at shelters if their parents or guardians threatened them with forced marriage. The government offered educational programs to inform young women of their rights.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law prohibits FGM/C as “violence involving mutilation or permanent infirmity.” It is punishable by up to 20 years in prison and a fine of 150,000 euros ($188,000) if the crime involves a minor under the age of 16. The government provided reconstructive surgery and counseling for FGM/C victims. Persons who encourage female minors to undergo circumcision or encouraged their families to force circumcision are subject to prosecution. The offense is punishable by five years’ imprisonment and a fine of 75,000 euros ($94,000).</p>
+<p>According to the Ministry of Social Affairs, Health and Women’s Rights, approximately 10,000 female minors residing in the country were circumcised or at risk of FGM/C. Children of recent sub-Saharan African immigrants represented the majority of FGM/C victims, having had the procedure performed in their country of origin.</p>
+<p>On June 30, the DOR, in collaboration with the Pasteur Institute, launched an awareness campaign aimed at preventing girls from becoming victims of forced marriage and FGM/C when returning to their country of origin. The campaign focused on border police and doctors working in international vaccination centers.</p>
+<p><u>Sexual Exploitation of Children</u>: The law criminalizes the statutory rape of minors under the age of 15, the minimum age of consensual sex, and the government generally enforced the law effectively. The penalty for statutory rape is 15 years’ imprisonment, which can be increased depending on the age of the victim and relationship to the accused. The government and NGOs provided shelters, counseling, and hotlines for statutory rape survivors.</p>
+<p>The law prohibits child pornography, and the maximum penalty for its use and distribution is five years’ imprisonment and a 75,000 euros ($94,000) fine. According to the most recent estimate available, a 2007 parliamentary report by the Commission on Foreign Affairs, between 3,000 and 8,000 children were sexually exploited in the country each year. Isolated foreign minors were exploited for sexual purposes. Reports indicated that significant numbers of children primarily from Romania, West Africa, and North Africa were victims of forced prostitution in France.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. See the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html"><u>travel.state.gov/content/childabduction/english/legal/compliance.html</u></a>, as well as country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/france.html"><u>travel.state.gov/content/childabduction/english/country/france.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There were approximately 550,000 Jewish residents in the country. NGO and government observers reported numerous anti-Semitic incidents during the year, including attacks on synagogues and cemeteries, as well as physical assaults. Anti-Semitic incidents and violence surged during the summer in connection with public protests against Israeli actions in Gaza. President Hollande and other government leaders spoke out to condemn anti-Semitism during the year, particularly after a series of violent incidents in July and August.</p>
+<p>Both the Ministry of Interior and the Jewish Community Protection Service (SPCJ) in its annual report cited 423 anti-Semitic incidents in 2013, compared with 614 in 2012. On September 12, however, the SPCJ cited 527 anti-Semitic acts in the first seven months of the year, representing a 91 percent increase compared with the same period in 2013. Although they made up only 1 percent of the country’s population, Jews were the object of approximately 40 percent of hate crimes. The SPCJ accounting indicated that Jews were far more likely than members of any other groups in the country to be the objects of verbal abuse or harassment. In 2013, some 3,120 French Jews moved to Israel, a rise of 63 percent compared with the previous year. In May nearly 75 percent of 3,833 Jews who participated in a survey by Siona, an organization of Sephardic French Jews, stated they were considering emigrating. Almost 30 percent of those who indicated they were considering emigrating cited anti-Semitism as the main reason.</p>
+<p>In January several local courts in various cities across the country banned performances by controversial and anti-Semitic “entertainer” Dieudonne M’Bala M’Bala after a state television channel broadcast hidden camera footage shot at one of his performances in which he “joked” that he regretted that a prominent Jewish radio presenter had not died in the gas chambers. The banning of this show led many thousands of Dieudonne supporters to join antigovernment activists at a “day of anger” march on January 26, during which many demonstrators chanted anti-Semitic slogans and called on Jews to get out of the country.</p>
+<p>On March 20, three young men attacked a 59-year-old Jewish teacher in Paris. The attack took place as the victim, who was wearing a yarmulke, left a kosher restaurant. The three perpetrators physically assaulted the victim, cursing at him in Arabic before drawing a swastika with a black marker on his chest. The victim, who was treated for a broken nose and facial lacerations, filed a formal complaint with police on March 21. Authorities open an investigation into the attack, the outcome of which was pending at year’s end.</p>
+<p>On July 13, rioters supporting Palestinians trapped an estimated 200 persons in the Synagogue de la Roquette in central Paris. Police found it safe for them to leave after two hours. A synagogue was attacked with a Molotov cocktail in Aulnay-Sours-Bois on July 11.</p>
+<p>On July 20, mobs chanting anti-Israel and anti-Semitic slogans burned three Jewish-owned businesses in Sarchelles, including a supermarket that was previously attacked in October 2013. On October 24, the Pontoise Criminal Court sentenced a 27-year-old man to four years in prison for having burned the kosher market in Sarchelles on July 20. As of year’s end, authorities had not made any arrests in connection with the attacks on the other two businesses.</p>
+<p>In October 2013 authorities arrested and charged three suspects in a 2012 Molotov cocktail attack on a kosher supermarket in Sarchelles that injured one individual. An investigation into the attack led to the dismantling of an alleged Islamist terrorist group in the country. Approximately 20 suspects were charged in this case, 15 of whom were in pretrial detention. Further judicial action was pending at year’s end.</p>
+<p>On December 1, armed assailants forced their way into the apartment of a Jewish couple in the Paris suburb of Creteil, tied up a young man and woman, demanded money, and raped the woman. Police arrested two suspects the same day and charged them with religiously motivated violence, armed robbery, rape, sequestration, and extortion. Authorities later charged a third suspect as an accomplice, and a fourth suspect remained at large. The male victim said the assailants talked about attacking Jews. The day after the attack, President Hollande noted that the victims were targeted because they were Jewish and asserted that, when such tragedies occur, “it is the greatness of France that finds itself wounded.” The prime minister tweeted that the attack showed “the fight against anti-Semitism is a daily fight.”</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, and the provision of other government services. The government generally enforced these provisions effectively.</p>
+<p>The Fund Management Organization for the Professional Integration of People with Disabilities (AGEFIPH) reported that the unemployment rate for persons with disabilities grew 21 percent in 2013, faster than the growth rate for the general population (9 percent). The law requires that at least 6 percent of the workforce in companies with more than 20 employees be persons with disabilities. The law requires noncompliant companies to contribute to a fund managed by AGEFIPH. Approximately 52 percent of companies met the requirement in 2013; 47.5 percent contributed into the fund, while a small number (mostly large corporations) received an exemption from the government based on a negotiated action plan, according to AGEFIPH (see section 7.d.).</p>
+<p>The law requires that buildings, education, and employment be accessible to persons with disabilities. According to the Association of Paralytics France, only 15 percent of establishments in the country were accessible to them. On June 26, the parliament allowed the government to extend deadlines for making buildings and facilities accessible, enabling the government to issue decrees ordering public and private buildings to make their facilities accessible. The decrees could give public and private establishments receiving public funds three to nine more years to make their buildings accessible.</p>
+<p>The law also requires the establishment of centers in each administrative department to assist individuals with disabilities in receiving compensation and employment assistance. During the year one million persons with disabilities received financial compensation from the government. As of September the government paid each adult with disabilities 790 euros ($988) per month.</p>
+<p>On February 5, the Council of Europe announced it had issued a 2013 resolution criticizing the country for not fulfilling its educational obligations to persons with autism. The European Committee of Social Rights concluded the country was violating the European social charter and called on it to report on its progress towards improvement in the schooling of children and training of young adults with autism.</p>
+<p>Authorities charged two teenagers on February 5 with abuse of a vulnerable person as part of a group for recording and broadcasting violent images. The teenagers allegedly filmed themselves assaulting a young mentally disabled man and posting the video on Facebook. A third teenager was charged with complicity. A date for the trial had not been set by year’s end.</p>
+<p>On July 3, a Bobigny court fined EasyJet airlines 60,000 euros ($75,000) for refusing to let a partially paralyzed 65-year-old woman fly unaccompanied from Paris to Portugal to attend her son’s funeral in 2009.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Societal violence and discrimination against immigrants of North African origin, Roma, and other ethnic minorities remained a problem. Many observers expressed concern that discriminatory hiring practices in both the public and private sectors deprived minorities from sub-Saharan Africa, the Maghreb, the Middle East, and Asia of equal access to employment.</p>
+<p>Citizens may report cases of discrimination based on national origin and ethnicity to the defender of rights. In 2013 the defender of rights received 3,673 discrimination claims, 25.5 percent of which concerned discrimination based on origin. Data for 204 were unavailable at year’s end.</p>
+<p>Following the publication in November 2013 of a magazine, whose cover compared the country’s black justice minister, Christiane Taubira, to a monkey, the Paris prosecutor’s office opened a preliminary investigation into alleged “public insults of a racist nature.” The far-right satirical weekly <i>Minute’s</i> headline read, “Crafty as a monkey, Taubira gets her banana back.” Several antiracist NGOs filed lawsuits against the weekly. On October 30, a Paris criminal court fined the director of the publication 10,000 euros ($12,500) for racial hatred. The Paris prosecutor’s office appealed the ruling. Taubira had faced repeated racist attacks allegedly linked to her advocacy of same-sex marriage. In October 2013 the National Front party suspended a local electoral candidate for a Facebook posting indicating she would prefer to see the minister “swinging from the branches rather than in government.” On July 15, the Cayenne criminal court sentenced the former National Front local election candidate to nine months in prison, a five-year ban on holding public office, and a 50,000 euro ($62,500) fine. The court also fined the National Front 30,000 euro ($37,500). Both parties were appealing the ruling.</p>
+<p>The government estimated the Muslim community to be between five and six million persons, consisting primarily of immigrants from former French North African and sub-Saharan colonies and their descendants. Government observers and NGOs reported a number of anti-Muslim incidents during the year, including slurs against Muslims, attacks on mosques, and physical assaults. In its annual report on the fight against racism, anti-Semitism, and xenophobia, released in April, the CNCDH maintained that 226 anti-Muslim acts took place in 2013. The Collectif Contre L’Islamophobie en France reported that in 2013 an estimated 690 anti-Muslim acts occurred in the country. The National Islamophobia Observatory of the French Council of the Muslim Faith registered a 30 percent decrease in anti-Muslim racist acts over the first nine months of the year, compared with the same period in 2013.</p>
+<p>On February 11, the mosque of Blois was desecrated. Worshippers discovered a pig’s head, several pieces of pork, and hostile tags on the site. Then interior minister Valls, now prime minister, issued a statement condemning the attack and expressing his support for the Muslim community. Authorities subsequently opened an investigation into the attack, which remained pending at year’s end.</p>
+<p>On August 9, a man physically attacked a pregnant veiled woman in a park in Les Ulis (Essonne department) following a quarrel involving their children. According to the victim, the man told her that one does not speak to veiled women and hit her on the cheek. The woman was given seven days of incapacity to work and filed a lawsuit that was pending at year’s end.</p>
+<p>Societal hostility against Roma, including many migrants from Romania and Bulgaria, continued to be a problem. There were reports of anti-Roma violence by private citizens.</p>
+<p>In its April 8 report, <i>We Ask for Justice</i>, Amnesty International (AI) drew attention to the increase in violent attacks against Roma in France. AI’s investigation in Marseille found that, since 2010, the number of violent acts against Roma has increased significantly, including attacks perpetrated by the police. These acts included identity checks during the night, destruction of tents and other personal belongings in illegal camps, physical abuse, and the use of tear gas. Since 2010, police forces have dismantled dozens of camps in Marseille and forcibly evicted thousands of Roma. The AI report indicated that Roma in Marseille were often reluctant to report acts of harassment and violence because they were scared of police and in fear of more violence.</p>
+<p>Local humanitarian NGOs reported there were approximately 1,200 Roma in Marseille who lived in extreme poverty in makeshift camps or squats and rarely had access to basic services, such as clean water, electricity, sanitation, and emergency services. In 2013 authorities reportedly evicted hundreds of Roma during the first half of the year from illegal camps; most of those families did not have alternative housing.</p>
+<p>On June 13, residents of a low-income housing project in the Paris suburb of Pierrefitte-sur-Seine beat and kidnapped a 17-year-old Romani boy. The boy was found unconscious in a parking lot and brought to a hospital in critical condition. The perpetrators suspected him of attempted robbery. In a June 17 statement, President Hollande condemned the kidnapping and beating as an “unspeakable and unjustifiable” act that was “an offense against the founding principles” of the country. A judge investigated the attack as an attempted murder by an organized gang, kidnapping, and illegal detention. At year’s end, policy investigators were still seeking to identify the assailants.</p>
+<p>The French National Institute for Demographic Studies (INED) has published several reports showing that approximately 10 percent of the white population in the country assert they have been the victim of “insults or racist attitudes” due to their color. This was particularly a problem in many sensitive urban suburbs. On January 21, the Paris Appellate Court upheld a lower court’s decision and increased the sentence of a man found guilty of a 2010 assault. The court cited racism as the attacker’s primary motivation. The white victim accused his aggressor of calling him “dirty white” and “dirty French” during the incident on a suburban train platform. The court sentenced the defendant to four years’ confinement with one year suspended.</p>
+<p>Authorities continued to dismantle camps and makeshift homes inhabited by Roma throughout the year. In the first half of the year, the European Roma Rights Center reported the eviction of 7,235 Roma. According to data collected by the European Roma Rights Center and the Human Rights League, French authorities evicted 19,380 Roma from illegal camps in 2013, more than double the previous year when 9,404 Roma were evicted. Given the lack of housing alternatives migrants generally moved to new camps after an eviction. According to a government study, an estimated 20,000 Roma resided in the country.</p>
+<p>In 2012 the government published a nonbinding circular aimed at providing more employment opportunities, better living conditions, and greater access to education and health care for Roma. Key measures included expanding the list of authorized occupations for Romanian and Bulgarian citizens and removing the tax on employers who hired Romanian and Bulgarian citizens. The circular also outlined measures that local governments should take before dismantling a Romani camp. In accordance with the law, a property owner (defined as a private individual or city mayor for public lands) may seek to evict an occupant from real property only after filing a request to the administrative court, which then rules on the legality of the occupant’s presence on the property. An occupant found to be squatting receives between three and 30 days’ notice to abandon the property; thereafter, the mayor or prefect may authorize an eviction. The government reported that in 2013 it spent 4 million euros ($5 million) to provide alternative housing for evicted Roma. At year’s end the European Court of Human Rights (ECHR) was reviewing the case of a forced eviction of a Roma family in early 2013.</p>
+<p>In June 2013 the defender of rights sent the prime minister a report on the implementation of the August 2012 circular in which he noted increased tension between the inhabitants of the camps and the neighboring areas. He cited inconsistent implementation of the circular and shared his concern regarding the treatment suffered by Roma, particularly Romani families, placed in a situation of “forced nomadism.” The International Delegation of Accommodation and Housing Access (Dihal) reported on three main areas of achievement in the treatment of Roma, including the allocation of 4 million euros ($5 million) by the government to provide transitional housing to displaced Romani communities; the implementation of an educational continuity monitoring system in each school district for Romani children; and a significant increase in the number of work permits granted to Bulgarian and Romanian workers during 2013. As of January 1, the country lifted work restrictions for Romanian and Bulgarian citizens. Access by Romani migrants to the country’s labor market since January, however, did not improve their living conditions because of France’s high unemployment rate, the Romani’s lack of requisite professional skills and experience, or because employers were reluctant to employ them (see section 7.d.).</p>
+<p>On July 7, the High Committee for the Housing of Underprivileged Persons sent the prime minister a report on the public policies related to Roma, criticizing what it considered an expensive policy consisting of dismantling illegal camps but was devoid of any effort to integrate Roma into communities. NGOs supporting Romani communities were critical of the government’s efforts to provide alternative housing for Roma following evictions.</p>
+<p>In 2013 the government voluntarily repatriated 5,354 undocumented migrants to their countries of origin, a record decrease attributed by then interior minister Valls to the end of financial resettlement assistance for undocumented migrants who agreed to repatriate.</p>
+<p>In October 2013 authorities deported Leonarda Dibrani, a 15-year-old Romani girl, and her family to Kosovo after the family had exhausted all available appeals in their asylum request. Her arrest at the conclusion of a school trip sparked protests by high school students and considerable media coverage. An inspector general’s report concluded that the deportation was lawful but criticized its handling. In October 2013 President Hollande announced that Leonarda could return to her school, but without her family. Leonarda rejected his offer. In October 2013 her parents applied for French residency through the administrative courts. On January 28, the administrative court of Besancon rejected the family’s application, ruling that the public magistrate handling the case had been right to uphold the family’s expulsion. On April 28, the family appealed the decision to the Nancy Court of Administrative Appeals.</p>
+<p>During the year there were several statements made by public figures regarded by NGOS as demeaning to members of the country’s ethnic and racial minorities.</p>
+<p>On February 19 a far-right municipal candidate in Paris, Paul-Marie Couteaux, wrote on his blog that Roma should be “concentrated” in “camps.” On March 4, Couteaux apologized for his statements. The NGO SOS Racisme filed a lawsuit, which was pending at year’s end.</p>
+<p>In July 2013 National Assembly respresentative and Cholet mayor Gilles Bourdouleix resigned from the centrist Union of Democrats and Independents (UDI) party under threat of expulsion. Bourdeleix faced public condemnation after a journalist overheard him mutter, “Hitler perhaps didn’t kill enough of them” during a confrontation with Travelers (an itinerant group of individuals) illegally occupying land in Cholet. Then UDI leader Jean-Louis Borloo condemned the remarks, while Interior Minister Valls deemed them a “glorification of World War II crimes” and requested legal proceedings against Bourdouleix. On January 23, the Angers Criminal Court sentenced Bourdouleix to a 3,000 euro ($3,750) suspended fine for glorification of crimes against humanity. Bourdeleix appealed the ruling. On August 12, the Angers Appellate Court upheld the sentence.</p>
+<p>In July 2013 Jean-Marie Le Pen, the former leader of the rightist National Front party, described the presence of Roma as “irritating and smelly.” In August 2013 the NGO SOS Sacisme filed a complaint against Le Pen with the High Court of Nice for “incitement to racial hatred” due to his July remarks. Further judicial action was pending at year’s end.</p>
+<p>The law requires municipalities to provide access to education for all childrenbetween the ages of six and 16, no matter their citizenship or immigration status. Accourding to a July 28 study conducted by the European Roma Rights Center, at the beginning the year, in six Romani settlements across the country, less than half of the children interviewed were attending school. In 60 perent of the cases, local officials’ refusal to accept Romani children was cited as the reason children were not enrolled.</p>
+<p>The law requires municipalities with more than 5,000 inhabitants to provide a campsite with sanitary facilities with access to water and electricity. This law aims to accommodate Travelers by preventing them from parking on unauthorized sites. As of year’s end, municipalities had built only 50 percent of the campsites required by law.</p>
+<p>The government attempted to combat racism and discrimination through programs that promoted public awareness and brought together local officials, police, and citizens. Some public school systems also managed antidiscrimination education programs.</p>
+<p>The AI report also mentioned a pilot program implemented since 2012 in the city of Gardanne, near Marseille. The mayor of Gardanne provided a field with access to clean water, sewage facilities, and electricity to several Romani families (79 persons total) to facilitate their integration. The results were reportedly encouraging, and supported by Prefect Alain Regnier, in charge of national action on homelessness and housing exclusion.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination based on sexual orientation and gender identity. Authorities pursued and punished perpetrators of violence against lesbian, gay, bisexual and transgender persons. The NGO SOS Homophobia reported 3,517 homophobic acts in 2013, a 78 percent increase from 2012. It reported 188 instances of physical assault, a 54 percent decrease from the previous year.</p>
+<p>On January 16, the parliament extended the statute of limitations from three to 12 months for offenses related to sex, sexual orientation, gender identity, and disability.</p>
+<p>On June 3, a Paris criminal court sentenced two of the four young men who beat a gay couple in April 2013 to 15 and 18 months in prison. Another perpetrator in the homophobic attack received a six-month suspended prison sentence, while the youngest had not yet appeared before a juvenile court.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Killings in Corsica were linked largely to organized crime and Corsican nationalism. From January 1 to November 13, authorities recorded 10 killings. In 2013 there were 17 killings, all connected to organized crime, along with 85 bombings or attempted bombings.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section7"> </span><span class="st_twitter" st_title="France #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - France - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236524%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution and labor law provide workers, including migrant workers, the right to form and join unions of their choice without previous authorization or excessive requirements. The law provides for the right to bargain collectively and allows unions to conduct their activities without interference. Workers, except certain essential service workers such as police and armed forces, have the right to strike unless the strike threatens public safety. The law prohibits antiunion discrimination and forbids removing a candidate from a recruitment procedure or asking about union membership or trade union activities. The Ministry of Labor enforces related regulations.</p>
+<p>Public sector workers must declare their intention to strike at least 48 hours before the strike commences. Furthermore, a notification of intention to strike is permissible only after negotiations between trade unions and employers have broken down. Workers are not entitled to payment while striking. In practice, however, wages can be compensated retroactively. For road transportation strikes, the law on minimum service provides wages calculated proportionally to worked time while striking. Health-care workers are required to provide a minimum level of service during strikes. Laws in the rail and passenger transport sectors prescribe minimum service levels that public transport workers must maintain during a strike; transport users must also receive clear and reliable information on the services that will run in the event of a disruption. Authorities effectively enforced laws and regulations prohibiting retaliation against strikers.</p>
+<p>Workers freely exercised their rights to form and join unions, conduct union activities, and bargain collectively. Workers’ organizations stressed their independence vis-a-vis political parties. Some of their leaders, however, made no secret of their political affiliations. Legal strikes occurred during the year. Although the law prohibits antiunion discrimination, union representatives noted that it occasionally occurred, particularly in small companies.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The law recognizes the offense of servitude as a crime with a punishment of up to 10 years’ imprisonment and forced labor with a punishment of up to seven years’ imprisonment.</p>
+<p>Men, women and children, mainly from Eastern Europe, West Africa, and Asia, were subject to forced labor, including domestic servitude (also see section 7.c.). There were no government estimates on the extent of forced labor among domestic workers, many of whom were migrant women and children. In 2013 the NGO Committee against Modern Slavery assisted 147 victims of forced labor, the majority of whom were women employed in domestic work.</p>
+<p>On April 15, the Evry Criminal Court sentenced the manager of a fishing tackle shop to two years in prison on slavery charges and ordered him to pay 250,000 euros ($313,000) in damages to his two male victims. The two men, who were paid 20 euros ($25) for 50 to 60 hours of work per week, were sleeping in separate shacks at the back of the a warehouse where fishing bait was stored. They had been working 40 and 30 years, respectively, for the manager.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for employment is 16. There are exceptions for persons enrolled in certain apprenticeship programs or working in the entertainment industry, who are subject to further labor regulation for minors. The law generally prohibits persons under the age of 18 from performing work considered arduous or working between 10 p.m. and 6 a.m.</p>
+<p>The government effectively enforced labor laws, although some children continued to be exploited in the worst forms of child labor, including commercial sexual exploitation and forced criminal activity. Inspectors from the Ministry of Labor investigated workplaces to enforce compliance with all labor statutes. To prohibit violations of child labor statutes, inspectors can impose penalties ranging from putting employers under observation to criminal prosecution. Employers convicted of using child labor risk up to five years’ imprisonment and a 75,000 euro ($94,000) fine. According to the 2011 report of the Labor Inspectorate, the country had 2,256 inspectors and comptrollers.</p>
+<p>There were reports of Romani children engaged in forced begging, and some migrant children were in situations of domestic servitude. Commercial sexual exploitation of children also occurred (see section 6, Children).</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The labor code prohibits discrimination based upon an individual’s national origin, sex, lifestyle, sexual orientation, age, family situation, pregnancy, and state of health or disability. Authorities generally enforced this prohibition.</p>
+<p>On July 23, the parliament approved a gender equality law creating measures to reinforce equality in the workplace. The new measures include sanctions against companies whose noncompliance could prevent women from bidding for public contracts. The law also requires employers to conduct yearly negotiations with employees on professional and pay equity between women and men in companies with more than 50 employees.</p>
+<p>Employment discrimination occurred based on sex, gender, national origin, and disability (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>On July 1, the government raised the national minimum wage to 9.53 euros ($11.90) per hour. The Ministry of Labor enforced the minimum wage. The poverty-level income rate was 987 euros ($1,230) per month for an individual, 1,481 euros ($1,850) for a couple, and 2,073 euros ($2,590) for a couple with two children under the age of 14.</p>
+<p>The official workweek is 35 hours, although companies may negotiate exceptions with employees. The maximum number of working days for white-collar workers is 235 days per year. Maximum hours of work are set at 10 hours per day, 48 hours per week, and an average of 44 hours per week over a 12-week work period. Workdays and overtime hours are fixed by a convention or an agreement in each sector in accordance with the labor code. Companies allow payment of overtime or special leave called RTT (reduction work-time).</p>
+<p>Employees are entitled to a daily rest period of at least 11 hours and a weekly break of at least 24 hours total, not including the daily rest period. Employers are required to give workers a 20-minute break during a six-hour workday. Premium pay of 25 percent is mandatory for overtime and work on weekends and holidays. The standard amount of leave is five weeks per year. Some companies also allowed other compensatory days for hours worked in excess of 35 per week up to 39 called “spare-time account” (“compte epargne-temps”) and/or RTT. Hours worked in excess of 39 were generally remunerated.</p>
+<p>The government sets occupational health and safety standards in addition to those set by the EU. Government standards cover all employees and sectors. Individual workers could report work hazards to labor inspectors, unions, or (for companies with more than 50 employees) their company health committee, but they did not have an explicit right to remove themselves from a hazardous workplace.</p>
+<p>The Ministry of Labor is responsible for enforcing the law and did so effectively. The government permitted salaries below the minimum wage for certain categories of employment, such as subsidized jobs and internships, which must conform to separate, clearly defined standards. There were an estimated 743 labor inspectors and 1,493 labor controllers in the country. Labor inspectors enforced compliance with the labor law. Disciplinary sanctions at work are strictly governed by the labor code to protect employees from abuse of power by their employers. Employees could pursue appeals in a special labor court (Conseil de prud’hommes) up to the Court of Cassation. Sanctions depend on the loss sustained by the victim and were usually on a case-by-case basis.</p>
+<p>Employers, except those in the informal economy, generally adhered to the minimum wage requirement. Immigrants were more likely to face hazardous work, generally because of their concentration in sectors like agriculture, construction, and hospitality/services. According to the latest figures available, there were more than 700,000 workplace accidents during the year. In 2013 authorities recorded 541 workplace deaths out of 657,000 workplace accidents, excluding deaths by disease or in transportation accidents.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

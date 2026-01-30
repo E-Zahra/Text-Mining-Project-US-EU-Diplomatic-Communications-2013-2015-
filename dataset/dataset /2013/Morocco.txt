@@ -1,0 +1,580 @@
+2013
+Morocco
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369"> </span><span class="st_facebook" st_title="Morocco" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220369">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220369</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=executive"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Morocco is a monarchy with a constitution under which ultimate authority rests with King Mohammed VI, who presides over the Council of Ministers. The king may dismiss ministers, dissolve parliament, and call for new elections. International and domestic observers judged the 2011 parliamentary elections credible and relatively free from irregularities. The Islamist Party of Justice and Development (PJD) won a plurality of seats in the 2011 elections. As mandated by the constitution, the king chose the PJD to lead the governing coalition.</p>
+<p>The most significant continuing human rights problems were the lack of citizens’ right to change the constitutional provisions establishing the country’s monarchical form of government, corruption in all branches of government, and widespread disregard for the rule of law by security forces. Authorities failed at times to maintain effective control over security forces. On multiple occasions security forces committed human rights abuses.</p>
+<p>A variety of sources reported other human rights problems. These included police use of excessive force to quell peaceful protests, resulting in hundreds of injuries, and torture and other abuses by the security forces. Pretrial detention frequently exceeded what the law allowed, accompanied by poor prison and detention conditions. Domestic and international nongovernmental organizations (NGOs) asserted that there were political prisoners, many of whom were detained under the antiterrorism law. The government abridged civil liberties by infringing on freedom of speech and press, by limiting freedom of assembly and association, and by restricting the right to practice one’s religion. The judiciary lacked independence. There was discrimination against women and girls. Authorities made no progress in implementing legislation called for by the 2011 constitutional reforms to advance gender equality and parity. Trafficking in persons and child labor, particularly in the informal sector, continued to occur.</p>
+<p>There were no reports of investigations or punishment of abuse or corruption, whether in the security services or elsewhere in the government, contributing to the widespread perception of impunity.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section1"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There was at least one report that the government or its agents committed arbitrary or unlawful killings. On July 30, Congolese national Toussaint-Alex Mianzoukouta died six days after being pushed from a police van that was transporting him to the Algerian border. There was no known investigation or follow-up by authorities.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>The government stated that it followed the law in all cases and there were no cases of disappearance during the year.</p>
+<p>Regarding unresolved cases of disappearance dating back to the 1970s and 1980s, the National Council on Human Rights (CNDH), created and funded by the government, continued to investigate claims of enforced and involuntary disappearances and, when warranted, recommended reparations in the form of money, health care, employment, or vocational training. In 2012 the government paid 43 million dirhams ($5.2 million) to 345 beneficiaries. The CNDH continued to shift its activities to community reparation projects and supported 107 projects focused on women’s empowerment, income generation, and preservation of the environment in 13 provinces, but not in Western Sahara. The CNDH continued to review open claims for reparation and occasionally received new claims, especially in Western Sahara.</p>
+<p>Human rights groups representing Sahrawis, an ethnic minority living throughout the country and constituting the majority of the population of Western Sahara at the time of the alleged disappearances, voiced concern over the slow pace at which the CNDH addressed outstanding and new claims. An association of victims and their families claimed at least 114 cases remained unresolved at the end of 2012 and accused the government and the CNDH of failing to acknowledge additional cases of disappearances that occurred between 1956 and 1999, especially from Western Sahara.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and the law prohibit such practices, and the government denied it used torture. Numerous credible accounts of cruel, inhuman, or degrading treatment of prisoners and detainees confirmed the existence of such practices.</p>
+<p>In an October 2012 report, the CNDH noted that it had observed a “persistence of abuses by the staff of visited prisons against inmates.” The CNDH further indicated that prison staff beat prisoners with sticks and hoses, hung them on doors with handcuffs, beat the soles of their feet, slapped them, pricked them with needles, burned them, kicked them, forced them to undress in view of other prisoners, and used insults and malicious language against them. The CNDH noted that abuses persisted in most of the prisons it visited, except for Inezgane and Dakhla, “where only isolated cases were witnessed.” Numerous NGO reports and media articles reinforced these points with accounts of members of security forces torturing and abusing individuals in their custody, particularly during pretrial detention. The government did not respond publicly to the CNDH or begin implementation of the recommendations.</p>
+<p>The law against torture requires judges to refer a detainee to a forensic medical expert when the detainee or his or her lawyer requests it or if judges notice suspicious physical marks on a detainee. The government reported that public prosecutors, judges, and tribunals requested expert medical examinations for 32 individuals. Human rights NGOs and the media documented prominent cases of authorities’ failure to implement provisions of the anti-torture law. There were no reported cases of prosecution or punishment of officials for torture.</p>
+<p>In September 2012, after an eight-day visit, UN Special Rapporteur on Torture Juan Mendez stated that he had received credible testimonies of “undue physical and mental pressure of detainees in the course of interrogations” in the country. He noted, “Acts of torture and mistreatment during the detention and arrest process” were “frequently linked to large demonstrations, a perceived threat to national security, or terrorism.” In November government officials met with Mendez in Geneva to review actions taken by the government in response to his recommendations.</p>
+<p>There were numerous incidents of security forces’ use of excessive force against largely peaceful demonstrations organized by the February 20 Movement and by groups of unemployed university graduates (see section 2.b.). On August 2 in Rabat, security forces used excessive violence to suppress a peaceful demonstration by citizens protesting a pardon granted to a convicted pedophile.</p>
+<p>Some civil-society actors continued to claim that torture occurred at a police administrative facility in Temara, where police maintained detention cells.</p>
+<p>There were documented cases of judges urging rape victims to marry their assailants, an act allowing rapists to avoid punishment under the family code. Several of the cases ended with the victims committing suicide. In January both chambers of parliament voted to amend the relevant article in the family code, but at year’s end the change had not been implemented through publication in the <i>Official Bulletin</i> of the secretary general of the government.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions remained poor and generally did not meet international standards.</p>
+<p><u>Physical Conditions</u>: Prisons were overcrowded, resulting in poor hygiene and inadequate nutrition for prisoners. Due to overcrowding, authorities frequently held pretrial detainees and convicted prisoners together, with an average of 18 square feet of cell space per prisoner. There was no information concerning the availability of potable water. According to the CNDH, prison facilities did not provide adequate access to health care and did not accommodate the needs of prisoners with disabilities. The Moroccan Observatory of Prisons (OMP), an umbrella grouping of lawyers promoting better prison conditions, along with human rights NGOs and a parliamentary commission, continued to report that prisons were overcrowded, prone to violence, and failed to meet local and international standards. The government stated that its 73 prisons held 72,816 inmates as of October.</p>
+<p>The government reported that 96 inmates, 85 of whom were hospitalized, died in prison during the year. Due to lack of information, local human rights NGOs were unable to comment on these numbers. The government acknowledged that providing adequate care was difficult in overcrowded conditions. In July 2012 the Moroccan Organization for Human Rights (OMDH), a local NGO, released an investigative report on six prisons and noted that each of the prisons had significant overcrowding and lacked educational programs focusing on rehabilitation and reinsertion of prisoners into society.</p>
+<p>The government reserved three detention facilities, known officially as reform and education centers, exclusively for juveniles up to the age of 20. Several other adult prison facilities had dedicated areas for juvenile inmates. The government originally intended these to provide education and rehabilitation for juvenile inmates, and NGOs provided most of these services. The government continued to provide the majority of vocational and educational training in these centers through its various arms, such as the Ministry of Education. NGOs provided some educational resources, as well as recreational activities. Although the law calls for their separation, authorities sometimes held juveniles with adults, particularly in pretrial detention and in police stations due to the lack of juvenile prison facilities. According to the government, 5,775 juveniles under the age of 20 were imprisoned as of October. Human rights groups reported that other minors, older inmates, and prison guards abused young offenders, including sexually. Government figures indicated that fewer than 3 percent of prisoners were women, and there was less overcrowding in the women’s sections of the gender-segregated facilities.</p>
+<p><u>Administration</u>: The Directorate General for Prison Administration (DGAP), a separate agency that reports directly to the prime minister and informally to the king, has responsibility for managing all prisons in the country. It has its own budget and central administrative apparatus. In August the DGAP director was removed from his post by the king in the midst of a scandal related to the granting of a royal pardon to a convicted pedophile.</p>
+<p>The Ministry of Justice directs the development and reform of penal policy. Recordkeeping on prisoners was adequate. The CNDH acted as an ombudsman for human rights and continued to expand the scope of its activities. The CNDH received complaints from prisoners and from individuals writing on behalf of imprisoned family members (see section 1.e.). In several instances the CNDH intervened directly with authorities to seek royal pardons or address poor detention conditions.</p>
+<p>Authorities did not implement alternatives to imprisonment for nonviolent offenders.</p>
+<p>Authorities permitted relatives and friends to visit prisoners; however, there were reports that authorities denied this privilege in some instances. Family members of prisoners accounted for the vast majority of prison visits, occasionally made more difficult by transfers to far-away prisons for disciplinary reasons.</p>
+<p>Government policy permits NGOs that provide social, educational, or religious services to prisoners to enter prison facilities, but it does not permit NGOs with only a human rights mandate to visit prisons except with special authorization. Prisoners and detainees could practice their religions. The OMP and members of government-recognized NGOs, including the OMDH and the Sahrawi Association of Victims of Grave Human Rights Abuses (ASVDH), visited prisoners regularly to distribute food and personal items and check on their well-being as “friends or family” rather than as representatives of human rights NGOs. According to the DGAP, 213 visits by domestic NGOs and 38 visits by the CNDH occurred during the year.</p>
+<p>The DGAP reported that it registered 178 complaints from prisoners in 2012. There was no information available on whether prisoners could submit complaints to judicial authorities without censorship or whether authorities investigated and made public credible allegations of inhuman conditions and treatment. From January to August, the DGAP disciplined its staff in 47 instances, with penalties ranging from a warning to dismissal.</p>
+<p>Some human rights activists asserted the prison administration reserved harsher treatment for Islamists. An October 2012 CNDH report confirmed the “abusive use of administrative transfer as a disciplinary measure” for Salafi jihadist detainees. The government denied allegations that it accorded different levels of treatment to any inmates.</p>
+<p>Prisoners frequently employed hunger strikes to demand improved prison conditions or protest lengthy pretrial detentions. Most of these hunger strikes ended within several days due to concessions from the government or prison authorities. Although prison authorities provided meals to prisoners three times per day, the amount of food provided was insufficient. Families and friends regularly supplemented prisoners’ diets.</p>
+<p>The government continued vocational and educational training programs in prisons. The Mohammed VI Foundation for the Reinsertion of Prisoners provides educational and professional training to young inmates on the verge of release. The foundation continued to run reform and education centers in 50 of the country’s 73 prisons and worked with 16,923 prisoners. Additionally, 5,207 former prisoners participated in personal reinsertion programs at the Foundation’s Centers for Post-incarceration Support.</p>
+<p><u>Independent Monitoring</u>: The government did not permit independent nongovernmental human rights observers or local human rights groups to make unaccompanied prison-monitoring visits. In December, at the invitation of the government, the UN Working Group on Arbitrary Detention visited prisons in Sale, Tangier, Tetouan, Casablanca, and Laayoune in the Western Sahara. The Interministerial Delegation for Human Rights organized their trip.</p>
+<p><u>Improvements</u>: During the year the government opened two new prisons in Marrakech Loudaya and Azrou and continued work on eight other new prisons. In July the government opened a facility in Casablanca that accommodated women prisoners with children.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits arbitrary arrest and detention, although there were reports that police used both practices. Police did not always observe due process. According to local NGOs and associations, police did not consistently identify themselves when arresting suspects or obtain warrants. Police reportedly held some detainees beyond statutory time limits before charging them.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>There were credible reports of abuses and impunity. Authorities provided no official data about government prosecution or punishment of officials who committed such abuses.</p>
+<p>The security apparatus includes several police and paramilitary organizations with overlapping authority. The national police manage internal law enforcement and report to the Ministry of Interior. The Auxiliary Forces also report to the Ministry of Interior and support gendarmes or police. The Royal Gendarmerie, which reports to the Administration of National Defense, is responsible for law enforcement in rural regions and on national highways. Both the Royal Gendarmerie and the judicial police report to the royal prosecutor. The Department of Royal Security is a branch of the National Police and reports to the king.</p>
+<p>Civilian authorities maintained effective control over the security forces, but impunity was pervasive in the absence of effective mechanisms to investigate and punish abuse and corruption. There was no systematic prosecution of security personnel who committed human rights abuses or data available on investigations or prosecutions. Corruption and impunity reduced police effectiveness and respect for the rule of law. Although police informally reported there were cases of police misconduct prosecuted during the year, there were no official data available about the types of prosecutions or convictions. Systemic higher-level corruption, as well as pervasive corruption, undermined law enforcement and the effectiveness of the judicial system. Authorities did not investigate many incidents of alleged abuse and corruption. Cases often languished in the investigatory or trial phases.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Police may arrest an individual after a general prosecutor issues an oral or written warrant. Authorities generally issued warrants based on evidence and exclusively by authorized officials. The law permits authorities to deny defendants access to counsel or family members during the initial 96 hours of detention under terrorism-related laws, or 48 hours of detention for other charges, during which police interrogated detainees and abuse or torture was most likely to occur.</p>
+<p>A prosecutor may renew the initial detention period twice by written authorization, for a total detention time of up to 12 days. In addition authorities may prevent communication between a detainee and a lawyer for up to two days after the initial detention period expires (see section 1.d.).</p>
+<p>Some judges were unaware that the law permits provisional release or provides the possibility of alternative sentencing. The law does not require written authorization for release from detention. In some instances judges released defendants on their own recognizance.</p>
+<p>According to the law, all defendants have the right to attorneys, and if a defendant cannot afford private counsel, a court-appointed attorney must be provided when the criminal penalty exceeds five years in prison. Authorities did not always provide effective counsel. The law requires police to notify a detainee’s next of kin of the arrest as soon as possible after the initial 48-hour period of incommunicado detention in non-terrorism cases unless arresting authorities applied for and received an extension from a magistrate; police did not consistently abide by this provision. Because authorities sometimes delayed notifying the family, lawyers were not informed promptly of the date of arrest and were not able to monitor compliance with detention limits and treatment of the detainee. Under a separate military code, military authorities may detain members of the military without a warrant or public trial.</p>
+<p><u>Arbitrary Arrest</u>: Security forces often arrested a group of individuals, took them to a police station, questioned them for several hours, and released them without charge.</p>
+<p><u>Pretrial Detention</u>: Although the government claimed that accused persons were generally brought to trial within two months, prosecutors may request as many as five additional two-month extensions of pretrial detention. Consequently, pretrial detentions may last as long as one year. There were reports that authorities routinely held detainees beyond the one-year limit. Government officials attributed these delays to inefficiency and lack of resources in the court system. According to the government, as of October 2012, pretrial detainees made up approximately 41 percent of the 69,054 inmates in prison. The CNDH claimed more than 50 percent of detainees were in pretrial detention during the year and that the percentage had increased since 2012. A parliamentary committee that investigated the conditions at Oukacha Prison in 2012 reported that 80 percent of Oukacha inmates were in pretrial detention. In some cases detainees received a sentence shorter than the time they spent in pretrial detention. NGOs continued to report that more than half of incarcerated minors were in pretrial detention. In some cases minors were detained for as long as eight months prior to trial.</p>
+<p><u>Amnesty</u>: In July the pardoning of a convicted pedophile with Spanish nationality led to public protests and criticism of the palace and government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, but the courts were not independent and were weakened by corruption and extrajudicial influence. NGOs, lawyers, and government officials widely acknowledged that corruption and extrajudicial influence on the courts occurred. The 2005 court order to register ASVDH remained unenforced at year’s end.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Defendants are presumed innocent. The law provides for the right to a fair public trial with the right of appeal for all citizens, but this did not always occur, especially for those protesting the incorporation of Western Sahara into the country. Juries are not used. Attorneys, particularly in juvenile matters, indicated that while clients frequently maintained their innocence, judges passed over the question of culpability and focused on sentencing.</p>
+<p>Defendants have the right to be present at their trial and to timely consultation with an attorney, although these rights were not always respected. Attorneys were not appointed in all cases or, if provided at public expense, were poorly paid. Defense attorneys were often not properly trained in matters pertaining to juveniles or not provided in a timely fashion, often resulting in inadequate representation. Many NGOs provided attorneys for minors, who frequently did not have the means to pay. Such resources were limited and specific to larger cities. By law defendants in criminal and human rights cases have access to government evidence against them, but judges sometimes prevented or delayed access. Under the law defense attorneys may question witnesses. Despite the provisions of the law, some judges reportedly denied defense requests to question witnesses or to present mitigating witnesses or evidence.</p>
+<p>The law forbids judges from admitting confessions made under duress. Human Rights Watch (HRW) and local NGOs charged that judges, at their discretion, decided cases based on forced confessions. NGOs alleged this occurred frequently in cases against Sahrawis or individuals accused of terrorism. Police statements about detainees’ statements were sometimes used in place of defendants’ confessions when there was a possible question of duress. In December the UN Working Group on Arbitrary Detention noted the detention of several persons convicted solely based on confessions obtained under duress. HRW, in its June report on unfair trials based on confession, concluded that judges and prosecutors continually rejected or refused to open inquiries into complaints of police abuse and mistreatment. Serious lack of medical, forensic, and psychiatric expertise made it practically impossible to gather credible evidence of mistreatment that would be admissible in court.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Legislation does not define or recognize the concept of a political prisoner. The government did not consider any of its prisoners to be political prisoners and stated that all individuals in prison had been convicted or had been charged under criminal law. Criminal law in the country, however, covers nonviolent advocacy and dissent, such as insulting police in songs or “defaming Morocco’s sacred values” by denouncing the king and regime during a public demonstration. In addition, NGOs, including the Association for Human Rights (AMDH), Sahrawi organizations, and Amazigh activist groups, asserted that the government imprisoned persons for political activities or beliefs under cover of criminal charges. For example, on March 29, authorities released rapper Mouad Belghouat after serving a one-year prison sentence for insulting a public official in the video accompanying his song, “Dogs of the State.” According to NGOs approximately 40 political prisoners, many of them members of the February 20 Movement, remained in prison at year’s end.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Although individuals have access to civil courts for lawsuits relating to human rights violations and have filed lawsuits, such lawsuits were frequently unsuccessful due to the courts’ lack of independence or impartiality stemming from extrajudicial influence and corruption. There are administrative as well as judicial remedies for alleged wrongs.</p>
+<p>A National Ombudsman’s Office (Mediator Institution) helps to resolve civil matters when the judiciary is unable to do so and has gradually expanded the scope of its activities. In 2012 the mediator received 11,291 complaints, of which 502 fell within the mediator’s purview and were subject to in-depth investigation. Authorities retransmitted to the CNDH for resolution 43 cases specifically related to allegations of human rights abuses against the authorities. The CNDH continued to be a conduit through which citizens expressed complaints about human rights violations.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>While the constitution states that an individual’s home is inviolable and that a search may take place only with a search warrant, authorities at times entered homes without judicial authorization, monitored private communications or movements without legal process, and employed informers.</p>
+<p>Authorities reportedly searched and halted activities in the homes of members of the Justice and Charity Organization (JCO), an Islamist charitable and sociopolitical group the government tolerated but did not officially recognize. Members used their homes for politically oriented meetings. JCO members claimed the Ministry of Interior’s General Directorate of Territorial Surveillance harassed attendees and sealed homes used for meetings so that residents could no longer access them. While several homes remained sealed, there were no new reports of homes being sealed during the year. In almost every case, authorities released JCO members without charges after detention and questioning.</p>
+<p>Sahrawi activists reported that when NGOs held meetings at members’ houses, both plainclothes and uniformed police occasionally intervened (see the Western Sahara report).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section2"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law generally provides for freedom of speech and press, although the government continued to use the legal system to restrict freedom of expression, particularly in the press and social media. In 2012 government-provided figures for the year showed that 45 journalists or media outlets faced criminal or civil charges, a decrease from previous years. These numbers included cases the government initiated as well as private citizens’ libel complaints. Numerous human rights groups criticized the steady stream of criminal prosecutions of journalists and publishers, as well as libel suits.</p>
+<p><u>Freedom of Speech</u>: The law criminalizes and the government actively prosecutes statements criticizing Islam, the institution of the monarchy, state institutions, officials such as those in the military, and the government’s official position regarding territorial integrity and claim to Western Sahara.</p>
+<p>There were multiple incidents of outspoken February 20 Movement supporters and activists being arrested under dubious criminal charges rather than under libel or other free speech-related charges. Abessamad Haydour remained in jail after being sentenced in February 2012 for insulting the king via a video he posted to YouTube.</p>
+<p><u>Press Freedoms</u>: The antiterror law and press code include provisions that permit the government to jail and impose financial penalties on journalists and publishers who violate restrictions related to defamation, libel, and insults. Prison sentences may be imposed on those convicted of libel. Consequently the press reported gingerly on controversial and culturally sensitive topics involving the military and national security. Self-censorship and government restrictions on sensitive topics remained serious hurdles to the development of a free, independent, and investigative press. Authorities filed charges of libel and other violations of the criminal code against specific journalists, with prosecution of these charges indefinitely delayed. On June 17, Youssef Djijili, the editor in chief of the magazine <i>Al’an</i>, was fined and given a two-month suspended sentence for publishing a story about Trade Minister Abdelkader Amara.</p>
+<p>Authorities filed charges of “inaccurate reporting” under the press code against Ali Anouzla, director of the Arabic-language online news site Lakome.com, for filing an inaccurate story, although several other publications printed the same story without similar consequences. Only Anouzla published a full retraction of the story.</p>
+<p><u>Violence and Harassment</u>: Authorities subjected some journalists to harassment and intimidation, including attempts to discredit them through rumors about their personal life. Journalists reported that selective prosecutions served as a mechanism for intimidation.</p>
+<p><u>Censorship or Content Restrictions</u>: The government rarely censored the domestic press; however, it exerted pressure by pursing legal cases that resulted in serious financial problems for proprietors due to heavy fines and suspensions of publication. The consequences in prior years destroyed the financial viability of some publications; memory of those examples encouraged editors and journalists to self-censor. The press code lists threats to public order as one of the criteria for censorship. Publications and broadcast media must also obtain government accreditation. The government has the ability to deny and revoke accreditation as well as to suspend or confiscate publications.</p>
+<p><u>Libel Laws/National Security</u>: The antiterror law provides for the arrest of journalists and the filtering of websites deemed to “disrupt public order by intimidation, terror, or violence.” On July 11, a court sentenced journalist and human rights activist Mostafa al-Hesnawi to four years’ imprisonment for “creating a terrorist organization that threatens national security and stability.” On October 28, a Rabat appeals court subsequently reduced his sentence to three years. Hesnawi previously criticized authorities’ use of antiterror laws against individuals not involved in terrorist activities. On September 25, authorities charged journalist Ali Anouzla under the antiterrorism law with “inciting terrorism” for linking to a video hosted by third parties produced by al-Qaida in the Islamic Maghreb. On October 30, authorities granted Anouzla a “provisional” release from prison; his trial continued at year’s end.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government applied laws and restrictions governing speech and the press to the internet. There are neither specific laws nor a body of judicial decisions concerning internet content or access. While the government generally did not restrict access to the internet, on October 19, numerous individuals and NGOs reported that they could not reach a news site edited by Ali Anouzla. Individuals and groups generally were careful to respect official boundaries and were able to engage in peaceful exchanges of views via the internet, including by e-mail.</p>
+<p>The government collected personally identifiable information over the internet in connection with citizens’ peaceful expression of political, religious, or ideological opinion or beliefs, although the government denied that it did so. On October 4, authorities arrested two 15-year-old boys and a 14-year-old girl and held them for three days on “public indecency” charges for posting a photograph on social media showing the students kissing. On December 6, authorities acquitted the three of all charges.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>By law the government has the right to criminalize presentations or debate questioning the legitimacy of the monarchy, Islam, state institutions, or the status of Western Sahara. The government generally tolerated political and religious activism confined to university campuses. The Ministry of Interior approved appointments of university rectors.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of assembly and association subject to restrictions provided by law.</p>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The law conditions the right to assemble publicly on acquiring Ministry of Interior permission. Some NGOs complained that authorities did not apply the approval process consistently. The government used administrative delays and other methods to suppress or discourage unwanted peaceful assembly as well as excessive force to disperse demonstrations. Groups of more than three persons require authorization to assemble. In the absence of this authorization, authorities disbanded meetings organized by groups ranging from reformers to the national union of judges. Protests occurred on a nearly weekly basis throughout the year. Authorities tolerated most demonstrations by unemployed university graduates and unions, even if they were unauthorized. NGOs reported that both plainclothes and uniformed state security agents monitored human rights events.</p>
+<p>Violence erupted between security forces and protesters in instances documented in the media. For example, on August 2, security forces in Rabat used violence to disperse demonstrators gathered to protest the royal pardon of a convicted pedophile. The police beatings were documented in the media and included a journalist. A coalition of local NGOs filed a lawsuit against the minister of interior for authorizing police intervention. The case remained unresolved as of December.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law provide for freedom of association, although the government placed severe restrictions on this freedom. The government prohibited or failed to recognize political opposition groups by deeming them unqualified for NGO status. According to HRW’s <i>World Report 2012</i>, “Morocco boasts of thousands of independent associations, but government officials arbitrarily impede the legalization of many, undermining their freedom to operate.”</p>
+<p>The Ministry of the Interior required NGOs to register, but there was no comprehensive national register publicly available. A prospective organization must submit its objective, bylaws, address, and photocopies of members’ identification cards to the ministry. The government denied official recognition to NGOs that advocate against the monarchy, Islam as the state religion, or territorial integrity. The ministry issues a receipt to the organization that signifies formal approval. If the organization does not receive a receipt within 60 days, it is not formally registered. Many organizations the government chose not to recognize functioned without the receipts, and the government tolerated their activities. Several organizations, including the ASVDH and the JCO, won administrative court judgments confirming that their applications for registration conform to the law; however, administrative courts have no enforcement powers.</p>
+<p>Authorities did not permit registration of organizations supporting self-determination for Western Sahara, including the ASVDH. Unregistered organizations could not access government funds or legally accept contributions.</p>
+<p>Authorities continued to monitor JCO activities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p><u>In-country Movement</u>: The law provides for freedom of internal movement. Authorities generally respected this right, although the government restricted movement in areas regarded as militarily sensitive, including the demilitarized zone in Western Sahara.</p>
+<p><u>Foreign Travel</u>: The law provides for freedom of foreign travel. Authorities generally respected this right. Civil servants and soldiers must obtain written permission from their ministries to leave the country.</p>
+<p><u>Exile</u>: While the law provides for forced exile, there were no instances of forced exile during the year.</p>
+<p><u>Emigration and Repatriation</u>: The government encouraged the return of Sahrawi refugees if they acknowledged the government’s authority over Western Sahara. The government continued to make travel documents available to Sahrawis, and there were no reported cases of Sahrawis being prevented from traveling (see the Western Sahara report).</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern. The UNHCR registered 750 refugees and 2,292 asylum seekers in 2012. The increase in asylum seekers, nearly six-fold compared with 2011, was mainly due to 839 Syrian and 128 Malian citizens who entered the country during the year. In January the government requested that the UNHCR cease registration of Syrians, pledging to promulgate an assistance package for this population. No further registrations took place. The government has not established a system for providing protection for refugees.</p>
+<p><u>Access to Asylum</u>: The law does not provide for refugee status. The government has historically deferred to the UNHCR as the sole agency in the country entitled to grant refugee status and verify asylum cases. On September 17, the government publicly acknowledged the need to assume responsibility for refugee processing and to establish asylum procedures, accepting the recommendations of its official human rights group, CNDH. Previously, the UNHCR was the sole entity conducting refugee status determinations. By November 12, the government’s newly created Bureau of Refugees and Stateless Persons had recognized 524 refugees, putting them on track to receive residency and work permits. On December 17, the government issued the first 20 refugee cards.</p>
+<p><u>Refugee Abuse</u>: Refugees and asylum seekers as well as migrants were particularly vulnerable to abuse. There were frequent reports of security forces brutalizing sub-Saharan migrants and of abuse by criminal gangs involved in human trafficking. There were credible reports of government authorities expelling irregular migrants, particularly at the border town of Oujda but also into the desert along the border with Algeria. NGOs reported authorities left some migrants without food and water.</p>
+<p>The UNHCR reported 565 arrests of asylum seekers during the year, an increase of 249 percent compared with 2012. The migrant rights organization Antiracism Group for the Protection of Foreigners and Migrants reported an increase in the number of arrests of illegal migrants throughout the year, as well as an increase in violence and aggression by both the government and the migrant populations. On August 14, passengers on a bus in Rabat killed a Senegalese citizen, Ismaila Faye, for refusing to leave his place next to a Moroccan woman.</p>
+<p><u>Access to Basic Services</u>: Recognized refugees were able to gain access to health care services. Asylum seekers were, however, often unable to access the national health-care system and continued to have little access to the judicial system.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section3"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Citizens do not have the right to change the constitutional provisions establishing the country’s monarchical form of government. The law provides for, and citizens participated in, regular, free elections based on universal suffrage for parliament’s Chamber of Representatives and municipal councils. Parliament’s Chamber of Counselors and the regional councils are indirectly elected through representatives.</p>
+<p>The king may dissolve parliament in consultation with the head of government (prime minister). As head of state, the king appoints the head of government. The king presides over the Council of Ministers, the supreme decision-making body, except in cases when he delegates that authority to the head of government. Constitutional changes outlining this division of responsibility came into effect in 2011. The decision-making authority of the prime minister and parliament remained unclear.</p>
+<p>Matters of security, strategic policy, and religion remain the purview of the king, who presides over the Supreme Security Council and the Ulema Council (Council of Senior Religious Scholars). The constitution obliges the king to choose the prime minister from the party with the most elected seats in the Chamber of Representatives, a change from previous practice when the king had total discretion over whom to choose. The constitution authorizes the prime minister to nominate all government ministers, although they serve at the king’s pleasure since he has the power to dismiss them. Royal advisors worked closely in undefined coordinating roles with government ministries.</p>
+<p>The constitution can be amended when proposals are approved by national referendum and approved by the king, or when the king submits a bill that receives a two-thirds majority approval from both chambers of parliament.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In the 2011 legislative elections, which saw a turnout of approximately 45 percent, the Islamist PJD won 107 of the 395 seats at stake in 92 constituencies. Of the 395 seats, 60 were reserved for women and 30 for individuals under the age of 40.</p>
+<p>The law mandates that the CNDH supervise and facilitate the work of domestic and international observers. Accordingly, the CNDH fielded an estimated 3,500 domestic observers. The CNDH also accredited more than 300 international observers. The major political parties and the vast majority of the 3,500 domestic observers considered the elections free, fair, and transparent. Most international observers considered them credible elections in which voters were able to choose freely and deemed the process relatively free of government irregularities.</p>
+<p><u>Political Parties</u>: Political parties faced fewer government-imposed restrictions under the revised constitution. The Ministry of Interior applied new laws that made it easier for political parties to register. A political party may not legally challenge the institution of the monarchy, Islam as the state religion, or the country’s territorial integrity.</p>
+<p><u>Participation of Women and Minorities</u>: Female politicians featured prominently in the press on a variety of matters but were largely excluded from senior decision-making positions. Following a government reshuffle and expansion in October, the 39-member cabinet included six women, four of whom were junior ministers. The previous 31-member government included only one woman. Several of the king’s senior advisors were women. The 2011 elections saw an increase in the number of women in the Chamber of Representatives from 34 to 67; a quota to provide women a position in the government produced 60 of those elected on a separate electoral list.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section4"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but the government did not implement the law effectively. Officials often engaged in corrupt practices with impunity. Corruption was a serious problem in the executive branch, including police, as well as the legislative and judicial branches of government. There were reports of government corruption and several notable prosecutions. In July courts sentenced the director general of the national office of airports, Abdelhanine Benallou, to five years in prison for embezzlement of public funds. Observers generally considered corruption a serious problem, particularly among magistrates, and courts sentenced magistrates from Kenitra, Taza, Meknes, and Inezgane to prison terms on corruption charges during the year.</p>
+<p>The king, who has made statements calling for judicial system reform since 2009, acknowledged the judiciary’s lack of independence and susceptibility to influence. Many members of the well-entrenched and conservative judicial community were loath to adopt new procedures.</p>
+<p><u>Corruption</u>: The Central Commission for the Prevention of Corruption (ICPC) is the agency responsible for combating corruption but lacks authority to require responses from government institutions. The ICPC noted that the anticorruption situation had not improved significantly and that governmental policy continued to lack a strategic dimension and effective commitment. Officials attributed the low number of complaints in part to the lack of legislation protecting plaintiffs and witnesses in corruption cases. In 2010 the ICPC set up an internet portal for civil society and small businesses to identify instances of corruption. The ICPC also publishes quarterly reports covering specific cases of corruption and the outcome of any subsequent prosecution.</p>
+<p>In addition to the ICPC, the Ministry of Justice and the government accountability court had jurisdiction over corruption issues but pursued no high-profile cases. The inspector general of the Justice Ministry investigated 107 ethics complaints against judges in 2012, which resulted in the referral of three judges to the Supreme Judicial Council for disciplinary measures.</p>
+<p>Observers noted that there was widespread corruption in the police force. The government claimed to investigate corruption and other instances of police malfeasance through an internal mechanism. Authorities did not provide official information on the results of the investigations.</p>
+<p><u>Whistleblower Protection</u>: No law provides protection for persons lawfully disclosing evidence of illegality.</p>
+<p><u>Financial Disclosure</u>: The law requires judges, ministers, and members of parliament to submit financial disclosure statements to the audit court within 90 days of taking office and, once again, no longer than 90 days after leaving office. The law, however, does not require family members to make disclosures and, according to allegations from government transparency groups, many officials did not file disclosures. There are no effective criminal or administrative sanctions for noncompliance. The Court of Auditors is responsible for monitoring and verifying disclosure compliance.</p>
+<p><u>Public Access to Information</u>: There is no freedom of information law. The constitution provides for citizen access to information held by public institutions, but authorities did not provide a dedicated access mechanism. The government rarely granted access to official information to citizens and noncitizens, including the foreign media. Public officials received no training on access to information. There were no public outreach activities regarding public access to information.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section5"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Groups investigated and published findings on human rights cases; however, the government’s responsiveness to, cooperation with, and restrictions on domestic and international human rights organizations varied, depending on its evaluation of the political orientation of the organization and the sensitivity of the issues. The government viewed any activity by such organizations touching on the subject of Western Sahara with particular suspicion, such as travel to Western Sahara or contacts with human rights activists, although the government has asserted that it welcomed visits to the territory by diplomatic missions, foreign governments, and UN special procedures. On March 6, the government denied entry to the country to four members of the European Parliament. Media reports indicated that police suspected them of supporting independence for Western Sahara. The UN special rapporteur on trafficking in persons and the UN Working Group on Arbitrary Detention visited Western Sahara during the year.</p>
+<p>The government recognized domestic human rights NGOs with national coverage. The OMDH, which received some indirect government funding, and the AMDH were the largest human rights NGOs. The AMDH did not cooperate officially with the government but usually shared information informally with both the government and government-affiliated organizations. The government occasionally met with and responded to inquiries and recommendations from the OMDH and AMDH as well as Transparency Maroc and OMP, the umbrella organization dealing with prison conditions.</p>
+<p><u>Government Human Rights Bodies</u>: There were three governmental human rights entities. The CNDH served as the principal advisory body to the king and government on human rights. Most human rights NGOs and the public generally viewed the CNDH as a credible and proactive government advocate protecting human rights and a vehicle to seek redress in individual cases. In many ways the CNDH filled many of the roles of a national social ombudsman. The CNDH produced reports during the year criticizing government practices in the areas of juvenile detention facilities as well as the treatment of foreigners and migrants. The Mediator Institution, which replaced the Office of Grievances, acted as a more general ombudsman. It considered allegations of governmental injustices with the power to carry out inquiries and investigations, propose disciplinary action, or refer cases to the public prosecutor. The mission of the Interministerial Delegation for Human Rights is to promote the protection of human rights across all ministries, serve as a government interlocutor with domestic and international NGOs, and interact with relevant UN bodies regarding international human rights obligations.</p>
+<p>In the case of allegations of serious human rights abuses, parliament may create a special committee to investigate. Parliament created a special committee concerning prison conditions in 2012. It issued a report and subsequently disbanded.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section6"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on race, gender, disability, language, social status, faith, culture, regional origin, or any other personal circumstance. Discrimination occurred based on each of these factors. The 2011 constitutional provisions provide for gender equality and parity, although parliament had not passed implementing legislation.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law punishes men convicted of rape with prison terms of five to 10 years; when the conviction involves a minor, the prison sentence ranges from 10 to 20 years. Spousal rape is not a crime, and police were slow to act in domestic violence cases. A sexual assault conviction may result in a prison sentence of up to one year and a fine of 15,000 dirhams ($1,810). The government generally did not enforce the law. The vast majority of sexual assaults were not reported to police for social reasons. Police selectively investigated cases; among the minority brought to trial, successful prosecutions were rare.</p>
+<p>Domestic violence was widespread. Various domestic advocacy groups, such as the Democratic League for Women’s Rights (LDDF), reported that husbands perpetrated eight of 10 cases of violence against women.</p>
+<p>Numerous articles of the penal code pertaining to rape perpetuate unequal treatment for women and provide insufficient protection despite family law revisions. Statistics on rape or sexual assault were unreliable due to underreporting. A 2010 government planning survey revealed that 63 percent of women reported suffering an act of violence in the preceding 12 months.</p>
+<p>The law does not specifically prohibit domestic violence against women, but the general prohibitions of the criminal code address such violence. By law high-level misdemeanors occur when a victim suffers injuries that result in 20 days of disability leave from work. Low-level misdemeanors occur when victims suffer disability for less than 20 days. NGOs reported that the courts rarely prosecuted perpetrators of low-level misdemeanors. Police generally treated domestic violence as a social rather than a criminal matter. The government reported that they provided direct support to 50 counseling centers for female victims of violence.</p>
+<p>Physical abuse was legal grounds for divorce, although few women reported such abuse to authorities. Domestic violence mediation generally occurred within the family. Women choosing legal action generally preferred pursuing divorce in family courts rather than criminal prosecutions.</p>
+<p>The law is lenient toward husbands who commit crimes against their wives. Police rarely became involved in domestic disputes. Several women’s NGOs reported that laws were not often enforced due to societal pressures not to break up a family and to the conservative mentality of some police and court officials.</p>
+<p>The government operated hotlines for victims of domestic violence. A small number of groups, such as the Antirust Network and the LDDF, were also available to provide assistance and guidance to victims. Counseling centers existed exclusively in urban areas. Services for victims of violence in rural areas were generally limited to local police. Women’s shelters were not government funded. A few NGOs made efforts to provide shelter for victims of domestic abuse. There were reports, however, that these shelters were not accessible to persons with disabilities. Courts had “victims of abuse cells” that bring together prosecutors, lawyers, judges, women’s NGO representatives, and hospital personnel to review domestic and child abuse cases to provide for the best interests of women or children according to proper procedure. In the past authorities occasionally used Article 496 of the penal code, which criminalizes hiding married women, against domestic violence shelters. Officially recognized shelters were not targeted using article 496 during the year.</p>
+<p>Many domestic NGOs worked to advance women’s rights and promote women’s issues. Among these were the Democratic Association of Moroccan Women, Union for Women’s Action, LDDF, and Moroccan Association for Women’s Rights. All advocated enhanced political and civil rights for women. NGOs also promoted literacy and taught women basic hygiene, family planning, and childcare.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment in the workplace is criminal only when it is an abuse of authority by a superior. Authorities did not effectively enforce laws against sexual harassment. According to the government, although the law allows victims to sue employers, only a few did so. Most feared losing their job as a result or worried about proving the charge. NGOs reported widespread sexual harassment was one of several causes of the low rate of women’s labor force participation.</p>
+<p><u>Reproductive Rights</u>: Contraception is legal, and most forms were widely available. Individuals and couples were able to decide freely the number, spacing, and timing of their children and had the information and means to do so free from discrimination, coercion, and violence. The Ministry of Health ran two programs, one with mobile clinics providing maternal and child health and family planning services in remote rural areas, and the other involving systematic home visits to encourage the use of contraception and provide family planning and primary health-care services. NGOs reported that women often faced obstacles obtaining emergency contraception from pharmacies. Skilled attendance at delivery and postpartum care were available for women who could afford it, with approximately 74 percent of overall births attended by skilled health personnel.</p>
+<p>The most recent UN statistics showed that there were approximately 100 maternal deaths per 100,000 live births in the country in 2010 and that 52 percent of women between the ages of 15 and 49 used a modern method of contraception in 2010. The major factors influencing maternal mortality and contraceptive prevalence rates were female illiteracy, lack of knowledge about availability of services, cost of services, social pressure against contraceptive use, and availability of transportation to health centers and hospitals for those in rural areas.</p>
+<p><u>Discrimination</u>: The constitution provides women equal rights in civil, political, economic, cultural, and environmental affairs. The previous constitution provided for only political equality. The constitution mandated the creation of a new body, the Authority for Equality and the Fight against all Forms of Discrimination, to monitor equality issues. Implementing legislation for the body was not adopted by year’s end.</p>
+<p>Numerous problems related to discrimination against women remained. A Muslim woman’s share of an inheritance, determined by sharia (Islamic law), varies depending on circumstances but is less than a man’s. Under Islamic law daughters receive half of what their brothers receive. If a woman is the only child, she receives half, and relatives receive the other half. A sole male heir would receive the entire estate. The 2004 reform of the family code did not change the inheritance laws. The constitution does not specifically address inheritance law.</p>
+<p>According to the law, women are entitled to a one-third share of inherited property. While ministry decrees carry the force of law, implementation met considerable resistance from men in certain areas of the country. Despite lobbying by women’s NGOs, enforcement of these property laws remained inconsistent. The Ministry of Interior further pressed for local enforcement of women’s entitlement to collective land rights. A ministry circular published in March 2012 requires all local authorities to follow the law rather than local customs, which in many regions allow male heirs to receive all lands. The government followed up with training for local authorities on the implementation of the land allocation process. Women’s NGOs continued to press the government to codify women’s rights in formal legislation.</p>
+<p>The family code places the family under the joint responsibility of both spouses, makes divorce available by mutual consent, and places legal limits on polygamy. The law stipulates neither that the wife has a duty of obedience to her husband nor that women have a marital tutor as a condition of marriage. The penal code criminalizes “knowingly hiding or subverting the search for a married woman who is evading the authority to which she is legally subject.” This section was used to return women involuntarily to abusive homes.</p>
+<p>Implementation of the reformed family law remained a concern. The judiciary lacked willingness to enforce it, as many judges did not agree with it. Corruption among working-level court clerks and lack of knowledge about its provisions among lawyers were also obstacles to greater enforcement of the law. Widespread female illiteracy also limited women’s ability to navigate the legal system.</p>
+<p>There were few legal obstacles to women’s participation in business and other economic activities. According to some entrepreneurs and NGOs, women experienced difficulty in accessing credit and owning and managing businesses. According to a 2011 government report, the rate of participation in the formal labor force for women was 25.5 percent. Average female wages were 17 percent of average male wages. The law does not require equal pay for equal work. Rural women faced restrictions for social and cultural reasons. Women were not represented in leadership positions in trade unions. Most women were able to travel, receive loans, and start businesses without the permission of their husbands or fathers.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The law permits both parents to pass nationality to their children. There were, nonetheless, cases in which authorities denied identification papers to children because they were born to unmarried parents. In cases of undocumented children, NGOs, magistrates, and attorneys advocated for the children. The process of obtaining necessary identification papers was lengthy and arduous. According to press reports during the year, representatives of the Ministry of Interior refused to register the births of some children to whom their parents sought to give Amazigh names. Undocumented children could not register for school.</p>
+<p><u>Education</u>: Girls continued to lag behind boys in school attendance beyond the primary level. According to 2011 UN statistics, 42 percent of women were illiterate. The government reported that in 2012, 769,402 persons participated in literacy programs, 88 percent of whom were women.</p>
+<p><u>Child Abuse</u>: Although NGOs, human rights groups, media outlets, and the UN Children’s Fund (UNICEF) claimed child abuse was widespread, there were no conclusive government statistics on the extent of the problem. Anecdotal evidence showed that abuse of child domestic servants was a problem. Prosecutions for child abuse were extremely rare.</p>
+<p>The government maintained 20 child protection centers, five specifically for girls. The centers were originally intended to provide an alternative to prison for underage delinquents; however, the centers were used to house delinquents, homeless children, victims of domestic violence, drug addicts, and other “children in distress” who had not committed a crime. Some centers housed minors convicted of homicide alongside minors who were victims of domestic abuse. This mingling of children in conflict with the law and children in distress also occurred during other stages of the process. While the budgets of these centers were all very low, conditions varied greatly from center to center because of charitable gifts to some. The Ministry of Youth and Sports managed the centers.</p>
+<p><u>Forced and Early Marriage</u>: The legal age for marriage is 18, but parents, with informed consent of the minor, may secure a waiver from a judge for underage marriage. The judiciary approved the vast majority of petitions for underage marriages. In 2011 the Social Development Ministry reported there were more than 33,000 underage married girls. Child marriage remained a concern, especially in rural areas. UNICEF reported 11 percent of women under the age of 20 were or had been married. According to the UN Population Fund’s 2012 report, 16 percent of women between the ages of 20 and 24 had married before age 18. No government efforts specifically focused on early marriage.</p>
+<p><u>Sexual Exploitation of Children</u>: Prostitution exploited children who were victims of sex tourism. Penalties for sexual exploitation of children range from two years’ to life imprisonment and fines from 9,550 dirhams ($1,150) to 344,000 dirhams ($41,450). Moreover, persons convicted of sexual exploitation may lose their national rights and right of residence for a period ranging between five and 10 years. On July 30, the king pardoned a convicted Spanish child rapist, Daniel Galvan Vina, on the occasion of King Juan Carlos’ visit. Public protests followed, and the king retracted the pardon on August 5, after Galvan returned to Spain. Spanish authorities subsequently re-imprisoned him. In November the government announced that convicted rapists and pedophiles would no longer be eligible for pardons.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see the Department of State’s report at <a href="http://travel.state.gov/content/childabduction/english/country/morocco.html">travel.state.gov/content/childabduction/english/country/morocco.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Community leaders estimated the size of the Jewish population at approximately 4,000 members. Jews generally lived in safety, and the government provided them appropriate security. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, and access to health care. The law also provides for regulations and building codes that assure access for persons with disabilities. The government did not effectively enforce or implement these laws and regulations. While building codes enacted in 2003 require accessibility for all persons, the codes exempt most pre-2003 structures, and authorities rarely enforced them for new construction. Most public transportation was inaccessible to persons with disabilities; however, the national rail system offered wheelchair ramps, handicap-accessible bathrooms, and special seating areas. Government policy provides that persons with disabilities should have equal access to information and communications. Special communication devices for the blind and deaf were not widely available.</p>
+<p>The Ministry of Social Development, Family, and Solidarity has responsibility for protecting the rights of persons with disabilities and attempted to integrate persons with disabilities into society by implementing a quota of 7 percent for persons with disabilities in vocational training in the public sector and 5 percent in the private sector. Both sectors were far from achieving such quotas. The government maintained more than 400 integrated classes for children with learning disabilities, but integration was largely left to private charities. Families typically supported persons with disabilities, although some survived by begging.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Many of the poorest regions in the country, particularly the Middle Atlas region, are predominantly Amazigh and have illiteracy rates as high as 80 percent. Basic governmental services in this mountainous and underdeveloped region were not extensive.</p>
+<p>Official languages are Arabic and Amazigh, although Arabic predominates. French and Amazigh were available in the news media and, to a very much lesser extent, educational institutions. Authorities made no progress toward passing a law to implement the constitutional provision making Amazigh an official language.</p>
+<p>Approximately 60 percent of the population, including the royal family, claimed some Amazigh heritage. Amazigh cultural groups contended their traditions and language were rapidly being lost to Arabization. The government provided television programs in the three Amazigh dialects of Tarifit, Tashelhit, and Tamazight. The government also offered Amazigh language classes in the curriculum of 3,470 schools. A lack of qualified teachers hindered otherwise expanding Amazigh language education. The palace-funded Royal Institute of Amazigh Culture created a university-level teacher-training program to eliminate the shortage of qualified teachers. Instruction in the Amazigh language is mandatory for students at the Ministry of Interior School for Administrators in Kenitra.</p>
+<p>See the Western Sahara report for information regarding discrimination against Sahrawis in Moroccan-controlled Western Sahara.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The penal code criminalizes consensual same-sex sexual activity with sentences of up to three years in prison. Individuals engaged in same-sex sexual activity were prosecuted on at least two occasions during the year. Questions of sexuality, sexual orientation, and gender identity were addressed in the media and in public with more openness than in previous years.</p>
+<p>Sexual orientation or gender identity constituted a basis for societal violence, harassment, blackmail, or other actions, generally at a local level, although with reduced frequency. There were infrequent reports of societal discrimination, physical violence, or harassment based on sexual orientation or gender identity. The government deems lesbian, gay, bisexual, or transgender (LGBT) orientation or identity illegal. Antidiscrimination laws do not apply to LGBT persons, and the penal code does not criminalize hate crimes. There is a stigma against LGBT persons, but there were no reports of discrimination based on sexual orientation or gender identity in employment, housing, statelessness, access to education, or health care.</p>
+<p>On May 9, a court in Souk el-Arbaa, a village between Rabat and Tangier, sentenced three men who had engaged in same-sex sexual activity to three years in prison each under the law against public indecency.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Persons living with HIV/AIDS in the country faced discrimination and had limited treatment options. The Joint UN Program on HIV/AIDS reported some health care providers were reluctant to treat persons with HIV/AIDS due to fear of infection; however, there were domestic NGOs focused on treating HIV/AIDS patients.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section7"> </span><span class="st_twitter" st_title="Morocco #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Morocco - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220369%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution provides workers with the rights to form and join unions, strike, and bargain collectively, with some restrictions. The law prohibits certain categories of government employees, including members of the armed forces, police, and some members of the judiciary, from forming and joining unions and from conducting strikes. The labor code does not cover domestic workers, who are prohibited from unionizing.</p>
+<p>According to the labor code, employer and worker representatives should conduct discussions to agree on the wages and employment conditions of unionized workers. The law allows several independent unions to exist, but the code requires 35 percent of the total employee base to be associated with a union in order for it to be representative and able to engage in collective bargaining. The law prohibits antiunion discrimination and prohibits companies from dismissing workers for participating in legitimate union-organizing activities. Courts have the authority to reinstate workers dismissed arbitrarily and may enforce rulings that compel employers to pay damages and back pay.</p>
+<p>The law concerning strikes requires compulsory arbitration of disputes, prohibits sit-ins, calls for a 10-day notice of a strike, and allows for the hiring of replacement workers. The government may intervene in strikes. A strike may not take place over matters covered in a collective contract for one year after the contract comes into force. The government has the authority to disperse strikers in public areas not authorized for demonstrations and to prevent the unauthorized occupancy of private space. Unions may neither engage in sabotage nor prevent nonstrikers from working.</p>
+<p>The government did not always enforce labor laws due to a lack of sufficient inspection personnel and resources. Enforcement procedures were subject to lengthy delays and appeals.</p>
+<p>The government generally respected freedom of association and the right to collective bargaining. Employers limited the scope of collective bargaining, frequently setting wages unilaterally for the majority of unionized and nonunionized workers. Under the law unions are able to negotiate with the government on national-level labor issues. Unions boycotted social dialogue sessions with the government from October 2012 through the end of the year. At the sectoral level, trade unions negotiated with private employers concerning minimum wage, compensation, and other concerns.</p>
+<p>Labor disputes were common and were in some cases the result of employers failing to implement collective bargaining agreements and withholding wages. Trade unions complained that the government at times used Article 288 of the penal code to prosecute workers for striking and to suppress strikes. Although most union federations were strongly allied with political parties, unions were generally free from government interference.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The law penalizes forced labor of a worker by a fine for the first offense and a jail term of up to three months in subsequent offences. Penalties for coerced child labor under the law range from one to three years’ imprisonment.</p>
+<p>Labor inspectors did not inspect small workshops and private homes where the majority of such practices occurred, as the law does not allow labor inspections in private homes. Their small numbers, the broad geographic dispersion of sites, and the low level of resources at their disposal also limited inspectors’ effectiveness.</p>
+<p>Reports indicated that forced labor, especially of children, occurred. Many families from rural areas sent girls to work as maids in urban areas. Boys experienced forced labor as apprentices in the artisan and construction industries and in mechanic shops (see section 7.c.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for employment in all sectors is 15. The law prohibits children younger than 16 from working more than 10 hours per day; employers must give them a break of at least one hour. The law does not permit children younger than 16 to work between the hours of 9 p.m. and 6 a.m. in nonagricultural work or between 8 p.m. and 5 a.m. in agriculture. The overwhelming majority of child laborers worked in rural agriculture, according to the government’s statistical agency, the High Planning Commission. The law excludes seasonal agriculture work. The law prohibits employment of children younger than 18 in stone quarries, mines, or any other positions the government considers hazardous. The labor code, however, does not cover domestic labor and therefore does not prohibit the employment of child maids or domestic workers.</p>
+<p>The Ministry of Employment and Professional Development is responsible for implementing and enforcing child labor laws and regulations. The law provides for legal sanctions against employers who recruit children under the age of 15, with fines ranging from 27,000 to 32,000 dirhams ($3,260 to $3,870). Punishment for violations of the child labor laws includes criminal penalties, civil fines, and withdrawal or suspension of one or more civil, national, or family rights, including denial of legal residence in the country for five to 10 years.</p>
+<p>The ministry did not systematically enforce sanctions against child labor due to a lack of resources. According to various reports, police, prosecutors, and judges rarely enforced legal provisions on “forced labor in cases involving child domestics,” and few parents of children working as domestics were willing or able to pursue legal avenues that were likely to provide any direct benefit. In 2012 a court convicted and sentenced an employer to 10 years in prison for beating a child maid to death. Additionally, an undetermined number of Filipina maids filed suits against their former employers for trafficking-like abuses. Some were awarded compensation.</p>
+<p>According to Justice Ministry officials, 28 employers were prosecuted in 2012 for employing a child domestic. Labor inspectors responsible for enforcing the labor code do not have jurisdiction to inspect private residences. The ministry’s small cadre of labor inspectors did not monitor the informal sector. Forty-three of the 51 national labor inspectorates had an inspector trained in child labor issues. These inspectors received up to 14 weeks of training from the International Labor Organization’s International Program on the Elimination of Child Labor. During the year child labor focal-point inspectors received additional training under an international agreement with Spain.</p>
+<p>Noncompliance with child labor laws was reported in agriculture and private urban residences, where parents placed children as young as six years old to work as domestic servants.</p>
+<p>Under the 2006-15 National Plan of Action for Children, the government expanded coordination with local, national, and international NGOs on education and training programs during the year. The Ministry of Employment and Professional Development, led by the Office of the Director of Work in conjunction with NGOs, oversaw programs dealing with child labor. The programs sought to decrease the incidence of child labor by raising awareness or the problem, providing financial assistance to needy families, and lowering obstacles for at-risk children to attend school.</p>
+<p>A number of government projects focused on reducing child labor. The government increased the training of stakeholders involved in enforcement efforts, with a goal to improve legislation, reduce poverty, increase school retention in rural areas, and provide increased child protective services.</p>
+<p>Child labor in rural areas in 2012 accounted for 92.4 percent of child workers, 95.5 percent of whom worked in agriculture, primarily on family farms. According to 2012 government statistics, labor inspectors observed 825 instances of employers not observing child labor laws, issued 68 formal notices, and prepared four statements of fact for prosecution of businesses employing children between the ages of 15 and 18. The government removed 98 children from places of work.</p>
+<p>Some children were apprenticed before the age of 12, particularly in small family-run workshops in the handicraft industry. Children also worked in the informal sector in textiles, light manufacturing, and carpet weaving. Children’s safety and health conditions and wages were often substandard. In a 2012 report, the High Planning Commission estimated that approximately 7,000 children between the ages of seven and 15 worked in urban areas in 2012, largely in the service sector.</p>
+<p>Credible reports, such as HRW’s 2012 “Lonely Servitude,” reported the physical and psychological abuse of domestic servants. Employers paid parents for their children’s work. Most child domestics received food, lodging, and clothing instead of monetary compensation or were paid significantly below the minimum wage.</p>
+<p>During the year the High Planning Commission reported a significant reduction in child labor over the past decade, claiming that during the year there were approximately 107,641 children between the ages of seven to 15 actively working, compared with 517,000 children in the same age group in 1999.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor </i>at <a href="http://www.dol.gov/ilab/programs/ocft/tda.htm">www.dol.gov/ilab/programs/ocft/tda.htm</a>.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The minimum wage was 97 dirhams ($11.70) per day in the industrialized sector and 63 dirhams ($7.60) per day for agricultural workers. The World Bank absolute poverty-level threshold wage was 70 dirhams ($8.40) per day.</p>
+<p>The law provides for a 44- to 48-hour maximum workweek with no more than 10 hours in a single day, premium pay for overtime, paid public and annual holidays, and minimum conditions for health and safety, including a prohibition on night work for women and minors. The law prohibits excessive overtime. The labor code does not cover domestic workers, who were primarily female Moroccan citizens. In December 2012 a group of Filipina domestic workers openly complained of sexual exploitation from abusive employers who frequently confiscated their passports and paid them salaries of less than 2,500 dirhams ($300) per month.</p>
+<p>Occupational health and safety standards are rudimentary, except for a prohibition on the employment of women and children in certain dangerous occupations. The law prohibits persons under the age of 18 from hazardous work in 33 areas, which include working in mines, handling dangerous materials, transporting explosives, and operating heavy machinery.</p>
+<p>Many employers did not observe the legal provisions for conditions of work. The government did not always implement or effectively enforce basic provisions of the labor code, such as payment of the minimum wage and other basic benefits under the National Social Security Fund. The country’s labor inspectors attempted to monitor working conditions and investigate accidents, but lack of resources prevented effective enforcement of labor laws. Penalties were generally not sufficient to deter violations.</p>
+<p>Including traditional holiday-related bonuses, workers generally received the equivalent of 13 to 16 months’ salary each year. Informal businesses employed approximately 60 percent of the labor force and often ignored minimum wage requirements. In many cases several family members combined their incomes to support the family. Most workers in the industrial sector earned more than the minimum wage.</p>
+<p>According to NGOs no major workplace accidents occurred during the year; however, there were numerous media reports of accidents, sometimes fatal, on construction sites that had substandard standards or lacked safety equipment.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

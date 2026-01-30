@@ -1,0 +1,583 @@
+2013
+Latvia
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296"> </span><span class="st_facebook" st_title="Latvia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220296">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220296</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=executive"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 3/07/14; see Appendix H: Errata for more information.</em></p>
+<p>The Republic of Latvia is a multi-party parliamentary democracy. Legislative authority is vested in a unicameral parliament (Saeima). Elections in September 2011 for the 100-seat parliament were free and fair. Authorities maintained effective control over the security forces. There were some reports that security forces committed human rights abuses, particularly that individual police personnel abused persons in custody.</p>
+<p>The most significant human rights problem during the year was corruption. Other notable problems included poor conditions in detention and prison facilities, violence against women, rape, and child abuse.</p>
+<p>Additional human rights problems included delays in court proceedings,</p>
+<p>anti-Semitic incidents, incomplete restitution of Jewish communal property, trafficking in persons, and societal discrimination against lesbian, gay, bisexual, and transgender (LGBT) persons. Noncitizens, who constituted approximately 14 percent of the population, naturalized at a slow rate and could not participate in elections.</p>
+<p>The government generally took adequate steps to prosecute officials who committed abuses, although concerns remained regarding impunity for corruption.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section1"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of disappearances, politically motivated abductions, or kidnappings.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution and the law prohibit such practices, there were reports that government officials employed them. Independent local organizations continued to express concerns about police behavior, and reports indicated that police continued to abuse persons in custody. A report by the Council of Europe’s Committee for the Prevention of Torture (CPT), published on August 27 about some practices observed in 2011, concluded “persons in police custody continue to face a certain degree of risk of being subjected to ill-treatment.”</p>
+<p>Through June the Internal Security Bureau of the state police received 149 complaints of alleged police violence, compared with 136 for the entire year in 2012. Of these reports, authorities dismissed 81 cases. Two state police officers found responsible for violence received disciplinary penalties including a reprimand, reduction in rank, and suspended sentences.</p>
+<p>The ombudsman’s office received five complaints regarding mistreatment by police and four about mistreatment by prison officials involving violence toward inmates. An additional 456 complaints against prison officials were received involving disrespectful and humiliating behavior, groundless disciplinary punishments, illegal searches, and other violations of good prison practices. The ombudsman’s office noted that police had not properly investigated allegations of mistreatment.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally did not meet international standards. The government permitted visits by independent human rights observers and took some measures to remedy poor conditions in its facilities.</p>
+<p><u>Physical Conditions</u>: The Ministry of Justice reported that authorities held 5,576 persons in the country’s 12 prisons and detention centers. This included 1,657 detainees awaiting trial or the outcome of an appeal. Detainees and convicts were sometimes held together.</p>
+<p>The prison population included 53 juvenile males, who were held at a separate juvenile facility that included a state-funded school.</p>
+<p>The prison population included 381 women held in a separate prison. Authorities held two juvenile female prisoners in a separate wing of the women’s prison. The ombudsman’s office and nongovernmental organizations (NGOs) considered the physical conditions at the women’s prison to be better than at other facilities.</p>
+<p>The ombudsman’s office received 97 complaints about prison conditions during the first six months of the year, compared with 68 during 2012. The Justice Ministry received 250 complaints regarding prison conditions during the first six months of the year, compared to 579 during 2012. The state police received 11 complaints about conditions in short-term detention facilities. The complaints concerned living conditions, access to health care, and human rights violations.</p>
+<p>Prisoners generally had access to potable water. Health care services for inmates remained inadequate. The European Court of Human Rights (ECHR) received complaints regarding the conditions of prisons and police detention cells, violence by prison officials, inadequate investigations, and lengthy court proceedings.</p>
+<p>Through June prison authorities opened investigations into three prisoner deaths, which were ruled to be suicides. NGOs reported that prisoner suicides were caused by a shortage of psychologists and resocialization programs.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was satisfactory. In 2012 prison administrators established a centralized database of all inmates. Authorities used alternative sentencing measures, including reduced sentences and rehabilitation programs for nonviolent offenders, and prisoners had reasonable access to visitors. Some NGOs complained that the separation of visitors from inmates by a glass wall during visits, which is not mandatory according to regulations, was a violation of inmates’ right to privacy. Authorities allowed prisoners and detainees to observe religious practices and keep religious articles in cells and dormitory rooms.</p>
+<p>Prisoners and detainees could submit complaints to judicial authorities without censorship. Authorities generally investigated credible allegations of inhumane conditions and documented the results of investigations in a publicly accessible manner, although some NGOs alleged that complaints were not reviewed in a timely manner.</p>
+<p>The ombudsman’s office monitored conditions at prisons and detention facilities. Ministry of Justice and other government officials investigated and monitored prison and detention center conditions. The new chief of the Prison Administration, who assumed office in July, dismissed several guards at Jelgava prison following an investigation of reports about mistreatment of inmates.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring by independent nongovernmental observers. The CPT’s country report published on August 27 concluded that conditions observed in 2011 in some police detention facilities “were so poor that they could be considered as amounting to inhuman and degrading treatment.”</p>
+<p><u>Improvements</u>: NGOs acknowledged that the government made some improvements to conditions in prisons and other detention facilities during the year. They asserted, however, that the worst conditions concerning health care were not remedied.</p>
+<p>In response to the CPT report, authorities referred to training and education programs being offered to police officers on various subjects, including the prohibition of torture and inhuman or degrading treatment, interrogation techniques, and the use of physical force, special means, and weapons. Authorities improved physical conditions in several police detention facilities and prisons.</p>
+<p>On April 1, legislation came into force to reduce the prison population in accordance with CPT recommendations. According to the new law, the suggested terms of imprisonment under sentencing guidelines for property-related crimes were reduced. Prisoners sentenced for these crimes could appeal their sentences based on new guidelines. Through June courts released 218 inmates following successful appeals of previous sentences. The law also provides for resocialization programs to reduce recidivism.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The state police, security police, and state border guards are subordinate to the Ministry of Interior. Municipal police are under local government control. Military forces, the Military Counterintelligence Service, the Protective Service, and the National Guard are subordinate to the Ministry of Defense. State police and municipal police forces shared responsibility for maintaining public order. Criminal investigations are generally conducted by state police, but security police, financial police, military police, prison authorities, the Bureau to Prevent and Combat Corruption, and other relevant state institutions also had jurisdiction. The security police were responsible for combating terrorism and other internal threats. The military and the National Guard were primarily responsible for external security.</p>
+<p>Civilian authorities maintained effective control over security forces, and the government had effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving the security forces during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Under the law persons are arrested on the basis of warrants issued by an authorized judicial official, except in exceptional cases specifically defined by law, such as apprehension in the act, eyewitness identification of the suspect, or flight risk. The law gives prosecutors 48 hours to either release arrestees or charge them and bring them before a judge, and authorities generally respected this requirement. Authorities generally informed detainees promptly of charges against them. While a bail system exists, it was used infrequently and applied most often in cases involving economic crimes.</p>
+<p>Detainees have the right for an attorney to be present during questioning and were usually informed of that right. The government generally provided attorneys for indigent defendants. The law differentiates between minors and adults with respect to charges and sentencing.</p>
+<p>Authorities permitted detainees prompt access to family members. There were no reports that authorities detained suspects incommunicado or held them under house arrest.</p>
+<p><u>Pretrial Detention</u>: Under the law pretrial detention is limited to no more than 15 months from the first filing of a case for the most serious crimes. The maximum detention is 21 months. According to Ministry of Justice data, the average length of time between the first filing and the first court procedure is 2.3 months for a criminal case and two months for an appeal. NGOs continued to express concern about the length of pretrial detentions and about hearing postponements, and the ombudsman’s office continued to receive complaints about lengthy pretrial detentions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, and the government generally respected judicial independence. There were problems, including inefficiency. The constitution and law provide for the right to a fair, public trial, and most judges enforced this right. The Ministry of Justice took steps to improve transparency, including the introduction in September of a requirement to publish court judgments online. According to data from the ministry, only 5 percent of proceedings were recorded during the previous year, although audio recording equipment was installed in all courtrooms in 2012. In some individual cases, the fairness of court decisions, of judges, and of the judicial system remained a concern. During the first six months of the year, the ombudsman’s office received 134 complaints about the fairness of the court system and lengthy proceedings, compared with 156 during 2012.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Defendants have the right to a presumption of innocence, to be informed promptly of the charges against them, and to an open trial in most cases without undue delay, although trials may be closed to protect government secrets or the interests of minors. Defendants also have the right to consult with an attorney in a timely manner, at government expense if they are indigent. The law provides for the right to adequate time and facilities to prepare a defense. Defendants have the right to access government-held evidence, to confront witnesses against them and present witnesses and evidence in their defense, not to be compelled to testify or confess guilt; and to appeal. These rights were generally respected.</p>
+<p>There is no jury system; a single trial judge hears most cases. Judicial proceedings are conducted in Latvian. Defendants who are not fluent in Latvian, however, have the right to become acquainted with documentation concerning their case and to participate in the court process using their native language, with the assistance of an interpreter.</p>
+<p>Both the ombudsman and NGOs expressed concern that long judicial delays often prevented access to the justice system. The problem was especially acute in administrative courts, where even minor matters could take up to two years for an initial hearing. The Ministry of Justice took measures to reduce backlogs in civil and criminal courts, including through the hiring of additional judges, which resulted in a 124 percent case-clearance rate in the first half of the year, compared with 119 percent in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for an independent and impartial judiciary in civil matters, including access to a court to bring lawsuits seeking damages for, or the cessation of, a human rights violation. Judgments on human rights matters can be appealed to the ECHR. The government generally upheld the law concerning civil procedures and generally enforced civil court orders.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>During the year the ECHR issued seven judgments against the country and found violations of the European Convention on Human Rights in all of them. Most pertained to violations of article 3, the prohibition of torture. According to the Ministry of Foreign Affairs, recent cases submitted to the ECHR also pertained to poor medical services in prisons, mistreatment by officials during an investigation, and a person’s right to privacy and family life. In general authorities promptly complied with ECHR judgments.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>Restitution of World War II-era Jewish communal property remained incomplete. The government and the Latvian Council of Jewish Communities did not reach a consensus on a legislative solution for restitution of communal properties, nor on the number of properties eligible for restitution. These properties included cemeteries and former synagogues, schools, hospitals, and community centers. The law does not provide a mechanism for the restitution of these properties.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and the law prohibit such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section2"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide for freedom of speech, including for members of the press, and the government generally respected these rights. The law restricts all forms of speech that involve incitement to racial or ethnic hatred.</p>
+<p><u>Freedom of Speech</u>: The law criminalizes incitement to racial or ethnic hatred and spreading false information about the financial system.</p>
+<p>In June parliament passed amendments to broaden the ban on the use of Soviet and Nazi symbols, including flags, coats of arms, and anthems, during public events. The previous law applied only to commemorative events.</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views with few restrictions. The law requires 65 percent of all broadcast airtime in national and regional electronic media to be in Latvian or dubbed or subtitled in Latvian. Extensive Russian-language programming was available.</p>
+<p>In January the government initiated a criminal case against journalist Leonids Jakobsons for violating the right to private correspondence. Jakobsons was arrested and briefly detained in 2011 for publishing allegedly “private” e-mails between Riga mayor Nils Usakovs and a foreign diplomat. The Latvian Journalists’ Association and other NGOs criticized his arrest as a restriction of freedom of the press. The case remained pending at year’s end.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or credible reports that the government monitored e-mail or internet chat rooms without appropriate legal authority.</p>
+<p>Individuals and groups could engage in the expression of views via the internet, including by e-mail. According to a September poll by the Central Statistics Bureau, 72 percent of residents had access to the internet.</p>
+<p>Internet speech was subject to the same restrictions related to incitement, as were other forms of speech (see section 6, National/Racial/Ethnic Minorities).</p>
+<p>In May a court convicted two persons for posting comments that incited ethnic hatred on the internet. In the first case, an individual who made remarks about burning the country’s flag received a seven-month suspended sentence and seven months of probation for inciting ethnic hatred. In the second case, a person who compared the country to a fascist state and insulted ethnic Latvians received a one-year suspended sentence and one year of probation for inciting ethnic hatred.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law provide for freedom of assembly, and the government generally respected this right.</p>
+<p>Organizers must provide 10 days’ prior notice to authorities to hold demonstrations. Permits may be denied or modified to prevent public disorder. Some observers continued to criticize the 10-day notice requirement as a restriction on freedom of assembly.</p>
+<p>During the year numerous peaceful demonstrations took place without government interference. Police generally did not interfere with peaceful assemblies and offered demonstrators appropriate levels of protection.</p>
+<p>On March 16, an annual march took place commemorating Latvians who fought in German Waffen SS units against the Soviet Red Army in World War II. The march was attended by far-right activists, veterans, and their families. Observers noted that, despite the presence of demonstrators and counterdemonstrators, the procession was peaceful.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law provide for freedom of association, and the government respected this right. The law prohibits the registration of communist, Nazi, or other organizations that contravene the constitution or advocate the violent overthrow of the government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s<i> International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of movement within the country, foreign travel, emigration, and repatriation, and the government generally respected these rights, including with respect to its noncitizen resident population. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations to provide protection and assistance to refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system to provide protection to refugees. In general this system was active, accessible, and subject to due process. The Latvian Center for Human Rights, the primary provider of legal services for asylum seekers, expressed concern that asylum applicants and refugees did not always have prompt access to legal representation.</p>
+<p>According to a 2013 Amnesty International report, asylum seekers in the country often experienced difficulties accessing their right to seek international protection. They received insufficient information upon arrival, which in some cases led to their detention as irregular migrants. A lack of interpreters also limited access to status determination procedures.</p>
+<p>Through June, according to the Office of Citizenship and Migration Affairs, 59 persons applied for asylum in the country. Authorities did not grant any applicants the status of asylum seeker. Authorities returned persons denied asylum to their countries of transit or origin.</p>
+<p><u>Safe Country of Origin/Transit</u>: The country generally did not adjudicate asylum cases based on the applicant’s country of origin or country of transit.</p>
+<p>As an EU member state bound by the Dublin III Regulation, authorities may return to the country of first entry into the EU asylum seekers who arrive from other EU member states, except in cases involving family reunification or other humanitarian considerations. There were no credible complaints that authorities ignored exceptional cases or routinely returned asylum seekers to countries with poorly developed asylum systems.</p>
+<p><u>Temporary Protection</u>: The law provides temporary protection for individuals who may not qualify as refugees. It was not used during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>Citizenship is derived from one’s parents. To become a citizen at birth, one parent must be a Latvian citizen. The children of noncitizens residing in the country may be granted citizenship if requested by one or both parents when a newborn birth is registered.</p>
+<p>According to the UNHCR, there were approximately 280,759 stateless persons in the country. As of July the Office of Citizenship and Migration Affairs listed 290,510 persons as noncitizen residents and 176 as stateless persons of Latvian origin. Latvia also reported that 46 stateless persons from Estonia, Belarus, Lithuania, Moldova, Finland, and Spain were resident in Latvia. Although the UNHCR included most of the country’s large noncitizen population in its total, the government did not, preferring to designate most of them as “noncitizen residents” on the grounds that most of them were eligible to naturalize under the country’s law. Noncitizen residents accounted for approximately 14 percent of the population. The government recognized as stateless only persons with no claim to foreign citizenship or noncitizen resident status. Stateless persons may pursue citizenship through naturalization after lawfully residing in the country for five years.</p>
+<p>Noncitizen residents, mostly persons of Slavic origin who moved to the country during the Soviet occupation and their descendants, did not automatically become citizens when the country regained sovereignty in 1991. They have, however, permanent residence status; consular protection abroad, the right to return to the country, employment rights except for some government and private-sector positions related to the legal system, law enforcement, and national security, and the right to all government social benefits. As noncitizens, they may not vote in local or national elections and may not organize a political party without the participation of at least an equal number of citizens.</p>
+<p>The law provides naturalization procedures to grant citizenship to the noncitizen population. These procedures include a test of Latvian language skills and knowledge of the constitution and history of the country. A new law that came into force in October eliminates the language examination from the naturalization procedure for noncitizens who have completed high school with a curriculum taught at least 50 percent in the Latvian language.</p>
+<p>Most noncitizen residents did not apply for citizenship, although they were eligible. They frequently cited as reasons the perceived “unfairness” of the requirements, resentment at having to apply, and the lack of perceived benefits.</p>
+<p>Through June authorities received <strong>1,359 </strong>naturalization applications: they approved <strong>1,279 (including applications filed before the beginning of the year) and rejected 219 because applicants either failed the examination three times or failed to appear for the examination. </strong>Some observers continued to express concern that the passage rate for the naturalization test had fallen in recent years.</p>
+<p>The ombudsman, NGOs, and the Council of Europe’s Committee for the Prevention of Racism and Intolerance continued to urge the government to reform the naturalization system, including granting automatic citizenship (with parental consent) to children born to noncitizen residents, relaxing testing requirements, allowing noncitizen residents to participate in local elections, and reducing the list of professions in which noncitizens may not work.</p>
+<p>In October amendments to the Citizenship Law came into effect, which allow dual citizenship in some circumstances. The new law states that a child is a citizen regardless of place of birth, if one of the parents is a Latvian citizen at the time of the child’s birth.<br/>
+<!--[endif]--></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section3"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide citizens with the right to change their government peacefully, and citizens exercised this right through periodic and generally free and fair elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: International observers from the Organization for Security and Cooperation in Europe’s Office for Democratic Institutions and Human Rights (OSCE/ODIHR) assessed the September 2011 preterm parliamentary elections for the 100-seat parliament to be free and fair. According to the OSCE, the elections took place in a democratic and pluralistic environment with minimal violations and offered voters a genuine choice. The report noted that voter education materials were only available in Latvian, which may have disadvantaged voters with low Latvian-language proficiency.</p>
+<p><u>Political Parties</u>: Citizens can organize political parties without restriction. The law prohibits the country’s noncitizen residents from organizing political parties without the participation of at least an equal number of citizens. The election law prohibits persons who remained active in the communist party or other pro-Soviet organizations after 1991, or who worked for such institutions as the Soviet KGB, from holding office.</p>
+<p><u>Participation of Women and Minorities</u>: There were 25 women in the 100-member parliament, and three women in the 14-member cabinet of ministers. Four of seven judges on the Constitutional Court were women, and 27 of the 51 Supreme Court justices were women.</p>
+<p>Approximately 14 percent of the country’s population and 36 percent of the ethnic minority population were noncitizens. They could not participate in elections and had no government representation. Members of minorities who were citizens, including ethnic Russians and Poles, served on various elected bodies. For example, the mayor of Riga, the country’s largest city, was a member of the ethnic Russian minority. The Harmony Center party, which includes many ethnic Russians, won the most seats during the 2011 parliamentary elections and in the June elections for municipal councils in Riga and the Latgale region.</p>
+<p>In March activists established the Noncitizens Congress, an NGO to represent and lobby for the interests of noncitizens with the government and in the international community. On June 1, the congress organized parallel elections alongside municipal elections to elect a 30-member “noncitizen parliament.” More than 15,000 residents voted in the elections, which were open to noncitizens and citizens alike. The congress sought to create dialogue with government officials at all levels, and its goals included amending the law to allow noncitizens to participate in local elections and to relax naturalization requirements for elderly noncitizens.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section4"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials. While the government took significant steps to bring the law into compliance with international standards, the government did not implement the law effectively, and officials sometimes engaged in corrupt practices. There was a widespread perception that corruption existed at all levels of government, and the government did not effectively engage with the public to counter that perception. A study published by Transparency International in July indicated that 25 percent of respondents admitted paying bribes to police and 24 percent admitted paying bribes to receive medical services.</p>
+<p>In June Latvia was invited to join the Organization for Economic Cooperation and Development (OECD) Working Group on Bribery, and in September to join the OECD Antibribery Convention. The country was deemed eligible this year after implementing recommendations from the OECD working group, including amending legislation to fully comply with international standards, such as the OECD Antibribery Convention.</p>
+<p>The investigation into the November 21 collapse of a supermarket in Riga, which resulted in 54 deaths, continued at year’s end. Among potential causes under investigation were concerns that corruption in the construction industry may have been a contributing factor in the collapse.</p>
+<p><u>Corruption:</u> The Bureau to Prevent and Combat Corruption (KNAB) is primarily responsible for fighting corruption. Through June KNAB recommended 11 criminal cases for prosecution of 38 persons. During the same period, the bureau opened 25 criminal cases. Prosecutors also submitted six criminal cases against 16 persons to the court.</p>
+<p>In June the prosecutor filed criminal charges against six persons in the so-called Daimler case, which has been under KNAB investigation since 2010. The case pertained to the procurement of vehicles by Riga municipality and an estimated 4.22 million lats ($8.1 million) in bribes that city officials accepted over several years.</p>
+<p>On October 1, court proceedings began against three former officials of the state-owned electrical company Latvenergo accused of abusing their positions to acquire property, engage in passive bribery, and launder criminally acquired assets on a large scale between 2006 and 2010. At least 14 other former employees were also implicated in the ongoing KNAB investigation.</p>
+<p><u>Whistleblower Protection</u>: The Labor Law bans retaliation against public and private sector employees who report suspected crimes or administrative violations in the workplace to government officials. Employers are responsible for ensuring compliance with the law, and victimized employees who seek compensation for financial losses or moral harm must go to court, which can be a lengthy and expensive endeavor.</p>
+<p><u>Financial Disclosure:</u> Public officials are required to file income declarations annually, and authorities investigated irregularities in the declarations.</p>
+<p>KNAB is responsible for overseeing the activities of public officials and implementing conflict of interest laws. During the year KNAB reviewed 59 cases and fined 43 persons for conflict of interest; 411 other public officials received reprimands. In most cases violations involved failure to provide required income declarations, or to observe restrictions on outside employment and commercial activities. In six cases the declared incomes of public officials or their relatives were not commensurate with their lifestyles, which triggered audits by the State Revenue Service. These cases resulted in the payment of fines and additional taxes in the amount of 2,945 lats ($5,665) for undeclared income.</p>
+<p><u>Public Access to Information</u>: The Freedom of Information Law provides for public access to government information, and the government generally provided citizens, noncitizens, and foreign media with requested information.</p>
+<p>Under the law government officials must ensure access to information and provide it within 30 days, but only generally accessible information may be released. Information that does not require extra processing is provided free of charge. Government fees may not exceed the expenses related to searching for, processing, and copying documents or other information. Applicants may request an exemption from fees and institutions may waive or reduce charges. Applicants have the right to appeal a refusal to provide information. The law does not stipulate criminal or administrative sanctions for noncompliance. Institutions are specifically instructed to take into account an applicant’s visual or hearing disabilities when providing information.</p>
+<p>NGOs, including the Latvian Center for Human Rights, criticized attempts by the State Language Center to restrict dissemination of printed information by state institutions in the Russian language. For example the center banned distribution of Russian-language flyers prepared by the Ministry of Health for a cancer prevention campaign for women’s health. Other Russian-language documents that could not be distributed included information on public safety, crime-victim satisfaction surveys compiled by state police, and the census.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section5"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials met with NGOs, often cooperated with them, and responded to their views and inquiries.</p>
+<p><u>Government Human Rights Bodies</u>: The ombudsman’s office has the responsibility to monitor the government’s performance on human rights problems. The office received some cooperation from the government and operated without direct government or party interference. The ombudsman’s office, however, complained that inadequate funding prevented it from fulfilling its mandate and limited its independence.</p>
+<p>NGOs continued to criticize the ombudsman’s office, saying it lacked institutional authority and any clear focus or strategy. They complained that the office frequently put forward numerous issues with little proactive follow-through. As required by law, the office published a public annual report describing its activities and making recommendations.</p>
+<p>The parliament has a standing committee on human rights and public affairs, which met weekly during the parliamentary session to consider initiatives related to human rights.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section6"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law prohibits discrimination based on race, gender, disability, language, sexual orientation and/or gender identity, and social status, and the government enforced most of these prohibitions. There were complaints, however, that rape and domestic violence laws were ineffective or inadequately enforced.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law specifically criminalizes rape but does not recognize spousal rape as a distinct crime. Criminal penalties ranged from probation to life imprisonment depending on the nature of the crime, the age of the victim, the criminal history of the offender, and the dependence of the victim on the offender. Through June prosecutors brought 30 rape charges. The women’s advocacy NGO Marta Center received 167 complaints about domestic violence through November.</p>
+<p>NGOs continued to complain that authorities inadequately enforced rape laws. They contended that rape was underreported due to a lack of trust in police and a tendency by police to blame the victims. Although the state police conducted training sessions on communication with domestic violence victims, NGOs noted police attitudes toward victims remained a problem, particularly in rural areas.</p>
+<p>Under the law domestic violence is an aggravating factor in certain criminal offenses. There are penalties for causing even “minor” bodily harm, when the victim and perpetrator are spouses or former spouses. Through June police initiated 220 criminal cases in which the victim was a family member. Of those cases, 112 were resolved, five were dismissed, and 103 investigations remained underway.</p>
+<p>NGOs and police agreed that domestic violence was a significant problem, and the law was not effectively enforced. Victims were often uninformed about their rights and were reluctant to seek redress through the justice system. The women’s advocacy NGO Marta Center noted that there was no timely system to provide women with restraining orders against their abusers or allow them to file police reports upon admission to a hospital for treatment after violence. Most abused women went first to a hospital and only afterward turned to police.</p>
+<p>There were no designated shelters for battered or abused women. Women who experienced violence sought help in family crisis centers. These centers had limited capacity and gave priority to women with children. There were no dedicated rape or assault hotlines; NGOs managed four general crisis hotlines. The Marta Center operated websites that provided information and legal assistance to female victims of violence.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment is illegal but reportedly common in the workplace. As in the previous year, the ombudsman’s office received no complaints regarding sexual harassment during the year, in part because of procedures required to register incidents. The ombudsman’s office in Riga was the only location that accepted complaints. Additionally, cultural factors discouraged women from filing sexual harassment complaints.</p>
+<p><u>Reproductive Rights</u>: The government recognized the right of couples and individuals to decide freely and responsibly the number, spacing, and timing of their children and to have the information and means to do so free from discrimination, coercion, and violence. Health clinics and local health NGOs operated freely in disseminating information on family planning under the guidance of the Ministry of Health. There were no restrictions on access to contraceptives. The government provided free childbirth services. Men and women had equal access to diagnosis and treatment for sexually transmitted infections. In 2012 the cabinet of ministers appropriated more than seven million lats ($13.77 million) for reproductive services for childless couples through 2014. Only a small number of families, however, received state funding for treatment. In May, 1,060 families were on a waiting list for reproductive services because allocated state funds could pay for only 275 procedures during the year.</p>
+<p><u>Discrimination</u>: Women enjoy the same rights as men, including rights under family law, labor law, property law, inheritance law, and in the judicial system. The law prohibits employment discrimination. There were cases in which women faced hiring and pay discrimination, particularly in the private sector.</p>
+<p>The law prohibits work and wage discrimination based on gender and requires employers to provide equal pay for equal work. Government regulatory agencies did not fully implement the law. According to Ministry of Welfare data, the average salaries of female workers were more than 15 percent lower than those of male workers.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from one’s parents, and only one parent must be a Latvian citizen to transmit nationality to a child. Children born in the country to noncitizen parents are registered immediately and are eligible to apply for citizenship and have access to educational and social services. There were no reports of systematic or widespread failure to register births immediately.</p>
+<p><u>Child Abuse</u>: According to the Ministry of Interior, there were 184 registered cases of child abuse through June, compared with 203 during the same period in 2012. The ombudsman’s office received one complaint of violation of children’s rights. In approximately 40 percent of the cases, children were victims of violence, cruelty, or sexual abuse. The Ministry of Welfare, which is responsible for the rehabilitation of abused children, provided rehabilitation-related services to 1,475 children during this period.</p>
+<p>Police effectively enforced laws against child abuse, although NGOs observed that coordination among agencies involved in the protection of children’s rights was weak.</p>
+<p>In July a new law took effect to improve protection of children’s rights. The law expanded the range of cases police can investigate by defining physical violence against a child and by expanding the definition of emotional violence. It also specifies minimum qualifications for teachers and other professionals who work with children.</p>
+<p>The ombudsman and several NGOs raised concerns about the continued use of orphanages, despite the provision in the Law on the Protection of Children’s Rights that “every child has the inalienable right to grow up in a family.” Approximately 2,000 children remained in orphanages, with that figure growing annually during the last few years. Nearly 6,000 children lived in foster families and other forms of family environments.</p>
+<p>The State Inspectorate for Children’s Rights reported high levels of peer-to-peer abuse in government-run orphanages and boarding schools for special-needs children. Five such abuse cases were reported during the first six months of the year. The inspectorate said this figure is well below the actual level of abuse, because most incidents do not become known during a three-day inspection.</p>
+<p><u>Forced and Early Marriage</u>: The legal minimum age for marriage is 18. According to the most recent available statistics, the rate of marriage for boys and girls under the age of 18 was approximately 5 percent of all marriages. Lawful marriage under the age of 18 is possible only with parental permission and if one party is at least 16 and the other is at least 18.</p>
+<p><u>Sexual Exploitation of Children</u>: Statutory rape and child pornography are illegal. The minimum age for consensual sex is 16. Statutory rape is punishable by four years’ imprisonment, or six years if the victim is particularly young. The state police can initiate proceedings against a sexual abuser without receiving a complaint if the victim is a minor. The purchase, display, reproduction, or distribution of child pornography is punishable by up to three years in prison. Involving a minor in the production of pornography is punishable by up to 12 years in prison, depending on the age of the child.</p>
+<p>A special police unit in Riga worked to prevent the sexual abuse of minors and to eradicate child sex tourism through aggressive prosecution of pedophiles and other child abusers. The unit publicized the potential dangers posed to minors by internet chat rooms and worked closely with local social networking sites to identify potential internet predator cases.</p>
+<p>In November state police detained a 39-year-old man on suspicion of pedophilia, including raping several underage girls and recording pornographic scenes with underage girls. He was also suspected of coercing approximately 200 underage girls through social networking websites. According to police information, the man carried out his illegal activities over a 10-year period. An investigation of the charges continued at year’s end.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/latvia.html">http://travel.state.gov/content/childabduction/english/country/latvia.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community numbers approximately 11,000. There were continued reports of anti-Semitic incidents during the year, including some cases of vandalism and anti-Semitic statements, but no reports of anti-Semitic attacks against individuals. Anti-Semitic sentiments persisted in some segments of society.</p>
+<p>During the year vandals desecrated monuments and memorial plaques in Riga and Liepaja. In November the monument to former Latvian president Janis Cakste in Riga was vandalized with two swastikas and several other drawings. Municipal authorities removed the graffiti immediately. Investigations of these incidents were ongoing at year’s end.</p>
+<p>On April 18, the independent Council on Electronic Mass Media initiated an administrative case against <i>Radio NABA</i> for broadcasting anti-Semitic statements and incitement to ethnic hatred. The case stems from a March 2012 broadcast during which hosts of <i>Radio NABA</i> and a Latvian veteran of the of the German Waffen SS during World War II made anti-Semitic comments. The radio program was canceled. Court proceedings continued at year’s end.</p>
+<p>On July 4, Latvia’s Holocaust Remembrance Day, nationalists organized an event in the town of Limbazi to commemorate the recapture of the town from Soviet occupation on that date. Due to the historical circumstances that followed the Red Army’s exit from Limbazi--the ensuing German occupation led to the deaths of the town’s approximately 100 Jewish residents--a number of groups criticized the event as anti-Semitic. Foreign Minister Edgars Rinkevics condemned the event as “unacceptable” and attended instead a commemorative event for Latvians who perished in the Holocaust.</p>
+<p>Jewish community representatives, government officials, and foreign diplomats attended the July 4 Holocaust commemoration ceremony in Riga. A group of neo-Nazis held a separate demonstration to protest the ceremony. Unlike the previous year, the Riga City Council required the counterdemonstration to conclude prior to the official commemoration ceremony.</p>
+<p>In November the EU’s Fundamental Rights Agency released a survey on discrimination and hate crimes against Jews in eight EU member states, including Latvia: 12 percent of Latvian Jews surveyed stated that they had experienced anti-Semitic harassment in the previous 12 months, while 15 percent stated that they had experienced such harassment in the previous five years.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s annual <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, access to healthcare, or the provision of other state services, and the government generally enforced these provisions. The law mandates access to air travel and other transportation, and during the year the government and municipalities had partially implemented the law. The law mandates access to public buildings for persons with disabilities; however, most were not accessible. In January the government began providing a personal assistance service to persons with disabilities. NGOs including Apeirons noted that many persons with disabilities were dissatisfied with the service, largely due to scheduling difficulties.</p>
+<p>In November the government adopted mid-term policy planning guidelines to implement the UN Convention on the Rights of People with Disabilities in Latvia during 2014-20. The document focused on four main priority areas: education, employment, social protection, and public awareness. The document also addressed some of the concerns regarding the personal assistance service, particularly for persons with mental disabilities.</p>
+<p>The law grants additional assistance to children with disabilities, allowing them and their caretakers to use public transportation free of charge. The law also allows families of children diagnosed with a disability to receive state-funded counseling. Children with disabilities attended school. The majority attended specialized schools, but children with disabilities can also attend regular schools that accommodate their needs. Since October 2012 the government has provided eligible children with disabilities with assistants in schools.</p>
+<p>There were 7,916 special needs children placed in segregated boarding schools or classrooms in regular schools.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>No physical attacks against minorities were reported. NGOs representing minority groups, however, claimed that official statistics underreported the actual number of other types of incidents.</p>
+<p>Through June police initiated 16 criminal cases alleging incitement of ethnic or racial hatred. Complaints generally involved hate speech on the internet. Through June the ombudsman’s office received one written complaint of racial or ethnic discrimination compared with 10 during 2012.</p>
+<p>During the year security police initiated criminal proceedings against individuals who made comments on an internet portal that allegedly incited racial or ethnic hatred. The comments coincided with the celebration of May 9, when many members of the Russian-speaking minority celebrate the end of World War II.</p>
+<p>The Romani community continued to face widespread societal discrimination and high levels of unemployment and illiteracy. According to the Office of Citizenship and Migration, the number of Roma in the country was estimated at 8,291. Observers continued to criticize the government’s action plan to address unemployment and educational issues in the Romani community, claiming the plan was underfunded and insufficient to substantially improve conditions for Roma.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>There were reports of violence based on sexual orientation or gender identity. NGOs complained of widespread intolerance and underreporting of such attacks and discrimination to authorities.</p>
+<p>As in the previous year, the ombudsman’s office received no reports of discrimination based on sexual orientation during the year. LGBT representatives reported that cooperation between the ombudsman and the LGBT community was limited.</p>
+<p>During the year Mozaika, an NGO that promotes LGBT rights, received 19 reports of LGBT rights violations, which ranged from verbal and physical attacks to discrimination at work and bullying in schools. At year’s end two criminal investigations against alleged perpetrators were underway. One was against an extremist who collected munitions to attack planned EuroPride 2015 events in Riga and the other against persons who issued death threats to a board member of Mozaika.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>There were no reports of societal violence or discrimination against persons with HIV/AIDS.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section7"> </span><span class="st_twitter" st_title="Latvia #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Latvia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220296%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of workers to form and join independent unions, except uniformed members of the military. The law provides for the right to strike, subject to limitations related to public safety, and prohibits strikes by essential personnel, including judges, prosecutors, police, firefighters, border guards, employees of state security institutions, prison guards, and military personnel. The law prohibits “solidarity” strikes by workers who are not directly involved in a specific labor agreement between strikers and their employers, a restriction criticized by local labor groups. The law provides arbitration mechanisms that essential personnel may use in lieu of striking. The law provides for the right of workers to bargain collectively, prohibits antiunion discrimination and employers’ interference in union functions, and provides reinstatement for unlawful dismissal, including dismissal for union activity.</p>
+<p>The government generally enforced applicable labor laws, and workers exercised their rights. Labor rights organizations expressed concerns during the year about employer discrimination based on union membership.</p>
+<p>The International Trade Union Confederation (ITUC) noted that, while the law protects “basic labor rights,” the minimum number of workers required to form a union was excessive. The Free Trade Union Confederation of Latvia (LBAS) knew of no cases in which this restriction limited the right to form a union, however. The ITUC criticized rules that allow a strike to be suspended pending an employer’s legal challenge of the legality of a strike.</p>
+<p>On June 20, the LBAS and the Trade Union of Health and Social Care of Latvia organized a rally, “For Social Justice - Against Poverty!” in front of the office of Prime Minister Valdis Dombrovskis. More than 1,500 demonstrators participated in the protest against the health system and the treatment of health workers and patients, calling for immediate and comprehensive improvements.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, including by children, and the government generally effectively enforced such laws. The Ministry of Welfare’s State Labor Inspectorate (SLI), the agency responsible for enforcing labor laws, conducted regular inspections of workplaces during the year and reported no incidents of forced labor. There were, however, some cases of Latvians being trafficked and forced into compulsory labor abroad. The main violations involved labor with no legal contract.</p>
+<p>Also see the Department of State’s annual <i>Trafficking</i> <i>in Persons</i> <i>Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The statutory minimum age for employment is 15, although children age 13 or older may work in certain jobs outside of school hours with written permission from a parent. The law prohibits children under the age of 18 from performing nighttime or overtime work.</p>
+<p>Inspectors from the SLI are responsible for enforcing child labor laws and did so effectively. The SLI’s resources were adequate. During the year the SLI inspected workplaces for violations and conducted information campaigns on labor rights, including for youth audiences. There were no reports of labor abuses involving children during the year.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>In March the Saeima partly ratified the European Social Charter, which binds the country to a number of articles that guarantee social and economic rights. The Saeima’s partial ratification of the charter, however, weakened protections for several groups. These included the right to fair remuneration sufficient for a decent standard of living for workers and their families and the right of elderly persons to social protection.</p>
+<p>In June the government announced that beginning January 1, 2014, the monthly minimum wage would be increased by 12.5 percent, from 200 lats per month ($385) to 225 lats ($432). By comparison the Latvian Central Statistical Bureau’s “minimum subsistence consumer basket” price index for July was 179 lats ($345).</p>
+<p>The law provides for a mandatory 40-hour maximum workweek with at least one 42-hour rest period weekly. The maximum permitted overtime is 144 hours in a four-month period. Employees are not allowed to work more than 24 hours consecutively, 56 hours in a week, or overtime on more than six consecutive days. The law requires a minimum of 100 percent premium pay in compensation for overtime, unless other forms of compensation are agreed to in a contract. The law establishes minimum occupational health and safety standards for the workplace. The law entitles workers to 28 calendar days of paid annual vacation.</p>
+<p>The State Revenue Service is responsible for enforcing minimum wage regulations, restrictions on working time, and occupational health and safety standards. Most labor standards were respected for both citizens and noncitizen workers. Authorities did not, however, actively enforce the right of workers to remove themselves from situations that endanger health or safety.</p>
+<p>Prior to the collapse of a Maxima supermarket on November 21, the SLI reported 20 workplace fatalities during the year (five of which resulted from natural causes) and 92 serious workplace injuries. The majority of workplace injuries and fatalities were in the construction, wood-processing, and lumber industries. Five employees of the Maxima supermarket that collapsed were among the 54 victims who died in the event. Dozens of other persons were injured. An investigation into the causes of the collapse continued at year’s end.</p>
+<p>The collapse also drew attention to poor working conditions in the retail sector and the government’s failure to enforce labor laws effectively. During the year SLI received many complaints against Maxima, which is the country’s largest private employer with approximately 7,000 workers. According to SLI, Maxima failed to address various offenses, ranging from failure to pay overtime, suppression of employee efforts to unionize, and lack of a work safety program.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

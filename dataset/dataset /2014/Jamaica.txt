@@ -1,0 +1,535 @@
+2014
+Jamaica
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700"> </span><span class="st_facebook" st_title="Jamaica" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236700">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236700</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=executive"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 7/02/15; see Appendix H: Errata for more information.</em></p>
+<p>Jamaica is a constitutional parliamentary democracy. The People’s National Party (PNP) led by Prime Minister Portia Simpson Miller controlled 42 of the 63 seats in the House of Representatives. International election observers deemed the 2011 elections transparent, free, fair, and without violence. Authorities failed at times to maintain effective control over the security forces.</p>
+<p>The most serious human rights issues were alleged unlawful security force killings; cases involving the violation of rights that were not resolved in a timely way; and poor prison and jail conditions, including abuse of detainees and prisoners and severe overcrowding.</p>
+<p>Other human rights issues included an overburdened, underresourced, and inefficient judicial system and frequent lengthy delays in trials; violence against and sexual abuse of children; violence and discrimination against women; trafficking in persons; and violence against persons based on their suspected sexual orientation or gender identity.</p>
+<p>The government increased its efforts to investigate and punish members of the security forces who committed abuses. A lack of willing witnesses, however, continued to plague the justice system and trials languished, resulting in a perception of impunity.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section1"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>While the government or its agents did not commit politically motivated killings, there were numerous reports that the government’s security forces committed arbitrary or unlawful killings.</p>
+<p>For example, the Independent Commission of Investigations (INDECOM) filed criminal charges in March against four police officers for murder, conspiracy to commit murder, and wounding with intent, in connection with an investigation conducted into the conduct of police officers in Area 3, covering the parishes of St. Elizabeth, Manchester, and Clarendon.</p>
+<p>According to official INDECOM statistics, there were 103 killings involving police through October, which represented a 53 percent decline from the same period in 2013. Human rights monitors indicated some killings by police went unreported, with police allegedly meting out justice they believed was unavailable through the judicial system. On many occasions the Jamaica Constabulary Force (JCF) employed lethal force in apprehending criminal suspects. In most shooting incidents, police alleged the victims were carrying firearms and opened fire on them. In many cases, however, eyewitness testimony contradicted the police accounts. In other cases allegations of “police murder” were not credible, because the killings occurred in areas where well-armed gangs, trafficking in weapons and narcotics and running lottery and advance-fee scams, controlled communities and were often better armed than police.</p>
+<p>Trial proceedings against police Corporal Malica Reid, charged with the 2010 killing of prominent businessman Frederick “Mickey” Hill, began in 2011 but suffered repeated postponements. Authorities postponed the trial numerous times during the year, and in November they postponed proceedings again until March 2015 to allow the prosecution sufficient time to find and provide certain documents requested by the defense.</p>
+<p>In September, INDECOM charged Corporal Elaine Stewart, Constable Marlon Grant, and Constable Juliana Clevon in connection with the August beating death of Mario Deane while he was in custody at the Barnett Street Police Station. They charged the three police officers with manslaughter, attempting to pervert justice, and misconduct in a public office because they failed to complete Dean’s bail process, failed to assess and monitor the risk of harm, and neglected to perform their duty. The case was in progress as of November.</p>
+<p>In November a court convicted Detective Constables Tyrone Findlay and Leonard Lindsay for the 2010 shooting death of Anthony “Tony” Richards and sentenced them to 25 years in prison.</p>
+<p>With respect to the 2010 Tivoli Gardens security operation that left at least 73 civilians and one security force member dead, the government established a commission to conduct an inquiry into the activities of the security forces during the state of emergency, and three commissioners were sworn in on August 29. The commission published a request in October for witnesses to come forward to testify during the proceedings and provide written statements. The commission began hearing testimony on December 1, and the government requested the commission to conclude its work within three months and issue a final report of its findings within two months of the end of its investigation.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits such practices, reports of physical abuse of prisoners by guards continued, despite efforts by the government to remove abusive guards and improve procedures.</p>
+<p>When prisoners raise allegations of abuse by correctional officers, the charges are first reviewed by corrections officials, then by an inspector from the Ministry of National Security, and finally by police. Authorities file charges against correctional officers for abuse if there is evidence to support the allegations, but official complaints and investigations were infrequent.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prisons and detention centers were severely overcrowded and presented serious threats to life and health.</p>
+<p><u>Physical Conditions</u>: Overcrowding in particular facilities and poor living conditions remained severe problems. With a maximum capacity of 4,402 inmates, the corrections system contained approximately 4,200 adult inmates. There was considerable overcrowding in particular facilities, since some capacity was unusable due to staffing shortfalls and renovations. While the system’s total capacity reflected both high- and low-security facilities, most inmates were held in high-security facilities. Authorities required detainees to provide everything needed for their time in state custody, including clothes, soap, and a water bottle. The law prohibits the incarceration of children in adult prisons in most cases, and authorities moved to reduce the mixing of juveniles with adults; however, some juveniles were held temporarily in adult facilities. Police lock-ups were designed for short-term detentions, but detainees were sometimes held, without charge, for years in these facilities.</p>
+<p>Men and women were incarcerated in separate facilities, although female prisoners generally lived in better conditions than their male counterparts. Cells in some facilities had little natural light, inadequate artificial light, subpar bathroom and toilet facilities, and poor ventilation.</p>
+<p>The Metcalf Juvenile Remand Center in Kingston, a pretrial facility designed to hold a maximum of 208 juvenile males from ages 12 to17, held approximately 100 boys at any given time and provided comprehensive health, educational, and other services.</p>
+<p>The Horizon Adult Remand Center, built originally as a warehouse, held approximately 490 inmates, including some of the most hardened criminals, 80 percent of whom had links to criminal gangs. Authorities did not clearly separate detainees according to their different stages of criminal procedure. Persons detained without charges, persons on remand, and convicted criminals shared the same facility and often shared cells. At the St. Catherine Adult Correctional Institution in Spanish Town, inmates shared dark, unventilated, and dirty cells. Designed to hold 800 inmates, the facility held more than 1,200, and the continuing renovation of some units resulted in relocation of inmates to the remaining units, thus exacerbating the overcrowding. Authorities also held some detainees in the prison’s medical facility. Inmates remained in their cells from 3 p.m. to 9 a.m. with no means to address their hygienic needs. They received a slop bucket to use, but administrators strongly encouraged the inmates not to use them. These conditions at times led to violence and serious health problems among prisoners. The superintendent noted the problems, but insufficient resources prevented prisoners from remaining outside their cells for a larger portion of the day. Bed bugs also were common.</p>
+<p>Hunt’s Bay lock-up held prisoners in 11 cage-like structures, which were open, in varying degrees, to weather conditions and the gazes of passersby. Cells were crowded, with up to 10 persons per cell. As a result cells were often soiled with garbage and urine. Detainees claimed authorities allocated cellmates just 15 minutes two to three times a day to bathe, use the bathroom, and fill water bottles. Potable water generally was available, but officials required detainees to provide their own containers to carry water. Male prisoners had limited access to latrine facilities. Between 4 p.m. and 7 a.m. the following day, the prisoners’ only option was to relieve themselves in a slop bucket. The prior commissioner of corrections attempted to disinfect the facilities and obtain new mattresses for the inmates, but lack of funds hindered his efforts, and the center had to rely on donations to conduct routine disinfectant spraying of mattresses and cells.</p>
+<p>Throughout the system medical care was poor, primarily a result of having only three full-time doctors and one full-time nurse on staff. Four part-time psychiatrists cared for at least 225 inmates diagnosed as mentally ill in 12 facilities across the island. Prisoners in need of dentures and unable to eat the prison food encountered difficulties gaining access to a dentist. Approximately $200 Jamaica dollars (JMD) ($1.79) was budgeted to provide a prisoner three meals per day. As a result prison food was poor, consisting primarily of rice, chicken neck, and slices of bread, and prison authorities frequently ignored inmates’ dietary restrictions. The prisons were unable to provide fruits or vegetables, although prisoners with family nearby could have additional food brought in at predetermined times.</p>
+<p>Allegations of physical abuse of prisoners by guards continued, despite efforts by the government to remove abusive guards and improve procedures. INDECOM investigated all reports of abuse by prison officials.</p>
+<p><u>Administration</u>: In September a new commissioner, the third in 15 months, was appointed to oversee the Department of Correctional Services. The budget for prisons and lockups was inadequate in light of the overwhelming challenges and demands facing the system. Nonviolent youth offenders were under the jurisdiction of the social services agency, which generally sent them to unsecured halfway houses (called “places of safety” or “juvenile remand centers”) after removing them from their homes. Authorities stopped incarcerating minors who were previously defined as uncontrollable but who had committed no crime, and very few remained in remand centers. Authorities trained officers handling juvenile detainees in child psychology, behavioral modification techniques, child-management strategies, and human rights laws.</p>
+<p>There was no specific prison ombudsman. Although prisoners could make complaints to the Public Defender’s Office without censorship, and representatives usually could enter the detention centers and interview prisoners without hindrance, official complaints and investigations were infrequent. Authorities permitted prisoners and detainees to receive visitors and attend religious observances.</p>
+<p><u>Independent Monitoring</u>: The government allowed private groups, voluntary and religious organizations, local and international human rights organizations, and the media to visit prisons and monitor prison conditions, and such visits took place during the year. These groups generally operated independently of the government.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law permits the arrest of persons “reasonably suspected” of having committed a crime. While the law prohibits arbitrary arrest, security forces performed “cordon and search” operations and enforced curfews, during which they detained persons and took them into custody. Although security forces can legally hold someone for 72 hours, persons were regularly and sometimes unlawfully arrested without warrants and detained for extended periods before being charged or released. Police reportedly sometimes held individuals without charge for several weeks.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The JCF has primary responsibility for internal security, assisted by the Island Special Constabulary Force. The Jamaica Defence Force (JDF) has responsibility for national defense, maritime narcotics interdiction, and JCF support. The JDF routinely conducted joint patrols and checkpoints in conjunction with the JCF. In her capacity as minister of defense, the prime minister approves all JDF operations in support of the JCF. The Ministry of National Security exercises the prime minister’s authority for oversight of the JCF and JDF. A commissioner heads the JCF, which delegates authority through the ranks to constables. The JCF maintained divisions focusing on community policing, special response, intelligence gathering, and internal affairs.</p>
+<p>INDECOM investigates actions by members of the security forces and other agents of the state that result in death or injury to persons or the abuse of the rights of persons and, when appropriate, forwards cases to the Director of Public Prosecutions (DPP) for prosecution.</p>
+<p>It usually took many years to bring police officers to trial for alleged unlawful killings, and since 2006 the courts had convicted only one police officer of an extrajudicial killing until the November murder conviction of two police officers. During the year, however, the pace of prosecutions quickened, and through the end of September, the DPP and INDECOM filed criminal charges against 21 police officers for their alleged involvement in unlawful killings. In July courts convicted eight officers for failing to comply with INDECOM’s investigation into their alleged involvement in the 2010 fatal shooting of two civilians. In November a court convicted a deputy superintendent of police for obstructing INDECOM in carrying out its duties when he failed to hand over to INDECOM investigators firearms involved in a fatal police shooting in St. Catherine.</p>
+<p>Lengthy trials with numerous delays were a systemic problem not confined to cases only involving police officers, but the government sought to improve training for prosecutors and other court personnel and provided evidence-tracking computers and software to help address the problem. With the early retirement of the commissioner of police, the government took the opportunity to address allegations of police abuses and corruption by appointing a reform-minded commissioner who pledged reform, reshuffled the JCF leadership, and promulgated new policy guidelines designed to curb abuses and promote the protection of human rights.</p>
+<p>A July 2013 Constitutional Court ruling confirming INDECOM’s power to file charges directly, rather than through the DPP, streamlined the judicial process, as the DPP issued its rulings on cases involving security forces on average 27 months after the final submission of files from the Bureau of Special Investigations or INDECOM. As of September INDECOM was pursuing more than two thousand investigations into allegations of abuse by agents of the state.</p>
+<p>According to JCF records through August, 72 police officers, or 33 percent of the 217 who took voluntary lie detector tests, did not pass or complete the test. The assistant police commissioner did not state whether he would discipline the officers who failed.</p>
+<p>Jamaicans For Justice (JFJ), a prominent nongovernmental organization (NGO), reported at least 21 police officers responsible for fatal shootings in recent years had fled the country and were living abroad. The JFJ alleged the lengthy time it took the DPP to determine that police personnel should be charged with a crime suggested collusion between the accused police officers and their colleagues, allowing accused officers to escape.</p>
+<p>The JCF continued a community-based citizen safety and security policing initiative to address the long-standing antipathy between the security forces and many poor inner-city neighborhoods. Community-based policing training was a central part of the basic training provided to new recruits, as well as in-service training provided to JCF members through professional development courses at the academy. The Community Safety and Security Branch trained community safety officers and assigned JCF personnel to targeted schools as resource officers to stem school violence. The government bolstered these efforts through public education and by nominating deputy divisional commanders with responsibility to introduce community policing to all the communities within their division. All JCF officers were required when possible to take a “graduated response” before using lethal force. Officers were also required to take an annual refresher course on the use of nonlethal equipment, but this did not always occur due to a lack of funds and equipment.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Arrests normally require warrants signed by a police officer of the rank of station sergeant or higher, but police may make arrests without warrants in some circumstances. Police often used the warrant as the first step in an investigation to search for evidence. Although the law requires detained suspects be charged or released within 72 hours of arrest, unless a justice of the peace or a resident magistrate grants a special waiver, suspects could remain in custody for weeks, awaiting an identification lineup before witnesses.</p>
+<p>If a detainee requests access to counsel, the law requires police to contact duty counsel (a private attorney who volunteers to represent detainees at police stations and until cases go to trial) under the Legal Aid Program; however, authorities continued to wait until after detainees had been identified in a lineup before contacting duty counsel for them. There was a functioning bail system, and authorities allowed detainees prompt access to family members. The constitution ensures legal assistance if someone does not have sufficient means to pay for legal representation and provides that a civil organization may initiate an application on behalf of a detainee or a mentally ill person.</p>
+<p>Although the law requires police to present a detainee in court within a reasonable time, authorities sometimes remanded suspects for psychiatric evaluation, at times for as long as three years when their cases were “lost in the system.” The law requires magistrates to inquire at least once a week into the welfare of each person listed by the JCF as detained, but few did so, especially in the busy Kingston/St. Andrew corporate area.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law provides for an independent judiciary, but the judicial system relied entirely on the Ministry of Justice for all resources.</p>
+<p>In many instances authorities delayed trials for years and dismissed some cases because files could not be located or had been destroyed. Some trials suffered from antiquated rules of evidence as well as from lack of equipment for collecting and storing evidence. For example, drug evidence collected in an arrest had to be stored in its entirety; samples or photographs were not acceptable. Storage facilities were inadequate and understaffed, and evidence occasionally disappeared, deteriorated in the warehouse, or could not be located when needed.</p>
+<p>The resident magistrate’s courts, which handled more than 90 percent of the cases in the court system, continued operation of a night court to reduce the backlog of cases. The Supreme Court used mediation through the Dispute Resolution Foundation as an alternative to traditional trials. This alleviated some of the civil case backlog in that court. The resident magistrate’s courts also used alternative dispute resolution in limited cases.</p>
+<p>Judges dismissed some criminal trials because witnesses failed to come forward due to threats, intimidation, or their death. Some of those who appeared qualified for the witness protection program, but many either refused protection or violated the conditions of the program. According to the JCF, no participant in the witness protection program who abided by the rules of the program had ever been killed.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Most trials are public and adjudicated by a lone judge. Serious criminal offenses are tried with juries in circuit court and at the Supreme Court level. Reluctance of some citizens to serve as jurors resulted in a persistent problem of seating jurors for cases, which contributed to the extensive judicial backlog.</p>
+<p>The constitution provides defendants a presumption of innocence and the right to counsel and to confront witnesses against them. Defendants have the right to be informed of the charges against them and the right to a fair and public trial by jury without undue delay. Judicial authorities frequently postponed trials because witnesses, counsel, or the required number of jurors failed to appear in court. Defendants are provided ample time to prepare defense and are not compelled to confess guilt. They have the right to appeal. Legal Aid attorneys were available to defend the indigent, except those charged with certain offenses under the Money Laundering Act or Dangerous Drugs Act and in the case of offenses in which the defendant is not liable to incarceration. The Office of the Public Defender (OPD) may bring cases on behalf of persons who claim violations of their constitutional rights, but the OPD cannot appear in court on their behalf. Although the OPD contracted with private attorneys to represent indigent clients, funds were insufficient to meet demand, and such attorneys sometimes requested payment from clients.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent and impartial civil judiciary process. Complainants may bring human rights abuse cases for civil remediation to the courts, but awards can be difficult to collect. The government is required to undertake pretrial negotiations or mediation in an attempt to settle out of court, but it often did not do so. When there were settlements, whether in or out of court, the government often lacked the funds to pay, resulting in a backlog of awards.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the constitution prohibits such actions, the Constabulary Force Act gives security personnel broad powers of search and seizure. This act allows search without a warrant of a person on board or disembarking from a vehicle, ship, or boat if a police officer has good reason to be suspicious. Police often conducted searches without warrants.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section2"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press, and the government generally respected these rights. An independent press, generally effective judicial protection, and a functioning democratic political system combined to ensure freedom of speech and press. The independent media were active and expressed a wide variety of views without restriction. Broadcast media were largely state owned but open to pluralistic points of view.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content. There were no credible reports that the government monitored private online communications without appropriate legal authority. According to the International Telecommunication Union, 38 percent of citizens used the internet in 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom.</p>
+<p>With respect to cultural events, the Jamaica Broadcasting Commission sought to regulate and limit the dissemination of certain popular music deemed indecent, profane, or inconsistent with public morality. The commission banned certain lyrics and music videos deemed inappropriate to broadcast, including dancehall songs referring to the simulation of aggressive or violent sex, and employed editing methods to expunge lyrics deemed unfit for broadcast. The commission’s directive targeted all types of musical broadcast output, including soca music and carnival music.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights.</p>
+<p>The government was prepared to cooperate with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in assisting refugees and asylum seekers, should such cases arise.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government had a system for processing and providing protection to refugees. The government provided protection against the expulsion or return of refugees to countries where their lives or freedom would be threatened, and it handled refugee or asylum cases administratively.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section3"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In general elections held in 2011, the PNP won 42 of the 63 seats in the House of Representatives, and PNP leader Portia Simpson Miller was sworn in as prime minister in January 2012. Simpson Miller also served as prime minister in 2006-07. The PNP defeated the Jamaica Labour Party (JLP), led by then prime minister Andrew Holness. International election observers from the Caribbean Community and the Organization of American States (OAS) deemed the elections transparent, free, fair, and without violence. A local organization, Citizen Action for Free and Fair Elections, also provided volunteer election observers. In a preliminary assessment, the OAS cited adherence to agreements negotiated by the Electoral Office between the parties on media, advertising protocols, and campaigning rules as important elements that helped strengthen the democratic process. The OAS recommendations included providing adequate space to guarantee voter privacy, clarifying the duties of political liaison officers, providing copies of the voters’ lists at polling stations, and improving signage at the entrance to polling stations.</p>
+<p>All citizens age 18 and over have the right to vote by secret ballot. Election watchers noted the relative lack of violence and intimidation in the 2011 elections, especially because in past elections voters living in inner-city areas dominated by one of the two major political parties faced substantial pressure. This pressure came from politically connected gangs and young men helping one political party by intimidating supporters of the opposing side. Civil society activism and pressure from the private sector, churches, and civic watchdogs discouraged past practices of intimidation.</p>
+<p><u>Participation of Women and Minorities</u>: Women’s rights activists expressed concern about the continued underrepresentation of women in politics. Voters elected eight women to the 63-seat House of Representatives, including three of the JLP’s 13 female candidates, and five of the six PNP nominees, including the party leader and candidate for prime minister. There were five women appointed to the 21-seat Senate. One of the 16 cabinet ministers was a woman, two women were appointed ministers without portfolio, and another a minister of state. The DPP and the chief justice were women.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government <span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 4. Corruption and Lack of Transparency in Government " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section4"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 4. Corruption and Lack of Transparency in Government " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, but the government did not implement the law effectively, and officials sometimes engaged in corrupt practices with impunity.</p>
+<p>In September the OAS released a report critical of the country’s prosecutorial agencies, especially the Office of the DPP, for what it called a general failure to prosecute corruption cases. The OAS report culminated a review of implementation of legislative and institutional mechanisms for preventing, detecting, punishing, and eradicating corrupt acts under the Inter-American Convention against Corruption.</p>
+<p><u>Corruption</u>: Through September four prominent individuals, including a former senator, a government projects manager, a member of the National Executive Council of the governing PNP, and a businessman, were arrested and charged for fraud and corruption-related activities. During the same period, a senior superintendent of police was tried and convicted of corruption for attempting to use his office to influence a case before the court.</p>
+<p>The Ministry of Justice and the Attorney General’s Office have overall responsibility to combat official corruption, but other ministries were responsible for their own investigations. All agencies operated independently without much collaboration among themselves, much less with civil society.</p>
+<p>In July the government revoked the license of a company that had been authorized to build a power plant. The Office of the Contractor General (OCG) and others had criticized the energy minister’s involvement in the bidding process, and the Inter-American Development Bank, which was to be the key financer of the plant, refused to fund the project due to allegations of irregularities in the procurement process.</p>
+<p>In August the JCF Anticorruption Branch (ACB), headed by an assistant commissioner of police, merged with the Major Organized Crime and Anticorruption Task Force to form the Major Organized Crime and Anticorruption Agency (MOCA). The merger was a step toward the minister of national security’s plan to create a national law enforcement investigation agency. MOCA was given the capacity to independently investigate official corruption and organized crime and report to the National Security Council through the minister of national security on matters of policy and performance.</p>
+<p>Junior police personnel undergo a rigorous vetting process, including polygraph examinations, and are required to sign five-year contracts with renewal contingent upon good conduct. While authorities rarely charged or convicted police personnel, authorities barred police personnel from reenlisting whenever there was information they were not efficient or effective in carrying out their duties with integrity. Through August the ACB criminally charged 23 police officers with corruption and submitted 24 cases, including eight from previous years’ investigations, to the DPP for prosecution. Through August, including cases carried over from previous years, there were 11 convictions, five acquittals, and 14 dismissals. The ACB had 20 pending cases as of August. Authorities did not permit 32 police officers to reenlist and dismissed 10 police officers for corruption. One police officer retired because of corruption investigations. Despite a notable increase in the number of arrests of officers for corruption, suspicions of corruption and impunity within the force remained.</p>
+<p><u>Financial Disclosure</u>: The Corruption Prevention Act requires many government officials to file financial declarations, although reports indicated that more than five thousand civil servants failed to file or filed late or incomplete financial declarations. Officials covered by the act must furnish the Commission for the Prevention of Corruption an annual declaration of their assets, liabilities, and income, including those of their spouses and children. The act also requires them to file a declaration 12 months after leaving office. The DPP has the authority to identify noncompliant officials and send their cases to the Magistrate’s Office, but the government did not levy any fines on officials during the year. The OCG can investigate but not prosecute official corruption involving government contracts.</p>
+<p><u>Public Access to Information</u>: Despite provisions in the Access to Information Act to promote transparency, media accounts indicated that the government sometimes categorically denied access to information. The act contains no sanctions or penalties to discourage lack of response to applications. Documents exempt from disclosure include those classified for national security reasons; those considered confidential to protect essential public interests or the private/business affairs of others; cabinet documents; investigative documents compiled for law enforcement proceedings; those affecting the national economy, personal privacy, or the government’s deliberative process; and documents subject to legal privilege. The government must respond in writing to all requests for information, inform the requester within 30 days of receipt of the application if the information will be disclosed, and inform the requester of the right to appeal disclosure denials. There is a charge for reproducing documents, but authorities may waive, reduce, or refund the fee when justifiable.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section5"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups and other international bodies generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials often were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The OPD provides services on behalf of those who charged that authorities violated their constitutional rights. The office contracted private attorneys to sue the government on behalf of private citizens.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section6"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The 2011 Charter of Rights amendment to the constitution prohibits discrimination based on race, gender, place of origin, political opinion, color, or creed. The government generally enforced these prohibitions, although there continued to be widespread discrimination based on party affiliation in the distribution of scarce governmental benefits, including employment, particularly in the poor inner city communities.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape is illegal and carries a maximum penalty of 25 years’ imprisonment. The law criminalizes spousal rape but only in the following circumstances: when the parties have separated or when proceedings to dissolve the marriage or have it annulled have begun, when the husband is under a court order not to molest or cohabit with his wife, or when the husband knows he suffers from a sexually transmitted infection. Human rights groups continued to advocate for a more comprehensive law on spousal rape. The Sexual Offenses Act of 2011 criminalizes sexual relations by an adult with a child--male or female--under the age of 16 and provides for penalties ranging from 15 years’ to life imprisonment. The JCF reported 488 rapes through September, a reduction of 17 percent from the same period in 2013. The Bureau of Women’s Affairs believed the true incidence was significantly higher than these statistics indicated, given the problem of underreporting, due to fear of stigma, retribution, or further violence. The JCF Center for Investigation of Sexual Offenses and Child Abuse, headed by a female deputy superintendent, handled sex crimes.</p>
+<p>Social and cultural norms perpetuated violence against women, including spousal abuse. The Broadcasting Commission banned the transmission of content that promotes violence against women, children, and other vulnerable persons. The law prohibits domestic violence and provides remedies including restraining orders and other noncustodial sentencing. Breaching a restraining order is punishable by a fine of up to $10,000 JMD ($90) and six months’ imprisonment. The NGO Woman Inc. reported that women frequently complained that police failed to treat domestic violence as a crime and take the necessary reports. Studies reported domestic violence was widespread. The JCF conducted domestic-abuse sensitivity training for police officers in downtown Kingston. A Victim Support Unit, located within the Ministry of National Security, operated in all 14 parishes. It provided counseling, emotional support, and other services to victims of gender-based violence in volatile communities. NGOs expressed concerns there was insufficient funding for police investigations of gender-based violence and for counseling and shelter for victims. Woman Inc., with a small subsidy from the government, operated the only shelter for battered women in the country.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No law prohibits FGM/C, but it was not a cultural practice, and there were no reports of any instances of FGM/C during the year.</p>
+<p><u>Sexual Harassment</u>: No legislation addresses sexual harassment, and no legal remedy exists for victims of sexual harassment. The Bureau of Women’s Affairs carried out workshops to sensitize public sector workers to the issue of sexual harassment.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely and responsibly the number, spacing, and timing of children and to have the information and means to do so, as well as the right to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. Access to information on modern contraception and skilled health attendance during pregnancy and at delivery were widely available. The UN Population Fund (UNPF) reported a maternal mortality rate of 80 maternal deaths per 100,000 live births. Women have access to emergency health care, including for the management of consequences arising from abortions; however, the standard of care varied widely, especially in rural communities. A review of maternal deaths revealed that a delay in receiving appropriate care in the hospital was the main contributor to maternal deaths. The incidence of HIV/AIDS in the antenatal population was a significant factor, as well as morbidity from hypertension, heart disease (now the second-leading cause of maternal death), and diabetes, often associated with obesity even in young mothers. The UNPF reported a modern contraceptive prevalence rate of 66 percent. According to UN Children’s Fund (UNICEF), 91 percent of pregnant women received quality prenatal care at least once during pregnancy, and skilled personnel delivered 97 percent of births.</p>
+<p><u>Discrimination</u>: Women sought jobs and served in almost every occupation in both the public and private sectors. Although the law accords women full legal equality, including equal pay for equal work, women suffered from discrimination in the workplace and often earned less than men (see section 7.d.). Domestic workers were particularly vulnerable to workplace discrimination and sexual harassment. The National Policy for Gender Equality, aimed at providing equal opportunities for men and women in social, political, and economic life, established Gender Focal Points in each of the ministries, which were committees of selected senior-level representatives, charged with developing, implementing, and monitoring gender-sensitive policies and programming.</p>
+<p>There was an active community of women’s rights groups, which focused on the protection of victims of sexual abuse, participation of women in the political process, and legislative reforms affecting women.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Every person born in the country after August 5, 1962, is entitled to citizenship. Persons outside the country born to or adopted by one or more Jamaican parents can claim citizenship, and those married to Jamaican spouses may also claim citizenship. There is universal birth registration, either in the hospital at the time of birth or at a local registrar’s office if the child is not born in a hospital.</p>
+<p><u>Child Abuse</u>: While there was no particular societal pattern of abuse of children, child abuse, including sexual abuse, was substantial and widespread. The Office of Children’s Registry (OCR) processes, receives, records, and stores data relating to the mistreatment and abuse of children. The law requires anyone who knows of or suspects child abuse to make a report to the OCR, with a penalty of up to $500,000 JMD ($4,465) for failure to do so. Through December 2013 the OCR received 11,018 reports of child abuse, compared with 8,741 reports for 2012. Of the reports received, 2,205 represented children who went missing. Reporting improved during the year due to increased public awareness and reporting opportunities, facilitated by the OCR’s public advertising campaign, including the staffing of a 16-hour-per-day hotline, an improved website that contained contact information and downloadable forms to report abuse, and a downloadable cell phone application that permitted the public to report suspected cases of child abuse.</p>
+<p>By law the Child Development Authority (CDA) in the Ministry of Health is responsible for implementation of the government’s programs to prevent child abuse. The government ended the practice of sending so-called uncontrollable children to correctional facilities, but there were reports a few were sent to temporary lock-ups. On August 12, the cabinet approved the drafting of an amendment to the Child Care and Protection Act to codify this change in practice. NGOs reported that inner-city gang leaders, sometimes including fathers, initiated sex with young girls as a “right.” Studies reported that 30 percent of adolescents worried about fighting and violence they saw in the home.</p>
+<p>The Office of the Children’s Advocate (OCA) has broad responsibilities for reviewing laws, policies, practices, and government services affecting children, as well as providing legal services to protect the best interests of children. Through October the OCA received 214 complaints directly from individuals and an additional 287 referrals from the OCR, conducted preliminary investigations, and referred other cases to appropriate government institutions. Corporal punishment is illegal in both homes and schools, although there was anecdotal evidence of teachers punishing children with rulers and other objects. In October a teacher was arrested for hitting a child in his class.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age for marriage is 18, but children may marry at 16 with parental consent. UNICEF estimated the rate of marriage under age 18 at 9 percent.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No law prohibits FGM/C, but it was not a cultural practice, and there were no reports of FGM/C during the year.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits sexual intercourse with a person less than 16 years old, the minimum age for consensual sex. Sexual relations by an adult with a child under the age of 16 are punishable by up to life imprisonment. A 2011 law provides for the establishment of a Sex Offenders Registry, and the Department of Corrections began implementing the Registry in July.</p>
+<p>The law criminalizes the commercial sexual exploitation of children and applies to the protection, possession, importation, exportation, and distribution of child pornography. It carries a maximum penalty of 20 years’ imprisonment and a fine of $500,000 JMD ($4,465). There were reports of children being involved in commercial sexual exploitation, but police investigations of alleged incidents failed to find confirming evidence.</p>
+<p>Child prostitution and sex tourism were problems, especially in tourist areas.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information, see <a href="http://travel.state.gov/content/childabduction/english/country/jamaica.html"><u>travel.state.gov/content/childabduction/english/country/jamaica.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There was a small practicing Jewish congregation in the country. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>While the law prohibits discrimination against persons with disabilities, it does not mandate accessibility standards. Persons with disabilities encountered discrimination in employment and access to schools--usually due to the state of the infrastructure, which limited access to buildings and provided few special facilities. In 2013 Senator Floyd Morris was sworn in as the first blind president of the senate; he promoted rights of persons with disabilities and began advocating with local businesses and organizations to help fund projects to improve access to sidewalks and buildings by persons with disabilities.</p>
+<p>Limitations in access to education were particularly pronounced at the primary level due to insufficient facilities and access for persons with disabilities. The deficiencies were due primarily to lack of funding to install access ramps, renovate classrooms, and widen doors and restroom facilities in older schools, or to construct newer, accessible schools. There was also a lack of suitably trained faculty to properly care for and instruct students with disabilities. This resulted in students with disabilities not being able to attend school as regularly as their peers. There were fewer reports of problems in secondary schools. Tertiary institutions, including community colleges, increasingly drafted policies to promote full inclusion of persons with disabilities. The Disabilities Act, passed in October, provides for the “full and effective participation and inclusion in the society for persons with disabilities on an equal basis with others” and establishes a Disabilities Rights Tribunal to hear complaints. The Jamaica Council for Persons with Disability conducted a nationwide survey to determine the full scope of the problem in the schools. Health care reportedly was universally available.</p>
+<p>The Ministry of Labor has responsibility for the Jamaica Council for Persons with Disabilities. The council distributes economic empowerment grants of up to $50,000 JMD ($446) to persons with disabilities to help them embark on small entrepreneurial ventures, such as vending or furniture making, or to provide them with assistive aids, such as prosthetics or hearing aids. Smaller rehabilitation grants of up to $15,000 JMD ($134) were available for similar purposes. The Ministry of Labor also has responsibility for the Early Stimulation Project, an education program for children with disabilities, as well as the Abilities Foundation, a vocational program for older persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Maroons, descendants of slaves who escaped to the mountainous interior in the 17th and 18th centuries, considered themselves a group apart and maintained some African traditions distinct from those of the larger society. The Maroons alleged the central government neglected the construction and repair of important infrastructure in their areas. Formal education was not available in Maroon communities beyond the junior high school level and led to high unemployment rates. Many young Maroons left the region for employment elsewhere; this migration and the influx of popular island-wide culture threatened the communities’ culture.</p>
+<p>In recent years there has been an influx of immigrants from China to work on large Chinese-financed and-managed construction projects. Many remained after completing the projects to open small businesses of their own. The growing and relatively prosperous Chinese community tended to rely on cash transactions rather than banks, making them more susceptible to thieves and other criminal elements. Even large enterprises were not immune.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits “acts of gross indecency” (generally interpreted as any kind of physical intimacy) between persons of the same sex, in public or in private, punishable by two years in prison. There is also an “antibuggery” law that prohibits consensual same-sex sexual conduct between men, which is punishable by up to 10 years in prison, but it was not enforced during the year. Homophobia was widespread in the country, perpetuated by the country’s dancehall culture through the songs and the behavior of some musicians. Lesbian, gay, bisexual, and transgender (LGBT) persons faced violence, harassment, and discrimination.</p>
+<p>In July an official at J-FLAG, a prominent LGBT NGO, withdrew the petition he had filed with the Supreme Court in 2013 challenging the antibuggery law. In dropping the suit, the petitioner cited threats against himself and his family.</p>
+<p>In May the University of the West Indies fired the director of the Caribbean HIV/AIDS Regional Training Network--a leading authority on HIV/AIDS and a pioneer in infectious diseases--for testifying on behalf of a group of churches seeking to retain a law in Belize that criminalizes consensual sex between adult men. The dismissal came after a coordinated, year-long campaign by LGBT rights advocates and civil society groups, and it sparked a series of backlash demonstrations to protest what the organizers termed “the university’s cowardice for failing to uphold his right to free speech.” Local newspapers extensively covered both sides of the debate.</p>
+<p>NGOs continued to report serious human rights abuses, including assault with deadly weapons, “corrective rape” of women accused of being lesbians, arbitrary detention, mob attacks, stabbings, harassment of gay and lesbian patients by hospital and prison staff, and targeted shootings of such persons. Stigma and intimidation were likely factors in preventing victims from reporting incidents of discrimination in employment, occupation, and housing. Although individual police officers expressed sympathy for the plight of the LGBT community and worked to prevent and resolve instances of abuse, NGOs reported the police force in general did not recognize the extent and seriousness of bullying and violence directed against members of the LGBT community and failed to investigate such incidents.</p>
+<p>Prison wardens held male inmates considered gay in a separate facility for their protection. The method used for determining their sexual orientation was subjective and not regulated by the prison system, but inmates reportedly confirmed their sexual orientation for their own safety. There were reports of violence against gay inmates, perpetrated by the wardens and by other inmates, but few inmates sought recourse through the prison system.</p>
+<p>J-FLAG, in cooperation with the Ministry of Health, trained approximately 60 health-care workers to sensitize them to LGBT patients. Most health-care workers were not familiar with the specific health concerns and issues of their LGBT patients, resulting in a lack of adequate care and treatment. Although the country has universal health care, members of the LGBT community relied mainly on the Jamaica AIDS Support for Life clinic, claiming that the staff in the government’s health system did not understand their needs and was unwelcoming. Training programs such as those conducted by J-FLAG, public advocacy by various NGOs and international donors, and increased focus by the government on the public health issue of HIV/AIDS increased the number of LGBT persons accessing the regular public sector health-care facilities.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>No laws protect persons with HIV/AIDS from discrimination. Human rights NGOs reported severe stigma and discrimination against this group. The International Labor Organization (ILO) worked with the Ministry of Labor on a program to reduce the stigma of HIV/AIDS in the workplace and to assist employers in designing policies for workers with HIV/AIDS. Health-care facilities were prepared to handle patients with HIV/AIDS, but health-care workers often neglected such patients. Societal attitudes supporting laws against same-sex sexual activity prevented distribution of condoms in prisons and other gender-separating institutions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section7"> </span><span class="st_twitter" st_title="Jamaica #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Jamaica - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236700%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including related regulations and statutes, provides for the rights of workers to form or join unions and to bargain collectively, but it does not protect the right to strike. The law prohibits antiunion discrimination and provides for the Industrial Disputes Tribunal (IDT) to reinstate a worker if a dismissal is deemed unjustifiable. The law states that workers are entitled to reasonable time off to conduct union activities.</p>
+<p>Striking workers are not criminally liable, but the law does not protect them from losing their jobs for union activities. Workers in 10 categories of “essential services” must first take disputes to the Ministry of Labor before they can legally strike. The ILO repeatedly criticized the government for its broad definition of these 10 categories. The law denies collective bargaining to a bargaining unit if no single union represents at least 40 percent of the workers in the unit or when the union seeking recognition does not obtain support from 50 percent of the workers (whether or not they are affiliated with the union).</p>
+<p>Labor law entitles all persons categorized as workers to protection, including migrants and those working in special trade zones. It denies contract workers coverage under certain statutory provisions, such as redundancy benefits.</p>
+<p>Although the government, in general, effectively enforced applicable laws, the effectiveness of applicable remedies and penalties was mitigated by the ability of defendants to appeal and tie the case up in the court system for years. Under the Factory Act, fines of up to $500,000 JMD ($4,465) or six months’ imprisonment were not sufficient to deter violations due to lengthy delays in their application. The ILO reiterated its concern that the minister of labor had broad power to refer industrial disputes to arbitration, including disputes that were not in essential public services. The independent IDT hears cases when management and labor fail to reach agreement, including those involving nonunionized workers. Cases not resolved by the tribunal pass to the civil courts. While cases are, by law, to be resolved within 21 days, the tribunal decided most cases within four to five months. Some took longer to resolve due to the complexity of the dispute or delays requested by involved parties. The IDT decisions are formal and binding unless challenged specifically on a point of law, such as an error in applying the law. Parties can appeal awards to the Supreme Court, and the appeal process could postpone the enforcement of such decisions for years.</p>
+<p>Freedom of association and the right to collective bargaining generally were respected. Worker organizations operated without government or political parties’ interference. While employers generally respected the law prohibiting antiunion discrimination, some labor unions reported that private sector workers were increasingly fearful of management retaliation against unionization as the job market contracted. Both management and workers were often unaware of their rights and obligations. It was not uncommon for private sector employers to lay off union workers and rehire them as contractors. The International Trade Union Confederation noted this hampered workers’ ability to organize and bargain collectively. Although they took their disputes to the Ministry of Labor as required, nurses circumvented the ministry’s permission to strike by holding “sick outs” during the year.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. A national task force continued its interministerial and public outreach to sensitize citizens to forced labor.</p>
+<p>While the government investigated some suspected cases of forced labor, it often did not effectively enforce applicable laws. There were reports of children subjected to forced labor (see section 7.c.). In 2013 authorities arrested four persons in two separate instances of suspected forced servitude, identified the two victims, and provided them with housing while court cases were pending. Both cases were pending in the courts as of early December.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for employment is 15 years, and the law prohibits the employment of children under age 13 in any type of work. The law permits children between ages 13 and 15 to engage in “light work,” as defined by the Ministry of Labor, which will not disrupt their education or be harmful to their health. Children are not to work more than four hours in a day. The law prohibits hazardous work for all children under 18.</p>
+<p>The government did not effectively enforce its child labor laws. The Ministry of Labor’s Child Labor Unit (CLU) is responsible for monitoring and controlling child labor, although its resources and ability to enforce the law effectively were limited. The law and accompanying regulations hampered CLU’s investigatory efforts by limiting labor inspectors to the formal sector. The overwhelming majority of incidents of reported child labor occur in the informal sector. The CLU received reports from the public and assisted the Office of Health and Safety in child labor enforcement efforts. If the CLU determines that it is appropriate, it must forward reports of child labor violations to the CDA for enforcement. The CDA is responsible for carrying out investigations of abuse, but resources to investigate exploitive child labor were insufficient. Penalties for child labor in the formal sector are as high as $1.5 million JMD ($13,400) or five years of hard labor and were sufficiently stringent to deter violations. The Jamaica Constabulary Force assists at various stages of the investigatory procedure, depending upon the nature and severity of the case, especially in cases involving the worst forms of child labor, including trafficking and sexual exploitation.</p>
+<p>During the year the government collaborated with the ILO on a four-year project to increase its capacity to collect data on child labor. The government also continued the Tackle Child Labor through Education program to help build mechanisms to implement policies and enforce laws and regulations against child labor.</p>
+<p>The government did not track the number of children involved in child labor. There were no confirmed cases of child labor violations during the year, but the Office of Children’s Registry received 204 reports of possible child labor cases through August. Reports indicated that persons recruited girls in rural areas for domestic labor and then forced them into domestic servitude. In 2010 the ILO estimated that more than 26,000 children worked as vendors, agricultural and commercial laborers, domestic helpers, and prostitutes, among other forms of engagement. Children under the age of 12 peddled goods and services; begged on city streets; and worked on plantations, farms, and construction sites, as well as in gardens, shops, and markets. Reports also indicated that children worked in garbage dumps collecting scrap metal. There were reports of children in commercial sexual exploitation (see section 6, Children). A 2013 survey conducted by the Statistical Institute of Jamaica estimated more than 16,000 children were engaged in various forms of labor, but the actual number was unknown and was believed to vary dramatically, depending on location and season of the year.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Laws and regulations prohibit discrimination on the grounds of race, sex, gender, place of origin, social status, color, disability, religion, or political opinions. The law does not prohibit discrimination on the basis of sexual orientation and/or gender identity or HIV-positive status. The Disabilities Act, passed in October, addresses issues not specifically or adequately addressed by prior legislation.</p>
+<p>There were no reports of cases filed for discrimination in employment or occupation during the year; however, anecdotal evidence from NGOs indicated that certain groups, especially members of the LGBT community, experienced discrimination when seeking or maintaining employment. Individuals may file legal complaints against employers in such cases, but observers noted that fear of social stigma and lack of confidence in the inefficient legal system probably discouraged the victims from actively pursuing their complaints. Employment discrimination also occurred with respect to disability and HIV-positive status (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The minimum wage was $5,000 JMD ($45) per week for all workers. The government did not provide information on an official poverty income level. The law provides for a standard 40-hour workweek and mandates at least one day of rest per week. Work in excess of 40 hours per week or eight hours per day must be compensated at overtime rates, a provision employers generally respected. The law also provides for paid annual holidays. The law does not prohibit excessive compulsory overtime. Some employees, notably security guards, were regularly required to work 12-hour shifts without overtime compensation. The government sets occupational safety and health standards, which are current and appropriate for the main industries in the country.</p>
+<p>The Ministry of Labor is responsible for enforcing the minimum wage. The ministry’s Industrial Safety Division enforces industrial health and safety standards, mainly through factory inspections. Insufficient staffing in the Ministries of Labor, Finance, National Security, and Public Service contributed to difficulties in enforcing workplace regulations in both the formal and informal sectors.</p>
+<p>The Ministry of Labor employed 16 inspectors to monitor health and safety violations in workplaces, but the law’s limited definition of a workplace constrained the purview of the ministry’s inspectors. The law covers any premises in which 10 or more persons are engaged in manual labor, whether they belong to a union or not. The law does not specifically protect other categories of workers in those circumstances. The safety division conducted inspections, investigated accidents, warned violators, and gave them a period in which to correct the violation. If the violation was not corrected within that time, the violator was taken to court. There was no information available about the penalties for violations. The ability of defendants to appeal a case through the court system for years mitigated the effectiveness of penalties.</p>
+<p>Some minimum wage earners held two or more jobs, but most workers received more than the legal minimum. There were some reports of domestic workers receiving less than the minimum wage, and some unofficial sources estimated that up to 40 percent of Jamaicans worked in the informal sector, for which no good wage statistics existed. No information was available about workplace accidents or deaths.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

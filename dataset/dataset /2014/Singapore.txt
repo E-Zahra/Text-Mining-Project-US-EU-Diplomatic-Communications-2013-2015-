@@ -1,0 +1,584 @@
+2014
+Singapore
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474"> </span><span class="st_facebook" st_title="Singapore" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236474">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236474</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=executive"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Singapore is a parliamentary republic where the People’s Action Party (PAP), in power since 1959, overwhelmingly dominated the political scene. Observers considered the 2011 general and presidential elections as open and free, with the major opposition party winning a record six seats in parliament. The by-election held in 2013 was viewed as open and free, with the major opposition party winning the contested seat. Authorities maintained effective control over the security forces.</p>
+<p>The government has broad powers to limit citizens’ rights. The government could and did censor the media (from television shows to websites) if it determined that the content would undermine social harmony or criticized the government. The Internal Security Act (ISA) permits preventive detention without warrant, filing of charges, or normal judicial review; in recent years, the government has used it against alleged terrorists and not against persons in the political opposition.</p>
+<p>The following additional human rights problems were reported: Caning is an allowable punishment for some crimes; restrictions existed on free speech and assembly; government intimidation led to self-censorship by journalists; there were some limited restrictions of freedom of religion and some restrictions on labor rights.</p>
+<p>The government prosecuted officials who committed human rights abuses, although there were no instances of such prosecutions reported during the year. There were no reports of impunity involving the security forces.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section1"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices, and the government generally respected these prohibitions.</p>
+<p>The law mandates caning, in addition to imprisonment, as punishment for approximately 30 offenses involving violence such as certain cases of rape and robbery, and for nonviolent offenses such as vandalism, drug trafficking, and violation of immigration laws. Caning is discretionary for convictions on other charges involving the use of force, such as kidnapping or voluntarily causing grievous hurt. Caning can also be used as a punishment for misbehavior while in prison; such punishment must be approved by the prison director and reviewed by the Institutional Discipline Review Committee before being executed. Women, men over age 50 or under age 16, men sentenced to death whose sentences have not been commuted, and persons determined medically unfit are exempt from punishment by caning. From January to September, the courts sentenced 1,430 persons to judicial caning, and authorities carried out 1,230 caning sentences, including on 663 foreigners. In November, two German citizens charged with vandalism went on trial and faced three to eight strokes of the cane as well as possible prison sentences and fines if found guilty.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards.</p>
+<p><u>Physical Conditions</u>: As of December 2013, there were 13,095 prisoners and detainees in custody, of whom 1,293 were women. Female prisoners were held in a separate facility from male prisoners. There were no juvenile prisoners. The designed capacity of the prison system was 16,249. Prisoners had access to potable water and adequate food.</p>
+<p>There were no reports of deaths in custody during the year.</p>
+<p><u>Administration</u>: Nongovernmental organizations (NGOs) considered recordkeeping adequate. The law provides that some nonviolent offenders may have the option of paying a fine or probation in lieu of incarceration. The category of the inmate determined the frequency and type of visitors allowed. In general authorities allowed family members and close relatives to visit inmates. Prison authorities must approve visits of nonrelatives. Authorities allowed most inmates two visits a month and up to three visitors in a visit session. They allowed visits to detainees awaiting trial every weekday. The prison system also used televisits, utilizing 10 teleconference centers located throughout the city-state, including one specifically for televisits by children under age 16. A system exists under which prisoners may file complaints alleging mistreatment or misconduct. The Provost Unit, which is located in the prison headquarters, can be called to investigate the complaint.</p>
+<p>Volunteers from religious organizations such as the Prison Fellowship Singapore, Muslim Counselling Society, Buddhist Federation, Roman Catholic Prison Ministry, and Sikh Welfare Council provided religious services within the prison system.</p>
+<p>Authorities permitted prisoners and detainees to submit complaints to judicial authorities without censorship and to request investigation of credible allegations of inhuman conditions. The Board of Visiting Justices, consisting of justices of the peace appointed by the minister for home affairs, is responsible for the basic welfare of the prisoners and conducts prison inspections. All inmates have access to the visiting justices.</p>
+<p>Authorities investigated credible allegations of inhuman conditions and documented the results of such investigations in a publicly accessible manner. The government investigated and monitored prison and detention center conditions. The Institutional Discipline Advisory Committee and the Institutional Discipline Review Committee render an opinion to the director of prisons on whether corporal punishment was excessive.</p>
+<p><u>Independent Monitoring</u>: The government allowed the Singapore National Committee for UN Women and the Hong Kong Society of Rehabilitation and Crime Prevention to visit the prisons and gave diplomatic representatives regular, frequent consular access to citizens of their countries. Authorities also allowed members of the press to visit the prisons. Additionally, the members of the Board of Visiting Justices visited the prisons on a monthly basis.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The national police, under the direction of the Ministry of Home Affairs, maintains internal security; the armed forces, under the direction of the Ministry of Defense, are responsible for external security.</p>
+<p>Civilian authorities maintained effective control over the police force and the armed forces, and the Ministry of Home Affairs and the Corrupt Practices Investigation Bureau had effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving the security forces during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>In most instances the law requires the issuance of an authorized warrant for arrests, but some laws, such as the ISA, provide for arrest without warrant. Those arrested under a warrant must be charged before a magistrate within 48 hours. Authorities charged expeditiously and brought to trial the majority of those arrested. A functioning bail system existed. Authorities permitted individuals who faced criminal charges to have counsel, but only after investigations were complete or nearly complete. An accused individual may plead guilty or ask for a trial and seek advice of counsel before deciding what plea to enter. In criminal cases a preliminary hearing must occur no earlier than eight weeks after the initial plea. At this preliminary hearing, the judge determines whether there is sufficient evidence to proceed to trial and sets a court date suitable to the prosecution and defense. The government assigned attorneys to represent indigent persons accused of capital crimes, and the Law Society administered a legal-aid plan for some other accused persons who could not afford to hire an attorney.</p>
+<p><u>Arbitrary Arrest</u>: Some laws--the ISA and the Criminal Law (temporary provisions) Act (CLA)--have provisions for arrest and detention without a warrant; under these laws executive branch officials can order continued detention without judicial review. Authorities invoked the ISA primarily against suspected security threats. Authorities employed the CLA primarily against suspected organized crime and drug trafficking. The Misuse of Drugs Act (the drug act) and the Undesirable Publications Act (UPA) also allow 48 hours of detention without a warrant after which the person must be brought before a magistrate.</p>
+<p><u>Pretrial Detention</u>: The ISA and the CLA permit preventive detention without trial for the protection of public security, safety, or the maintenance of public order. The ISA authorizes the minister for home affairs, with the consent of the Cabinet and the president, to order detention without filing charges if the minister determines that a person poses a threat to national security. The initial detention may be for up to two years, which the minister for home affairs may renew for an unlimited number of additional periods of up to two years each with the president’s consent. The law provides detainees a right to be informed of the grounds for their detention and to counsel, but they have no right to challenge the substantive basis for their detention through the courts. The ISA specifically excludes recourse to the normal judicial system for review of a detention order made under its authority. Instead, detainees may make representations to an advisory board, headed by a Supreme Court justice, which reviews each detainee’s case periodically and must make a recommendation to the president within three months of the initial detention. The president may concur with the advisory board’s recommendation to release a detainee prior to the expiration of the detention order, but he is not obligated to do so.</p>
+<p>As of September there were outstanding orders of detention (ODs) against nine persons for their involvement in terrorism-related activities.</p>
+<p>A religious rehabilitation program designed to wean detained terrorists from extremist ideologies remained in effect, and the government released a number of detainees under the program, subject to restriction orders (ROs).</p>
+<p>As of September, 21 persons were on ROs. This number included both released detainees and suspected terrorists who were never arrested. A person subject to an RO must seek official approval for a change of address or occupation, travel overseas, or participate in any public organization or activity. There is also a category of suspension direction (SD) that prohibits association with militant or terrorist groups or individuals as well as travel outside the country without the prior written approval of the government. An SD is issued to replace an OD. As of September there were no persons subject to SDs. Authorities monitored detainees released on ROs and SDs and required that they report to authorities on a regular basis.</p>
+<p>The CLA comes up for renewal every five years; the most recent renewal was in November 2013. Under the CLA the minister for home affairs may order preventive detention, with the concurrence of the public prosecutor, for an initial period of one year, and the president may extend detention for additional periods of up to one year at a time. The minister must provide a written statement of the grounds for detention to the Criminal Law Advisory Committee (CLAC) within 28 days of the order. The CLAC then reviews the case at a private hearing. CLAC rules require that authorities notify detainees of the grounds of their detention at least 10 days prior to this hearing, during which detainees may represent themselves or be represented by a lawyer. After the hearing the committee makes a written recommendation to the president, who may cancel, confirm, or amend the detention order. Persons detained under the CLA have recourse to the courts via an application for a writ of habeas corpus. Persons detained without trial under the CLA are entitled to counsel, but they may challenge the substantive basis for their detention only to the CLAC. At the end of October 2013, there were 209 criminal law detainees, a decrease of approximately 36 percent from the 326 at the end of 2009. Of these, 209 or approximately two-thirds were detained for activities related to organized crime, a quarter for unlicensed money lending, and the rest for drug trafficking and other syndicated crimes. In October 2013 the minister for home affairs issued four detention orders and a police supervision order for involvement in global football match-fixing pursuant to the CLA. The government used the CLA almost exclusively in cases involving narcotics, loan sharks, or criminal organizations and not for political purposes.</p>
+<p>Persons who allege mistreatment while in detention may bring criminal charges against the government officials alleged to have committed the act; there were no reports of such cases during the year.</p>
+<p>Both the ISA and the CLA allow for modified forms of detention such as curfews, residence limitations, requirements to report regularly to authorities, limitations on travel, and, in the case of the ISA, restrictions on political activities and association.</p>
+<p>The drug act also permits detention without trial in an approved institution for the purpose of the treatment and rehabilitation of drug addicts. Under the act, if a suspected drug abuser tests positive for an illegal drug, the director of the Central Narcotics Bureau may commit the person to a drug rehabilitation center for a six-month period, which a review committee of the institution may extend for a maximum of three years. Under the Intoxicating Substances Act, the bureau director may order treatment for up to six months of a person determined by blood test or medical examination to be an abuser of inhalant drugs. Pursuant to these laws, authorities committed 1,364 persons to rehabilitation centers in 2013, and at the end of 2013, there were 1,617 persons in rehabilitation centers.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the government generally respected judicial independence. Nevertheless, constitutionally authorized laws limiting judicial review continued to permit restrictions on individuals’ constitutional rights. The president consults with the prime minister but has discretion in appointing the chief justice and judges to the Supreme Court. The president appoints subordinate court judges on the recommendation of the chief justice. The Legal Service Commission, chaired by the chief justice, determines the term of appointment. Under the ISA and the CLA, the president and the minister for home affairs can exercise executive discretion, which explicitly (in the case of the ISA) or implicitly (in the case of the CLA) excludes normal judicial review. These laws empower the government to limit, on vaguely defined national security grounds, the scope of certain fundamental liberties that otherwise are provided for in the constitution.</p>
+<p>Some commentators and representatives of international NGOs noted that the Legal Service Commission’s authority to rotate subordinate court judges and magistrates and the ability of both the commission and the chief justice to extend, at their discretion, the tenure of Supreme Court judges beyond the age of 65 undermine the independence of the judiciary.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides all defendants with the right to a fair trial, and independent observers viewed the judiciary as generally impartial and independent, except in a small number of cases involving direct challenges to the government or the ruling party. The judicial system generally provides citizens with an efficient judicial process.</p>
+<p>In most circumstances the criminal procedure code provides that a charge against a defendant must be read and explained to him as soon as it is composed by the prosecution or the magistrate. Trials are public and heard by a judge; there are no jury trials. Defendants have the right to be present at their trials and to have representation by an attorney; the Law Society administered a legal aid plan for persons facing criminal charges who could not afford an attorney. Under the state���������������������������administered Legal Assistance Scheme for Capital Offenses, anyone facing a capital charge is eligible for state-assigned counsel; no eligibility criterion is imposed. In November, Parliament amended the criminal procedure code to provide for an automatic appeal process for all death sentence cases. Nonviolent offenders may be offered the option of probation or paying a fine in lieu of incarceration.</p>
+<p>Defendants also have the right to question prosecution witnesses, provide witnesses and evidence on their own behalf, and review government-held evidence relevant to their cases. Defendants enjoy a presumption of innocence and the right of appeal in most cases. Defense lawyers believed they generally had sufficient time and facilities to prepare an adequate defense. Despite the general presumption of innocence, the drug act stipulates that a person who the prosecution proves possessed, had custody of, or controlled illegal narcotics shall be assumed to be aware of the substance and places the burden on the defendant to prove otherwise, although not beyond a reasonable doubt. The same law also stipulates that if the amount of the narcotic is above set limits, it is the defendant’s burden to prove he or she did not have the drug for the purpose of trafficking. Convictions for narcotics trafficking offenses carry lengthy jail sentences or the death penalty, depending on the type and amount of the illegal substance. Defendants have 14 days from the date of conviction to enter an appeal. Legislative amendments to abolish the mandatory imposition of the death penalty under certain circumstances of murder and drug trafficking took effect in 2013. Under the new legal regime, those facing the death penalty have the opportunity to ask for resentencing under certain circumstances, and judges have discretion to impose life imprisonment instead. Since the law took effect, nine convicts applied for resentencing and had their sentences reduced to life. Two drug dealers were hanged in July 2013, since they chose not to apply for resentencing.</p>
+<p>Persons detained under the ISA or CLA are not entitled to a public trial. Proceedings of the advisory board under the ISA and CLA are not public.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is no differentiation between civil and criminal judicial procedures. The subordinate courts handled the majority of civil cases. Access to the courts is open, and citizens and residents have the right to sue for infringement of human rights.</p>
+<p>In April a court ordered human rights lawyer M. Ravi to bear the public prosecutor’s costs related to his application for dismissal of charges against five men implicated in the December 2013 riot by migrant workers (see section 2.b.). Ravi had argued that by commenting publicly about the case in the midst of the trial, the Committee of Inquiry had been in contempt of court and had denied the five a fair trial. The court found Ravi’s application devoid of merit and ordered him to pay its costs of $800--the first time a court ordered a lawyer to bear such costs in a criminal case.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution does not address privacy rights; remedies for infringement of some aspects of privacy rights are available under statutory or common law. The government generally respected the privacy of homes and families. Normally police must have a warrant issued by a court to conduct a search, but they may search a person, home, or property without a warrant if they decide that such a search is necessary to preserve evidence or under the discretionary powers of the ISA, CLA, the drugs act, and the UPA.</p>
+<p>Law enforcement agencies, including the Internal Security Department and the Corrupt Practices Investigation Bureau, had extensive networks for gathering information and conducting surveillance and highly sophisticated capabilities to monitor telephone, e-mail, text messaging, or other digital communications intended to remain private. No court warrants are required for such operations. Most residents believed that authorities routinely monitored telephone conversations and the use of the internet. Most residents also believed that authorities routinely conducted surveillance of some opposition politicians and other government critics.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section2"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p><u>Freedom of Speech</u>: The constitution provides for freedom of speech and freedom of expression but imposes official restrictions on these rights, and the government significantly restricted freedom of speech and of the press involving criticism of the government and statements that the government contended would undermine social or religious harmony. Government intimidation and pressure to conform resulted in self-censorship among many journalists. Increased debate regarding many public issues took place, to a minor extent in newspapers but more often on the internet. The government-linked media extensively covered opposition parties and candidates.</p>
+<p>Citizens need a permit to speak at indoor public gatherings that are outside the hearing or view of nonparticipants if the topic refers to race or religion. In the campaign leading to the by-election in January 2013, opposition parties held rallies as often as the ruling party.</p>
+<p>The government effectively restricted the ability to speak or demonstrate freely in public to a single location called Speakers’ Corner, located in a public park adjacent to a noisy intersection. Prospective speakers must be citizens and show their identification cards. Organizers of events need not register them with the police in advance but must preregister them online with the government. While it is not necessary to declare speech topics in advance, regulations governing the Speakers’ Corner state: “The speech should not be religious in nature and should not have the potential to cause feelings of enmity, ill will, or hostility between different racial or religious groups.” Permanent residents and other foreigners may also speak or participate in or organize activities at the Speakers’ Corner but are required to obtain a police permit. Those who organize “assemblies and processions” involving foreigners are also required to obtain a permit. The media reported police questioned several foreigners after they attended a candlelight vigil at Speakers Corner supporting prodemocracy demonstrators in Hong Kong. Police made no arrests.</p>
+<p><u>Press</u><u> Freedoms</u>: Under the ISA the government may restrict or place conditions on publications that incite violence, counsel disobedience to the law, have the potential to arouse tensions in the country’s diverse population, or threaten national interests, national security, or public order. The government has not invoked the ISA against political opponents since 1998.</p>
+<p>Government leaders urged that news media support the goals of the elected leadership and help maintain social and religious harmony. In addition to enforcing strict defamation and press laws, the government’s demonstrated willingness to respond vigorously to what it considered personal attacks on officials led journalists and editors to moderate or limit what was published. In some instances the government sued journalists or online bloggers for defamation or for stories that the authorities believed undermined social and religious harmony.</p>
+<p>The government strongly influenced both the print and electronic media. Two companies, Singapore Press Holdings Limited (SPH) and MediaCorp, owned all general circulation newspapers in the four official languages--English, Chinese, Malay, and Tamil. SPH is a private holding company with close ties to the government; the government must approve (and can remove) the holders of SPH management shares, who have the power to appoint or dismiss all directors or staff. The government investment company Temasek Holdings wholly owned MediaCorp. As a result, while newspapers printed a large and diverse selection of articles from domestic and foreign sources, their editorials, coverage of domestic events, and reporting of sensitive foreign relations topics usually closely reflected official government policies and the opinions of government leaders.</p>
+<p>Columnists’ opinions and letters to the editor expressed a moderate range of opinions on public issues, some critical of government policies.</p>
+<p>Government-linked companies and organizations operated all domestic broadcast television channels and almost all radio stations. Only one radio station, the BBC World Service, was completely independent of the government. Residents could receive some Malaysian and Indonesian television and radio programming, but with few exceptions authorities prohibited satellite dishes. Cable subscribers had access to numerous foreign television shows and a wide array of international news channels and many entertainment channels. The government did not censor international news channels but did censor entertainment programs to remove or edit coarse language, representations of intimate gay and lesbian relationships, and explicit sexual content.</p>
+<p><u>Censorship or Content Restrictions</u>: The Media Development Authority (MDA), a statutory board under the Ministry of Communications and Information, continued to regulate heavily broadcast and print media and other media, including movies, video materials, computer games, and music. Banned publications consisted primarily of sexually oriented materials but also included some religious and political publications. Both the MDA and the ministry developed censorship standards with the help of a citizen advisory panel. The ISA, UPA, and Films Act allow the banning, seizure, censorship, or restriction of written, visual, or musical materials if authorities determine that such materials threaten the stability of the state, contravene moral norms, are pornographic, show excessive or gratuitous sex and violence, glamorize or promote drug use, or incite racial, religious, or linguistic animosities. The MDA has the power to sanction broadcasters for broadcasting what it believed to be inappropriate content. All content shown between 6 a.m. and 10 p.m. must be suitable for viewers of all ages.</p>
+<p>During the year the MDA banned the sale of an imported <i>Archie</i> comic book because of its depiction of same-sex marriage. On July 10, the National Library Board of Singapore (NLB) announced it would remove and destroy two children’s books that describe various family structures, including adoption by gay parents and interracial couples. The announcement and subsequent statement of support from the government sparked online and other protests and led to boycotts by writers and others of events involving the NLB. On July 18, the government announced that instead of destroying the books it would move them to an adults’ section of the library. In March the NLB banned and destroyed <i>Who</i><i>’</i><i>s In My Family: All About Our Families,</i> which highlights different types of families and includes references to gay couples.</p>
+<p>Under the Newspaper and Printing Presses Act, the government may limit the circulation of foreign publications it determines interfere with domestic politics. The act requires foreign publications with circulation of 300 or more copies per issue that report on politics and current events in Southeast Asia to register, post a bond of S$200,000 ($160,000), and name a person in the country to accept legal service. The requirements for offshore newspapers applied to nine foreign newspapers but exempted three others.</p>
+<p>The government may “gazette” (limit) the circulation of publications. The government also may ban the circulation of domestic and foreign publications under provisions of the ISA and UPA. The Broadcasting Act empowers the minister for communications and information to gazette or place formal restrictions on any foreign broadcaster deemed to be engaging in domestic politics. The government can require a gazetted broadcaster to obtain express permission from the minister to continue broadcasting in the country. The government may impose restrictions on the number of households receiving a broadcaster’s programming and may fine a broadcaster up to S$100,000 ($80,000) for failing to comply.</p>
+<p><u>Libel Laws/National Security</u>: Critics charged that government leaders used defamation lawsuits or threats of such actions to discourage public criticism and intimidate opposition politicians and the press. Conviction on criminal defamation charges may result in a prison sentence of up to two years, a fine, or both.</p>
+<p>The attorney general may bring charges for contempt of court, and he used this power during the year to charge at least one author who published criticisms of the judiciary.</p>
+<p>In May, Prime Minister Lee Hsien Loong sued blogger Roy Ngerng for defamation over Ngerng’s allegations that Lee was guilty of criminal misappropriation of citizens’ contributions to the government’s Central Provident Fund (social security system). The High Court found the blogger guilty of defamation on November 7 and ordered him to refrain from publishing or disseminating such allegations. At the end of November, the court had not yet assessed damages.</p>
+<p>In November 2013 authorities charged well-known blogger Alex Au with contempt of court for an article posted on his blog <i>Yawning Bread</i>. The Attorney-General’s Chambers (AGC) asserted the post contained allegations of wrongdoing by senior judicial officers. The AGC then filed a second complaint about another article that Au posted, although Singapore’s High Court originally rejected the complaint. During the year the High Court authorized the AGC to proceed with legal action against Au for both posts and heard the case on October 21. Both cases remained pending.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>Although residents generally had unrestricted access to the internet, the government subjected all internet content to similar rules and standards as traditional media, as defined under the MDA’s Internet Code of Practice. Individuals and groups could engage in the expression of views via the internet, including by e-mail. Internet service providers (ISPs) are required to ensure that content complies with the code. The MDA also regulates internet material by licensing the ISPs through which local users are required to route their internet connections. The law permits government monitoring of internet use, and the government closely monitored internet activities, such as social media posts, blogs, and podcasts. The MDA was empowered to direct service providers to block access to websites that, in the government’s view, undermined public security, national defense, racial and religious harmony, or public morals. Political and religious websites must register with the MDA. Although a government-appointed review panel recommended that the government cease banning 100 specific websites for being pornographic, inciting racial and religious intolerance, or promoting terrorism and extremism, the ban remained in effect. In 2013, 87 percent of households and 73 percent of individuals had internet access.</p>
+<p>A 2013 regulation requires certain internet news sites to obtain a license. This requirement applies to sites that publish on average at least one article per week over a two-month period that relates to issues in Singapore and receives at least 50,000 monthly site visits over a two-month period from the unique addresses of Singapore-based internet providers. The license requires these sites to submit a bond of S$50,000 ($40,000) and to adhere to additional requirements to remove prohibited content within 24 hours of notification from the MDA. Many citizens viewed this regulation as a way to censor online critics of the government. The MDA stated it issued the regulation to regulate commercial news sites and promote conformity with other forms of media such as print and television. The minister of communications and information stated that the intent of the new regulation was not to target individual bloggers or blogs. The government asked the <i>Mothership.sg</i> and <i>The Online Citizen</i>, both online news sites, to register and neither raised any objections. In 2013 at least one website closed rather than comply with the registration requirement.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The autonomy of all public institutions of higher education and political research was limited. Although faculty members are not technically government employees, they were subject to potential government influence. Academics spoke and published widely and also engaged in debate on social and political problems, although they were aware that public comments outside the classroom or in academic publications that ventured into prohibited areas--criticism of political leaders or sensitive social and economic policies or comments that could disturb ethnic or religious harmony or appeared to advocate partisan political views--could subject them to sanctions. Publications by local academics and members of research institutions rarely deviated substantially from government views.</p>
+<p>The law authorizes the minister of communications and information to ban any film, whether political or not, that in his opinion is “contrary to the public interest.” The law does not apply to any film sponsored by the government and allows the minister to exempt any film from the act.</p>
+<p>In September authorities banned the documentary film <i>To Singapore, With Love</i>, which it described as undermining national security. The film tells the stories of nine individuals, including student leaders, trade unionists, and communists who fled Singapore in the 1960s and 1970s because they feared detention under the Internal Security Act.</p>
+<p>Certain films barred from general release may be allowed limited showings, either censored or uncensored. Films, including banned films, were available through YouTube and other websites.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides citizens the right to peaceful assembly but permits Parliament to impose restrictions “it considers necessary or expedient” in the interest of security, public order, or morality, and the government restricted this right. Public assemblies, including political meetings and rallies, require police permission. By law a public assembly may include events staged by a single person. Citizens do not need permits for indoor speaking events, unless they touch on “sensitive topics” such as race or religion, or for qualifying events held at Speakers’ Corner. Police also have the authority to order a person to “move on” from a certain area and not return to the designated spot for 24 hours.</p>
+<p>In June, 26,000 citizens and permanent residents participated in the annual Pink Dot event at Speakers’ Corner in a show of support for the lesbian, gay, bisexual, and transgender (LGBT) community. The Red Dot family movement requested a permit to stage a rally at a nearby park the same day in protest, but authorities denied the permit, describing the venue as not suitable. Citizens held multiple small demonstrations during the year to voice dissatisfaction over retirement issues, foreign labor policies, and censorship of books depicting nontraditional families. Spontaneous public gatherings or demonstrations were virtually unknown.</p>
+<p>In December 2013 the country’s worst riot in more than 40 years took place when an estimated 300 South Asian migrant workers became enraged at the death of an Indian worker in a traffic accident. As of October, 25 individuals had been charged for their involvement in the riot, 21 of whom were convicted. They were sentenced to between 15 to 33 months, with three strokes of the cane imposed in certain cases. Eleven of them completed their sentences and were deported to India, while the remaining 10 were serving their sentences. Court proceedings continued for the other four individuals. Authorities repatriated an additional 57 individuals in accordance with the country’s immigration laws and issued warning advisories to 213 other persons present at the scene. On June 27, a committee of inquiry appointed by the deputy prime minister and minister for home affairs published its report on the riot. The report made eight recommendations largely focused on improving the ability of the police and other authorities to manage public order incidents.</p>
+<p>The government closely monitored political gatherings regardless of the number of persons present.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>Most associations, societies, clubs, religious groups, and other organizations with more than 10 members are required to register with the government under the Societies Act. The government denied registration to groups that it believed were likely to have been formed for unlawful purposes or for purposes prejudicial to public peace, welfare, or public order. The government has absolute discretion in applying criteria to register or dissolve societies. As of September the Registry of Societies received 174 registration applications, of which it approved 119 and denied two. The remainder were pending.</p>
+<p>The government prohibits organized political activities except by groups registered as political parties or political associations. The PAP was able to use nonpolitical organizations, such as residential committees and neighborhood groups, for political purposes far more extensively than opposition parties. Political associations, like media organizations, may not receive foreign donations. Due to laws regulating the formation of publicly active organizations, there were few NGOs apart from nonpolitical organizations, such as religious groups, ethnically oriented organizations, environmental groups, and providers of welfare services.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights, although it limited them in certain circumstances. The government cooperated with UNHCR and other humanitarian organizations in providing protection and assistance to asylum seekers and other persons of concern.</p>
+<p><u>In-country Movement</u>: The ISA permits authorities to restrict a person’s movement, and they have done so in the case of some former ISA detainees. According to government sources, during the year 21 suspected terrorists were subject to such restrictions.</p>
+<p><u>Foreign Travel</u>: The government may refuse to issue a passport, primarily on security grounds.</p>
+<p>Men are required to undertake 24 months of uniformed national service upon reaching age 18. They also are required to participate in reserve training up to age 40 (for enlisted men) or 50 (for officers). Male citizens and permanent residents with national service reserve obligations are required to advise the Ministry of Defense of plans to travel abroad. Men and boys 13 years of age or older who have not completed national service obligations are required to obtain exit permits for international travel if they intend to be away for three months or more. To obtain the required permit, a prospective traveler must in certain cases post a bond equal to S$75,000 ($60,000) or 50 percent of the combined gross annual income of both parents for the preceding year, whichever is greater. The bond requirement applies to male travelers who are age16 and one-half years and older for travel exceeding three months and to male travelers who are 13 to 16 and one-half years for travel lasting two or more years.</p>
+<p><u>Emigration and Repatriation</u>: The law allows for loss of citizenship by citizens who reside outside the country for more than 10 consecutive years, but it was not known to have been used.</p>
+<p>Former members of the Communist Party of Malaya (CPM) residing outside the country may not repatriate unless they renounce communism, sever all links with the CPM, and agree to be interviewed by the Internal Security Department about their past activities. Some former CPM cadres accepted these conditions and returned in the past, but observers estimated that approximately 30 alleged CPM members have not.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law does not provide for the granting of asylum or refugee status, although the government has established a system for providing protection to refugees on a case-by-case basis.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section3"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage. Voting is compulsory, and 93 percent of eligible voters voted in the most recent general election. In almost five decades of continuous rule, the PAP has employed a variety of policies that effectively limited the ability of the opposition to mount a serious challenge to its hold on power. In recent years, however, the opposition won additional seats and gained some ground.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In 2013 the ruling party lost a by-election in the Punggol East District. Worker’s Party (WP) candidate Lee Li Lian defeated the PAP candidate with 54 percent of the votes. The most recent national elections, held in 2011, were free, fair, and open to a viable opposition. The general elections operate under the first-past-the-post system. Following the 2011 elections, the PAP (having captured 60.1 percent of the vote) held 81 of 87 elected-constituency seats in Parliament. Six opposition parties combined for 39.8 percent of the vote, and one of them, the WP, won six elected seats, including its first-ever group representation constituency. A constitutional provision assures at least nine opposition members in Parliament; there were three nonconstituency members in Parliament, chosen from the highest-finishing runners-up in the election. Two were from the WP and one from the Singapore People’s Party.</p>
+<p>The law provides for the popular election of the president to a six-year term from among candidates approved by a constitutionally prescribed committee selected by the government. In 2011 Tony Tan was elected president in the first contested presidential election since 1993. In the four-way race, Tan won with 35.2 percent of the vote.</p>
+<p><u>Political Parties and Political Participation</u>: The opposition continued to criticize what it described as PAP abuse of its incumbency to restrict opposition parties. The PAP maintained its political dominance in part by circumscribing political discourse and action.</p>
+<p>The PAP has an extensive grassroots system and a carefully selected, highly disciplined membership. The establishment of government-organized and predominantly publicly funded community development councils (CDCs) further strengthened the PAP’s position. The CDCs promoted community development and cohesion and provided welfare and other assistance services.</p>
+<p>The PAP controlled key positions in and out of government, influenced the press, and benefited from weak opposition parties. The PAP’s methods were fully consistent with the law and the normal prerogatives of a parliamentary government, but the overall effect was to perpetuate PAP power. The constitutional requirement that members of parliament resign if expelled from their party helped ensure backbencher discipline.</p>
+<p>Although political parties were legally free to organize, authorities imposed strict regulations on their constitutions, fundraising, and accountability, including a ban on receiving foreign donations. There were 28 registered political parties, seven of which were active. In addition government influence extended in varying degrees to academic, community service, and other NGOs.</p>
+<p><u>Participation of Women and Minorities</u>: There is no legal bar to the participation of women in political life: Women held 23 percent of elected parliamentary seats. Four of 19 members on the Supreme Court were women.</p>
+<p>There are no restrictions in law or practice against voting or political participation by minorities; they actively participated and were well represented throughout the government, except in some sensitive national security positions. Malays made up approximately 13 percent of the general population and held approximately 13.1 percent of elected parliamentary seats. Indians made up approximately 9 percent of the general population and held approximately 8 percent of the elected seats. There were four ethnic Indian ministers and one ethnic Malay minister. Three of the 19 members of the Supreme Court were ethnic Indians; there were no Malays on the Supreme Court. None of the 24 civil service permanent secretaries were ethnically Indian or Malay.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section4"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, and the government generally implemented these laws effectively.</p>
+<p><u>Corruption</u>: The Corrupt Practices Investigation Bureau (CPIB) is an independent body responsible for the investigation and prevention of corruption in the public and private sectors. The CPIB works closely with the AGC, the courts, and other law enforcement agencies.</p>
+<p>On February 20, a court sentenced Edwin Yeo, a CPIB assistant director, to 10 years’ imprisonment for criminal breach of trust as a public servant and for forgery. He misappropriated $1.41 million to pay for his personal expenses. From February 2011 to August 2013, public officers filed 81 reports of suspected misconduct under the government’s internal disclosure policy; of these, 70 led to further investigations, one-half of which resulted in some form of disciplinary action.</p>
+<p>High-profile corruption cases led to a review of regulations governing the behavior of public officials by the Public Service Division in 2013 and the imposition of restrictions on officials visiting casinos as well as compulsory job rotation for officials holding positions prone to exploitation.</p>
+<p><u>Financial Disclosure</u>: The law requires civil servants to declare their investments, properties, and indebtedness to their respective permanent secretaries. Under the code of conduct for ministers, ministers make financial disclosures to the prime minister. The salaries of senior officials were public information, and political parties are required to report donations.</p>
+<p><u>Public Access to Information</u>: No laws specifically provide for public access to government information. In March, Low Thia Khiang, secretary general of the WP, called on the government to legislate an act to release old cabinet papers, but the government did not grant access.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section5"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic human rights groups generally operated without government restriction and these organizations investigated and published their findings on human rights cases. Government officials were somewhat cooperative and responsive to their views. NGOs were subject to registration under the Societies Act.</p>
+<p>Some international human rights NGOs criticized the government’s policies in areas such as capital punishment, migrant workers’ rights, freedom of assembly, freedom of speech, and protection of the rights of LGBT persons. The government generally ignored such criticisms or published rebuttals.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section6"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution states that all persons are equal before the law and entitled to the equal protection of the law, and the government generally respected these provisions; there is no explicit provision granting equal rights to women and minorities. Mindful of the country’s history of intercommunal tension, the government took numerous measures to provide for racial, ethnic, religious, and cultural nondiscrimination. Social, economic, and cultural benefits and facilities were available to all citizens regardless of race, religion, or gender.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The government enforced the law against rape, which provides for imprisonment of up to 20 years and the possibility of caning for offenders. Under the law only a man can commit rape. Spousal rape is generally not a crime, but husbands who force their wives to have intercourse can be prosecuted for other offenses, such as assault. Spousal rape is a criminal offense when the couple is separated, subject to an interim divorce order that has not become final, or subject to a written separation agreement, as well as when a court has issued a protection order against the husband. From January to September, 17 persons were charged with rape; five were convicted, two were acquitted, and 10 were awaiting trial. Agencies, including the Ministry of Education and the police, carried out programs to raise awareness of sexual offenses.</p>
+<p>The law criminalizes domestic violence and intentional harassment. Victims of domestic violence can obtain court orders restraining the respondent from using violence against them and barring the spouse from the home until the court is satisfied that the spouse has ceased aggressive behavior. The law prescribes mandatory caning and a minimum imprisonment of two years for conviction on any charge of “outraging modesty” that caused the victim to fear death or injury. One NGO report said that one in 10 women in the country said they had experienced some form of physical violence by a male at some point in their lives, and 70 percent of these cases were not reported to the authorities. The press gave prominent coverage to instances of abuse or violence against women. Several voluntary welfare organizations assisted abused women. As of October there were 2,495 applications for personal protection orders, 51 percent of which were filed by wives for protection against their husbands.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: A noninvasive form of female genital mutilation/cutting was practiced among a small portion of the Muslim population. Normally involving nicking the prepuce, the procedure was performed by female doctors at Muslim clinics, usually on female infants or prepubescent girls.</p>
+<p><u>Sexual Harassment</u>: The Protection from Harassment Bill, passed in March, strengthens existing laws under the Miscellaneous Offenses Act (MOA). Under the MOA a person who uses threatening, abusive, or insulting words or behavior can incur a fine of up to $4,000. The new law criminalizes harassment and cites examples that include harassment both within and outside the workplace, cyberbullying, and bullying of children. It also provides a range of self-help measures, civil remedies, and enhanced criminal sanctions to protect against harassment. Additionally it makes stalking an offense punishable with a fine of up to $4,000, imprisonment for up to 12 months, or both.</p>
+<p>A recent NGO survey indicated that lewd acts against women were increasing. According to police statistics, reports of such acts on buses and subway trains increased by 34 percent in 2012. By the end of October 2013, an NGO hotline received 47 reports of workplace sexual harassment. The Ministry of Manpower, National Trades Union Council, and Singapore Employers Federation jointly operated a venue for public feedback and advice on fair employment practices.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely and responsibly the number, spacing, and timing of their children and the information and means to do so; and the right to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. Contraceptive supplies and information provided by the Ministry of Health as well as public and private doctors were readily available. The national birthrate was well below replacement levels, and since the mid-1980s, the government has pursued policies to encourage higher birthrates, including comprehensive clinical services and a wide range of social and fiscal incentives.</p>
+<p><u>Discrimination</u>: Women enjoy the same legal rights as men, including civil liberties, employment, commercial activity, and education. In 2013 women made up 51.6 percent of university graduates and 42.5 percent of professionals, managers, executives, and technicians. No laws mandate nondiscrimination in hiring practice on the basis of gender, prohibit employers from asking questions about a prospective employee’s family status during a job interview, provide for flexible or part-time work schedules for employees with minor children, or establish public provision of childcare (see section 7.d.).</p>
+<p>For the most part, Muslim marriage falls under the Administration of the Muslim Law Act, which empowers a sharia (Islamic law) court to oversee such matters. The law allows Muslim men to practice polygyny, although the Registry of Muslim Marriages, which solicits the views of an existing wife or wives and reviews the financial capability of the husband, may refuse husbands’ requests to take additional spouses. In the first nine months of the year, there were 27 applications for polygynous marriage; the registry approved seven. Polygynous marriages constituted 0.2 percent of Muslim marriages.</p>
+<p>Both men and women have the right to initiate divorce proceedings, but women faced significant difficulties, including a lack of financial resources to obtain legal counsel, which prevented some of them from pursuing such proceedings. A 2013 law gives persons who lack financial resources to obtain legal counsel greater access to free legal advice. Men do not have the right to seek alimony from their wives in cases of divorce or separation.</p>
+<p>Women constituted approximately 45 percent of the labor force and were well represented in many professions. In June the employment rate for women between the ages of 25 and 54 was 77 percent. In the private sector, women held few leadership positions. They were overrepresented in low-wage jobs such as clerks and secretaries. The gender wage gap was 11 percent.</p>
+<p><u>Gender-based Sex Selection</u>: The country’s sex ratio at birth was reported to be 1.07 male babies to one female baby.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship derives from one’s parents, and birth registration was essentially universal.</p>
+<p><u>Child Abuse</u>: The Children and Young Persons Act criminalizes mistreatment of children, including physical, emotional, and sexual abuse. The government enforced the law against child abuse and provided support services for child-abuse victims.</p>
+<p><u>Early and Forced Marriage</u>: The law characterizes unmarried persons under age 21 as minors and persons under 14 as children. Individuals under 21 wishing to marry must obtain parental consent and a special license from the Ministry of Social and Family Development. In addition to obtaining parental consent, couples in which one person is under 18, or where both are between 18 and 21, are required to attend a marriage preparation program before they can be issued a marriage license.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: A noninvasive form of female genital mutilation/cutting was practiced among a small portion of the Muslim population. Normally involving nicking the prepuce, the procedure was performed by female doctors at Muslim clinics, usually on female infants or prepubescent girls.</p>
+<p><u>Sexual Exploitation of Children</u>: Some child sex trafficking occurred. From January to October 2013, 42 persons were prosecuted for crimes relating to commercial sexual exploitation of persons under 18; 34 persons were convicted for such crimes (some of these were charged in 2012); and court proceedings were pending against an additional 18. Of 51 men charged in a high-profile case in 2012 and 2013, 23 received nine to 12-week prison sentences. Cases against 28 others were pending. The procurer received 58 months in jail and a fine of S$90,000 ($72,000).</p>
+<p>The age of consent for noncommercial sex is 16. Sexual intercourse with a person under 16 is punishable by up to 10 years in prison, a fine, or both. Most individuals convicted of pedophilia received several weeks to several months in jail. Authorities may detain (but do not prosecute) persons under 18 whom they believe to be engaged in prostitution. They prosecute those who organize or profit from prostitution, bring women or girls to the country for prostitution, or coerce or deceive women or girls into prostitution. The law is ambiguous regarding employment of persons ages 16 to 18 in the production of pornography.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see the Department of State’s report at <a href="http://travel.state.gov/content/childabduction/english/country/singapore.html"><u>travel.state.gov/content/childabduction/english/country/singapore.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There were approximately 800 to 1,000 members of the Jewish community. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The Ministry of Social and Family Development is responsible for protecting the rights of persons with disabilities. There was no comprehensive legislation addressing equal opportunities for persons with disabilities in education or employment. The Ministry of Social and Family Development’s enabling master plan for 2012-16 outlined a five-year policy plan for the programs and services in the disability sector.</p>
+<p>During the 2011 presidential elections, voters with visual impairments could cast their vote independently through the use of stencils, and electoral law allows voters who are unable to vote in the manner described by law to receive assistance to mark and cast their ballots.</p>
+<p>The government maintained a comprehensive code on barrier-free accessibility; it established standards for facilities for persons with physical disabilities in all new buildings and mandated the progressive upgrading of older structures. The National Council of Social Services, in conjunction with various voluntary associations, provided an extensive job training and placement program for persons with disabilities. A tax deduction of up to S$100,000 ($80,000) was available to employers to defray approved expenditures incurred in modifying buildings to accommodate employees with disabilities. The government also provided a tax deduction of up to S$7,500 ($6,000) for families caring for a sibling, spouse, or child with a disability and up to S$14,000 ($11,200) for a parent or grandparent. The country allows guide dogs for the blind (but not for other service animals) into public places and on trains, but the laws do not cover buses and taxis. Public trains were 100 percent wheelchair accessible as were 68 percent of public buses.</p>
+<p>Informal provisions permitted university matriculation for those with visual or hearing impairments or other physical disabilities. Approximately 13,500 children with disabilities attended mainstream schools in 2012. There were 20 special education schools, which enrolled 5,580 students in 2013. All primary and secondary schools were equipped with basic accessibility facilities, such as accessible toilets and first-level wheelchair ramps. Approximately 30 percent of all primary and 20 percent of secondary schools were equipped with facilities to address access for persons with disabilities. The staffs of all primary schools included at least one special needs educator to support students with mild special education needs, and 69 secondary schools were resourced to support students with mild special needs. As of the end of 2013, 10 percent of teachers in all primary school and 20 percent of teachers in all secondary school were trained in special needs.</p>
+<p>The government provided funds for two distinct types of early education programs for children with disabilities. The Early Intervention Program for Infants and Children provided educational and therapy services for children up to age six with moderate to severe disabilities. As of October, 2,300 children participated. The government also sponsored a Development Support Program (DSP) to provide learning support and therapy services in mainstream schools for children up to the age of six with mild developmental needs. Approximately 1,000 children received services from the DSP in 2013.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Ethnic Malays constituted approximately 13 percent of the population. The constitution acknowledges them as the indigenous people of the country and charges the government to support and promote their political, educational, religious, economic, social, cultural, and language interests. Although the government took steps to encourage greater educational achievement among Malay students and upgrading of skills among Malay workers, ethnic Malays have not reached the educational or socioeconomic levels achieved by the ethnic Chinese majority, the ethnic Indian minority, or the Eurasian community. Malays remained underrepresented at senior corporate levels and, some asserted, in certain sectors of the government and the military. This reflected their historically lower educational and economic levels, but some argued that it also was a result of employment discrimination (see section 7.d.).</p>
+<p>The Presidential Council on Minority Rights examined all pending bills to ensure that they were not disadvantageous to a particular group. It also reported to the government on matters that affected any racial or religious community.</p>
+<p>Government policy designed to facilitate interethnic harmony and prevent the formation of racial enclaves enforced ethnic ratios, applicable for all ethnic groups, for publicly subsidized housing.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Section 377a of the penal code criminalizes and punishes male-to-male sexual relations as follows: “Any male person who, in public or private, commits, or abets the commission of, or procures or attempts to procure the commission by any male person of, any act of gross indecency with another male person, shall be punished with imprisonment for a term which may extend to two years.” The law does not criminalize female-to-female sexual relations.</p>
+<p>After the failure of a 2007 attempt to repeal this provision, Prime Minister Lee stated that authorities would not actively enforce the statute.</p>
+<p>In 2013 a justice of the High Court dismissed two constitutional challenges to Section 377a. A gay couple brought one case in 2012, and the other stemmed from the arrest of two men in 2010 for committing, “an act of gross indecency in a public space.” The court upheld Section 377a as constitutional, reasoning that because the law is not enforced, there is no need to overturn it, and also that because it was not proven that people are born homosexuals, Section 377a cannot infringe upon an individual’s “born” or constitutional rights. During the year the Court of Appeals heard the cases and also rejected the challenge, finding 377a to be consistent with article 9 that guarantees the right to life and liberty, and article 12, which guarantees the right to equal protection under the law. The court noted that “the remedy lies, if at all, in the legislative sphere.”</p>
+<p>No laws explicitly provide for the protection of the LGBT community from discrimination based on sexual orientation. Moreover, as single persons are prevented from purchasing government housing reserved for married couples until age 35, LGBT persons are subject to these restrictions.</p>
+<p>Recruitment procedures do not bar members of the LGBT community from military service but classify LGBT military personnel by sexual orientation and evaluates them on a scale of “effeminacy.” LGBT citizens may become government workers but must declare their sexual orientation on job applications. Changing of gender on official documents is allowed only through sex reassignments. Media censorship perpetuated negative stereotypes of LGBT individuals by restricting portrayals of LGBT life. The MDA continued to censor films and television shows with LGBT themes. According to the MDA website, authorities allow the broadcast of LGBT themes on television, “as long as the presentation does not justify, promote, or glamorize such a lifestyle” (see section 2.a.).</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Some individuals with HIV/AIDS claimed that they were socially marginalized and faced employment discrimination if they revealed their HIV/AIDS status. The government discouraged discrimination, supported initiatives that countered misperceptions about HIV/AIDS, and publicly praised employers that welcomed workers with HIV/AIDS.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section7"> </span><span class="st_twitter" st_title="Singapore #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Singapore - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236474%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of most workers to form and join trade unions. Workers have the legal right to strike and to bargain collectively. There is no law prohibiting antiunion discrimination, and no specific laws prohibit retaliation against strikers.</p>
+<p>By law Parliament may impose restrictions on the right of association based on security, public order, or morality grounds. The Societies Act and labor and education laws and regulations restrict the right of association by requiring any group of 10 or more persons to register with the government. The Trade Unions Act restricts the right of uniformed personnel and government employees to organize. Foreigners and those with criminal convictions generally may not hold union office or become employees of unions, but the minister of manpower may grant exemptions. The Ministry of Manpower also has broad powers to refuse to register a union or to cancel a union’s registration.</p>
+<p>The law requires more than 50 percent of affected unionized workers to vote in favor of a strike by secret ballot, as opposed to the more common practice of 51 percent of those participating in the vote. Workers in “essential services” are required to give 14 days’ notice to an employer before striking, and there is a prohibition on strikes by workers in the water, gas, and electricity sectors.</p>
+<p>The Amalgamated Union of Public Employees and 15 other public unions were exempt from these provisions, and their scope of representation expanded to cover all public sector employees except the most senior civil servants.</p>
+<p>Most labor disagreements were resolved through conciliation by the Ministry of Manpower. If conciliation failed, the disputing parties usually submitted their case to the tripartite Industrial Arbitration Court, composed of employee and management representatives and chaired by a judge. In some situations the law provides for compulsory arbitration. The court must certify collective agreements before they go into effect. The court may refuse certification at its discretion on the ground of public interest.</p>
+<p>Unions were not able to carry out their work without interference from the government or political parties. The Trade Unions Act limits the objectives for which unions can spend their funds, prohibits payments to political parties or the use of funds for political purposes, and restricts the right of trade unions to elect their officers and choose whom they may employ.</p>
+<p>Almost all unions were affiliated with the National Trade Union Congress (NTUC), an umbrella organization with a close relationship with the government and the ruling PAP. The NTUC and its affiliate unions were free to associate regionally and internationally. Lim Swee Say held the positions of both NTUC secretary general and cabinet minister. Additionally, four PAP MPs were appointed assistant secretaries general of the NTUC in 2014. NTUC policy prohibited union members who supported opposition parties from holding office in its affiliated unions.</p>
+<p>Collective bargaining was a normal part of labor-management relations in all sectors. Because almost all unions were its affiliates, the NTUC had almost exclusive authority to exercise collective bargaining power on behalf of employees. Union members may not reject collective agreements negotiated between their union representatives and an employer. Although transfers and layoffs are excluded from the scope of collective bargaining, employers consulted with unions on both problems, and the Tripartite Panel on Retrenched Workers issued guidelines calling for early notification to unions of layoffs.</p>
+<p>Labor NGOs filled an important function by providing support for migrant workers, including legal aid and medical care, especially for those in the informal sector.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits forced or compulsory labor, there were reports of practices indicative of forced labor. On November 3, Parliament passed the Prevention of Human Trafficking Bill, which strengthens victim protection and the role of law enforcement. Some observers noted that the country’s employer sponsorship system made legal migrant workers vulnerable to forced labor.</p>
+<p>The Ministry of Manpower, a participant in the Interagency Trafficking in Persons Taskforce, is responsible for combating labor trafficking and improving labor conditions for workers. It generally enforced antitrafficking legislation. The new law sets out harsh penalties (including up to nine strokes of the cane and 15 years’ imprisonment) for those found guilty of trafficking, including forced labor, or abetting such activities. The government developed a mechanism for referral of forced labor, among other trafficking-in-persons activities, in conjunction with civil society and foreign embassies. The Ministry of Home Affairs increased its efforts to train law enforcement and immigration officials.</p>
+<p>Migrant workers in low-wage and unskilled sectors such as domestic work, hospitality, and construction were vulnerable to labor exploitation, including the withholding of pay and of passports and other identity documents by employers.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits employment of children under the age of 13. A child age 13 or older may engage in light work in a nonindustrial undertaking, subject to medical clearance. Restrictions on the employment of children between the ages of 13 and 16 are rigorous. Ministry of Manpower regulations prohibit night employment of children and restrict industrial work for children between 15 and 16 to no more than seven hours a day, including the hours spent in school. Children under age 15 may not work on commercial vessels, with moving machinery, on live electrical apparatus lacking effective insulation, or in any underground job, and generally they are prohibited from employment in the industrial sector. The law does not clearly identify prohibitions for work by children between the ages of 16 and 18.</p>
+<p>Exceptions include family enterprises; a child may work in a business in which only members of his or her family are employed. Employers must notify the commissioner of labor within 30 days of hiring a child between the ages of 15 and 16 for industrial work and attach a medical certification of the child’s fitness for employment. The incidence of children in formal employment was low, and almost no abuses were reported.</p>
+<p>The Ministry of Manpower effectively enforced these laws and regulations. Government officials asserted that efforts were adequate, and child labor was not a significant issue.</p>
+<p>Some children were subject to commercial sexual exploitation (see section 6, Children).</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The constitution upholds the principle of equality in employment, but no specific antidiscrimination legislation existed. In practice employees were in a legal gray zone when facing discrimination in the workplace, and many cases were unreported. Some persons called for the government to implement antidiscrimination laws. The Tripartite Alliance for Fair and Progressive Employment Practices, which works with employer organizations, unions, and the government to create awareness and facilitate the adoption of fair employment practices, received a record number of 303 complaints in 2012, largely that employers preferred to hire foreigners.</p>
+<p>Some ethnic Malays and Indians also reported that discrimination limited their employment and promotion opportunities. According to a 2013 Institute of Policy Studies survey, a majority of the Malay and Indian population at some point had felt racially discriminated against when applying for a job or being considered for promotions. Government guidelines call for eliminating language referring to age, gender, or ethnicity in employment advertisements, although restrictive language pertinent to job requirements, such as “Chinese speaker,” remained acceptable. These guidelines were generally followed. There were also reports of discrimination based on sexual orientation/gender identity (see section 6.).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The law does not specify a minimum wage, but citizens and permanent residents generally received relatively high wages that provided a decent standard of living for a worker and family. There is no official poverty level. A 2011 report by the Lien Center for Social Innovation estimated that 10-12 percent of resident households--comprising citizens and permanent residents--earned less than S$1,250 a month ($1,000) and were “unable to meet basic needs in the form of clothing, food, shelter, and other essential expenditures.”</p>
+<p>The tripartite committee began implementation of new elements of the Progressive Wage Model, designed to raise the productivity and wages of low-wage workers. This phase of the wage model requires businesses in some sectors such as cleaning and security services to specify a minimum wage in order to obtain a business license.</p>
+<p>Employers and workers generally negotiated wages annually. The National Wages Council, composed of labor, management, and government representatives, issued yearly guidelines on raises and bonus pay that served as the starting point for bargaining agreements.</p>
+<p>The Employment Act sets the standard legal workweek at 44 hours and provides for one rest day each week. For employees covered by the Employment Act, the overtime rate is at least 1.5 times the basic hourly rate of pay. The law permits an employee to work up to a limit of 72 hours of overtime in a month. It requires employers that require their employees to work more than 72 hours of overtime a month to apply for an overtime exception from the Ministry of Manpower. The Workplace Safety and Health Act establishes a framework for workplaces to comply with occupational safety and health standards, and regular inspections enforced the standards. Officials encouraged workers to report situations that endanger health or safety to the Ministry of Manpower, but the law does not specifically protect the right of workers to remove themselves from a hazardous working environment.</p>
+<p>The Employment Act does not cover managers or executives making more than S$4,500 ($3,600) monthly, domestic workers, seafarers, or public servants (individuals employed by a Statutory Board or the government). Amendments to the act that took effect on April 1 increased the maximum salary below which the act applies for “nonworkmen” jobs to S$2,500 ($2,000) from S$2,000 ($1,600) and also extended full coverage of the act’s provisions to persons employed in managerial and executive positions earning a basic monthly salary not exceeding S$4,500 ($3,600).</p>
+<p>The law requires employers provide either one rest day each week or compensation for foreign domestic workers (FDWs). The government enforced this law, and penalties include a fine of up to S$10,000 ($8,000) or 12 months in prison. Nonetheless, a 2013 government survey indicated that after implementation, the law affected more workers than before but left more than one-half uncovered. The Ministry of Manpower interviewed more than 2,000 FDWs and found that 37 percent received a weekly rest day compared with a 2010 survey, which showed only 13 percent of FDWs received a weekly rest day. From January to October, the ministry received 112 salary claims involving FDWs.</p>
+<p>The Ministry of Manpower effectively enforced laws and regulations establishing working conditions and comprehensive occupational safety and health (OSH) laws. Approximately 270 workplace safety and health officers worked for the Ministry of Manpower during the year. Penalties for violating OSH violations ranges from S$50,000 to one million Singaporean dollars ($40,000 to $800,000.). The ministry implemented enforcement procedures and promoted educational and training programs to reduce the frequency of job-related accidents. The ministry had an enhanced factory registration scheme for approximately 8,000 higher-risk factories. The scheme strengthens the requirements for implementation of risk management and safety- and health-management systems in these higher-risk factories, which included construction worksites, shipyards, metalworking factories, and petrochemical plants.</p>
+<p>Substantial numbers of foreign workers held white-collar jobs, while foreign workers were generally concentrated in low-wage, low-skill jobs and were often required to work long hours in construction, shipbuilding, services, and domestic work. The Employment of Foreign Manpower Act is designed to protect foreign workers and allows them to file grievances through the Ministry of Manpower. In addition the Labor Relations and Workplaces Division of the Ministry of Manpower provided free advisory and mediation services to foreign workers experiencing problems with employers. The Foreign Manpower Management Division assisted FDWs and operated a hotline to receive complaints. From January to October, the hotline received 1,800 calls.</p>
+<p>The great majority of the approximately 218,300 FDWs (mainly from the Philippines and Indonesia) worked under clearly outlined contracts and reported no complaints against their employers or employment agencies. Under the penal code, any employer of an FDW or a member of the employer’s family, if convicted of certain offences against the worker such as causing hurt, or insulting the modesty of the worker, is liable to a penalty that is one and one-half times the usual penalty. There were regular reports of employers arrested for abuse or mistreatment of their FDWs. There were also reports of contract substitution, where the initial terms agreed upon were significantly changed upon the FDW’s arrival. FDWs had no recourse in this situation. Pregnancy is a breach of the standard work permit conditions for FDWs, and the government may cancel work permits and require repatriation of FDWs who become pregnant.</p>
+<p>The law caps the fees payable by FDWs to employment agencies in the country at one month’s salary per year of the employment contract. Observers believed the law effectively mitigated concerns about FDWs falling into debt bondage, although unscrupulous agencies in sending countries could still charge exorbitant fees.</p>
+<p>The NTUC reported that it advocated for the rights of all migrant work-permit holders through its Migrant Workers’ Forum. NGOs also played a role in advocating for the rights of migrant workers, including urging the government to address root causes of exploitation of migrants. One NGO highlighted the need for the government to act bilaterally to mitigate risks of exorbitant recruitment fees in countries of origin and to improve living conditions and increase the minimum wage for migrant workers. Some estimates placed migrant workers’ hourly wage at S$2 ($1.60) per hour, only 40 percent of the wage earned by low-skilled citizens and permanent residents.</p>
+<p>There were 30 deaths in the workplace between January and June, five more than in the same period of 2013. The fatality rate in the construction sector rose from 5.5 per 100,000 workers in 2011 to seven per 100,000 workers in 2013. Major and minor workplace injuries also climbed to 6,284 in the first half of the year, up from 5,522 in 2013--a 14 percent increase.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

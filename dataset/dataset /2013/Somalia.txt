@@ -1,0 +1,557 @@
+2013
+Somalia
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158"> </span><span class="st_facebook" st_title="Somalia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220158">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid;=220158</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li><a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=executive"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Somalia has a federal government. In May 2012, as part of the process of completing the 2011 Roadmap for Ending the Transition, clan elders nominated the members of the House of the People of the Federal Parliament. Federal parliament members took office in August 2012. In September 2012 parliament elected Hassan Sheikh Mohamud as president. Former Transitional Federal Government (TFG) president and 2012 presidential candidate Sheikh Sharif described the presidential vote as fair and conceded defeat. The regional governments of the self-declared Republic of Somaliland in the northwest and Puntland State in the northeast controlled their respective jurisdictions. On August 27, the federal government and Jubbaland regional leaders agreed to establish the Interim Jubba Administration. Al-Shabaab, a terrorist organization, retained control of many rural areas of the southern and central regions and regained control of Xuddur, the capital city of Bakool Region. Civilian authorities did not maintain effective control over the security forces. Security forces committed human rights abuses.</p>
+<p>Civilians continued to suffer from conflict-related abuses, including killings, displacement, and the diversion or confiscation of humanitarian assistance by armed groups, principally al-Shabaab. According to the UN, 1,106,000 internally displaced persons (IDPs) lived in the country, and approximately one million persons took refuge in other countries by the middle of the year.</p>
+<p>Severe human rights abuses included killings; restrictions on freedom of the press, including violence against and targeted killings of journalists; and violence and discrimination against women and girls, including rape and female genital mutilation/cutting (FGM/C).</p>
+<p>Other major human rights abuses included harsh and life-threatening prison conditions; arbitrary and politically motivated arrest and detention; denial of a fair trial; corruption; trafficking in persons; diversion of humanitarian assistance; forced relocation of IDPs; abuse of and discrimination against minority clans; lack of access for persons with disabilities; social stigmatization of lesbian, gay, bisexual, and transgender (LGBT) individuals; restrictions on workers’ rights; forced labor; and child labor.</p>
+<p>In general impunity remained the norm. Governmental authorities took minimal steps to prosecute and punish officials who committed abuses, particularly military and police officials accused of committing rape, killings, and extortion of civilians.</p>
+<p>Al-Shabaab continued to commit grave abuses throughout the country including extrajudicial killings, disappearances, cruel and unusual punishment, rape, restrictions on civil liberties and freedom of movement, restrictions on nongovernmental organizations (NGOs) and humanitarian assistance, and conscription and use of child soldiers.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section1"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>Government security forces and allied militias, persons wearing uniforms, Puntland and Somaliland forces, al-Shabaab, pirates, and unknown assailants committed arbitrary killings. Government and Puntland authorities executed persons without due process (see also section 1.g.). Armed clashes and attacks killed civilians (see section 1.g.). During the year journalists were killed.</p>
+<p>On March 24, the bodies of five intelligence detention center detainees were discovered in the Deynile neighborhood of Mogadishu. Although parliament formed a task force to investigate the killings, it did not produce a final report on the investigation.</p>
+<p>Military trials, which sometimes included civilian defendants, often did not afford legal representation or the opportunity to appeal to defendants (see also section 1.e.). Authorities sometimes executed those sentenced to death within hours of the court’s verdict.</p>
+<p>On May 13, Somaliland forces in Burao, Togdgheer Region, opened fire during protests against a local ban on sand harvesting, killing one unarmed civilian.</p>
+<p>On July 14, Puntland security forces killed four to seven local militia members and injured approximately 10 unarmed civilians. The individuals were protesting against the delivery of election materials to the Qardho Police Station in Bari Region.</p>
+<p>Al-Shabaab continued to kill civilians (see also section 1.g.). Such killings included al-Shabaab’s execution of persons it accused of spying for and collaborating with Somali national forces and affiliated militias.</p>
+<p>On April 8 in Bulo Bure, al-Shabaab reportedly tried and publically executed a woman that it accused of being a spy.</p>
+<p>Pirates killed hostages. On June 6 in Mudug Region, suspected pirates shot and killed Hobyo’s police chief Abdiweli Hassan Hirsi when local authorities tried to raid a pirate hideout.</p>
+<p>Unknown assailants killed numerous federal and regional government officials, and clan elders who participated in political processes. On August 21, unknown gunmen attacked and injured Swedish politician Ann-Margarethe Livh in Mogadishu after she delivered a speech at a local university. The gunmen killed two civilians accompanying her, including a Swedish-Somali youth leader.</p>
+<p>Fighting among clans and subclans, particularly over water and land resources, resulted in killings and displacements. There were also reports of revenge killings. Authorities investigated very few cases, and there were no reports of any investigations by local justice authorities. For example, on July 25, Biyamal and Ayr clan militias fought over land disputes in El-Waregow, in Lower Shabelle Region, resulting in the death of approximately 10 clansmen. There were reports in August that Ayr clan militias were taxing the Biyamal for access to water sources.</p>
+<p>Land mines throughout the country caused civilian deaths (see section 1.g.).</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no confirmed reports that authorities committed politically motivated or other disappearances.</p>
+<p>Al-Shabaab abducted persons. On April 19, al-Shabaab members abducted two officials in Burkhaba, Bay Region. They shot and killed one of the abductees, Burkhaba Deputy District Commissioner Ibrahim Shaati Laawe, and they continued to hold the other official at year’s end.</p>
+<p>In contrast to previous years, there were no confirmed cases of abduction of humanitarian and NGO workers.</p>
+<p>In July kidnappers released Doctors Without Borders workers Blanca Thiebaut and Montserrat Serra, who were kidnapped from the Dadaab Refugee camp in Kenya and taken to Somalia in 2011.</p>
+<p>Pirates continued to kidnap persons. The International Maritime Bureau noted 11 incidents of piracy in Somalia during the year, compared with 49 incidents in 2012 and 160 in 2011. According to the European Union Naval Force, pirates held one vessel and 50 hostages during the year, compared with four vessels and 108 persons in 2012.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution prohibits torture and inhuman treatment. Nevertheless, torture and other cruel, inhuman, or degrading treatment or punishment occurred.</p>
+<p>Government forces, allied militia, and men wearing uniforms continued to commit sexual and gender-based violence in IDP camps. Federal, Puntland, and Somaliland authorities beat journalists. On March 9, government soldiers beat, threatened at gunpoint, and prevented at least six journalists from entering a courthouse in Mogadishu during legal proceedings involving journalist Abdiaziz Abdinur Ibrahim “Koronto” and the alleged rape victim he interviewed (see section 2.a.).</p>
+<p>There were several cases throughout the year of al-Shabaab abusing and imposing harsh punishment on persons in areas under its control. For example, on September 11, in a town square in Buulebarde, al-Shabaab publicly executed a man accused of spying for the government and amputated the hand and leg of another accused of robbery.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions remained harsh and life threatening throughout the country, with medical care and sanitation wholly inadequate in many prisons.</p>
+<p><u>P</u><u>h</u><u>y</u><u>sic</u><u>al</u><u> Con</u><u>di</u><u>tio</u><u>ns</u>: The number of prisoners and detainees throughout the country, including juvenile and female prisoners, remained unknown. Harsh conditions in prisons and detention centers throughout the country included overcrowding, poor sanitation, and lack of health care. Inadequate food, water, ventilation, and lighting continued to be persistent problems. Tuberculosis and pneumonia were reportedly widespread. Prisoners relied on their families and clans, which often paid the costs associated with detention. In many areas prisoners depended on family members and relief agencies for food.</p>
+<p>Information on the death rates in prisons and pretrial detention centers continued to be unavailable.</p>
+<p>In prisons and detention centers, authorities frequently held juveniles with adults. They separated female prisoners from men. Authorities often did not separate pretrial detainees from convicted prisoners, particularly in the southern and central regions. The incarceration of juveniles at the request of families who wanted their children disciplined remained a problem. Some families sent juveniles from al-Shabaab-controlled areas to prison to prevent their being forcibly recruited by al-Shabaab.</p>
+<p>After a visit to Mogadishu Central Prison on March 16, then prime minister Abdi Farah Shirdon issued a press release calling the prison conditions “deplorable” and asked the international community to support long-term improvements to this facility in Mogadishu.</p>
+<p>A UN prison assessment found, as of July 2012, the Mogadishu Central Prison population included 950 individuals, of whom 14 were women and 39 were juveniles. The UN confirmed the separation of women and men, but noted separation of adults and juveniles was not consistent. The UN also concluded prisoners’ living conditions in the Mogadishu Central Prison fell short of meeting minimum international and national standards. For example, authorities held 120 inmates in cells designed for a maximum of 50 persons.</p>
+<p>In April 2012 the UN Independent Expert for Somalia visited several detention centers in Puntland and Somaliland. He found unlawful or arbitrary detentions. Authorities detained women and girls for disobeying their parents or husbands. He described detention conditions as close to inhuman, stating they were overcrowded and frequently lacked water, sanitation, and ventilation.</p>
+<p>Al-Shabaab operated dilapidated detention centers in areas under its control in the southern and central regions. No statistics were available, but observers estimated thousands were incarcerated in inhuman conditions for relatively minor “offenses” such as smoking, listening to music, watching or playing soccer, or not wearing a hijab.</p>
+<p>On September 7, a fire at an al-Shabaab-operated detention center in Bulo Marer, Lower Shabelle, killed numerous detainees.</p>
+<p><u>A</u><u>d</u><u>m</u><u>inis</u><u>tr</u><u>a</u><u>tion</u>: Prisons did not have ombudsmen and recordkeeping remained inadequate. There were limited alternatives to incarceration, although authorities sometimes released nonviolent offenders due to limited government resources to keep prisoners. Prisoners and detainees generally had access to visitors. Authorities allowed prisoners and detainees to practice their religion. The federal law does not specifically allow prisoners to submit complaints to judicial authorities without censorship. Somaliland law allows them to submit complaints to judicial authorities and specifies the complaints must go through the commandant and must be done in a manner prescribed by regulation.</p>
+<p><u>Independent Mo</u><u>ni</u><u>tori</u><u>ng</u>: Government, Puntland, and Somaliland authorities permitted prison monitoring by independent nongovernmental observers during the year. In Somaliland a prison conditions management committee organized by the UN Development Program and composed of medical doctors, government officials, and civil society representatives continued to visit prisons. Somaliland also allowed the UN Political Office for Somalia (UNPOS) and UN Assistance Mission in Somalia human rights unit to visit prisons, but Puntland denied access.</p>
+<p><u>I</u><u>m</u><u>pro</u><u>ve</u><u>me</u><u>nts</u>: The UN Office on Drugs and Crime (UNODC) conducted training for prison security and management personnel during in Somaliland and Puntland.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution prohibits illegal detention. Government security forces and allied militias, Somaliland and Puntland authorities, and al-Shabaab arbitrarily arrested and detained persons.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The provisional federal constitution states the armed forces are responsible for assuring the country’s sovereignty and independence and territorial integrity. It states the national federal and state police are responsible for protecting lives and property and peace and security. The Ministry of Defense is responsible for controlling the armed forces. Police forces fall under a mix of regional administrations and the government. The national police force remained under the jurisdiction of the Ministry of Interior, while Somaliland and Puntland both maintained police forces in their areas of control, with their respective police forces falling under their areas’ interior ministries. Civilian authorities generally did not maintain effective control of security forces, and police were generally ineffective. Many rural areas in the south-central region remained under the control of al-Shabaab and its affiliated militias. In other areas of the southern and central regions, the army and allied militias assumed local police duties.</p>
+<p>Security forces abused civilians. Authorities rarely investigated abuse by police, army, or militia members, and the culture of impunity remained a problem.</p>
+<p>The Ministry of Defense’s control over the army remained tenuous, but improved somewhat with the support of international partners. At year’s end the army consisted of approximately 20,000 soldiers. The bulk of the forces were located in Middle Shabelle and Lower Shabelle as well as Bay, Bakool, and Gedo. Ministry of Defense control was stronger over those forces located in the greater Mogadishu area, extending as far south as Merca, Lower Shabelle Region, and west to Baidoa, Bay Region, and north to Jowhar, Upper Shabelle Region. Somali National Army forces were organized into seven independent brigades. Army forces operated alongside the African Union Mission in Somalia (AMISOM) in the areas where AMISOM forces deployed.</p>
+<p>Two separate police forces operated in Mogadishu, one under the control of the central government and the other under the Benadir regional administration. At year’s end the federal police force expanded its presence from seven districts to all 16 districts of Mogadishu. Police officers in Mogadishu often owed their positions largely to clan and familial links rather than to government authorities. An AMISOM police contingent composed of 363 officers complemented Benadir and federal government policing efforts in Mogadishu. AMISOM police provided mentoring and advisory support to the Somali Police Force on basic police duties, respect for human rights, crime prevention strategies, community policing, and search procedures.</p>
+<p>Puntland’s media and other interlocutors accused Puntland President Abdurahman Mohamed “Farole” of using the Puntland’s Maritime Police Force to suppress political dissent and media freedom. It has the mandate to prevent, detect, and eradicate piracy, illegal fishing, and other illicit activity off the coast.</p>
+<p>Security forces often failed to prevent or respond to societal violence.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The provisional federal constitution provides for arrested persons to be brought before judicial authorities within 48 hours. The law required warrants based on sufficient evidence issued by authorized officials for the apprehension of suspects, prompt notification to arrestees of charges and judicial determinations, prompt access to lawyers and family members, and other legal protections. Adherence to these procedural safeguards was rare. There was no functioning bail system or equivalent. Authorities rarely provided indigents a lawyer. There were no known cases of the government's holding suspects under house arrest.</p>
+<p>Security force members and corrupt judicial officers, politicians, and clan elders used their influence to have detainees released.</p>
+<p><u>Ar</u><u>bi</u><u>trary</u><u> Arre</u><u>st</u>: Government, Somaliland, and Puntland authorities arbitrarily arrested and detained numerous persons, including persons accused of terrorism and of supporting al-Shabaab, as well as journalists. Authorities frequently used allegations of al-Shabaab affiliation to justify arbitrary arrests.</p>
+<p>On February 5, security forces in Mogadishu arrested Daud Abdi Daud, the Secretary General of the Somali Environmental Journalists Association, and detained him at a Criminal Investigation Department facility for five days without charge. According to reports authorities arrested the journalist for advocating for media freedom, specifically in relation to the case of arrested journalist Abdiaziz Abdinur Ibrahim.</p>
+<p>On April 8, authorities in Somaliland arrested journalist Yasin Jama in retaliation for his reporting on oil exploration in Somaliland.</p>
+<p>Governmental forces in Mogadishu and Puntland authorities conducted sweeps without warrants to arrest youths they perceived as suspicious. For example, on January 2, Puntland security forces reportedly arrested more than 100 youths.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution states, “the judiciary is independent of the legislative and executive branches of government.”</p>
+<p>The civilian judicial system remained largely nonfunctional in the southern and central regions. Some regions established local courts that depended on the dominant local clan and associated factions for their authority. The judiciary in most areas relied on some combination of traditional and customary law, sharia, and formal law.</p>
+<p>For safety reasons civilian judges often feared trying cases, leaving military courts to try the majority of civilian cases. Under a pilot project funded by the UN, 13 mobile courts adjudicated 3,329 cases across Somaliland, Puntland State, and Mogadishu since the program started in late 2008. These courts were in districts where judges were not physically safe.</p>
+<p>In Somaliland functional courts existed, although there was a serious shortage of trained judges and legal documentation upon which to build judicial precedent. There was reportedly widespread interference in the judicial process by officials. International NGOs reported local officials often interfered in legal matters and the public order law was often invoked to detain and incarcerate persons without trial.</p>
+<p>In Puntland there were reports the administration intervened in and influenced cases, particularly those involving journalists. Despite these courts having some functionality, they lacked the capacity to provide equal protection under the law.</p>
+<p>Traditional clan elders mediated conflicts throughout the country. Clans frequently used traditional justice, which was swiftly applied. Traditional judgments sometimes held entire clans or subclans responsible for alleged violations by individuals.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The provisional federal constitution states, “every person has the right to a fair public hearing by an independent and impartial court or tribunal, to be held within a reasonable time.” According to the provisional federal constitution, persons enjoy the right to a presumption of innocence; to be informed promptly of the reason for arrest or detention in a language which he or she understands; to be brought before a competent court within 48 hours of the arrest; to choose, and to consult with, a legal practitioner and for the state to provide a legal practitioner if he or she cannot afford one; and not to be compelled to incriminate oneself. The provisional constitution does not address trial by jury, access to government-held evidence, confronting witnesses, or whether someone can appeal a court’s ruling. Authorities did not respect most rights relating to trial procedures.</p>
+<p>Defendants in military courts rarely had legal representation or the right to appeal. Authorities sometimes executed those sentenced to death within hours of the court’s verdict. A 2011 state of emergency decree gave military courts jurisdiction over crimes, including those committed by civilians, in parts of Mogadishu from which al-Shabaab had retreated. This decree remained in effect.</p>
+<p>In Somaliland defendants generally enjoyed a presumption of innocence, the right to a public trial, and the right to be present and consult with an attorney in all stages of criminal proceedings. Defendants could question witnesses, present witnesses and evidence, and have the right to appeal. Somaliland provided free legal representation for defendants who faced serious criminal charges and could not hire a private attorney. A functioning legal aid clinic existed in Somaliland. There were alleged instances, however, of political and executive interference in the determination of high-profile political and security cases. A 2011 Somaliland Ministry of Justice and UNODC study found a first instance court sentenced 70 percent of prison inmates in the region without the opportunity to appeal their convictions.</p>
+<p>There were developments in a May 2012 case in which Somaliland forces arrested 28 civilians accused of attacking a military base in Hargeisa over a land dispute. The morning after their arrest, a military court had sentenced 17 to death, released three, postponed the trial of another three due to injuries incurred during the incident, and sentenced five to life in prison. On August 8, after they renounced all claims to the land and apologized for their actions, Somaliland President Ahmed Mohamed Mohamoud “Silanyo” pardoned them.</p>
+<p>In Puntland clan elders resolved the majority of cases using customary law.” The administration’s more formalized judicial system addressed cases of those with no clan representation. Authorities in Puntland executed persons without due process (see section 1.g.).</p>
+<p>There was no functioning formal judicial system in al-Shabaab-controlled areas. In sharia courts defendants generally were not given the right to defend themselves, produce witnesses, or be represented by an attorney.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Government, Somaliland, and Puntland authorities arrested journalists as well as other persons critical of authorities (see section 2.a.).</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There were no lawsuits seeking damages for, or cessation of, human rights violations in any region during the year. The provisional federal constitution provides for “adequate procedures for redress of violations of human rights.”</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution states “every person has the right to own, use, enjoy, sell, and transfer property,” and the home is inviolable. Nonetheless, authorities searched property without warrants.</p>
+<p>Al-Shabaab withdrew from most of Mogadishu in 2011, relinquishing homes and land it had previously confiscated from Mogadishu residents or which had been abandoned during clashes between Ethiopian forces and extremists in 2007. The return of formerly displaced persons to property previously confiscated and occupied by al-Shabaab, continued to cause some disputes over land ownership. There was no mechanism to address such disputes.</p>
+<p>The government evicted IDPs in Mogadishu from their homes without due process (see section 2.d.).</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p><u>K</u><u>illi</u><u>ngs</u>: Conflict during the year involving the government, militias, AMISOM forces, and al-Shabaab resulted in the death and injury of civilians and caused the displacement of many others.</p>
+<p>Authorities in Puntland executed al-Shabaab members without due process. On April 30, the Puntland administration executed 13 convicted al-Shabaab members and supporters, including Ahmed Said Mohamed, brother of commander Mohamed Said “Atom.” A Puntland military court sentenced them on March 21.</p>
+<p>Fighting related to the formation of the Jubba Region killed as many as 80 persons.</p>
+<p>On May 15, approximately 500 elders and representatives from the regions of Lower Jubba, Upper Jubba, and Gedo convened to elect leadership for the then unrecognized “Jubbaland State.” They selected the leader of the Ras Kamboni militia, Ahmed Mohamed Islam “Madobe,” as president. Clans opposed to him organized militias. During June and July, fighting between the Ras Kamboni’s militia and those of clans opposed to him caused civilian displacement and reportedly more than 80 civilian casualties. The fighting mostly occurred in the city of Kismayo, Lower Jubba region. On August 27, the federal government and Jubbaland delegates signed an agreement that resulted in the federal government’s formal recognition of the newly formed Interim Jubba Administration.</p>
+<p>Al-Shabaab continued to kill civilians, including politically motivated killings that targeted civilians affiliated with the government, and attacks on humanitarians, NGO employees, the UN, and diplomatic missions. They often used suicide attacks, mortar attacks, and improvised explosive devices. Al-Shabaab also killed prominent peace activists, community leaders, clan elders, and their family members for their roles in peace building, and beheaded persons it accused of spying for and collaborating with Somali national forces and affiliated militias.</p>
+<p>Al-Shabaab attacks included, but were not limited to, an April 14 attack on the Mogadishu Supreme Court complex that killed at least 34 persons and injured 58 more, a June 19 attack on the UN compound in Mogadishu that killed 22 persons, a September 7 attack on the Village Restaurant in Mogadishu that killed at least 18 civilians, and a November 8 car bomb attack at a hotel in Mogadishu that killed 10 persons. During the April 14 incident, nine al-Shabaab members attacked the Supreme Court complex. A separate car bomb struck a Turkish aid group responding to the court attack.</p>
+<p>International forces and fighting between international forces and al-Shabaab killed civilians. According to reports from local authorities, AMISOM soldiers inadvertently killed eight civilians on January 15 while repelling an al-Shabaab ambush in Leego, Lower Shabelle Region. On September 1, fighting between Ethiopian forces and al-Shabaab in Gansahdere, Bay Region, resulted in the death of approximately five civilians. The heavy fighting also allegedly injured many civilians and destroyed private property.</p>
+<p><u>A</u><u>bd</u><u>u</u><u>c</u><u>ti</u><u>ons</u>: Somali civilians and other foreign nationals were abducted, and at year’s end several of them remained captive. On May 27, al-Shabaab members crossed the border from Lower Jubba into northern Kenya, where they attacked two police bases. The militants killed four civilians and two policemen during the attack and kidnapped another two police officers who remained in al-Shabaab’s custody. On June 16, al-Shabaab tweeted pictures of the two abducted policemen.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: Reports continued that government forces and allied militias committed sexual violence, including rape, against women in and around Mogadishu IDP camps.</p>
+<p>There were several casualties involving land mines and other unexploded ordnance. Land mine incidents were prevalent in the Mudug Region. For example, on August 10, a landmine exploded in a field in Gelinsoor Village and killed three children.</p>
+<p><u>C</u><u>hild</u><u> Sol</u><u>die</u><u>rs</u>: Reports of child soldiers in the national security forces, government-allied militias, and al-Shabaab continued. There continued to be reports that the government detained children allegedly associated with al-Shabaab.</p>
+<p>To prevent recruitment and use of child soldiers the Somali National Army screened more than 1,000 new troops. In view of the absence of established birth registration systems, it was often difficult to determine the exact age of national security force recruits. The European Training Mission provided training to 262 new recruits sent to Bihanga, Uganda, where they underwent interviews and screening. The screenings in Bihanga identified no recruits as children.</p>
+<p>The national army lacked a sufficient number of military barracks to house all its soldiers. Soldiers often lived in their own homes with their families. The Mogadishu military “camps” that did exist were not clearly defined or demarcated and did not prevent family members from entering the camps. Reports continued that families, including soldiers’ children, were sometimes present in the “camps.”</p>
+<p>Implementation of the government’s action plan with the UN to end the recruitment and use of children by the national army remained limited. Two child soldier focal points worked with United Nations Children’s Fund (UNICEF) throughout the year to communicate claims of underage children present in military barracks.</p>
+<p>There continued to be reports of children in the country’s numerous clan and other militias. Ahlu Sunnah Wal Jama’a/Central (ASWJ/Central) cooperated with UNICEF and had continuing programming in Dhusmareeb that transferred suspected child soldiers to rehabilitation programs.</p>
+<p>According to Human Rights Watch, children in al-Shabaab training camps underwent grueling physical training, inadequate diet, weapons training, physical punishment, and religious training, and had to witness the punishment and execution of other children. Al-Shabaab used children in combat, including by placing them in front of other fighters to serve as human shields, and also used them as suicide bombers. Additionally, al-Shabaab used children in support roles such as carrying ammunition, water, and food; removing injured and dead militants; gathering intelligence; and serving as guards. According to the UN, al-Shabaab recruited children as young as eight years old from schools and madrassas. The organization sometimes used children to plant roadside bombs and other explosive devices. Somali press frequently carried accounts of al-Shabaab indoctrinating children at schools and forcibly recruiting students into their ranks.</p>
+<p>There were isolated reports of children used in noncombatant roles by AMISOM forces.</p>
+<p>There were isolated reports of children in Somaliland forces.</p>
+<p><u>O</u><u>ther </u><u>Co</u><u>nfl</u><u>i</u><u>c</u><u>t-r</u><u>e</u><u>l</u><u>a</u><u>t</u><u>ed</u><u> Ab</u><u>us</u><u>es</u>: Armed groups, particularly al-Shabaab, but also government forces and militia, deliberately restricted the passage of relief supplies and other items indispensable to the survival of the civilian population or humanitarian organizations, particularly in the southern and central regions. In its July report, the UN Monitoring Group on Somalia and Eritrea stated, despite improved access in certain areas of the country, access to vulnerable civilians remained a challenge for the humanitarian community, and all parties in the country continued to obstruct the provision of humanitarian assistance.</p>
+<p>Small-scale diversion of World Food Program wet food commodities, with suspected government involvement, occurred. Government, allied militia, and Kenyan Defense Forces reportedly looted and collaborated in the diversion of humanitarian aid. Government-allied militia and police fought among themselves over the sharing of looted aid.</p>
+<p>On August 10, Puntland authorities prevented a ship carrying food items provided by the Turkish Red Crescent from docking in the port of Bosasso, in Bari Region, and ordered the ship to return to Mogadishu. Authorities allegedly did this with the consent of President Abdurahman Mohamed “Farole.” Earlier that month Puntland authorities announced a suspension of cooperation with the federal government.</p>
+<p>There were multiple reports that humanitarian access to the contested territories of Sool and Sanaag, between Somaliland and Puntland, was restricted. NGOs reported incidents of harassment from local authorities in both Somaliland and Puntland.</p>
+<p>In prior years most international aid organizations evacuated their staff or halted food distribution and other aid-related activities in al-Shabaab-controlled areas due to killings, extortion, threats, harassment, expulsions, and prohibition by al-Shabaab. International aid agencies increasingly relied on Somali staff and local organizations to deliver relief assistance in these areas.</p>
+<p>On August 14, Doctors Without Borders announced the closure of all its programs in the country. The organization stated its departure resulted from insecurity and cited the death of 16 members of its staff since 1991 and dozens of attacks against its staff, ambulances, and medical facilities. In January an appellate court ordered the release of Ahmed Salad Farey from jail less than a year after he was convicted for the killings of two employees of Doctors Without Borders. The Supreme Court ordered his re-arrest, but this did not occur by year’s end.</p>
+<p>As a result of al-Shabaab’s humanitarian access restrictions, taxation on livestock, failed water redistribution schemes, and insecurity, many residents in al-Shabaab-controlled areas fled their homes for refugee camps in Kenya and Ethiopia and IDP camps in other areas of the country. Al-Shabaab attempted to restrict these movements.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section2"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution provides for freedom of speech and of the press. Journalists were subjected to violence, harassment, arrest, and detention in all regions. Reports regarding the number of journalists killed during the year varied, with the Committee to Protect Journalists reporting four such killings, the National Union of Somali Journalists reporting seven, and Article 19 reporting 10. According to the Somaliland Journalists Association, authorities arrested more than 20 journalists in Somaliland.</p>
+<p><u>Freed</u><u>om</u><u> </u><u>of S</u><u>pee</u><u>c</u><u>h</u>: Individuals in government-controlled areas were generally not restricted from criticizing the government. In Somaliland and Puntland, persons often lacked the ability to criticize their governments without reprisal, particularly when criticizing officials’ alleged corruption or if the criticism involved perceived security interests.</p>
+<p>Somaliland and Puntland State authorities impeded criticism against the government or its officials. For example, on November 6, Somaliland Minister of Interior Ali Mohamed Waranadde prohibited opposition parties from conducting a national dialogue conference, calling it illegal without presidential involvement.</p>
+<p><u>Pre</u><u>ss Freedoms</u>: Print media consisted largely of short, photocopied independent dailies, many government-owned, published in the larger cities. Several of these publications included criticism of political leaders and other prominent persons.</p>
+<p>Most citizens obtained news from foreign radio broadcasts, primarily the BBC Somali Service and the Voice of America Somali Service. Several FM radio stations operated throughout the southern and central regions, as well as one shortwave station in Mogadishu. As in previous years, Somaliland authorities continued to prohibit the establishment of independent FM stations. The only FM station in Somaliland was government-owned. There were at least six independent radio stations in Puntland.</p>
+<p>The government, Puntland, and Somaliland authorities closed media outlets. On October 26, the federal Interior Minister Abdikarim Hussein Gulled ordered security forces to close two media outlets belonging to the Shabelle Media Network. Government forces evicted staff and journalists from the government-owned building and arrested several journalists in the process. Radio Shabelle alleged the government closed the station in reaction to corruption allegations against the government, while the government claimed the journalists had ignored an eviction order.</p>
+<p>On April 3, Puntland authorities ordered the closure of Radio Daljir, Radio One Nation, and Radio Voice of Peace. Authorities alleged the radio stations broadcast reports that violated Puntland’s internal security protocols.</p>
+<p>On July 22, Somaliland authorities banned the operations of Kalsan TV. Authorities reportedly implemented the ban after the station failed to follow an order to stop broadcasting a political debate.</p>
+<p><u>V</u><u>io</u><u>lence </u><u>a</u><u>nd</u><u> Har</u><u>ass</u><u>me</u><u>nt</u>: The government, government-aligned militia, authorities in Somaliland and Puntland, al-Shabaab, and unknown assailants abused, harassed, and killed journalists.</p>
+<p>On January 10, police arrested a Mogadishu-based journalist, Abdiaziz Abdinur Ibrahim “Koronto,” for interviewing a woman who alleged security forces had raped her. A court convicted Abdiaziz and the victim and sentenced both to one year in prison on charges of insulting state institutions. The court deferred the rape victim’s sentence because she was breastfeeding her baby. Both appealed the judgment, and authorities released Abdiaziz on March 17.</p>
+<p>On April 13, Somaliland police assaulted and arrested journalists Mukhtar Mursal Mohamoud, Abdirashid Ismail Abdi, and Mohamoud Daud Yousuf, allegedly on the orders of the Minister of Water and Resources Hussain Ali Dualeh, after the journalists reported on oil exploration issues in Somaliland.</p>
+<p>Puntland authorities briefly arrested journalists Jamal Osman and Ahmed Farah in late October in Garowe, while they reportedly worked on a story related to piracy.</p>
+<p>Journalists working in regions within the Interim Jubba Administration were also targeted. For example, on August 4, unknown gunmen in Kismayo, Lower Jubba Region, opened fire at the home of Horn Cable Television Somali journalist Abdikhadar Iman Dakane. He was not injured.</p>
+<p>Al-Shabaab and unknown assailants killed journalists and continued to harass them. Journalists reported al-Shabaab threatened to kill them if they did not report positively on antigovernment attacks. On August 2, unknown assailants reportedly followed Radio Galkayo director Awil Mohamud Abdi home from work and shot at him through his bedroom window. He survived the attack.</p>
+<p>There were developments in the 2012 killing of radio reporter Hassan Yusuf Absuge. A military tribunal convicted Aden Sheikh Abdi of killing him. Authorities executed him on August 17. According to the Committee to Protect Journalists, some local reporters expressed concern regarding whether authorities provided him with due process.</p>
+<p><u>Cen</u><u>so</u><u>rs</u><u>hip</u><u> or Con</u><u>tent</u><u> Res</u><u>t</u><u>r</u><u>i</u><u>c</u><u>ti</u><u>ons</u>: Journalists engaged in rigorous self-censorship to avoid reprisals.</p>
+<p>Al-Shabaab banned journalists from reporting news that undermined Islamic law as interpreted by al-Shabaab and also forbade persons in areas under its control from listening to international media outlets.</p>
+<p><u>L</u><u>ib</u><u>el</u><u> Law</u><u>s/N</u><u>at</u><u>io</u><u>n</u><u>al</u><u> Sec</u><u>u</u><u>ri</u><u>t</u><u>y</u>: Both the Somaliland and Puntland administrations cited national security concerns to justify their suppression of criticism. Puntland’s president continued to threaten journalists with arrest if they broadcast reports the administration considered harmful to Puntland’s security. Authorities also prosecuted journalists for libel, while Somaliland senior officials and ministers continued to use their positions to harass journalists who reported on official corruption.</p>
+<p>On November 25, authorities arrested Radio Shabelle journalist Mohamed Bashir Hashi and another journalist who alleged two journalists of a government-run radio station had raped her. Mohamed Bashir Hashi had interviewed the alleged victim in an online video. One of the alleged assailants filed a defamation suit in response. On December 9, a court in Mogadishu convicted the alleged rape victim, journalist Mohamed Bashir Hashi, and Radio Shabelle Director Abdiimalik Yusuf. The court sentenced the alleged victim to a six-month suspended prison sentence, Mohamed Bashir Hashi either to serve six months in prison or pay a fine, and Abdiimalik Yusuf to either serve one year in prison or pay a fine. Mohamed Bashir Hashi and Abdiimalik Yusuf both paid the fines in lieu of time in prison.</p>
+<p>On June 11, a Somaliland court in Hargeisa ordered the Hubaal Media Group to close the operations of all its outlets without providing justification. In the first week of July, a court ordered the group’s <i>Hubaal</i> newspaper to remain closed and sentenced two of its journalists and the manager to serve two- and one-year sentences, respectively, on charges of reporting false news and libeling senior Somaliland officials. Authorities released them on bail pending an appeal. An August 18 order granted them clemency and lifted the ban on the newspaper.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>Authorities did not restrict access to the internet, and there were no reports that the government monitored e‑mail or internet chat rooms without appropriate legal authority.</p>
+<p>According to the International Telecommunication Union, 1.38 percent of the persons in the country used the internet in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>Academics practiced self-censorship. The Puntland administration required individuals obtain government permits to conduct academic research.</p>
+<p>With the exception of al-Shabaab-controlled areas, there were no official restrictions on attending cultural events, playing music, or going to the cinema. The security situation effectively restricted access to and organization of cultural events in the southern and central regions. In al-Shabaab-controlled areas, activities such as football and singing were banned.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The federal provisional constitution provides for freedom of assembly. General insecurity effectively limited this right in many areas. Somaliland and Puntland authorities killed protesters.</p>
+<p>On May 13, Somaliland security officers killed one civilian participating in a protest against a ban on sand harvesting (see section 1.a.).</p>
+<p>Puntland security forces killed nine persons protesting against the delivery of election ballot boxes on July 15.</p>
+<p>The federal minister of interior continued to require his approval for all public gatherings, citing security concerns such as the risk of attack by al-Shabaab suicide bombers. This was viewed by many as a means to prevent political dissent directed against Somali authorities.</p>
+<p>Al-Shabaab did not allow any gatherings without prior consent.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The provisional federal constitution protects freedom of association. There were no reports that governmental authorities restricted this freedom. There were reports that Somaliland and Puntland authorities restricted this right.</p>
+<p>Persons in the southern and central regions outside of al-Shabaab areas could freely join civil society organizations focusing on a wide range of problems. Citizens generally respected civil society organizations for their ability to deliver social services in the absence of functioning government ministries.</p>
+<p>Somaliland authorities prevented civil society from participating in meetings related to the federal process, which it perceived as undermining Somaliland independence claims.</p>
+<p>Some Puntland civil society members alleged oversight of and interference in their activities occurred during the year.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>In</i><i>tern</i><i>ati</i><i>onal</i><i> Rel</i><i>ig</i><i>ious</i><i> F</i><i>re</i><i>ed</i><i>om Re</i><i>po</i><i>rt</i> at<u> </u><a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution states every person lawfully residing within the country has the right to freedom of movement, freedom to choose their residence, and freedom to leave the country. The freedom of movement was restricted in some parts of the country.</p>
+<p>The government and Somaliland authorities cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and the International Organization for Migration on assistance to IDPs, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>I</u><u>n-</u><u>c</u><u>oun</u><u>try</u><u> M</u><u>ove</u><u>me</u><u>nt</u>: Checkpoints operated by government forces, allied groups, armed militias, clan factions, and al-Shabaab inhibited movement and exposed citizens to looting, extortion, harassment, and violence.</p>
+<p>On June 14, in Muuri Village, Lower Shabelle Region, fighting occurred at a checkpoint operated by the Somali National Army after soldiers reportedly tried to extort village residents. The fighting killed two persons and injured several others.</p>
+<p>Somaliland prohibited federal officials, including those of Somaliland origin, from entering Somaliland. It also prevented traditional elders in Somaliland from traveling to Mogadishu to participate in federal government processes.</p>
+<p><u>F</u><u>or</u><u>e</u><u>ign</u><u> Tr</u><u>a</u><u>vel</u>: Few citizens had the means to obtain passports. In view of widespread passport fraud, many foreign governments did not recognize Somali passports as valid travel documents.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>Conflict and drought resulted in continued displacement and new displacements. There were more than 1.1 million IDPs across the country, mainly in the south-central region.</p>
+<p>The UNHCR continued to assist IDP returns from Mogadishu. The UN and government collaborated to address returns, evictions, and related humanitarian problems in Mogadishu. Authorities in the government, Somaliland, and Puntland administrations provided some protection and assistance to IDPs, although the response in government areas was largely ineffective because of limited resources, capacity, and poor coordination. Reports indicated government authorities also forcefully evicted IDPs in Mogadishu.</p>
+<p>Somali authorities declared their intention to ease overcrowding in Mogadishu by relocating some 270,000 displaced persons from shelters to camps on the outskirts of the city. Some IDPs and humanitarian agencies opposed the plan because of security concerns and lack of public services outside Mogadishu.</p>
+<p>Amnesty International reported that authorities forcibly evicted IDPs in Mogadishu without prior consultation or establishing safe relocation sites with basic services. In June bulldozers destroyed a shelter reportedly causing the death of a child. On August 14, security forces reportedly opened fire after IDPs protesting their relocation threw rocks. Stray bullets killed a woman and a child.</p>
+<p>Government forces and aligned militia looted and collaborated in the diversion of humanitarian aid from intended beneficiaries in Mogadishu. Most international aid organizations evacuated their staff or halted food distribution and other aid-related activities in al-Shabaab-controlled areas due to continued killings, extortion, threats, and harassment.</p>
+<p>Gender-based violence, including sexual assault and gang rape of female IDPs, remained a problem. Many of the victims were children. Perpetrators included security forces, and attackers were usually armed. Women and children living in IDP settlements in Bosaaso and Galkayo, Puntland State, Hargeisa, Somaliland, and along the Afgoye corridor reported a large number of alleged rapes to UN implementing partners. Government forces and allied militias committed sexual violence, including rape, against women in and around Mogadishu IDP camps.</p>
+<p>Gatekeepers in control of some IDP camps reportedly forced girls and women to provide sex acts in exchange for food and services available within the camps.</p>
+<p>According to an August 15 report by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), “some 800 cases of sexual and gender-based violence were reported in Mogadishu” from January to June. While discussing the report, OCHA spokesman Jens Laerke stated, “rape continues to be perpetrated by unknown armed men and men wearing military uniforms.”</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>The UNHCR reported 2,339 refugees and 10,093 registered asylum seekers resided in the country. Most of them came from the Oromiya and Ogaden regions of Ethiopia between 1996 and 2000 and lived in Somaliland and Puntland.</p>
+<p><u>Access</u><u> to</u><u> A</u><u>s</u><u>y</u><u>lu</u><u>m</u>: The provisional federal constitution states every person who has sought refuge in the country has the right not to be returned or taken to any country in which that person has a well-founded fear of persecution. There was no official system for providing such protection.</p>
+<p>Somaliland ended all registration of asylum seekers in 2008. An unknown number of Ethiopians and others reportedly wanted to claim asylum in Somaliland during the year.</p>
+<p><u>Refo</u><u>ule</u><u>me</u><u>n</u><u>t</u>: In contrast to previous years, there were no reports that Somaliland forcibly returned refugees and asylum seekers to Ethiopia.</p>
+<p><u>Refugee Abuse</u>: Refugees lacked sufficient access to protection through law enforcement and justice system.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section3"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>In 2012 the TFG completed the 2011 Roadmap for Ending the Transition, collaborating with representatives of Puntland, Galmuduug, ASWJ, and the international community. The process included drafting a provisional federal constitution, forming an 825-member National Constituent Assembly (NCA) that ratified the provisional constitution, selecting a 275-member federal parliament, and holding speakership and presidential elections.</p>
+<p>On June 16, parliament’s Constitutional Oversight Committee began the process of reviewing the provisional constitution.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent</u><u> E</u><u>l</u><u>ect</u><u>ions</u>: In May 2012 under the roadmap process, 135 traditional clan elders convened in Mogadishu to nominate 825 NCA delegates to consider the provisional federal constitution. The elders also nominated parliamentarians for the country’s 275-member federal parliament to serve four-year terms under the provisional constitution. There were accusations of bribery and intimidation involved in the selection of the 135 traditional elders and in their nomination of parliamentarians, but overall roadmap signatories and others viewed parliamentarians as broadly representative of their communities.</p>
+<p>A 27-member Technical Selection Committee (TSC), assisted by international observers from the African Union, the League of Arab States, the European Union, the Intergovernmental Authority on Development, the Organization of Islamic Cooperation, and UNPOS vetted and approved the NCA delegates and federal parliament nominees submitted by the traditional elders. In some cases TSC members and their families received threats and intimidation during the process. In August 2012 the NCA ratified the provisional federal constitution. The inauguration of the federal parliament occurred the same month. Parliament subsequently elected Mohamed Sheikh Osman “Jawari” as its speaker.</p>
+<p>In September 2012 in the presence of international observers, parliament held an indirect presidential election through a secret ballot in which Hassan Sheikh Mohamud defeated incumbent TFG president Sheikh Sharif in the second and final round of voting. There were unsubstantiated reports of presidential candidates bribing parliamentarians in exchange for their vote. Sheikh Sharif conceded defeat and described the vote as fair.</p>
+<p>On December 2, parliament passed a no-confidence measure against Prime Minister Abdi Farah Shirdon. On December 21, parliament approved Abdiweli Sheikh Ahmed as the new prime minister.</p>
+<p>Somaliland laws prevented citizens in its region from participating in the federal government-related processes.</p>
+<p>On May 15, approximately 500 elders and representatives from the regions of Lower Jubba, Upper Jubba, and Gedo convened to elect leadership for the then unrecognized “Jubbaland State.” They selected the leader of the Ras Kamboni militia, Ahmed Mohamed Islam “Madobe,” as president. Clans opposed to him organized militias. Violent clashes ensued, causing civilian displacement and reportedly more than 80 civilian casualties. On August 27, the federal government and Jubbaland delegates signed an agreement that resulted in the federal government’s formal recognition of the newly formed Interim Jubba Administration.</p>
+<p>In Somaliland parliamentary elections were last held in 2005 and were three years overdue as of September. Somaliland has a bicameral parliament consisting of an appointed 82-member House of Elders, known as the Guurti, and an elected 82-member house of representatives with proportional clan representation. In April the House of Elders voted to postpone the already delayed election for the house of representatives from May 20, 2014, until July 2015 and its own election until 2016.</p>
+<p>In 2012 Somaliland’s Committee for the Registration of Political Associations and the Approval of National Parties registered nine political associations that could compete to for the three political party slots. The three official political parties were Kulmiye, Waddani, and Ucid. Some persons in Somaliland blamed parliamentarians for the delayed elections, accusing them of deliberately failing to pass electoral legislation in the interest of self-preservation. Parliament, however, cited registration fraud, insecurity, and technical problems as the main constraints to holding timely elections. Somaliland President Ahmed Mohamed Mohamud “Silanyo” was elected in 2010. International and domestic observers declared the election as free and fair.</p>
+<p>Puntland has a single-chamber, 66-member house of representatives. A Council of Elders selected its membership in 2008. In 2009 the council selected Abdirahman Mohamed Mohamud “Farole” as Puntland’s president. In 2012 Puntland’s constituent assembly overwhelmingly adopted a state constitution that enshrines a multiparty political system. The constitution’s adoption also extended the four-year term under which “Farole” was selected by one year to January 2014 since the constitution called for a five-year presidential-term moving forward.</p>
+<p>Puntland President “Farole” canceled local council elections scheduled for July 15 following violence the previous day between government forces and local clan militias in Qardo, Bari Region. Security forces killed between four and seven militia members and injured approximately 10 unarmed civilians.</p>
+<p>Al-Shabaab prohibited citizens in areas it controlled from changing their al-Shabaab administrators. Some al-Shabaab administrations, however, consulted local traditional elders on specific issues and allowed preexisting district committees to remain in place.</p>
+<p><u>P</u><u>oli</u><u>ti</u><u>cal</u><u> Pa</u><u>rt</u><u>ies</u>: There were no official political parties in the southern and central regions, and there was no official mechanism to register parties. Several political associations, however, described themselves as parties. For example, President Hassan Sheikh claimed to be elected from the Peace and Development Party. The provisional constitution provides that every citizen has the right to take part in public affairs, and this right includes forming political parties, participating in their activities, and being elected for any position within a political party. According to the provisional constitution, the federal parliament has responsibility for forming the National Independent Electoral Commission. The commission, in turn, is responsible for regulating the political party system within the first 60 days of the opening of parliament. This commission was not established by year’s end. The Somaliland and Puntland constitutions and electoral legislation limit the number of political parties to three and establish conditions pertaining to their political programs, finances, and constitutions.</p>
+<p><u>Part</u><u>ici</u><u>p</u><u>a</u><u>tion</u><u> of</u><u> </u><u>W</u><u>o</u><u>men</u><u> </u><u>a</u><u>nd </u><u>Mi</u><u>no</u><u>ri</u><u>ti</u><u>es</u>: The roadmap signatories agreed prior to the transition to a permanent government that the federal parliament should consist of at least 30 percent women, but women held 14 percent of seats. The government’s 10-member cabinet had two female members, including the country’s first female deputy prime minister/foreign affairs minister.</p>
+<p>Civil society, minority clans, and Puntland State called for the abolition of the “4.5 formula” by which political representation was divided among the four major clans with the minority clans combined as the remaining “0.5.” This system allocated minority clans a fixed and low number of slots in the federal parliament. The roadmap signatories agreed to this system prior to the transition to a permanent government. Per the agreement the system is not to carry over into the 2016 parliamentary elections.</p>
+<p>Prime Minister Abdi Farah Shirdon and President Hassan Sheikh Mohamud broke with this 4.5 formula in their 2012 appointment of two minorities to the 10-member cabinet, for a total of 20 percent minority representation. Minorities were given the same number of ministerial positions as the four major clans.</p>
+<p>Somaliland had two women in its 86-member house of representatives. The sole woman occupying a seat in the House of Elders gained appointment after her husband, who occupied the seat, resigned during 2012. Women traditionally were excluded from the House of Elders. There was one female Somaliland minister among 24 positions. The Somaliland cabinet included no minorities.</p>
+<p>A woman chaired the Somaliland Human Rights Commission, while a minority youth served as the deputy chair. The Somaliland president kept a presidential advisor on minority problems.</p>
+<p>Women have never served on the Council of Elders in Puntland. Traditional clan elders, all men, selected members of Puntland’s house of representatives. Three women served in the 66-member house of representatives. The 18-person cabinet included one woman and did not include members of minority groups. The nine-member electoral commission included one woman.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section4"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Government officials frequently engaged in corrupt practices with impunity. The law provides for criminal penalties for corruption by officials. The government did not implement the law effectively, and officials frequently engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: The provisional constitution called for an independent anticorruption commission to be formed in 2012 with a mandate to investigate allegations of corruption in the public sector. The commission was not established by year’s end.</p>
+<p>The UN Monitoring Group on Somalia and Eritrea continued to report on corruption. According to its July report, approximately 80 percent of central bank withdrawals were “for private purposes and not for the running of government, representing a patronage system and a set of social relations that defy the institutionalization of the state.” The report stated then Central Bank Governor Abdusalam Omer was “key to irregularities.” It also stated “of $16.9 million transferred by PricewaterhouseCoopers to the Central Bank, $12 million could not be traced.” (PricewaterhouseCoopers acted as a fiduciary agent for the government.) The monitoring group also highlighted corruption in passport production, particularly the e‑passport system under the control of Ambassador Abdulkadir Sheikhey Al-Hatimi. It also highlighted corruption regarding customs and port fee revenues from the Mogadishu port.</p>
+<p>In September in response to the report, while denying the report’s accuracy, the government replaced Central Bank Governor Abdusalam Omer after seven months in the job. Yussur Abrar, a former Citigroup vice president, was appointed to the position. On October 30, after seven weeks in office and 10 days on the ground in Mogadishu, Abrar resigned. She had allegedly faced pressure to open private bank accounts and facilitate illegal transfers for the benefit of federal government officials. Abrar also alleged multiple parties in the country threatened her.</p>
+<p>The federal Ministry of Finance and Planning authored a Public Financial Management Self-Assessment and Reform Plan, which highlighted significant deficiencies in preventing corruption. In particular, the reform plan recommended the establishment of an anticorruption commission and the removal of the auditor and accountant generals from the president’s line of command. The accountant general, with the help of Ernst &amp; Young, conducted the first government-wide audit in more than 20 years. The audit, which covered both federal government and TFG funds for the year, revealed that in 2012, 65 percent funds were spent on catering and travel.</p>
+<p>Somaliland had a national auditor and a governance and anticorruption commission appointed by Somaliland’s president.</p>
+<p>Puntland did not have an anticorruption commission or equivalent, and authorities did not try any Puntland officials for corruption.</p>
+<p>Al-Shabaab extorted high and unpredictable “zakat” (a Muslim obligation to donate to charity during Ramadan) and “sadaqa” taxes (a voluntary charity paid by Muslims) in the regions it controlled. It also diverted and stole humanitarian food aid.</p>
+<p><u>Whistleblower Protection</u>: The law does not protect whistleblowers.</p>
+<p><u>Financial Disclosure</u>: The law does not require income and asset disclosure by appointed and/or elected officials.</p>
+<p><u>Public Access to Information</u>: The provisional constitution states citizens have the right of access to information held by the state. It also states parliament shall enact a law to provide for this right, but parliament did not approve such a law by year’s end.</p>
+<p><u>Illicit Trade in Natural Resources</u>: According to the UN monitoring group, Kenyan forces and Sheikh Ahmed Madobe and his Ras Kamboni forces began exporting charcoal from Kismayo in violation of the UN Security Council’s ban by 2012. Al-Shabaab continued to benefit from the trade of charcoal. The monitoring group reported charcoal exports from the country increased by 140 percent since 2011.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section5"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of local and international human rights groups operated in areas outside al-Shabaab-controlled territory, investigating and publishing their findings on human rights cases. Security considerations constrained their ability to operate freely in the southern and central regions. International and local NGOs generally worked without major restrictions in Puntland and Somaliland, although exceptions occurred.</p>
+<p>Attacks and incidents of harassment of humanitarian, religious, civil society, and NGO workers resulted in an unknown number of deaths. Several human rights defenders fled the country.</p>
+<p>The government was sometimes cooperative and responsive to NGOs. In matters related to official corruption, however, the government frequently dismissed the findings of international and local NGOs as well as the World Bank and internal auditors.</p>
+<p><u>G</u><u>ove</u><u>r</u><u>n</u><u>me</u><u>nt H</u><u>u</u><u>man</u><u> R</u><u>igh</u><u>ts </u><u>Bo</u><u>di</u><u>es</u>: The provisional federal constitution called for an independent national human rights commission and a truth and reconciliation commission to be formed within 45 days and 30 days, respectively, of the formation of the Council of Ministers in 2012. These commissions were not formed by year’s end.</p>
+<p>Limited resources as well as inexperienced commissioners affected the Somaliland Human Rights Commission. The nominee for Puntland’s position of human rights defender withdrew, and the position remained vacant.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section6"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The provisional federal constitution states all citizens, regardless of sex, religion, social or economic status, political opinion, clan, disability, occupation, birth, or dialect shall have equal rights and duties before the law. The provisional constitution does not prohibit discrimination based on sexual orientation or gender identity. Authorities did not enforce antidiscrimination provisions effectively in any of the regions.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Ra</u><u>pe</u><u> and</u><u> D</u><u>o</u><u>me</u><u>stic</u><u> V</u><u>io</u><u>lenc</u><u>e</u>: The law criminalizes rape, providing for penalties of five to 15 years in prison. Sentences from military courts for rape included death. The government did not effectively enforce the law. There were no laws against spousal rape. The UNHCR and UNICEF documented patterns of rape perpetrated with impunity, particularly of displaced women (see section 2.d.) and members of minority clans.</p>
+<p>Government forces, militia members, and men wearing uniforms raped women. From January to June, victims reported more than 800 rape cases in Mogadishu, many committed by men wearing uniforms, according to service and care providers. While the army arrested some security force members accused of raping women and girls, impunity was the norm. In August AMISOM and federal government troops reportedly forcefully detained and raped a 20-year-old Somali woman in Maslah Military Camp in Mogadishu for two days. AMISOM and the army launched an investigation into the incident. No results were available by year’s end.</p>
+<p>Traditional approaches to dealing with rape tended to ignore the victim’s situation and instead sought resolution or compensation for rape through a negotiation between members of the perpetrator’s and victim’s clans. Some victims were forced to marry perpetrators. Federal, Puntland, and Somaliland authorities prosecuted rape cases. According to a media report, a representative of the Somaliland Attorney General’s office stated authorities sentenced 134 defendants in 67 rape cases between May 2012 and May, representing a 30 percent increase compared with the previous year. For the most part, authorities rarely used formal structures to address rape. Victims suffered from subsequent discrimination based on the attribution of “impurity.”</p>
+<p>In Somaliland gang rape continued to be a problem in urban areas, primarily perpetrated by youth gangs and male students. Many of these cases occurred in poorer neighborhoods and among immigrants, returned refugees, and displaced rural populations living in urban areas. According to a local Hargeisa-based NGO, gang rapes constituted 30 percent of reported rape cases and 55 percent of reported cases involved a minor as the victim. Many cases went unreported.</p>
+<p>Domestic violence against women remained a serious problem despite the provisional federal constitution provision prohibiting any form of violence against women. Both sharia and customary law address the resolution of family disputes, but they were applied by men. Sexual violence in the home was reportedly a serious problem linked to general gender discrimination.</p>
+<p><u>Sex</u><u>ual</u><u> Ha</u><u>ras</u><u>s</u><u>me</u><u>nt</u>: The provisional federal constitution provides all workers, particularly women, shall have a special right of protection from sexual abuse and discrimination. There were no data on, laws pertaining to, or governmental programs to address sexual harassment, although it was thought to be widespread in all regions. Labor law and practice requires compliance with gender equality in the work place.</p>
+<p><u>Re</u><u>p</u><u>ro</u><u>du</u><u>ct</u><u>ive</u><u> </u><u>Ri</u><u>ghts</u>: Decisions regarding reproduction were often determined by a woman’s husband. Women had very limited ability to decide freely and responsibly the number, spacing, and timing of their children. Women had very limited information about and little, if any, access to contraception. According to the UN, an estimated 1.5 percent of girls and women between the ages of 15 and 49 had access to a modern method of contraception. Women rarely had skilled attendants during childbirth or essential obstetric and postpartum care. The UN reported that more than 80 percent of internally displaced women had no access to safe maternal delivery. The maternal mortality ratio was 1,500 per 100,000 live births due to complications during labor that often involved anemia, FGM/C, and/or the lack of medical care. A woman’s lifetime risk of maternal death was one in 14.</p>
+<p><u>Disc</u><u>ri</u><u>mination</u>: Women did not have the same rights as men and experienced systematic subordination to men, despite provisions in the federal constitution prohibiting such discrimination.</p>
+<p>Only men administered sharia. It was often applied in the interests of men. According to sharia and the local tradition of blood compensation, anyone found guilty of the death of a woman paid to the victim’s family only half the amount required for a man’s death.</p>
+<p>The law requires equal pay for equal work. Women formed a negligible part of those employed in both the formal public and private sectors because of girls’ low education level. Women were not discriminated against in owning or managing businesses, except in al-Shabaab-controlled areas. Al-Shabaab claimed women’s participation in economic activities to be anti-Islamic.</p>
+<p>While formal law and sharia provide women with the right to own and dispose of property independently, various legal, cultural, and societal barriers often obstructed women from practicing such rights. By law girls and women could inherit only half the amount of property to which their brothers were entitled. A 2010 report from a local women’s organization in Somaliland indicated that 75 percent of women did not own livestock, land, or other property. Only 15 to 20 percent had received inheritance from male family members.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>B</u><u>irth</u><u> R</u><u>eg</u><u>is</u><u>tr</u><u>a</u><u>tion</u>: The provisional federal constitution states there shall be only one Somali citizenship, and the House of the People of the Federal Parliament of Somalia shall enact a special law that shall define how to obtain, suspend, or lose it. Parliament did not pass such a law by year’s end.</p>
+<p>According to UNICEF authorities registered only 3 percent of births in the country. Authorities in Puntland and in the southern and central regions did not register births. Birth registration occurred in Somaliland for hospital and home births, but limited capacity combined with the nomadic lifestyle of many persons caused numerous births in this region to go unregistered. Failure to register births did not result in denial of public services such as education.</p>
+<p><u>E</u><u>duc</u><u>at</u><u>ion</u>: Education needs were partially met by a patchwork of institutions, including a traditional system of Koranic schools; public primary and secondary school systems financed by communities, foreign donors, and the Somaliland and Puntland administrations; Islamic charity-run schools; and a number of privately run primary and secondary schools and vocational training institutes. In many areas children did not have access to schools other than madrassas. Attendance rates for girls remained lower than for boys.</p>
+<p><u>C</u><u>hild</u><u> Ab</u><u>us</u><u>e</u>: Child abuse and rape of children were serious problems, although no statistics on their prevalence were available. There were no known efforts by the government or regional governments to combat child abuse. Children remained among the chief victims of continuing societal violence.</p>
+<p>The practice of “asi walid,” a custom whereby parents placed their children in prison for disciplinary purposes and without any legal procedure, continued.</p>
+<p><u>Forced and Early Marriage</u>: The provisional federal constitution does not specify a minimum legal age for marriage. It notes no marriage shall be legal without the free consent of both the man and the woman. Early marriages commonly occurred, and 45 percent of women between the ages of 20 and 24 were married by age 18, and 8 percent were married by age 15. In rural areas parents often compelled daughters as young as 12 to marry. In areas under its control, al-Shabaab arranged compulsory marriages between their soldiers and young girls and used the lure of marriage as a recruitment tool. There were no known efforts by the government or regional authorities to prevent forced and early marriage.</p>
+<p><u>Ha</u><u>r</u><u>mf</u><u>ul</u><u> Trad</u><u>iti</u><u>onal</u><u> Pract</u><u>ic</u><u>es</u>: The provisional federal constitution describes female circumcision as cruel and degrading, equates it with torture, and prohibits the circumcision of girls. Nevertheless, female genital mutilation/cutting (FGM/C) was widespread throughout the country. As many as 98 percent of women and girls had undergone FGM/C, and the majority were subjected to infibulation, the most severe form of FGM/C. International and local NGOs ran education awareness programs on the dangers of FGM/C, but there were no reliable statistics to measure the success of these programs.</p>
+<p><u>Sex</u><u>ual</u><u> </u><u>E</u><u>xpl</u><u>oi</u><u>t</u><u>a</u><u>ti</u><u>on</u><u> of C</u><u>hil</u><u>dr</u><u>en</u>: Child prostitution was illegal in all regions. There is no formal statutory rape law or minimum age for consensual sex. Child pornography is not expressly prohibited. Sexual exploitation of children reportedly occurred.</p>
+<p><u>C</u><u>hild</u><u> Sol</u><u>die</u><u>rs</u>: The use of child soldiers remained a problem (see section 1.g.).</p>
+<p><u>D</u><u>is</u><u>pl</u><u>aced</u><u> </u><u>Ch</u><u>il</u><u>dr</u><u>en</u>: There was a large population of IDPs and children who lived and worked on the street (see section 2.d.).</p>
+<p><u>International C</u><u>hild</u><u> Ab</u><u>du</u><u>ct</u><u>ions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There is no known Jewish community in the country, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Tr</i><i>af</i><i>ficking</i><i> in</i><i> Per</i><i>sons</i><i> Rep</i><i>ort</i> at <a href="http://www.state.gov/j/tip/">http://www.state.gov/j/tip/</a>/.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution provides equal rights before the law for those with disabilities and prohibits the state from discriminating against those with disabilities. This provision was not enforced. The provisional federal constitution does not specific whether this provision applies specifically to physical, intellectual, mental, or sensory disabilities. It does not discuss discrimination by nongovernment actors, including in relation to employment, education, air travel and transportation, or healthcare. No laws provide for access to buildings, information, and communications for persons with disabilities.</p>
+<p>The needs of most persons with disabilities were not addressed. A report by the World Health Organization and Swedish International Development Aid (SIDA) estimated that up to 15 percent of the population was physically disabled. In 2011 SIDA found 75 percent of all public buildings were not designed to include accessibility for wheelchair users, and there were no public transportation facilities with wheelchair access.</p>
+<p>Several local NGOs in Somaliland provided services for persons with disabilities and reported numerous cases of discrimination and abuse. These NGOs reported that persons with mental and physical disabilities faced widespread discrimination, particularly within the education sector at the behest of other pupils. According to these NGOs, it is common and condoned by the community for students without disabilities to beat and harass students with disabilities. Mentally and physically women with disabilities were raped often with impunity.</p>
+<p>Without a public health infrastructure, there were few specialized institutions to provide care or education for the mentally ill. It was common for such persons to be chained to a tree or restrained within their homes. Local organizations advocated for the rights of persons with disabilities with negligible support from local authorities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>More than 85 percent of the population shared a common ethnic heritage, religion, and nomad-influenced culture. In most areas the predominant clan excluded members of other groups from effective participation in governing institutions and subjected them to discrimination in employment, judicial proceedings, and access to public services.</p>
+<p>Minority group clans included the Bantu (the largest minority group), Benadiri, Rer Hamar, Brawanese, Swahili, Tumal, Yibir, Yaxar, Madhiban, Hawrarsame, Muse Dheryo, Faqayaqub, and Gabooye. Custom restricted intermarriage between minority groups and mainstream clans. Minority groups, often lacking armed militias, continued to be disproportionately subjected to killings, torture, rape, kidnapping for ransom, and looting of land and property with impunity by faction militias and majority clan members. Many minority communities continued to live in deep poverty and to suffer from numerous forms of discrimination and exclusion.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Same-sex sexual contact is punishable by imprisonment from two months to three years. Antidiscrimination provisions do not apply to LGBT individuals. Society considered sexual orientation a taboo topic, and there was no known public discussion of this problem in any region of the country. There were no known LGBT organizations, and no LGBT events occurred. There were few reports of societal violence or discrimination based on sexual orientation due to severe societal stigma that prevented LGBT individuals from making their sexual orientation publicly known.</p>
+<p>According to a Somali advocacy group, on March 15 al-Shabaab reportedly stoned to death an 18-year-old man in Barawe, Lower Shabelle Region, for having sex with another man.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Persons with HIV/AIDS continued to face discrimination and abuse in their local communities and by employers in all parts of the country. UNICEF reported that persons with HIV/AIDS experienced physical abuse, rejection by their families, and workplace discrimination and dismissal. Children with HIV-positive parents also suffered discrimination, which hindered access to services. There was no official response to such discrimination.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section7"> </span><span class="st_twitter" st_title="Somalia #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Somalia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220158%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution provides for the right of every worker to form and join a trade union, to participate in the activities of a trade union, to conduct legal strikes, and to engage in collective bargaining. No specific legal restrictions existed that limited these rights. The law does not provide limits on the scope of collective bargaining. The provisional federal constitution does not address antiunion discrimination or the reinstatement of workers fired for union activity. Legal protections did not exclude any particular groups of workers. The government lacked the capacity to enforce applicable laws effectively.</p>
+<p>Authorities respected freedom of association. There were no known examples of collective bargaining. Worker organizations were independent of government and political parties. There were no reports of instances of government interference in the functioning of workers’ organizations or strikes during the year. There were reports of threats and attempts against unions during the year. On September 28, a bomb was discovered buried at the entrance gate of the Federation of Somali Trade Unions headquarters in Mogadishu.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The provisional federal constitution states a person may not be subjected to slavery, servitude, trafficking, or forced labor for any purpose.</p>
+<p>Authorities did not effectively enforce these laws. The penalty for slavery is imprisonment for five to 20 years. The penalty for using forced labor is imprisonment for six months to five years and a fine. Although the law provides adequate sentencing, it was rarely used. There were no data or reports on government efforts to prevent and eliminate forced labor in the country.</p>
+<p>Forced labor occurred. Children and individuals from minority clans were reportedly used as porters in transporting the mild narcotic khat (or “miraa”); in farming, animal herding, and crushing stones; and in the construction industry. The use of child soldiers remained a problem (see section 1.g.). Al-Shabaab also forced persons in their camps to move to the countryside, reportedly to raise cash crops for al-Shabaab.</p>
+<p>Also see the Department of State’s <i>Tr</i><i>af</i><i>fic</i><i>k</i><i>ing</i><i> in</i><i> Pers</i><i>ons</i><i> Repo</i><i>rt</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>It was unclear whether there was a minimum age for employment. The pre-1991 labor code prohibits child labor, provides a legal minimum age of 15 for most employment, prescribes different minimum ages for certain hazardous activities, and prohibits those under 18 from night work in the industrial, commercial, and agricultural sectors apart from such work that engages family members only. The provisional federal constitution states “no child may perform work or provide services that are not suitable for the child’s age or create a risk to the child’s health or development in any way.” The provisional federal constitution defines a child as any person less than 18 years old.</p>
+<p>The federal Ministries of Labor, and Social Affairs, Gender, and Family Affairs are responsible for enforcing child labor laws. In practical terms the ministries did not enforce these laws. There was no specific government action to prevent child labor or remove children from such labor.</p>
+<p>Child labor was widespread. Recruitment and use of child soldiers remained a problem. Young persons were commonly employed in herding, agriculture, and household labor from an early age. Children broke rocks into gravel and worked as vendors of cigarettes and khat on the streets. UNICEF estimated that from 1999 to 2005, 36 percent of children between the ages of five and 14 were in the workforce. The actual percentage of working children was believed to be even higher.</p>
+<p>Also see the Department of Labor’s <i>Fin</i><i>din</i><i>gs</i> <i>on</i> <i>the </i><i>W</i><i>orst</i><i> Fo</i><i>rms</i><i> of</i><i> Chi</i><i>ld</i> <i>L</i><i>abor</i> at <a href="http://www.dol.gov/ilab/programs/ocft/tda.htm">www.dol.gov/ilab/programs/ocft/tda.htm.</a></p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>There was no national minimum wage.</p>
+<p>The labor code requires equal pay for equal work. It provides for a standard workweek of 48 hours and at least nine paid national holidays and 15 days annual leave, requires premium pay for overtime, and limits overtime to a maximum of 12 hours per week. The law sets occupational health and safety standards.</p>
+<p>There was no organized effort to monitor working conditions. The Ministry of Labor was responsible at the federal level for enforcement, although it was not effective. There was no information on the existence or status of foreign or migrant workers in the country.</p>
+<p>Wages and working conditions were established largely on the basis of ad hoc arrangements based on supply, demand, and the influence of a worker’s clan. Many workers worked in the informal sector.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

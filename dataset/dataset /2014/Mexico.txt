@@ -1,0 +1,623 @@
+2014
+Mexico
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702"> </span><span class="st_facebook" st_title="Mexico" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236702">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236702</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=executive"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Mexico is a multi-party federal republic with an elected president and bicameral legislature. In July 2012 citizens elected President Enrique Pena Nieto of the Institutional Revolutionary Party (PRI) to a six-year term in free and fair elections. Authorities generally maintained effective control over the security forces.</p>
+<p>Significant human rights-related problems included police and military involvement in serious abuses, such as unlawful killings, torture, disappearances, and physical abuse. Impunity and corruption remained serious problems, particularly at the state and local levels, in the security forces, and in the judicial sector. Organized criminal groups persisted in perpetuating high levels of kidnapping and violence against journalists and others that limited freedom of expression.</p>
+<p>Civil society organizations, the United Nations, and the country’s National Human Rights Commission (CNDH) reported the following additional problems: poor prison conditions; arbitrary arrest and detention; threats and violence against human rights defenders and journalists; abuse of migrants; domestic violence; trafficking in persons; abuse of persons with disabilities; social and economic discrimination against some members of the indigenous population; threats against lesbian, gay, bisexual, and transgender (LGBT) persons; and exploitation of child labor.</p>
+<p>Impunity for human rights abuses remained a problem throughout the country with extremely low rates of prosecution for all forms of crime. Neither general information about government investigations of human rights allegations nor information about specific cases was easily available to the public.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section1"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were numerous reports the government or its agents committed arbitrary or unlawful killings, often with impunity. Organized criminal groups were also responsible for numerous killings, often acting with impunity and in league with corrupt state, local, and security officials.</p>
+<p>On June 30, elements of the Secretariat of National Defense (SEDENA) clashed with suspected criminals in Tlatlaya in the state of Mexico. Subsequently, civil society groups called on the government to investigate the shootout in which 22 suspects were killed, some allegedly after surrendering. The Office of the Attorney General (PGR) and SEDENA both initiated investigations. The PGR charged Fernando Quintero Millan, Roberto Acevedo Lopez, and Leobardo Hernandez Leonides with homicide, tampering with evidence, and abuse of authority. The PGR charged one lieutenant and four additional soldiers with lesser charges.</p>
+<p>During the night of September 26, a group of students from the Ayotzinapa teachers’ college, in the state of Guerrero, engaged in demonstrations that turned violent. During at least three separate events, local police and members of United Warriors (Guerreros Unidos), an organized criminal gang, attacked the students. Some of the students escaped, but others were taken into custody. Three of the students were later found dead, including one whose face was skinned off and eyes gouged out. Stray bullets during the confrontations killed three bystanders - a bus driver, a 15-year-old, and a woman in a taxi. Over the next few days, some of the students emerged from hiding, but by October 2, a total of 43 students remained missing. In a statement on October 21, Attorney General Jesus Murillo Karam announced the mayor of Iguala, Jose Luis Abarca, had personally ordered the disappearance of protesting students on September 26. Abarca, his wife, and his security chief went missing after he took a leave of absence from his office on September 30. Abarca was expelled from his political party; the government stripped him of executive immunity, and on November 4, authorities apprehended him in Mexico City. By the end of the year, officials had identified the remains of one student, and 42 other students remained unaccounted for. The government continued its investigation, including with technical assistance from the Organization of American States and foreign countries. Federal forces dispatched to that part of Guerrero assumed security responsibilities in a number of municipalities. The governor of Guerrero resigned, and a new governor was named. According to government officials, authorities arrested dozens of police and cartel members on charges related to the crimes in Iguala.</p>
+<p>On October 19, Ricardo de Jesus Esparza Villegas, a 23-year-old university student in Guanajuato, died after he was arrested. Witnesses alleged municipal police beat him. The CNDH opened an investigation into the case.</p>
+<p>On June 12, the CNDH announced it had reopened its investigation of the 2010 killing of 72 migrants in San Fernando, Tamaulipas. After the CNDH issued its initial recommendations on the case in 2013, the families of the victims filed an injunction (amparo) against the CNDH, saying its investigation was inadequate and had violated their human rights. On June 6, federal courts denied a CNDH appeal and upheld the injunction.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were reports of forced disappearances by security forces along with hundreds of complaints of disappearances related to organized crime. Most occurred in the course of sanctioned security operations. While the federal criminal code classifies forced disappearance as a crime, it does not constitute a crime in several local penal codes. The federal criminal code and the legislation of the 16 federal entities that classify forced disappearance as a crime do not use the same definition, and penalties vary according to the jurisdiction. Fifteen states classify forced disappearance as a crime distinct from murder or kidnapping.</p>
+<p>In July the government published the National Plan for the Search for Disappeared Persons. The plan describes the role of the new PGR Missing Persons unit while building on the law for the National Registry of Missing or Disappeared Persons. That law instructs the federal government to create a database of information for the National Public Security System to standardize and centralize information concerning missing and disappeared persons; civil society advocates claimed the database remained disorganized. Civil society organizations claimed the PGR unit was underfunded and lacked adequate training.</p>
+<p>The Secretariat of Government (SEGOB) released several estimates on the number of missing persons throughout the year, varying from 8,000 to 26,000. On August 21, SEGOB and the PGR reported the government’s overhauled nationwide database had identified 22,322 individuals as missing, of whom 9,790 were reported missing since the start the Pena Nieto administration on December 1, 2012. In addition, federal officials declared a total of 23,234 persons were reported missing between December 1, 2012, and July 31; of these, the government located 13,444. According to the government, the causes for disappearances included voluntary absence, migration, death, and unlawful imprisonment. Civil society organizations pressed the government to refine the data to reveal more information about the type, location, and duration of the disappearances, with the goal of identifying which were forced disappearances.</p>
+<p>On July 22, the country withdrew its reservation to article 9 of the Inter-American Convention on Forced Disappearance, thereby acknowledging all allegations of forced disappearance - including by members of the military - must be tried in civilian courts.</p>
+<p>On January 22, an appellate court upheld the continued detention of soldiers from the Ninth Infantry Battalion on charges related to the forced disappearance of six individuals from Jilotlan de los Dolores in the state of Jalisco in 2010. The court also upheld the transfer of jurisdiction from military to civilian court.</p>
+<p>According to press reports, in January a military tribunal charged 18 soldiers with the forced disappearance and murder of a Juarez resident during the army’s deployment under “Operation Chihuahua” in 2008. The court also upheld the transfer of jurisdiction from military to civilian court.</p>
+<p>In March, Nuevo Leon launched the first Immediate Search Specialized Group (GEBI). The group consisted of a team of specialists focused on searching for missing individuals within the first 72 hours of their reported disappearance. State officials together with members of the nongovernmental organization (NGO) Citizens in Support of Human Rights (CADHAC) created a set of internationally approved protocols designed to identify and search for missing persons in a timely manner. After 72 hours the state investigative police assumes responsibility for the search. CADHAC reported the creation of GEBI and new search protocols enabled officials to resolve investigations.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits torture and other cruel, inhuman, or degrading treatment and stipulates confessions obtained through illicit means such as torture are not admissible as evidence in court. Similarly inadmissible is any confession made directly to police. To be admissible a confession must be formally recorded before a prosecutor or judge with the acknowledgement it is being made voluntarily and after examination by a doctor confirming the suspect has not been subjected to physical abuse.</p>
+<p>As of August 31, the CNDH processed 445 complaints of cruel or degrading treatment and 552 complaints of torture. The CNDH issued 10 recommendations in cases of cruel and degrading treatment and two recommendations in cases of torture.</p>
+<p>Following his April visit to the country, UN Special Rapporteur for Torture Juan Mendez on May 2 said torture remained a problem due to irregularities within the justice system. Mendez observed torture of detainees usually occurred within hours after arrest, often outside police facilities or jails. He heard no complaint of torture or mistreatment from detainees once in prison. While he recognized the country’s adoption of the Istanbul Protocol for documenting and assessing torture allegations as an advance, he noted in many cases it was not applied appropriately and often not as quickly as it should be. In September Amnesty International reported while complaints of torture decreased by more than 28 percent from 2012 to 2013, they still increased by 600 percent from 2003 to 2013.</p>
+<p>According to the human rights NGO Institute for Security and Democracy (INSYDE), torture practices included hanging individuals from their feet, fingers, or neck. INSYDE also reported torture methods varied by region. Foreign citizens filed numerous complaints before state-level human rights commissions for egregious mistreatment at the hands of arresting authorities or while in prison.</p>
+<p>On January 8, in Ciudad Juarez, Magdalena Gonzalez Avellaneda, a former police officer, became the first person sentenced for torture in the state of Chihuahua. Authorities prosecuted her under a state law and sentenced her to four years’ imprisonment, a fine of 148,000 pesos ($11,000), and 15 years’ ineligibility for any public position.</p>
+<p>On May 12, the First Chamber of the Supreme Court published the written resolution for its November 2013 decision reversing the conviction of Israel Arzate on the grounds that torture led to his confession. The resolution held that torture is a crime and that authorities have a duty to act expeditiously when there are allegations of torture and to assure a proper, timely investigation designed to determine accountability through criminal proceedings. Further, the court affirmed the general rule of exclusion of illegal evidence, including all cases where evidence was obtained through torture.</p>
+<p>According to a study released in late April, 43 cases of torture were reported in the state of Nuevo Leon during 2013, of which approximately 70 percent involved state police investigators working for the state attorney general’s office. The study’s principal author, Fernando Elizondo Garcia, director of the Human Rights Center at the Free Law School of Monterrey, stated, “This data proves the use of torture as a tool for investigating and obtaining confessions is a standard procedure for the state’s security forces.”</p>
+<p>Instances of cruel, inhuman, and degrading treatment reportedly occurred in public mental health institutions (see section 6, Persons with Disabilities).</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Treatment and physical conditions in prisons and detention centers were often harsh and life threatening, most notably in state-level prisons, due to corruption, overcrowding, prisoner abuse, alcohol and drug addiction, and loss of security and control.</p>
+<p><u>Physical Conditions</u>: According to the National Security Commission (CNS, formerly known as the Secretariat of Public Security), as of June there were 254,641 prisoners, approximately 27 percent above capacity, in 386 facilities, consisting of 17 federal prisons, 293 state-level facilities, and 76 municipal facilities. An estimated 95 percent of inmates were men. The official number of juvenile inmates was unknown on a national level due to the decentralized recordkeeping for juvenile inmates.</p>
+<p>Health and sanitary conditions were poor, and most prisons did not offer psychiatric care. Prisons often were staffed with poorly trained, underpaid, and corrupt correctional officers, and authorities occasionally placed prisoners in solitary confinement indefinitely. Prisoners often had to bribe guards to acquire food, medicine, and other necessities. Authorities held pretrial detainees together with convicted criminals. Prison overcrowding continued to threaten health and life, particularly in the state of Baja California, where the state sought to address its high incarceration rate (nearly three times the national average) through a combination of increasing facility capacity, early parole, and transfer of federal prisoners to facilities elsewhere. The CNDH noted a lack of access to adequate health care was a significant problem. Prisoners generally had access to potable water. Food quality and quantity varied by facility, with internationally accredited prisons generally having the highest standards.</p>
+<p>The CNDH continued to report conditions for female prisoners were inferior to those for men, particularly for women who lived with their children in prison, due to a lack of appropriate living facilities and specialized medical care. There were reports women who lived with their children in prison did not receive extra food or assistance. There continued to be reports of physical and sexual abuse of female detainees. A CNDH report released in June 2013 found prison conditions for female inmates did not meet national or international human rights standards. Specifically, the CNDH stated female inmates were inadequately prepared to return to society, experienced inhuman treatment, lacked appropriate health-care services, and received inferior legal and judicial services. Following the release of the CNDH report, the American Correctional Association (ACA) conferred international accreditation upon two state correctional facilities for women in Chihuahua. As part of its accreditation process, the ACA assesses the facility’s administration and management, staff training, adequacy of medical services, sanitation, use of segregation and detention, incidents of violence, crowding, and provisions of basic services.</p>
+<p>In 2012 the CNDH reported organized crime controlled 60 percent of prisons. It indicated prisons in the Federal District and the states of Mexico, Tamaulipas, Nuevo Leon, Quintana Roo, Oaxaca, Guerrero, Tabasco, and Nayarit had the worst prison conditions.</p>
+<p><u>Administration</u>: There were improvements in recordkeeping in the federal prison system, largely due to a transition from a paper file system to electronic recordkeeping. At some state prisons, recordkeeping remained inadequate. Some states instituted mechanisms for alternative justice, including drug diversion courts, for nonviolent offenders.</p>
+<p>Prisoners and detainees generally had reasonable access to visitors and could observe religious practices. While prisoners and detainees could lodge complaints about human rights violations, access to justice was inconsistent, and authorities generally did not publicly release the results of investigations. The CNDH has an ombudsman dedicated to prison problems, but it does not provide legal representation for prisoners.</p>
+<p><u>Independent Monitoring</u>: The government permitted independent monitoring of prison conditions by the International Committee of the Red Cross, the CNDH, and state human rights commissions. As of August 31, the CNDH made 127 visits to prisons, 282 visits to detention centers, and one visit to a military prison to monitor conditions.</p>
+<p>Independent monitors are generally limited to making recommendations to authorities to improve prison conditions. The federal system made some improvements based on these recommendations.</p>
+<p><u>Improvements</u>: The federal government opened two new prisons in Durango and Chiapas, each with a capacity of 2,500 prisoners. As of September, four additional facilities were under construction. The additional capacity alleviated some of the overcrowding in state prisons holding federal prison inmates. Both federal and state facilities continued to seek international accreditation from the ACA, which requires demonstrated compliance with a variety of international standards. As of August 19, eight federal prisons, one federal correctional training academy, eight state prisons in Chihuahua, one state prison in Baja California, and one state prison in the state of Mexico had ACA accreditation. Since beginning the accreditation process, Chihuahua’s prisons experienced sharp decreases in deaths, escapes, and riots. In 2013 there was only one violence-related death in Chihuahua’s prison facilities, compared with 216 deaths in 2010. Four states had opened drug-treatment courts since 2009. The courts enable participants to receive counseling and treatment for their addiction rather than serving time in a correctional facility.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention as well as sponsoring or concealing an illegal detention. As of August 31, however, the CNDH reported receiving 663 complaints and issued four recommendations to authorities regarding arbitrary arrests and detentions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The federal police, under the CNS, as well as state and municipal police, have primary responsibility for law enforcement and the maintenance of order. SEDENA, which oversees the army and air force, and the Secretariat of the Navy (SEMAR), which oversees the navy and marines, also play a role in domestic security, particularly in relation to organized criminal groups.</p>
+<p>The CNDH stated deployment of the armed forces for domestic law enforcement in the campaign against organized criminal groups led to an increased number of reported human rights abuses by government security forces against civilians, sometimes with impunity. SEDENA, SEMAR, the federal police, and the PGR have security protocols for chain of custody and use of force. The protocols, designed to reduce the time arrestees remain in military custody, outline specific procedures for the handling of detainees.</p>
+<p>In April congress revised the code of military justice to oblige military institutions to transfer human rights cases to the civilian justice system under the jurisdiction of the PGR. The new rules provide for trial of military personnel under civilian jurisdiction in criminal cases if the victim is a civilian. If the victim is a member of the military, alleged perpetrators remain subject to the military justice system. The legislation also provides that military tribunal defenders may accompany and represent defendants during sentencing hearings. The new law provides for two years’ imprisonment for any member of the military justice system who willfully conceals or destroys procedural records, objects, instruments, or proceeds of crime.</p>
+<p>On May 22, the government issued a new manual for the use of force applicable to all three military services. The manual provides guidance on the legitimate use of force, explains the consequences of excessive or improper use of force, orders all military personnel to abide by the provisions of the legitimate use of force, and makes superiors responsible for the training and actions of their subordinates.</p>
+<p>According to SEDENA’s human rights website, based on the 115 CNDH recommendations issued against SEDENA between April 2007 and May 2013 (the most current data available), a total of 103 military members were charged for human rights violations, of whom 38 were prosecuted in the military justice system.</p>
+<p>The CNDH reported police, immigration officers, and customs officials violated the rights of undocumented migrants and failed to provide for their safety. Kidnapping remained a serious problem for persons at all socioeconomic levels, and there were credible reports of police involvement in kidnappings for ransom, often at the state and local level. In January the government established a National Anti-Kidnapping Organization as part of its national strategy. According to a report released by the National Institute of Statistics and Geography (INEGI) on September 30, in 2013 there were 131,946 kidnappings, but only 1,698 were reported to police.</p>
+<p>As of August 31, the CNDH had concluded investigations into 330 complaints and issued no recommendations against SEDENA, concluded investigations into183 complaints and issued one recommendation against SEMAR, concluded investigations into 312 complaints and issued one recommendation against the PGR, and concluded investigations into 303 complaints against the federal police and with no recommendations.</p>
+<p>SEDENA’s General Directorate for Human Rights investigates military personnel for violations of human rights identified by the CNDH and is tasked with promoting a culture of respect for human rights within the institution. The directorate has no power to ensure allegations are prosecuted or to take independent judicial action.</p>
+<p>The CNDH continued to increase its training of military members through training agreements with SEMAR and SEDENA. As of August 31, the CNDH provided human rights training to 225,714 military members.</p>
+<p>Numerous agencies and organizations offered training to federal and state police officers in human rights, including the CNDH, which reported training 4,798 police officials as of August 31. Evidence of their effectiveness remained limited. State-level police academies increasingly mandated human rights training as part of their curriculum, but some did not, and the training across states was not standardized.</p>
+<p>On May 12, the Aguascalientes Human Rights Commission issued a precautionary measure to the Public Security Secretariat and director of police in the city of Aguascalientes, requesting police officers stop using electroshock instruments to control crowds during the San Marcos Fair. At the same event, a YouTube video showed Aguascalientes state police officers beating a woman. Government action in this case was pending.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The constitution allows any person to arrest another if the crime is committed in his or her presence. A warrant for arrest is not required if an official has reasonable suspicion about a person’s involvement in a crime. Bail exists, except for persons held in connection with drug trafficking or other forms of organized crime. In most cases persons must be presented to a judge, along with sufficient evidence to justify their continued detention, within 48 hours of their arrest, but there were violations of this 48-hour provision. In cases involving three or more persons who organize to commit certain crimes, suspects may be held for up to 96 hours before being presented to a judge.</p>
+<p>Only the federal judicial system can prosecute organized crime cases. Under a procedure known as “arraigo” (a constitutionally permitted form of detention, employed during the investigative phase of a criminal case before probable cause is fully established), certain suspects may, with a judge’s approval, be detained for up to 80 days prior to the filing of formal charges. Many human rights NGOs claimed arraigo allows authorities to detain someone first, then seek a reason to justify detention. In the absence of formal charges, persons so detained are denied legal representation and are not eligible to receive credit for time served if convicted. Human rights groups asserted authorities used arraigo to obtain confessions using torture.</p>
+<p>In March a PGR official reported to the Inter-American Commission on Human Rights (IACHR) between 2011 and 2013, the use of arraigo dropped 75 percent, which the PGR attributed to the administration’s efforts to limit use of the measure to exceptional cases. According to information from the PGR, approximately 11,000 individuals were subject to arraigo between 2006 and 2014, and from January 2013 to February 2014, there were 693 cases involving arraigo.</p>
+<p>Some detainees complained about lack of access to family members and to counsel after police held persons incommunicado for several days and made arrests arbitrarily without a warrant. Police occasionally provided indigent detainees counsel only during trials and not during arrests or investigations as provided for by law. Authorities held some detainees under house arrest. On June 2, the armed forces issued its first joint use of force doctrine, ordering transfer of detained individuals as soon as possible to civilian authorities and prohibiting use of military facilities as detention or retention centers.</p>
+<p>In early June the Coahuila state attorney general’s office initiated an investigation of accusations of torture and sodomy against a group of state police officers in Saltillo, Coahuila. The alleged victim stated several state police officers entered his home on June 9 without a warrant, arrested him in front of his wife and two daughters, destroyed property in the house, and stole approximately 3,000 pesos ($220) and a cell phone. Thereafter, the complainant asserted, the officers took him to an undisclosed location, imprisoned him in a box, and sodomized him at least four times with an assault rifle before taking him to the police station. The police denied the accusations. A doctor’s examination of the victim shortly after he arrived at the station led to the investigation. After filing the formal accusation, the victim and his wife claimed they received death threats from members of the police group. The unit spokesperson stated an investigation was under way, but as of August there were no known developments, and the accused officers remained on the force.</p>
+<p><u>Arbitrary Arrest</u>: As of August 31, the CNDH reported that it had received 187 complaints and issued five recommendations in cases of arbitrary arrests.</p>
+<p><u>Pretrial Detention</u>: The law provides time limits within which an accused person must be tried. Authorities generally disregarded such time limits since caseloads far exceeded the capacity of the federal judicial system, and most state judicial systems continued to employ the written, inquisitorial criminal justice process. States implementing the 2008 constitutional reforms of the judicial system, on the other hand, reduced the number of crimes with mandatory remand and presented lower pretrial detention rates. These states also began to adopt other measures associated with the 2008 judicial reform, such as pretrial services, house arrest, bail, and alternative dispute resolution.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law provide for an independent judiciary, court decisions were susceptible to improper influence by both private and public entities, particularly at the state and local level.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The civilian legal system is a hybrid system undergoing reform. While it incorporates some aspects of common law and accusatory-style systems, it draws primarily from traditional European code-based, inquisitorial systems. The military also employed a hybrid inquisitorial-accusatorial legal system but continued to move toward an oral accusatorial system. In some states implementing the accusatory system, alternative justice centers employed mechanisms such as mediation, negotiation, and restorative justice to resolve minor offenses outside the court system. Increased use of alternative mechanisms lessened the burden of minor crimes on courts in states implementing reform.</p>
+<p>The constitutional criminal justice reform legislation of 2008 provides for the country’s transition by 2016 to an adversarial oral trial system in which defendants enjoy a presumption of innocence and have the right to attend the hearings and challenge the evidence or testimony presented. A majority of jurisdictions did not provide these rights, however, since they had not completed reform implementation and still operated under the inquisitorial system. In the new adversarial system, judges render judgments directly without the participation of a jury.</p>
+<p>As of August 31, a total of 26 states had passed legislation transitioning to the oral, adversarial system and were at various stages of training and implementation of the reforms, while six states were still legislating reforms. Four states fully operated with the new oral system, while 13 states had partially implemented the new structure. Under the old system, still in use by the federal government, the Federal District, and 15 states (some of which had passed reforms but were still transitioning to the new system), a typical trial consists of a series of fact-gathering hearings during which the court receives documentary evidence or testimony.</p>
+<p>The law provides defendants with the right to an attorney at all stages of criminal proceedings. Attorneys are required to meet legal qualifications to represent a defendant. Because of continuing implementation of the 2008 reforms, not all public defenders had preparation and training to serve adequately on the defendants’ behalf, and often the state public defender system was not adequate to meet demand. Public defender services functioned either in the judicial or executive branch. According to the Center for Research and Teaching in Economics, most criminal suspects did not receive representation until after they came under judicial authority, thus making individuals vulnerable to coercion to sign false statements before appearing before a judge.</p>
+<p>Although required by law, translation services from Spanish to indigenous languages at all stages of the criminal process often were not available. Indigenous defendants who did not speak Spanish sometimes were unaware of the status of their cases and were convicted without fully understanding the documents they were required to sign.</p>
+<p>Where implemented, justice reform also establishes strict guidelines on the use of confessions, evidence, and expert testimony; allows consensual monitoring of telephone calls; and gives police more responsibility for conducting investigations. The reform requires all hearings and trials be conducted by a judge and follow the principles of public access, immediacy, confrontation, and cross-examination in order to promote greater transparency and allow defendants to challenge their accusers. Defendants have the right to access government-held evidence. The law, however, allows the government to keep elements of an investigation confidential until presentation of evidence in court. The law also provides the right of appeal.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent judiciary in civil matters to which citizens have access to seek civil remedies for a human rights violation. For a plaintiff to secure damages against a defendant, the defendant first must be found guilty in a criminal case, which is a high standard in view of the relatively low number of individuals convicted of human rights abuses in the country.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>The country is subject to the jurisdiction of the Inter-American Court for Human Rights. In April congress passed reforms to its military justice system aimed at bringing the judicial system into compliance with four court rulings between 2009 and 2011 to assure members of the armed forces who commit crimes against civilians are tried under the civilian justice system.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits such practices and requires search warrants, as of August 31, the CNDH processed 220 complaints of illegal searches or illegal destruction of private property and issued one recommendation.</p>
+<p>In January the CNDH stated SEDENA had complied with its 2013 recommendation in the 2012 case of warrantless searches of members of the indigenous community of Kumiai de la Huerta, Baja California. SEDENA determined the actions were federal crimes, made reparations to each of the victims, and provided medical and psychological care at the El Cipres Military Regional Hospital in Baja California.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section2"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press, and the government generally respected these rights. Most newspapers, television, and radio stations were privately owned, and the government had minimal presence in the ownership of news media. Media monopolies, especially on a local level, constrained freedom of expression.</p>
+<p>In a report released on April 16, the NGO Committee to Protect Journalists stated the government had not made significant progress to support press freedoms or to address unsolved cases related to journalists.</p>
+<p>On March 21, NGO Journalists on Foot (Periodistas de a Pie) submitted its final report from its observation mission to Veracruz to investigate the disappearance and killing of local journalist Gregorio Jimenez de la Cruz in February. The report documented Jimenez’s disappearance and killing, the state’s response, and the challenges faced by journalists working in southern Veracruz. In its annual report, international NGO Article 19 recorded 38 attacks against journalists working in Veracruz in 2013.</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views without restriction. Journalists frequently practiced self-censorship, however, because of threats from criminal groups, as well as high influence of the government within the press. According to Freedom House, as much as 80 percent of the funding for advertising came from state and federal government. The law provides a legal framework for issuing permits to nongovernmental and noncommercial community radio stations.</p>
+<p><u>Violence and Harassment</u>: Journalists were sometimes subjected to physical attacks, harassment, and intimidation due to their reporting. According to local NGOs, government authorities sometimes participated in and condoned these acts.</p>
+<p>Perpetrators of violence against journalists continued to act with impunity with few reports of successful investigation, arrest, or prosecution of suspects. The international NGO Freedom House’s 2013 <i>Freedom of the Press Report</i> characterized the country as a “dangerous place for journalists” and categorized it as “not free” for the press due to the threats and violence reporters faced and impunity for the perpetrators of crimes committed against the press. In its 2014 annual report, the Committee to Protect Journalists indicated the government did not make significant progress to support press freedoms or to address unsolved cases of violence against journalists.</p>
+<p>For example, in June Article 19 reported 222 attacks or threats against members of the press from January to September. As of August 31, the CNDH reported eight journalists killed for reasons presumed to be related to their work. Article 19 noted 330 separate cases of violence against journalists recorded in the country in 2013, a sharp increase from 2012.</p>
+<p>On April 16, a Colima journalist filed a harassment complaint with the state human rights commission against the PGR. PGR agents allegedly harassed the journalist, who had been reporting on the construction of a gold mine in an indigenous community.</p>
+<p>On October 1, gunmen killed activist and community leader Atilano Roman Tirado during his weekly community radio broadcast.</p>
+<p><u>Censorship or Content Restrictions</u>: Human rights groups reported at times state and local government worked to directly censor the media and threaten journalists. A lack of adequate protection resulted in significant self-censorship. Journalists reported altering their coverage in response to a lack of protection from the government, attacks against media headquarters, false charges for publishing undesirable news, and threats or retributions against family, among other reasons. In the state of Quintana Roo, there were reports of “cloning,” the practice of duplicating a legitimate, licensed publication, with nearly identical layout, but changed content replaced criticism of the government with praise.</p>
+<p>On July 30, the Sinaloa state legislature approved legislation prohibiting journalists from photographing, videotaping, or recording audio at crime scenes, prompting protests from journalists and activists across the state. The CNDH characterized the law as unconstitutional and contrary to international human rights. On August 21, the state legislature overwhelmingly repealed the law, which government representatives stated was not meant as an attack on press freedom.</p>
+<p><u>Libel Laws/National Security</u>: Twelve states have criminal libel laws making journalists vulnerable to imprisonment at the state level.</p>
+<p><u>Nongovernmental Impact</u>: Organized criminal groups exercised a grave and increasing influence over media outlets and reporters, frequently threatening individuals who published critical views of crime groups. A pervasive atmosphere of fear led even politically active citizens to censor their speech against organized crime.</p>
+<div class="sub-sub-section">
+<h3>
+						Actions to Expand Press Freedom</h3>
+<div class="sub-sub-section_content">
+<p>SEGOB worked to strengthen the national protection mechanism designed to protect human rights defenders and journalists. The SEGOB Human Rights Directorate increased personnel and improved training for the mechanism, by September significantly reducing the backlog of cases awaiting adjudication. According to the President’s Office, between September 1, 2013, and July 31, the mechanism addressed all applications received, which included 71 journalists and 28 human rights defenders. As a result authorities implemented 281 protective measures approved by the mechanism’s governing board to assist journalists and rights defenders.</p>
+<p>The PGR has a special unit to prosecute crimes against journalists.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports it monitored private online communications without appropriate legal authority, but two states continued to restrict the use of social media. A law in Veracruz provides for a “public disturbance” offense and hindered the use of social media. Similarly, the state of Tabasco continued to outlaw telephone calls or social network postings that could provoke panic.</p>
+<p>According to data published in September, 41 percent of citizens used the internet. Freedom House’s 2012 <i>Freedom on the Net Report</i> categorized the country’s internet as “partly free.”</p>
+<p>Concerns persisted regarding the use of violence by drug cartel gangs in retaliation for information posted online.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>While there were no government restrictions on academic freedom or cultural events, unidentified actors carried out attacks on academics, artists, and intellectuals.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights. There were instances, however, of security forces using excessive force against demonstrators.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/"><u>www.state.gov/j/drl/irf/rpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-country Movement</u>: There were numerous instances of armed groups limiting the movements of migrants, including kidnappings and homicides. In July armed persons robbed migrants staying at a shelter in Nogales, Sonora. According to press accounts, an armed group that included 19 men in ski masks and a woman who appeared to be leading the operation robbed 20 migrants, mostly from Central America. The armed group wore police uniforms and used at least eight marked patrol vehicles. After approximately 90 minutes, the group left. When shelter residents called the city’s emergency number for help, the armed group returned to the shelter, asking who had made the call. When the migrants refused to answer, the armed intruders took photographs of each migrant and threatened they would be beaten or killed if any of them talked.</p>
+<p>On May 12, the governor of Coahuila announced the creation of a special state prosecutor’s office specifically to prosecute crimes committed against migrants. A similar special prosecutor’s office exists in Chiapas. During the year the refugee support NGO Casa Migrante documented more than 100 cases of abuse, most of which wert attributed to government authorities.</p>
+<p>On July 7, President Pena Nieto announced a new southern border strategy that allows free movement for certain Central American nationals within the four southern border states of Mexico with a biometrically enabled card. The strategy aimed to promote regular migration, direct government resources to assisting migrants in distress, and facilitate enforcement of the country’s migration laws.</p>
+<p>In August the government announced and implemented measures to stop migrants from boarding a freight train, commonly referred to as “the beast,” used by thousands of migrants willing to pay a fee to criminal organizations in exchange for a ride on the train’s roof.</p>
+<p>According to the National Institute of Migration (within SEGOB), between January and September, 86,014 Central American migrants transited the country.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>In July the international NGO Refugees International reported drug cartels had emptied entire rural communities in the country to take land and natural resources. The NGO estimated hundreds of thousands of citizens, many fleeing areas of armed conflict between the government and organized criminal groups, were internally displaced.</p>
+<p>According to press reports, the human rights commission of Sinaloa estimated violence by organized criminal groups had displaced more than 25,000 persons in the Sierra Madre region over the past 12 years.</p>
+<p>According to the CNDH, many of those who fled their communities were responding to violence related to narcotics trafficking. The CNDH blamed government negligence for the 98 percent impunity rate associated with violent crimes and cited this as a predominant factor driving IDPs’ decisions to leave their homes. The CNDH also reported criminal groups further victimized IDPs by routinely using fraudulent means to transfer or sell IDPs’ abandoned homes. Individuals from Tamaulipas, Baja California, Guerrero, Sinaloa, and Michoacan accounted for the majority of IDPs. The CNDH alleged the government allocated only minimal resources to assist IDPs.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. According to SEGOB 1,296 individuals requested asylum in the country in 2013.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section3"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p>On May 16, the legislature approved a package of political-electoral reforms, including the General Electoral Process Law and the Law of Political Parties. The legislation delineates the duties of the new National Electoral Institute to organize elections at the federal, state, and local levels. It also outlines a series of other changes to the electoral law, including allowing citizens living outside the country to vote in more elections and imposing more stringent transparency requirements on political parties.</p>
+<p><u>Recent Elections</u>: Observers considered the July 2012 presidential election mostly free, fair, and transparent. The Federal Electoral Institute oversaw the electoral process, and the Federal Electoral Tribunal, after conducting a comprehensive review of all electoral irregularities, declared the election valid in August 2012.</p>
+<p><u>Participation of Women and Minorities</u>: On January 31, the legislature enacted a reform of the constitution to provide for equality between women and men in the nominations to the Chamber of Deputies, Senate, and state congresses. At the time of the reforms, women held 37 percent of seats in the Chamber of Deputies and 33 percent in the Senate. In 2013 the national average of seats held by women in the 31 state legislatures and the Legislative Assembly of the Federal District was 27 percent.</p>
+<p>In the 2012 legislative elections, 42 of 128 senators and 184 of 500 federal deputies elected were women. Two female justices sat on the 11-member Supreme Court, and there were three women in the 20-member cabinet. Many state laws provide no more than 70 to 80 percent of candidates can be of the same gender, but political parties at the state level often failed to meet the established gender quotas.</p>
+<p>There were no established quotas for increased participation of indigenous groups in the legislative body, and no reliable statistics were available regarding minority participation in government. The law provides for the right of indigenous people to elect representatives to local office according to “usages and customs” law rather than federal and state electoral law. Usages and customs laws apply traditional practices to resolve disputes, choose local officials, and collect taxes without federal or state government interference.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section4"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but the government did not enforce the law effectively. There were numerous reports of government corruption during the year. Corruption at the most basic level involved paying bribes for routine services or in lieu of fines to administrative officials and security forces. More sophisticated and less apparent forms of corruption included overpaying for goods and services to provide payment to elected officials and political parties.</p>
+<p>On June 16, INEGI released a study estimating the total per capita number of corrupt acts by government officials in each state in interactions with residents seeking government services. INEGI reported the national average was 24,700 incidents per 100,000 inhabitants, with the rate among states reaching as high as 44,000 per 100,000 (Chihuahua). The survey estimated corruption appeared in approximately 7.4 percent of requests for government services.</p>
+<p>By law all new applicants for federal law enforcement jobs (and other sensitive positions) must pass a vetting process upon entry into service and every two years thereafter throughout their careers. According to SEGOB and the National Center of Certification and Accreditation, more than 336,578 active police officers underwent initial vetting (96 percent of the national force); 27 state entities vetted between 91and 100 percent of state and municipal personnel, and five states vetted 81-90 percent of state and municipal forces. Nevertheless, the CNDH continued to report police, particularly at the state and local level, were involved in kidnapping, extortion, and providing protection for, or acting directly on behalf of, organized crime and drug traffickers.</p>
+<p><u>Corruption</u>: Responsibility for investigating federal police criminal or administrative abuse falls under the purview of the PGR or the Secretariat of Public Administration (SFP), depending on the type of offense. Observers considered the agencies generally effective and adequately resourced. Nonetheless, government prosecution of major corruption cases often was not effective, and therefore several such cases were prosecuted and concluded outside the country. For example, in September in a foreign court proceeding, Hector Javier Villareal Hernandez, treasurer of Coahuila state from 2008 to 2011, pled guilty to money laundering and conspiracy to transport stolen funds. Criminal proceedings continued against Elba Esther Gordillo, the head of the country’s main teachers’ union, arrested in February 2013 on charges of embezzling two billion pesos ($150 million) in union funds. Gordillo remained in prison as of November while her case continued.</p>
+<p><u>Financial Disclosure</u>: The law requires all federal and state-level appointed or elected officials from the middle to high ranks to provide income and asset disclosure for themselves, their spouses, and dependents. The SFP monitors disclosures with support from each agency. Disclosures are required at the beginning and end of employment, and yearly updates are also required. Declarations are not made available to the public unless the official provides consent; otherwise, it is the prerogative of SFP to monitor the statements. Criminal or administrative sanctions apply for abuses.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and the government granted access for citizens and noncitizens, including foreign media. Authorities implemented the law effectively. The law includes exceptions to disclosure of government information, including for information that may compromise national security, affect the conduct of foreign relations, harm the country’s financial stability, endanger another person’s life, or for information relating to pending law enforcement investigations. The law also limits disclosure of personal information to third parties.</p>
+<p>All states have laws complying with the 2007 constitutional reforms regarding access to information and have formal agreements with the Federal Institute of Access to Public Information to make the information system on government operations, Infomex, available for petitions for state government information.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section5"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were somewhat cooperative and responsive to their views, and the president met with human rights organizations such as Amnesty International and the CNDH.</p>
+<p><u>The United Nations or Other International Bodies</u>: The United Nations and NGOs reported continued harassment of human rights defenders, including by state and municipal authorities. As of August 31, the CNDH had received 34 complaints of aggression against human rights activists and two requests for protection. A July 2013 report by the Office of the UN High Commissioner for Human Rights documented 89 aggressions against human rights activists between November 2010 and December 2012, although it acknowledged the number might be higher based on other independent figures showing 153 cases of aggressions between May 2012 and May 2013 (53 more than between 2011 and 2012). In response to threats, human rights defenders routinely were forced to move from their homes and communities. The UN report noted impunity in many of these cases created an environment that invited new and repeat attacks on human rights defenders.</p>
+<p>In late October the IACHR issued precautionary measures urging the government to undertake efficient measures to find the 43 students who disappeared in Iguala, Guerrero, on September 27 (see section 1.a.). In November the IACHR signed a technical agreement with the government to help with the government’s search efforts.</p>
+<p><u>Government Human Rights Bodies</u>: The CNDH is an autonomous federal agency created by the government and funded by the legislature to monitor and act on human rights violations and abuses. It can call on government authorities to impose administrative sanctions or pursue criminal charges against officials, but it cannot impose legal sanctions itself. Whenever the relevant authority accepts a CNDH recommendation, the CNDH is required to follow up with the authority to verify that it is carrying out the recommendation. The CNDH sends a request to the authority asking for evidence of its compliance and includes this follow-up information in its annual report. When authorities fail to accept a recommendation, the CNDH makes that known publicly and may exercise its power to call government authorities who refuse to accept or enforce its recommendations before the Senate. NGOs and international organizations often drew attention to the failure of an institution to comply with or even accept the CNDH recommendations.</p>
+<p>On August 18, the federal government published administrative guidelines directing compliance by federal agencies that receive CNDH recommendations. The measures instruct the SEGOB to monitor agency responses to CNDH recommendations, including timetables for compliance and updates to the electronic tracking system managed by SEGOB, which will be available in a public version.</p>
+<p>Each of the country’s 31 states plus the Federal District has a state human rights commission. The state-level commissions, whose effectiveness varied, are autonomous from the state governments and at times worked with the CNDH to investigate human rights complaints against state and local authorities. The CNDH can take over cases from state-level commissions if it receives a complaint the commission is not adequately investigating the case.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section6"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law prohibits discrimination based on race, gender, disability, language, or social status. While the government made some progress enforcing these provisions, significant problems, particularly violence against women, persisted.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The federal law criminalizes rape, including spousal rape, and imposes penalties of up to 20 years’ imprisonment. Twenty-three states and the Federal District have laws criminalizing spousal rape. According to the United Nations and NGOs, rape survivors rarely filed complaints, in part because of the authorities’ ineffective and unsupportive approach to survivors, fear of publicity and associated social stigma, fear of retribution, and a perception that prosecution of cases was unlikely. Human rights organizations asserted authorities did not take seriously reports of rape, and victims continued to be socially stigmatized and ostracized.</p>
+<p>Forced disappearances and sexual violence continued to be a problem along the border region.</p>
+<p>The federal penal code prohibits domestic violence and stipulates penalties between six months’ and four years’ imprisonment. Twenty-eight states and the Federal District stipulated similar penalties, although actual sentences were often more lenient. Federal law does not criminalize spousal abuse. State and municipal laws addressing domestic violence largely fail to meet the required federal standards and often were unenforced, although states and municipalities, especially in the north, were beginning to prioritize domestic violence-related training.</p>
+<p>Victims of domestic violence in rural and indigenous communities often times did not report abuses due to fear of spousal reprisal, stigma, and societal beliefs abuse did not merit a complaint. There were no authoritative government statistics available on the number of abusers prosecuted, convicted, or punished. According to the most recent National Survey on Household Relations, conducted in 2011, 46 percent of women age 15 and older were in their lifetimes subject to violence by their partner, with the incidence ranging from 30 percent in Chiapas to 57 percent in the state of Mexico.</p>
+<p>Femicide - the killing of a woman based on her gender - is a federal offense punishable by 40 to 60 years in prison. By December 2013 all 31 states and the Federal District added femicide to their criminal codes. The NGO National Femicide Observatory estimated approximately 2,300 cases of femicide took place, only 572 of which were investigated as femicides.</p>
+<p>The Special Prosecutor’s Office for Violence against Women and Trafficking in Persons of the PGR is responsible for leading government programs to combat domestic violence and prosecuting federal human trafficking cases involving three or fewer suspects. The office had 40 federal prosecutors dedicated to federal cases of violence against women, approximately 15 of whom specialized in trafficking countrywide.</p>
+<p>The government funded at least in part approximately 70 shelters for women and their children. Shelters were mostly for survivors of gender-based violence, but the PGR operated one government shelter with a focus on adult sex-trafficking survivors. According to the National Network of Shelters, shelter staff were professional and the shelters well equipped, but there was a high turnover of personnel because government funding typically covered shelter operations for only eight months. Civil society and women’s rights groups maintained numerous shelters as well.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The constitution prohibits mutilation, and FGM/C was virtually nonexistent in the country.</p>
+<p><u>Sexual Harassment</u>: Federal labor law prohibits sexual harassment and provides for fines from 250 to 5,000 times the minimum daily wage. Sexual harassment is explicitly criminalized in 15 of 31 states and the Federal District, and all states have provisions for punishment when the perpetrator is in a position of power. According to the National Women’s Institute (INMUJERES), the federal government institution charged with directing national policy to achieve equality of opportunity between men and women, sexual harassment in the workplace was a significant problem, but victims were reluctant to come forward, and cases were difficult to prove.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the legal right to decide the number, spacing, and timing of their children and sometimes have the information and means to do so. Couples have the legal the right to attain the highest standard of reproductive health, free from discrimination. Despite the existence of a national family planning program, the lack of comprehensive sex education and access to contraceptives in public hospitals and rural areas continued to undermine the government’s stated commitment to reproductive rights. In a study released in February 2013 by SEGOB, the National Commission to Prevent and Eradicate Violence against Women reported 27 percent of indigenous women who underwent sterilization procedures provided by public health services were sterilized after doctors consulted with only the woman’s partner and not the woman herself. According to the Population Reference Bureau, 66 percent of married women ages 15-49 used a modern method of contraception. Skilled attendants at delivery and in postpartum care were widely available except in some rural indigenous areas.</p>
+<p>In the cases of two indigenous women denied adequate obstetric care by a clinic in Oaxaca in 2013, the CNDH issued recommendations during the year directing the state government to make reparations to both women.</p>
+<p><u>Discrimination</u>: The law provides women the same rights and obligations as men and “equal pay for equal work performed in equal jobs, hours of work, and conditions of efficiency.” According to INMUJERES, women continued to earn between 5 and 30 percent less than men for comparable work, whereas the World Economic Forum reported women earned 43 percent less than men for comparable work. According to the 2011 National Survey on Household Relations, 21 percent of women said they had experienced discrimination in the workplace in the past year; this figure likely underreported the problem. Women were more likely to experience discrimination in wages, working hours, and benefits. The law provides labor protection for pregnant women. According to the Information Group on Reproductive Rights, some employers reportedly violated the law by requiring pregnancy tests in pre-employment physicals and by continuing to make inquiries into a woman’s reproductive status. INMUJERES reported 14 percent of women age 15 and older had been required to take a pre-employment pregnancy test to obtain employment, despite labor laws that prohibit employers from requiring such tests. The illiteracy rate for women living in urban areas was 5 percent, compared with 18 percent for women living in rural areas. In all but two states (Sinaloa and Sonora), women had lower literacy rates than men.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived both by birth within the country’s territory and from one’s parents. Citizens generally registered the birth of newborns with local authorities. In some instances government officials visited private health institutions to facilitate the process. Failure to register births could result in the denial of public services, such as education or health care. According to the report of the UN Children’s Fund (UNICEF), <i>The State of the World’s Children 2014 in Numbers</i>, 93 percent of children in the country were registered, while the Child Rights Information Network found that 30 percent of children under age five were not registered. States with large rural and indigenous populations, such as Chiapas, Guerrero, Oaxaca, and Puebla, had lower registration rates.</p>
+<p><u>Child Abuse</u>: According to data released by the CNDH in April 2013, the number of child abuse cases reported increased by 266 percent between 2006 and 2012. During this period the CNDH reported receiving 10,727 complaints alleging child abuse. In 2012 alone the CNDH reported receiving 2,660 child abuse grievances, compared with 816 such complaints in 2006.</p>
+<p><u>Early and Forced Marriage</u>: The minimum marital age is 14 for girls and 16 for boys with parental consent, and 18 without parental consent. With a judge’s consent, children can be married at younger ages. According to UNICEF, 5 percent of individuals were married by age 15 and 23 percent by age 18.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The constitution prohibits mutilation, and FGM/C was virtually nonexistent in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits the commercial sexual exploitation of children, but NGOs continued to report sexual exploitation of minors, as well as child sex tourism in resort towns and northern border areas, were significant problems.</p>
+<p>Statutory rape constitutes a crime in the federal criminal code. If an adult who has sexual relations with a minor between 15 years and 18 years of age, the penalty is between three months and four years in prison. An adult who has sexual relations with a minor under age 15 is liable to a penalty ranging from eight to 30 years in prison. Laws against corruption of a minor and child pornography apply to victims under 18 years of age. For the crimes of selling, distributing, or promoting pornography to a minor, the law stipulates a prison term of six months to five years and a fine of 300 to 500 times the daily minimum wage. For crimes involving minors in acts of sexual exhibitionism or the production, facilitation, reproduction, distribution, sale, and purchase of child pornography, the law mandates seven to 12 years in prison and a fine of 800 to 2,500 times the daily minimum wage.</p>
+<p>Perpetrators who promote, publicize, or facilitate sexual tourism involving minors face seven to 12 years imprisonment and a fine of 800 to 2,000 times the daily minimum wage. For those involved in sexual tourism who commit a sexual act with a minor, the law requires a 12-year to 16-year prison sentence and a fine of 2,000 to 3,000 times the daily minimum wage. The crime of sexual exploitation of a minor carries an eight-year to 15-year prison sentence and a fine of 1,000 to 2,500 times the daily minimum wage. The crimes of child sex tourism and prostitution of children do not require a complaint to prosecute and can be based on anonymous information.</p>
+<p>There were some complaints about the complexity of the application of the laws. The lack of legislative harmonization between the general trafficking-in-persons law and the federal criminal code allowed defendants to obtain lower sentences or be acquitted for arguing their cases were not tried under the appropriate legal framework. In addition there were differences in laws and enforcement across the country’s municipalities, and specialized services for child victims of sexual exploitation were often lacking.</p>
+<p>On May 26, Guadalajara adopted the National Code of Conduct for the Protection of Children and Adolescents against Child Sexual Exploitation, a voluntary self-regulatory instrument put forward by the Secretariat of Tourism, through which companies and government institutions commit to detecting and preventing child prostitution in the tourist sector.</p>
+<p><u>Institutionalized Children</u>: The NGO Disability Rights International (DRI) continued to express grave concerns regarding violations of the rights of children with mental and physical disabilities in orphanages and care facilities.</p>
+<p><u>International Child Abductions</u>: The country is party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html"><u>travel.state.gov/content/childabduction/english/legal/compliance.html</u></a><u> </u>and country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/mexico.html"><u>http://travel.state.gov/content/childabduction/english/country/mexico.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>According to the 2010 census, the Jewish community numbered approximately 67,000 persons, 90 percent of whom lived in Mexico City. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, and the provision of other services. The government did not effectively enforce the law. Federal authorities, including the Council for Development and Inclusion of Persons with Disabilities, CNDH, and National Council to Prevent Discrimination, worked in support of the country’s efforts to carry out its obligations under the UN Convention on the Rights of Persons with Disabilities.</p>
+<p>Although the Law for the Inclusion of People with Disabilities attempts to bring the country into compliance with the Convention on the Rights of Persons with Disabilities, the DRI claimed the law fails to establish new opportunities for community integration. The DRI noted under the law the ministry of health is required to promote the creation of long-term institutions for persons with disabilities in distress, and the ministry of social development must establish specialized institutions to care for, protect, and house persons with disabilities in poverty, neglect, or marginalization. As such, the DRI noted the law does not recognize the right of a person with disabilities to live in the community.</p>
+<p>A January 2013 government decree regarding various mental health provisions of the general health law directs mental health care be “provided with a focus on community and psychosocial rehabilitation as well as strict respect for human rights.” The decree requires mental health-care treatment to include “the reintegration of the person through the creation of social and welfare programs such as protected homes and workshops for the proper care of these patients.” The DRI noted the changes represented positive signs that the country’s mental health services were moving from an institution-based to a community-based mental health system. For the first time in law, there is a provision for independent monitoring of health establishments, in which independent experts monitor human rights conditions for persons with mental and behavioral disabilities treated in health facilities. The DRI reported no changes in the mental health system to create community services nor any efforts by authorities to have independent experts monitor human rights violations in psychiatric institutions.</p>
+<p>Public buildings and facilities continued to be in noncompliance with the law requiring access for persons with disabilities. The education system provided special education for students with disabilities nationwide. Children with disabilities attended at a lower rate than those without disabilities.</p>
+<p>Human rights abuses in mental health institutions and care facilities across the country, including those for children, continued to be a problem. Abuses of persons with disabilities included lack of access to justice, the use of physical and chemical restraints, physical and sexual abuse, disappearances, and illegal adoption of institutionalized children. Institutionalized persons with disabilities often lacked adequate privacy and clothing and often ate, slept, and bathed in unhygienic conditions. They were vulnerable to abuse from staff members, other patients, or guests at facilities where there was inadequate supervision. Documentation supporting the person’s identity and origin was lacking, and there were instances of disappearances.</p>
+<p>In August, for instance, observers noted poor conditions at a center of social assistance and integration in the Federal District for men with psychosocial disabilities.</p>
+<p>A supreme court ruling remained pending in the 2013 case of Ricardo Adair, a 25-year-old with Asperger syndrome who a judicial review determined was unable to make decisions on his own. In an amicus curiae brief, the DRI and other human rights entities urged the court to recognize the right of persons with psychosocial disabilities to make decisions for their own care.</p>
+<p>Persons with disabilities have the right to vote and participate in civic affairs. Voting centers for federal elections are generally accessible for persons with disabilities, and ballots are available with a braille overlay for federal elections. In Mexico City voting centers were also reportedly accessible for local elections and braille overlays were available, but in local elections elsewhere in the country, the accessibility for voting centers and the availability of braille ballots or overlays was inconsistent.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>Although the law recognizes indigenous rights, indigenous groups continued to report the country’s legal framework did not respect the property rights of indigenous communities or prevent violations of those rights. Communities and NGOs representing indigenous groups continued to report the government failed to consult indigenous communities adequately when making decisions about the implementation of development projects on indigenous land. Consultation with indigenous communities regarding the exploitation of energy, minerals, timber, and other natural resources on indigenous lands remained limited.</p>
+<p>The CNDH reported indigenous women were among the most vulnerable groups in society. They experienced racism, discrimination, and violence. Indigenous persons generally had limited access to health and education services. The CNDH stressed past government actions to improve the living conditions of indigenous people, namely social programs geared specifically to women, were insufficient to overcome the historical marginalization of indigenous populations. As of August 31, the CNDH Program for Promotion and Dissemination of Human Rights for Indigenous Peoples had held 412 outreach and training activities with the participation of 25,276 individuals, including conferences, training for public officials and prison personnel, interagency workshops, and outreach in indigenous communities.</p>
+<p>The Oaxaca state attorney general’s investigation into the July 2013 killing of indigenous rights activist Heron Luciano Sixto Lopez, in San Sebastian Tecomaxtlahuaca, Oaxaca, continued at year’s end.</p>
+<p>The law provides for educational instruction in the national language, Spanish, without prejudice to the protection and promotion of indigenous languages, but many indigenous children spoke only their native languages. The lack of textbooks and teaching materials, as well as the lack of qualified teachers fluent in these languages, limited education in indigenous languages. According to the United Nations, parents of 25 percent of indigenous girls denied their daughters the opportunity to go to school.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against LGBT individuals, but LGBT persons reported the government did not always investigate and punish those complicit in abuses. Discrimination based on sexual orientation and gender identity was prevalent, despite a growing public acceptance of LGBT individuals.</p>
+<p>On September 1, Coahuila became the first state after the Federal District to legalize same-sex marriage following the approval of a slate of reforms to state’s civil code by the local congress. The reforms give same-sex married couples the same rights and obligations as heterosexual couples, including access to social security, bank credits, and adoption. Additionally, the reform allows couples (heterosexual or same-sex) who have been cohabitating for at least three years to receive the same benefits as married couples, provided the couple have legal standing and no legal impediments to getting married.</p>
+<p>In June the Tecnologico de Monterrey (TEC), one of the country’s most prestigious universities, inaugurated its first LGBT student association. TEC previously prohibited formation of such student groups.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>There continued to be reports of kidnapping of undocumented migrants by criminal groups to extort money from migrants’ relatives or force them into committing criminal acts on their behalf.</p>
+<p>Self-defense groups - groups of armed civilians that claimed to fight crime - continued to proliferate in the first part of the year. These groups were concentrated in the southwestern states of Michoacan and Guerrero and emerged most frequently in small towns without a local police force and significant crime problems. Some groups called themselves “community police” and others “self-defense groups.” In January the federal government required self-defense groups based in Michoacan to register with the country’s official rural defense force, but many members of self-defense groups did not join the force by the May registration deadline. Self-defense forces that chose not to take part or were excluded from the process continued to operate in the region, with one rogue group taking over a town near the port of Lazaro Cardenas in late June. The illegal armed groups engaged in several violent confrontations during the year, including a December 16 shootout that left 11 dead.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section7"> </span><span class="st_twitter" st_title="Mexico #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Mexico - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236702%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of workers to form and join unions, to bargain collectively, and to strike in both the public and private sectors. The law requires a minimum of 20 workers to form a union and requires official recognition from the government to register the union. A union established in accordance with its own bylaws may call for a strike or bargain collectively. Before a strike may be considered legal, a union must file a “notice to strike” with the appropriate labor authorities. The law prohibits employers from intervening in union affairs or interfering with union activities, including through implicit or explicit reprisals against workers. The law allows for reinstatement of workers if the labor board finds the worker was unfairly fired and the worker requests reinstatement.</p>
+<p>Although the law authorizes the coexistence of several unions in one worksite, it sets rules on which union has priority and limits collective bargaining to the union that has “leadership” or “ownership” of a collective bargaining agreement. Generally, authorities grant “leadership” or “ownership” to the union with the largest number of workers. Authorities can call a vote to verify the number of union members. The fact that only one union legally is recognized to negotiate for all workers effectively shuts out all but one union and prevents meaningful negotiations when that one union is a company-controlled union. It is not mandatory for a union to consult with workers or have worker support in order to sign a first collective contract with an employer. The law establishes internal union leadership votes may be held via secret ballot, either directly or indirectly.</p>
+<p>The government did not consistently protect worker rights. Its general failure to enforce labor and other laws left workers with little recourse regarding violations of freedom of association, poor working conditions, or other problems. By law penalties for violations of freedom of association and collective bargaining laws range from 16,160 pesos ($1,205) to 161,604 pesos ($12,050). Such penalties were rarely enforced and were insufficient to deter violations of these laws. Administrative and/or judicial procedures were subject to lengthy delays and appeals. To reduce backlogs and time to issue a ruling, some states began implementing oral trials at their labor boards.</p>
+<p>The process for official government recognition of unions was politicized, and the government occasionally used the process to reward political allies or punish political opponents. According to union organizers, government labor boards frequently rejected registration applications for new locals of independent unions and for new unions on technicalities. In addition independent union activists claimed the requirement that the government approve strikes in advance gave authorities the power to show favoritism by determining which companies would be protected from strikes. As a result, few formal strikes occurred, but protests and informal work freezes were common.</p>
+<p>For instance, at one company in Reynosa, Tamaulipas, approximately 120 workers filed a notice to strike when they learned of the sale of their workplace to another company and feared they would lose seniority and accumulated rights. The local labor board refused their filing to strike and informed workers that - without their knowledge - they had a collective bargaining agreement already in place. In July, 400 workers at the factory went on an unapproved strike. The sale nevertheless proceeded, and the workers who struck were told they could come back to work with no loss in seniority or accept final payment and dismissal.</p>
+<p>Protection (company-controlled) unions continued to be a problem in all sectors, and many observers noted working conditions of a majority of workers were under the control of those unrepresentative unions. Officially sanctioned “protection contracts” - formal agreements whereby the company creates an unrepresentative union in exchange for labor peace and other concessions - were common in all sectors and often prevented workers from fully exercising their labor rights as defined by law. These contracts often were developed before the company hired any workers and without direct input from workers. Collective bargaining agreements resulting from protection contracts usually failed to provide worker benefits beyond the legal minimum and impeded the rights of independent unions to effectively and legitimately bargain collectively on behalf of workers.</p>
+<p>For example, workers at several plants in the state of Coahuila reportedly contacted the independent union Los Mineros and stated their desire to become members. In each of these cases, however, the companies had signed collective agreements with the Confederacion de Trabajadores de Mexico (CTM), the largest confederation of labor unions, without the knowledge or ratification of the workers. Although a majority of workers in each plant signed affiliation cards with Los Mineros, the Coahuila labor board refused to set a date for a bargaining rights election or provide copies of the existing collective bargaining agreements between the companies and the CTM.</p>
+<p>According to several NGOs and unions, many workers continued to face intimidation during bargaining-rights elections from other workers, union leaders, violent individuals hired by a company, or employers favoring a particular union. Some employers attempted to influence bargaining-rights elections through the use of thugs to threaten employees or through pseudo-employees inserted by the employer to boost membership counts on the company-controlled union’s registry. In one example there was a strike at a factory in Monclova, Coahuila, that led to a call for a bargaining-rights election. The original strike, over the annual profit-sharing bonus and the firing of four workers who had claimed the bonus was below what it should legally have been, took place at the beginning of the year and involved approximately 800 workers. The workers agreed to go back to work on several conditions, including a bargaining rights election would be held. On April 21, approximately 100 individuals believed to be affiliated with the CTM attacked workers and union organizers. On April 25, the company signed an agreement with the workers to reinstate the four workers, pay them the agreed-upon amount of annual profit sharing, and respect the workers’ right to hold a bargaining-rights election. At year’s end the date for the election had not been set.</p>
+<p>Other intimidating and manipulative practices such as providing very limited notice prior to an election and allowing management or nonemployees to vote were increasingly common. A local NGO reported in early September workers began an informal work stoppage at a factory in Torreon. On September16, while en route to the local labor board to file for the right to strike formally, another car hit the vehicle carrying the workers’ leaders in what appeared to be an intentional collision to intimidate the labor organizers and prevent them from filing for the right to strike. Following their informal work stoppage, however, workers received appropriate compensation for overtime work, and the food at the factory improved.</p>
+<p>Despite a decision by the supreme court that voice votes are illegal, the practice was still used. It is not mandatory that the workers elect union leadership directly, and in most cases, according to experts in industrial relations and employees who had experienced the process, workers forming a union did not know whether there is already a union in place that has been registered with the government. Union organizers from several sectors complained about the overt and usually hostile involvement of the government when organizers attempted to create independent unions not controlled by the employer.</p>
+<p>Workers were excluded from officially registered unions for trying to organize their colleagues into separate, independent unions. The “exclusion clause” gives officially registered unions the right to prevent the formation of a competing authentic union by demanding an employer hire only workers affiliated with that union, although employers no longer have authority to fire a worker because the worker has resigned or been expelled from the union. In spite of this, workers were fired for their union sympathies. For instance, in June at a factory in Matamoros, Tamaulipas, 300 workers stopped work to demand the company allow them to leave the employer-established union and join Los Mineros. The company responded by firing the entire workforce and filed criminal complaints against the union leaders.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits all forms of forced or compulsory labor, the government did not effectively enforce the law. Penalties for forced labor violations range from five to 30 years imprisonment; such penalties were generally considered sufficient.</p>
+<p>Forced labor persisted in the agricultural and industrial sectors, as well as in the informal sector. Women and children were subject to domestic servitude. Migrants, including men, women, and children, were the most vulnerable to forced labor.</p>
+<p>After a report in early June in national media about forced labor conditions in Baja California Sur’s fields, several institutions, including the Senate and the Baja California Sur state legislature, demanded the government conduct an investigation. The reports indicated the exploited workers included men, women, and children who were hired under false pretenses and retained against their will. Some of the workers who escaped claimed authorities took no action to address the situation despite the workers’ formal complaints. There were calls for federal and state authorities, the CNDH, the local human rights commission, and the Permanent Human Rights and Indigenous Affairs Committee to investigate the alleged abuses.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>In June the government enacted a constitutional reform to prohibit children under the age of 15 from working. The constitution allows those between the ages of 15 and 17 years to work no more than six daytime hours in nonhazardous conditions, and only with parental permission. The law includes a broad list of hazardous and unhealthy occupations from which minors are prohibited.</p>
+<p>According to sources, including the International Labor Organization (ILO), government enforcement was reasonably effective in enforcing these laws in large and medium-sized companies, especially factories run by U.S. companies, the “maquila” (in-bound export) sector, and other industries under federal jurisdiction. Enforcement was inadequate in many small companies and in the agriculture and construction sectors, and nearly absent in the informal sector, in which most child laborers worked.</p>
+<p>Complex divisions and a lack of coordination between federal and state jurisdictions continued to complicate the labor inspection process. At the federal level, the Secretariat for Social Development, PGR, and National System for Integral Family Development have responsibility for enforcement of some aspects of child labor laws or intervention in cases where such laws are violated. The Secretariat of Labor and Social Security (STPS) is responsible for carrying out child labor inspections. In an effort to strengthen coordination between federal and state governments, as well as the different government agencies, a presidential decree issued in June 2013 created the Federal Inter-Agency Commission for the Eradication of Child Labor and Protection of Adolescent Workers of Legal Age. There was some progress during the year in labor inspections, which included developing and implementing a labor inspection protocol on child labor and protection of adolescent workers of legal age and on-line training for inspectors. Among other things, the commission oversaw establishing the protocol, planning, and development of forums on child labor and legal-age adolescent workers and the establishment of the National Program to Prevent and Eradicate Child Labor and the Protection of Adolescent workers of Legal Age. The states of Mexico and Veracruz also had local interagency commissions.</p>
+<p>Penalties for violations range from 16,783 pesos ($1,250) to 335,848 pesos ($25,060) but were not applied sufficiently to deter violations.</p>
+<p>In February the Jalisco state government rescued 27 child laborers between the ages of five and 14 years who were working on a berry farm for 20 pesos ($1.50) per day in southeastern Jalisco.</p>
+<p>The federal government, the government of Veracruz, and the sugarcane industry continued to work to address child labor in the state’s agricultural industry as part of the cooperation agreement signed with the ILO in 2012. The ILO’s International Program on the Elimination of Child Labor and the System of Productivity Measurement and Progress worked with sugarcane producers to develop corporate social responsibility programs to improve the safety, welfare, and future of the children and families of cane cutters.</p>
+<p>In August the government, in collaboration with MTV Latinoamerica, the ILO, the Panamerican Development Foundation, Viacom International, Telefonica Foundation, and Altos Hornos de Mexico, launched the campaign entitled “Mexico without Child Labor,” aimed at creating awareness against child labor. The campaign was released during the MTV Millennial Awards. The STPS continued its “Free of Child Labor Agricultural Company” certification to recognize those companies against child labor, promote the protection of working children, and foster education of workers’ children.</p>
+<p>According to the INEGI survey on child labor, the number of employed children between the ages of five and 17 years remained at 2.5 million, or approximately 8.6 percent of the 29.3 million children in the country. Of these children, 746,000 were between the ages of five and 13 years, and 1.8 million were between the ages of 14 and 17 years. Of employed children, 30 percent worked in the agricultural sector in the harvest of melons, onions, sugarcane, tobacco, and tomatoes. Other sectors with significant child labor included services (25 percent), retail sales (26 percent), manufacturing (13 percent), and construction (4 percent).</p>
+<p>The CTM reported 60,000 child laborers between the ages of seven and 12 years worked in Coahuila. Coahuila relied on governmental organizations including the System for the Integral Development of the Family, the STPS, and the Inter-Institutional Commission for the Prevention and Eradication of Child Labor to monitor child labor conditions. Additionally, a number of private organizations played a vital role in monitoring child labor, serving as a resource in Coahuila to reach out to children in vulnerable situations where their parents or caretakers forced them to work. According to the Children’s House of Saltillo, most of the child workers came from “precarious” family situations that required them to earn a significant portion of the family’s income, sacrificing schooling in an effort to garner a meager salary.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination with respect to employment or occupation regarding ethnic origin, gender, age, disability, health, social and migratory conditions, religion, opinion, sexual orientation, or social status. The government effectively enforced these laws and regulations. Nevertheless, discrimination in employment or occupation occurred against women, indigenous groups, persons with disabilities, LGBT persons, and migrant workers (also see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>Beginning January 1, the minimum wage was set at 67.29 pesos ($5.00) per day for geographic Zone A and 63.77 pesos ($4.75) per day for geographic Zone B. Zone A comprises all major cities and entry ports, while Zone B covers all other municipalities. Most formal sector workers received between one and three times the minimum wage. The National Council for Evaluation of Social Development Policy estimated the poverty line at 83.70 pesos ($6.25) per day for the year.</p>
+<p>The law sets six eight-hour days and 48 hours per week as the legal workweek. Any work more than eight hours in a day is considered overtime, for which a worker receives double the hourly wage. After accumulating nine hours of overtime in a week, a worker earns triple the hourly wage. The law prohibits compulsory overtime. The law includes eight paid public holidays and one week of paid annual leave after completing one year of work. The law requires employers to observe occupational safety and health regulations, issued jointly by the STPS and the Institute for Social Security. Legally mandated joint management and labor committees set standards and are responsible for overseeing workplace standards in plants and offices. Individual employees or unions may complain directly to inspectors or safety and health officials. By law workers can remove themselves from situations that endanger health or safety without jeopardy to their employment.</p>
+<p>The STPS is responsible for enforcing labor laws and conducting inspections at workplaces. Early in the year, the STPS was authorized to hire 20 additional inspectors (compared with the 179 who were hired in 2013), setting the total number of labor inspectors nationwide at 946. The STPS carried out regular inspections of workplaces, using a questionnaire and other actions to identify victims of labor exploitation. Between January and July, it carried out 83,457 inspections of 63,191 workplaces, including the monitoring of industries identified as having a high incidence of child labor (agriculture, coalmines, and construction). In the first quarter, the government inspected 323 mines, of which 253 were in coalmines. Penalties for violations of wage, hours of work, or occupational safety and health laws range from 17,332 pesos ($1,290) to 335,941 pesos ($25,070) and were sufficient to deter violations.</p>
+<p>In April 2013 the STPS created “DECLARALAB,” a self-evaluation tool to determine the level of compliance of safety levels prevailing in registered workplaces. During the year 23 of those workplaces received technical assistance from the STPS to meet labor regulations. Through the first quarter, only 478 workplaces were registered.</p>
+<p>According to labor rights NGOs, employers in all sectors sometimes used the illegal “hours bank” approach - requiring long hours when the workload is heavy and cutting hours when it is light - to avoid compensating workers for overtime. In addition many companies evaded taxes and social security payments by employing workers informally. INEGI estimated 59 percent of the workforce was engaged in the informal economy.</p>
+<p>According to a professor at El Colegio de la Frontera Norte and the Human Rights Commission of Villa Juarez, agricultural employers in the northwestern states of Sinaloa, Baja California, and Sonora subjected indigenous women to severe labor violation. The Human Rights Commission of Villa Juarez denounced the cramped, unventilated living quarters and the absence of medical and emergency services for laborers in Sinaloa. It noted the typical workday began at 4 a.m., with women in particular suffering abuse, violence, and lack of access to health care. Employers gave workers only 15-minute lunch breaks and did not provide meals or shelter from the heat and insects. Workers claimed salaries amounted to no more than 79.70 pesos ($5.95) per day for more than eight hours of work, and inspections by federal authorities of the agricultural fields did not result in sufficient sanctions to inhibit labor violations.</p>
+<p>Private recruitment agencies and individual recruiters violated the rights of large numbers of temporary migrant workers who were recruited in the country to work abroad, primarily in the United States. These agencies were often unregistered, and the government failed to monitor or control the recruitment process. Temporary migrant workers regularly were charged illegal recruitment fees. Those who demanded their rights were placed on blacklists and barred from future employment opportunities. The Sinaloa Guest Workers Coalition (Coalicion de Trabajadoras y Trabajadores Temporales Sinaloenses) formed in October 2013 and represented the first step in the collective organizing of migrant guest workers. The coalition and the NGO Proyecto de Derechos Economicos, Sociales, y Culturales, or ProDESC, took several actions in the defense of temporary migrant workers’ rights, including the filing of a collective criminal complaint for recruitment fraud.</p>
+<p>There were several complaints of poor working conditions in maquiladoras. Low wages, poor labor relations, long work hours, unjustified dismissals, the lack of social security benefits, unsafe workplaces, and the lack of freedom of association were among the most common complaints. The National Commission to Prevent and Eradicate Violence against Women reported 45 percent of women working in the maquila industry suffered some type of violence, most commonly a hostile work environment, sexual harassment, long work hours, low wages, and dismissal for pregnancy. Most maquilas hired employees through outsourcing with few social benefits.</p>
+<p>The mining industry continued to register safety-related accidents. On August 6, 10 million gallons of mining process waste escaped from a containment basin of a mine in Sonora. The CNDH investigated the industrial accident and its impact on the local population.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

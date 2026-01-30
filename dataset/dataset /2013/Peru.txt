@@ -1,0 +1,634 @@
+2013
+Peru
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465"> </span><span class="st_facebook" st_title="Peru" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220465">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220465</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li>
+<a href="#section1guse">g. Use of Excessive Force and other Abuse in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=executive"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 3/11/14; see Appendix H: Errata for more information.</em></p>
+<p>Peru is a constitutional, multi-party republic. Ollanta Humala Tasso of the Peruvian Nationalist Party (part of the Gana Peru electoral alliance) won the June 2011 national elections in a vote widely considered free and fair. Security forces reported to civilian authorities and committed some human rights abuses.</p>
+<p>The most serious human rights problems included violence against women and children, trafficking in persons, and corruption that undermined the application of the law.</p>
+<p>The following human rights problems also were reported: harsh prison conditions, abuse of detainees and inmates by prison security forces, lengthy pretrial detention and inordinate trial delays, intimidation of the media, limits on religious freedom, incomplete registration of internally displaced persons (IDPs), discrimination against women, and socio-environmental conflicts that frequently turned violent. There also was discrimination against individuals with disabilities, members of racial and ethnic minority groups, indigenous persons, lesbian, gay, bisexual, and transgender persons, and persons with HIV/AIDS. Other problems were a lack of labor law enforcement and the exploitation of child labor, particularly in informal sectors.</p>
+<p>The government took steps to investigate, and in some cases prosecute or otherwise punish, public officials who committed abuses. Officials sometimes engaged in corrupt practices with impunity.</p>
+<p>The terrorist organization Sendero Luminoso (Shining Path) was responsible for killings and other human rights abuses, including kidnapping and forced recruitment of child soldiers, extortion, and intimidation.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section1"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>The government or its agents did not commit any politically motivated killings; however, during a July 3 social protest in Lima, security forces killed one protester and injured five others. On July 15, the Prosecutor’s Office opened an investigation to determine if the case merited formal prosecution. The decision remained pending as of September. The Ministries of Interior and Defense investigate allegations of abuses by security forces.</p>
+<p>On July 31, the Supreme Court ruled that Eduardo Cruz Sanchez’s death during the 1997 rescue of hostages from the Japanese ambassador’s residence (the Chavin de Huantar case) was an extrajudicial execution. The court absolved three high-level officials (former intelligence chief Vladimiro Montesinos, former army commander Nicolas Hermoza Rios, and former army intelligence advisor Roberto Huaman Azcurra) of the accusation that they had ordered Cruz Sanchez’s death. The Inter-American Court of Human Rights accepted this case in 2011, but at year’s end hearings had not yet begun.</p>
+<p>On August 1, audio recordings appeared on YouTube of a May 2012 conversation among Juan Jimenez, then minister of justice; Pedro Cateriano, then the government’s legal representative for the Chavin de Huantar case; Cesar San Martin, then president of the Supreme Court; and Judge Carmen Rojjasi, one of the judges who ruled on the Chavin de Huantar case. Some observers suggested the recordings reflected government interference in the judicial process and attempts to influence the case’s outcome. On August 6, the Public Prosecutor’s Office determined that Jimenez’ actions did not merit prosecution. As of September the Public Prosecutor’s Office was reviewing the case to investigate who recorded the conversation. The nongovernmental organization (NGO) Pro-Human Rights Association (APRODEH) stated it would submit the recordings to the CIDH for review and consideration as evidence of judicial interference. At year’s end the CIDH had not released a decision about accepting the recordings.</p>
+<p>On August 9, the Supreme Court sentenced members of the Colina Group (a number of army officers accused of extrajudicial killings in the 1990s) and officials who directed the group. The court sentenced Vladimiro Montesinos, Nicolas de Bari Hermoza, Santiago Martin Rivas, Juan Rivero Lazo, Julio Salazar Monroe, and Carlos Pichilinguel to 25 years in prison for their responsibility in ordering the extrajudicial killings of 15 persons in Barrios Altos, Lima, in 1991. The court sentenced Jesus Sosa Saavedra, Nelson Carbajal, and Angel Pino Diaz to 20 years in prison and sentenced Federico Navarro and Fernando Rodriguez Zabalbeascoa to 15 years in prison for their roles in the extrajudicial killings. The court acquitted two members of the group: Alberto Pinto Cardenas and Pedro Santillan Galdos.</p>
+<p>On September 3, the Constitutional Tribunal ruled that a 1986 navy operation during which 133 Shining Path members were killed following an uprising in Lima’s El Fronton prison did not constitute a crime against humanity. APRODEH and the Ombudsman’s Office criticized the ruling as an example of impunity.</p>
+<p>In September a national court found army brigade commander Carlos Alberto Paz Figueroa and Colonel Yorvil Tavara Olea guilty of the 1990 disappearance of Professor Ruben Villanuava Toro in Huancavelica Region. They were sentenced to 15 years in prison and fined 100,000 new soles ($35,700).</p>
+<p>Retired army colonel Telmo Hurtado pled guilty in 2012 to the 1985 killing of 69 villagers in Accomarca, Ayacucho Region. In subsequent hearings Hurtado implicated other army officers as active participants in the crimes. At year’s end Hurtado remained in jail while his trial continued.</p>
+<p>Shining Path members conducted terrorist acts that resulted in killings and injuries of security forces and civilian deaths (see section 1.g.). Members of two Shining Path factions conducted 50 terrorist acts (including armed actions) in remote coca-growing areas that resulted in the killings of three soldiers, injuries to three police and three soldiers, and two civilian deaths in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) and the Upper Huallaga Valley (UHV) emergency zones. The two emergency zones were located in parts of Ayacucho, Cusco, Huancavelica, Huanuco, Junin, San Martin, and Ucayali regions.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances during the year.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices. Local NGOs, the International Rehabilitation Council for Torture Victims, and the UN Committee Against Torture (UNCAT) reported that torture continued to be a problem, primarily within the police force, and stated that the government did not effectively prevent and punish those who committed such abuses. While the government took some steps to provide access to rehabilitation services, local NGO Psychosocial Attention Center reported there were deficiencies in the system that needed improvement. On January 21, UNCAT issued a report stating that it received numerous reports of torture and mistreatment in custody by law enforcement and security officials. The committee expressed concern at the lack of thorough investigations and the small number of convictions. The committee also expressed concern that the fundamental legal safeguards for persons detained by police were not always respected and highlighted the lack of a specific registry for cases of torture and cruel, inhuman, or degrading treatment and punishment. The committee further expressed concern at reports about violence by law enforcement personnel in the context of apprehension and stated there appeared to be no regular assessments of cases of torture allegations based on the Istanbul Protocol of detained persons.</p>
+<p>One-third of the 144 victims prior to 2013 whose cases were being monitored by the local NGO Human Rights Commission (COMISEDH) died or suffered permanent physical disabilities as a result of torture. COMISEDH did not report any new cases of torture for the year. According to COMISEDH, many victims do not make formal complaints about their torture, and those who do have trouble obtaining judicial redress and adequate compensation.</p>
+<p>Allegations of abuse most often arose immediately following an arrest, when families were prohibited from visiting suspects and when attorneys had limited access to detainees. In some cases police and security forces threatened or harassed victims, relatives, and witnesses to prevent them from filing charges of human rights violations.</p>
+<p>A local NGO and the Ombudsman’s Office reported that police investigating a human trafficking case and responsible for custody of a 16-year-old trafficking victim on June 5-13 made inappropriate comments to the victim, drank alcohol while on duty with her, and asked her to go out to a bar with them, which the victim refused to do. The Ministry of Interior conducted an internal investigation and concluded there was no wrongdoing. As of September an Ombudsman’s Office investigation continued.</p>
+<p>In June 2012, during antimining protests in Cajamarca, national police used excessive force in a confrontation with human rights lawyers Genoveva Gomez, from the Ombudsman’s Office, and Amparo Abanto, from the National Human Rights Coordinator, who were monitoring the detention of protesters at the Cajamarca Regional Police Station. The public prosecutor archived the case on March 8, stating that the victims were unable to identify their aggressors. The Ombudsman’s Office appealed the decision on April 2. As of October the appeal had been accepted, and the case was re-opened for further investigation.</p>
+<p>In 2010 national police officers strangled Wilhem Calero, a suspected bank robber, during the car ride from the site of arrest to the local precinct. In October a court convicted Marcial Soria Serrano of the murder and sentenced him to 12 years in prison. Two officers present at the time of the murder received eight years in prison. Both the district attorney and the victim’s widow publicly asserted that the sentences were too lenient and planned to appeal.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions remained harsh for most of the country’s inmates. Overcrowding, poor sanitation, inadequate nutrition and health care, and corruption among guards were serious problems. Guards received little or no training or supervision.</p>
+<p><u>Physical Conditions</u>: As of August there were 65,181 prisoners, of whom 2,385 were women and 1,345 were teenagers ages 18-19. Men and women were not held together in the same facilities. Juveniles were not held in the same facilities as adults. The National Penitentiary Institute (INPE) operated 27 of the active prisons, the Peruvian National Police (PNP) had jurisdiction over nine, and 31 were operated jointly. Pretrial detainees were held temporarily in pretrial detention centers located at police stations, judiciary buildings, and the Palace of Justice, in most cases with convicted prisoners. As of August INPE records indicated that the national penitentiary system had 62,566 prisoners in 67 facilities that were originally designed for 29,617 prisoners. The San Juan de Lurigancho men’s prison held 8,395 prisoners in a facility designed for 3,204. The Sarita Colonia prison in Callao was built for 572 persons but held 3,117. Prisons for women also were overcrowded and marked by conditions similar to those for men. The Santa Monica women’s prison in Chorrillos was designed for 450 inmates but held 847.</p>
+<p>Nationwide, prison guards and fellow inmates reportedly abused prisoners. Inmates reportedly killed fellow inmates. Inmates had intermittent access to potable water, bathing facilities were inadequate, kitchen facilities were unhygienic, and prisoners often slept in hallways and common areas for lack of cell space. Prisoners with money had access to cell phones, illegal drugs, and meals prepared outside the prison; prisoners who lacked funds experienced much more difficult conditions.</p>
+<p>Basic medical care was available at most prisons, but there was a shortage of doctors, and inmates complained of having to pay for medical attention. Tuberculosis and HIV/AIDS reportedly remained at near-epidemic levels; the Ombudsman’s Office reported the incidence of tuberculosis was 50 times higher than outside the prisons, while the HIV/AIDS rate was more than eight times higher.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was adequate and up to date. The government did not use alternatives to prison sentencing for nonviolent offenders. Authorities allowed prisoners and detainees to submit complaints to judicial authorities without censorship and to request investigation of credible allegations of inhumane conditions. Authorities investigated such complaints and documented the results in a publicly accessible manner. The ombudsman reported that most complaints stemmed from the failure of authorities to release inmates on time due to delays in the judicial process or INPE procedures. The Ombudsman’s Office reported insufficient accessibility and inadequate facilities for prisoners with disabilities. Prisons lacked specialized medical equipment needed for disability care, such as wheelchairs and transferrable beds. Low accessibility to adequate psychological care for prisoners with mental health problems was also reported.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring visits by independent human rights and international humanitarian law observers. International Committee of the Red Cross officials made 20 unannounced visits to inmates in 12 prisons and detention centers and monitored individually 219 persons. As of September Ombudsman’s Office representatives made visits to 42 Lima and provincial prisons and four juvenile detention centers.</p>
+<p><u>Improvements</u>: On June 20, INPE invested approximately 16 million new soles ($5.7 million) to open a new prison in Juanjui, San Martin Region, with the capacity to hold 544 men and 30 women. By year’s end INPE reported security improvements in existing prisons totaling 32 million new soles ($11.4 million). These improvements included the acquisition of communication and inspection instruments, such as portable radios and metal detectors, as well as secure transport vehicles and arms.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions. Some arbitrary detentions during social protests occurred. The right to freedom from arrest without warrant was constitutionally suspended in designated emergency zones.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The PNP, with a force of approximately 108,000, is responsible for all areas of law enforcement and internal security except in the VRAEM emergency zone, where the military is responsible for internal security. The PNP functioned under the authority of the Ministry of Interior.</p>
+<p>The armed forces, with approximately 115,000 personnel, are responsible for external security under the authority of the Ministry of Defense but also have limited domestic security responsibilities, particularly in the VRAEM emergency zone.</p>
+<p>Corruption and a high rate of acquittals in civilian courts for military personnel accused of crimes remained problems (see section 4). The Ministries of Interior and Defense employed internal mechanisms to investigate allegations of abuses by security forces. The Public Ministry conducted investigations, although access to evidence held by the Ministry of Defense was not always forthcoming. The Ombudsman’s Office can also investigate cases and submit conclusions to the Public Ministry for follow-up.</p>
+<p>The Public Ministry is charged with witness protection responsibilities but lacked resources to provide training to prosecutors and police officers, conceal identities, and offer logistical support to witnesses.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law permits police to detain persons for investigative purposes. The law requires a written judicial warrant based on sufficient evidence for an arrest unless the perpetrator of a crime is apprehended in the act. Only judges may authorize detentions. Authorities are required to arraign arrested persons within 24 hours, except in cases of terrorism, drug trafficking, or espionage, for which arraignment must take place within 15 days; in remote areas arraignment must take place as soon as practicably possible. Military authorities must turn over persons they detain to the police within 24 hours. The law requires police to file a report with the Public Ministry within 24 hours after an arrest. The Public Ministry, in turn, must issue its own assessment of the legality of the police action in the arrest, and authorities respected this requirement.</p>
+<p>Judges have 24 hours to decide whether to release a suspect or continue detention, and this provision was respected. A functioning bail system exists, but many poor defendants lacked the means to post bail. By law detainees are allowed access to family members and a lawyer of their choice. Police may detain suspected terrorists incommunicado for 10 days. The Ministry of Justice provided indigent persons with access to an attorney at no cost, although these attorneys often had poor training. Some NGOs provided capacity-building training for attorneys.</p>
+<p><u>Arbitrary Arrest</u>: According to the local NGO National Human Rights Coordinator, on July 22 and 27, police arbitrarily detained 31 people protesting peacefully in Lima against a controversial congressional appointment of high-level government officials. Those detained were released after a few hours.</p>
+<p>In July 2012 authorities used force to detain Marco Arana, an environmental activist who protested against the Conga mining project in Cajamarca. Authorities stated that Arana was protesting during a state of emergency the government declared on July 4, 2012. Human rights advocates argued that the government did not formalize the state of emergency until July 5, 2012, after the arrest, and that Arana was arrested without a warrant. Arana alleged mistreatment while at the police station. The public prosecutor archived the case on April 8, and Arana presented a legal complaint on April 30 to reopen the case. As of September the complaint was pending review.</p>
+<p><u>Pretrial Detention</u>: Lengthy pretrial detention continued to be a problem. By June authorities had sentenced only 29,056 of the 65,181 persons held in detention facilities and prisons. According to INPE statistics, as of June approximately 55 percent of those in prison were awaiting trial, the majority for one to two years. Delays were due mainly to judicial inefficiency, corruption, and staff shortages. The law requires release of prisoners who have been held more than 18 months without being tried and sentenced; the period is extended to 36 months in complex cases. Under the new criminal procedure code (see section 1.e., Trial Procedures), the terms are nine months for simple cases and 18 months for complex cases.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary. NGOs and other analysts asserted that the judiciary often did not operate independently, was not consistently impartial, and was subject to political influence and corruption (see section 4). Authorities generally respected court orders from the judiciary.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for the right to a fair and public trial, and the judiciary sometimes enforced this right. The government continued the implementation, begun in 2006, of a new criminal procedure code designed to streamline the penal process. As of November the new code was in place in 23 of 31 judicial districts. It requires public hearings for each case and assigns the investigative responsibility to public prosecutors and police; judges are to cease their own investigating.</p>
+<p>All defendants are presumed innocent; they have the right to be informed promptly and in detail of the charges and to a fair and public trail without undue delay. They enjoy the right to communicate with an attorney of their choice or have one provided at public expense; however, state-provided attorneys often had poor training. Although citizens have the right to be tried in their own language, language services for non-Spanish speakers were sometimes unavailable. This deficiency primarily affected indigenous people living in the highlands and Amazon regions. Defendants have the right to adequate time and facilities to prepare a defense.</p>
+<p>Defendants generally had access to government-held evidence related to their cases. Exceptions reportedly occurred in some human rights abuse cases during the period 1980-2000 and particularly with respect to those involving the Ministry of Defense, because the government classifies those documents as secret and subject to disclosure limitations by law. Defendants enjoy the right to confront adverse witnesses and to present their own witnesses and evidence. Defendants have the right not to be compelled to testify or confess to a crime. Defendants may appeal verdicts to a superior court and then to the Supreme Court. The Constitutional Tribunal may rule on cases involving issues such as habeas corpus or the constitutionality of laws.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens may seek civil remedies for human rights violations, but court cases often continued for years. Press reports, NGOs, and other sources alleged that persons outside the judiciary frequently corrupted or influenced judges (see section 4).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions, and the government generally respected these prohibitions. There were reports, however, that authorities sometimes entered private dwellings before obtaining a warrant; for example, the right to inviolability of the home was legally suspended in the UHV and VRAEM emergency zones.</p>
+<p>On June 9, former minister of the interior and political analyst Fernando Rospigliosi accused the government of monitoring activities of the political opposition and independent political analysts. He reported that six police officers were following him and monitoring his daily activities at his office in Lima. Government representatives stated the police officers were investigating a narcotics-trafficking operation. As of September an investigation was pending at the Public Prosecutor’s Office.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>
+				g. Use of Excessive Force and other Abuse in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p>The Shining Path was responsible for killings and other human rights abuses. Government efforts to combat the terrorist organization also resulted in abuses.</p>
+<p><u>Killings</u>: On May 6, a joint police-military unit fired on a civilian van, injuring all eight passengers in Echarate District, Cusco Region. Military authorities reported that the nighttime shooting was in self-defense and related to narcotics trafficking and terrorism, which the victims disputed. As of September an investigation was pending.</p>
+<p>On October 18, four civilians were injured and one was killed when an errant army bomb fell on a town near the army base in Mazangaro, in the Junin Region. The bomb was mistakenly released during a counter-terrorism operation. The military publicly acknowledged the bombing and opened an active investigation.</p>
+<p><u>Abductions</u>: On January 23, Shining Path members attacked and kidnapped workers at a construction project in the district of Sivia, Ayacucho Region. The hostages did not sustain any injuries, and the Shining Path released them a few hours later. There were reports that the Shining Path abducted children to work for the terrorist organization during the year.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: There were reports that the Shining Path utilized forced labor. Local NGOs and mining companies reported cases in which nongovernmental militias (ronderos) kidnapped and abused hostages. On February 3 in Cajamarca, members of a local militia kidnapped Natividad Herrera Castrejon and held him for 13 days, during which time they tortured him and ultimately killed him for allegedly stealing. On July 24, the militia members pled guilty.</p>
+<p>Instances of internal military abuse were also reported. On October 4, two soldiers in the Huancane Region publicly accused their superior, Jose del Alamo Alarcon, of beating them with a hot iron for mistakes made during target practice. There were no reports of a military investigation into this accusation.</p>
+<p><u>Child Soldiers</u>: There were reports that the Shining Path recruited and used child soldiers, at times under forced labor conditions. Reports persisted that the Shining Path used children in both combat and drug-trafficking activities. Some of these children had been kidnapped or recruited from local towns, while others apparently were children of Shining Path members. On July 27, the military rescued two children, ages nine and 11, whom the Shining Path had forcibly recruited to work in Tayacaja, Huancavelica Region.</p>
+<p>See also the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section2"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. Generally, an independent press and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p>In October the media company El Comercio Media Group purchased the media group EPENSA, resulting in singular ownership of 78 percent of the country’s daily newspaper circulation. Freedom of press advocates and competing dailies criticized the merger as a quasi-monopoly that threatened press freedom. We are not aware of any restrictions on press freedom resulting from this purchase.</p>
+<p><u>Freedom of Speech</u>: There are no hate speech laws, and the Shining Path front group Movement for Amnesty and Fundamental Rights (MOVADEF) freely called for the release of jailed terrorists and others.</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views. Some observers claimed that media outlets self-censored for fear of harassment or violence.</p>
+<p><u>Violence and Harassment</u>: A number of journalists and media outlets reported experiencing threats or intimidation. The Press and Society Institute (IPYS) reported that threats were most commonly directed against radio and television broadcast journalists investigating local government authorities and were often linked to reporting on corruption. IPYS reported that the aggressors were often government officials (e.g., mayors, heads of government offices, regional presidents). IPYS reported that Ancash, Lambayeque, Cajamarca, and Lima were the regions that reported the most incidents of harassment seeking to limit freedom of expression. As of July 31, the National Journalists Association reported 82 cases of harassment, compared with 136 in all of 2012, and the IPYS issued 41 alerts, compared with 89 in 2012. Of the harassment cases reported by the National Journalists Association, 29 involved harassment by local authorities, 11 by police and military personnel, one by media owners, and seven by unknown perpetrators.</p>
+<p><u>Censorship or Content Restrictions</u>: Some media, most notably in provinces outside of Lima, practiced self-censorship due to fear of local government reprisal.</p>
+<p>On May 9, reporter Oscar Rodriguez Martinez resigned from Huancayo’s KDNA 15 television program <i>Espejo Libre</i>, claiming that one of the station owners, Carlos Sanjinez, instructed him not to broadcast a report that included an accusation against Junin Region’s anticorruption prosecutor, Susana Rivera Villa, for improperly using her position to obtain employment for an acquaintance.</p>
+<p><u>Libel Laws/National Security</u>: The penal code criminalizes libel, and officials reportedly used it to intimidate reporters.</p>
+<p>On July 24, Studio 97 Radio reporters Santos Pasapera Portilla, Nexar Jaramillo Davila, and Jeston Vasquez Tocto were sentenced to three years of a suspended prison sentence and to pay the amount of 100,000 new soles ($35,700) to Euler Bery Jave Diaz, the manager of the San Ignacio provincial municipality in Cajamarca Region, for defamation. In March 2012 Jave sued the reporters for libel for comments they made alleging Jave was corrupt. The reporters appealed the sentence, and as of September the appeal was pending.</p>
+<p>On April 5, a court acquitted blogger Jose Godoy of defamation charges, bringing the high-profile case to a conclusion. Godoy in 2010 became the first Peruvian blogger to be convicted of defamation when a court found him guilty of defaming former congressman and cabinet minister Jorge Mufarech Nemy. An appeals court overturned his sentence in January 2012, and he was acquitted six months later. Mufarech appealed the 2012 acquittal, leading to the April 5 ruling.</p>
+<p>The law designates all information about National Security and Defense as secret. Press freedom activists and local NGOs, such as IPYS, criticized the law as an attack on transparency, freedom of information, and freedom of the press. On April 4, the government published regulations to implement the law.</p>
+<p><u>Nongovernment Impact</u>: Some media reported that narcotics traffickers and illegal mining operations threatened press freedom. There were reports that narcotics traffickers intimidated journalists reporting information that undermined their operations. On February 12, Puerto Maldonado reporter Manuel Calloquispe reported he received a threatening phone call from Lino Aquino after Calloquispe reported that Aquino’s illegal mining activity was causing environmental damage. On June 10, an international reporter alleged that a local mining company in Pasco Region was threatening families the reporter was interviewing about mercury contamination.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or credible reports that the government monitored e-mail or internet chat rooms without appropriate legal authority. According to UN 2012 estimates, 38 percent of the population had access to the internet. According to the National Statistics and Information Institute (INEI), 25.5 percent of residences had fixed connections to the internet.</p>
+<p>In October the government passed a cybercrimes law designed to combat data sharing and the illegal access of information. IPYS and other local NGOs criticized the law as legally ambiguous and argued that it could be used broadly to target journalists and limit freedom of press.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the right of freedom of assembly and association, but there were reports that at times the government did not sufficiently respect these rights (see section 1.d.)</p>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The law does not require a permit for public demonstrations, but organizers must report the type of demonstration planned and its intended location to the appropriate regional governor, an official appointed by the national government who reports to the Ministry of Interior. The government suspended the freedom of assembly in emergency zones where armed elements of the Shining Path operated and in regions suffering from acute natural disasters.</p>
+<p>Demonstrations may be prohibited for reasons of public safety or health. Police used tear gas and occasional force to disperse protesters in various demonstrations. Although most were peaceful, protests in some areas turned violent, resulting in deaths and injuries (see section 1.a.). NGOs and the Ombudsman’s Office reported that police used excessive force and tear gas to control nonviolent political protests on July 22 and 27 in Lima.</p>
+<p>On October 27 in the Rimac Region, peaceful anti-bullfighting protesters accused police of using excessive force with tear gas and water jets to disperse the crowd. Five activists were detained and two police were injured.</p>
+<p>On October 24 in Lima, violence broke out when a group of students with suspected ties to MOVADEF attempted to enter university grounds while classes were temporarily suspended after threats of violence. Two police and 15 students were injured in the clash, and 13 students were detained.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of association; however, there were reports that the government did not sufficiently respect this right, particularly with regard to minority religious groups’ right to government registration and recognition.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/j/drl/irf/rpt">www.state.gov/j/drl/irf/rpt</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations to provide protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-country Movement</u>: The government maintained two emergency zones in parts of seven regions, where it restricted freedom of movement, an effort to ensure public peace and restore internal order.</p>
+<p>Narcotics traffickers and Shining Path members at times interrupted the free movement of persons by establishing roadblocks in sections of the UHV and VRAEM emergency zones.</p>
+<p>Protesters in Canaris, Lambayeque Region, blocked roads from January through April to draw public attention to grievances linked to socio-environmental conflicts. Illegal gold miners in Madre de Dios blocked roads in September and October to protest the government mining formalization process.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>There were no major incidents of internal displacement related to violence and terrorism during the year, and the situation of former IDPs continued to be difficult to assess. According to the UNHCR, the number of IDPs remained unknown, because officials registered relatively few. There were minor instances of internal displacement involving the relocation of some rural communities to accommodate extractive industry projects. The Ministry of Women and Vulnerable Populations (MIMP) monitored the peaceful resettlement of nearly 3,500 individuals from Morococha in the Junin Region to nearby villages. Nearly 1,000 more families initially resisted resettlement but were forcibly moved.</p>
+<p>The government Reparations Council continued assisting persons who suffered during the 1980-2000 conflict with the Shining Path and Tupac Amaru Revolutionary Movement. IDPs were disproportionately represented by the Quechua and other Andean indigenous populations, due to the legacy of the conflict that took place primarily within the Andean region of the country. The council compiled a registry of victims, which as of September included 182,350 victims and 5,697 communities eligible for reparations. A number of victims and family members lacking proper identity documents had difficulties registering for reparations, and NGOs reported that many victims were not included in the registry. As of August 28, the government had paid 29 million new soles ($10,360) in reparations to 11,740 registered victims.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The government cooperated with the UNHCR and recognized the Catholic Migration Commission as the official provider of technical assistance to refugees. The commission also advised citizens who feared persecution and sought asylum abroad. The government provided protection to refugees on a renewable, year-to-year basis, in accordance with commission recommendations. During the year the Ministry of Foreign Relations recognized 153 refugees and rejected 136 pleas for refugee status; 126 of the 136 rejected pleas were from Cuban refugees. As of August the UNHCR reported 820 pending refugee requests.</p>
+<p><u>Durable Solutions</u>: There was no resettlement program, but in past years the state received persons recognized as refugees in other nations and provided some administrative support toward their integration. The UNHCR provided such refugees with humanitarian and emergency aid, legal assistance, documentation, and in exceptional cases, voluntary return and family reunification. All Haitian refugee seekers received an identity card affording them temporary protection, temporary permission to work, and fundamental rights.</p>
+<p><u>Temporary Protection</u>: As of August the government provided temporary protection to 161 individuals who were awaiting a decision from the state on their refugee status.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>Citizenship is derived either by birth within the country’s territory or from one’s parents. If overseas, parents must register their child’s birth by age 18 for the child to obtain citizenship. According to the INEI, 584,729 minors and 273,646 citizens over age 18 lacked identity documents and could not fully exercise their rights as citizens, making them de facto stateless, a sharp decrease from 1.2 million individuals without identity documents in 2012 and the result of the government’s aggressive efforts to address this problem.</p>
+<p>Obtaining a national identity document requires a birth certificate, but many births in rural areas occurred at home and were not registered. Poor indigenous women and children in rural areas were disproportionately represented among those lacking identity documents. Undocumented citizens faced social and political marginalization and barriers to accessing government services, including running for public office or holding title to land. In a September report Verite assessed that undocumented citizens were particularly vulnerable to labor exploitation and individuals who prey on others as human traffickers and robbers.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section3"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the right to change their government peacefully, and citizens exercised this right through periodic, free, and fair elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In July 2011 Ollanta Humala Tasso assumed the presidency after two rounds of elections that were considered free and fair. Domestic and international observers declared the nationwide elections, held on April 10, 2011, (for president, Congress, and the Andean Parliament) and on June 5, 2011 (a second round for the presidential race only), to be fair and transparent, despite some controversy over campaign financing and minor irregularities in some areas. In elections for the unicameral Congress, President Humala’s Gana Peru alliance won 47 of 130 seats, which constituted the largest of six legislative blocs. The National Elections Board held a recall election March 17 for Lima Mayor Susana Villaran. Villaran was not recalled, but 22 members of her city council (20 of them belonging to her party) were recalled. International observers reported the election was free and fair. On November 24, the city held an election to replace the recalled city council members.</p>
+<p>On July 7, 124 districts in 20 regions held recall elections for 120 mayors and 513 city council members. Twenty-four mayors and 189 city council members were recalled.</p>
+<p><u>Political Parties</u>: Political parties operated without restriction or outside interference, although they remained weak institutions dominated by individual personalities. In regional and municipal elections, regional movements continued to gain ground at the expense of national parties. By law groups that advocate violent overthrow of the government, including the political group linked to the Shining Path, MOVADEF, are not permitted to register as political parties.</p>
+<p><u>Participation of Women and Minorities</u>: The law mandates that at least 30 percent of the candidates on party lists be women, and the parties complied. There were 28 women in Congress. Three members of Congress identified themselves as Afro-Peruvians. Nine of 19 cabinet members were women. There were three women on the 18-member Supreme Court. One member of Congress, Eduardo Nayap, identified himself as Amazonian indigenous. Another member, Claudia Coari, identified herself as indigenous but did not belong to a particular tribe. Approximately seven members of Congress spoke Quechua, but not all identified themselves as indigenous.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section4"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for officials engaged in corruption; however, the government did not always implement the law effectively, and officials often engaged in corrupt practices with impunity. There were numerous reports of government corruption during the year. There was a widespread perception that corruption was pervasive in all branches of government.</p>
+<p><u>Corruption</u>: The Office of the Comptroller General implements and monitors anticorruption and disclosure processes required by law and informs Congress of its findings. The Office of the Comptroller General has independent authority to sanction public officials who commit corrupt acts; penalties include temporary suspension, termination of employment, and criminal prosecution. The executive branch Unit for Prosecution of Corruption Crimes reports to the minister of justice and has the lead role in prosecution of corruption crimes. All judicial districts review corruption cases in regular courts except Lima, which has a specialized anticorruption court in its Superior Court. The government Public Service Office, which reports directly to the cabinet, manages a registry of former government officials who are no longer eligible for public service due to corruption crimes. As of January 1, the list included 1,958 persons ineligible for public service. All agencies actively worked with civil society groups and operated freely and independently. Sector experts reported that the government agencies were not sufficiently resourced.</p>
+<p>There were allegations of widespread corruption in the judicial system. The new penal procedural code, while not yet implemented in Lima and Callao, was applied to corruption cases in these judicial districts. On July 11, the Office of Judicial Control received a complaint that a judicial branch employee accepted a bribe of 500 new soles ($179) to influence a court case in Lima. As of October no new information was available on the status of this case. Nevertheless, previous bribery cases usually result in temporary suspension of the employee. As of November the Office of Judicial Control imposed 1,093 sanctions, 123 of which were permanent removals from public service and 136 of which were one-year suspensions.</p>
+<p>During their time in office, members of Congress enjoy congressional immunity; that is, they cannot be prosecuted for any acts during their time in the legislature. In the case of flagrant crimes, the judicial branch can request that Congress lift immunity and allow the arrest of a member. By law congressional immunity does not apply to crimes committed before the member was sworn in, but it impeded most prosecutions. It also does not officially protect members of Congress from civil crimes, such as failure to fulfill contracts or pay child support. As of September the Congressional Ethics Committee was investigating eight members of Congress for questionable activities ranging from falsifying their resumes (by including false degrees and omitting prior convictions) to involvement in illegal mining, money laundering, and narcotics trafficking. On June 21, Congressman Ruben Condori was fined for noncompliance with congressional voting procedures. On September 19, Congressman Modesto Julca was suspended from office for 120 days for nepotism. As of September the government prosecutor for drug trafficking and money laundering reported that five congressmen, two regional presidents, and 11 mayors were under investigation.</p>
+<p>On May 20, the public prosecutor began an investigation of former president Alejandro Toledo for alleged money laundering and fraud connected to real estate purchases totaling several million dollars. On August 15, Congress initiated a parallel investigation. As of November both investigations continued. On July 14, former congresswoman Nancy Obregon was arrested (along with several dozen others) on drug trafficking and terrorism charges. As of September she was being held in prison while the investigation continued.</p>
+<p>Corruption in prisons was a serious problem, and in some cases guards cooperated with criminal bosses who oversaw the smuggling of guns and drugs into prisons. There were several reports of military corruption, impunity, and resistance to providing information on military personnel under investigation for human rights abuses committed during the country’s internal armed conflict. Security forces sought to strengthen accountability with training in human rights and the revision of disciplinary procedures but were doing so slowly.</p>
+<p>In October 2012 lawyer Alberto Quimper, one of the accused in the Petroaudios corruption case of 2008, was released from house arrest after he had reached incarceration limits of 36 months without the court ruling on his case. As of September review of the case was pending in the judiciary.</p>
+<p>In November 2012 the special congressional committee investigating corruption during Alan Garcia’s second administration (2006-11) concluded its investigation of Garcia’s alleged mismanagement of a nationwide high school facility remodeling program, and as of September the recommendation to prosecute was under review.</p>
+<p><u>Whistleblower Protection</u>: The law provides protection to public servants and private-sector employees for making internal disclosures or lawful public disclosures of evidence of illegality, such as solicitation of bribes or other corrupt acts, gross waste, fraud, mismanagement, abuse of power, or substantial and specific dangers to public health and safety. The Office of the Comptroller General monitors whistleblower cases through the National System to Monitor Complaints. The law requires protection of whistleblower identity. Whistleblowers are protected from employer retribution and cannot be fired after they submit a complaint. If whistleblowers are harassed, the Comptroller General’s Office informs the Ministry of Labor, which is required to investigate the harassment claim. If the whistleblowers collaborated in the illegal act, their sentence may be reduced in court. If the government recovers funds as a result of the complaint, the whistleblower may receive up to 50 percent of the recovered funds. NGOs reported that whistleblowers were not sufficiently protected from employer retaliation, arbitrary firing, and harassment.</p>
+<p><u>Financial Disclosure</u>: Most public officials are subject to financial disclosure laws and must submit personal financial information to the Office of the Comptroller General prior to taking office and periodically thereafter. The Comptroller General’s Office monitors and verifies disclosures, but the laws were not strongly enforced. Declarations are made available to the public. There are administrative sanctions for noncompliance that escalate from 30-day to one-year suspensions, include bans on signing government contracts, and culminate with being barred from holding government office.</p>
+<p>The declaration regime clearly identifies which assets, liabilities, and interests public officials must declare, but it does not include assets and income of spouses and dependent children. The law requires officials to make financial disclosures the first quarter of every year, but there are no provisions for additional declarations when changes occur in their holdings and when they enter and leave office.</p>
+<p>On January 4, Congress institutionalized the High Commission on Anti-Corruption and upgraded its status from a working group to a technical office within the Prime Minister’s Office.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and most ministries and central offices provided information on websites. Implementation of the law was incomplete, particularly outside of Lima, where few citizens exercised or understood their right to information. The ombudsman encouraged regional governments to adopt more transparent practices for releasing information and monitored their compliance with the requirement for public hearings at least twice a year.</p>
+<p>The law requires a narrow list of exceptions outlining grounds for nondisclosure that includes classified and protected information including topics of national security, intelligence, police investigations, and advanced technology. The law requires a reasonable timeline for officials to disclose financial information, at the beginning of the first quarter of every year, and does not require the official to bear any processing fees. The law imposes administrative, but not criminal, sanctions for noncompliance. The law allows for appeals of disclosure denials. There were no reports of the government denying disclosure requests or of authorities failing to provide justification under the law. Sector experts reported that appeal mechanisms functioned.</p>
+<p>In February the Ombudsman’s Office appealed the portion of the law that limits access to sensitive materials related to national security and defense on the grounds that it violates citizens’ right to information. As of October the appeal to the Constitutional Tribunal was pending.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section5"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were somewhat cooperative and responsive to their views.</p>
+<p>Human rights activists expressed concern about their safety while working, particularly in situations of social unrest. They also mentioned harassment by locally elected authorities in places where there also were charges of corruption. The activists claimed that the slow, ineffective process for sanctioning harassers essentially supported impunity.</p>
+<p><u>Government Human Rights Bodies</u>: The Ministry of Justice and Human Rights and Vice Ministry of Human Rights and Access to Justice oversaw human rights issues at the national level.</p>
+<p>The independent Office of the Ombudsman operated without government or party interference and was considered effective. The entity operated under an acting ombudsman for the entire year, due to Congress’s failure to appoint a permanent ombudsman. During the year the ombudsman issued nine reports with recommendations on government management of informal and illegal mining, trafficking in persons, public health care, discrimination, female victims of violence, reparations, strengthening the military service, and enforcement of the law in cases of violent sexual crimes against children and adolescents.</p>
+<p>Congressional committees included Justice and Human Rights; Women and the Family; Indigenous, Amazonian, and Andean Populations, Environment, and Ecology; Health and Population; and Social Inclusion and Persons with Disabilities.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section6"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law prohibits discrimination based on race, gender, disability, language, or social status, but enforcement lagged and discrimination persisted. The law does not specifically protect individuals from discrimination based on sexual orientation or gender identity.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The legal framework governing women’s rights and protections is comprehensive and well defined. Application and enforcement of the law, however, was severely lacking. The law criminalizes rape, including spousal rape, with penalties of six to eight years in prison, but enforcement was ineffective. The government reported 1,453 cases of rape nationwide through August, but sector experts maintained that rape was significantly underreported due to a fear of retribution, including further violence and stigma. There were no available statistics on rapists prosecuted, convicted, or punished.</p>
+<p>The law prohibits domestic violence, and penalties range from one month to six years in prison. The law authorizes judges and prosecutors to prevent the convicted spouse or parent from returning to the family home and authorizes the victim’s relatives and unrelated persons living in the home to file complaints of domestic violence. It also allows health professionals to document injuries. The law requires police investigation of domestic violence to take place within five days and obliges authorities to extend protection to female victims of domestic violence. There were no statistics available on the number of men sentenced for crimes related to domestic violence.</p>
+<p>Violence against women and girls including rape, spousal abuse, and sexual, physical, and mental abuse remained very serious national problems. MIMP reported that an average of seven women died per month as a result of domestic violence and documented more than 23,913 cases of violence against women through August. Police and judicial authorities were sometimes reluctant to assist female victims and arrest and prosecute abusers. The government reported 99 actual and 122 attempted femicides as of October. Femicide is incorporated into the criminal code and carries a minimum sentence of 15 years’ imprisonment for those convicted of killing a woman who is an immediate relative, spouse, or partner. The law establishes sentences of up to life in prison when the victim is a minor, pregnant, or disabled.</p>
+<p>Many domestic abuse cases went unreported, and NGOs stated that the majority of reported cases did not result in formal charges due to fear of retaliation or the expense of filing a complaint. The protections offered were limited because of legal delays and ambiguities in the law. Through the National Program Against Family and Sexual Violence, the national government provided technical assistance to regional governments to support 48 temporary shelters. There was an insufficient number of shelters for victims of domestic violence, and those in operation did not adequately protect and support victims.</p>
+<p>MIMP operated the Women’s Emergency Program, which included 193 centers that combined police, prosecutors, counselors, and public welfare agents to help victims of domestic abuse. It also addressed the legal, psychological, social, and medical problems victims of domestic violence face. In addition the ministry operated a toll-free hotline. As of October the program had attended to 41,478 cases of domestic and sexual violence, of which 36,136 cases represented violence against women.</p>
+<p>MIMP implemented projects to sensitize government employees and the citizenry to domestic violence. The government continued to implement a broad national plan for 2009-15 to address violence in the family and against women. Nonetheless, NGOs and the ombudsman asserted that police officers reacted indifferently to charges of domestic violence, despite legal requirements to investigate such complaints.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment was a serious problem. The law defines sexual harassment not as a criminal offense, but rather as a labor rights violation subject to administrative punishment, which depends on the professional situation in which the violation occurred. Sexual harassment was poorly defined in law, and government enforcement was minimally effective. The ability of women to report sexual harassment was hampered by the undue burden on the victims themselves to prove their cases and by the fear of retribution. There were no available statistics on sexual harassers prosecuted, convicted, or punished.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children. Citizens generally have the information and means to do so free from discrimination, coercion, and violence. Access to information on contraception and family planning was widespread. According to 2011 UN estimates, 85 percent of births were attended by skilled health personnel, and 75 percent of women ages 15 to 49 used a form of contraception in 2011. According to UNICEF estimates, women in rural areas had, on average, more than five children per lifetime, yet only 64 percent of these births were attended by a skilled birth attendant, while 96 percent of women giving birth within urban areas had access to a skilled birth attendant. According to 2010 INEI data, the average maternal mortality rate was 93 deaths per 100,000 births.</p>
+<p><u>Discrimination</u>: The law provides for equality between men and women and prohibits discrimination against women with regard to marriage, divorce, and property rights. Women from the upper and upper-middle classes assumed leadership roles in companies and government agencies. While the law prohibits sexual discrimination in employment and educational advertisements and the arbitrary dismissal of pregnant women, discrimination remained common. The law stipulates that women should receive equal pay for equal work, but women often were paid less than men for comparable work. Societal prejudice and discrimination also led to disproportionate poverty and unemployment rates for women. Women were more likely to work in the informal sector or in less secure occupations such as domestic service, factory workers, or street vendors, and they were more likely to be illiterate due to lack of formal education.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived either by birth within the country’s territory or from one’s parents. There were problems with government registration of births, although the government was making significant efforts and progress (see section 2.d.). Failure to register made it more difficult to obtain public services, such as education and health care.</p>
+<p><u>Education</u>: The constitution stipulates that primary and secondary education is compulsory and universal from age six through 16 and free through the secondary level. Nevertheless, citizens and NGOs asserted that neither was completely free in practice, and fees for parental associations, administration, and educational materials greatly reduced access for lower-income families.</p>
+<p><u>Child Abuse</u>: Violence against and sexual abuse of children were serious problems. Through September MIMP reported 1,129 cases of violence against or sexual abuse of children five years of age and younger and 2,506 cases of abuse of children ages six to 11. Many abuse cases went unreported because under societal norms such abuse was viewed as a family problem to be resolved privately.</p>
+<p>MIMP’s Women’s Emergency Program received information through child rights and welfare protection offices and assisted child victims of violence. MIMP’s Children’s Bureau coordinated government policies and programs for children and adolescents. At the grassroots level, child rights and welfare protection offices resolved complaints ranging from child physical and sexual abuse to abandonment and failure to pay child support. Provincial or district governments operated approximately half of these offices, while schools, churches, and NGOs ran the others. Law students staffed most of the units, particularly in rural districts. When these offices could not resolve disputes, officials usually referred cases to the Public Ministry’s local prosecutor offices, whose adjudications were legally binding and had the same force as court judgments.</p>
+<p><u>Forced and Early Marriage</u>: The legal minimum age of marriage is 18. The law allows minors over 16 years old to marry with civil judge authorization. The government does not keep national statistics on child marriage, but according to UNICEF, 20 percent of women between the ages of 20 and 24 were married or in union before the age of 18.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits exploiting children in prostitution, penalizing perpetrators with five to 12 years in prison. There were many known cases of minors exploited in prostitution. The country was a destination for child sex tourism, with Lima, Cusco, Loreto, and Madre de Dios as the principal locations. Involvement in child sex tourism is punishable by four to 10 years in prison. The Foreign Trade and Tourism Ministry disseminated information about the problem. MIMP executed a workshop in July for legal and psychological assistance professionals to address victim service standards for child victims of trafficking and sexual exploitation.</p>
+<p>The minimum age for consensual sex is 18. Statutory rape law stipulates different rape offenses, including rape of a minor younger than 14, with penalties ranging from 25 years to life in prison. The law prohibits child pornography, and the penalty for conviction of involvement in child pornography is four to 12 years’ imprisonment and a fine.</p>
+<p><u>Child Soldiers</u>: The minimum age for military recruitment is 18. The country’s military bars the enlistment of minors, including those who obtain their parents’ permission. As of August the Ombudsman’s Office reported six cases in which the army admitted underage soldiers, generally recruits who misrepresented their age. There were no reports of persons under 18 taking part in hostilities as part of a governmental armed force.</p>
+<p>There were multiple reports of the Shining Path using child soldiers (see section 1.g.).</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/abduction/resources/congressreport/congressreport_4308.html">http://travel.state.gov/abduction/resources/congressreport/congressreport_4308.html</a> as well as country-specific information at http://travel.state.gov/abduction/country/country_6155.html.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Estimates of the Jewish population ranged from 3,000 to 4,000 persons. There were reports of a minor anti-Semitic group, named the Andean National Socialism Movement, operating in the rural Andean region, but no violence or harassment of the Jewish population was reported.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transport, access to health care, and provisions of state services, and it establishes infractions and sanctions for noncompliance with specified norms. The law provides for the protection, care, rehabilitation, security, and social inclusion of persons with disabilities; mandates that public spaces be free of barriers and accessible to persons with disabilities; and provides for the appointment of a disability rights specialist in the Ombudsman’s Office. In addition the law mandates that internet sites maintained by governmental, institutional, and other service providers be accessible to persons with disabilities and requires accessibility through the inclusion of sign language or subtitles in all educational and cultural programs on public television and in media alternatives in all public libraries. The law establishes employment quotas for persons with disabilities: for private businesses with more than 50 employees, the quota is 3 percent; for public-sector organizations, it is 5 percent. Congress included several individuals with disabilities, including three in wheelchairs and one individual with two prosthetic arms.</p>
+<p>The National Council for the Integration of Persons with Disabilities oversees compliance with the law. The council supported 14 regional workshops with both public and private-sector participants, three national workshops with persons with disabilities, and technical multisectoral meetings to develop strategies and activities to implement the law. MIMP coordinated with the National Assembly of University Rectors to raise awareness of the need for universities to provide reasonable accommodation to support matriculation and graduation of persons with disabilities. Sector experts reported that the government was in early phases of advancing the 2012 law respecting persons with disabilities, and as of September it had not passed the implementing regulations.</p>
+<p>The government devoted limited resources to law enforcement and training, and many persons with disabilities remained economically and socially marginalized. Governments at the national, regional, and local levels made little effort to provide access to public buildings. There were few interpreters for the deaf in government offices and no access to recordings or Braille for the blind. The majority of government websites remained inaccessible to persons with disabilities, and only the congressional television channel offered sign language interpretation. The National Statistics and Information Institute reported that there were 18 registered sign language interpreters for more than 500,000 deaf persons.</p>
+<p>The government failed to enforce laws safeguarding and attending to persons with mental disabilities in situations of social abandonment. The number of medical personnel providing services in psychiatric institutions was insufficient to care for all patients.</p>
+<p>The ombudsman and NGOs reported that many children with disabilities were unable to attend public schools due to lack of physical access. The most recent data from a 2011 Ombudsman’s Office report noted that nearly half of the country’s public schools had no entrance ramps, and 88 percent lacked restrooms to accommodate persons with disabilities. Relatively few teachers (39 percent) had received any training in inclusive or special education. More than half of all public schools did not meet basic standards for students with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The law provides all citizens equality before the law and forbids discrimination on the basis of race, national origin, or language. Nevertheless, persons of African (Afro-Peruvian) descent faced societal discrimination and prejudice. Afro-Peruvians generally did not hold leadership positions in government, business, or the military. Few Afro-Peruvians served as officers in the navy or air force.</p>
+<p>The ombudsman and UNICEF issued reports on the Afro-Peruvian community that cited structural discrimination and social exclusion as key barriers to integration into society and stated that Afro-Peruvians had particular difficulty accessing health and education services. NGOs reported that employers often found ways to refuse to hire Afro-Peruvians or relegated them to low-paying service positions. Although the law prohibits the mention of race in job advertisements, the ombudsman reported 11 instances of employers advertising jobs with racial requirements from January 2011 to March 2013. Additionally, employers often required applicants to submit photographs. Government efforts to improve the social inclusion of Afro-Peruvians occurred through the Ministry of Culture. In May the ministry initiated a dialogue process with Afro-Peruvian leaders to create public policy guidelines that promote community development and combat discrimination. This initiative continued as of October. The ministry also commissioned a study on the socioeconomic status of Afro-Peruvians to assist the dialogue process. The ministry sponsored Afro-Peruvian Culture Month, a public series of academic and cultural activities, in July.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The government did not provide sufficient resources to protect effectively the civil and political rights of indigenous persons, and indigenous communities continued to be politically, economically, and socially marginalized.</p>
+<p>The constitution and law stipulate that all citizens have the right to use their own language before any authority by means of an interpreter and to speak their native language. In the zones where they are predominant, Quechua, Aymara, and other indigenous languages share official status with Spanish. Nevertheless, insufficient resources resulted in language barriers that impeded the full participation of indigenous persons in the political process. Indigenous women, especially from poor and rural areas, were particularly marginalized. The ombudsman reported that 46 percent of indigenous primary and secondary students did not have access to education in their native language.</p>
+<p>Many indigenous persons lacked identity documents. In many cases there were no government offices in the areas where they lived; in some instances government officials allegedly sought bribes in exchange for documents, which indigenous persons were unable or unwilling to pay. Without identity cards they were unable to exercise basic rights, such as voting and gaining access to health services and education. The infant mortality rate was higher in rural areas, where most indigenous persons lived, than in urban areas, resulting in inadequate health care for indigenous communities. Public health centers were located primarily in urban areas, but during the year the government further expanded them to rural areas and increased roving teams.</p>
+<p>While the constitution recognizes that indigenous persons have the right to own land communally, indigenous groups often lacked legal title to demarcate the boundaries of their lands, making it difficult to resist encroachment by outsiders. By law local communities retain the right of unassignability, which should prevent the reassignment of indigenous land titles to nonindigenous tenants. Some indigenous community members, however, sold land to outsiders without the majority consent of their community. Moreover, in the absence of an effective representative institution, there were continuing social conflicts between indigenous and nonindigenous persons, particularly concerning environmental issues and extractive industries, which occasionally led to violence. Additionally, mineral or other subsoil rights belong to the state, which often caused conflict between mining interests and indigenous communities. The law requires the government to conduct consultations with indigenous communities before authorizing extractive industry activities that will affect their land and livelihoods. The law requires the government to establish a database of indigenous communities entitled to consultation under the law and to produce a detailed implementation guide to facilitate government and private-sector compliance under the law. On April 2, the government published the implementation guide, and on October 25, it published the first version of the database. Several indigenous organizations and the ombudsman expressed concern that indigenous communities did not have sufficient training and capacity to engage appropriately in consultations with government and industry. As of September the government had not completed a prior consultation process.</p>
+<p>Many indigenous persons and others with indigenous physical features faced societal discrimination and prejudice. They were often the victims of derogatory comments and subjected to illegal discrimination in public places, including theaters, restaurants, and clubs.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law does not specifically prohibit discrimination against persons based on sexual orientation or gender identity, and the government did not keep any national level statistics on such discrimination. The Ministry of Interior’s <i>Handbook of Human Rights Applied to the Civil Police </i>stipulates that police must respect human rights, especially of the most vulnerable groups, and refers explicitly to the rights of lesbian, gay, and transgender individuals. During the year, however, there were instances of official and societal discrimination based on sexual orientation and gender identity in employment, housing, and access to education and health care. Government authorities, including police, harassed and abused lesbian, gay, bisexual, and transgender (LGBT) persons.</p>
+<p>The law does not specifically guarantee transgender persons the right to identify with their chosen gender, including by changing their name and gender on government-issued identification. Transgender persons reported encountering obstacles when attempting to do so. A local NGO’s 2012 survey reported that 94 percent of transgender persons in Lima stated that their national identity document did not contain their desired name, and 13 percent of transgender persons chose not to register for a national identity document because they could not secure the name and gender that corresponds to their identity.</p>
+<p>Local NGOs stated that discrimination based on sexual orientation and gender identity was widespread, culturally sanctioned, and largely underreported for fear of violence or additional discrimination. NGOs reported that LGBT youth were frequently targets of severe bullying that contributed to higher rates of suicide than for straight youth. A local NGO reported seven murders and two suicides of LGBT persons through August. On August 15, the Inter-American Commission for Human Rights released a statement reiterating its deep concern about the high levels of violence and discrimination against LGBT persons and urged the government to adopt measures to prevent these acts and protect LGBT persons from human rights abuses.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>The Ombudsman’s Office reported 223 social conflicts as of September, approximately two-thirds of which were socio-environmental conflicts connected to extractive industry activities. These conflicts disproportionately affected indigenous populations in the Andean and Amazon regions. No deaths were reported during the year, but at times violence occurred during the protests between the security forces and protesters.</p>
+<p>On October 24, 14 police officers were injured in two separate protests involving informal miners in the provinces of Arequipa and Ayacucho. A mob of illegal miners in the Ayacucho Region attacked police who were trying to evict them from an abandoned local mine, injuring four officers. Separately, a mob of more than 200 protesters in Arequipa injured nine officers while trying to disrupt a meeting to discuss plans for a controversial copper mine. Protesters threw rocks at police and attempted to set fire to the meeting location. A riot police team used tear gas to drive off the mob.</p>
+<p>Persons with HIV/AIDS faced discrimination and harassment, including societal discrimination for employment, housing, and general social inclusion. The Ministry of Health executed policies to combat discrimination based on HIV/AIDS status. Some of these policies enjoyed success, such as the treatment of HIV/AIDS, but observers maintained that education and prevention programs needed strengthening.</p>
+<p>On June 18, a court suspended a planned military draft, declaring that the law authorizing the draft discriminated against members of the lower economic classes. The ruling supported an injunction filed by the Ombudsman’s Office on June 14. The law requires draftees to serve in the military for two years unless the individuals are university students or able to pay a fine of 1,850 new soles ($660). As of September the government’s appeal of the suspension was pending. As of October the Constitutional Tribunal had accepted a resolution against the law filed by the congressional Fuerza Popular Party.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section7"> </span><span class="st_twitter" st_title="Peru #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Peru - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220465%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>With certain limitations, labor laws and regulations provide for freedom of association, the right to strike, collective bargaining, and prohibit employer intimidation and other forms of antiunion discrimination. Regulations allow workers to form unions without seeking prior authorization. The minimum membership required by law to form a union – 20 employees for a workplace-level union and 50 employees for a sector-wide union – was prohibitively high in some instances, particularly for small and medium-sized enterprises. The law specifies that public and private sector workers have the right to organize, bargain collectively, and strike, but it stipulates that the right to strike must be “in harmony with broader social objectives.” Judges, prosecutors, and members of the police and military are not permitted to form or join unions.</p>
+<p>The law allows unions to declare a strike in accordance with their statutes. Private and public sector union workers must give advance notice of a strike of at least five working days for private sector workers and 10 for the public sector to employers and the Ministry of Labor. The law also allows nonunion workers to declare a strike with a majority vote as long as the written voting record is notarized and announced at least five working days prior to a strike.</p>
+<p>Unions that the government determines are in essential public services are permitted to call a strike but must provide 10 working days’ notice, receive the approval of the Ministry of Labor, be approved by a simple majority of workers, and provide a sufficient number of workers during a strike to maintain operations, as jointly determined by the union and labor authorities on an annual basis. Workers who strike legally cannot be fired for striking, but illegal strikers in the private sector can be fired on the fourth day of absenteeism and public-sector strikers after an administrative procedure.</p>
+<p>Unless there is a pre-existing labor contract covering an occupation or industry as a whole, unions must negotiate with companies individually. The law establishes processes for direct negotiations and conciliation. If those fail workers can declare a strike or request arbitration. The law outlines the process that authorizes the use of arbitration to end collective labor disputes. The law gives a party the ability to compel the other party to submit to arbitration (whether worker- or employer-initiated) whenever either of the parties cannot reach an agreement in their first collective bargaining negotiation, or a party does not engage in good faith during collective bargaining by delaying, hindering, or avoiding an agreement. If the parties disagree over whether or not a prerequisite for binding arbitration has been met, the law also allows a party to submit the matter to independent, nongovernmental arbitrators for an initial decision.</p>
+<p>Congress passed and the president signed into law on July 2 the Civil Service Law designed to professionalize the civil service and streamline a merit-based promotion system. Civil service workers and unions criticized the law for prohibiting collective bargaining on salaries and reducing job stability for workers.</p>
+<p>The law prohibits employers from refusing to hire an individual because of union membership and also prohibits other forms of antiunion discrimination. Workers fired for union activity have the right to reinstatement; however, the law allows companies to fire employees without justification if they offer severance pay.</p>
+<p>The law forbids businesses from hiring subcontracted workers as a simple provision of personnel, requires businesses to monitor their contractors with respect to labor rights, and imposes liability on businesses for the actions of their contractors. The law governing the general private-sector labor regime sets out nine different categories of employment contracts that companies may use to hire workers based on particular circumstances. The law sets time limits for each of the categories and also contains a five-year overall limit when contracts from different categories are used together. A sector-specific law covering the nontraditional export sectors (e.g., fishing, wood and paper, nonmetallic minerals, jewelry, textiles and apparel, and the agriculture industry) exempts employers from this five-year limit and allows them to hire workers on a series of short-term contracts indefinitely, without requiring a conversion to the permanent workforce. Worker unions, NGOs, and some apparel brands criticized this law, asserting that it creates conditions that, in effect, prevent organizing or affiliating with unions.</p>
+<p>The law requires the phased elimination of the Administrative Service Contracts (CAS) short-term employment hiring system, which applies to public sector workers; no specific date for elimination is included in the law. CAS workers made up 17 percent of the approximately one million-member public-sector workforce. CAS worker unions criticized the law, stating that it leaves room for public employers to limit benefits according to budget availability and leaves CAS workers vulnerable to unjustified contract cancellation, which may violate constitutional protection against arbitrary dismissal.</p>
+<p>The government did not effectively enforce the law in all cases. Penalties for violations of freedom of association and collective bargaining ranged from 7,400 to 74,000 new soles ($2,640 to $26,400), but they were rarely enforced. Workers faced prolonged judicial processes and lack of enforcement following trade union activity-related dismissals. For instance, NGOs reported that emblematic cases of labor arbitration dating from 2012 remained suspended, with the implementation of arbitrators’ decisions delayed by judicial appeals processes. These cases involved unions that represent public and private sector workers at Shoughang mine, PetroPeru, the national tax authority (SUNAT), and inspectors from the Ministry of Labor. NGOs also reported instances of noncompliance with arbitrators’ decisions.</p>
+<p>Workers faced some challenges in exercising their rights of freedom of association and collective bargaining. Unions were generally independent of government and political parties. As of October the Ministry of Labor registered 33 total strikes; 25 of those were declared illegal. Employers continued to dismiss workers for exercising their right to strike. Dismissal of striking workers and delays in reinstatement of these workers, in both legal and illegal strikes, were the main tactic used by employers to dissuade workers from going on strike. For instance, as of September the majority of the 250 unionized Camposol agricultural workers who had been suspended after holding a week-long strike in December 2012 had not been reinstated. The workers had been on strike to protest what they viewed as their employer’s failure to negotiate in good faith after 10 months of negotiation. Three days after the conclusion of the strike, Camposol issued 250 suspension notices to unionized workers who participated in the strike, the majority of whom had worked for the company for more than four years.</p>
+<p>Significant delays in the collective bargaining process due to employers’ lack of interest in concluding agreements proved to be a common obstacle to compliance with worker rights to bargain collectively. Workers employed under laws to promote the textile, apparel, and agriculture industries faced obstacles to exercise the right to collective bargaining. For example, workers at Agricola Chapi began collective bargaining with their employer in January. As of September an agreement had not been reached and the case had entered conciliation.</p>
+<p>Employers engaged in antiunion practices, including using subcontracting to avoid direct employment relationships and the associated legal requirements. Such subcontracting also limited the size of a company’s permanent workforce, making it more difficult to reach the 20-employee threshold necessary to form a union. Many businesses, including export industries, hired temporary workers, who were effectively barred from participating in unions due to fear that their contracts might not be renewed. Employers also circumvented restrictions regarding hiring temporary workers to perform core company functions.</p>
+<p>NGOs also reported management interference in labor-management health and safety committees. Management sometimes interfered in the election of worker representatives, held committee sessions without full worker representation, and failed to notify elected worker representatives when labor inspectors conducted workplace inspections.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, but there was evidence that the government did not effectively enforce the law.</p>
+<p>Resources, inspections, and remediation were inadequate for effective enforcement of the law. Penalties for violations ranged from 7,400 to 74,000 new soles ($2,640 to $26,600) but were insufficient to deter violations and insufficiently enforced. As of September the Ministry of Labor conducted nine inspections to address forced labor and reported identifying and liberating 15 victims of forced labor. The Public Ministry registered 201 cases against individuals involved in forced labor as of July. All 201 cases were pending prosecution as of September. The Ministry of Labor conducted 468 training sessions from January to September with employees, employers, and unions around the country to raise awareness of forced labor and applicable laws.</p>
+<p>On June 9, the government passed the 2013-17 National Plan to Combat Forced Labor. Sector experts criticized the plan for not containing a dedicated national budget, therefore making it difficult to implement across government.</p>
+<p>Thousands of persons were estimated to be subjected to conditions of forced labor, mainly in mining, forestry, agriculture, brick making, and domestic service. There were reports that men and boys were subjected to bonded labor in mining (including gold mining), forestry, and brick making, while women were most often found working under conditions of domestic servitude. Both men and women were reported working in bonded labor in agriculture. In a September report, Verite gave accounts of forced labor in illegal gold mining, as well as child labor, risks to workers’ health and safety, and sex trafficking in the regions of Madre de Dios, Cusco, Puno, and Arequipa. The most severe exploitation was found in Madre de Dios, and the research indicated that problems may be even worse deeper in the jungle.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The legal minimum age for employment is 14; however, children between the ages of 12 and 14 may work in certain jobs for up to four hours per day, and adolescents between 15 and 17 may work up to six hours per day if they obtain special permission from the Ministry of Labor and certify that they are attending school. In certain sectors of the economy, higher age minimums existed: 15 in nonindustrial agriculture; 16 in industry, commerce, and mining; and 17 in industrial fishing.</p>
+<p>A permit from the Ministry of Labor is required for persons under 18 to work legally. Parents must apply for the permits, and employers must have a permit on file to hire a youth.</p>
+<p>The law specifically prohibits the hiring of minors in a number of occupations considered hazardous for children, including working underground, lifting or carrying heavy weights, accepting responsibility for the safety of others, and working at night. The law prohibits work that jeopardizes the health of children and adolescents; puts their physical, mental, and emotional development at risk; or prevents regular attendance at school.</p>
+<p>The Ministry of Labor is responsible for enforcing child labor laws; however, there was evidence that the law was not effectively enforced. Resources, the number of inspections, and interministerial coordination were insufficient to enforce the law. Penalties for violations ranged from 7,400 to 74,000 new soles ($2,640 to $26,400) but were insufficient to deter violations. The ministry stated that inspectors conducted routine visits without notice to areas where persons or organizations reported child labor problems. The government reported that it fined and suspended operations of companies that violated labor laws. As of September authorities fined 25 businesses 84,452 new soles ($30,160) for hiring minors illegally or for not seeking the proper authorization.</p>
+<p>The Ministry of Labor continued the “Vamos Peru” program, focused on job training, technical assistance to entrepreneurs, and job placement; and the “Peru Responsable” program, aimed at fostering corporate social responsibility and creating formal employment for youth. Additional programs included two-year pilot projects in Carabayllo and Huanuco, which focused on reducing child labor by improving educational services and providing cash transfers to families in rural areas.</p>
+<p>The Office of the Ombudsman for Children and Adolescents (DEMUNA) worked with the Ministry of Labor to document complaints regarding violations of child labor laws. There were more than 2,240 DEMUNA offices in municipalities throughout the country. DEMUNA also operated a decentralized child labor reporting and tracking system. MIMP administered a program that sent specialized teachers to the streets to provide education and support to minors involved in begging and other kinds of work. MIMP also continued to implement the Yachay program, a social program that assists street children ages six to 17 with workshops, health care, education, legal services, and scholarships.</p>
+<p>Child labor remained a serious problem, especially in the informal sector. The INEI estimated there were 1.65 million children working in exploitative child labor during the year. In 2010 the International Labor Organization estimated there were 2.8 million working children in the country, with 68 percent (1.9 million) performing the worst forms of child labor.</p>
+<p>The worst forms of child labor generally occurred in the informal sectors, including in commercial sexual exploitation, gold mining, brick and fireworks manufacturing, stone extraction (see section 6, children), forestry, and agriculture, including the production of Brazil nuts and coca. NGOs reported that children worked in hazardous conditions, including approximately 141,000 on the streets, 101,000 at night, and 87,000 with trash. In many cases children worked alongside their parents in a family business, usually in areas and sectors cited above. In September there were reports of narcotraffickers using child laborers in Loreto to manufacture cocaine in the jungle and carry it across the Brazilian border.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor </i>at <a href="http://www.dol.gov/ilab/programs/ocft/tda.htm">www.dol.gov/ilab/programs/ocft/tda.htm</a>.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The statutory monthly minimum wage was 750 new soles ($268). The INEI estimated the poverty line to be 284 new soles ($101) a month per person, although it varied by region. The law provides for a 48-hour workweek and one day of rest and requires premium pay for overtime. There is no prohibition on excessive compulsory overtime, nor does the law limit the amount of overtime that a worker may work. The law stipulates certain rights and benefits to which adult domestic workers are entitled, such as an eight-hour working day, no work on public holidays, 15 days of paid annual vacation, and salary bonuses in July and December. The law prohibits discrimination against domestic workers and any requirement by employers for their domestic workers to wear uniforms in public places. The law grants CAS workers who meet minimum service requirements 30 days of vacation, June and December bonuses, and up to three months of severance pay in the case of unjustified dismissal. The government sets occupational health and safety standards appropriate for main industries in the country, but sector experts reported that government resources and expertise were not sufficient to maintain appropriate health and safety standards. NGOs reported that the workplace health and safety laws were adequate but that the implementation of the law was often lacking.</p>
+<p>The government often did not devote sufficient personnel, technical, and financial resources to enforce occupational safety and health regulations and other labor laws. The Ministry of Labor enforced the minimum wage only in the formal sector. Many workers in the informal sector, approximately 60 percent of the total labor force, most of whom were self-employed, received less. There were 395 labor inspectors focused on the formal sector, 129 of whom were based in regions outside of Lima. Labor sources claimed that many inspectors were forced to pay for transportation to sites and often were harassed or refused entry to businesses. Many fines went uncollected, in part because the ministry lacked an efficient tracking system and at times due to a lack of political will, according to a local labor NGO. As of September Ministry of Labor inspectors in Lima reported receiving 22,661 external complaints requesting inspections, and the ministry conducted 32,405 inspections at worksites. The ministry did not report statistics regarding complaints and inspections outside of Lima. As of September the ministry levied approximately 12.1 million new soles ($4.3 million) in fines on 1,027 companies for failure to place employees on labor rolls and for health and safety violations. Noncompliance with the law is punishable by fines from 1,110 new soles ($396) to 37,000 new soles ($13,215). Penalties were insufficient to deter violations.</p>
+<p>The National System for Health and Safety in the Workplace within the Ministry of Labor offered distance-learning classes to regional representatives. The ministry created three technical commissions to modernize and standardize a national workplace accident registry, develop ergonomic standards and training, and establish a professional certification program for health and safety experts. As of September the National Council on Health and Safety met six times, and the government established five new regional councils in Moquegua, San Martin, Tacna, Junin, and Puno. Employers and workers, including unions, who traditionally had no voice on these matters, participated in these national bodies. The law provides for fines and criminal sanctions for occupational safety and health violations. In cases of infractions, injury, or deaths of workers or subcontractors, the penalty is five to 10 years’ imprisonment. Workplace labor, health, and safety committees continued to develop across the country. The government did not keep statistics on the number of such committees in operation.</p>
+<p>Labor, businesses, and the government reported that the majority of companies in the formal sector generally complied with the law. Employers, however, often interfered with the formation and operation of labor-management committees by influencing elections for labor representatives and limiting committee power.</p>
+<p>Employers frequently required long hours from domestic workers and paid low wages. Numerous violations of provisions prohibiting discrimination against domestic workers and any requirement by employers for their domestic workers to wear uniforms in public places were reported during the year. The Ministry of Labor, local NGOs, and several unions continued campaigns to inform domestic workers of their rights.</p>
+<p>Allegations of abuse of subcontracted workers in the areas of wage and hour violations and associational rights continued to be reported. On July 2, Congress passed the Investment Promotion Law, which provides small and micro-enterprises up to a three-year extension on their participation in special labor regimes.</p>
+<p>Labor-sector NGOs criticized the law as supporting below-standard labor contracts.</p>
+<p>The National Federation of Mineworkers reported that 40 miners (16 of whom were subcontractors) died in mining accidents in the formal mining sector, mainly as a result of rockslides, falls, and asphyxiation. In cases of industrial accidents, an agreement between the employer and worker usually determined compensation. The law does not require that a worker prove an employer’s culpability to obtain compensation for work-related injuries. As of September the Labor Ministry reported 10,285 accidents, of which 5,059 were not serious, 5,108 were incapacitating, and 118 were fatal.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

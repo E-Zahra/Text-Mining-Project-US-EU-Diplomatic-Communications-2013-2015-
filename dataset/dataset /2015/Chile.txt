@@ -1,0 +1,539 @@
+2015
+Chile
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999"> </span><span class="st_facebook" st_title="Chile" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252999">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252999</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=executive"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 4/19/16; see Appendix F: Errata for more information.</em></p>
+<p>Chile is a constitutional multiparty democracy. In 2013 citizens elected Michelle Bachelet to be president in an election that observers considered free and fair. President Bachelet assumed office in March 2014. Civilian authorities maintained effective control over the security forces.</p>
+<p>The principal human rights problems concerned harsh prison conditions; violence and discrimination against women, children, and lesbian, gay, bisexual, transgender and intersex (LGBTI) persons; and societal conflict and discrimination against indigenous populations.</p>
+<p>Additional human rights concerns included reported use of excessive force by security forces.</p>
+<p>The government took steps to investigate and prosecute officials who committed abuses. Nevertheless, many human rights organizations, including the governmental agency charged with overseeing and monitoring human rights, the National Institute of Human Rights (INDH), noted that security officials accused of committing abuses were infrequently convicted of those crimes.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section1"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+<p>As of July according to the Ministry of the Interior, a total of 1,149 former military and law enforcement officials had been charged or convicted of complicity in murder or disappearance during the Pinochet government years (1973-90).</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+<p>In July, eight indicted former Carabineros and army patrol members were formally charged with aggravated kidnapping for their alleged role in the 1985 disappearance of U.S. citizen Boris Weisfeiler. The case remained pending at year’s end; those charged continued free on bail.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law prohibit such practices, there were reports of excessive force, abuse, and degrading treatment by law enforcement officers, including the uniformed national police force (Carabineros), the investigative police (PDI), and prison guards (Gendarmeria).</p>
+<p>On May 21, university student Rodrigo Aviles suffered a severe head injury and was hospitalized for two months after being hit by a water cannon while participating in a student protest. The government initially denied that excessive force was a factor in the injury, but videos appeared on national television showing the youth being struck by a water cannon controlled by a Carabinero. The officer, Manuel Noya, was fired and stated that the injury was an accident.</p>
+<p>On October 14, the Criminal Court of Copiapo found Carabinero Sergeant Cristian Opazo guilty of “apremios ilegitimos” (illegitimate treatment), for violently beating four youths after detaining them on the margins of 2012 social protests in Freirina. He was sentenced to three years in prison, but the sentence was suspended.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh. Human rights organizations reported that violence, including torture, occurred. Violence among inmates also was common.</p>
+<p><u>Physical Conditions</u>: Prisons were overcrowded. The government reported that as of October 31, there were 43,161 prisoners in facilities designed to hold 41,594 inmates. Many prisons were antiquated and offered substandard sanitary conditions, inadequate food, and insufficient medical services. Inadequate heating in some prisons remained a serious problem, and inadequate lighting and ventilation also affected inmates at some prisons. The government reported that access to potable water was limited in several prisons.</p>
+<p>Officials reported 90 prisoner deaths during the year. Violence among inmates accounted for 41 deaths, 10 inmates committed suicide, and 39 died of natural causes.</p>
+<p><u>Administration</u>: Independent authorities generally investigated credible allegations and documented the results in a publicly accessible manner. The government usually investigated and monitored prison and detention center conditions.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison visits by independent human rights observers, and such visits took place at both government and privately operated facilities. Prisoner and human rights groups continued to investigate alleged use of abuse or excessive force against detainees, and the media covered some of the allegations.</p>
+<p><u>Improvements</u>: The government trained and appointed human rights monitors for each prison to organize workshops on human rights and best practices, in coordination with the human rights division of the Gendarmeria. In addition to formalized training, the monitors were responsible for verifying that prisoners’ rights were respected in all proceedings.</p>
+<p>In a number of prisons, LGBTI prisoners were separated from the general population to prevent possible attacks. The Gendarmeria continued to implement an agreement with the nongovernmental organization (NGO) Movement for Homosexual Integration and Liberation that created a training program for the Gendermeria aimed at facilitating the fair treatment of LGBTI prisoners, including managing the integration of LGBTI prisoners with the general prison population.</p>
+<p>Based on analysis of the government’s 2014 survey of the penitentiary system, the Gendarmaria’s human rights division created a subdivision to monitor progress in addressing deficiencies, including overcrowding, temperature control, access to telephones, and treatment of visitors.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Carabineros and the PDI have legal responsibility for law enforcement and maintenance of order, including migration and border enforcement, within the country. The Ministry of the Interior oversees both forces. The INDH monitors complaints and allegations of abuse.</p>
+<p>Civilian authorities generally maintained effective control over the Carabineros and the PDI, and the government has mechanisms to investigate and punish abuse and corruption. The military justice system investigates alleged abuses by Carabineros, and the criminal justice system investigates accusations of abuse by PDI officers. The INDH stated in its 2013 annual report that there were 1,775 complaints against Carabineros in 2012 for “unnecessary violence”; less than 2 percent of that number resulted in convictions in the military justice system. The report noted that Carabineros convicted of using “unnecessary violence” were often reassigned within the institution. Human Rights Watch reported concern that military courts were not fully independent.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Only public officials expressly authorized by law may arrest or detain citizens and generally did so openly with warrants based on sufficient evidence brought before an independent judiciary. Authorities must immediately inform a prosecutor of an arrest and generally did so.</p>
+<p>The prosecutor must open an investigation, receive a statement from the detainee, and ensure that the detainee is held at a local police station until the detention control hearing. Detention control hearings are held twice daily, allowing for a judicial determination of the legality of the detention within 24 hours of arrest. Detainees must be informed of their rights, including the right to an attorney and the right to remain silent until an attorney is present. Public defenders are provided to detainees who do not hire their own lawyer. Authorities must expedite notification of the detention to family members. If authorities do not inform detainees of their rights upon detention, the judge can declare the process unlawful during the detention control hearing.</p>
+<p>The law allows judges to set bail, grant provisional liberty, or order continued detention as necessary for the investigation or the protection of the prisoner or the public.</p>
+<p>The law affords detainees 30 minutes of immediate and subsequent daily access to a lawyer (in the presence of a prison guard) and to a doctor to verify their physical condition. Regular visits by family members are allowed.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the government generally respected judicial independence.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for the right to a fair trial, and an independent judiciary generally enforced this right.</p>
+<p>Defendants enjoy a presumption of innocence and have a right of appeal. They have the right to be informed promptly of charges, to have time to prepare their defense, and not to be compelled to testify. National and regional prosecutors investigate crimes, formulate charges, and prosecute cases. Three-judge panels form the court of first instance. The process is oral and adversarial; trials are public; defendants have the right to be present and consult with an attorney in a timely manner; and judges rule on guilt and dictate sentences. Defendants do not enjoy the right to a trial by jury. Court records, rulings, and findings were generally accessible to the public.</p>
+<p>The law provides for the right to legal counsel, and public defenders’ offices across the country provided professional legal counsel to anyone seeking such assistance. When human rights organizations or family members requested, the NGO Corporation for the Promotion and Defense of the Rights of the People and other lawyers working pro bono assisted detainees during interrogation and trial. Defendants may confront or question adverse witnesses and present witnesses and evidence on their behalf, although the law provides for secret witnesses in certain circumstances. Defendants and their attorneys generally have access to government-held evidence relevant to their cases.</p>
+<p>For crimes committed prior to the implementation of the 2005 judicial reforms, criminal proceedings are inquisitorial rather than adversarial. At year’s end one inquisitorial criminal court remained open and had an extensive wait for trials.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees, although some indigenous Mapuche convicted of criminal offenses claimed to be political prisoners.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent and impartial judiciary in civil matters, which permits individuals to seek civil remedies for human rights violations; however, the civil justice system retained antiquated and inefficient procedures. The average civil trial lasted approximately five years, and civil suits could continue for decades. Administrative and judicial remedies are available for alleged wrongs. Cases involving violations of an individual’s human rights may be submitted through petitions by individuals or organizations to the Inter-American Commission of Human Rights (IACHR), which in turn may submit the case to the Inter-American Court of Human Rights. The court may order civil remedies including fair compensation to the individual injured.</p>
+<p>On September 2, the Inter-American Court for Human Rights ruled against the government in a suit brought by a group of 12 former military officers who were tortured and dishonorably discharged under the Pinochet government, due to their objection to the military coup. The court ordered the government to pay reparations of 217 million pesos ($310,000) to be divided among the officers or their surviving family members. Additionally, the court ruled that the government must honor the plaintiffs in a public ceremony. The government indicated that it would comply with the ruling.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section2"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Press and Media Freedoms</u>: Although the independent media were active and expressed a wide variety of views without restriction, reports in 2013 by Freedom House and Reporters Without Borders expressed concern with media concentration and the unregulated distribution of government-funded advertising. Most media outlets, including 95 percent of print media, were in the hands of two major family companies, Copesa and El Mercurio. No legal framework exists to guarantee fair distributions of frequencies to different broadcast media.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. According to the International Telecommunication Union, approximately 72 percent of households had access to the internet.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights.</p>
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, or other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees, including access to education and health care. The country had fewer than 2,000 refugees recognized by the government.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section3"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to choose their government through free and fair periodic elections based on universal and equal suffrage, and citizens exercised that ability.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In December 2013 Michele Bachelet was elected president in a free and fair election. In November 2013 voters elected 20 of 38 senators and all members of the Chamber of Deputies in elections considered free and fair. Regional counselors also were elected nationwide for the first time in 2013. Newly elected officials took office in March 2014.</p>
+<p><u>Participation of Women and Minorities</u>: There were 19 women in the 120-seat Chamber of Deputies and six women in the 38-seat Senate. There were eight women in the 23-member cabinet. During the year, as part of a larger reform to the electoral processes, the legislature passed a law to provide for greater gender parity among elected officials by requiring that political parties present at least 40 percent female candidates for public office.</p>
+<p>Self-identified indigenous people were elected to public office at the municipal level but not at the national level, in part due to cultural and institutional barriers.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section4"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, and the government generally implemented these laws effectively, although officials sometimes engaged in corrupt practices with impunity. There were isolated reports of government corruption during the year.</p>
+<p><u>Corruption</u>: During the year government prosecutors opened an investigation against a large financial services organization, Penta Group. Penta was alleged to have illegally financed election campaigns of politicians belonging to an opposition party, the Independent Democratic Union, and evaded taxes by claiming the campaign donations as business expenses. At year’s end four Penta executives were charged with tax fraud, bribery, and money laundering and confined to house arrest while awaiting trial. The lithium producer Soquimich (SQM) also came under investigation during the year for alleged engagement in similar practices; SQM allegedly provided illegal funding to candidates across the political spectrum. In February the government opened an investigation against the president’s son, Sebastian Davalos, alleging improper influence during his participation in a real estate transaction made by his wife’s company. Prosecutors also investigated Senator Jaime Orpis for allegedly accepting money in exchange for his vote on a controversial fishing quota law.</p>
+<p>On February 23, the president announced the creation of a presidential committee against corruption and conflicts of interest and in April sent draft legislation to Congress that would strengthen ethics and campaign finance laws. The first of these laws was passed in November. Additionally, in November the committee released a report recommending 236 anticorruption measures, and the president participated in the launch of a new NGO, the Anticorruption Observatory, to monitor the implementation of these measures.</p>
+<p><u>Financial Disclosure</u>: A regulation subjects public officials to financial disclosure. The law requires that all declarations be made public and provides sanctions for noncompliance; however, it does not mandate a unit to monitor disclosures.</p>
+<p><u>Public Access to Information</u>: The constitution requires the government and its agencies make all unclassified information about their activities available to the public. The government granted citizens and noncitizens, including foreign media, access to all unclassified information. The law regulates government transparency and provides public access to information. The law applies to ministries; regional, provincial, and municipal level governments; the armed forces, police, and public security forces; and public enterprises where the state owns more than 50 percent or holds a majority of appointments on the board of directors. The law has a list of five exceptions for nondisclosure. Responses to any requests for information must be delivered within 20 business days, and there is no cost for the request. In cases of noncompliance, the head of the organization is subject to a fine of between 20 percent and 50 percent of his or her monthly salary. The autonomous Transparency Council provides for the right of access to information and issues rulings on cases in which information is denied.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section5"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were generally cooperative and responsive to their views, although some indigenous rights groups claimed their views were disregarded.</p>
+<p><u>Government Human Rights Bodies</u>: The INDH operated independently, issued public statements, and proposed changes to government agencies or policies to promote and protect human rights. The INDH’s 2014 annual report noted several human rights problems, including limits on access to justice; excessive use of force by law enforcement officials; violence against women and children; societal abuses against youth, immigrants, transgender persons, and other minorities; and the continued application of the Pinochet-era antiterrorism law, including in cases involving members of indigenous communities.</p>
+<p>The Senate and Chamber of Deputies have standing human rights committees responsible for drafting human rights legislation.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section6"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution states that all persons are equal in terms of the law and dignity; however, it does not specifically identify groups protected from discrimination. The 2012 antidiscrimination law provides civil legal remedies to victims of discrimination based on race, ethnicity, nationality, socioeconomic situation, language, ideology or political opinion, religion or belief, association or participation in union organizations or lack thereof, gender, sexual orientation, gender identification, marriage status, age, affiliation, personal appearance, and sickness or physical disability. The law also increases criminal penalties for acts of violence based on discrimination.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape. Penalties for rape range from five to 15 years’ imprisonment, and the government generally enforced the law when violations were reported. There was no indication of police or judicial reluctance to act. The law criminalizes both physical and psychological domestic violence and protects the privacy and safety of the victim making the charge of rape or domestic violence. Nonetheless, experts believed that many rape and domestic violence cases went unreported due to fear of further violence, retribution, and social stigma. According to the new Ministry of Women and Gender Equality, one in three women had suffered some kind of domestic violence.</p>
+<p>Family courts handle cases of domestic violence and penalize offenders with fines up to 556,680 pesos ($795). Additional sanctions include eviction of the offender from the residence shared with the survivor, restraining orders, confiscation of firearms, and court-ordered counseling. Cases of habitual psychological abuse and physical abuse cases in which there are physical injuries are prosecuted in the criminal justice system. Penalties are based on the gravity of injuries and range from 61 to 540 days’ imprisonment.</p>
+<p>The government continued to campaign against domestic violence, focusing its outreach efforts particularly through social media. The Ministry of Women and Gender Equality, through the National Women’s Service (SERNAM), operated women’s centers, which provided legal and mental health support, and women’s shelters. The Ministry of Justice and PDI also operated several offices specifically dedicated to providing counseling and assistance in rape cases. SERNAM maintained partnerships with NGOs to provide training sessions for police officers and judicial and municipal authorities on the legal and psychological aspects of domestic violence. The organization also continued to operate a 24-hour hotline for survivors of violence, including domestic abuse and rape.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment is not a criminal offense but is classified as a misdemeanor, with penalties outlined exclusively in the labor code (see section 7.d.).</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and have the information and means to do so, free from discrimination, coercion, and violence. Access to sexual and reproductive health services and information was limited in remote regions, which especially affected poor women. During the year Congress passed a law permitting emergency contraception to be sold at pharmacies without a prescription.</p>
+<p><u>Discrimination</u>: Although women possess most of the same legal rights as men, discrimination in employment, pay, owning and managing businesses, and education persisted. There were no known reports of discrimination in credit or housing. The default and most common marital arrangement is “conjugal society,” which gives a husband the right to administer joint property, including his wife’s property. As a result women married under the conjugal society arrangement were usually required to obtain permission from their husbands to apply for housing subsidies and take out loans or mortgages, while men had unrestricted access to these and other services. Legislation remained pending years after a 2007 agreement with the IACHR to modify the conjugal society law to give women and men equal rights and responsibilities in marriage. The commercial code provides that unless a woman is married under the separate estate regime, she may not enter into a commercial partnership agreement without permission from her husband, while a man may enter into such an agreement without permission from his wife.</p>
+<p>Despite a law providing for equal pay for equal work, the average woman’s annual income was 32 percent less than that of men, according to the Ministry of Women and Gender Equality. The ministry is in charge of protecting women’s legal rights and is the only government office that deals specifically with discrimination against women. Women’s centers throughout the country helped establish equal rights for women by offering services such as training, counseling, and legal advice.</p>
+<p>On March 8, President Bachelet signed a law creating the cabinet-level Ministry of Women and Gender Equality. SERNAM moved from the Ministry of Social Development to operate under the auspices of the Ministry of Women and Gender Equality, a transition that was scheduled to be completed by March 2016. Additionally, the new ministry was tasked with establishing regional offices in support of its mission of gender equality in each region of the country by March 2016.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived by birth within the country’s territory and from one’s parents or grandparents. Births are registered immediately.</p>
+<p><u>Child Abuse</u>: Intrafamiliar violence, including violence against children, remained a persistent problem. Regional offices of the National Children’s Service (SENAME) organized campaigns throughout the country to combat child abuse and the worst forms of child labor.</p>
+<p>SENAME reported charges were filed in nearly 10 thousand cases of sex abuse of children under age 18 from January through August. The law renders persons convicted of child sexual abuse permanently ineligible for any position, job, career, or profession in educational settings requiring direct and habitual contact with children under age 18. The law also includes a public registry of these sex offenders.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age of marriage is 18 (16 with parental consent).</p>
+<p><u>Sexual Exploitation of Children</u>: Commercial sexual exploitation of children and adolescents was a problem, and children were exploited in prostitution with and without third-party involvement. The penalties for commercial sexual exploitation of children range from three to five years in prison; most convicted traffickers in 2014, however, were released on parole or given suspended sentences, as permitted under sentencing guidelines for convictions with penalties of less than five years’ imprisonment. The range increases from five years and a day to 20 years and a fine of 31 to 35 UTM ($2,015 to $2,275) in cases where exploitation is habitual, or if there was deceit or abuse of authority or trust. (The monthly tax unit, or UTM, is a legally defined currency unit, indexed to inflation, equivalent to $65.)</p>
+<p>Heterosexual sexual conduct with youths between ages 14 and 18 may be considered statutory rape depending on the circumstances; sex with a child under age 14 is considered rape, regardless of consent or the victim’s gender. Penalties for statutory rape range from five to 20 years in prison. Child pornography is a crime. Penalties for producing child pornography range from 541 days to five years in prison.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For more information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/en/country/chile.html">travel.state.gov/content/childabduction/en/country/chile.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community numbered approximately 20,500 and reported threats via social media and acts of vandalism (graffiti) on Jewish community buildings. Much of the social media commentary and graffiti appeared to have been motivated by disagreement with the policies of the state of Israel. Government authorities responded promptly to community concerns and issued statements denouncing anti-Semitism.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, and the provision of other state services, and the government effectively enforced these provisions. Nevertheless, persons with disabilities suffered forms of de facto discrimination (also see section 7.d.). The law provides for universal and equal access to buildings, information, and communications. Most public buildings did not comply with legal accessibility mandates. The public transportation system, particularly outside Santiago, did not adequately provide accessibility for persons with disabilities. In recent years, however, TranSantiago, the main system of public transportation within Santiago, instituted changes to improve compliance with the law, including new ramp systems and elevators at certain metro stations as well as improved access to some buses. Nevertheless, many metro stations and most buses remained inaccessible to persons with physical disabilities.</p>
+<p>The National Service for the Disabled (SENADIS) reported that children with disabilities attended school (primary and secondary) but noted difficulties in ensuring equal access to schooling at private institutions. SENADIS also reported that persons with disabilities had fewer opportunities to continue their education following secondary school.</p>
+<p>SENADIS operates under the jurisdiction of the Ministry of Planning, has responsibility for protecting the rights of persons with disabilities, and advocates and promotes integration and protection policies throughout all government agencies.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Equal treatment and nondiscrimination are explicitly promoted in the constitution, and the labor code specifically prohibits discrimination. According to the Second National Survey of Human Rights, published by the INDH in 2013, 5.8 percent of the surveyed population had experienced discrimination due to the color of their skin. In 2014 the National Institute of Statistics published the first-of-its-kind survey of Afro-descendants in Chile (ENCAFRO), focusing on the northern region where Afro-descendants comprise a greater percentage of the population. The survey revealed that Afro-descendants completed fewer years of formal schooling and had a reduced participation in the work force as compared with the regional average. In its 2014 report, the INDH advocated for improved visibility of race in public policy-making and greater recognition of Afro-descendants as steps towards combating de facto discrimination in education and employment.</p>
+<p>Additionally, in its 2013 report, the INDH indicated that immigrants, and in particular immigrants of color, faced greater barriers in access to health care. In January the Ministry of Health approved a Program for Immigrant Access to Health Care, which assures access to free public health care for all emergency services, as well as for children and pregnant women, regardless of immigration status. The Diego Portales University Law School 2015 annual report on human rights noted that as of October the program had not been fully implemented on a national level.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>Indigenous people (approximately 5 percent of the total population) have the right to participate in decisions affecting their lands, cultures, and traditions, including the exploitation of energy, minerals, timber, or other natural resources on indigenous lands. Of the indigenous population, 80 percent belong to the Mapuche people. On March 18, the UN special rapporteur on extreme poverty urged the government to improve efforts to address the exclusion, marginalization, and discrimination of its indigenous peoples. Indigenous people experienced societal discrimination, including in employment (also see section 7.d.), and there were reports of incidents in which they were attacked and harassed. Indigenous women faced discrimination based on their gender, indigenous background, and reduced economic status, and they were especially vulnerable to violence, poverty, and illness. The constitution does not specifically protect indigenous groups.</p>
+<p>Protests by indigenous groups over land rights continued throughout the year, particularly in the Araucania region, one of the poorest regions and where one-third of the population self-identifies as belonging to the Mapuche indigenous group. Protests over land rights sometimes included violent acts, such as the destruction of trucks and farm equipment. Acts of property damage produced further protests by farmers and truckers over a perceived lack of public order. In August truckers belonging to the Chilean National Confederation of Cargo Transport drove in caravan several hundred miles from the Araucania region to the capital to protest what they asserted was impunity by arsonists who were destroying privately owned trucks as part of political protests over land rights. In receiving these protesters, Interior Minister Jorge Burgos acknowledged that many of the arson attacks in the region had gone unpunished. In October the government announced the creation of a special unit of Carabineros and prosecutors assigned to maintain public order in the Araucania region.</p>
+<p>There were numerous reports of police abuse against Mapuche individuals and communities, including against children. The INDH brought petitions to protect the constitutional rights of Mapuche individuals, including children and adolescents, in cases of excessive use of force by security forces. In addition the NGO Citizens’ Observatory reported police searched Mapuche homes without warrants, arrested and released Mapuche individuals without detention control hearings, and used intimidation and discriminatory statements against Mapuche individuals, including minors.</p>
+<p>On February 4, the Temuco Appellate Court granted an INDH petition to protect three adolescents from the community of Conumil Epuleo who were illegally detained and beaten by Carabineros in October 2014. The court remitted the case to the Prosecutor’s Office for a criminal investigation.</p>
+<p>The exploitation of energy, minerals, and timber occurred near indigenous communities, including mining projects in the north--where Aymara, Atacameno, Quechua, Colla, and Diaguita indigenous populations live--and timber exploitation in the south, where the Mapuche live. Indigenous lands are demarcated, but some indigenous Mapuche communities demanded restitution of privately and publicly owned traditional lands. Indigenous communities took legal action against mining projects in the north due to their potential contamination of the water supply and environment as well as the impact on subsistence agriculture of demands for water in desert environments. Indigenous populations also expressed concern that timber plantations in the south could negatively affect the water table due to the introduction of nonnative species and the potential contamination of coastal areas from pulp production. While indigenous people have the right to participate in decisions affecting their lands, cultures, and traditions, Citizen’s Observatory reported they encountered serious obstacles to exercising these civil and political rights.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law does not criminalize consensual same-sex conduct between consenting adults. The law sets the age of consent at 18 for homosexual sexual activity; heterosexual activity is permitted, under some circumstances, at age 14. Antidiscrimination laws exist and prohibit discrimination based on sexual orientation or gender identity. In February the NGO Movement for Homosexual Integration and Liberation reported that it tracked 237 cases of discrimination due to sexual orientation and gender identity during 2014.</p>
+<p>Violence against LGBTI individuals continued. In 2014 five LGBTI persons were killed by assailants who allegedly made direct reference to their victims’ sexuality during the attack. At year’s end all cases were under investigation, and none had come to trial.</p>
+<p>Law enforcement authorities appeared reluctant to use the full recourse of a 2012 antidiscrimination law, including charging assailants of LGBTI victims with a hate crime, which would elevate criminal penalties as permitted under the law.</p>
+<p>Laws prevent transgender persons from changing gender markers on government-issued identity documents, including national identity cards and university diplomas, to match their outward appearance or chosen expression.</p>
+<p>In April President Bachelet signed into law legislation recognizing civil unions of LGBTI persons. The measure, which went into effect on October 22, extends legal protections, including rights to inheritance and to health and pension benefits.</p>
+<p>During the year law enforcement and government institutions, including the Gendarmeria, Carabineros, PDI, and the civil register, participated in gender sensitivity and nondiscrimination workshops aimed at improving services for LGBTI citizens.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons based on their HIV status and provides that neither public nor private health institutions may deny access to health-care services on the basis of a person’s serological status. In 2012 the UN Convention on the Elimination of All Forms of Discrimination against Women reported that HIV-positive women received discriminatory health-care treatment, especially in reproductive health services. Problems included delayed care, verbal abuse, pressure not to have children, and refusal of treatment. Women in particular also faced significant obstacles to preventing HIV infection due to limited awareness of public health services, lack of education, and gender-based violence.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section7"> </span><span class="st_twitter" st_title="Chile #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Chile - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252999%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the rights of workers, with some limitations, to form and join independent unions of their choice, bargain collectively, and conduct strikes. The law also prohibits antiunion practices and requires either compensation or reinstatement of workers fired for union activity.</p>
+<p>Police, military personnel, and civil servants belonging to the judiciary are prohibited from joining unions. Union leaders are restricted from being members of political parties, and the Directorate of Labor has broad powers to monitor unions’ financial accounts and financial transactions. The law prohibits public employees from striking. While employees in the private sector have the right to strike, the law places some restrictions on this right. For example, an absolute majority of workers must approve strikes. Strikes by agricultural workers during the harvest season are prohibited. The law also prohibits employees of 101 private-sector companies, largely providers of services such as water and electricity, from striking and stipulates compulsory arbitration to resolve disputes in these companies. The law does not specifically prohibit employers from dismissing striking workers, but employers must show cause and pay severance benefits if they dismiss strikers.</p>
+<p>The law provides for collective bargaining rights only at the company level. Intercompany unions are permitted to bargain collectively only when the individual employers all agree to negotiate under such terms. The law does not provide for collective bargaining rights for workers in public institutions or in private institutions whose budget is dependent upon the Defense Ministry. It also does not provide for collective bargaining in companies whose employees are prohibited from striking, such as in health care, law enforcement, and public utilities. In addition the law does not guarantee collective bargaining rights for temporary workers or those employed solely for specific tasks, such as in agriculture, construction, ports, or the arts and entertainment sector. Collective bargaining in these sectors remained dependent on employers being willing to negotiate.</p>
+<p>The government generally enforced labor laws effectively. Nevertheless, the Labor Directorate under the Ministry of Labor commented on the need for more inspectors and noted that financial penalties did not always deter companies from repeating offenses. Companies are generally subject to sanctions for violations to the labor code of one to 10 UTM ($65 to $650) for micro- and small businesses, two to 40 UTM ($130 to $2,600) for medium businesses, and three to 60 UTM ($195 to $3,900) for large businesses, according to the severity of each case. Companies may receive “special sanctions” for infractions, which include antiunion practices. NGOs reported that cases in labor tribunals took approximately three months. Cases involving fundamental rights of the worker often took closer to six months. NGOs continued to report that it was difficult for judges to enforce decisions in favor of workers for various reasons, including if a company’s assets were in a different name or the juridical entity could not be located.</p>
+<p>Freedom of association was generally respected. Employers sometimes did not respect the right to collective bargaining. Despite being prohibited by law, public sector and health-care worker strikes occurred throughout the year. In November, Civil Registry employees ended a 39-day strike after the government agreed to a 10 percent increase to the pay scale and a bonus through 2017. Workers faced no repercussions for the strike. According to Freedom House and the International Trade Union Confederation, antiunion practices continued to occur. Replacing workers on strike was permitted by law. NGOs and unions reported companies also used subcontracts and temporary contracts; they also obtained several fiscal registration/tax identification numbers as a form of antiunion discrimination and to increase the size of the workforce without granting collective bargaining rights.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. In general the government effectively enforced applicable laws. Penalties of five to 15 years’ imprisonment for violations were sufficiently stringent to deter violations. NGOs reported many government officials responsible for identifying and assisting victims had limited resources and expertise to identify trafficking victims, particularly for forced labor.</p>
+<p>Forced labor continued to occur. Foreign citizens, including men, women, and children, were subjected to forced labor in the mining, agriculture, domestic service, and hospitality sectors. Some children were forcibly employed in the drug trade (see section 7.c.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law sets the minimum age for employment at 18, although it provides that children between 15 and 18 may work with the express permission of their parents or guardians as long as they attend school. They may perform only light work that does not require hard physical labor or constitute a threat to health or the child’s development. When attending school, children may not work more than 30 hours a week and in no case more than eight hours a day or between the hours of 10 p.m. and 7 a.m. Employers must register their work contracts at the local Ministry of Labor inspector’s office.</p>
+<p>Ministry of Labor inspectors effectively enforced regulations in the formal economy but did not inspect or enforce such regulations in the informal economy. Penalties and inspections were not generally seen as sufficient to deter grave violations that mostly occurred clandestinely or in the informal economy.</p>
+<p>The government devoted considerable resources and oversight to child labor policies. With accredited NGOs, SENAME ran programs throughout the country to protect children in vulnerable situations. SENAME, in coordination with labor inspectors, identified and assisted children in abusive or dangerous situations. SENAME continued to work with international institutions, such as the International Labor Organization, and other ministries to conduct training on identifying and preventing the worst forms of child labor. SENAME also implemented public education programs to raise awareness and worked with the International Labor Organization to operate rehabilitation programs for children withdrawn from child labor.</p>
+<p>The government adopted a new national child labor strategy to eradicate child labor and protect adolescent workers. Multisector government agencies continued to participate in the National Advisory Committee to Eradicate Child Labor. The committee met regularly throughout the year and brought together civil society organizations and government agencies in a coordinated effort to raise awareness, provide services to victims, and protect victims’ rights. The Worst Forms of Child Labor Task Force, a separate entity, maintained a registry of cases and developed a multisector protocol for the identification, registration, and care of children and adolescents who are victims of commercial sexual exploitation. During the year SENAME worked with the National Tourism Service (SERNATUR) to include strict norms in hotel certification procedures for preventing the commercial sexual exploitation of children. This included special training for SERNATUR staff charged with assessing and certifying hotels.</p>
+<p>Child labor continued to be a problem in the informal economy and agriculture, primarily in rural areas. Higher numbers of violations occurred in the construction, industrial manufacturing, hotels and restaurants, and agriculture sectors. Infractions included contracting a minor under 18 without the authorization of the minor’s legal representative, failure to register a minor’s contract with the ministry, and contracting a minor under age 15 for activities not permitted by law.</p>
+<p>Commercial sexual exploitation of children continued to be a problem (see section 6, Children). Children worked in the production of ceramics and books and in the repair of shoes and garments. In urban areas it was common to find boys carrying loads in agricultural loading docks and assisting in construction activities, while girls sold goods on the streets and worked as domestic servants. Children in rural areas were involved in caring for farm animals as well as harvesting, collecting, and selling crops, such as wheat. The use of children in the production, sale, and transport of drugs in the border area with Peru and Bolivia continued to be a problem.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The law and regulations prohibit employment discrimination based on race, sex, disability, language, sexual orientation, and/or gender identity, HIV-positive status or other communicable diseases, or social status. The law also provides civil legal remedies to victims of employment discrimination based on race, ethnicity, nationality, socioeconomic situation, language, ideology or political opinion, religion or belief, association or participation in union organizations or lack thereof, gender, sexual orientation, gender identification, marriage status, age, affiliation, personal appearance, and sickness or physical disability.</p>
+<p>By law sexual harassment is cause for immediate dismissal from employment. The law requires employers to define internal procedures for investigating sexual harassment, and employers may face fines and additional financial compensation to victims if internal procedures are not met. The law provides protection to those affected by sexual harassment by employers and coworkers. It also provides severance pay to those individuals who resign due to sexual harassment if they have completed at least one year with the employer.</p>
+<p>The government effectively enforced applicable laws and regulations prohibiting employment discrimination. Authorities generally enforced the law in cases of sexual harassment, and there was no evidence of police or judicial reluctance to act. Companies may receive “special sanctions” for infractions such as denying maternity leave. Such penalties were generally sufficient to deter violations.</p>
+<p>Nevertheless, discrimination in employment and occupation continued to occur. Persons with disabilities often faced discrimination in hiring; they constituted approximately 7.6 percent of the working-age population but only 0.5 percent of the workforce. Indigenous people experienced societal discrimination in employment.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The national minimum wage was 241,000 pesos ($345) a month for all occupations, including domestic servants. The minimum monthly wage for workers over age 65 and under 18 was 179,912 pesos ($260). The 2013 official poverty level, the latest data available, was 91,274 pesos ($130) per month.</p>
+<p>The law sets the legal workweek at six days or 45 hours. The maximum workday is 10 hours (including two hours of overtime pay), but some categories of workers, such as managers; administrators; employees of fishing boats; restaurant, club, and hotel workers; drivers; airplane crews; telecommuters or employees who work outside of the office; and professional sportspersons are exempt from hours of work restrictions. The law mandates at least one 24-hour rest period during the workweek, except for workers at high altitudes, who may exchange a work-free day each week for several consecutive work-free days every two weeks. Annual leave for full-time workers is 15 workdays, and workers with more than 10 years of service are eligible for an additional day of annual leave for every three years worked. Overtime is considered to be any time worked beyond the 45-hour workweek, and workers are due time-and-a-half pay for any overtime performed.</p>
+<p>The law establishes occupational safety and health standards, which are applicable to all sectors. Special safety and health norms exist for specific sectors, such as mining and diving. The National Service for Geology and Mines is further mandated to regulate and inspect the mining industry. The law does not regulate the informal sector. By law workers can remove themselves from situations that endanger health or safety without jeopardy to their employment, and authorities effectively protected employees in this situation.</p>
+<p>The Labor Directorate under the Ministry of Labor is responsible for enforcing minimum wage and other labor laws and regulations, and it did so effectively in the formal economy. The Ministries of Health and Labor administered and effectively enforced occupational safety and health standards. The law establishes fines for noncompliance with labor regulations, including for employers who compel workers to work in excess of 10 hours a day or do not provide adequate rest days. Companies are generally subject to sanctions for violations to the labor code of one to 10 UTM ($65 to $650) for micro- and small businesses, two to 40 UTM ($130 to $2,600) for medium businesses, and three to 60 UTM ($195 to $3,900) for large businesses, according to the severity of each case. Companies may receive “special sanctions” for infractions such as causing irreversible injuries to an employee. Workers in the informal economy were not effectively protected in regard to wages or safety. Insurance mutual funds are private nonprofit institutions that receive a commission from the government to provide workers’ compensation and occupational safety training for the private and public sectors.</p>
+<p>The Labor Directorate employed approximately 720 labor inspectors during the year. Both the Labor Directorate and NGOs reported the need for more inspectors to enforce labor laws throughout the country, particularly in remote areas. NGOs commented that inspectors and labor tribunal judges needed more training and that a lack of information and economic means generated an inequality between parties in cases before the tribunals. Fines were not considered to have a deterrent effect with larger employers. The Labor Directorate worked preventively with small and medium-sized businesses to assist in their compliance with labor laws.</p>
+<p>Minimum wage violations were most common in the real estate and commerce sectors. As of August the sectors with the most infractions in safety and health standards were construction, retail, industrial manufacturing, and commerce. The service sector suffered the most accidents during the year. Immigrant workers in the agricultural sector were the group most likely to be subject to exploitative working conditions.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

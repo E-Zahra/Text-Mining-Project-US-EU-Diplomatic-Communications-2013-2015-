@@ -1,0 +1,520 @@
+2014
+Malta
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552"> </span><span class="st_facebook" st_title="Malta" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236552">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236552</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=executive"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Malta is a constitutional republic and parliamentary democracy. The president is the head of state, appointed by a resolution of the unicameral parliament (House of Representatives). Parliament appointed a new president on April 4. The president names as prime minister the leader of the party winning a majority of seats in parliamentary elections. The March 2013 general elections were deemed free and fair. Authorities maintained effective control over security forces.</p>
+<p>The government’s practice of detaining irregular migrants and asylum seekers from North Africa was the most serious human rights problem during the year, with strongest criticism directed at inadequate government programs for integrating migrants into Maltese society.</p>
+<p>Other significant problems included lengthy delays in the judicial system, which sometimes limited individuals’ access to due process. Societal problems included child abuse, trafficking in persons, and sub-standard work conditions for irregular migrants.</p>
+<p>The government took steps to investigate, prosecute, and punish officials who committed abuses, whether in security services or elsewhere in government.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section1"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances, abductions, or kidnappings.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, and there were no reports that government officials engaged in them.</p>
+<p>On February 14, authorities amended the criminal code to prohibit corporal punishment in all settings, including the home.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions generally met international standards. Poor conditions in government-run detention centers for irregular migrants persisted.</p>
+<p><u>Physical Conditions</u>: As of August the prison population of 592 inmates consisted of 555 men and 37 women. The male inmate population included 10 juveniles. Of the adult prisoners, 234 were foreigners, approximately 19 percent of whom were of African descent.</p>
+<p>Prisons held men and women separately and did not differentiate treatment based on gender. Prisoners had access to potable water. Food, sanitation, and standards of medical care were generally adequate. During the year there were no reports of problems related to prison overcrowding.</p>
+<p>In September the population in closed detention centers for migrants was 246 persons, down from 1,200 in 2013. Officials housed migrants in two closed centers, Lyster Barracks in Hal Far and Safi. Due to a decrease in irregular migrants arriving by sea, detention centers operated well below full capacity (376 at Lyster and 832 at Safi).</p>
+<p>In September the total population in the open centers (where migrants resided following determination of their status) was 889, compared with approximately 1,602 in November 2013. The government relocated vulnerable migrants and provided care appropriate to their conditions. Authorities moved migrants considered minors to residential facilities and provided them requisite services, such as education or training.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was accurate. Prison officials allowed detainees reasonable access to visitors and permitted religious observance. Authorities allowed prisoners and detainees to submit uncensored complaints to judicial officials and to request investigation of credible allegations of inhuman conditions. Authorities investigated such complaints.</p>
+<p>The law includes a provision for granting parole to prisoners. The law also provides for the establishment of an offender assessment board, a remission board, a victim support unit, and a victim-offender mediation committee. As of September, 14 persons benefitted from the parole system, in addition to four in 2013.</p>
+<p><u>Independent Monitoring</u>: The government permitted visits to detention centers by independent human rights observers, foreign diplomats, and the media.</p>
+<p><u>Improvements</u>: Authorities renovated living facilities in open centers. In response to a 2010 report by the UN Working Group on Arbitrary Detention indicating that the detention regime imposed on irregular migrants arriving by sea did not conform to international human rights law, the government undertook a number of improvements, including the provision of mental health counseling and social services for such migrants immediately upon their arrival.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The national police, the intelligence services, and the army fall under the jurisdiction of the Ministry of Home Affairs and National Security. The police are responsible for maintaining internal security. The army is in charge of external security but has some domestic security responsibilities as well. Civilian authorities maintained control over the police force, the intelligence services, and the armed forces, and the government had effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving police or security forces during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>On average, authorities detained irregular migrants for two to 12 months pending adjudication of their asylum requests and up to 18 months for those with rejected applications. Authorities informed migrants of their rights upon arrival at a closed center and provided them access to legal counsel.</p>
+<p>A magistrate may issue an arrest warrant to detain a person for questioning based on reasonable suspicion. According to the constitution, police must either file charges or release a suspect within 48 hours. In all cases, authorities must inform detainees of the grounds for their arrest. Police generally respected these requirements. During the 48-hour detention period and prior to initial interrogation authorities allowed arrested persons access to legal counsel but did not permit visits by family members. After filing charges authorities granted pretrial detainees access to both counsel and family. Once detainees requested a lawyer, however, they lost their right to remain silent.</p>
+<p>The courts adjudicated applications for bail on a case-by-case basis and normally granted bail for citizens. Authorities rarely granted bail to foreigners because the courts considered them flight risks.</p>
+<p><u>Pretrial detention</u>: Lengthy pretrial detention was a problem. Authorities occasionally confined foreign suspects for more than two years while awaiting arraignment and trial. More than 20 percent of the prison population was in pretrial detention. On May 29, a judge ruled in favor of two Somali men who had not received a fair hearing within a reasonable time. The court awarded each applicant 5,000 euros ($6,250) in damages. The government appealed the sentence, and the case was pending at year’s end.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p><u>Independence of the Judiciary</u>: The constitution provides for an independent judiciary, and the government generally respected judicial independence.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair and public jury trial, and an independent judiciary generally enforced this right. Defendants enjoy a presumption of innocence. Defendants have the right to prompt and detailed information of the charges; free interpretation is available if necessary. Defendants are entitled to a fair and public trial and are not compelled to testify or confess guilt; they must specifically request jury trials. Defendants have the right to counsel of their choice or, if they cannot afford counsel, to court-appointed counsel at public expense. Defendants and their lawyers receive adequate time and facilities to prepare a defense and have access to government-held evidence relevant to their cases. Defendants may confront witnesses and present evidence. They have the right to appeal. The law extends these rights to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for an independent and impartial court in civil matters, including human rights. After exhausting their right of appeal in the national court system, individuals may apply to bring cases covered by the European Convention on Human Rights before the European Court of Human Rights (ECHR). Citizens regularly exercised this right.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>Through August the ECHR delivered one judgment in a case dealing with asbestos exposure at the former Malta Drydocks Corporation. On July 27, the ECHR found in favor of the plaintiffs, who claimed violations of their right to life and right to privacy under articles 2 and 8 of the Convention on Human Rights.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and there were no reports that the government failed to respect these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section2"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Freedom of Speech</u>: The law prohibits “vilification” of or “giving offense” to the Roman Catholic Church, the country’s official religion. Also illegal, but carrying a lesser punishment, is vilification of or giving offense to any “cult tolerated by law,” (essentially all religions other than Roman Catholicism). It is a criminal offense to utter publicly any obscene or indecent words, commit obscene acts or make obscene gestures, or in any other way offend public morality, propriety, or decency. From January to August, there were 269 cases of public blasphemy in the courts.</p>
+<p>The law criminalizes speeches that promote hatred, defame races, ethnic or language groups, gender, gender identity or sexual orientation.</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views without restriction. The law criminalizes articles, and books that promote hatred, defame races, ethnic or language groups, gender, gender identity or sexual orientation.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. According to Eurostat statistics, approximately 79 percent of households had access to broadband and internet connections.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom.</p>
+<p>The law restricts cultural activities that publicly vilify the Roman Catholic Church and other religions tolerated by law.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation and the government generally respected these rights. The government generally cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. Through late September 586 migrants arrived by sea in comparison with 2,008 arrivals between January and December 2013. Another 563 migrants arrived by commercial ferry or air.</p>
+<p>The lengthy adjudication procedure for asylum seekers was largely due to the authorities’ need to establish the migrant’s identity, country of origin, and other vital information, since migrants typically arrived without identity documents. Authorities detained such migrants. Detainees could file asylum claims within two months of detention, and they remained in detention while their cases were processed.</p>
+<p>Although migrants spent an average of two months in detention, some irregular migrants remained in closed detention centers for up to 18 months after their arrival when authorities rejected both their application for asylum and appeal. Since 2011 the country has normally granted humanitarian protection in such cases. As of September, 246 persons were in closed centers.</p>
+<p>Detainees also included persons who had not applied for asylum or those whose asylum applications and appeals were rejected or under review. The government provided asylum applicants with free legal aid at the appeal stage of the application process. Prior to the appeal stage, nongovernmental organizations (NGOs), or the migrants themselves, paid for legal assistance.</p>
+<p>Individuals awaiting decisions on their cases occasionally protested their detention or attempted to escape from detention centers. Within a matter of days (usually less than two weeks) after their initial detention, authorities moved “vulnerable individuals,” such as children, pregnant women, elderly persons, and parents with infants, to “open centers,” where they were free to come and go. Migrant children were eligible for all government social services and were assigned a caseworker.</p>
+<p>Authorities released all detainees whose cases were not resolved within 18 months, regardless of whether the police had arranged to repatriate them. Authorities permitted such individuals to remain in the country in “open centers” or in the community at large and issued them work permits. EU law prohibited them from traveling to other EU countries or bringing family members to the EU. They were eligible for voluntary repatriation programs, but only a few chose to participate. There were no significant changes to this general pattern. As of September there were 889 migrants living in three open centers.</p>
+<p><u>Safe Country of Origin/Transit</u>: As a member of the Schengen Zone, the country was subject to the Dublin III Regulation. The country denied asylum to applicants who arrived from an EU country.</p>
+<p><u>Refugee Abuse</u>: In some open and closed centers, high temperatures in the summer months and inadequate ventilation in prefabricated housing units contributed to uncomfortable living conditions. Delays in status determination and poor living conditions have led to riots among detained migrants.</p>
+<p>An October 2013 UNHCR position paper on the country’s detention system for irregular migrants seeking asylum described the main problems as the lack of an effective judicial review process and substandard conditions. The paper concluded that the country was not in line with international and European law standards.</p>
+<p>On February 6, the media reported that the police charged three detention service officials with the involuntary murder of a Nigerian migrant in 2011. The case continued at year’s end</p>
+<p><u>Durable Solutions</u>: The government rarely repatriated asylum applicants, although the option of voluntary return to their country of origin was available. As of August 19, there were 58 assisted voluntary returns.</p>
+<p>The government, in collaboration with the International Organization for Migration, operated a program funded in part by the EU called Restart through which irregular migrants who agreed to leave the country voluntarily could receive free rail or airfare to their country of origin, plus financial assistance. From January to September 16, Restart provided benefits to 55 returnees and three children, who returned to their countries of origin with their parents.</p>
+<p><u>Temporary Protection</u>: The country provides “subsidiary protection” to individuals who do not satisfy the legal criteria for refugee status but cannot return to their country of origin due to risk of serious harm. From January to August, the country granted subsidiary protection to 653 persons. In accordance with EU guidelines, beneficiaries of subsidiary protection were entitled to remain in the country, move freely, receive personal identification documents including one-year renewable residence permits, and obtain travel documents in emergencies. They could be employed; receive core social welfare benefits; seek appropriate accommodations; and benefit from integration programs, public education and training, and essential medical care. Their dependents enjoyed the same rights and benefits. This status did not provide for family reunification, a path to citizenship, or other benefits of refugee status. Between 2008 and July 2014, most of the 9,785 persons granted subsidiary protection status or other humanitarian protected status originated from Somalia.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section3"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: On May 24, the country held elections for the European Parliament that election observers considered free and fair. The most recent parliamentary elections, held in March 2013, resulted in the formation of a Labor Party government. Observers considered the elections free and fair, and the government transition was smooth.</p>
+<p><u>Participation of Women and Minorities</u>: On April 4, the parliament appointed a woman president, the second in the country’s history. Four of the six representatives elected to the European Parliament in May were women. There were nine women in the 69-seat parliament and two in the 23-member Cabinet of Ministers. Approximately 13 percent of senior government officials were women. Five of the 23 judges and 11 of the 21 magistrates were women. There were no members of minority groups in the government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section4"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The criminal code provides criminal penalties for corruption by officials, and the government generally implemented these laws effectively. There were isolated allegations of government corruption during the year.</p>
+<p><u>Corruption</u>: The police and the Permanent Commission against Corruption were responsible for combating official corruption and had pending cases at year’s end. They do not publish information about cases or findings.</p>
+<p><u>Financial Disclosure</u>: Government officials are subject to financial disclosure laws, and declarations are available to the public. Courts can compel disclosure, depending on the circumstances</p>
+<p><u>Public Access to Information</u>: In adherence to the law, the government established procedures to provide members of the press information to help them “fulfill their public tasks.” The government has not defined the scope of this mandate. The government did not allow access to government information in matters of public interest, security, or court proceedings in progress. Authorities generally granted access to government activities not subject to disclosure under the law.</p>
+<p>The law establishes the right to request information held by public authorities with a few exceptions, such as national security or internal court working documents</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section5"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials often were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The ombudsman is empowered to investigate complaints about the activities of governmental bodies, including activities affecting human rights and problems involving prisoners and detainees. The president appoints the ombudsman with the consent of two-thirds of parliament. The ombudsman investigates complaints only when administrative or judicial remedies are not available.</p>
+<p>In responding to wholly or partly justified complaints, the ombudsman submits recommendations to the public entity responsible for addressing the complainant’s grievance. The ombudsman has no power to impose or compel a remedy, but relevant public bodies accepted most of the ombudsman’s recommendations. The government set up internal review boards in the armed forces and the state energy company to address alleged injustices. In August 2013 the ombudsman stated he would hear grievances from the armed forces and the state energy company after the boards concluded their reviews; the ombudsman and the armed forces did not resolve the issue of jurisdiction during the year.</p>
+<p>Parliament’s bipartisan Standing Committees on Foreign and European Affairs and on Social Affairs were responsible for human rights issues and met regularly. The committees normally held open hearings, and their deliberations were a matter of public record unless they closed a hearing for security reasons. There was generally full debate on issues before the committees. For the most part, the committees had a reputation for integrity and credibility, with legislation enacted in the areas under their purview enjoying widespread public support.</p>
+<p>The National Commission for the Promotion of Equality (NCPE) and the National Commission for Persons with Disability oversaw human rights issues related to gender equality and disabilities.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section6"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on race, gender, disability, language, sexual orientation or gender identity, or social status, and the government generally enforced these prohibitions.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, including spousal rape, is a criminal offense, and the government effectively prosecuted such crimes. The crime of rape carries a sentence of up to nine years in prison with increased penalties in aggravated circumstances such as spousal rape, and indecent assault. Through July there were eight officially reported cases of rape compared with nine in 2013.</p>
+<p>The law treats domestic violence as an aggravated circumstance of other crimes such as bodily harm, rape, and harassment, and the government generally enforced the laws prohibiting it. Penalties ranged from three months to 20 years in prison. Through August the police received 719 reports of domestic violence. Although some NGOs and victims’ assistance advocates asserted that domestic violence remained underreported, primarily because of concerns by women that law enforcement personnel would not believe or protect them, Victim Support Malta, an NGO that works with victims of domestic violence, stated that increasingly more victims were taking action and reporting abuse.</p>
+<p>A special police unit and several voluntary organizations provided support to victims of domestic violence and all forms of gender-based violence. A hotline existed to assist victims of abuse through counseling and shelter referrals. The Ministry for the Family and Social Solidarity was responsible for a government-supported shelter for women and children. The government also provided financial support to other shelters, including those operated by the Roman Catholic Church.</p>
+<p>During the year the government set up a Sexual Assault Response Team comprised of on-call medical staff, police, social workers, and a psychologist.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: In January authorities amended the law to prohibit FGM/C with a penalty of three to five years’ imprisonment. As of November the police had received no reports related to FGM.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment is unlawful and punishable by a 2,329 euro ($2,911) fine, six months’ imprisonment, or both. In 2013 the NCPE received two complaints, of which one was withdrawn and the other determined to be unfounded upon investigation.</p>
+<p><u>Reproductive Rights</u>: The government recognizes the basic right of couples and individuals to decide freely and responsibly the number, spacing, and timing of their children; and the right to attain the highest standard of reproductive health free from discrimination, coercion, and violence.</p>
+<p><u>Discrimination</u>: Women have the same legal rights as men, including, but not limited to, family and property law. Redress in the courts is available for sexual discrimination. The Ministry for Social Dialogue, Consumer Affairs, and Civil Liberties, and the NCPE are responsible for gender equality. These entities focused on broader integration of women into society and provided advice to the government on the implementation of policies to promote equality of women and men. On June 3, parliament amended the Equality of Men and Women Act implementing the principals of equal employment opportunity (see section 7.d.).</p>
+<p>Women constituted a growing proportion of graduates of higher education and of the workforce. Nonetheless, they remained underrepresented in management and generally earned less than their male counterparts. Figures on the wage disparity between women and men differed moderately. Eurostat reports showed the gender pay gap for 2012 was 6.1 percent. According to Eurostat, in 2013 the female employment rate was 47 percent, compared with 74 percent for men.</p>
+<p>In April the government introduced free child-care centers. The media reported that as of May more than 2,000 women applied to use the service.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p>On February 14, authorities amended the criminal code to raise the age of criminal responsibility from nine to 14 years.</p>
+<p><u>Birth Registration</u>: Citizenship is derived by birth within the country’s territory and from one’s parents. Parents may pass citizenship to their children, although the law allows transmission of citizenship by a grandparent or other relative in certain circumstances. Births were registered immediately. According to the local UNHCR representative, there were no reports that officials denied education or health care to children due to their lack of citizenship.</p>
+<p><u>Child Abuse</u>: In 2013 the Child Protection Service of Appogg, the social welfare services arm of the Ministry for the Family and Social Solidarity, received 784 referrals of possibly abused children, compared with 786 in 2012. The service’s caseload for 2013 was 1,135, down from 1,377 the previous year, and included 504 new and reopened cases. Between January and September, authorities convicted 13 persons of sexual abuse of minors.</p>
+<p><u>Early and Forced Marriage</u>: The legal minimum age of marriage is 18, although persons between the ages of 16 and 18 may marry with parental, legal guardian, or court consent. In 2013 there were 2,578 registered marriages with fewer than five brides and no grooms under the age of 18.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: In January authorities amended the criminal code to prohibit FGM/C with a penalty of three to five years’ imprisonment. The Department of Health included awareness about FGM in its sexual health website. The Migrant Health Unit educated and trained health and social care professionals and university students on FGM.</p>
+<p><u>Sexual Exploitation of Children</u>: On March 18, authorities amended the criminal code to align with EU directives on combating the sexual abuse and sexual exploitation of children and child pornography.</p>
+<p>Statutory rape is punishable by three to six years in prison. The minimum age of consensual sex is 18. Rape committed by violence carries a penalty of three to nine years’ imprisonment, with or without solitary confinement. The production of child pornography is prohibited and punishable by imprisonment of one to five years and up to eight years in special circumstances. Possession of child pornography is also prohibited and punishable by imprisonment not exceeding three years. In September authorities charged a man with accessing child pornography websites.</p>
+<p>The law provides for the registration of sexual offenders and other offenders who commit offenses of serious violence. As of October there were 27 registered offenders.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. See the Department of State’s report on country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/Malta.html"><u>http://travel.state.gov/content/childabduction/english/country/Malta.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community numbered approximately 120 persons. There were no reports of anti-Semitic acts during the year.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits both the public and private sectors from discriminating against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, health care, physical access, access to goods and services, housing, and insurance, and the government effectively enforced these provisions. As of late July, the National Commission for Persons with Disabilities, the agency responsible for enforcement of this law, was examining 187 pending discrimination complaints from previous years, opened investigations into 290 new cases, and satisfactorily concluded 233. There were 57 new cases and 59 concluded cases involving accessibility.</p>
+<p>The government previously implemented legislation to provide access to buildings, information, and communication. While the government made efforts to ensure access, many historical buildings remained inaccessible due to limited structural adaptability.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The population included more than 10,000 persons of Arab, African, and East European origin. There were periodic reports in the media that owners of some bars and discos discouraged or prohibited darker-skinned persons, particularly of African or Arab origin, from entering their establishments. There were a few media reports of alleged discrimination based on skin color, including one involving a taxi driver, fined 300 euros ($375) for insulting an African hotel worker.</p>
+<p>During the year the Ministry of Social Dialogue, Consumer Affairs, and Civil Liberties set up an Integration Strategy Group to draft a long-term strategy for the integration of migrants.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>On April 17, parliament amended the constitution to “introduce immediate protection” from discrimination on the grounds of sexual orientation.</p>
+<p>On August 1, authorities amended the criminal code to widen the scope of offenses related to homophobia and racial hatred.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section7"> </span><span class="st_twitter" st_title="Malta #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malta - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236552%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the rights of most workers to form and join independent unions of their choice without previous authorization or excessive requirements, engage in collective bargaining, and conduct legal strikes. The law does not allow uniformed military and police personnel to join unions or strike. Employees lacking the right to strike or join unions, nevertheless, participated in associations, such as the Malta Police Association, through which they sought to protect their interests. The law does not explicitly prohibit acts of interference by worker or employer organizations in one another’s activities. The law prohibits antiunion discrimination and provides for reinstatement of workers that have been “unfairly dismissed,” including for legal, nonviolent union activity. Workers have a right to seek redress for alleged antiunion dismissals, although procedures for certain categories of public sector workers to seek such redress were unclear.</p>
+<p>The government effectively enforced applicable laws. By law fines for violations of recognized conditions of employment range from 232.94 to 2,329.37 euros ($291 to $2,912). Penalties were considered sufficient to deter violations. The labor law provides for compulsory arbitration, but arbitration did not take place during the year.</p>
+<p>During the year workers freely exercised these rights. There were no reports of antiunion discrimination or other forms of employer interference in union activities.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits all forms of forced or compulsory labor; nevertheless, there were reports of women subjected to forced labor in establishments such as massage parlors. Foreign domestic workers, as well as African migrant workers, were vulnerable to forced labor. The government took some steps to prevent and eliminate forced labor and acted quickly to investigate and address complaints. The law prescribes penalties of between four and 12 years’ imprisonment for forced labor violations; such penalties were considered sufficient to deter violations.</p>
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children younger than age 16. The director general of the directorate for educational services may grant an exemption for employment only after determining that it would not harm the health or normal development of the minor. While no legal work is specifically restricted, children granted an exemption are not allowed to perform work that could be regarded as harmful, damaging, or dangerous to a young person.</p>
+<p>The Employment Training Corporation (ETC), a government entity under the Ministry for Education and Employment, is responsible for labor and employment issues. Penalties for child labor law violations range from four to 12 years’ imprisonment, with increased penalties in cases of violence or threats, deceit or fraud, misuse of authority, influence or pressure, giving or receiving payments or benefits to achieve consent of the person having control over another person, abuse of power or of a position of vulnerability. Penalties were sufficient to deter violations. The ETC generally enforced the law in most formal sectors of the economy but allowed summer employment of underage youth in businesses operated by their families. No assessment was available on the effectiveness with which the ETC monitored the unregistered employment of children as domestic employees, restaurant workers, and street vendors.</p>
+<p>Although there were no official cases of child labor reported to ETC during the year, underage children reportedly worked as domestic laborers, restaurant kitchen help, or vendors and in family-owned businesses during the summer.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws and regulations prohibit employment discrimination regarding race, sex, gender, disability, language, and sexual orientation or gender identity (also see section 6). The government effectively enforced these laws and regulations. The law does not explicitly prohibit employment discrimination based on social status, HIV-positive status, or other communicable diseases.</p>
+<p>From January to November, the NCPE received 55 claims of alleged discrimination at workplaces. NCPE’s commissioner is empowered to investigate such complaints. Following an investigation, the commissioner may either dismiss the complaint or find the complaint warranted; in the latter case, if the complaint constitutes an offense, the commissioner must submit a report to the police commissioner for action. In instances where the complaint does not constitute an actionable offense, the NCPE commissioner may urge the individual against whom the complaint was lodged to redress the situation and then mediate between the parties to settle the matter. There were no reports of employment discrimination during the year.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The national weekly minimum wage was 165.68 euros ($207); in addition, there was an annual mandatory bonus of 270 euros ($338) and an annually adjusted cost-of-living increase of 242 euros ($303). In 2013, the latest year for which such data were available, the country’s independent National Statistical Office estimated that approximately 15.7 percent of the population lived at or below the poverty income level of 7,256 euros ($9,070) per year.</p>
+<p>The standard workweek is 40 hours, but in certain occupations, such as health-care providers, airport workers, and civil protection services, the norm was 43 or 45 hours. Government regulations provide for a daily rest period (normally one hour) and one day of rest per week. The law provides for paid annual holidays, (i.e., government holidays) and paid annual leave. Premium pay, defined by law as time-and-a-half for straight overtime and double pay for work on public holidays or Sundays, is required. The law prohibits excessive compulsory overtime, and employers cannot oblige employees to work more than 48 hours per week, inclusive of overtime.</p>
+<p>The government set occupational safety and health standards, and such standards were current and appropriate for the main industries in the country. Workers have the right to remove themselves from situations dangerous to health or safety without jeopardizing their employment.</p>
+<p>The Ministry of Education and Employment generally enforced minimum wage and hours of work requirements effectively in the formal economy. The Occupational Health and Safety Authority (OHSA), a government entity composed of representatives of the government, unions, and employers, conducted regular inspections at worksites and cited a number of offenders. Nevertheless, enforcement of health and safety standards continued to be uneven. Workers in the informal economy did not have the same protection but were able to file complaints against companies that failed to provide a safe work environment. Authorities did not stringently enforce standards in the informal economy, which encompassed various sectors of the working society, including day laborers and self-employed individuals, and consisted of approximately 10,000 individuals. OHSA imposed fines on companies that did not comply with minimum safety standards in the formal economy and, to a lesser extent, the informal economy.</p>
+<p>Penalties for violations of the minimum wage, hours of work, and recognized conditions of employment range from approximately 233 to 2,329 euros ($291-$2,912).</p>
+<p>Irregular migrant workers from Somalia, Eritrea, Sudan, and other sub-Saharan African countries, who comprised a small percentage of the workforce, sometimes worked under conditions that did not meet the government’s minimum standards for employment. The Agency for the Welfare of Asylum Seekers, in coordination with the ETC, organized informational programs to help individuals pursue employment and obtain work permits.</p>
+<p>Industrial accidents remained frequent, particularly in the manufacturing, and building and construction sectors.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

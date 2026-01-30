@@ -1,0 +1,477 @@
+2015
+Brazil
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995"> </span><span class="st_facebook" st_title="Brazil" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252995">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252995</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6indigenouspeople">Indigenous People</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=executive"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Brazil is a constitutional, multiparty republic. In October 2014 voters re-elected Dilma Rousseff as president in elections widely considered free and fair. Civilian authorities maintained control over security forces.</p>
+<p>The most significant human rights abuses included poor and at times life-threatening conditions in some prisons; corruption; sex trafficking, including of children; and exploitative working conditions, including forced labor.</p>
+<p>Other human rights problems included excessive force and unlawful killings by state police; beatings, abuse, and torture of detainees and inmates by police and prison security forces; prolonged pretrial detention and inordinate delays of trials; judicial censorship of media; violence and discrimination against women and girls; violence against children, including sexual abuse; social conflict between indigenous communities and private landowners that occasionally led to violence; discrimination against indigenous persons and minorities; violence and social discrimination against lesbian, gay, bisexual, transgender, and intersex (LGBTI) persons; violence against environmentalists; insufficient enforcement of labor laws; and child labor in the informal sector.</p>
+<p>The government continued to prosecute officials who committed abuses; however, an inefficient judicial process delayed justice for perpetrators as well as survivors.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section1"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports the federal government or its agents committed politically motivated killings, but unlawful killings by state police occurred. In some cases police employed indiscriminate force. According to the Brazil Forum of Public Security, killings by on- or off-duty police officers were the country’s second leading cause of violent death. In several instances civilians died during large-scale police operations, mainly in the favelas (poor neighborhoods or shantytowns). Credible reports indicated that state police officials continued to be involved in revenge killings and intimidation of witnesses who testified against police officials. Police often were responsible for investigating charges of torture and excessive force carried out by fellow officers.</p>
+<p>In Rio de Janeiro there were reports that both on- and off-duty police employed indiscriminate use of force. These acts often occurred in the city’s approximately 760 favelas, where an estimated 1.4 million persons lived, according to the 2010 census by the Brazilian Institute of Geography and Statistics (IBGE). The Rio de Janeiro Public Security Institute, a state government entity, reported that from January to July, police killed 410 civilians in “acts of resistance” (similar to resisting arrest) in Rio de Janeiro State. Most of these deaths occurred while police were conducting operations against drug-trafficking gangs operating in Rio de Janeiro’s poor communities. A disproportionate number of the victims were Afro-Brazilians under 25 years of age. Nongovernmental organizations (NGOs) in Rio de Janeiro questioned whether all of the victims had truly resisted arrest, contending police continued to depend on repressive methods.</p>
+<p>In February nine officers from RONDESP, the Bahia state Military Police’s Special Patrolling Group, were implicated in the killing of 12 young Afro-Brazilians in Cabula, a poor neighborhood in the capital city of Salvador. Police and autopsy reports revealed that the victims were unarmed, offered no resistance, and were summarily killed. In July, Judge Marivalda Almeida Moutinho acquitted the nine defendants of all charges, ruling the police acted in self-defense.</p>
+<p>In July a series of killings in the city of Manaus left 35 persons dead over three days. The media reported suspicions that police officers may have organized a death squad to carry out a wave of executions in retaliation for a recent fatal shooting of a police officer. The killings were carried out by gunmen who used ammunition allegedly available only to police officers; investigations continued at year’s end.</p>
+<p>In the state of Sao Paulo, during a three-hour period in August, 18 persons were killed in two neighborhoods in what the mayor of one of the cities, Osasco, called a reprisal for the killing of two police officers the previous week. A 50-person taskforce to investigate the deaths was established by the Sao Paulo State Security Secretariat, and the investigation continued as of October. In April eight members of a Corinthians football fan club were shot and killed in their clubhouse. One active duty and one retired police officer were arrested in connection with the killings.</p>
+<p>In September five police officers with the Police Pacification Unit (UPP) operating in the Morro da Providencia favela in Rio de Janeiro were arrested after killing 17-year-old Eduardo Felipe Santos Victor. The officers said they acted in self-defense, but video and witness statements indicated the officers attempted to cover up the killing.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>Although the constitution prohibits such treatment and provides severe legal penalties for its use, reports of torture and other cruel treatment by police and prison guards occurred.</p>
+<p>In April 2014 in Rio de Janeiro, police raided sex venues supposedly to rid the city of illegal activities such as pimping and child prostitution in the period preceding the 2014 soccer World Cup. While prostitution is legal, the NGOs Observatorio de Prostituicao and Justica Global alleged the police acted without warrants, beat prostitutes, stole money, demanded sexual services, gang-raped women, and retaliated against the women who reported their actions, including abducting one of the women and threatening her family; investigations continued at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Conditions in many prisons were poor and sometimes life threatening mainly due to overcrowding. Abuse by prison guards, including sexual abuse, continued to occur at many facilities. Poor working conditions and low pay for prison guards encouraged corruption.</p>
+<p><u>Physical Conditions</u>: Overcrowding was a problem. The National Justice Council reported that at the end of the first half of 2014, the prison system contained approximately 607,700 inmates, or 161 percent of its intended capacity. The state with the worst overcrowding was Pernambuco, where the secretary of resocialization reported the prison system was operating at 280 percent of capacity.</p>
+<p>The states of Rio de Janeiro and Sao Paulo and the Federal District provided separate prison facilities for women; elsewhere, according to the Catholic Church’s Penitentiary Commission, women occasionally were held with men, although in separate cells.</p>
+<p>Frequently prisoners who committed petty crimes were held with murderers and other violent criminals. Authorities attempted to hold pretrial detainees separately from convicted prisoners, but lack of space often required holding convicted criminals in pretrial detention facilities. Many prisons, including in the Federal District, attempted to separate violent offenders from nonviolent ones and to keep convicted drug traffickers in a wing apart from the rest of the prison population.</p>
+<p>The law stipulates juveniles should not be held together with adults in jails, but this was not always respected. Multiple sources reported adolescents jailed with adults in poor and crowded conditions. In many juvenile detention centers, the number of inmates greatly exceeded capacity.</p>
+<p>Violence was rampant in several prison facilities in the Northeast. Poor administration of the prison system, presence of gangs, corruption, and overcrowding contributed to violence within the penitentiary system. The press reported on multiple riots and escapes in the Pedrinhas prison complex in the state of Maranhao, but the state’s Department of Justice and Prison Administration registered only six deaths in the first nine months of the year, down from 24 in 2014. The state of Pernambuco declared a state of emergency in January after a violent three-day riot at the Curado prison complex left three dead and dozens injured. Officials in the state of Rio Grande do Norte also declared a state of emergency after riots broke out in six different prison complexes in March.</p>
+<p>Sanitary conditions were often inadequate and facilitated the spread of disease. HIV and tuberculosis rates in prisons were far higher than rates for the general population. The prevalence of tuberculosis in Pernambuco’s prisons was reportedly 100 times that of the general population. In late September the Pernambuco secretary of human rights, Pedro Eurico, participated in a public hearing at the Inter-American Court of Human Rights regarding alleged recurring human rights violations at the Curado prison complex (previously named the Anibal Bruno Prison). Human Rights Watch and other NGOs at the hearing raised the matter of inadequate sanitary conditions.</p>
+<p><u>Administration</u>: Prisoners and detainees had access to visitors; however, human rights observers reported some visitors complained of screening procedures that at times included invasive and unsanitary physical exams.</p>
+<p>State-level ombudsman offices and the federal Secretariat of Human Rights monitored prison and detention center conditions and investigated credible allegations of inhuman conditions.</p>
+<p><u>Independent Monitoring</u>: The government permitted monitoring by independent nongovernmental observers, including the International Committee of the Red Cross and the United Nations.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention and limits arrests to those caught in the act of committing a crime or arrested by order of a judicial authority; however, police at times did not respect this prohibition.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Federal Police, operating under the Ministry of Justice, is a small, primarily investigative entity and plays a minor role in routine law enforcement. Most police forces fall under the control of the states, where they are divided into two distinct units: the civil police, which performs an investigative role, and the military police, which is charged with maintaining law and order.</p>
+<p>The military police do not report to the Ministry of Defense. The law mandates that special police courts exercise jurisdiction over state military police except those charged with “willful crimes against life,” primarily homicide. Police often were responsible for investigating charges of torture and excessive force carried out by fellow officers, although independent investigations increased. Delays in the special military police courts allowed many cases to expire due to statutes of limitations.</p>
+<p>Civilian authorities generally maintained effective control over security forces, and the government has mechanisms in place to investigate and punish abuse and corruption; however, impunity and a lack of accountability for security forces remained a problem.</p>
+<p>According to the Rio de Janeiro State Secretariat for Public Security, human rights courses were a mandatory component of training for entry-level military police officers. UPP officers for the favela pacification program received additional human rights training. The Rio de Janeiro State Secretariat for Public Security had a total of 38 UPPs.</p>
+<p>In Rio de Janeiro’s favelas, so-called militia groups composed of off-duty and former law enforcement officers often took policing into their own hands. Many militia groups intimidated residents and conducted illegal activities such as extorting protection money and providing pirated utility services.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Unless a suspect is caught in the act of committing a crime, an arrest cannot be made without a warrant issued by a judicial official. Officials must advise suspects of their rights at the time of arrest or before taking them into custody for interrogation. The law prohibits use of force during an arrest unless the suspect attempts to escape or resists arrest. According to human rights observers, some detainees complained of physical abuse by police officers while being taken into custody.</p>
+<p>Authorities generally respected the constitutional right to a prompt judicial determination of the legality of detention. Detainees were informed promptly of the charges against them. The law permits provisional detention for up to five days under specified conditions during an investigation, but a judge may extend this period. A judge may also order temporary detention for an additional five days for processing. Preventive detention for an initial period of 15 days is permitted if police suspect that a detainee may leave the area.</p>
+<p>The law does not provide for a maximum period for pretrial detention, which is decided on a case-by-case basis. Time in detention before trial is subtracted from the sentence.</p>
+<p>Defendants arrested in the act of committing a crime must be charged within 30 days of arrest. Other defendants must be charged within 45 days, although this period may be extended. Often, the period for charging defendants had to be extended because of court backlogs.</p>
+<p>Bail was available for most crimes, and defendants facing charges for all but the most serious crimes had the right to a bail hearing. Prison authorities generally allowed detainees prompt access to a lawyer. Indigent detainees had the right to a lawyer provided by the state. Detainees also were allowed prompt access to family members.</p>
+<p><u>Pretrial Detention</u>: Despite constitutional protections against improper detention, lengthy pretrial detention remained a serious concern. The United Nations estimated approximately 44 percent of the total prison population consisted of individuals in detention awaiting trial. The National Justice Council estimated the percentage to be 41 percent. Every year prison inspectors find that authorities improperly or illegally detained thousands of individuals. In some cases individuals waited years for a court to rule on the merits of their case.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the government generally respected judicial independence. Freedom House stated corruption within the judiciary, especially at the local and state level, remained a serious concern, and the judiciary was often subject to outside influences.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The right to a fair public trial as provided by law was generally respected, although NGOs reported that in some rural regions--especially in cases involving land rights activists--police, prosecutors, and the judiciary were perceived to be more susceptible to external influences, including fear of reprisals. Investigations, prosecutions, and trials in these cases often were delayed.</p>
+<p>After an arrest a judge reviews the case, determines whether it should proceed, and assigns the case to a state prosecutor, who decides whether to issue an indictment. Juries hear cases involving capital crimes; judges try those accused of lesser crimes. Defendants enjoy a presumption of innocence and have the right to be promptly informed of charges, not to be compelled to testify or confess guilt, to access government-held evidence and confront and question adverse witnesses, to present their own witnesses and evidence, and to appeal verdicts. Defendants generally had adequate time and facilities to prepare a defense.</p>
+<p>Although the law requires trials be held within a set time, there were millions of backlogged cases at state, federal, and appellate courts. It could take years to bring cases to conclusion; to reduce the backlog, state and federal courts frequently dismissed old cases without a hearing.</p>
+<p>While the law provides for the right to counsel, the Ministry of Justice stated many prisoners could not afford an attorney. The court must furnish a public defender or private attorney at public expense in such cases, but staffing deficits persisted in all states.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens may submit lawsuits before the courts for human rights violations. While the justice system provides for an independent civil judiciary, courts were burdened with backlogs and sometimes subject to corruption, political influence, and indirect intimidation. Cases involving violations of an individual’s human rights may be submitted through petitions by individuals or organizations to the Inter-American Commission on Human Rights, which in turn may submit the case to the Inter-American Court of Human Rights.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the law and constitution prohibit such actions, NGOs reported police occasionally conducted searches without warrants. Human rights groups, other NGOs, and the media reported incidents of excessive police searches in poor neighborhoods. During these operations police stopped and questioned persons and searched cars, residences, and business establishments without warrants.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section2"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, and there were no reports the government failed to respect these rights. The independent media were active and expressed a wide variety of views with minimal restriction, but nongovernmental criminal elements continued to subject journalists to violence because of their professional activities. Despite national laws, politically motivated judicial censorship remained a problem within local-level courts. NGOs continued to highlight instances of violence against journalists, mainly perpetrated by protesters or provocateurs in the context of massive demonstrations, but at times security forces reportedly injured journalists during crowd-control operations.</p>
+<p><u>Violence and Harassment</u>: The safety of journalists continued to be a major problem. In the state of Minas Gerais, police were investigating the killing of journalist Evany Jose Metzker, who was found tortured and decapitated in a rural area in the southeastern region of the state in May. The Union of Journalists in Minas Gerais reported he had been investigating child prostitution in the Jequitinhonha Valley region, one of the country’s poorest areas. In August a journalist was killed in the state of Ceara while working on his live radio show. The journalist was known for his work on local corruption cases.</p>
+<p><u>Censorship or Content Restrictions</u>: According to Reporters without Borders, the concentration of media ownership continued to be a major problem, noting that the Rio-based Globo group dominated broadcasting (up to 70 percent). In June the group National Forum for the Democratization of Communication testified in a congressional hearing, requesting that a law be drafted to implement better Article 220 of the constitution, which prohibits monopoly or oligopoly of media.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or systematically censor online content, and there were no credible reports the government monitored private online communications without appropriate legal authority.</p>
+<p>Several legal and judicial rulings had the potential to threaten freedom of expression on the internet. A continuing trend was for private individuals and official bodies to take legal action against internet service providers and providers of online social media platforms, such as Google, Facebook, and Orkut, holding them accountable for content posted to or provided by users of the platform.</p>
+<p>The electoral law regulates political campaign activity on the internet. The rules prohibit paid political advertising online and in traditional media and, during the three months prior to an election, prohibit online and traditional media from promoting candidates and distributing content that ridicules or could offend a candidate.</p>
+<p>The Center of Studies on Information and Communication Technologies reported 50 percent of households had access to the internet (counting mobile phone access) in 2014.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The government generally respected rights of freedom of assembly and association. There were a series of large-scale, national protests in March, April, and August calling for the impeachment of President Rousseff and an end to corruption. Police reported no serious security incidents during these protests.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The National Committee for Refugees cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, and other persons of concern.</p>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. By law refugees are provided official documentation, access to legal protection, and access to public services. According to UNHCR the number of asylum requests rose from 2,000 in 2012 to 8,000 at the end of September. Syrians composed the largest group, followed by Congolese, Angolans, Senegalese, and 90 other nationalities.</p>
+<p><u>Temporary Protection</u>: The government provided assistance to Haitian migrants who entered the country in hope of securing employment and relief from economic conditions in Haiti. The government continued to issue humanitarian visas to Haitians entering the country in search of employment. The visas entitle them to receive health and social assistance, the right to work, and the right to remain for up to five years. The government also increased its capacity to issue special work visas through its consulate in Haiti and other regional diplomatic missions to reduce the number of Haitians seeking entry via more dangerous migration routes.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section3"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised this right. Military conscripts may not vote.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In national elections held in 2014, Dilma Rousseff won a second four-year term as president. Observers considered the elections free and fair.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section4"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for official corruption. The law stipulates civil penalties for corruption committed by Brazilians or Brazilian entities overseas. The government did not always implement the law effectively, however, and there were numerous reports of government corruption.</p>
+<p><u>Corruption</u>: The law mandates civil and administrative penalties for national entities and legal persons that attempt to bribe foreign officials or engage in corrupt practices in the country or abroad. Individuals found to have engaged in such acts are prohibited from bidding on government contracts. Some news reports indicated authorities had difficulty enforcing the law. There were numerous reports of government corruption throughout the year.</p>
+<p>In March 2014 the Federal Police announced it broke up a large money laundering operation involving the parastatal corporation Petrobras, certain private companies, and some members of Congress and the executive branch. More than a year later, the scandal, which had become the largest corruption scandal in the country’s history, continued to unfold. The Operation Carwash (Lava Jato) investigation uncovered a complicated web of corruption and led to the arrests of money launderers, Petrobras directors, and major construction contractors, and to the investigation of politicians. Information gained through collaboration and plea bargains with suspects launched a widening net of new investigations.</p>
+<p><u>Financial Disclosure</u>: Public officials are subject to financial disclosure laws, and officials generally complied with these provisions. While asset declarations are not made public, federal employees’ salaries and payment information are posted online and can be searched by name.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to unclassified government information. The list of exceptions is sufficiently narrow and includes personal information; information that affects public safety or health, national security, or international relations; and sensitive military and intelligence information. The only fees charged are the costs of printing, copying, and mailing documentation. The government has 20 days to respond to requests and can request an additional 10 days, for a maximum of 30 days, after receiving the request.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section5"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Federal officials were cooperative and responsive to their views. Federal and state officials in many cases sought the aid and cooperation of domestic and international NGOs in addressing human rights problems; for instance, the Ministry of Labor collaborated with the UN Office on Drugs and Crime to formulate a national plan to combat trafficking in persons.</p>
+<p><u>Government Human Rights Bodies</u>: In October the federal government announced the creation of the Ministry of Women, Racial Equality, and Human Rights, resulting from the merging of three ministry-level secretariats covering these issues. The ministry has jurisdiction over issues regarding persons with disabilities, LGBTI persons, the elderly, women’s issues, children, policies to combat racism and ethnic discrimination, and government representation in international and regional human rights forums in conjunction with the Ministry of External Relations. The Chamber of Deputies and the Senate had human rights committees that operated without interference and participated in several activities nationwide in coordination with domestic and international human rights organizations. Most states had police ombudsmen, but their accomplishments varied, depending on such factors as funding and outside political pressure.</p>
+<p>A National Council for Human Rights, composed of 22 members--11 from various government agencies and 11 from civil society--met regularly. Other councils using this mixed government and civil society model include the National LGBT Council, National Council for Religious Freedom, National Council for Racial Equality Policies, and National Council for Rights of Children and Adolescents.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section6"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law prohibits and penalizes discrimination on the basis of race, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation and/or gender identity, age, language, HIV-positive status or other communicable diseases, but discrimination continued against women and girls, Afro-Brazilians, indigenous persons, LGBTI persons, and persons with disabilities.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape. Intimate partner violence remained both widespread and underreported to authorities, due to fear of retribution, further violence, and social stigma. In March, Congress passed a law that sets a prison sentence of 12 to 30 years for anyone convicted of killing a woman or girl in cases of domestic violence. Longer sentences can be set for killing a pregnant woman, girls under 14, or women who are over 60 or disabled.</p>
+<p>The federal government maintained a toll-free nationwide hotline for women to report instances of intimate partner violence (Dial 180). The hotline has the authority to mobilize military police units to respond to such reports and to follow up regarding the status of the case.</p>
+<p>In March the “Dial 180 International” hotline, which enables Brazilian victims of gender-based violence to call from abroad, was expanded to 13 more countries. According to the Secretariat for Women’s Policies, if a complaint is credible, the secretariat works with the Ministry of Justice, Federal Police, and foreign governments to ensure the victim has access to necessary support services.</p>
+<p>During the year the “Women, Living Without Violence” program saw two new centers inaugurated, one in Campo Grande in Mato Grosso and the other in Brasilia. The centers house special women’s precincts, psychological specialists, legal advisers, and employment services for victims of gender-based violence.</p>
+<p>On August 3, the Rio de Janeiro Court of Justice launched the second edition of a national campaign with a task force organized to accelerate trials of crimes involving violence against women. From January to June, 34,800 of 200,000 cases of gender-based violence were brought to trial in the state.</p>
+<p>Each state secretariat for public security operated police stations dedicated exclusively to addressing crimes against women. The stations provided psychological counseling, temporary shelter, and hospital treatment for survivors of intimate partner violence, including rape, as well as criminal prosecution assistance by investigating incidents and forwarding evidence to courts. State and local governments also operated reference centers and temporary women’s shelters. The IBGE reported 8 percent of municipalities had a dedicated space for the protection and care of survivors of gender-based violence.</p>
+<p>The law requires health facilities to contact police about cases in which a woman was harmed physically, sexually, or psychologically and to collect evidence and statements should the victim decide to prosecute.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment is a criminal offense, punishable by up to two years in prison. The law prohibits sexual advances in the workplace or educational institutions and between service providers or clients. In the workplace it applies only in hierarchical situations where the harasser is of higher rank or position than the victim.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of children; manage their reproductive health; and have access to the information and means to do so, free from discrimination, coercion, or violence.</p>
+<p><u>Discrimination</u>: Although the law prohibits discrimination based on gender in employment and wages, the Organization for Economic Cooperation and Development reported that during the year women received 62 percent of the income of men for comparable work. According to the IBGE, from 2009 to 2013, women constituted 43 percent of the labor force, while men made up 57 percent.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from birth in the country or from a parent. According to 2010 IBGE census data, there were approximately 600,000 unregistered children under the age of 10 nationwide. Without birth certificates children cannot be vaccinated or enrolled in school. If the problem persists into adulthood, an unregistered adult cannot obtain a worker’s card or receive retirement benefits.</p>
+<p>The National Council of Justice, in partnership with the Secretariat of Human Rights (SDH), aimed to reduce the number of such children by registering children born in maternity wards. The National Documentation of Rural Workers initiative offered assistance in obtaining identification cards, birth certificates for children born in rural areas, labor cards, and tax documents. From 2003 to 2013, the percentage of children without a birth certificate dropped from 18.8 percent to 5.1 percent, according to the IBGE.</p>
+<p><u>Child Abuse</u>: Abuse and neglect of children and adolescents were problems. Children and adolescents were victims of rape and molestation, and girls were impregnated by family members. The SDH oversaw a program that established nationwide strategies for combating child sexual abuse and best practices for treating victims.</p>
+<p>The government maintained a protection program for children and adolescents. Sixty percent of the children in the program had received death threats due to involvement in drug trafficking, and most entered the program accompanied by one or more family members. The program offered psychological counseling and technical courses to reinsert these youth into stable community situations.</p>
+<p><u>Early and Forced </u><u>Marriage</u>: The legal minimum age of marriage is 18 (age 16 with parental or legal representative consent). According to data from UNICEF, more than 11 percent of women age 20-24 were married before age 15, and 36 percent of women age 20-24 were married before age 18.</p>
+<p><u>Sexual Exploitation of Children</u>: The law sets a minimum age of 14 for consensual sex, with the penalty for statutory rape ranging from eight to15 years in prison. The country was a destination for child sex tourism. Several major coastal cities in the Northeast served as tourist destinations for the sexual exploitation of children and adolescents. Additionally, reports indicated sexual exploitation of children and adolescents increased around major construction projects. According to data from the SDH, University of Brasilia, UNICEF, and International Labor Organization (ILO), more than 100,000 children were victims of sexual exploitation each year.</p>
+<p>While no specific laws address child sex tourism, it is punishable under other criminal offenses. The law defines sexual exploitation as prostitution of children, sexual activity, production of child pornography, and public or private sex shows. In May 2014 the sexual exploitation of children, adolescents, and other vulnerable persons became a “heinous crime” punishable by four to 10 years in prison.</p>
+<p>The law criminalizes child pornography. The penalty for possession of child pornography is up to four years in prison and a fine. Although the country is not a large-scale producer of child pornography, such material was disseminated on social networking websites.</p>
+<p>The Ministry of Tourism promoted its code of conduct to prevent the commercial sexual exploitation of children in the tourism industry. The Federal Highway Police and the ILO disseminated awareness materials in places such as gas stations, bars, restaurants, motels, and nightclubs along highways considered areas for sexual exploitation of children and adolescents.</p>
+<p>The Federal Police maintains a database to track trafficking for sexual exploitation cases, but there is no central database to record violations for introducing a child into prostitution or inducing a child to participate in pornography. Federal Highway Police aided in identifying points of increased risk for sexual exploitation of children along federal highways. The southeastern region of the country was identified as the region with the most high-risk points (494), followed by the Northeast (475).</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/en/country/brazil.html">travel.state.gov/content/childabduction/en/country/brazil.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>According to the Jewish Federation, there were approximately 120,000 Jewish citizens, of whom approximately 50,000 were in the state of Sao Paulo and 20,000 in Rio de Janeiro State. It is illegal to write, edit, publish, or sell books that promote anti-Semitism or racism. The law enables courts to fine or imprison anyone who displays, distributes, or broadcasts anti-Semitic materials and mandates a two- to five-year prison term.</p>
+<p>Neo-Nazi groups continued to operate in the southern states of Rio Grande do Sul, Santa Catarina, and Parana. A 2013 study estimated there were approximately 105,000 neo-Nazis in the three southern states and 29,000 in Sao Paulo State.</p>
+<p>According to news reports, Professor Jose Fernando Schlosser, the dean of postgraduate studies at the Federal University of Santa Maria in the state of Rio Grande do Sul, was accused by the Israeli Confederation of Brazil of anti-Semitism after he sent a memorandum on May 15 requesting that department leaders provide a list of Israeli students and lecturers attending the university. The memorandum was sent at the request of student groups, including the Association of Solidarity with the Palestinian People, according to the media, and reportedly sent to harass Israeli students and lecturers. A university spokesman apologized for the incident, noting the university’s unequivocal stance against “racism,” and stated university leadership had immediately called for a Federal Police investigation.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical and mental disabilities in employment, air travel and other transportation, education, and access to health care, and the federal government generally enforced these provisions. According to official sources, an estimated 24 percent of the population had some form of disability. While federal and state laws mandate access to buildings for persons with disabilities, states did not enforce them effectively.</p>
+<p>In July, President Rousseff signed the Brazilian Inclusion of People with Disabilities Act, a legal framework on the rights of persons with disabilities. The law seeks to promote greater accessibility through expanded federal oversight of the Statute of Cities, harsher criminal penalties for discrimination based on disability, inclusive health services with provision of services near residences and rural areas, and a greater share of revenues given from federal lotteries for the Brazilian Paralympic Committee.</p>
+<p>The National Council for the Rights of Persons with Disabilities and the National Council for the Rights of the Elderly, both within the SDH, have primary responsibility for promoting the rights of persons with disabilities. According to the SDH, specific problems included the short supply of affordable and up-to-date orthotics and prosthetics, scarcity of affordable housing with special adaptations, and a need for greater accessibility to public transport. Children with disabilities attended school (primary, secondary, and higher education), but there existed a shortage of schools with support for such persons. The lack of accessible infrastructure and schools significantly limited the ability of persons with disabilities to participate in the workforce.</p>
+<p>Civil society organizations acknowledged that monitoring and enforcement of disability policies remained weak, and they criticized a lack of accessibility to public transportation, weak application of employment quotas, and a limited medical-based definition of disability that often excludes learning disabilities.</p>
+<p>The government improved access for persons with disabilities in its infrastructure development and in retrofitting public sports venues to prepare for sporting events such as the 2014 Soccer World Cup and the 2016 Paralympics games.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The law prohibits racial discrimination, specifically the denial of public or private facilities, employment, or housing, to anyone based on race. The law also prohibits the incitement of racial discrimination or prejudice and the dissemination of racially offensive symbols and epithets and stipulates prison terms for such acts. The 2010 census reported that for the first time white persons constituted less than half the population, as approximately 52 percent of the population identified themselves as belonging to categories other than white. Despite laws and a high representation within the general population, darker-skinned citizens, particularly Afro-Brazilians, frequently encountered discrimination.</p>
+<p>Afro-Brazilians continued to be underrepresented in the government, professional positions, and middle and upper classes. They experienced a higher rate of unemployment and earned average wages below those of whites in similar positions. There was also a sizeable education gap. Afro-Brazilians were disproportionately affected by crime, and black males were twice as likely as their white counterparts to be homicide victims.</p>
+<p>The 2010 Racial Equality Statute continued to be controversial, due to its provision for nonquota affirmative action policies in education and employment. In 2012 the Supreme Court upheld racial quota systems at universities as constitutional, and a quotas law went into effect that gave the 59 federal universities four years to provide that half of the students of their incoming classes be from public schools, which generally enrolled a higher percentage of Afro-Brazilian students than private schools.</p>
+<p>The 2010 law requires that 20 percent of federal public administration positions be filled by Afro-Brazilians. The states of Rio de Janeiro, Rio Grande do Sul, Parana, and Mato Grosso do Sul have similar laws for local public administration positions. According to the Racial Equality Secretariat, the quota was not effectively enforced. In 2014-15, of the 2,344 public service job vacancies offered, 338 were reserved for Afro-Brazilians, representing 14 percent of the total.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>Indigenous People</h2>
+<div class="sub-section_content">
+<p>According to data from the National Indigenous Foundation (FUNAI) and the 2010 census, there were approximately 818,000 indigenous persons (0.4 percent of the national population), representing 305 distinct indigenous ethnic groups and speaking 274 languages. Approximately 517,000 persons lived in 585 formally recognized indigenous zones, covering 13 percent of the national territory.</p>
+<p>The law grants the indigenous population broad protection of their cultural patrimony, exclusive use of their traditional lands, and exclusive beneficial use of their territory. Congress must consult with the tribes involved when considering requests to exploit mineral and water resources, including ones with energy potential, on indigenous lands. The law grants indigenous tribes rights to a portion of the profit resulting from mining. According to the constitution, all aboveground and underground minerals as well as hydroelectric-power potential belong to the government.</p>
+<p>FUNAI has a mandated role for an indigenous consultation process, but human rights groups continued to express concerns that most of the requirements for indigenous consultation remained unmet.</p>
+<p>Illegal logging, drug trafficking, and mining, as well as changes in the environment from large infrastructure projects, were forcing indigenous tribes to move to new areas or making their demarcated indigenous territories smaller than originally established by law.</p>
+<p>According to FUNAI, the federal government established rules for providing financial compensation following the occupation in good faith of indigenous, as in the case of companies that win development contracts affecting indigenous lands. For example, an agreement signed by the Brazilian Institute of Environment and Renewable Natural Resources and Norte Energia, the consortium company that won the contract for the construction of Belo Monte Dam, resulted in displacement of local communities. Of those displaced, 500 families pursued legal recourse during the year for compensation that allegedly they did not receive.</p>
+<p>Various indigenous peoples continued to protest the slow pace of land demarcations throughout the year.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Federal law does not prohibit discrimination based on sexual orientation, but several states and municipalities have administrative regulations that prohibit such discrimination and provide for equal access to government services. Social discrimination remained a problem, especially against the transgender population. Violence against LGBTI individuals remained a serious concern.</p>
+<p>The penal code directs that for an offense to be subject to criminal prosecution, it must fall under a federal statute, leaving these hate crimes subject to administrative, not criminal penalties. Sao Paulo is the only state to codify punishments for hate-motivated violence and speech against LGBTI individuals. In July the governor of Rio de Janeiro signed a law penalizing commercial establishments that discriminate on grounds of sexual orientation. Sanctions vary from warnings and fines to the temporary suspension or termination of a business license. Fines can reach 15,600 reais ($3,950).</p>
+<p>According to the SDH, many transgender individuals had difficulty entering the formal labor market or study programs due to an apparent discrepancy between the photograph and name on an individual’s labor card and an individual’s personal appearance and “social name,” which prevented some from obtaining permission to work.</p>
+<p>The Sao Paulo city government launched a comprehensive center to provide social services to victims of homophobia as well as access to health care and other city resources. A mobile unit was also created to distribute information and provide HIV screenings at neighborhood events. The transgender population and other vulnerable LGBTI subgroups continued to be a key target of the city’s outreach and social services. The city government also had a program that allocated paid internships for transgender students in City Hall to improve their future career prospects and involvement in public service.</p>
+<p>The National LGBT Council, composed of civil society and government agencies, continued to combat discrimination and promote the rights of LGBTI persons. Meetings were open to the public and broadcast over the internet.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Discrimination against persons with HIV/AIDS is punishable by up to four years in prison and a fine. Civil society organizations and press continued to report discrimination against persons with HIV/AIDS. According to UNAIDS in Brazil, discrimination against certain groups, particularly gay men, made individuals hesitate to seek HIV testing and treatment.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Violence connected to environmental activism and agrarian conflicts continued. In August unidentified persons killed Raimundo Santos Rodrigues, who spent years defending an area of the eastern Amazon from loggers, miners, and farmers. According to media reports, two individuals were arrested in connection with the killing, and the Federal Police opened an investigation. The NGO Global Witness reported that 29 environmental and land activists were killed in the country in 2014. According to the Catholic NGO Pastoral Land Commission, more than 1,500 Brazilians were killed in the past 25 years fighting deforestation, and another 2,000 received death threats.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section7"> </span><span class="st_twitter" st_title="Brazil #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Brazil - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252995%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of association for all workers (except members of the military, uniformed police, and firefighters), the right to collectively bargain with some restrictions, and the right to strike. The law limits organizing at the enterprise level and imposes a mandatory union tax on workers and employers. The law does not allow the armed forces, military police, or firefighters to strike. Civil police are allowed to conduct strikes. The law prohibits antiunion discrimination, including the dismissal of employees who are candidates for, or holders of, union leadership positions, and it requires employers to reinstate workers fired for union activity.</p>
+<p>New unions must register with the Ministry of Labor, which accepts the registration unless objections are filed by other unions. The law stipulates certain restrictions, such as “unicidade” (in essence one union per city), which limits freedom of association by prohibiting multiple, competing unions of the same professional category in a given geographical area. Unions that represent workers in the same geographical area and professional category may contest registration. If the objection is found to be valid, the Ministry of Labor does not register the union. While a number of competing unions existed, the ministry and courts enforced unicidade in decisions regarding the registration of new unions. Most elements of the labor movement and the International Trade Union Confederation criticized unicidade.</p>
+<p>The law stipulates a strike may be ruled “disruptive” by the labor court and the union can be subjected to legal penalties if the strike violates certain conditions, such as if the union fails to maintain essential services during a strike, the union fails to notify employers at least 48 hours before the beginning of a walkout, or the union fails to end a strike after a labor court decision. Employers may not hire substitute workers during a legal strike or fire workers for strike-related activity, provided the strike is not ruled abusive.</p>
+<p>The law obliges a union to negotiate on behalf of all registered workers in the professional category and geographical area it represents, regardless of whether an employee pays voluntary membership dues. The law permits the government to reject clauses of collective bargaining agreements that conflict with government policy. Collective bargaining is effectively prohibited in the public sector; the constitution allows it, but implementing legislation had yet to be enacted as of the end of November.</p>
+<p>Authorities at times did not effectively enforce laws protecting freedom of association and collective bargaining. Penalties under the law ranging from 10 reais to 1,000 reais ($2.50 to $250) were generally sufficient to deter violations, and labor courts enforced payments. Obtaining legal recourse through the courts was often a protracted process, particularly in cases related to retaliatory discharge.</p>
+<p>Freedom of association and the right to collective bargaining were generally respected. Collective bargaining was widespread in formal sector establishments in the private sector. Worker organizations were independent of the government and political parties. Cases of intimidation and killings of rural union organizers continued to be reported.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The labor law prohibits what it calls “slave labor,” defined as “reducing someone to a condition analogous to slavery,” including subjecting someone to forced labor or exploitative working conditions in general, such as long workdays, unhygienic work conditions, extremely arduous labor, and labor performed in degrading working conditions. The government took a number of actions to enforce the law, although forced labor continued to occur in a number of states. Imprisonment for violations of forced labor laws is up to eight years in prison but was often not sufficient to deter violations. The law also provides penalties for various crimes related to forced labor, such as illegal recruiting or transporting workers or incurring onerous debt burdens as a condition of employment.</p>
+<p>The National Commission to Eradicate Slave Labor, created in 2003, continued to coordinate government efforts to combat forced and exploitative labor and provided a forum for input from civil society. The commission’s members include representatives from 10 government agencies or ministries--including Human Rights, Justice, Federal Police, Agriculture, Labor, Environment--and 20 civil society groups. The ILO is also a member.</p>
+<p>The Ministry of Labor’s Mobile Inspection Unit teams conducted surprise inspections of properties on which forced labor was suspected or reported, using teams composed of labor inspectors, labor prosecutors from the Federal Labor Prosecutor’s Office, and federal police officers. Mobile teams levied fines on landowners who used forced labor and required employers to provide back pay and benefits to workers before returning the workers to their municipalities of origin. Labor inspectors and prosecutors, however, could only apply civil penalties; so many cases were not criminally prosecuted. Workers removed by mobile units were entitled to three months’ salary at the minimum wage. The government offered few services to these workers, and NGOs noted a high revictimization rate. The Ministry of Labor and Employment continued to work with the ILO and an international agency on a project to prevent revictimization through job training services for victims rescued from forced labor in Mato Grosso do Sul.</p>
+<pre>
+</pre>
+<pre>
+According to the Special Mobile Inspection Unit to Combat Forced Labor, from 1995 to 2014, there were 1,727 operations conducted, more than 48,094 workers rescued, and 92 million reais ($23.3 million) paid in back pay.  In 2014 a total of 1,509 workers were rescued from slave labor conditions, representing the lowest figure since 2001 and a yearly downward trend since 2007.</pre>
+<p>The Ministry of Labor’s “Dirty List” served to deter companies from employing forced labor, as those companies on the list were denied lines of credit from financial institutions. In December 2014 the Supreme Court ruled in favor of the Brazilian Association of Real Estate Developers (Abrainc) and prohibited publication of the list. The list was suspended for three months before the Secretariat of Human Rights and the Ministry of Labor used the country’s Access to Information law to obtain and republish the list.</p>
+<p>Efforts against forced labor were hindered by failure to impose effective penalties, the remoteness of the areas where such crimes typically occurred, lack of awareness of rights and responsibilities, delays in judicial procedure that resulted in de facto impunity for those responsible, and lack of sufficient programs to assist victims of forced labor.</p>
+<p>Efforts of the federal government were supported by a number of state initiatives, and several states had commissions for the eradication of forced labor, including Tocantins, Goias, Ceara, Rondonia, Bahia, Rio de Janeiro, Sao Paulo, Mato Grosso do Sul, Para, Maranhao, Mato Grosso, and Rio Grande do Sul. The Sao Paulo State Commission for the Eradication of Forced Labor (COETRAE) met regularly during the year under the coordination of the Secretariat of Justice. In the first five months of the year, COETRAE registered 176 cases of forced labor within Sao Paulo State, although there were no convictions by December.</p>
+<p>The Ministry of Justice trained 40 civil guards to better report trafficking crimes and to coordinate with Federal and Highway Police.</p>
+<p>Forced labor, including forced child labor, occurred in many states in industries such as clearing forests to provide cattle pastureland, logging, producing charcoal, raising livestock, and other agricultural activities. Forced labor often involved young men drawn from the less-developed northeastern states--Maranhao, Piaui, Tocantins, and Ceara--and the central state of Goias to work in the northern and central-western regions of the country. In addition there were reports of forced labor in the construction industry also involving young men principally from the Northeast. Cases of forced labor were also reported in the garment industry in the city of Sao Paulo; the victims were often from neighboring countries, particularly Bolivia, Peru, and Paraguay, while others came from Haiti and China.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum working age is 16 years, and apprenticeships may begin at age 14. The law bars all minors under age 18 from work that constitutes a physical strain or occurs in unhealthy, dangerous, or morally harmful conditions. Hazardous work includes an extensive list of activities within 13 occupational categories, including domestic service, garbage scavenging, and fertilizer production. The law requires parental permission for minors to work as apprentices.</p>
+<p>The Ministry of Labor is responsible for inspecting worksites to enforce child labor laws. Penalties for violations range from 402 reais to 1,891 reais ($102 to $479), doubling for a second violation and tripling for a third, and generally enforced; however, observers asserted fines were usually too small to serve as an effective deterrent. Most inspections of children in the workplace were driven by complaints brought by workers, teachers, unions, NGOs, and the media. Due to legal restrictions, labor inspectors remained unable to enter private homes and farms, where much of the nation’s child labor occurred.</p>
+<p>The government implemented innovative programs to prevent child labor, including the Program to Eradicate Child Labor (PETI), coordinated by the Ministry of Social Development and Combating Hunger with state and local authorities. Through PETI, families with children seven to 15 years of age working in selected hazardous activities received monthly cash stipends to keep their children in school. PETI serviced more than 820,000 children in 3,500 municipalities. The ministry’s “Bolsa Familia” (Family Allowance) program also provided a monthly stipend to low-income families that kept their children up to age 17 in school and met certain child health requirements. The “Bolsa Familia” served more than 14.1 million households nationwide. In addition, the government’s “Brasil Sem Miseria” (Brazil without Misery) and “Brasil Carinhoso” (Caring Brazil) programs provided access to public services and to increase employment opportunities. The government also continued to collaborate with the ILO in projects to eradicate child labor in the state of Mato Grosso. The Federal Police responded to criminal cases involving forced child labor. Nevertheless, child labor continued to be a problem.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws and regulations prohibit discrimination on the basis of race, sex, gender, disability, and sexual orientation or gender identity. Discrimination against individuals who are HIV-positive or suffer from other communicable diseases is also prohibited. The government generally enforced these laws and regulations, although discrimination in employment continued to occur with respect to Afro-Brazilians, women, persons with disabilities, indigenous persons, and transgender individuals. During the year the Ministry of Labor published new rules to integrate promotion of racial equality in its programs, including requiring that race be included in data for programs financed by the ministry, including unemployment insurance.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>In January the national minimum wage increased to 788 reais ($200) per month. According to 2010 IBGE data, the most recent information available, the per capita income of approximately 50 percent of workers was below the minimum wage. IBGE data also revealed 8.5 percent of workers (16.2 million) were considered “extremely poor” or earning less than 70 reais ($17.70) per month.</p>
+<p>The law limits the workweek to 44 hours and specifies a weekly rest period of 24 consecutive hours, preferably on Sundays. The law also provides for paid annual vacation, prohibits excessive compulsory overtime, limits overtime to two hours per workday, and stipulates that hours worked above the monthly limit must be compensated with at least time-and-a-half pay; these provisions generally were enforced for all groups of workers in the formal sector. The constitution also provides for the right of domestic workers to an eight-hour workday, a maximum of 44 hours’ work per week, a minimum wage, a lunch break, social security, and severance pay.</p>
+<p>The Ministry of Labor sets occupational, health, and safety standards that are consistent with internationally recognized norms, although unsafe working conditions were prevalent throughout the country, especially in construction. The law requires employers to establish internal committees for accident prevention in workplaces. It also provides for the protection of employees from being fired for their committee activities. Workers could generally remove themselves from situations that endangered their health or safety without jeopardy to their employment, although those in forced labor situations without access to transportation were particularly vulnerable to situations that endangered their health and safety.</p>
+<p>As part of its efforts to combat forced labor, the Ministry of Labor’s Mobile Inspection Unit teams also addressed problems related to acceptable conditions of work such as long workdays and unsafe or unhygienic work conditions. Penalties for violations included fines that varied widely depending on the nature of the violation; the fines were generally enforced and were sometimes sufficient to deter violations. The National Labor Inspection School held various training sessions for labor inspectors throughout the year.</p>
+<p>Sub-standard working conditions of Bolivian immigrants in the garment industry continued, principally in the city of Sao Paulo. Immigrants from Paraguay, Peru, China, and South Korea were also reported to be working in forced labor situations in the garment industry.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

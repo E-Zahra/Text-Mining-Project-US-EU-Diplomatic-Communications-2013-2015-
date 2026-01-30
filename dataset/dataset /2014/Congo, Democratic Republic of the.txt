@@ -1,0 +1,629 @@
+2014
+Congo, Democratic Republic of the
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346"> </span><span class="st_facebook" st_title="Congo, Democratic Republic of the" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236346">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236346</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li>
+<a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=executive"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Democratic Republic of the Congo is a nominally centralized constitutional republic. Voters popularly elect the president and the lower house of parliament (National Assembly). Provincial assemblies choose the members of the upper house (Senate). The government held multi-party presidential and National Assembly elections--characterized by many local and international observers as lacking in credibility and seriously flawed--in 2011. Authorities failed at times to maintain effective control over the security forces.</p>
+<p>The most important human rights problems included armed conflict in parts of the country that exacerbated an already precarious human rights situation, such as unlawful killings, sexual violence including rapes, disappearances, torture, and arbitrary arrests and detention. Widespread impunity and corruption throughout the government, as well as abuse and obstruction of and threats against journalists, human rights advocates, and members of the political opposition by state security force (SSF) members continued.</p>
+<p>Other major human rights problems included severe and life-threatening conditions in prisons and detention facilities; prolonged pretrial detention; arbitrary interference with privacy, family, and home; abuse of internally displaced persons by SSF and rebel and militia groups (RMGs); restrictions on the ability to change the government peacefully; SSF and RMG retention and recruitment of child soldiers; and use of forced civilian labor. Societal discrimination and abuse, particularly against women; children; persons with disabilities; ethnic minorities; indigenous persons; lesbian, gay, bisexual, and transgender persons; and persons with albinism as well as trafficking in persons, child labor, and lack of protection of worker rights also were major problems.</p>
+<p>Despite continued modest improvements, impunity for human rights abuses remained a severe problem in the SSF. Authorities did not prosecute or punish the majority of abusers.</p>
+<p>RMGs continued to operate and commit abuses primarily in the East, but also in Katanga and Orientale provinces. These abuses included unlawful killings, disappearances, torture, and sexual and gender-based violence. The RMGs also recruited, abducted, and retained child soldiers and compelled forced labor. The government took military action against some RMGs but had limited ability to investigate and bring them to trial (see section 1.g.).</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section1"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were reports that the Congolese National Police (PNC) committed extrajudicial killings. On October 17, the government expelled the director of the UN Joint Human Rights Office (UNJHRO) after his office published a report on unlawful killings and forced disappearances of civilians during “Operation Likofi,” a police campaign against organized gangs (“kulunas”) that took place between November 2013 and April. According to the UNJHRO report, the PNC committed nine extrajudicial killings and 32 forced disappearances throughout the campaign. Human Rights Watch also published a report on Operation Likofi on November 17, documenting 51 extrajudicial killings and 33 forced disappearances. In a number of cases, masked men wearing police uniforms, accompanied by informants, dragged victims from their homes, and shot and killed them in public. SSF members extracted others from holding cells and took them to unknown locations, where they subsequently disappeared. Some victims reportedly had no links to organized gangs but were involved in unrelated disputes. The PNC reported it had created a commission to investigate these crimes and arrested a number of police officers for misconduct during the operation. According to the United Nations, the government convicted one SSF member in relation to Operation Likofi. On July 24, the Military Garrison Tribunal of Ndjili sentenced a chief superintendent of the PNC to 10 years’ imprisonment for abduction, arbitrary arrest, and forgery while acquitting two other chief superintendents.</p>
+<p>There were reports the SSF committed arbitrary or unlawful killings in operations against RMGs in the East (see section 1.g.). For example, the United Nations reported that in July a member of the national army (FARDC) shot and killed two boys after mistaking them for members of RMGs (see also section 1.d.).</p>
+<p>The RMGs committed arbitrary and unlawful killings throughout the year (see section 1.g.). The United Nations reported RMGs killed 178 civilians near the town of Beni in the northeastern part of the country in October and November.</p>
+<p>Impunity continued to prevail for these and other abuses because authorities rarely had the ability to bring members of RMGs to trial or punish them (see section 1.d.).</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were reports of disappearances attributable to the SSF. Authorities often refused to acknowledge detentions of suspects and in some cases detained suspects in unofficial facilities.</p>
+<p>The UNJHRO reported the PNC forcibly abducted 32 individuals, who subsequently disappeared, during Operation Likofi (see section 1.a.).</p>
+<p>The RMGs and some FARDC elements kidnapped numerous persons, generally for forced labor, military service, or sexual slavery. Many of these victims disappeared (see section 1.g.).</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law criminalizes torture, but several human rights organizations reported the SSF continued to torture civilians, particularly detainees and prisoners. According to the United Nations, on July 10, a member of the FARDC Navy in Equateur province reportedly tortured a woman by pouring boiling liquid over her right leg when she refused to pay a docking fee.</p>
+<p>The government continued a campaign initiated in 2011 to educate SSF members and the population on the law criminalizing torture. In May 2013 the vice minister for justice and human rights organized several awareness-raising events for participants from the national security and defense forces, the judiciary, and civil society.</p>
+<p>On several occasions the SSF utilized cruel, inhuman, or degrading methods of punishment. For example, in June in Orientale province, PNC agents reportedly tortured a civilian whom they detained in solitary confinement and accused him of cooperating with the Lord’s Resistance Army (LRA). They allegedly handcuffed him with iron cables and whipped him several times. The SSF released him on July 9 due to a lack of evidence. An agent of the National Intelligence Agency (ANR) arrested a civilian in South Kivu in July reportedly for an unpaid debt of 9,200 Congolese francs ($10). The PNC handcuffed the civilian and placed him in a holding cell overnight until the PNC commanding officer, alerted by local civil society, intervened and released him.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Conditions in most prisons throughout the country remained harsh and life threatening. Even harsher conditions prevailed in small detention centers run by the ANR or other security forces, which were often used for lengthy incarceration.</p>
+<p><u>Physical Conditions</u>: According to a joint prison coordination committee, composed of representatives from the Ministry of Justice and Human Rights, the Ministry of Defense, and the UN Stabilization Mission in the country (MONUSCO), the number of persons in pretrial detention in 2010 exceeded 18,000, including an estimated 500 women. The reported total number of sentenced prisoners did not exceed 4,000, including approximately 100 women. Authorities generally confined men and women in separate areas, but often held juveniles with adults. They rarely separated pretrial detainees from convicted prisoners.</p>
+<p>Serious threats to life and health were widespread and included violence (particularly rape), food shortages, and inadequate potable water, sanitation, ventilation, temperature control, lighting, and medical care. Because inmates had inadequate supply of food and little access to water, many relied exclusively on relatives, nongovernmental organizations (NGOs), and churches to bring them sustenance. Facilities were severely overcrowded. For example, in September 2012 the Makala Central Prison in Kinshasa held 6,078 detainees, four times its capacity of 1,500. The Goma Central Prison held 1,208 detainees, eight times its capacity of 150. At the Bukavu Central Prison, more than 220 men slept in a room the size of a shipping container, on metal sheets without mattresses and with little ventilation.</p>
+<p>On May 31, in Boma Prison in Katanga province, officials allegedly held four prisoners overnight in a single pretrial detention cell where they reportedly died of suffocation. On May 1, at Kapapa Prison in Lubumbashi, one detainee reportedly died from sickness because he did not receive medical care. In May the United Nations reported that in a number of detention centers in Kinshasa, there was little ventilation and light, which subjected detainees to extreme heat. The United Nations reported that 50 individuals died in detention from starvation or illness between January and September.</p>
+<p>Most prisons were understaffed, undersupplied, and poorly maintained, oftentimes leading to escapes. For example, on June 5, more than 300 detainees overpowered prison security guards and escaped Bukavu Central Prison. They managed to obtain rifles and killed two FARDC soldiers. The media reported authorities had rearrested at least 54 prisoners by year’s end.</p>
+<p>Authorities often arbitrarily beat or tortured detainees.</p>
+<p>The RMGs detained civilians, often for ransom, but little information was available concerning detention conditions (see section 1.g.).</p>
+<p><u>Administration</u>: Recordkeeping on detainees was inadequate and irregular. Some prison directors could only estimate the numbers of detainees in their facilities. The law does not provide for alternatives to incarceration for nonviolent offenders. There were no ombudsmen available to respond to complaints. Authorities denied some inmates access to visitors and often did not permit them to contact or submit complaints to judicial authorities. Directors and staff generally ran prisons for profit, selling sleeping arrangements to the highest bidders and requiring payment for family visits to prisoners. There were no reports of authorities preventing prisoners or detainees from practicing their religion.</p>
+<p><u>Independent Monitoring</u>: The government regularly allowed the International Committee of the Red Cross (ICRC), MONUSCO, and NGOs access to official detention facilities. The ICRC reported having visited at least 17,393 detainees in prisons and detention centers throughout the year and, from January to April, provided health care and administrative support to 18 prisons. Some NGOs reported difficulty accessing detention centers run by the ANR.</p>
+<p><u>Improvements</u>: In May the vice minister of justice and human rights visited a number of detention centers in Kinshasa with UN counterparts to assess the conditions and arrest procedures in detention centers. Following these visits, he released 99 persons detained in holding cells and created a committee composed of representatives from the civil and military general prosecutors’ offices as well as representatives from MONUSCO to follow up on cases of irregularly detained persons. Throughout the year the vice minister continued these visits in Orientale, Maniema, and Bas-Congo provinces.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest or detention, but the SSF routinely arrested and detained persons arbitrarily. For example, following an intervention by the UNJHRO in June, a magistrate from the public prosecutor’s office released seven individuals in Equateur province, whom the PNC had arrested and detained, after he determined that they had been arrested for unestablished reasons.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The PNC operates under the Ministry of Interior and has primary responsibility for law enforcement and public order. The PNC includes the Rapid Intervention Police and the Integrated Police Unit. The ANR, overseen by the president’s national security adviser, is responsible for internal and external intelligence. The FARDC and the military intelligence service operate under the control of the Ministry of Defense and primarily are responsible for external security but also fulfill an internal security role. The presidency oversees the Republican Guard (RG), and the minister of interior oversees the director general of migration (DGM), which is responsible for border control. Military magistrates are responsible for the investigation and prosecution of all crimes committed by the SSF members, regardless if committed in the line of duty.</p>
+<p>Elements of the SSF were undisciplined and corrupt. The PNC and FARDC units throughout the country regularly engaged in illegal taxation and extortion of civilians. They set up checkpoints to collect “taxes,” often stealing food and money and arresting individuals who could not pay bribes. The FARDC suffered from weak command and control, poor operational planning, low administrative and logistical capacity, lack of training, and the questionable loyalty of some of its soldiers, particularly those in the East. For example, on June 6, the FARDC did not respond to ethnic violence in Mutarule, South Kivu province, between members of the Bafuliro and Banyamulenge communities, which led to at least 34 persons killed, including 17 women and eight children. Several victims were burned alive, while others were shot. Authorities arrested two FARDC officers for complicity during the attack, and the provincial government initiated a commission of inquiry into the incident.</p>
+<p>While the military justice system, which has jurisdiction for all crimes committed by SSF agents, convicted some SSF agents for human rights abuses, impunity remained a serious problem. The government maintained human rights committees with MONUSCO and used available international resources, such as a UN-implemented technical/logistical support program for military prosecutors as well as international NGO-supported mobile hearings.</p>
+<p>Military courts convicted SSF agents for human rights abuses. For example, on March 17, the Military Garrison Tribunal of Beni-Butembo in North Kivu province convicted 17 members of the FARDC, five members of the PNC, and five Mai Mai combatants of murder and rape and imposed sentences of between two years to life imprisonment.</p>
+<p>The government did not implement the code of discipline provisions in the revised military statutes passed in January 2013. The military justice system often succumbed to political and command interference, and security arrangements for magistrates in areas affected by conflict were inadequate. Justice mechanisms particularly were ineffective for addressing misconduct by mid- and high-ranking officials. For example, on May 5, the North Kivu Military Operational Court handed down its decision for crimes of rape, pillaging, and murder committed by the FARDC that occurred in Minova in 2012. Of the 39 FARDC soldiers who were defendants, it acquitted all 13 commanding officers of command responsibility for crimes committed by subordinates. Authorities pointed to lack of evidence as the reason for acquittal.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>By law arrests for offenses punishable by more than six months’ imprisonment require warrants. Detainees must appear before a magistrate within 48 hours. Authorities must inform those arrested of their rights and the reason(s) for their arrest, and they may not arrest a family member in lieu of the individual being sought. Authorities must allow arrested individuals to contact their families and consult with attorneys. Local NGOs reported that security officials routinely violated all of these requirements. Courts did not grant many detainees hearings within the required 48 hours. While the law provides for a bail system, it generally did not function. Detainees who were unable to pay rarely were able to access legal counsel. Authorities often held suspects incommunicado, including in facilities run by the ANR and the RG, and refused to acknowledge these detentions.</p>
+<p>Following visits by the vice minister of justice and human rights to detention centers, on July 16, the PNC issued a decree reforming arrest and detention procedures, requiring the PNC to verify facts before arresting individuals, separate men from women, assure that the centers are sanitary, and prohibit arbitrary arrest.</p>
+<p><u>Arbitrary Arrest</u>: Security personnel sometimes arrested and detained perceived opponents and critics of the government, occasionally under the pretext of state security, and often denied them due process, such as access to an attorney (see sections 1.a., 2.a., and 5). Police sometimes arbitrarily arrested and detained persons without filing charges to extort money from family members or because administrative systems were not well established. For example, on August 15, the UNJHRO obtained the release of seven persons the PNC had arbitrarily arrested and illegally detained in its holding cells in Manguredjipa in North Kivu province.</p>
+<p><u>Pretrial Detention</u>: Prolonged pretrial detention, often ranging from months to years, remained a problem. For example, in February the prison in Goma housed pretrial detainees who had been in detention for up to six months before their trial. Judicial inefficiency, administrative obstacles, corruption, financial constraints, and staff shortages caused trial delays. Prison officials often held individuals longer than their sentences due to disorganization, inadequate records, judicial inefficiency, or corruption. Prisoners unable to pay their fines remained indefinitely in prison.</p>
+<p><u>Amnesty</u>: Following the defeat of the M23 in 2013, the National Assembly enacted a law in February that provides amnesty for acts of insurgency, acts of war, and political offenses. By August the government granted 506 persons amnesty under this new law. It granted amnesty to members previously associated with the M23, Bakata Katanga, and Mai Mai Morgan and other RMGs. Other prisoners who had applied for amnesty awaited a decision at year’s end.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the law provides for an independent judiciary, the judiciary was corrupt and subject to influence. Officials and other influential individuals often subjected judges to coercion. A shortage of judges hindered the government’s ability to provide expeditious trials, and judges occasionally refused transfers to remote areas where shortages were most acute because the government could not support them there. Authorities routinely did not respect court orders. Disciplinary boards created under the High Council of Magistrates continued to rule on numerous cases of corruption and malpractice each month. Many of these rulings included the firing, suspension, or fining of judges and magistrates.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for a presumption of innocence, but authorities assumed most defendants were guilty unless they could prove their innocence. Authorities are required to inform defendants promptly and in detail of the charges against them, with free interpretation as necessary. The public may attend trials at the discretion of the presiding judge. Defendants have the right to a trial within 15 days of being charged, but judges may extend this period to a maximum of 45 days. Authorities only occasionally abided by this requirement. The government is not required to provide counsel in most cases, with the exception of murder trials. While the government regularly provided free legal counsel to indigent defendants in capital cases, lawyers often did not have adequate access to their clients. While on trial defendants have the right to be present and to have a defense attorney represent them. Authorities occasionally disregarded these rights. Authorities generally allowed adequate time to prepare a defense. There is no jury system. Authorities did not regularly observe a law that requires that defendants have access to government-held evidence. Defendants have the right to confront witnesses against them and to present evidence and witnesses in their own defense but did not always do so. Witnesses often were reluctant to testify due to fear of retaliation. Defendants are not compelled to testify or confess guilt. Defendants have the right to appeal, except in cases involving national security, armed robbery, and smuggling, which the Court of State Security usually adjudicates. These rights extend to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were reports of political prisoners and detainees, but no credible data on numbers existed. While the government permitted international human rights organization and MONUSCO access to some of these prisoners, authorities consistently denied access to detention facilities run by the RG and the ANR (see section 1.c.).</p>
+<p>On August 5, the ANR arrested Jean Bertrand Ewanga, a member of the National Assembly and secretary general of the Union for the Congolese Nation (UNC), and the general prosecutor charged him for making inflammatory remarks about the president at an opposition rally the previous day. The Supreme Court ruled that his case needed to go before the Constitutional Court, but authorities imprisoned him instead. After an intervention by parliamentary leadership, officials moved Ewanga to a hotel pending trial. On September 11, the Supreme Court sentenced him to 12 months’ imprisonment for offending the head of state and members of the government and parliament.</p>
+<p>On March 26, the Supreme Court sentenced Eugene Diomi, a former National Assembly member arrested in April 2013, to 10 years’ imprisonment for the rape of minors. Diomi claimed the government had targeted him as an outspoken member of the opposition.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals may seek civil remedies for human rights violations within the civil court system. Most individuals, however, preferred to seek redress in the criminal courts and rarely utilized civil courts to address human rights violations.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits arbitrary interference with privacy, family, home, or correspondence, the SSF routinely ignored these provisions. The SSF harassed and robbed civilians, entered and searched homes and vehicles without warrants, and looted homes, businesses, and schools. For example, on February 15, the FARDC reportedly razed and looted more than 200 households in the Masisi territory as reprisal for an attack by combatants of the Alliance of Patriots for a Free and Sovereign Congo (APCLS). Many SSF members responsible for abuses remained unidentified and unpunished.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>
+				g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p>Both local and foreign-influenced conflicts continued in mineral-rich parts of the East, particularly in the provinces of North Kivu, South Kivu, Katanga, and in the Bas Uele, Haut Uele, and Ituri districts of Orientale province. Foreign RMGs, such as the Democratic Forces for the Liberation of Rwanda (FDLR), Allied Democratic Forces/National Army for the Liberation of Uganda (ADF/NALU), National Forces of Liberation (FNL), and the LRA, as well as indigenous RMGs such as different Mai Mai (local militia) groups, continued to battle government forces and each other and to attack civilian populations. Unlike in previous years, there were no credible reports of foreign government support for the RMGs. By impeding humanitarian aid and development assistance in some areas, the fighting in the East exacerbated an already severe humanitarian crisis.</p>
+<p>The government took military action against several major RMGs. In concert with MONUSCO forces, the government defeated the M23, which surrendered in November 2013. During the year the government launched a military campaign against the ADF, the APCLS, and a number of Mai Mai groups. Also in May and June, 184 members of the FDLR voluntarily disarmed.</p>
+<p>Despite progress there were credible reports the SSF and the RMGs perpetrated serious human rights abuses. These RMGs included the APCLS; ADF/NALU; Bakata Katanga; Coalition of Ituri Armed Groups; the FDLR; the FNL; Forces of the Congolese Defense; Forces of the Patriotic Resistance of Ituri; the LRA; Nyatura; Congolese Resistance Patriots; Raia Mutomboki; and the following Mai-Mai groups: Cheka, Gedeon, Kifuafua, Morgan/Simba/Lumumba/Manu/Luc, Pareco, Shetani, and Yakutumba.</p>
+<p>MONUSCO continued to assist the government in seeking to establish and maintain peace and security, particularly in the East. In March the UN Security Council extended MONUSCO’s mandate for 12 months and renewed the intervention brigade to neutralize armed groups. At year’s end MONUSCO consisted of approximately 19,000 peacekeepers, military observers, and police.</p>
+<p><u>Killings</u>: According to reports by UN agencies and NGOs, the SSF and the RMGs summarily executed or otherwise killed civilians. For example, throughout the month of October, the ADF and possibly other RMGs attacked a number of villages around the Beni area in North Kivu province and allegedly killed more than 80 persons. ADF members allegedly killed at least 30 victims--including women and children--with machetes, decapitating some victims and cutting the throats of others.</p>
+<p>The UN Group of Experts (UNGOE) reported that on April 14, FARDC shot and killed Paul Sadala (alias Morgan), who had led the RMG Mai Mai Morgan, when he allegedly tried to escape while negotiating his surrender. Sadala was wanted for his involvement with human rights violations Mai Mai Morgan had allegedly committed, including murders, sexual slavery, and child recruitment.</p>
+<p><u>Abductions</u>: UN agencies and NGOs reported that the RMGs and some SSF units abducted individuals. Generally, the RMGs abducted individuals to serve as porters, guides, or in some other capacity. For example, on January 6, LRA combatants reportedly abducted seven men after having attacked and looted their homes. They forced the victims to carry the looted goods seven miles north before they released them.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: UN agencies and NGOs reported the SSF arrested, illegally detained, raped, and tortured civilians.</p>
+<p>The RMGs committed abuses in rural areas of North Kivu, South Kivu, Katanga, and Orientale, including killing, raping, and torturing civilians. Increasingly during the year, the RMGs forcibly recruited individuals, including children, to serve as porters, guides, and combatants. In certain areas in the East, the RMGs looted, extorted, and illegally taxed and detained civilians, often for ransom.</p>
+<p>For example, on June 20, Mai Mai Lumumba combatants reportedly mutilated three civilians in Lubero territory by cutting off their ears and cutting one victim’s face with a machete.</p>
+<p>Both male and female RMG members raped men, women, and minors as part of the violence among and between them and the FARDC. Statistics for rape, especially rape of males, were not available.</p>
+<p>In July the UNGOE reported the ADF was using unsophisticated, improvised explosive devices that had resulted in FARDC casualties.</p>
+<p><u>Child Soldiers</u>: By September the United Nations documented that armed groups had newly recruited and used 50 children (41 boys, nine girls). In nearly half of these reported instances, armed groups reportedly used children as combatants; children also served as porters, cooks, informants, and other support roles. Most of the girls faced sexual violence and exploitation. The RMGs continued to recruit and use children in North Kivu, South Kivu, Katanga, and Orientale provinces, particularly within poorly integrated or controlled units. The government took steps to reduce and limit the use of child soldiers, including by implementing the UN-backed action plan to end the recruitment and use of child soldiers and by working with partner organizations to develop training programs to prevent child recruitment. Additionally, FARDC commanders increased efforts to demobilize child soldiers of surrendering RMGs. In multiple instances FARDC commanders and liaisons requested assistance from MONUSCO, the UN Children’s Fund (UNICEF), or other humanitarian organizations and transferred children to their care. By November the United Nations reported there were no documented cases of child soldier recruitment by the FARDC.</p>
+<p>See also the Department of State’s annual <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+<p><u>Other Conflict-related Abuses</u>: Fighting between the FARDC and the RMGs continued to displace populations and limit humanitarian access, particularly in Rutshuru and Nyiragongo territories in North Kivu province. According to the UN Office for the Coordination of Humanitarian Affairs, as of July humanitarian agency personnel were involved in 85 security incidents. The United Nations reported that on October 27, unknown armed combatants attacked a vehicle belonging to Mercy Corps, an international NGO, in Masisi territory in North Kivu province. The assailants left the Mercy Corps staff unharmed but stole electronics and cash and damaged the vehicle’s radio, preventing the staff from promptly contacting authorities.</p>
+<p>In North Kivu and South Kivu provinces, the RMGs and FARDC soldiers continued illegally to exploit and trade natural resources for revenue and power. Clandestine trade in minerals and other natural resources facilitated the purchase of weapons and reduced government revenues. The natural resources most exploited were the minerals cassiterite (tin ore), coltan (tantalum ore), wolframite (tungsten ore), and gold, followed by timber, charcoal, and fish.</p>
+<p>According to media and civil society, the LRA trafficked in elephant ivory from Garamba National Park to finance its operations, likely by smuggling ivory through the Central African Republic and the Republic of South Sudan to China.</p>
+<p>The illegal trade in minerals was both a symptom and cause of the conflict in North Kivu and South Kivu provinces. With some enhanced government regulation of the mining and trade of cassiterite and coltan, a small but increasing amount of legal exportation from both provinces took place during the year. The RMGs continued to control and threaten remote mining areas in North Kivu and South Kivu provinces.</p>
+<p>The law prohibits the FARDC and the RMGs from engaging in the mineral trade, but the government did not effectively enforce the law. Criminal involvement by FARDC units and RMGs included protection rackets (such as mining pit managers forced to pay protection fees to avoid theft or to facilitate smuggling), indirect commercial control (including the use of illegal “tax” revenues to buy and sell minerals near mining sites), and direct coercive control (including theft). FARDC units and RMGs routinely extorted illegal taxes from civilians and at times forced civilians to work for them or relinquish their mineral production.</p>
+<p>The UNGOE again reported several RMGs, Raia Mutomboki in particular, profited from illegal trade and exploitation in the mineral sector. The UNGOE also reported smuggling of minerals continued within the East of the country and from there to Rwanda, Uganda, and Burundi. Some SSF units reportedly profited from the trade in gold and were complicit in smuggling minerals.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section2"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press. Generally, individuals could criticize the government, its officials, and other citizens in private without being subject to official reprisals. Public criticism, however, of government officials and government conduct or decisions regarding matters such as conflict and insurgencies, management of natural resources, and corruption sometimes resulted in harsh responses, often from the ANR, and, less frequently, from provincial authorities.</p>
+<p><u>Freedom of Speech</u>: The law prohibits insulting the head of state, malicious and public slander, and language presumed to threaten national security. Government authorities sometimes detained journalists, activists, and politicians when they publicly criticized the government or the SSF. Plainclothes security agents allegedly monitored political rallies and events.</p>
+<p>On August 21, authorities arrested the editor of <i>Congo News</i> newspaper, Mike Mukebayi, for publishing an article critical of the politically influential archbishop of Kinshasa. On August 25, the PNC arrested 30 journalists for damaging accusations when they demonstrated for his release. In October while Mukebayi was in Makala Central Prison in pretrial detention awaiting a decision from the Gombe Peace Tribunal, the government closed his news outlet, ostensibly for administrative reasons.</p>
+<p><u>Press Freedoms</u>: The law mandates the High Council for the Audiovisual and Communications (CSAC) to provide for freedom and protection of the press and equal access to communications media and information for political parties, associations, and citizens. Media, human rights, and other organizations regularly questioned the CSAC’s power, independence, neutrality, and capacity to function effectively. For example, on July 4, the CSAC suspended the television show <i>Journal d’Informations Judiciares</i> after the host of the show publicly denounced on air a bribery attempt by the minister of industry when she (the host) applied to trademark the name of her show. By year’s end the Supreme Court had not ruled on the case.</p>
+<p>A large and active private press (both progovernment and pro-opposition) functioned predominantly in Kinshasa although with some representation across the country, and the government licensed a large number of daily newspapers. According to the Ministry of Communications, the government registered 134 television stations, 463 radio stations, and 445 newspapers in 2012. Only two media outlets had quasi-national coverage. The government required newspapers to pay a one-time license fee of 250,000 Congolese francs ($272) and complete several administrative requirements before publishing. Many journalists lacked professional training, received little or no set salary, and worked for individuals, government officials, and politicians who paid for specific articles.</p>
+<p>Radio remained the principal medium of public information due to limited literacy and the relatively high cost of newspapers and television. The state owned three radio stations and three television stations, and the president’s family owned two television stations. Government officials, politicians, and, to a lesser extent church leaders, owned or operated the majority of media outlets.</p>
+<p><u>Violence and Harassment</u>: The SSF beat, arbitrarily arrested, harassed, and intimidated local journalists because of their reporting. For example, on January 20, RG agents reportedly beat a journalist and took away her video camera for reporting on the FARDC’s allegedly inappropriate use of a building in North Kivu province. When the agents brought the journalist to the local ANR office, ANR agents reportedly ordered the camera to be returned to the victim and took her to a nearby hospital for medical treatment.</p>
+<p>On June 23, PNC and ANR agents arrested three journalists and closed Radio Television Mungano in North Kivu province. The ANR reportedly ordered the arrests due to their reporting on human rights violations allegedly committed by the FARDC as well as implicating an ANR agent in a homicide.</p>
+<p>Unlike in the previous year, government authorities neither killed journalists nor caused any to disappear. According to Journalists in Danger, authorities assaulted 18 journalists and threatened or harassed 21 during the year. Journalists in Danger reported a decrease in press freedom violations from 175 in 2012 to 119 in 2013. Other incidents included government detentions or questioning of journalists and efforts to subject them to administrative, judicial, or economic pressure or to interpose obstacles to the free circulation of information. At year’s end the government had not punished any perpetrators of press freedom violations.</p>
+<p><u>Censorship or Content Restrictions</u>: While the CSAC is the only institution with legal authority to restrict broadcasts, the government, including the SSF and provincial officials, also exercised this power. Some press attaches in government agencies allegedly had editorial roles for news articles. Certain regulating bodies restricted freedom of the press and intimidated journalists and publishers into practicing self-censorship.</p>
+<p><u>Libel Laws/National Security</u>: The national and provincial governments continued to use criminal defamation laws to intimidate and punish those critical of the government. For example, a local court in Kasai Orientale province convicted a member of the opposition party Union for Democracy and Social Progress for libel, sentenced him to 12 months in prison, and fined him 450,000 Congolese francs ($490).</p>
+<p><u>Nongovernmental Impact</u>: The RMGs and their political wings regularly restricted press freedom in the areas where they operated.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications without appropriate legal authority. The law stipulates bloggers must obtain CSAC authorization. At year’s end the CSAC had not refused authorization to any bloggers. Some private entrepreneurs made moderately priced internet access available through internet cafes in large cities throughout the country. Data-enabled mobile telephones were an increasingly popular way to access the internet. According to the International Telecommunication Union, 2.2 percent of individuals in the country used the internet in 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of peaceful assembly, but the government sometimes restricted this right. The government requires organizers of public events to register with local authorities in advance. If authorities deny authorization, they must do so in writing within five days of registration. The SSF occasionally beat, detained, or arrested participants in unauthorized protests, marches, or meetings.</p>
+<p>Authorities sometimes denied permission for opposition party and civil society group demonstrations and arrested protest leaders. For example, on August 11, the FARDC announced its decision to prohibit any protests against government efforts to relocate former combatants of the FDLR to Kisangani, Orientale province, arguing that this relocation effort was a military matter.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation. The government sometimes restricted these rights.</p>
+<p><u>In-country Movement</u>: The SSF--and to a greater extent RMGs--established barriers and checkpoints on roads and at airports and markets, ostensibly for security reasons, and routinely harassed and extorted money from civilians for supposed violations, sometimes detaining them until they or a relative paid. The government required travelers to submit to control procedures at airports and ports during domestic travel and when entering and leaving towns.</p>
+<p>Local authorities continued to collect illegal taxes and fees for boats to travel on many parts of the Congo River. There also were widespread reports of FARDC soldiers and RMG combatants extorting fees from persons taking goods to market or traveling between towns (see section 1.g.).</p>
+<p>The SSF sometimes required travelers to present travel orders from an employer or government official, although the law does not require such documentation. The SSF often detained and exacted bribes from individuals traveling without orders.</p>
+<p><u>Foreign Travel</u>: Because of inadequate administrative systems, passport issuance often was irregular. Officials regularly accepted bribes to expedite passport issuance.</p>
+<p>In September 2013 the DGM announced a suspension of exit permits for all Congolese children adopted by international parents, citing concerns about the treatment the children received in their adoptive countries, as well as concerns about irregularities in the adoption process within the country. The DGM initially signaled that the suspension would be in effect for up to 12 months, but on September 25, it announced that the suspension would remain in place until “further notice.” The DGM made some exceptions and issued permits to some “medically fragile” children who could not receive life-saving care in the country.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>Due to the conflict in the East and a heightened conflict in northern-central Katanga province, the number of IDPs by September was more than 2.6 million throughout the country, according to the Office of the UN High Commissioner for Refugees (UNHCR). Approximately 56 percent of the country’s IDPs were located in North Kivu and South Kivu provinces. Displacement also remained a problem in Orientale, Katanga, and Maniema provinces. The government was unable to protect or assist IDPs adequately, and it generally allowed domestic and international humanitarian organizations to provide assistance to the IDPs. Fighting and a general lack of security impeded humanitarian efforts.</p>
+<p>Combatants and other civilians abused some IDPs, including via sexual exploitation of women and children, abduction, forced conscription, looting, illegal taxation, and general harassment. For example, in South Kivu province the UNHCR and its partners documented 2,234 protection incidents by September. These incidents included administrative impediments by government institutions, illegal taxation, sexual violence and rape, killing, and looting.</p>
+<p>While there were large displacements throughout the year, there were also returns. With the surrender of M23 in 2013, the government restored peace and stability to some areas in North Kivu province. The UNHCR reported Congolese refugees in Uganda began returning to the Rutshuru area. In May the government, through the National Commission on Refugees, launched awareness-raising efforts of IDPs on voluntary returns from IDP sites in the Goma area. According to the International Organization for Migration, 7,200 persons declared their intention to return, and from November 2013 to late 2014 approximately 53,000 persons had spontaneously left the IDP camps around Goma.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>As of October 31, the UNHCR reported 121, 935 refugees in the country from seven adjacent countries, the majority from Rwanda and an increased number from the Central African Republic.</p>
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government established a rudimentary system for providing protection to refugees. The system granted refugee and asylum status and provided protection against the expulsion or return of refugees to countries where their lives or freedom would be threatened on account of their race, religion, nationality, membership in a particular social group, or political opinion.</p>
+<p>The government cooperated with the UNHCR and other humanitarian organizations assisting refugees and asylum seekers with welfare and safety needs. The government assisted in the safe, voluntary return of refugees to their homes by allowing their entry into the country and facilitating immigration processing. In establishing security mechanisms, government authorities did not treat refugees differently than citizens.</p>
+<p><u>Durable Solutions</u>: Through the application of the cessation clauses of the 1951 Convention and the 1969 Organization of African Unity Convention, Angolans who fled the Angolan civil war (which ended in 2002) ceased to be refugees in June 2012. On August 19, the UNHCR launched the final assisted voluntary repatriation of former Angolan refugees. By September, 959 Angolans had returned home; another 37,336 Angolans in Kinshasa, Bas-Congo, and Katanga provinces awaited return.</p>
+<p>The UNHCR recommended invocation of the cessation clause--effective June 30--for Rwandan refugees who fled Rwanda before December 31, 1998. As of October the government declined to implement the clause, but at their third tripartite meeting held June 20-21 in Kigali, the government agreed with Rwanda and the UNHCR to continue to work towards its application for Rwandan refugees residing in the country. In February the National Commission on Refugees performed a preliminary survey that counted 241,626 possible Rwandan refugees. By September 4, a total of 495 refugees had returned to Rwanda with the assistance of the UNHCR.</p>
+<p><u>Temporary Protection</u>: The government provided temporary protection to an undetermined number of individuals who may not qualify as refugees.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section3"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens the ability to change their government through the right to vote in free and fair elections based on universal suffrage, but the right was restricted.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: The Independent National Electoral Commission (CENI) held presidential and parliamentary elections in 2011 and declared Joseph Kabila the winner of the presidential election. Several international observer missions stated the results of the elections were “seriously flawed” and “lacked credibility,” due largely to irregularities and a lack of transparency in the vote tabulation process. NGOs, including Human Rights Watch, reported security forces killed or arbitrarily detained dozens of citizens prior to the voting. The United Nations confirmed that at least 41 persons were killed and that security forces throughout the elections physically harmed hundreds. Losing candidates contested the election results for approximately 340 of the 500 parliamentary seats at the Supreme Court. Many of the cases reportedly had little merit. In April 2012 the Supreme Court certified the results of 482 parliamentary electoral contests. On July 24, Denis Engunda of the Christian Democratic Party won election to become a member of the National Assembly from Equateur province, marking the resolution of the last contested result for the 2011 parliamentary elections.</p>
+<p>In April 2013 the government established a new CENI responsible for the planning, implementation, and oversight of local, provincial, and national elections. On May 26, CENI announced that it would hold local elections from June to October 2015. By law CENI must hold the presidential and national elections by the end of 2016, but by year’s end CENI had not set a date for the elections.</p>
+<p><u>Political Parties and Political Participation</u>: Although President Kabila is nominally independent, the president’s political alliance, which includes his former party, People’s Party for Reconstruction and Democracy, the Social Movement for Renewal, and other parties enjoyed majority representation in government, parliament, and judicial bodies, including the Constitutional Court and CENI. State-run media, including television and radio stations, remained the largest source of information for the public and the government (see section 2.a.). There were reports of government intimidation of opposition members, such as limiting travel within or outside of the country, and political influence in the distribution of media content.</p>
+<p>The law recognizes opposition parties and provides them with “sacred” rights and obligations. While political parties were able to operate most of the time without restriction or outside interference, government authorities sometimes arbitrarily arrested, harassed, and prevented opposition members from holding public rallies. For example, on February 20, in Bukavu, South Kivu province, the PNC intervened in an opposition rally held by Vitale Kamerhe, president of the UNC. The SSF injured 26 civilians, including 10 UNC supporters. Authorities reportedly previously prevented Kamerhe from flying to the East to hold political rallies.</p>
+<p><u>Participation of Women and Minorities</u>: Women held approximately 10 percent of the seats in the National Assembly (50 of 493) and 6 percent in the provincial assemblies (43 of 690). Four of 108 senators were women. Among the 37 government ministers and vice ministers, six were women, a significant proportional increase from that of the government formed in 2012 (from 9 percent to 16 percent).</p>
+<p>Some groups, including indigenous people, had no representation in the Senate, the National Assembly, or provincial assemblies. This lack of universal representation of tribes may result from the vast number of tribes but may also reflect societal discrimination. The enslavement of and discrimination against indigenous groups continued in some areas, such as Equateur, Orientale, and Katanga provinces, and contributed to their lack of political participation (see section 5).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section4"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials, but the government did not implement the law effectively, and officials frequently engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: Corruption remained endemic throughout the government and the SSF. Bribery was routine in public and private business transactions, especially in the areas of government procurement, dispute settlement, administration of justice, mining, land ownership, and taxation.</p>
+<p>Weak financial controls and a poorly functioning judicial system encouraged officials to engage in corruption with impunity. In an effort to combat corruption, the government sometimes suspended officials for the misuse of funds, including donor funds. The government also continued a program to pay many civil servants and security forces in major cities by direct deposit, eliminating an important means of graft. Previously the government utilized a cascading cash payment system disbursing salaries to senior officials for payment to subordinate officials, who in turn paid their staffs.</p>
+<p>The government has a watchdog agency for the enforcement of the code of professional ethics for civil servants. The Court of Accounts and the NGO Congolese Anti-Corruption League worked closely on corruption matters. The Ministry of Justice and Human Rights has an internal anticorruption team and has the overall responsibility for combatting corruption.</p>
+<p>The law criminalizes money laundering and terrorist financing. Limited resources and a weak judicial system hampered the ability of the Financial Intelligence Unit to enforce regulations against money laundering. Local institutions and personnel lacked the training and capacity to enforce the law and its attendant regulations fully.</p>
+<p>Government authorities and wealthy individuals at times used antidefamation laws that carry criminal punishments, as well as other means of intimidation, to discourage media investigation of government corruption (see section 2.a.).</p>
+<p><u>Financial Disclosure</u>: The law requires the president and ministers to disclose their assets to a government committee. President Kabila and all ministers and vice ministers reportedly did so when they took office. The committee did not make this information public.</p>
+<p><u>Public Access to Information</u>: The law does not provide for public access to government-held information. The government did not grant access to either citizens or noncitizens, including foreign media.</p>
+<p><u>Illicit Trade in Natural Resources</u>: Reports, including an UNGOE report, indicated the mining sector continued to lose millions of dollars because of corruption by officials at all levels. Additional revenue losses were due to illegal exploitation of minerals in the East by the FARDC and largely illegal exploitation by the RMGs (see section 1.g.).</p>
+<p>In 2008 the Extractive Industries Transparency Initiative (EITI), an international voluntary initiative designed to increase transparency in transactions between governments and companies in the extractive industries, accepted the country as a candidate. Despite the country being an EITI candidate, fiscal evasion remained rampant in its extractive industries. On April 18, the international EITI board suspended the country’s candidacy for failure to meet its requirements for full disclosure and reliability of figures. Facing the end of a five-year candidacy period, the government intensified its efforts in EITI compliance and improved its reporting in both oil and mining sectors throughout the year. In July the EITI board noted these efforts and found the country to be EITI compliant.</p>
+<p>According to the mid-term report published by the UNGOE in June, the government uses the Organization for European Cooperation and Development color-based validation scheme for its mining sites. “Green” sites meet all international standards (no armed groups, no child labor, and no pregnant women laborers present). “Yellow” sites denote that infractions occurred but that there are six months for corrective measures to take place. “Red” sites are where the UNGOE found serious and grave infractions, barring them from any official exports. UNGOE reported that by June, the government had validated 39 mining sites in North and South Kivu provinces, of which 25 were green, two were yellow, and 10 were red. The UNGOE further reported the government had launched its regional certification mechanism of the Regional Initiative on Natural Resources of the International Conference on the Great Lakes Region on January 20. This mechanism seeks to standardize across the Great Lakes region the processes of supply chain management of cassiterite, wolframite, coltan, and gold. The “certificate of the conference” replaces the “certificate of origin” previously issued by the government. By May the mechanism issued four certificates for cassiterite exports to Luxembourg and Malaysia in South Kivu province and two certificates for coltan exports to Hong Kong in North Kivu province. The UNGOE reported that Uganda continued to be a destination and transit center for smuggled gold and ivory.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section5"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Elements of the SSF continued to harass, beat, intimidate, and arbitrarily arrest and detain domestic human rights advocates and domestic NGO workers, particularly when the NGOs reported on or supported victims of abuses by the SSF or reported on the illegal exploitation of natural resources in the East. Officials from the Ministry of Justice and Human Rights and the ANR met with domestic NGOs and sometimes responded to their inquiries.</p>
+<p><u>The United Nations or Other International Bodies</u>: On October 17, the government expelled Scott Campbell, director of UNJHRO, for publishing a report that accused the PNC of unlawful killings and forced disappearance of civilians during a crackdown on gangs (see section 1.a.).</p>
+<p><u>Government Human Rights Bodies</u>: An interministerial human rights committee met on a temporary basis to address high-profile problems, but its effectiveness was limited. In March 2013 President Kabila promulgated a law to create a human rights commission, but by year’s end the government had not approved the nominees of the commission or provided a budget for the commission’s operation.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section6"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution prohibits discrimination based on race, ethnicity, gender, language, culture, or religion but does not address disability or sexual orientation. The government did not enforce prohibitions against discrimination effectively.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law on sexual violence criminalizes rape, but the government did not effectively enforce this law, and rape was common throughout the country. The law defines rape to include male survivors, sexual slavery, sexual harassment, forced pregnancy, and other sexual crimes but not spousal rape. It also prohibits compromise fines and forced marriage, allows survivors of sexual violence to waive appearance in court, and permits closed hearings to protect confidentiality. The minimum penalty prescribed for rape is a prison sentence of five years.</p>
+<p>The SSF, RMGs, and civilians perpetrated widespread sexual violence (see section 1.g.). The United Nations registered 3,635 victims of sexual violence from January 2010 to December 2013. These crimes were often committed during attacks on villages and sometimes as a tactic of war to punish civilians for perceived allegiances with rival parties or groups. The crimes occurred largely in the conflict zones in North Kivu province but also in provinces throughout the country.</p>
+<p>Some prosecutions occurred for rape and other types of sexual violence. According to the United Nations, from July 2011 to December 2013, military courts convicted 187 individuals for sexual violence, 183 of them SSF or other state actors. Following the November 2012 killings, rapes, and pillaging in and around the town of Minova, South Kivu, in which the United Nations reported the rape of at least 126 women and girls, the Military Operational Court of the Minova Trial convicted only two Congolese SSF, a second lieutenant and a corporal, and sentenced them to life imprisonment for rape.</p>
+<p>On August 11, the South Kivu Military Court began the trial of Bedi Mobuli Engangela, otherwise known as “Colonel 106,” commander of the 106 Battalion of the FARDC. Engangela was on trial for war crimes and crimes against humanity, i.e., rape and murder committed by troops under his command, when he ordered attacks on villages in South Kivu province between 2005 and 2007. He remained in Bukavu Central Prison awaiting a decision from the court.</p>
+<p>Most victims of rape did not pursue formal legal action due to insufficient resources, lack of confidence in the justice system, fear of subjecting themselves to humiliation and possible reprisal, or family pressure.</p>
+<p>It was common for family members to pressure a rape survivor to remain silent, even in collaboration with health-care professionals, to safeguard the reputations of the survivor and her family. Survivors of sexual and gender-based violence faced significant social stigma. Society tended to label many young women and girls who survive a sexual assault as unsuitable for marriage, and husbands frequently abandoned wives who had been assaulted. Some families forced rape survivors to marry the men who raped them or to forgo prosecution in exchange for money or goods from the rapist.</p>
+<p>The law does not provide any specific penalty for domestic violence, but it was common throughout the country. A 2012 study found 64 percent of girls and women ages 14 and above had suffered physical violence, of whom 49 percent experienced physical violence again within 12 months of being interviewed for the study. Although the law considers assault a crime, no law specifically addresses domestic violence, and police rarely intervened in domestic disputes. There were no reports of judicial authorities taking action in cases of domestic or spousal abuse.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law describes FGM/C as a form of sexual violence, provides a sentence of two to five years in prison, and levies fines of up to 200,000 Congolese francs ($218); in case of death due to FGM/C, the sentence is life imprisonment.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment occurred throughout the country. A 2010 study conducted by the World Health Organization found 64 percent of all workers surveyed experienced sexual harassment at the workplace. The law prohibits sexual harassment, and the minimum penalty prescribed by law is a prison sentence of one year. Sexual harassment in the workplace was common, however, and there was little or no effective enforcement.</p>
+<p><u>Reproductive Rights</u>: The government respected the right of couples to decide freely and responsibly the number, spacing, and timing of their children and to have the information and means to do so, free from discrimination, coercion, and violence. The law does not require a husband’s permission before providing family planning services to married women, but providers generally required it. Women’s access to contraception remained extremely low. According to the 2014 Demographic and Health Survey, only 7.8 percent of women used a modern form of contraception. According to the survey, the maternal mortality ratio was 846 deaths per 100,000 live births despite estimates that 80 percent of births took place at a health facility assisted by a trained health professional. According to UN estimates, there were 21,000 maternal deaths in 2013, and a woman’s lifetime risk of maternal death was one in 23. A number of factors contributed to the high maternal mortality rate, including limited access to health providers and specialists, frequent shortages in supplies and equipment for health centers, lack of specialized knowledge and training, and delays due to transportation challenges. At times mothers delayed seeking health-care services due to cost and lack of knowledge of the seriousness of the health issue.</p>
+<p><u>Discrimination</u>: The constitution prohibits discrimination based on sex, but the law does not provide women the same rights as men. For example, the family code requires a married woman to obtain her husband’s consent before engaging in legal transactions, including selling or renting real estate, opening a bank account, or applying for a passport. According to UNICEF many widows were dispossessed of their property because the law states that, in event of a death in which there is no will, the husband’s children, even those born out of wedlock, rather than the widow, have precedence with regard to inheritance. Courts may sentence women found guilty of adultery to up to one year in prison, while adultery by men is punishable only if judged to have “an injurious quality.” In their 2009 report to the UN Human Rights Commission, seven UN special rapporteurs and representatives expressed concern that although the family code recognizes equality between spouses, it “effectively renders a married woman a minor under the guardianship of her husband” by stating that the wife must obey her husband.</p>
+<p>Women experienced economic discrimination (see section 7.d.). The law forbids a woman from working at night or accepting employment without her husband’s consent. Various laws require political parties to consider sex when presenting candidates at all levels, but these laws were not enforced.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The law provides for the acquisition of citizenship through birth within the country or from either parent being of an ethnic group documented as having been located in the country in 1960. The constitution does not allow Congolese nationals to hold the citizenship of another country. According to UNICEF, 25 percent of children born in some form of medical facility were registered with the state. Birth registration was lowest among ethnic minorities. Lack of registration rarely affected access to government services.</p>
+<p><u>Education</u>: While the constitution and law provide for free and compulsory primary education to age 15 or through the eighth grade, in practice it was not compulsory, free, or universal. Public schools generally expected parents to contribute to teachers’ salaries, and parents typically funded 60 percent or more of school expenses with an average of 11 percent of family spending going to education costs. These expenses, combined with the potential loss of income from their children’s labor while they attended class, rendered many parents unable or unwilling to enroll their children. A 2013 study found that nationally an estimated 28 percent of school-age children were not enrolled in school. Enrollment rates in conflict areas could be much lower, especially for girls. In North Kivu province, for example, 46 percent of girls and 42 percent of boys were out of school.</p>
+<p>Primary and secondary school attendance rates for girls were lower than for boys due to financial, cultural, or security reasons. The World Bank reported in 2012 that 72 percent of women and 78 percent of men between ages 15 and 24 attended schools. Additionally, children in school were not particularly safe. Teachers subjected one in four children to corporal punishment and pressured one in five girls who were in school to exchange sexual favors for high grades.</p>
+<p>Many of the schools in the East were dilapidated and closed due to chronic insecurity. The government used others as housing for IDPs. Parents in some areas kept their children from attending school due to fear of RMG forcible recruitment of child soldiers.</p>
+<p><u>Child Abuse</u>: Although the law prohibits all forms of child abuse, it regularly occurred.</p>
+<p>The constitution prohibits parental abandonment of children accused of sorcery. Nevertheless, parents or other care providers sometimes abandoned or abused such children, frequently invoking “witchcraft” as a rationale. The law provides for the imprisonment of parents and other adults convicted of accusing children of witchcraft. Authorities did not implement the law.</p>
+<p>Many churches conducted exorcisms of children accused of witchcraft, which involved isolation, beating, whipping, starvation, and forced ingestion of purgatives. According to UNICEF children with disabilities or speech impediments sometimes were branded as witches. This practice sometimes resulted in parents abandoning their children. UNICEF stated that as many as 70 percent of the street children it assisted claimed to have been accused of witchcraft.</p>
+<p><u>Early and Forced Marriage</u>: While the law prohibits the marriage of boys and girls under age 18, some marriages of underage children took place. Bride-wealth (dowry) payment made by a groom or his kin to the relatives of the bride to ratify a marriage greatly contributed to underage marriage, as parents forcibly married daughters to collect bride wealth or to finance bride wealth for a son. The law criminalizes forced marriage. Courts may sentence parents convicted of forcing a child to marry to up to 12 years’ hard labor and a fine of 92,500 Congolese francs ($100). The penalty doubles when the child is under age 15. There were no reports of prosecutions for forced marriage.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: The law considers FGM/C a type of sexual violence, and there were few isolated reports of FGM/C.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum age of consensual sex is 18 for both males and females, and the law prohibits prostitution by anyone under age 18. The penal code prohibits child pornography, with imprisonment of 10 to 20 years for those convicted. According to a 2010 World Bank report, 26 percent of children living on the streets were girls, of whom 70 percent were victims of rape, and 90 percent were victims of forced prostitution. The NGO Physicians for Human Rights reported sexual abuse of children was more prevalent in rural areas. The United Nations recorded 906 cases of rape of children, primarily girls, from January 2010 to December 2013. There were also reports that child soldiers, particularly girls, faced sexual exploitation (see section 1.g.).</p>
+<p><u>Child Soldiers</u>: Armed groups recruited boys and girls (see section 1.g.).</p>
+<p><u>Displaced Children</u>: According to the most recent data available, there were an estimated 8.2 million orphans and other vulnerable children in the country. Ninety-one percent received no external support of any kind, and only 3 percent received medical support. An estimated 30,000 to 40,000 children lived on the streets, with the highest concentration in Kinshasa. The families of many of these children forced them out of their homes, accusing them of witchcraft and bringing misfortune to their families.</p>
+<p>The government was not equipped to deal with such large numbers of homeless children. The SSF abused and arbitrarily arrested street children (see sections 1.c. and 1.d.).</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information, see <a href="http://travel.state.gov/content/childabduction/english/country/Congo.html"><u>travel.state.gov/content/childabduction/english/country/Congo.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The country has a very small Jewish population, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits discrimination against persons with physical, intellectual, or mental disabilities; stipulates that all citizens regardless of disability have access to public services; and provides specific government protection to persons with disabilities. The constitution states all persons should have access to national education regardless of their mental, physical, or sensorial state. The law states that private, public, and semipublic companies may not discriminate against qualified candidates based on intellectual, sensorial, and physical disabilities. The government did not enforce these provisions effectively, and persons with disabilities often found it difficult to obtain employment, education, and government services.</p>
+<p>The law does not mandate access to government buildings or services for persons with disabilities. While persons with disabilities may attend public primary and secondary schools and have access to higher education, no special provisions are required of educational facilities to accommodate their special needs. Some schools for persons with disabilities, including persons with visual disabilities, received private and limited public funds to provide education and vocational training. Persons with disabilities have the right to vote, although lack of physical accessibility constituted a barrier for some persons with disabilities in exercising that right.</p>
+<p>The Ministry of Social Affairs, in cooperation with other concerned ministries (Labor, Education, Justice and Human Rights, Health), had the lead in seeking to provide for the equitable treatment of persons with disabilities.</p>
+<p>According to UNICEF society sometimes branded children with disabilities or speech impediments as witches.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The country had a population of between 250,000 to two million--estimates varied widely--indigenous populations (Twa, Baka, Mbuti, Aka, and others), believed to be the country’s original inhabitants. Societal discrimination against them was widespread, and the government did not effectively protect their civil and political rights. According to the NGO Dynamic of Indigenous Peoples, there were no indigenous peoples in parliament or the government. Most indigenous peoples took no part in the political process, and many lived in remote areas. Fighting in the East between RMGs and the SSF, expansion by farmers, and increased trading and excavation activities caused displacement of some indigenous populations. Throughout the year conflict between indigenous peoples and Balubakat communities led to mass movements of IDPs in the north of Katanga province. By September the UNHCR estimated the IDP population in Katanga province grew from 300,000 at the end of 2013 to 607,000 by September.</p>
+<p>While the law stipulates that indigenous populations receive 10 percent of the profits gained from use of their land, this provision was not enforced. In some areas surrounding tribes kidnapped and forced indigenous peoples into slavery. Indigenous populations also reported high instances of rape from outside groups, which contributed to HIV/AIDS infections and other health complications.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>While no laws specifically prohibit consensual sexual conduct between same-sex adults, individuals engaging in public displays of same-sex sexual conduct were sometimes subject to prosecution under public indecency provisions. The law prohibits those with homosexual orientation from adopting children. Homosexuality remained a cultural taboo, and harassment by the SSF occurred.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The law protects persons with HIV/AIDS from discrimination, but social stigma continued to lead to some forms of discrimination. In a 2012 UN-sponsored survey of 1,475 persons with HIV/AIDS, 18 percent of the participants reported losing their job, 6 percent being denied access to some form of health care, and 50 percent reported that some of their children were denied access to education. A significant number of participants reported exclusion from family, social, and religious activities due to their HIV/AIDS status.</p>
+<p>According to UNICEF the adult HIV prevalence rate in 2012 was 1.1 percent, and an estimated 480,000 persons of all ages had HIV.</p>
+<p>There were no reports of societal violence or discrimination based on HIV/AIDS status.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Discrimination against persons with albinism was widespread and limited their ability to marry and to obtain employment, health care, and education. Families and communities frequently ostracized persons with albinism.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section7"> </span><span class="st_twitter" st_title="Congo, Democratic Republic of the #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Congo, Democratic Republic of the - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236346%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide all workers, except government officials and SSF members, the right to form and join trade unions, to conduct legal strikes, and to bargain collectively. The law provides for administrative authorities’ power to unilaterally dissolve, suspend, or deregister trade union organizations. The law provides unions the right to conduct activities without interference, although it does not define specific acts of interference. In the private sector, a minimum of 10 employees is required to form a union within a business, and more than one union may be represented within a single business. Foreigners may not hold union office unless they have lived in the country for at least 20 years. Collective bargaining requires a minimum of 10 union committee members plus one employer representative. Union committee members report to the rest of the workforce. In the public sector, the government set wages by decree after holding prior consultations with the unions. Certain subcategories of public employees, such as staff members of decentralized entities (towns, territories, and sectors) do not have such right to participate in the wage-setting consultations.</p>
+<p>The union committee is required to notify the company’s management of a planned strike but does not need authorization to strike. The law, however, stipulates unions and employers shall adhere to lengthy compulsory arbitration and appeal procedures before unions initiate a strike. In general the committee delivers notice of strike to the employer. If the employer does not reply within 48 hours, the union may strike immediately. If the employer chooses to reply, negotiations--which may take up to three months--begin with a labor inspector and ultimately in the Peace Court. Sometimes employees provide minimum services during negotiations, but this is not a requirement.</p>
+<p>By law police, army, and domestic workers may not strike. The law also prohibits directors in public and private enterprises from striking. Unless unions notify employers of a planned strike, striking workers are not allowed to occupy the workplace during a strike, and an infraction of the rules on strikes may lead to incarceration of up to six months with compulsory prison labor.</p>
+<p>The law prohibits discrimination against union employees and requires employers to reinstate workers fired for union activities, but the penalties for violations were not adequate to deter violations. Additionally, workers in agricultural activities and artisanal mining, domestic and migrant workers, and workers in export processing zones are excluded from relevant labor law protection. The government lacked the capacity to enforce the law effectively, and the extent to which the government provided oversight was limited.</p>
+<p>The government recognized 12 unions at the national level. The public sector, however, has a history of organizing, and the government peacefully negotiates with their representatives when they present grievances or go on strike. Three different unions represent them. Employees in the private sector were free to join these unions. The largest unions, such as the Union Confederation of Congo and the National Union of Congolese Workers (UNTC), expanded into rural areas, particularly near major mines. The Democratic Confederation of Work (CDT) reported that the National Labor Council did not consult unions on the meeting agenda, thus limiting their opportunities to participate in the discussions, essential to developing socioeconomic policies. Additionally, antiunion discrimination was widespread, particularly in foreign-owned companies. The CDT alleged that management interfered in union elections in favor of their preferred candidates. To undermine unions’ collective bargaining efforts, companies refused to negotiate with unions, but opted to negotiate individually with workers.</p>
+<p>In March 2013 the Congo National Railway Company management suspended the union president for his union activities, but he was reinstated during the year and resumed his union activities. Additionally, the UNTC reported public authorities failed to respond to antiunion discrimination. Independent workers such as artisanal miners and truck drivers formed unofficial unions independent of the government or political parties. Some of these unions affiliated with larger official unions and therefore were required to abide by the labor code, which governs both official and unofficial unions.</p>
+<p>In small and medium-sized businesses, workers could not effectively exercise the right to strike. With an enormous unemployed labor pool, companies and shops could immediately replace any workers attempting to unionize, bargain collectively, or strike with contract workers in order to intimidate workers and to prevent them from exercising their rights.</p>
+<p>There were reports employers who agreed to bargain pressured unions to replace bargaining agents. Despite collective agreements on union dues, employers often did not remit union dues or did so only partially.</p>
+<p>The secretary general of the National Union of Teachers in Registered Schools, whom the government suspended following a strike in 2009, was not reinstated by year’s end. In July 2013 an International Labor Organization (ILO) delegation visited Kinshasa with regard to the alleged harassment and intimidation of members of the Congolese Labor Federation/Land Affairs Committee by the secretary general for land affairs. The government had taken no action in the case by year’s end. Information on the complaint--lodged with the ILO by 13 trade unions and alleging mass dismissal of trade union officials, managers, and employees following a strike in 2010--remained unavailable.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits all forms of forced or compulsory labor. The law allows, however, for the exaction of work for the purpose of national development as a means of levying taxes and by persons in preventive detention. Penalties for violations were sufficient to deter violations. Under the labor code, forced labor is punishable by a maximum of six months’ imprisonment plus a fine. The law also provides for a penalty of 10 to 20 years’ imprisonment for the enrollment or use of children under age 18 in the armed forces or police. The government did not effectively enforce the law.</p>
+<p>Although no statistics were available, forced labor, including forced child labor, regularly occurred throughout the country. Violations included bonded labor, domestic servitude, and slavery. In the mining sector, individuals took on debt from intermediaries and dealers to acquire food, supplies, and mining tools and equipment, often at high interest rates despite low wages. Miners who failed to provide sufficient ore to pay debt became debt slaves, forced to work to pay arrears. The government did not attempt to regulate this practice. In the East the RMGs and some FARDC elements continued to abduct and forcibly recruit men, women, and children to serve as laborers, porters, domestic laborers, and combatants (see section 1.g.). In Orientale province’s gold and mining regions, there were reports that armed groups violently attacked mining communities and surrounding villages as well as held men, women, and children captive for forced labor and sexual exploitation. In North Kivu and South Kivu provinces, FARDC units and RMGs forced civilians to work for them in gold, coltan (tantalum ore), wolframite (tungsten ore), and cassiterite (tin ore) mines or relinquish their mineral production.</p>
+<p>Some police officers arrested individuals arbitrarily to extort money from them. Police forced those who could not pay to work until they “earned” their freedom.</p>
+<p>The government did not effectively enforce laws prohibiting forced or compulsory labor and took no action against those who used forced labor and abducted civilians for forced labor. The government did not report any official child labor investigations. Little if any information existed on the removal of victims from forced labor. By year’s end there was no effective government effort underway to limit child labor in mines.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The child protection code and labor code set the minimum age for work at 16 years, and Ministerial Order No. 12 sets the minimum age for hazardous work at 18 years. The law also stipulates children may not work for more than four hours per day and restricts all minors from transporting heavy items. Penalties for violations for the worst forms of child labor, which are one to three years of imprisonment and fines as high as 200,000 Congolese francs ($218), were insufficient to deter violations.</p>
+<p>While criminal courts continued to hear child labor complaints, neither the courts nor other government agencies effectively enforced these laws. Government ministries and the National Committee to Combat the Worst Forms of Child Labor lacked the resources and capacity to enforce child labor laws.</p>
+<p>The Ministry of Labor has responsibility for investigating child labor abuses but has no dedicated child labor inspection service. Although the government in 2011 approved a national action plan to combat the worst forms of child labor, it had not fully implemented the plan by year’s end. Other government agencies responsible for combating child labor include the Ministry of Gender, Family, and Children; the Ministry of Justice and Human Rights; the Ministry of Social Affairs; and the National Committee to Combat the Worst Forms of Child Labor. These agencies had no budgets for inspections and conducted no child labor investigations.</p>
+<p>The government did not undertake any measures to reinforce the capacities of the labor inspectors to prevent children under age 18 from engaging in hazardous work in mines.</p>
+<p>Child labor, including forced child labor, was a problem throughout the country (see section 7.b.). Child labor was most common in the informal sector, particularly in artisanal mining and subsistence agriculture. For economic survival families often encouraged children to work. According to the Ministry of Labor, children worked in mines and stone quarries and as child soldiers, water sellers, domestic servants, and entertainers in bars and restaurants.</p>
+<p>According to data from a 2010 UNICEF survey, approximately 42 percent of children between the ages of five and 14 were involved in child labor. The same survey indicated 46 percent of children in rural areas were involved in child labor, compared with 34 percent in urban areas.</p>
+<p>Children were also the victims of exploitation in the worst forms of child labor, many of them in agriculture, street vending, water selling, and domestic service. By some estimates, tens of thousands of children worked in the mining sector, most often in extremely dangerous conditions as artisanal miners. Children made up as much as 30 percent of the work force in the artisanal mining sector. Children mined diamonds, gold, cobalt, coltan, wolframite, copper, and cassiterite under hazardous conditions. In the mining regions of Katanga, Kasai Oriental, Kasai Occidental, Orientale, North Kivu, and South Kivu provinces, children sifted, cleaned, sorted, transported heavy loads, and dug for minerals underground. In many areas of the country, children ages five to 12 broke rocks to make gravel.</p>
+<p>Parents often used children for dangerous and difficult agricultural labor. Families unable to support their children occasionally sent them to live with relatives who treated the children as domestic slaves, subjecting them to physical and sexual abuse.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination in employment and occupation based on race, sex, gender, language, or social status. The law does not specifically protect disability, pregnancy, sexual orientation, gender identity, or HIV-positive status. Additionally, no law specifically prohibits discrimination in employment of career public service members. The government did not effectively enforce the law.</p>
+<p>Gender-based discrimination in employment and occupation occurred (see section 6). The law forbids a woman from accepting employment without her husband’s consent or working at night. Although the labor code stipulates men and women must receive equal pay for equivalent work, the government did not enforce this provision effectively. According to the ILO, women often received less pay in the private sector than did men doing the same job and rarely occupied positions of authority or high responsibility.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The government sets regional minimum wages for all workers in private enterprise, with the highest pay scales applied to the cities of Kinshasa and Lubumbashi. The 2009 government-established minimum wage of 1,680 Congolese francs ($1.83) per day remained unadjusted despite continued devaluation of the currency and increases in the cost of living. In the public sector, the government sets wages annually by decree and permits unions to act only in an advisory capacity. As of August the government had not set wages.</p>
+<p>The law defines different standard workweeks, ranging from 45 to 72 hours, for various jobs and prescribes rest periods and premium pay for overtime. The law establishes no monitoring or enforcement mechanism, however, and employers in both the formal and informal sectors often did not respect these provisions. The law does not prohibit compulsory overtime.</p>
+<p>The average monthly wage did not provide a decent standard of living for a worker and family. Government salaries remained low, ranging from 45,000 to 75,000 Congolese francs ($49 to $82) per month (not including bonuses, which were considerably larger), and salary arrears were common in both the civil service and public enterprises (parastatals). In 2012 the government began paying some civil servant salaries through the banking system in an effort to stop the practice in which supervisors created fake employees and skimmed off some of their subordinates’ salaries.</p>
+<p>The labor code specifies health and safety standards. The government did not enforce effectively such standards in the informal sector, and enforcement was uneven in the formal sector. Major international mining companies effectively observed health and safety standards. More than 90 percent of laborers worked in subsistence agriculture, informal commerce or mining, or other informal pursuits, where they faced hazardous or exploitive working conditions. According to the World Bank, between 500,000 and two million miners worked in the informal sector nationwide, and up to 16 percent of the population indirectly relied on artisanal mining. Overall estimates were challenging to verify, and determining the number of miners working in the conflict areas was difficult. In 2010 the international NGO Pact estimated that between 200,000 to 250,000 miners worked in North Kivu and South Kivu. Assaults by security guards and the SSF on artisanal miners for illegally entering mining concessions were common.</p>
+<p>By law workers can remove themselves from situations that endangered health or safety without jeopardy to their employment, but authorities did not effectively protect employees in this situation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

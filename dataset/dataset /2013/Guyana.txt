@@ -1,0 +1,515 @@
+2013
+Guyana
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449"> </span><span class="st_facebook" st_title="Guyana" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220449">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220449</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=executive"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 3/05/14; see Appendix H: Errata for more information.</em></p>
+<p>The Cooperative Republic of Guyana is a multi-party democracy. The People’s Progressive Party Civic (PPP/C) won a plurality of 48.6 percent of the vote in the November 2011 elections, and its party leader, Donald Ramotar, became president. He presides over the first minority government in parliament since independence in 1966. International and local observers considered the elections to be generally free, transparent, and peaceful. Authorities failed at times to maintain effective control over the security forces. Security forces at times committed human rights abuses.</p>
+<p>The most serious human rights abuses involved suspects’ and detainees’ complaints of mistreatment by security forces, unlawful killings by police, and poor prison and jail conditions.</p>
+<p>Other human rights problems included lengthy pretrial detention; allegations of government corruption, including among police officials; excessive government influence over the content of the national television network and continued restrictions on radio licensing; sexual and domestic violence against women; abuse of minors; and laws that discriminate against lesbian, gay, bisexual, and transgender (LGBT) persons.</p>
+<p>There were no independent and transparent procedures for handling allegations of killings and other abuses by security force members. Prosecutions when pursued were extremely lengthy, and convictions were rare, leading to a widespread perception that security force members and government officials enjoyed impunity.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section1"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>In 2012, (latest data available), the Police Complaints Authority (PCA) received 14 complaints of unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices. There were reports, nonetheless, alleging mistreatment of inmates by prison officials as well as allegations of police abuse of suspects and detainees.</p>
+<p>In 2012 the PCA received 36 complaints of unnecessary use of violence. Local media reported several cases of random police brutality, arrest, and interrogation prior to investigation.</p>
+<p>On March 2, police used force to clear protesters in the Marudi mining district. Police allegedly used whips and sticks to beat local miners protesting their alleged unlawful removal from the area they claimed for their own use. Several protesters required medical treatment at a local hospital. On March 4, Mines Minister Robert Persaud ordered an inquest into the alleged beatings by police. As of October that inquest had not been performed.</p>
+<p>On May 19, Natasha Blackman claimed police tortured her into falsely admitting that she knew Chaka Chase, who the police alleged killed a fellow officer in April. Blackman accused police of handcuffing her in a metal chair before pouring methylated spirits over her body and shocking her with an electrified implement, all while police repeatedly asked her if she knew Chase. Blackman claimed she succumbed to the interrogation tactics and eventually signed a statement saying that she had known Chase for 10 years, although throughout the interrogation she had denied knowing him.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and jail conditions were poor and deteriorating, particularly in police holding cells. Overcrowding was a severe problem.</p>
+<p><u>Physical Conditions</u>: The Guyana Prison Service (GPS) reported that as of October 2011 (latest data available), there were 1,962 prisoners in five facilities, which had a combined design capacity of 1,580. A total of 997 prisoners were in Georgetown’s Camp Street Prison, which was designed to hold 775 inmates. Overcrowding was in large part due to a backlog of pretrial detainees, who constituted approximately 39 percent of the total prison population.</p>
+<p>Prisoners had access to potable water, and government medical officers visited each prison on a monthly basis. In addition, medical staff consisting of a medical examiner, registered nurses, and assistant nurses provided daily treatment and monitored the sick as advised by the medical doctors. The GPS offered rehabilitation programs focused on vocational training and education; however, such programs did not adequately address the needs of prisoners with substance abuse problems.</p>
+<p>As of October 2011 there were 88 female prisoners, all at the New Amsterdam prison. Authorities held some female detainees temporarily at the East La Penitence police station.</p>
+<p>Officials held juvenile offenders 16 years of age and older with the adult prison population. Officials held juvenile offenders ages 15 and younger in the New Opportunity Corps, a juvenile correctional center that offered primary education, vocational training, and basic medical care.</p>
+<p>Although precinct jails were intended to serve only as pretrial holding areas, authorities detained some suspects there as long as two years while they awaited judicial action on their cases.</p>
+<p>In July Camp Street authorities found inmate Brian Blunt dead in his cell. As of October the investigation continued.</p>
+<p><u>Administration</u>: No information was available about the adequacy of prison recordkeeping or the extent to which authorities used alternatives to sentencing for nonviolent offenders. Authorities diverted some youth offenders into an employment skills training program rather than detention. The Sentence Management Board, with members appointed by the government, places the administration of prison sentences into the hands of a committee composed predominantly of public sector members but also includes representatives from the private sector and civil society. Prisoners and detainees had reasonable access to visitors and could observe their religious practices. Authorities appointed chaplains representing the major faiths in the country to all prison facilities. There was no specific prison ombudsman, but prisoners and detainees were able to submit complaints to judicial authorities without censorship and to request investigation of credible allegations of inhumane conditions. Prisoners often circumvented procedures for submitting complaints by passing letters addressed to government officials through family members.</p>
+<p><u>Independent Monitoring</u>: The government investigated and monitored prison and detention center conditions. Prison visiting committees prepared monthly reports on the Georgetown, Mazaruni, New Amsterdam, and Timehri prisons. There was no indication that the government declined to permit outside groups to monitor prison conditions independently, but there were no known requests to make such visits during the year.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions. During the year, however, the PCA received a number of complaints of unlawful arrest.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The police commissioner heads the Guyana Police Force (GPF), which is responsible for maintaining internal security and reports to the Ministry of Home Affairs. The duties of the Guyana Defence Force include defending the country’s territorial integrity, assisting civil authorities to maintain law and order, and contributing to economic development. The defense force, headed by a chief of staff, falls under the purview of the Defence Board, which the president chairs.</p>
+<p>Inadequate training, poor equipment, and acute budgetary constraints severely limited the GPF’s effectiveness. According to the Caribbean Development Report commissioned by the UN Development Program, public confidence in the police force was very low. There were reports of corruption in the police force. In 2011 authorities charged and brought to court 39 GPF members for various crimes including robbery, simple larceny, bribery, and indecent assault. Police force abuses may be reported to the PCA; however, the PCA did not possess an independent investigation unit.</p>
+<p>In 2012 the PCA received 250 written complaints and 450 oral complaints, 106 of which were sent from the commissioner of police. Most cited police neglect of duties, unlawful arrest, and unnecessary use of force. The PCA recommended disciplinary action in 70 cases and criminal charges in five others. At the end of 2012, there were 91 reports outstanding.</p>
+<p>Lack of an investigative unit hampered PCA efforts to conduct impartial and transparent assessments of the accusations it received. The PCA had a staff of six full-time positions and requested that an additional position be created to handle statement records. By law the police commissioner must comply with the PCA’s recommendations on complaints, but the PCA relied on the GPF to conduct investigations into complaints against its own officers. Long delays in receiving reports from the commissioner also thwarted the complaints process. Most cases involving charges against police officers were heard by lower magistrate’s courts, where specially trained police officers served as the prosecutors.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>An arrest requires a warrant issued by a court official unless an officer who witnesses a crime believes there is good cause to suspect that a crime or a breach of the peace has been or will be committed. The law requires that a person arrested cannot be held for more than 72 hours unless brought before a court to be charged; authorities generally observed this requirement. Bail was generally available except in cases of capital offenses and narcotics trafficking.</p>
+<p>Although the law provides criminal detainees prompt access to a lawyer of their choice and to family members, these rights sometimes were not fully respected. The state provides legal counsel for indigent persons only when such persons are charged with a capital offense. The Legal Aid Clinic, a nongovernmental organization (NGO), provides legal counsel at a reduced fee in certain circumstances, as determined by the clinic. Police routinely required permission from the senior investigating officer, who was seldom on the premises, before permitting counsel access to a client.</p>
+<p><u>Pretrial Detention</u>: Lengthy pretrial detention, due primarily to judicial inefficiency, staff shortages, and cumbersome legal procedures, remained a problem. In 2012 pretrial detainees constituted 39 percent of the prison and detainee population. The average length of pretrial detention ranged from six to 18 months for those awaiting trial at a magistrate’s court or in the High Court.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law provides for an independent judiciary, and the government generally respected judicial independence in practice.</p>
+<p>Delays and inefficiencies undermined judicial due process.</p>
+<p>The director of public prosecutions reported that 60 cases were disposed of during 2012, 14 of which the prosecutor declined to prosecute because most had been pending in excess of 15 years and the main witnesses to prove the offenses were no longer available to testify. Shortages of trained court personnel, inadequate resources, postponements at the request of the defense or prosecution, occasional allegations of bribery, poor tracking of cases, and the slowness of police in preparing cases for trial caused delays.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Trials are public, and defendants enjoy a presumption of innocence. Cases in magistrate’s courts are tried without jury. Cases involving more serious crimes are tried by jury in the High Court. The constitution provides that a person shall be informed as soon as reasonably practicable and in detail of the nature of the offense charged. The constitution also makes provision for persons charged with a criminal offense to be given adequate time and facilities for the preparation of his or her defense. Defendants can confront adverse witnesses, present their own witnesses and evidence, and have access to relevant government-held evidence. Defendants have the right to appeal. Authorities routinely granted trial postponements to both the defense and the prosecution. The law extends these rights to all citizens.</p>
+<p>The law recognizes the right to legal counsel; however, it was limited to those who could afford to pay, except in cases involving capital crimes. Although there is no public defender system, a defendant in a murder case that reaches the High Court receives a court-appointed attorney. The Georgetown Legal Aid Clinic, with government and private support, provided advice to persons who could not afford a lawyer, particularly victims of domestic violence and violence against women.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for an independent and impartial judiciary in civil matters, and the government generally respected this provision. Individuals can access the court system to initiate lawsuits seeking damages for, or cessation of, some human rights violations. The magistrate’s courts deal with both criminal and civil matters. Delays, inefficiencies, and alleged corruption in the magistrate court system affected the ability of citizens to seek timely remedies in civil matters, and there was a large backlog of civil cases.</p>
+<p>In June the government compensated more than two dozen protesters injured after police shot at the group during a demonstration in Linden. The families of the three protesters killed by police also received compensation.</p>
+<p>In September a court awarded damages to four men for the breach of their civil rights by the police. The police had failed to inform the four men, as soon as reasonably practicable, of the reason for their arrests.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions, and the government generally respected these prohibitions in practice. A 2008 law allows for the interception of communications through a warrant issued by a judge, with exceptions for national emergency or where approval for a warrant is impracticable due to the urgency of the matter.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section2"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech including for members of the press, and the government generally respected this right. The government controlled a smaller share of radio broadcasting than in previous years. The government also influenced print and broadcast media and continued to exert heavy control over the content of the National Communications Network (television), giving government spokespersons extended coverage, while limiting participation of opposition figures.</p>
+<p><u>Freedom of Speech</u>: In 2011 the government approved applications for 10 new radio stations to persons affiliated with the government. The process was controversial, lacked transparency, and contained further steps needed before the new stations could begin broadcasting. In April private media associations challenged the license issuances in court, claiming that the dissemination of diverse views and open public discussions would be limited. The case remained pending as of October. A 2011 broadcasting law provides that programs that address controversial public policy or matters of political or industrial contention “must meet standards of fairness, balance, and accuracy, maintaining a proper balance and respect for truth and integrity and always ensuring that opposing views are not misrepresented.”</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views without restriction. Broadcast media did not reach all of the country. In August 2012 the government agreed that the town of Linden would be permitted to have private broadcast media. As of October no such private broadcast media had been established in Linden.</p>
+<p><u>Censorship or Content Restrictions</u>: The government banned songs that criticized government corruption from the government-run National Communications Network.</p>
+<p><u>Libel Laws/National Security</u>: There were no reports that libel laws or national security were cited to suppress the publication of material that criticized government policies or public officials. In April the International Press Institute criticized the country’s criminal defamation laws, calling them an affront to the values of a democracy and urged their repeal. A libel suit filed in 2011 by former president Bharrat Jagdeo against journalist Freddie Kissoon remained before a court.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or credible reports that the government monitored e-mail or internet chat rooms without appropriate legal authority. According to the International Telecommunication Union, in 2012 10 percent of households had internet access and 34 percent of citizens used the internet.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for freedoms of assembly and association, and the government generally respected these rights in practice. There was an incident, however, in which police allegedly beat demonstrators in March (see section 1.a.).</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/"><u>www.state.gov/j/drl/irf/rpt</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The Amerindian Act requires that the local village councils grant permission for travel to Amerindian areas, but most individuals traveled in these areas without a permit.</p>
+<p>The government cooperated with the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The government has not established a system for providing protection to refugees or asylum seekers and did not grant status to any person through October. In the absence of national legislation and requisite government capacity, the UNHCR assumed the main responsibility for determination of refugee status.</p>
+<p><u>Refoulement</u>: According to the UN’s Universal Periodic Review in 2011, in some cases the nonrefoulement principle was not fully respected.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section3"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the right to change their government peacefully, and citizens exercised this right through periodic, free, and fair national elections based on universal suffrage. Local government elections, which the law provides should be held every three years, have not been held since 1994. Elections also take place within Amerindian communities, where members elect Amerindian leaders, known as Toshaos, every 33 to 36 months.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In November 2011 the PPP/C won a plurality, and its party leader, Donald Ramotar, became president. He replaced Bharrat Jagdeo, also of the PPP/C party. The PPP/C gained 48.6 percent of the vote, leaving the combined opposition with a one-seat majority in the National Assembly. President Ramotar presided over the first minority government in parliament since independence in 1966. International observers, including teams from the Organization of American States, Caribbean Community, Commonwealth, and Union of South American Nations, concluded that the elections were substantially free, transparent, and peaceful and that they were well administered. International observers recommended the holding of local government elections as soon as possible. Observers noted that Guyana Elections Commission members are political appointees, which “compromises the effectiveness and integrity of the commission, which needs to be independent and above politics at all levels.”</p>
+<p><u>Participation of Women and Minorities</u>: The constitution requires that one-third of each party list of electoral candidates be women but does not require the parties to choose women for seats. Parties selected 21 female representatives for the 65-seat National Assembly, and President Ramotar named five women to his 21-member cabinet.</p>
+<p>While supporters of the two major parties (the PPP/C and the Partnership for National Union) were drawn largely from the Indo-Guyanese and Afro-Guyanese communities, respectively, political party leadership was more diverse. The cabinet was also ethnically diverse, mirroring the ethnic makeup of the general population. Seven cabinet members were Afro-Guyanese, including the prime minister and the head of the presidential secretariat. The ethnically diverse National Assembly included seven indigenous members. There were also two Amerindian cabinet ministers.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section4"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides for criminal penalties for corruption by officials; however, the government did not implement the law effectively. There remained a widespread public perception of corruption involving officials at all levels, including the police and the judiciary. The World Bank’s Worldwide Governance Indicators assessed that government corruption was a serious problem.</p>
+<p><u>Corruption</u>: Under the constitution, the Office of the Auditor General, the Public Procurement Commission (PPC), and the Integrity Commission all have mandated roles in the area of government transparency and accountability. The PPC and the Integrity Commission had not been established as of October. The Office of the Auditor General scrutinizes the expenditure of public funds on behalf of parliament and conducts financial audits of all publicly funded entities, including donor-funded entities, local government agencies, and trade unions and reports to the National Assembly. The office’s effectiveness remained limited, since the government may or may not act on the discrepancies noted in its reports. Observers noted that recurring discrepancies were repeatedly highlighted in the reports without officials taking appropriate follow-up actions to investigate and resolve the discrepancies.</p>
+<p>The constitution calls for the establishment of a PPC to monitor public procurement and ensure that authorities conduct the procurement of goods and services in a fair, transparent, competitive, and cost-effective manner. There was significant public criticism of the present system’s ineffectiveness in awarding government contracts in an equitable and transparent manner. Under pressure from opposition parties in parliament, the government promised to establish the PPC by June 2012; however, it had not done so as of October.</p>
+<p>In February the government charged jointly a police prosecutor and another police officer with attempting to pervert the course of justice by allegedly attempting to bribe a third police officer to give contrary evidence in a case of a multi-million dollar robbery.</p>
+<p><u>Whistleblower Protection</u>: The law does not provide for the protection of public or private employees who make internal disclosures of evidence of illegality or corrupt practices in corporate governance.</p>
+<p><u>Financial Disclosure</u>: Public officials are subject to financial disclosure laws and are required to submit information about personal assets to the Integrity Commission. Although the prime minister stated in June 2012 that members would soon be appointed to this commission, it was not functional. The Integrity Commission Act provides for the financial disclosure of persons holding public offices. In June 2012 the National Assembly approved a government motion that members submit annual declarations in keeping with provisions of the Integrity Act, but compliance was uneven, and the commission had no resources for enforcement or investigations.</p>
+<p>The act sets out both criminal and administrative sanctions for nondisclosure. If a person fails to file a declaration, the fact can be published in the daily newspapers and the official <i>Gazette</i>. Failure to comply with the law can lead to a summary conviction, fines, and imprisonment for six to 12 months. If property was not disclosed as it should have been, the magistrate convicting the defendant must order the defendant to make a full disclosure within a set time. No such publication or convictions occurred during the year.</p>
+<p><u>Public Access to Information</u>: A 2011 Access to Information Act, intended to promote transparency and accountability within the government and public institutions, provided for persons to secure access to information under the control of public authorities and for the appointment of a commissioner of information. In May the government appointed a commissioner, but as of October, the government had not issued implementing regulations.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section5"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The few organized domestic human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. These groups at times complained that government officials were uncooperative and unresponsive to their views and, when they did respond, it was generally to criticize rather than investigate allegations.</p>
+<p><u>Government Human Rights Bodies</u>: In December the Office of the President appointed Former Justice Winston Moore as Ombudsman, a position vacant since 2005. The constitution empowers the Ombudsman to investigate official government actions or actions taken by government officials in exercise of their official duties. The leading opposition party, A Partnership of National Unity (APNU), underscored the necessity for the Office of the Ombudsman to be properly staffed and resourced. Transparency Institute of Guyana Inc. also warmly welcomed the Ombudsman's appointment.</p>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section6"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law prohibit discrimination based on race, gender, disability, language, social status, religion, or national origin.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, but many incidents were not reported to law enforcement. Authorities seldom successfully prosecuted cases that were reported. Based on media reports and commentary, there was a high of incidence of rape and sexual assault not reflected in official statistics. Many survivors did not report rapes, presumably because of fear of stigma, retribution, or further violence. During 2012 authorities charged 102 persons with rape, but only 28 were convicted, due in part to the large court backlog. Additionally, in 2012 authorities charged 89 persons with statutory rape, and four were convicted (including persons charged in preceding years). A judge has discretion to issue a sentence of any length in a rape conviction, depending upon the circumstances and severity of the act committed. The norm appeared to be a sentence of five to 10 years’ imprisonment.</p>
+<p>Domestic violence and violence against women, including spousal abuse, was widespread and crossed racial and socioeconomic lines. The law prohibits domestic violence and allows victims to seek prompt protection, occupation, or tenancy orders from a magistrate. Court records showed that there were 279 domestic violence cases filed during 2012, with 143 persons convicted. Penalties for violation of protection orders include fines up to G$10,000 Guyanese dollars ($49.50) and 12 months’ imprisonment. Survivors frequently were unwilling to press charges due to a lack of confidence in obtaining a remedy through the courts. Some such persons preferred to reach a pecuniary settlement out of court. There were reports of police accepting bribes and other reports of magistrates applying inadequate sentences after conviction. In addition, cases heard involving violation of a protective order tended to be categorized as assault cases.</p>
+<p>According to an NGO, the GPF reorganized police units to require inclusion of domestic violence units where victims can be counseled in private. The NGO observed that in most cases domestic violence reports were not taken confidentially but rather were discussed in the open at police stations and were not treated as a matter of urgency. Through 2012 the organization handled 418 cases of abuse and violence, including child, spousal, and other domestic abuse, of which 32 were formally filed in a court.</p>
+<p>The government and private donors funded an NGO to run a free shelter for victims of domestic violence and operate a hotline to counsel victims. Figures for 2012 showed that the NGO conducted 180 awareness sessions to sensitize individuals about domestic violence, reaching 4,367 persons, and counseled 641 persons affected by domestic abuse or violence during face-to-face counseling sessions and via the hotline.</p>
+<p>Another civil society group promoted the empowerment of women through organized protests, which led to passage of several laws protecting women and children, including laws on domestic violence, sexual offenses, and the protection of children. This organization also promoted provision of services such as literacy projects, transportation provision, and training in personal finance for mothers.</p>
+<p><u>Sexual Harassment</u>: The Prevention of Discrimination Act prohibits sexual harassment and provides for monetary penalties and award of damages to victims, but its application is confined to the workplace. For instance, the law does not cover harassment in schools. Any act of sexual harassment involving physical assault can also be prosecuted under relevant criminal statutes. Reports of sexual harassment were common; however, there were no cases filed under the Prevention of Discrimination Act. Charges of sexual harassment often were settled out of court.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals had the right to decide freely the number, spacing, and timing of their children and had the information and means to do so free from discrimination, coercion, and violence. Access to contraception and skilled attendance at delivery and in postpartum care were widely available. The UN Population Fund reported a contraceptive prevalence rate of 43 percent and an estimated maternal mortality ratio in 2010 (latest data available) of 280 deaths per 100,000 live births; 87 percent of births were attended by skilled health personnel. According to UN estimates, 40 percent of women ages 15 to 49 were using a modern method of contraception. Media reports highlighted cases where severe bleeding after childbirth and hypertensive disorders resulted in maternal deaths, leading to the high maternal mortality ratio. The media also highlighted cases where nurses ignored family members’ complaints about lack of prompt attention, leading in some cases to sickness or death. Women and men had equal access to diagnostic services and treatment for sexually transmitted infections, including HIV/AIDS.</p>
+<p><u>Discrimination</u>: Although women enjoy the same legal status and rights as men, gender-related discrimination was widespread and deeply ingrained. The law prohibits discrimination based on gender, but there was no meaningful enforcement against such discrimination in the workplace. As of 2012 only 48 percent of women were in the workforce, compared to 85 percent of men. There were also credible reports that women were treated and paid unequally and faced disadvantages in promotion. Job vacancy notices routinely specified that the employer sought only male or only female applicants.</p>
+<p>The Women’s Affairs Bureau of the Ministry of Labor monitored the legal rights of women, but its role was limited to employment-related services. The bureau also held seminars on leadership and gender equity issues for women throughout the country. The constitution provides for a Women and Gender Equality Commission to draw attention to issues that affect the development of women. The commission engaged in a countrywide dialogue and met with regional representatives, stakeholders, government officials, and residents to listen to the concerns of women to more effectively plan and implement policy at the national level. The law protects women’s property rights in common law marriages. It entitles a woman who separates or divorces to one-half of the couple’s property if she had regular employment during the marriage and one-third of the property if she had not been employed. Women’s property rights were generally observed.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived by birth within the country’s territory or by birth to a Guyanese citizen abroad. The law requires that births be registered within 14 days, it but also provides for registration of births past the 14-day period.</p>
+<p><u>Child Abuse</u>: There were frequent reports of physical and sexual abuse of children, which was a widespread and serious problem. During 2012 one NGO handled 26 cases of child abuse. Law enforcement officials and NGOs believed that the vast majority of child rape and criminal child abuse cases were not reported. As with cases of domestic abuse, NGOs noted reports that some police officers and magistrates could be bribed to make cases of child abuse “go away.” The Child Care and Protection Agency operated a hotline to take calls regarding suspected abuse of children. In 2012 the agency received more than 4,100 child abuse reports, involving neglect, sexual abuse, physical abuse, verbal abuse, child custody, teenage pregnancy, and delinquency.</p>
+<p><u>Forced and Early Marriage</u>: The legal age for marriage is 18, but boys and girls may marry at 16 with parental consent or judicial authority. The country had shown a decrease of 10 percentage points or more in the prevalence of child marriage; however, the most recent UN Children’s Fund data reported that 23 percent of marriages took place when the bride was under the age of 18.</p>
+<p>In October a court ruled that a girl, age 15, could marry an adult male who was accused of raping and impregnating her as a result of that rape.</p>
+<p><u>Sexual Exploitation of Children</u>: The age of sexual consent is 16. By law anyone who has sexual relations with a girl under 16 can be found guilty of a felony and imprisoned for life. There were reports of child prostitution, although there were no indications that the country was a destination for child sex tourism. There is no specific legal prohibition of child pornography. The law regulates selling, publishing, or exhibiting obscene material, defined as anything that could deprive or corrupt those open to immoral influences.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community was very small, perhaps fewer than 50 members. There were no reports of anti-Semitism.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip"><u>www.state.gov/j/tip</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution mandates the state to “take legislative and other measures” designed to protect disadvantaged persons and persons with disabilities. The law provides for equal protection and for a National Commission on Disabilities (NCD) to advise the government, coordinate actions on issues affecting persons with disabilities, and implement and monitor the law. The NCD focused its attention on sensitizing the public about the law and on compliance, as well as performing sensitization workshops with the Ministries of Labor, Human Services and Social Security, Education, and Health.</p>
+<p>There were specialized schools for the blind and special schools for persons with disabilities in regions four and six, the most populous regions of the country. Schools lacked the curriculum and infrastructure necessary to accommodate children with disabilities. Lack of appropriate transportation and infrastructure to provide access to both public and private facilities made it difficult for persons with disabilities to be employed outside their homes. The NCD received very few complaints from persons who experienced discrimination. One such report highlighted landlord-tenant discrimination where rental was denied because one of the occupants had a disability.</p>
+<p>In June the NCD held a sensitization workshop on the Disability Act of 2010. Attendees included Home Affairs Minister Clement Rohee, members of the Guyana Police Force, and the National Road Safety Council. The workshop focused on the provision of equal services to persons with disabilities in the transportation sector.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>Various laws protect the rights of the Amerindian community, and members have some ability to participate in decisions affecting them and their land and resources. Rules enacted by village councils require approval from the minister of Amerindian affairs before entering into force. By law persons wishing to enter indigenous lands must obtain prior permission from the local village council, but most visitors traveled in these areas without a permit.</p>
+<p>According to the 2002 census, the indigenous population constituted 9 percent of the population. There were nine recognized tribal groups, and 90 percent of indigenous communities were located in the remote interior. Indigenous communities’ standard of living was lower than that of most citizens, and they had limited access to education and health care. Little reliable data existed regarding the situation of women and girls in indigenous communities, although indigenous women tended to face three-fold discrimination and vulnerability on the basis of gender, ethnicity, and reduced economic status. All indigenous communities had primary schools, and as of 2012 there were 13 secondary schools with an enrollment of 5,547 in remote regions. The secondary schools had dormitories that housed approximately 1,000 to 1,700 students at government expense. Government programs trained health workers, who staffed rudimentary health facilities in most communities.</p>
+<p>Since passage of the Amerindian Act of 2006, the government increased the number of communal land titles for indigenous communities from 74 to 97, more than doubling the area of communal land titles from 6.5 percent of the national territory to 14 percent. In 2010 a total of 134 communities had collective land titles. To earn cash some villages contracted with loggers, saw millers, and miners to exploit timber and other natural resources on their land.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Consensual same-sex activity between adult men is illegal under gross indecency laws and is punishable by up to two years in prison. Anal intercourse is punishable with a maximum sentence of life in prison. A local NGO reported that there were a few prosecutions, but neither the NGO nor the courts provided numbers. Activists reported that it was more common for the police to use the law to intimidate men who were gay or perceived to be gay. There are no laws concerning same-sex sexual activity between women.</p>
+<p>The law also criminalizes cross-dressing. On September 9, the acting chief justice ruled that cross-dressing in a public place is an offense only if done for an improper purpose. The justice also found that police violated the human rights of four litigants arrested because they were not informed of the cause of their arrest in 2009. In the 2009 incident, a judge fined several transgender persons G$7,500 ($37.10) for cross-dressing. While the chief justice in his September ruling noted that “it is not criminally offensive for a person to wear the attire of the opposite sex as a matter of preference or to give expression to or to reflect his or her sexual orientation,” local NGOs criticized the ruling for maintaining the statute and failing to define “improper purpose” in the context of cross-dressing.</p>
+<p>While the law protects persons from various types of discrimination, no antidiscrimination legislation exists to protect persons from discrimination based on real or perceived sexual orientation or gender identity.</p>
+<p>NGOs reported widespread discrimination of persons based on their real or perceived sexual orientation. Reports note discrimination in employment, access to education, and in other public settings. An April 2012 report noted that LGBT persons were fearful of reporting crimes that had been committed against them because they believed or were told that charges would also be brought against them because of their sexual orientation or gender identity.</p>
+<p>On August 2, authorities recovered the body of a gay man, Delon Melville, in Mocha. Melville had been accused by a number of persons of being involved in “homosexual practices” and was the victim of regular threats and harassment. As of October the investigation continued.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Violence and discrimination against persons with HIV/AIDS were not widely reported.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section7"> </span><span class="st_twitter" st_title="Guyana #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Guyana - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220449%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of association and allows workers to form and join trade unions, conduct legal strikes, and bargain collectively. The law bars military and paramilitary members from forming a union or associating with any established union. The law prohibits antiunion discrimination by employers but does not specifically require reinstatement of workers fired for union activity. All categories of employees are covered by the labor laws, including foreign migrant workers.</p>
+<p>The government may declare strikes illegal if not approved by the union leadership or if the union did not meet the requirements specified in collective bargaining agreements. Public employees providing essential services may strike if they provide a one-month notice to the Ministry of Labor and leave a skeleton staff in place, although the International Labor Organization (ILO) noted that not all sectors deemed essential by the government were considered essential under international definitions, including the services provided by the Transport and Harbours Department and the National Drainage and Irrigation Board. Arbitration is compulsory for public employees, and such employees engaging in illegal strikes are subject to sanctions or imprisonment.</p>
+<p>The Ministry of Labor is required to certify all collective bargaining agreements, and there were no reports that it refused to certify any agreements. Individual unions directly negotiate collective bargaining status.</p>
+<p>The government occasionally enforced applicable laws, but did not do so effectively. Penalties for violation of labor laws were small monetary penalties, ranging from G$6,000 ($29.70) to G$46,000 ($227.70). Such penalties were insufficient to deter violations and were frequently not imposed. Administrative and judicial proceedings regarding violations were often subject to lengthy delays and appeals.</p>
+<p>Some public sector employee unions continued to allege antiunion discrimination by the government, asserting that the government violated worker rights and did not effectively enforce its laws. The unions were concerned that employers used hiring practices such as contract labor and temporary workers to avoid hiring workers with bargaining rights.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, but the government in general did not effectively enforce the law. Resources to inspect and monitor labor conditions were inadequate. Penalties for forced labor under trafficking in persons laws were sufficiently stringent, but the government rarely enforced the laws. Administrative labor law penalties were small monetary fines, insufficient to deter violations, and also were rarely enforced.</p>
+<p>Country experts reported that forced and compulsory labor occurred in the mining, agriculture, and forestry sectors in addition to domestic servitude. Children were particularly vulnerable to forced labor.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip"><u>www.state.gov/j/tip</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children younger than 15, with some exceptions. Technical schools may employ children as young as 14 provided a competent authority approves and supervises such work. No person under 18 may be employed in industrial work at night, with exceptions for those ages 16 and 17 whose work requires continuity through day and night, including certain gold mining processes and the production of iron, steel, glass, paper, and raw sugar. The law permits children under 15 to be employed only in enterprises in which members of the same family are also employed. The law prohibits children under 15 from working in factories and stipulates that those under 18 may be removed from factory work if authorities determine they are engaged in activities that are hazardous to their health or safety.</p>
+<p>The government did not enforce existing laws effectively. The Ministry of Labor collaborated with the Ministry of Education, Geology and Mines Commission, Guyana Forestry Commission, National Insurance Scheme, and GPF to enforce child labor laws. The court can issue a fine of G$10,000 ($49.50) for the first violation of laws regarding child labor, and G$15,000 Guyana dollars ($74) for subsequent offenses. As of 2012, despite conducting approximately 1,311 worksite inspections, authorities assessed no fines or penalties, nor did they charge any employers with violations related to child labor. Through August, the government continued to work with the ILO to implement the Tackling Child Labor through Education (TACKLE) project.</p>
+<p>Child labor occurred during the year and was most prevalent in family-based businesses, farming, bars and restaurants, domestic work, and street vending. Small numbers of children also performed hazardous work in the construction, logging, farming, fishing, manufacturing, and mining industries. Although the Labor Ministry reported no child labor violations during the year, NGOs reported incidents of the worst forms of child labor occurred, mainly in gold mining, prostitution, and forced labor activities including domestic servitude. According to local NGOs, children who worked in gold mines operated dangerous mining equipment and were exposed to hazardous chemicals, including mercury.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/programs/ocft/tda.htm"><u>www.dol.gov/ilab/programs/ocft/tda.htm</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The national minimum wage was G$35,000 ( $173) per month. Prior to July 1, the law set varied hours of employment for private sector workers by industry and sector, and in general work in excess of a 44-hour workweek required an overtime payment rate. The new National Minimum Wage Order 2013 took effect July 1 after being announced in early May. The order governs wages for regular working hours of all full-time, private sector employees in the country and defines wages for hourly, daily, weekly, and monthly workers as no less than G$202 ($1) per hour; G$1,616 ($8) per day; G$8,080 ($40) per week, or G$35,000 ($173) per month. Under the new law, the government defined a normal workweek as 40 hours distributed over no more than five days per week. Compulsory overtime is prohibited, and overtime work must be paid according to rates set in the Labor Act of 1978 or according to any collective bargaining agreement in force where workers are unionized. The law provides for paid annual holidays and establishes workplace safety and health standards.</p>
+<p>The Ministry of Labor is charged with enforcement of labor law and had 10 inspectors as of 2012. In 2012 the government reported that it recovered G$25.6 million ($126,700) from employers who had violated worker rights. Labor inspections carried out during the year included occupational safety and health issues. Ministry follow-up of labor of inspection findings varied, and compliance among employers was also inconsistent. The ministry noted that complaints of unfair acts from employees gave rise to the imposition of fines on employers and compensation to workers. Penalties for violations ranged from G$15,000 ($74) to G$46,600 ($231) and generally were not sufficient to deter violations. During 2012 the ministry investigated 953 complaints of varying kinds by employees, many of which were resolved, resulting in workers being compensated. The ministry also initiated 34 charges against 14 employers, which remained before the court at year’s end.</p>
+<p>According to local trade unions and NGOs, enforcement of minimum wage legislation was not effective. Although specific data were unavailable, a significant number of workers were employed in the informal economy. Unorganized workers, particularly women in the informal sector, often were paid less than the minimum wage. Local trade unions and NGOs also reported that the Ministry of Labor did not adequately enforce occupational safety and health legislation, and that resources were insufficient. In 2012 the ministry reported 738 industrial accidents, of which 12 were fatal.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

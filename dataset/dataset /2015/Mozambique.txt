@@ -1,0 +1,464 @@
+2015
+Mozambique
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709"> </span><span class="st_facebook" st_title="Mozambique" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252709">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252709</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=executive"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Mozambique is a multiparty parliamentary democracy with a freely elected republican form of government. The most recent national elections for president, parliament, and provincial assemblies took place in October 2014. Voters elected Filipe Jacinto Nyusi of the ruling Front for the Liberation of Mozambique (Frelimo) party as president. Several national and international observers, including the Carter Center and the EU, considered voting generally orderly but lacking transparency during vote tabulation. Some domestic and foreign observers and local civil society organizations expressed concern over election irregularities such as delays in observer credentialing, excessive numbers of invalid votes, and inordinately high voter turnout in some districts, which they alleged indicated ballot box stuffing. Civilian authorities at times did not maintain effective control over security forces.</p>
+<p>The most significant human rights problems included arbitrary or unlawful deprivation of life; harsh prison and detention center conditions, including reports of torture; and failure to protect political rights and freedom of speech and the press.</p>
+<p>Other human rights problems included politically motivated arrests; arbitrary interference with correspondence, freedom of assembly and association; corruption and lack of transparency in government; restrictions on the rights of women, children, and lesbian, gay, bisexual, transgender and intersex (LGBTI) persons; HIV and AIDS stigma; lack of protection for people with albinism; trafficking in persons; and restrictions on workers’ rights.</p>
+<p>The government took steps to investigate, prosecute, and punish officials who committed abuses; however, impunity remained a problem.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section1"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were several reports the government or its agents committed arbitrary or unlawful killings. Most reports concerned police officers.</p>
+<p>For example, in March local media reported an unidentified national police (PRM) officer in Lichinga shot and killed an elderly man who failed to produce a license for his bicycle when requested. The elderly man allegedly resisted the officer’s attempt to confiscate his bicycle for not having the license. Local media did not report any action taken against the officers involved.</p>
+<p>On March 3, in what was generally considered a politically motivated killing, masked gunmen shot and killed prominent constitutional law professor Gilles Cistac in broad daylight in central Maputo. Earlier Cistac publicly asserted the constitution could allow for the creation of “autonomous provinces,” contradicting ruling party Frelimo’s position that Renamo’s demand for an autonomous republic was unconstitutional. Although Cistac had no direct political affiliation with Renamo, independent media and opposition figures publicly stated agents of the government or the ruling Frelimo were complicit in his killing. As of September no one had been charged in Cistac’s killing.</p>
+<p>In September, Manica provincial police claimed a Renamo convoy carrying party leader Afonso Dhlakama opened fire on a minibus, killing the driver, and police subsequently engaged Renamo members in a deadly firefight. Renamo denied the allegation and claimed the convoy was ambushed by government security forces acting on orders from civilian leadership. Both the government and Renamo adhered to conflicting versions of the event and inconsistent casualty reports.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices. Local human rights organization Human Rights League (LDH) stated reports of torture declined “significantly” during the year; however, torture in police stations remained a problem as poorly trained police frequently used excessive force when apprehending, interrogating, and detaining criminal suspects and handling prisoners. Human rights advocates and the media reported occurrences of torture and other cruel, inhuman, or degrading treatment, physical abuse, and prolonged detention. Video from independent media in November showed a PRM officer beating an unarmed suspected Renamo member in the back of a police vehicle. The individual was accused of illegally possessing weapons.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>While some prisons in and around Maputo generally met international standards, prison conditions remained harsh and potentially life threatening throughout most of the country due to gross overcrowding and inadequate sanitary conditions and medical care. Prison officials and nongovernmental organizations (NGOs) blamed inadequate funding and facilities for overcrowding.</p>
+<p><u>Physical Conditions</u>: In 2014 government officials and the LDH noted overcrowding, underage prisoners, and convicted and untried prisoners sharing cells remained the most serious problems, particularly in provinces far from the capital. On September 15, the national ombudsman called conditions in prisons and jails he visited in the northern city of Nampula “appalling.” Juveniles were housed with adults in multiple facilities. The Sofala provincial attorney general acknowledged this was also a problem in Beira Central Prison. Local media reported in October that Maputo Central Prison held 2,500 prisoners despite its designed capacity for 800.</p>
+<p>There were some reported cases of deaths in prisons due to a lack of adequate medical care.</p>
+<p>The Attorney General’s Office (PGR) noted problems continued with the physical conditions of prisons, hygiene, food, medical assistance, and legal counseling. For example, in 2014 at Nampula Provincial Prison, 71 inmates shared a 30-foot by 12-foot cell for more than 20 hours a day with access to only one latrine. Malaria, tuberculosis, and HIV/AIDS were commonplace among prisoners in nearly all prisons. NGOs and prisoners reported that sanitation and basic and emergency medical care were inadequate at some facilities. Few prisons had healthcare facilities or the ability to transport prisoners to outside facilities. Almost all prisons were constructed in the colonial era before 1975, leaving many in an advanced state of dilapidation. The PGR noted problems continued with the physical condition of prisons, hygiene, food, medical assistance, and legal counseling.</p>
+<p><u>Administration</u>: An NGO noted that in contrast with 2014, judicial authorities routinely granted bail for suspects; however, police often did not make suspects aware that they were eligible for bail under the premise they would continue to commit crimes. Recordkeeping remained problematic although there were fewer problems in urban areas. The PGR also noted problems remained regarding noncompliance with detention periods including prisoners serving terms beyond their stipulated sentences.</p>
+<p>No formal system specific to prisons existed for receiving or tracking complaints. In March local media reported at least one prisoner was transferred from Beira Central Prison in Sofala to a harsher facility after he complained to the provincial attorney general about substandard conditions and a lack of medical care he said led to an inmate’s death. The National Ombudsman, NGOs, and the media investigated individual allegations of inhuman treatment and conditions.</p>
+<p><u>Independent Monitoring</u>: International and domestic human rights groups had access to prisoners, although at the discretion of the Ministry of Justice and Ministry of the Interior. The LDH and the National Commission on Human Rights (CNDH) had a high degree of independence when visiting prisons run by the Ministry of Justice. NGOs continued to have difficulty visiting detention facilities run by the Ministry of the Interior, particularly its detention facilities in police stations.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Investigative Police (PIC), the PRM, and the Rapid Intervention Units (UIR) are responsible for internal security and report to the Ministry of the Interior. The Border Security Force (Forca Guarda-Fronteira) also reports to the Interior Ministry and is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders. An additional security body, the State Information and Security Service, reports directly to the president. The Casa Militar (Presidential Guard) provides security for the president, and the Force for the Protection of High Level Individuals provides security for other senior level officials at the national and provincial levels. The armed forces are responsible for internal and external security and report to the Ministry of National Defense. The president is commander in chief of the armed forces.</p>
+<p>Civilian authorities generally maintained control over the PIC, the PRM, UIR, and the Border Security Force; however, government mechanisms to investigate and punish abuse and corruption were lacking. There were reports of impunity involving security forces. Reliable sources reported that Mozambicans crossing into Malawi in October alleged that government forces set fire to occupied homes in Tete Province, causing residents to flee. It was difficult to obtain information on security personnel accused of wrongdoing. Police leadership acknowledged corruption was a problem. In May the Interior Ministry announced 100 PRM members were terminated due to corruption. PRM forces received training on how to deal with juvenile victims and perpetrators of crime, including respecting their civil rights, at the Matalane training camp.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires a judge or prosecutor to first issue an arrest warrant unless a person is caught in the act of committing a crime. By law the maximum length of investigative detention without a warrant is 48 hours or six months with a warrant, during which time a detainee has the right to judicial review of the case. The individual may be detained another 90 days while the PIC continues its investigation. A person accused of a crime carrying a potential maximum sentence of more than eight years may be detained up to an additional 84 days without being charged formally. A court may approve two more 84-day periods of detention without charge while police complete their investigation. The detainee must be released if no charges are brought within the prescribed period for investigation. The law provides for citizens’ right to access the courts and the right to legal representation, regardless of ability to pay for such services. Indigent defendants, however, frequently had no legal representation due to a shortage of legal professionals. There were no reports of suspects held incommunicado or under house arrest.</p>
+<p>The bail system remained poorly defined. Prisoners, their families, and NGOs complained police and prison officials demanded bribes to release prisoners who had already completed their sentences.</p>
+<p><u>Pretrial Detention</u>: Long pretrial detention continued to be a serious problem, due in part to an inadequate number of judges and prosecutors and poor communication among authorities. Local media reported the attorney general noted the “prevalence of illegal detentions” by the PRM in Nampula Province since many suspects did not have their cases heard by a judge within the 48 hours required by law. The LDH reported that as of December 2014, 31 percent of prisoners nationwide were being held in pretrial detention, in some cases by several months to more than a year beyond the maximum investigative detention period.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary; however, some civil society groups continued to believe the executive branch and the ruling Frelimo party were sometimes able to exert influence on an understaffed and inadequately trained judiciary.</p>
+<p>The judicial system exhibited impartiality in one closely watched case. In September the Maputo City Court acquitted an academic charged with violating a national security law related to a Facebook post criticizing then president Armando Guebuza (see section 2.a.).</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for the right to a fair trial, and an independent judiciary generally enforced this right. Regular courts presume accused persons innocent, and the law provides the right to legal counsel and appeal. Defendants have the right to be informed promptly in a comprehensible manner and in detail of charges filed against them. Defendants enjoy the right to communicate with an attorney of their choice, and the law specifically provides for public defenders for the accused, although this did not always happen in practice. An NGO said defendants do not enjoy the right to adequate time and facilities to prepare a defense as the Public Defender’s Office has limited resources. Defendants cannot be compelled to testify or confess guilt.</p>
+<p>By law only judges or lawyers may confront or question witnesses. A defendant may present witnesses and evidence on their own behalf and have access to government-held evidence. Such rights were upheld during the year. There is no trial by jury. The law extends the above rights to all defendants; no groups were denied any of these rights.</p>
+<p>Persons accused of crimes against the government, including treason or threatening national security, are tried publicly in regular civilian courts under standard criminal judicial procedures. In contrast with 2014, members of the media and the general public attended trials. A judge may order a trial closed to the media in the interest of national security, to protect the privacy of the plaintiff in a sexual assault case, or prevent interested parties outside the court from destroying evidence.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Police briefly detained Renamo spokesman Antonio Muchanga in January for incitement to violence and leading an illegal march in response to the Constitutional Council’s December 2014 validation of the national election results, which Renamo claimed were fraudulent and did not recognize. As a member of the Council of State, Muchanga had immunity which the arrest violated. Authorities released him later the same day. In July 2014 the government arrested Muchanga on charges of incitement to violence but released him following the passage of an amnesty law as part of a peace agreement between the government and Renamo.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>While the law provides for an independent and impartial judiciary in civil matters, some citizens believed the judiciary was subject to political interference. Individuals or organizations may seek civil remedies for human rights violations through domestic courts. By law citizens have access to courts, the Office of the Ombudsperson, the CNDH, and the Bar Association to submit lawsuits seeking damages for, or cessation of, human rights violations. An NGO stated the government generally respected court rulings on human rights issues; however, security forces did not always respect court rulings to release detainees deemed politically sensitive.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions; however, there were reports the government failed to respect the privacy of personal communications at times. Some civil society activists alleged government intelligence services and ruling party activists continued to monitor telephone calls and e-mails without warrants, conduct surveillance of their offices, follow opposition members, use informants, and disrupt party activities in certain areas.</p>
+<p>Some individuals, including members of civil society, expressed fear the government monitored their private telephone and e-mail communications. Many individuals reported the government unofficially required Frelimo party membership to obtain or retain employment, obtain loans, and receive business licenses.</p>
+<p>The law requires police to possess a warrant to enter homes and businesses, but this practice was not always followed.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section2"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, and the government generally respected this right. Many in the media and civil society, however, felt the murder of prominent constitutional law professor Gilles Cistac following his public comments supporting a controversial opposition party proposal for self-governed autonomous regions (see section 1.a.) was the government or ruling party agents using the threat of violence to attempt to limit free speech.</p>
+<p><u>Freedom of Speech and Expression</u>: In June a prominent academic was charged with violating national security laws for allegedly libeling former president Armando Guebuza in a 2013 Facebook post critical of his governance (see National Security below).</p>
+<p><u>Press and Media Freedoms</u>: There were no official restrictions on the editorial independence of print media, broadcast media, and the publication of books. The government maintained majority ownership of the largest newspaper, two television channels, and a radio broadcasting network. Government-controlled media rarely criticized the government or the ruling Frelimo party. On September 16, a three-judge panel acquitted Fernando Mbanze, editor of the independent newsletter <i>MediaFax</i>, of “abuse of press freedom” after the panel ruled a Facebook post he reprinted was not libelous (see National Security below).</p>
+<p><u>Violence and Harassment</u>: In contrast with 2014, there were no reported cases of violence or harassment targeting journalists. Journalist Paulo Machava was shot and killed in Maputo by unidentified assailants in August. There were no public claims of responsibility for his murder; however, there were allegations of links to criminal figures.</p>
+<p><u>Censorship or Content Restrictions</u>: Media officials reported the government’s Information Office convened regular editorial board meetings to coordinate and direct news content released by state-controlled media. Some journalists reported pressure to self-censor. Some media officials stated critical reporting could result in cancellation of government and ruling party advertising contracts. The largest advertising revenue streams for local media came from ministries and state-controlled businesses. Media analysis NGO Sekelekani and others noted progovernment media received more advertising contracts from the government and government-linked businesses than did media critical of the government.</p>
+<p><u>Libel/Slander Laws</u>: In June two journalists were found guilty of libeling Filipe Paunde, a former-high ranking Frelimo official, and ordered to pay 10 million meticais ($230,000) in damages for alleging he had used his position improperly to sell duty-free import licenses for vehicles.</p>
+<p><u>National Security</u>: On August 31, prominent economist and academic Carlos Nuno Castel Branco stood trial for criminal libel for a 2013 “open letter” he published on Facebook that sharply criticized then president Armando Guebuza. The law classifies libeling senior government figures as a crime against national security. On September 16, a three-judge panel acquitted him. The presiding judge ruled Castel-Branco had the right to voice his opinion about the way the former president ran the country, even though some might find the criticisms impertinent. The government appealed the decision, but by December the Maputo City Court had not decided whether to accept the appeal.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict access to the internet or censor online content. Opposition party members and academics reported government intelligence agents monitored e-mail and used false names to infiltrate social network discussion groups. Local internet freedom advocates believe the intelligence service monitors online content critical of the government. One site often critical of the government, Verdade, suffered multiple attacks. According to the International Telecommunication Union, 6 percent of citizens used the internet in 2014.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events; however, certain academics reported self-censorship, particularly after the murder of Gilles Cistac and Nuno Castel-Branco’s indictment.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of assembly; however, the government did not always respect this right. On March 7, riot police armed with riot shields and tear gas canisters blocked a nonviolent march by thousands of Maputo residents through the downtown area in protest of the assassination of Gilles Cistac (see section 2.a.). Maputo City officials alleged the riot police were sent to disperse the march because the march's organizers added a final segment, which was not approved.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for freedom of association, and the government generally respected this right. The Ministry of Justice did not act on the sole Mozambican LGBTI association’s pending request to register officially, which has been pending since 2008. The registration process usually takes less than two months. In October, Justice Minister Abdurremane de Almeida responded to a question regarding the pending registration request by saying that LGBTI individuals were not among the government’s “priorities.”</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government generally cooperated with the Office of the United Nations High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p><u>In-country Movement</u>: Refugees must formally request authorization to move outside the geographic region of their registration. The government usually authorized these requests, with the exception of moving to Maputo.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons</h3>
+<div class="sub-sub-section_content">
+<p>Approximately 100 families displaced by skirmishes between the government and Renamo in 2013 lived in the Nhataca II camp in Sofala. The government provided protection for the families and assistance in the form of land. Most of the families chose to settle in the camp. An estimated 6,000 internally displaced persons living in Sofala in 2014 either were able to return home, or permanently resettled.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The government provided protection against the expulsion or return of refugees to countries where their lives or freedom would be threatened on account of their race, religion, nationality, membership in a particular social group, or political opinion. According to UNHCR figures released in September, the country hosted approximately 19,000 refugees and asylum seekers.</p>
+<p><u>Refugee Abuse</u>: There were reports PRM officers in Nampula harassed refugees travelling on the road outside their camp and told them they could not sell goods. There were allegations police used excessive force in some instances.</p>
+<p><u>Durable Solutions</u>: The government worked closely with UNHCR to implement a local integration program for refugees, primarily from the Great Lakes region and Somalia, in Maratane Camp in Nampula Province. UNHCR referred a limited number of refugees for third country resettlement.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section3"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law provide citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised that ability.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: Domestic and international observers noted voting-day procedures during the October 2014 national presidential and parliamentary elections were generally orderly but lacked transparency during vote tabulation. Some domestic and foreign observers and local civil society organizations expressed concern over irregularities, including delays in observer credentialing, excessive numbers of invalid votes, and inordinately high voter turnout in some districts, which they alleged indicated ballot box stuffing. Renamo did not recognize the election results, accusing the ruling Frelimo of rigging the election and insisting their presidential candidate won. Renamo officials initially refused to take their seats in parliament and the provincial assemblies but ended their boycott in February.</p>
+<p>During the campaign period, representatives of opposition parties and civil society complained about increased acts of bias and intimidation by the government and Frelimo. For example, in June 2014 election officials in Cabo Delgado Province held local meetings excluding the newly designated Renamo members, alleging a lack of meeting space. Independent reporting corroborated opposition parties’ accusations Frelimo used state funds and resources for campaign purposes, in violation of electoral law.</p>
+<p><u>Political Parties and Political Participation</u>: Frelimo continued to dominate the political process as it has throughout the 40 years since independence. Opposition political parties could operate, yet there were occasional restrictions on meetings, unlawful arrests, and other interference by the government. The EU Election Observation mission criticized state-owned or affiliated media bias in its 2014 election report. According to the report, Filipe Nyusi received 62 percent of coverage on public television while the other two presidential candidates shared the remaining 38 percent. Frelimo received 56 percent of coverage; other parties contesting parliamentary seats shared the remainder. Opposition parties and their leaders received negative or neutral coverage compared with overwhelmingly positive coverage of Frelimo and its leadership.</p>
+<p><u>Participation of Women and Minorities</u>: No laws, cultural practices, or traditions prevent women or members of minorities from voting, running for office, serving as electoral monitors, or otherwise participating in political life. Women and members of many ethnic groups held key positions in the legislative, executive, and judicial branches.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section4"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials. The government generally struggled to implement the law effectively. Officials often engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: Corruption, including extortion by police, remained widespread, and impunity remained a serious problem. Police regularly demanded identification documents solely to extort bribes. Many crime victims reportedly declined to seek police assistance because of a lack of confidence police would help.</p>
+<p>In October the Maputo City Court convicted eight Ministry of Education employees of stealing 33 million meticais ($1.1 million) from the ministry. Local media reported that those convicted falsified payroll documentation in order to collect the money between 2008 and 2011. The sentences ranged from one to 20 years in prison. The shortest sentences were converted to fines.</p>
+<p>Negative fiscal ramifications from the 2013 EMATUM (a state-owned tuna fishing company) transaction, which directly related to lack of transparency in the public tender process, continued during the year. In June the government assumed approximately $500 million of state guaranteed debt of the $850 million in EMATUM financial liabilities amid growing concern over government debt to GDP ratios. The country’s international credit rating was downgraded by multiple ratings agencies in June.</p>
+<p><u>Financial Disclosure</u>: The law requires annual income and assets disclosure by appointed and elected members of the government, high-ranking civil servants, their spouses, and their legal dependents to the Ministry of State Administration. The law provides for fines if declarations are not made; however, the declarations are not public. In November local media reported the PGR found only 63 of 700 officials in Nampula Province required to submit an assets disclosure actually did so.</p>
+<p><u>Public Access to Information</u>: A law enacted in December 2014 provides for public access to official sources of information. Due to lack of a procedural code and historical cultural sensitivities regarding public requests for government information, however, the law was not effectively implemented. Efforts to train officials on the implementation of the law were underway.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section5"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. The government did not act on the registration request of a local LGBTI organization (see section 2.b.).</p>
+<p><u>Government Human Rights Bodies</u>: The National Commission on Human Rights is mandated to promote and defend human rights, including ensuring the human rights provisions of the constitution are followed. Among its stated priorities is addressing cases of law enforcement violence, judicial corruption, and violations of prisoner rights. The commission lacks authority to prosecute violations and must refer cases to the judiciary. The commission members are chosen by the political parties, civil society, the prime minister, and the Mozambican Bar Association. It received funding from foreign donors and the UN Development Program.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section6"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and laws prohibit discrimination based on race, gender, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation, age, language, HIV-positive status or having other communicable diseases, or social status, but societal discrimination remained an issue for some of these groups. Discrimination based on sexual orientation or gender identity is only prohibited in labor law, which specifically prohibits discrimination in the workplace based on sexual orientation. The government failed to enforce some prohibitions against discriminatory acts.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and domestic violence, but it was not effectively enforced. Penalties range from two to eight years’ imprisonment if the victim is 12 years of age or older and 20 to 24 years’ imprisonment if the victim is under 12. Civil society organizations noted that while the wording of the revised penal code, passed in December 2014, covers both vaginal and anal sex, it does not cover other forms of rape such as oral sex and insertion of objects. Legal experts also noted a revised definition of “intercourse” in the new penal code meant that men could qualify as victims of rape. The July 2014 penal code no longer allows charges for rape to be dropped when the perpetrator marries the victim.</p>
+<p>According to NGO reports, many families preferred to settle rape allegations through informal community courts or privately through financial remuneration rather than through the formal judicial system. Spousal rape was rarely reported; however, it was regarded as a common problem. Increasing numbers of victims sought assistance from human rights organizations, especially in cases that resulted in HIV infection.</p>
+<p>Domestic violence against women remained widespread. According to local media reports, there were 23,659 reported instances of domestic violence in 2014. According to the World Bank’s 2012 World Development Report, 54 percent of all women reported being victims of sexual or physical abuse. Abuse of a spouse or unmarried partner is punishable with one to two years in prison, or a greater penalty if another crime is also applicable.</p>
+<p>Although domestic violence was considered a valid reason to leave a partner, women often had few economic or social alternatives and thus remained with the abuser. An estimated 95 percent of women were dependent on the community or family-based (typically agricultural) economy. Many young women also engaged in transactional sex with older, wealthier men in order to survive economically.</p>
+<p>With the exception of some ethnic and religious groups, the groom’s family provided a bride price to the bride’s family, usually in the form of money, livestock, or other goods, although this practice had become somewhat less common. Among Muslims, the bride’s family usually paid for the wedding and provided gifts. Some believed these payments contributed to violence against women and other inequalities due to the perception that married women were owned by their husbands.</p>
+<p>Government agencies and NGOs continued to implement public outreach campaigns to combat violence against women nationwide.</p>
+<p>Police and NGOs worked together to combat domestic violence. The PRM operated special women’s and children’s units within police precincts that received high numbers of cases of domestic violence, sexual assault, and violence against children in order to assist victims and their families.</p>
+<p><u>Other Harmful Traditional Practices</u>: The practice of “purification,” whereby a widow is obligated to have unprotected sex with a member of her deceased husband’s family, continued, particularly in rural areas, despite a number of campaigns against it.</p>
+<p><u>Sexual Harassment</u>: Sexual harassment is illegal; however, it was pervasive in business, government, and schools, and remained a societal problem. Although the penal code incorporates protections against sexual harassment in education, there is no legislation on sexual harassment in public places.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children. They also have the right to manage their reproductive health, free from discrimination, coercion, and violence. Healthcare clinics and local NGOs operated freely and disseminated information on family planning; however, only 15 percent of girls and women ages 15-49 used modern contraception, according to the UN Population Fund. Rural communities often had limited access to basic health services. Many people in poor communities believed large families enhanced wealth generation.</p>
+<p>The country had a high maternal mortality rate (408 deaths per 100,000 live births in 2013), and a woman’s lifetime risk of maternal death was one in 41 due in part to poor clinical capacity for obstetric emergencies and a severe lack of doctors (1,452 for a population of approximately 25 million) and nurses, particularly in rural areas. Other reasons included poor infrastructure, a high HIV/AIDS rate, high rates of adolescent pregnancy (166 per 1,000 women ages 15 to 19 between 1999 and 2012), and poor access to health-care facilities, often resulting in delays in providing medical care.</p>
+<p><u>Discrimination</u>: The law provides the same legal status and rights for women as men under family, labor, property, nationality, and inheritance laws; however, it does not specifically require equal pay for equal work, nor does it mandate nondiscrimination based on gender in hiring. The law also contains provisions that limit excessive physical work or night shift requirements during pregnancies. The law contains special provisions to protect women against abuse. Many women remained uninformed about the law.</p>
+<p>Women continued to experience economic discrimination (see section 7.d.). Relative gender gaps in education and income remained high. In some regions, particularly the northern provinces, women had limited access to the formal judicial system for enforcement of rights provided under the civil code and instead relied on customary law to settle disputes. Women typically have no rights to inherit land under customary law.</p>
+<p>Women held a relatively small proportion of private-sector salaried jobs, and they had correspondingly lower social security benefits and less access to higher-paying occupations than did men. Many worked as casual laborers or in the informal sector, primarily in subsistence agriculture. Enforcement of laws that protect women’s rights to land ownership was poor. Forum Mulher, a network of women’s rights advocacy groups, noted women’s representation in local and provincial-level bodies continued to lag while their representation in national decision-making bodies was relatively high.</p>
+<p>The parliament has a women’s caucus, composed of members from the three parties with parliamentary seats, which seeks to address issues of gender balance, women’s representation in decision-making bodies, and advocacy of women’s rights.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is obtained by birth in the country or birth to at least one Mozambican parent outside of Mozambique. Birth registration was often delayed in rural areas. Failure to register a child’s birth may result in the inability to attend school and may prevent one from obtaining public documents, such as identity cards, passports, or “poverty certificates,” which enable access to free health care and free secondary education. Cultural practices continued to deprive women, especially in rural areas, of their legal right to register their child without the presence of the child’s father.</p>
+<p><u>Education</u>: Although education is compulsory through primary school (grades one to seven), primary school completion remained beyond the means of many families, especially in rural areas. While public primary school education is tuition free, families must pay for supplies and uniforms. According to the government’s 2010 Millennium Development Goals report, despite joint government-NGO initiatives in some localities to improve girls’ school attendance, only 27 percent of girls finished primary school, compared with 40 percent of boys.</p>
+<p><u>Child Abuse</u>: Most child-abuse cases involved sexual or physical abuse. Sexual abuse in schools and in homes continued to be a problem. In 2014 there were media and NGO reports of many high school-age girls coerced into having sex by their teachers in order to pass to the next grade. A UNESCO policy paper published in March noted approximately 20 percent of school principals said sexual harassment of students by teachers or other pupils occurred at least “sometimes” at their schools.</p>
+<p>While the government continued to stress the importance of children’s rights and welfare, significant problems remained. The child protection law contains sections dealing with protection against physical and sexual abuse; removal from parents who are unable to protect, assist, and educate them; and the establishment of juvenile courts to deal with matters of adoption, maintenance, and regulating parental power. Juvenile courts resolved many cases regarding support for children after divorce or the end of a relationship.</p>
+<p>Orphans and other vulnerable children remained at high risk of abuse.</p>
+<p><u>Early and Forced Marriage</u>: The law sets the minimum age to marry for persons of both genders at 18. Legal permission to marry at age 16 may be granted with parental consent if “circumstances of recognized public and family interest,” such as pregnancy, exist. According to a 2015 UNICEF report, nationwide 48 percent of young women ages 20-24 married before age 18. Fourteen percent of women ages 20-24 married before age 15. The highest rates of early marriage were in the northern provinces of Cabo Delgado and Nampula, where 61 percent and 62 percent of women were married before age 18, respectively. In Niassa, another northern province, 24 percent of young women married before age 15, the highest rate in the country. The government and local NGOs continued to promote a public awareness campaign under the motto “Marry? Only at 18 years of age!” to discourage early and forced marriage. The government and its partners collaborated on a National Strategy for the Prevention and Combating of Early Marriage (2015-2019).</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits the commercial sexual exploitation of children and child pornography. Authorities enforced the law, but exploitation of children below age 18 and child prostitution remained problematic. The minimum age for consensual sex is 16. Underage girls were exploited in prostitution in bars, roadside clubs, and restaurants in border towns and overnight stopping points along the southern transport corridor that links Maputo, Swaziland, and South Africa. Child prostitution appeared to be most prevalent in Maputo, Nampula, Beira, border towns, and at overnight stopping points along key transportation routes. Some NGOs provided health care, counseling, and vocational training to children, primarily girls, engaged in prostitution.</p>
+<p><u>Displaced Children</u>: Children from Zimbabwe, Malawi, and Swaziland, many of whom had entered the country alone, faced labor exploitation and discrimination. They lacked protection due to inadequate documentation and had limited access to schools and other social welfare institutions, largely due to lack of resources. Coercion, both physical and economic, of these girls into the sex industry was common, particularly in Manica Province.</p>
+<p>Child beggars and children selling snacks, who appeared to be living on the streets, were visible in major urban areas, but no nationwide figures were available. NGOs said many lived in crowded housing with their “bosses” and came from poorer areas in the north.</p>
+<p>Several government agencies, including the Ministry of Health and the Ministry of Gender, Children, and Social Action, continued programs to provide health-care assistance and vocational education for HIV/AIDS orphans and other vulnerable children.</p>
+<p>The Maputo City Office of Gender, Children, and Social Action continued its program to rescue abandoned orphans and assist single mothers who headed families of three or more persons, but lack of funding limited its scope of action. It also offered special classes in local schools to children of broken homes. NGOs sponsored food, shelter, and education programs in all major cities.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For more information see <a href="http://travel.state.gov/content/childabduction/en/country/Mozambique.html">travel.state.gov/content/childabduction/en/country/Mozambique.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There was a very small Jewish population, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit discrimination against citizens with disabilities; however, the law does not differentiate between physical, sensory, intellectual, and mental disabilities. The government did not effectively implement laws and programs to provide access to buildings, information, and communications.</p>
+<p>Discrimination in employment, education, access to health care, and the provision of other state services was common. Observers often cited unequal access to employment as one of the biggest concerns (see section 7.d.).</p>
+<p>The law requires access to public buildings for persons with disabilities; however, compliance remained low. The government did not effectively implement programs to provide access to information and communication for persons with disabilities. Educational opportunities for children with disabilities were generally poor, especially for those with developmental disabilities. The government sometimes referred parents of children with disabilities to private schools with more resources to provide for their children. There were two schools for people with disabilities: one in Maputo Province and one in Sofala. The Mozambican Association for the Disabled (ADEMO) reported teacher-training programs did not include techniques on how to address the needs of students with disabilities. ADEMO also observed school buildings fell short of international standards for accessibility, and public tenders were not designed to support the participation of persons with disabilities.</p>
+<p>Electoral law provides for access and assistance to voters with disabilities in the polling booths, including the right for them to vote first.</p>
+<p>The only psychiatric hospital was overwhelmed with patients and did not provide adequate basic nutrition, medicine, or shelter. Doctors also reported many families abandoned members with disabilities at the hospital. ADEMO reported access to donated equipment, like wheelchairs, continued to be a challenge due to required lengthy and complicated bureaucratic procedures.</p>
+<p>The Ministry of Gender, Children, and Social Action is responsible for protecting the rights of persons with disabilities. The 2012-19 National Action Plan in the Area of Disabilities provides funding, monitoring, and assessment of implementation by various organizations that support persons with disabilities.</p>
+<p>The city of Maputo offered free bus passes to persons with disabilities. Buses in Maputo did not have special accessibility features. Because public transportation was limited, many citizens rode in private minibuses and in the backs of pickup trucks, hazardous for persons with or without disabilities. Access ramps were rare, and sidewalks were hazardous for pedestrians to traverse.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Unlike the previous year, there were no reports of governmental or societal violence or discrimination against members of national, racial, or ethnic minorities.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The local LGBTI advocacy organization praised the removal of a 19th century legal provision viewed as criminalizing consensual sexual conduct between same-sex adults. Discrimination based on sexual orientation or gender identity is only prohibited in employment. There were reports of discrimination based on sexual orientation and gender identity. Antidiscrimination laws existed; however, LGBTI persons were only legally protected against employment discrimination (see section 7.d.). No hate crime laws or other criminal justice mechanisms exist to aid in the prosecution of bias-motivated crimes against members of the LGBTI community. The government has taken no action on the local LGBTI association’s request to register legally since 2008 (see section 2.b.).</p>
+<p>The government does not track and report discrimination or crimes against individuals based on sexual orientation or gender identity. The media and LGBTI organizations did not report any bias-based attacks; however, discrimination in public medical facilities occurred. LGBTI individuals were sometimes chastised by medical staff for their sexual orientation upon seeking treatment. Intimidation was not a factor in preventing incidents of abuse from being reported.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Approximately 11 percent of the population lived with HIV/AIDS. According to the 2013 Stigma Index of People Living with HIV/AIDS, 24 percent of respondents had been verbally threatened or insulted, 20 percent excluded from family or social events, and 5 percent physically assaulted due to their HIV status. In a 2011 Demographic and Health Survey, 30.8 percent of women and 27.9 percent of men reported having discriminatory attitudes towards persons with HIV/AIDS. Reports continued of many women expelled from their homes and abandoned by their husbands and relatives because they were HIV positive. Some women widowed by HIV/AIDS were accused of being witches who purposely killed their husbands to acquire belongings; as retribution, they were deprived of all possessions.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Media reports indicated a rise in the kidnapping, maiming, and killing of persons with albinism, particularly in Nampula Province, due to the alleged “magic” properties of their body parts. According to Amor a Vida, a local NGO that advocates for persons with albinism, 15 such persons had disappeared as of August. As of September the Nampula Provincial Prosecutor’s Office had opened 10 criminal cases against 33 individuals suspected of human trafficking, many involving persons with albinism. The Health Ministry acknowledged the murders of at least two persons with albinism as of September. The Justice Ministry established a commission in September to investigate the rise in kidnappings of persons with albinism.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section7"> </span><span class="st_twitter" st_title="Mozambique #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Mozambique - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252709%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide that workers, with limited exceptions, may form and join independent trade unions, conduct legal strikes, and bargain collectively. The law requires government approval to establish a union. The government has 45 days to register an employers’ or workers’ organization, a delay the International Labor Organization (ILO) deemed excessive. Although the law provides for the right of workers to organize and engage in collective bargaining, such contracts covered less than 5 percent of the workforce. Workers in defense and security services, tax administration, prison workers, the fire brigade, judges and prosecutors, and the president’s office staff members are prohibited from unionizing. Other public-sector workers may form and join unions, but they are prohibited from striking.</p>
+<p>The law does not allow strike action until long and complex conciliation, mediation, and arbitration procedures have been exhausted. Workers’ ability to conduct union activities in workplaces was strictly limited. The law provides for voluntary arbitration for “essential services” personnel monitoring the weather and fuel supply, postal service workers, export processing zone (EPZ) workers, and those loading and unloading animals and perishable foodstuffs. The International Trade Union Confederation criticizes the government’s prohibition of strikes by EPZ workers and claims that they do not meet the ILO’s definition of “essential services” workers. The ILO has previously criticized the government’s definition of “essential services” workers as being too broad. Sectors deemed essential must provide a “minimum level” of service during a strike. Strikes must be announced at least five days in advance, and the announcement must include the expected duration of the strike, although the government interprets this to allow indefinite strikes. Strikes may be ended by mediation and arbitration bodies, not just by the unions and workers themselves. The law prohibits all types of antiunion discrimination; however, it does not explicitly provide for reinstatement of workers terminated for union activities.</p>
+<p>A lack of resources continued to hamper the government’s efforts to enforce effectively many of its labor laws. Government efforts included fining companies that violated labor laws and the expulsion of foreign supervisors who allegedly did not follow the law. Fines were not sufficient to deter violators. While the law provides for voluntary arbitration, it was not frequently used during the year.</p>
+<p>Authorities and employers generally respected freedom of association and the right to collective bargaining, although workers exercised few of these rights. There are strict legal constraints on workers’ meetings in the workplace. While unions occasionally negotiated wage increases and organized strikes, such activities were infrequent. The government also respected the legal prohibition of antiunion discrimination. There were no reports of violations related to freedom of association and collective bargaining rights or antiunion discrimination during the year.</p>
+<p>The largest trade union organization, OTM-Central Sindical (Mozambican Worker’s Organization-Central Syndicate), was perceived as biased in favor of the government and ruling party Frelimo.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The government continued to have difficulties enforcing these laws effectively. The law against trafficking in persons, which includes forced labor, prescribes penalties of 16 to 20 years’ imprisonment for human traffickers.</p>
+<p>There was limited evidence of forced labor and forced child labor in the domestic and agricultural sectors. Women and girls from rural areas, as well as migrant workers from bordering countries, were lured to cities with promises of employment or education and continued to be exploited in domestic servitude and sex trafficking.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum working age without restrictions is 18. The law permits children between the ages of 15 and 17 to work with a Ministry of Labor permit. The employer is required to provide for their education and training and provide conditions of work that are not damaging to their physical and moral development. Children between the ages of 12 and 14 may work under special conditions authorized by the Ministries of Labor, Health, and Education. Children under 18 may work up to seven hours a day for a total of 38 hours a week. They are not permitted to work in occupations that are unhealthy, dangerous, or require significant physical effort; however, the government has no official list of prohibited job activities or occupations. By law children must be paid at least the minimum wage or a minimum of two-thirds of the adult salary, whichever is higher.</p>
+<p>The Ministry of Labor regulates child labor in the formal sector, but the government did not effectively enforce the law. Labor inspectors may obtain court orders and use police to enforce compliance with child labor provisions. There were no mechanisms in place for submitting complaints about hazardous and forced child labor. Violations of child labor provisions are punishable with fines ranging from one to 40 months of the minimum wage salary. Such penalties were insufficient to deter violations. Enforcement mechanisms generally were inadequate in the formal sector due to resource constraints and nonexistent in the informal sector.</p>
+<p>The labor inspectorate and police lacked adequate staff, funds, and training to investigate child labor cases, especially in areas outside the capital where a majority of the abuses occurred. No labor inspectors specialized in child labor issues; however, they all receive child labor training. Inspectors earned low wages (like many government employees) making them vulnerable to, and often inclined to seek, bribes. Inspectors often did not have the means to travel to sites and therefore relied on the company they were investigating to provide transportation to the site of an alleged violation. Although the government provided training for police on child prostitution and abuse prevention, there was no specialized child labor training for the labor inspectorate.</p>
+<p>Child labor remained a problem. NGOs reported some girls from rural areas migrated to urban centers to work as domestic help for extended family or acquaintances to settle debts where they were vulnerable to commercial sexual exploitation (see section 6, Children). Mothers who did not complete secondary school were more likely to have children involved in child labor. Due to economic necessity, especially in rural areas, children worked in agriculture, as domestic employees, or in prostitution.</p>
+<p>Children, including those under age 15, commonly worked on family farms harvesting rice, cotton, tobacco, or tea. They were often paid on a piecework basis rather than an hourly minimum wage. NGOs indicated that in the northern provinces of Zambezia, Nampula, and Cabo Delgado, adults hired to work on tobacco, cotton, and cashew plantations routinely had their children also work to increase family income. These children worked long hours and were prevented from attending school.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination with respect to employment and occupation based on the following: race, color, sex, religion, political opinion, national origin, citizenship, social origin, disability, sexual orientation, gender identity, age, language, and HIV-positive status or having other communicable diseases.</p>
+<p>The law prohibits discrimination against workers because of HIV/AIDS status, and the Ministry of Labor generally intervened in cases of perceived discrimination by employers. With an increased public awareness of this law, there were no public reports of individuals dismissed because of their HIV status.</p>
+<p>The government effectively enforced applicable law. Penalties (such as fines) were sufficient to deter violations. There were multiple reports in local media of the Labor Ministry suspending the contracts of “illegal” foreign workers. Some foreign workers reported being harassed by Labor Ministry inspectors after disputes with Mozambican coworkers and being forced to pay bribes for work permits or leave the country.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The lowest industry-based minimum wage was 3,010 meticais ($72) a month in March. The poverty line was 540 meticais ($13) per member of household a month. Workers generally received benefits, such as transportation and food, in addition to wages. The OTM estimated that a minimum livable monthly wage to provide for a family of five was 8,000 meticais ($190). The standard legal workweek is 40 hours but may be extended to 48 hours. Overtime must be paid over 48 hours at 50 percent above the base hourly salary. The law limits overtime to two hours per day and 100 hours per year. The law provides for one hour of rest per day. Foreign workers are protected under the law. Health and environmental laws were in place to protect workers in the formal sector, however, the informal sector made up a majority of the economy.</p>
+<p>The government sets occupational health and safety (OSH) standards that are current and appropriate for the main industries. Workers have the right to clean and safe workplaces including good physical, environmental, and moral conditions. Workers have the right to be informed of safety risks and instructed on how to follow the regulations and improve safety including the right to protective clothing and equipment, first aid, health exams, and compensation for workplace injuries or sickness. No sectors or groups of workers, including those in the large informal sector, are specifically exempted from these laws.</p>
+<p>The Ministry of Labor is responsible for enforcing the minimum wage rates in the private sector, and the Ministry of Finance does so in the public sector. The ministries usually investigated violations of minimum wage rates only after workers complained.</p>
+<p>The Ministry of Labor did not effectively enforce minimum wage, hours of work, and OSH standards in the informal sectors as the Ministry of Labor only regulates the formal sector. The number of labor inspectors (135 in 2014) was not sufficient to enforce compliance. Agricultural workers were among the most vulnerable to poor work conditions and wage theft. The lack of frequent and enforced sanctions for violations created little deterrence for violations. Despite the relatively low number of inspectors, some businesses reported frequent visits by labor inspectors citing capricious violations and threats of fines in order to solicit bribes.</p>
+<p>There were few industrial jobs outside the Maputo area. The country’s special economic and industrial areas have the same regulations for wages, workweek, and occupational safety and health as elsewhere. The Inspector General for Economic Activities, which is composed of representatives from a number of ministries, regulated these zones. There were no reports of violations of wage, overtime, or occupational safety and health standards in these special economic zones.</p>
+<p>By law workers have the right to remove themselves from situations that endanger their health and safety without jeopardizing their employment. There were no special provisions for foreign and migrant workers.</p>
+<p>In July scaffolding on a 16-story building under construction in central Maputo collapsed, killing five workers and injuring eight. The Labor Ministry announced the immediate creation of a commission to investigate the accident. Local media reported in August that the commission found the scaffolding company was operating with expired permits. JAT-Constroi, the building owner, pledged to provide financial and material support to the victims’ families.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

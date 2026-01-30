@@ -1,0 +1,578 @@
+2014
+Namibia
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388"> </span><span class="st_facebook" st_title="Namibia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236388">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236388</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=executive"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Namibia is a constitutional multi-party democracy. Elections held on November 28 resulted in the election of Prime Minister Hage Geingob to the presidency and retention by the ruling South West Africa People’s Organization (SWAPO) of its large parliamentary majority. Despite some reported irregularities, international observers characterized the election as generally free and fair. Authorities generally maintained effective control over security forces.</p>
+<p>The three most significant human rights abuses in the country included the slow pace of judicial proceedings and resulting lengthy pretrial detention under poor conditions; violence and discrimination against women and children, including rape, child abuse, and child labor; and discrimination and violence based on sexual orientation and gender identity.</p>
+<p>Other governmental human rights problems included unlawful police killing, incarceration of juveniles with adults, corruption by officials, and discrimination against ethnic minorities and indigenous people.</p>
+<p>The government took steps to prosecute or punish officials who committed abuses, whether in the security services or elsewhere in the government. Impunity existed.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section1"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were several reports that the government or its agents committed or were responsible for arbitrary or unlawful killings.</p>
+<p>For example, an unknown police officer shot and killed Frieda Ndaitipo, an unarmed demonstrator, at a rally in front of the ruling SWAPO party headquarters on August 27. Police claimed the demonstrators had threatened them and they fired in self-defense. The prime minister instructed the Ombudsman’s Office to investigate the shooting. The investigation was continuing at year’s end.</p>
+<p>The prosecutor general continued to review the case of police officer Linus Nzwane, who was charged with murder after Nzwane, while off duty shot and killed Joel Martin in Windhoek in August 2013.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices; however, police sometimes used excessive force when apprehending, interrogating, and detaining criminal suspects. The law does not define “torture,” potentially leading to legal ambiguity over any claims. In March, Paulina Abraham and Robert Shipa claimed police officers in Oshikango tortured them to extract confessions. On February 26, police arrested Abraham and Shipa for allegedly stealing 60,000 Namibian dollars (N$) ($5,400). Abraham and Shipa claimed police interrogated them for six hours at a time and beat them with batons and clubs. Police released them on February 28, and the two filed complaints with the National Human Rights Organization (NamRights), a local nongovernmental organization (NGO). The Oshikango police denied the allegations; an investigation continued at year’s end.</p>
+<p>Human rights bodies and prison officials reported the detention of both pretrial and convicted prisoners in overcrowded conditions. Persons in prostitution continued to allege that police regularly detained and coerced them to have sex before releasing them.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prisons remained somewhat overcrowded, and some prison buildings were dilapidated despite the ombudsman’s reports that conditions improved in recent years. Conditions were often less adequate in pretrial holding cells, where overcrowding and sanitation remained problems, tuberculosis was prevalent, and on-site nursing was inadequate.</p>
+<p><u>Physical Conditions</u>: Conditions in detention centers and police holding cells--sometimes located inside prisons--remained poor. Nationwide, prisons built to hold 4,475 inmates held 4,314 prisoners (including pretrial detainees) in 2012, the latest year for which data was available. These included 117 female prisoners and 238 juveniles. Overcrowding remained a problem in some of the largest prisons due primarily to the large number of pretrial detainees held in separate buildings. Because of a lack of prison facilities for juveniles, minors shared holding cells with adults.</p>
+<p>Conditions in police holding cells were sometimes poor, and overcrowding continued to be a problem in Windhoek, Ondangwa, Swakopmund, Oshakati, and Otjiwarongo. The Ombudsman’s Office reported in 2012 many holding cells were unsuitable for human habitation. The ombudsman reported no additional findings during the year. Three inmates sometimes shared a single blanket, since police management prohibited family members of prisoners from providing them with additional blankets.</p>
+<p>The Ombudsman’s Office reported that authorities gave prisoners three meals per day and provided adequate sanitation, potable water, space, bedding, toiletries, and washing facilities. Each prison had a clinic with a nurse, and inmates with serious health conditions were referred to state hospitals.</p>
+<p>Prison and holding-cell conditions for women were generally better than for men. In previous years officials moved female prisoners in Windhoek to less crowded facilities in outlying areas, although this made family visits more difficult. The government continued work on a new women’s prison in Windhoek to alleviate the problem. The Windhoek-based NGO Legal Assistance Center (LAC) reported female prisoners could keep their babies with them until two years of age, and they received food and clothing for the children from prison staff.</p>
+<p>According to the Ombudsman’s Office, more than 7 percent of the prison population was HIV positive. There were only limited programs to prevent HIV transmission in prisons. The government denied that male-to-male sex took place in prison and refused to distribute condoms despite prisoners’ requests. The government’s refusal appeared directly related to antisodomy provisions of the law.</p>
+<p>The law does not permit holding juvenile offenders with adults. Prison authorities reported that they largely observed the law, but police occasionally held juveniles with adults in rural detention facilities because of a lack of specific pretrial detainee facilities for juveniles.</p>
+<p>On January 24, Loise Kaambu killed four-year-old Fortuna Tenete in the women's cell at the Wanaheda Police Station following a fight with Tenete’s mother. Tenete had been incarcerated with his mother since his mother’s arrest for shoplifting in November 2013 and her failure to post bail. The Ombudsman’s Office investigated the killing and released a report on May 16 blaming the police for their failure to detain mothers with children separately from other adult prisoners. The inspector general of police denied the police were negligent in the case. He blamed the toddler’s death on the lack of separate facilities for mothers with children and on other government agencies for their failure to take custody of the child and remove him from the police cell. On May 19, Kaambu hanged herself at the Gobabis Central Prison.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was adequate. The Ombudsman’s Office was available to respond to complaints, investigated credible allegations of inhumane conditions, documented findings, and made written recommendations to the inspector general of police. The office did not have the authority to intervene in individual cases, however. The government investigated and monitored prison and detention center conditions. Prisoners and detainees had reasonable access to visitors and access to religious observances. Victims of prison abuse were able to pursue legal remedies, although lengthy delays were common. Detainees in the Caprivi treason trial sued the government for assault and deprivation of medical treatment following their arrest in 1999, and some of those cases were pending at the end of the year.</p>
+<p><u>Independent Monitoring</u>: The government continued to grant local and international NGOs access to prisons and prisoners but required that they seek permission to do so from the commissioner general of prisons. The International Committee of the Red Cross (ICRC) continued to visit detainees of the Caprivi treason trial (see full discussion below) in both Windhoek Central Prison and Oluno Prison and helped arrange for families to visit as well. The UN High Commissioner for Refugees (UNHCR) visited detained refugees and asylum seekers in prisons and detention centers.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit arbitrary arrest or detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Namibian Police (NamPol), which has approximately 12,000 employees, operates under the Ministry of Safety and Security. The Namibian Defense Force, which has an estimated 20,000 active duty members, is part of the Ministry of Defense. NamPol is responsible for internal security, while the defense force provides supplemental assistance in response to some natural disasters and antipoaching efforts.</p>
+<p>NamPol was highly centralized, with regional commands responsible to the inspector general of police. Authorities assigned approximately half of NamPol’s personnel to the Special Field Force assigned to guard duty, checkpoints, and the maintenance of public order. Civilian authorities maintained effective control over NamPol, and the government has effective mechanisms to investigate and punish abuse and corruption. Police corruption and impunity caused some problems. NamPol lacked the resources, training, and personnel to deter or investigate street crime effectively.</p>
+<p>Police continued to receive human rights training from various sources. The United Nations conducted a program on cases involving women and children. The LAC was also involved in designing human rights training for police, especially in cases involving child victims and witnesses and requiring interviewing skills.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Arrest warrants are not required in all cases, including when a suspect is apprehended while committing a crime. Authorities must inform persons arrested of the reason for their arrest and bring them before a magistrate within 48 hours of their detention, but the government did not always follow these provisions. Police generally informed detainees promptly of the charges against them. The constitution stipulates that the accused are entitled to defense by legal counsel of their choice, and authorities respected this right.</p>
+<p>The state-funded Legal Aid Directorate provided free legal assistance for indigent defendants in criminal cases and, as resources were available, in civil matters, including divorces. While the Legal Aid Directorate provided assistance in approximately 70 percent of all criminal cases, it continued to face severe resource constraints that hampered its ability to provide services effectively in all cases. The Ministry of Justice reported that between March 2013 and February 2014, the Legal Aid Directorate received 5,911 applications for legal assistance, of which 3,686 (62 percent) were approved and 766 (13 percent) were pending additional information from the applicants.</p>
+<p>There is a functioning bail system. Officials generally allowed detainees prompt access to family members. The constitution permits detention without trial during a state of emergency but requires publishing the names of detainees in the government’s gazette within 14 days, and an advisory board appointed by the president must review their cases.</p>
+<p><u>Pretrial Detention</u>: Lengthy pretrial detention remained a significant problem. The police inspector general stated that as of October there were 3,514 prisoners awaiting trial in holding cells across the country. The lack of qualified magistrates and other court officials, the high cost to the government of providing legal aid, slow or incomplete police investigations, and procedural postponements resulted in a serious backlog of criminal cases and delays between arrest and trial that could last years. The High Court and Prosecutor General’s Office continued to implement proposals made in 2010 to improve the pace of administering justice, including granting increased case management powers to judges.</p>
+<p>In 2011 the High Court’s judge president expressed concern about excessive delays in cases where a judge reserves his final decision to review the evidence. The courts continued to make progress in reducing delays, and the High Court registrar reported that during the year the court issued 78 percent of all reserved judgments within recommended timeframes.</p>
+<p>The High Court introduced required mediation in June as part of the court’s case management system for civil cases. From June until September, the High Court ordered 187 cases to mediation, of which 103 (57 percent) were settled, increasing the efficiency of the court and reducing the backlog of civil cases awaiting adjudication.</p>
+<p>The lack of a plea bargaining system to expedite cases and poor case management systems generally slowed the pace of trials, which could take years to complete.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary, and the courts continued to act independently, at times making judgments and rulings critical of the government. Inefficiency and lack of resources hampered the judicial system.</p>
+<p>Military courts try only members of the military and do not provide the same rights as civilian criminal courts. Customary courts hear most civil and petty criminal cases in rural areas. The law delineates which offenses may be handled under the customary system.</p>
+<p>Most rural citizens first encounter the legal system through the customary courts, which deal with infractions of local customary law among members of the same ethnic group. The law delineates the role, duties, and powers of traditional leaders and provides that customary law is invalid if it is inconsistent with the constitution. In some instances cases that had been resolved in customary courts were tried a second time in government courts.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and law provide for the right to a fair trial, but this right was compromised by long delays in hearing cases in the government courts and the uneven application of constitutional protections in the customary system. Defendants are presumed innocent. The law provides for defendants to be informed promptly (and in a language they can understand) of detailed charges against them and of their right to a public trial. There are no jury trials.</p>
+<p>Defendants have the right to be present at trial, to consult with an attorney in a timely manner, and--with their attorney--to have access to government-held evidence. Although indigent defendants are entitled to a lawyer provided by the state in criminal and civil cases including divorce cases, this sometimes did not occur due to an insufficient number of public defenders. The LAC reported that although the Supreme Court found that the state must provide legal assistance where gross injustice would occur otherwise, many cases of rape, murder, and other serious crimes continued without the accused having adequate legal representation. This was typically due to lack of resources or because Legal Aid did not accept the application for representation from one accused.</p>
+<p>Defendants may confront witnesses, present witnesses and evidence on their behalf, and have the right of appeal. The law extends these rights to all citizens. The courts provided defendants adequate time and facilities to prepare their defense. Defendants have the right not to testify against themselves or confess guilt.</p>
+<p>In 1999 Caprivi separatists attacked government facilities and buildings in Katima Mulilo, the capital of Caprivi region (renamed Zambezi region in 2013), in an attempt to separate the region from Namibia. A trial originally involving 131 detainees alleged to have participated in the attacks and 278 counts related to treasonous activities began in 2003. The complexity of the state’s case, resource constraints, personnel problems including the death of prosecutors and defense attorneys, and procedural matters prolonged the case for several years.</p>
+<p>By 2012 there had been 22 deaths in prison from natural causes of the accused Caprivi separatists. The High Court released one defendant after the prosecution conceded it had not been able to prove any of the charges against him. In 2012 the state rested its case against the remaining 108 defendants, and the defense submitted an application for acquittal of all defendants on all the charges due to lack of evidence. In February 2013 High Court Judge Elton Hoff acquitted 43 of those defendants on the ground the government failed to present sufficient evidence they had attempted to overthrow the state. In February 2014 the defense lawyers rested their case on behalf of the remaining 65 defendants and thus concluded the evidentiary phase of the trial. The prosecution team filed its closing arguments with the court in August. The prosecution and the defense presented closing arguments in December to Judge Hoff, who announced he would deliver his judgment on April 20, 2015.</p>
+<p>The separate trial of Albius Moto Liseli, whose 2009 arrest made him the last person arrested in connection with the Caprivi separatist plot, was scheduled to continue in January 2015.</p>
+<p>In July 2013 the Supreme Court ordered the retrial of 10 alleged secessionists convicted of treason in 2007 and sentenced to more than 30 years in prison. The Supreme Court ruled the High Court judge failed to recuse himself due to alleged bias against the defendants. One of the defendants died in prison in 2013. The nine remaining defendants claimed Namibian officials illegally abducted them from Botswana in 2002 and unlawfully brought them into the jurisdiction of the Namibian High Court. On November 27, the High Court ruled that the defendants were not illegally abducted and that the Namibia court had jurisdiction over them.</p>
+<p>Almost all the Caprivi defendants filed civil suits alleging unlawful arrest, torture at the time of their arrests, and excessive time in jail awaiting trial. The LAC represented the majority of the defendants and settled 15 cases during the year. Twelve defendants won out-of-court settlements, and three withdrew their suits. Twenty-seven cases remained in process, including 14 on behalf of estates of those who died in prison. Thirteen remaining cases were filed but not yet assigned to a judge by year’s end.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>NamRights categorized the surviving Caprivi detainees accused of high treason as “political prisoners,” while Amnesty International considered many of the Caprivi detainees possible prisoners of conscience because they were allegedly arrested solely on the basis of their actual or perceived political views, ethnicity, or membership in certain organizations. There were no other reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for access to a court to bring lawsuits seeking damages for or cessation of human rights violations. The constitution provides for administrative procedures to correct, as well as judicial remedies to redress, alleged wrongs. Civil court orders were mostly well enforced.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and there were no reports that the government failed to respect these prohibitions. The law allows intelligence services to monitor e-mails and internet usage with authorization from a magistrate, but it was not fully implemented by year’s end. The act also permits the interception of telephone calls and cell phone text messages.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section2"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Violence and Harassment</u>: In August a senior producer for radio at the Namibian Broadcasting Corporation (NBC) alleged that SWAPO party councilor Ambrosius Kandjii entered the NBC radio studio while she was on the air and verbally and physically assaulted her. The producer claimed that Kandjii had questioned NBC’s coverage of a controversial bill introduced by SWAPO, accused her of supporting an opposition party, and told her this was a “SWAPO studio” and not the public’s. Kandjii allegedly threw a chair at the producer. There was no investigation or arrest in this matter.</p>
+<p><u>Censorship or Content Restrictions</u>: Journalists working for state-owned media claimed they practiced self-censorship because of criticism by SWAPO parliamentarians and others that state-owned media did not do enough to support government policies.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communication without appropriate legal authority. The law allows the intelligence services to monitor e-mails and internet usage with authorization from any magistrate. Civil society noted some allegations and rumors that the government reviewed ways to block or curtail social media sites, but there was no concrete evidence of such action. According to the International Telecommunication Union, 14 percent of individuals used the internet in 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>Government regulations require government authorization for all research projects undertaken in the country, which civil society feared could have a chilling effect on research. At year’s end the government had not implemented the regulations and had agreed to review them in response to a public campaign to challenge the regulations.</p>
+<p>All government-owned institutions of higher learning, including the University of Namibia, Polytechnic of Namibia, and the Windhoek College of Education, continued to ban political events on their campuses.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for the freedoms of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the UNHCR and other humanitarian organizations in protecting and assisting refugees, returning refugees, asylum seekers, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees.</p>
+<p>As of September the UNHCR received 228 asylum requests, with almost 80 percent of the asylum seekers coming from the Democratic Republic of the Congo. As of September 15, there were 3,790 asylum seekers and refugees registered with the UNHCR and the government. After the Democratic Republic of the Congo, the largest numbers of refugees came from Burundi and Zimbabwe, followed by Rwanda and Somalia. The government continued to issue identification cards to all refugees to facilitate travel outside their settlement.</p>
+<p>The government continued to maintain strict control over civilian access to the Osire refugee settlement; however, the (ICRC, UNHCR, and UNHCR’s NGO partners had regular and unrestricted access to the camp.</p>
+<p><u>Employment</u>: Refugees wishing to leave Osire Camp to work outside the settlement were required to seek government permission and work permits.</p>
+<p><u>Durable Solutions</u>: More than 1,700 former refugees from Angola resided in the Osire refugee settlement, unwilling to repatriate to Angola. The government agreed to allow them to remain and become locally integrated. During the year t<em>he government began the process of issuing permanent residence permits in passports supplied by the Angolan authorities.</em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section3"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law provide citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In the 2014 presidential and parliamentary elections, voters elected SWAPO candidate Hage Geingob as president with 86 percent of the vote. SWAPO candidates won 77 of the 96 elected seats in the National Assembly, the lower house of parliament (there are also eight appointed seats). International observers characterized the election as generally free and fair.</p>
+<p><u>Political Parties and Political Participation</u>: There continued to be allegations that individuals who were not members of SWAPO had difficulty finding civil service employment or winning government tenders.</p>
+<p><u>Participation of Women and Minorities</u>: Prior to elections held in November, women held 22 of 78 seats in the National Assembly. There were also seven women in the 26-seat National Council, the upper house of parliament. There were five female ministers and six female deputy ministers among the 41 ministerial and deputy ministerial officers. There were three female judges among the 11 permanent judges on the High Court.</p>
+<p>Virtually all of the country’s ethnic minorities had representation in parliament and in senior positions in the cabinet. Historic economic and educational disadvantages limited the participation of some indigenous ethnic groups in politics. Although some perceived the SWAPO party as dominated by the majority Ovambos, members of minority ethnic groups held the offices of prime minister, deputy prime minister, speaker of the National Assembly, and deputy chairperson of the National Council prior to elections held in November. Ethnic representation in the new government was unclear at year’s end. A SWAPO party constitutional amendment requiring gender parity at all levels of the party structure took effect on August 26.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section4"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials; however, the government did not implement the law effectively, and officials sometimes engaged in corrupt practices with impunity. There were isolated reports of government corruption during the year.</p>
+<p>During the year the Anti-Corruption Commission (ACC) continued awareness campaigns and workshops for government officials, politicians, civil society organizations, church leaders, and schoolchildren on the dangers of corruption.</p>
+<p><u>Corruption</u>: The ACC, Prosecutor General’s Office, NamPol, Auditor General’s Office, Financial Investigative Center at the Bank of Namibia, Public Service Commission, and Ombudsman’s Office are responsible for combating corruption. The ACC and the Ombudsman’s Office receive and investigate corruption complaints, often from the public. The Financial Investigative Center investigates and reports suspicious money transfers. The Public Service Commission investigates corruption complaints in the civil service hiring process. The Auditor General’s Office also investigates corruption and turns cases over to the Prosecutor General’s Office and NamPol for further investigation and criminal prosecution where appropriate. These organizations actively collaborated with civil society, conducted thorough investigations, and operated both effectively and independently.</p>
+<p>During the year the ACC conducted several investigations into corruption. According to a local monthly magazine that tracks corruption, there were 453 cases of corruption before the courts since 2005. By year’s end 83 of those had been resolved.</p>
+<p>On March 10, the High Court charged suspended magistrate Melanie Theron with corruption after she allegedly collected and pocketed N$6,600 ($590) from traffic offenders whose fines were overdue. In return she allegedly cancelled their arrest warrants and withdrew their cases from her court. A trial was scheduled for January 2015.</p>
+<p>In May the Swakopmund Magistrate’s Court found police officer Johannes Geiseb guilty of corruption and sentenced him to a N$1,500 ($134) fine or two years’ imprisonment. Geiseb had solicited a bribe of N$100 ($9) in 2013 from a resident in return for ignoring an arrest warrant against the resident for failure to pay a traffic fine.</p>
+<p>Police finished their investigations against three employees of the Walvis Bay Magistrate’s Court arrested in 2013 for allegedly soliciting illegal payments from motorists to cancel traffic tickets and arrest warrants. All three cases were with the Prosecutor General’s Office at year’s end.</p>
+<p><u>Financial Disclosure</u>: The National Assembly has not adopted a parliamentary code of conduct to make the annual declaration of financial interests a requirement. The National Council, however, has a code of conduct and annually produces a register. Civil society organizations charged the law did not preclude government officials from engaging in private business that pose a conflict of interest with their government duties and proposed amendments to do so. Parliament discussed those proposals but did not take action by year’s end.</p>
+<p><u>Public Access to Information</u>: No law provides for public access to government information, and media outlets generally found the government unwilling to provide information, including salary scales for public officials. Civil society sought enactment of a law to ensure access to information, but the government did not take any steps to address the proposal.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section5"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were somewhat cooperative and responsive to their views. The Ombudsman’s Office, NamRights, and the ACC reported NamPol cooperated and assisted in corruption and human rights investigations.</p>
+<p>NamRights and the LAC, both independent organizations, were the primary human rights NGOs in the country, and police regularly met with both. The LAC often assisted police with human rights training and helped women and child protection units provide legal assistance for victims in cases of gender-based violence and rape. NamRights reported allegations of police brutality and abuse of power.</p>
+<p><u>Government Human Rights Bodies</u>: There is an autonomous ombudsman with whom other government agencies cooperated. Observers considered him effective in addressing some corruption and human rights problems. Between January and September, the Ombudsman’s Office received 152 human rights-related complaints from the public. These included alleged violations of the right to a fair trial, illegal detention, delays in completing criminal appeals, and alleged assaults by prison officials.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section6"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law prohibit discrimination based on race, creed, gender, language, disability, or social status, or religion and specifically prohibit “the practice and ideology of apartheid.” The government did not effectively enforce all prohibitions.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law defines rape in broad terms and allows for the prosecution of spousal rape. The courts heard numerous prosecutions for rape during the year, and the government generally enforced penalties providing between five and 45 years’ imprisonment for those convicted. Government officials reported an increase in the number of reported rapes from 1,085 in 2011 to 1,119 in 2012, the latest year for which information was available. Women’s groups and NGOs believed the actual prevalence of rape was higher, with only a small fraction of cases prosecuted and fewer still resulting in a conviction.</p>
+<p>The LAC’s statistics indicated that more than one-third of rape victims withdrew their court cases due to receiving compensation from the accused, succumbing to family pressure, shame, or threats, or discouragement at the length of time involved in prosecuting a case. Factors hampering rape prosecutions included lack of police transport, poor communication between police stations, lack of expertise in dealing with child rape complainants, and the withdrawal of allegations by alleged victims after the filing of charges.</p>
+<p>According to LAC statistics, police arrested suspects in approximately 70 percent of reported rape cases; a court of law convicted only 18 percent of these arrested suspects. Most cases are heard by traditional authorities rather than in government courts. A 2011 article in the <i>Namibian Law Journal </i>complained that judges were applying “inconsistent and problematic” approaches to sentencing rapists, a critique that continued to be made.</p>
+<p>Gender-based violence received national attention by the government and in the media during the year. Police reported more than 40 women were killed by men in the first half of the year. On March 6, President Pohamba led a national day of prayer against gender-based violence to highlight the problem. The cabinet held a special session to review the issue, and the president issued 14 directives to government ministries to coordinate their response to gender-based violence. In June the Prime Minister’s Office organized the second national conference on gender-based violence.</p>
+<p>The government, NGOs, and civil society partners continued to implement the 2012-16 action plan of zero tolerance for gender-based violence and human trafficking.</p>
+<p>The law prohibits domestic violence, but the problem was widespread. Penalties for domestic violence, which includes physical abuse, sexual abuse, economic abuse, intimidation, harassment, and serious emotional, verbal, or psychological abuse, range from a fine of N$300 ($27) for simple offenses to 10 years’ imprisonment and a fine for assault with intent to cause grievous bodily harm. NamPol does not collect separate crime data on domestic violence.</p>
+<p>No official information was available on enforcement of the antidomestic violence law except as it involved rape. The law provides for the issuance of protection orders in cases of domestic violence and specifies that certain crimes of violence--including murder, rape, and assault--should be handled differently if the crimes take place within a domestic relationship. When domestic violence cases were reported to authorities, women and child protection units intervened.</p>
+<p>There were 15 women and child protection units staffed with police officers, social workers, legal advisors, and medical personnel trained to assist victims of sexual assault. The Ministries of Justice, Health and Social Services, and Gender Equality and Child Welfare, along with NGOs, continued to provide training to these units. Some magistrate courts provided special courtrooms to protect vulnerable witnesses from open testimony; the courtrooms featured a cubicle constructed of one-way glass and child-friendly waiting rooms. The Ministry of Gender Equality and Child Welfare funded a shelter for victims of gender-based violence in the Khomas region and provided grants to support privately run shelters in the regions of Kavango, Ohangwena, Omusati, Kunene, Karas, Zambezi, and Otjozondjupa.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No law specifically prohibits FGM/C for women or girls. During the year there were no reports of FGM/C of women age 18 or older.</p>
+<p><u>Sexual Harassment</u>: The law explicitly prohibits sexual harassment in the workplace. Employees who leave their jobs due to sexual harassment may be entitled under the law to “remedies available to an employee who has been unfairly dismissed.”</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely and responsibly the number, spacing, and timing of their children; to have the information and means to do so; and to attain the highest standard of reproductive health, free from discrimination, coercion, and violence. There are no government restrictions on the provision of contraceptives except to children under 18, the legal age of consent for medical treatment. Women who lived in urban areas had better access to skilled attendance during childbirth and postpartum care than those who lived in rural areas. According to statistics released in 2013 by the UN Population Fund, the country’s maternal mortality ratio in 2013 was 130 per 100,000 live births, a decrease from 200 per 100,000 live births in 2010. General lack of access to effective health care in treating eclampsia, hemorrhage, and obstructed or prolonged labor contributed to maternal mortality. HIV/AIDS was the leading indirect cause of maternal mortality, linked to almost 14 percent of maternal deaths. The UN Children’s Fund (UNICEF) reported that unsafe abortions accounted for nearly 20 percent of maternal deaths.</p>
+<p>Dozens of women with HIV were subjected to forced or coerced sterilization at public hospitals throughout the country in recent years. In November the Supreme Court upheld a lower court ruling that three women with HIV did not give their informed consent for sterilization and were entitled to compensation. The Supreme Court ruled, however, there was no evidence the government sterilized the women because they were HIV positive.</p>
+<p><u>Discrimination</u>: The law prohibits gender-based discrimination, including employment discrimination (see section 7.d.). Women nonetheless experienced discrimination in such areas as credit, pay, owning and managing businesses, education, and housing. The law prohibits discriminatory practices against women married under civil law, but women who are married under customary law continued to face legal and cultural discrimination. Traditional practices continued that permit family members to confiscate the property of deceased men from their widows and children.</p>
+<p>The custom by which a widow or widower marries the brother or sister of a deceased to ensure that the surviving spouse and children are cared for is practiced in some areas of the country. Anecdotal evidence suggested that the prevalence of these practices had decreased in recent years, however, and during the year occurred mostly with the consent of both parties.</p>
+<p>The Ministry of Gender Equality and Child Welfare is responsible for advocating women’s rights. The Ministry of Justice’s Law Reform and Development Commission advocated for women’s rights in legislation.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The constitution provides for citizenship by birth to those born within the country’s territory to a citizen parent or a foreign parent ordinarily resident in the country, or to those born outside the country to citizen parents. According to the Ministry of Home Affairs and Immigration, approximately 98 percent of Namibians had a birth certificate or other identifying document. Although prohibited by law, anecdotal evidence suggested teachers in regions bordering Angola, Zambia, Zimbabwe, and Botswana sometimes refused to teach children who could not prove citizenship. Parents who did not register their children at birth often faced a difficult subsequent registration process and long delays. If a child’s parents died before registering their child with the government, and if the child did not obtain the needed death certificates or other necessary documentation for his or her parents, the child faced still greater challenges in proving citizenship and accessing government services.</p>
+<p>The Ministry of Home Affairs and Immigration, in partnership with UNICEF, continued efforts to provide birth certificates for newborns at clinics and hospitals throughout the country, including through mobile registration vans and newly created birth registration offices at 11 high-volume hospitals.</p>
+<p><u>Education</u>: The constitution requires compulsory, tuition free, and universal primary and junior secondary education until the age of 16; i.e., first through 10th grades. In 2013 the Ministry of Education abolished all primary school fees, including for uniforms, books, boarding costs, and school improvement, since those fees were, in effect, tuition fees that prevented poor children from attending primary school.</p>
+<p>Secondary schools generally enrolled more girls than boys. Many children, including children from destitute families, did not attend school, but the government continued to provide mobile schools for children who lived in semipermanent settlements.</p>
+<p><u>Child Abuse</u>: Child abuse was a serious problem, and authorities prosecuted crimes against children, particularly rape and incest, if reported. According to police records and media reports, in 2011 approximately 750 children and juveniles were killed, raped, or assaulted. In 2012 (the latest year for which there were statistics) that number grew to approximately 870. Police reported three cases of incest perpetrated on a child in 2012 (the latest year for which there were statistics), up from one in 2011. NGOs who work on children’s issues believed the true incidence of child abuse greatly exceeded the number of reported cases.</p>
+<p><u>Early and Forced Marriage</u>: The law prohibits civil marriages before the age of 18 for both boys and girls; however, child marriage occurred in customary ceremonies. According to the Namibian Statistics Agency, 3.4 percent of girls and 2 percent of boys who married in 2011 were under age 18.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: No law specifically prohibits FGM/C of women or girls. During the year there were no reports of FGM/C perpetrated on children.</p>
+<p><u>Other Harmful Traditional Practices</u>: The women’s rights organizations Sister Namibia and the Women’s Leadership Center continued to condemn cultural practices of initiation sex for young girls, including dry sex (the practice of applying astringents to the vagina before sexual intercourse to enhance male pleasure) and the stretching of the labia minora.</p>
+<p><u>Sexual Exploitation of Children</u>: The law criminalizes the actions of both the client and the pimp in cases of sexual exploitation of children under age 18, and it also criminalizes child pornography and child prostitution.</p>
+<p>Sexual exploitation of children occurred. NGOs that worked with persons in prostitution reported that in most cases children engaged in prostitution without third-party involvement due to economic pressures on the child or as a means of survival among HIV/AIDS orphans and other vulnerable children. The NGOs and social workers reported that children often entered prostitution between the ages of 12 and 14. Child prostitution occurred in Windhoek and Walvis Bay, and foreign nationals from southern Africa and Europe were among the clientele of children in prostitution. Such children allegedly often had been abused before leaving home to enter the sex trade. Older partners’ offers of money, cell phones, or other gifts lured others.</p>
+<p>The maximum penalty for soliciting a child under age 16 for sex, or more generally for commercial sexual exploitation of a child (including through pornography), is a fine not exceeding N$40,000 ($3,600), imprisonment for a term not exceeding 10 years, or both. Exposing a child to pornography is also illegal. Penalties for cases involving 16- or 17-year-olds are the same as for adults. The law makes special provisions to protect vulnerable witnesses, including those under age 18 or against whom a sexual offense has been committed.</p>
+<p>The client of a prostitute under age 16 may be imprisoned for up to 15 years for a first offense and up to 45 years for repeat offenses. Any person who aids and abets trafficking in persons--including child prostitution--either within the country or across the border is liable to a fine of up to one million Namibian dollars ($89,000) or imprisonment for up to 50 years. The solicitation of a prostitute, living off the earnings of prostitution, or keeping a brothel carries a penalty of N$40,000 ($3,600), 10 years in prison, or both. Anyone found to be soliciting in public is also guilty of an offense under the law. The constitution’s strict protection of privacy and the law’s emphasis on deleterious and financial aspects of prostitution rather than the sex act itself, however, hindered police in making arrests for prostitution.</p>
+<p>The minimum legal age for consensual sex is 16. The penalty for statutory rape (sex with a child under the age of 14) is a minimum of five years in prison. There is no minimum penalty for sexual relations with a child between the ages of 14 and 16. Possession of or trade in child pornography is also illegal. The government continued to train police officials to improve the handling of child-sex abuse cases. Centers for abused women and children worked to reduce the trauma suffered by abused children.</p>
+<p>Neither the government nor civil society keeps statistics on sex tourism, although there was anecdotal evidence that a small amount of it existed.</p>
+<p>HIV/AIDS orphans--although declining in number during the year--were especially vulnerable to sexual abuse and exploitation.</p>
+<p><u>Infanticide or Infanticide of Children with Disabilities</u>: The media continued to report numerous cases in which parents, usually young mothers, abandoned and sometimes killed newborns for whom they believed they were not able to care. The government enforced prohibitions against this practice.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There was a Jewish community of approximately 100 individuals and no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution protects the rights of “all members of the human family,” which domestic legal experts understand to prohibit discrimination against persons with disabilities. The law prohibits discrimination against persons with physical and mental disabilities in employment, health care, education, or the provision of other state services. The law prohibits discrimination in any employment decision based on a number of factors, including any “degree of physical or mental disability” (see section 7.d.). It makes an exception in the case of a person with a disability if that person is, because of disability, unable to perform the duties or functions associated with the employment or occupation in question. Enforcement in this area was ineffective, and societal discrimination persisted. Seventeen cases of discrimination were registered with the government’s National Disability Council of Namibia since its establishment in 2004. The council helped implement the government’s national policy on disability and raise awareness among the public.</p>
+<p>The government requires that all new government buildings be accessible and include ramps and other features. The government, however, neither mandates access to public buildings generally nor requires retrofitting of government buildings. Some ministries thus remained inaccessible. Some street corners in the capital were outfitted with special signal crossings for persons with vision disabilities, and there were sidewalk cuts for those using wheelchairs.</p>
+<p>Children with disabilities attended mainstream schools. The rights of persons with disabilities to vote and otherwise participate in civic affairs are not restricted by law, but infrastructural challenges at public venues hindered the ability of persons with disabilities to participate in civic life.</p>
+<p>The Office of the Prime Minister’s Disability Advisory Council is responsible for overseeing concerns of persons with disabilities and coordinating the implementation of policies on the disabled with government ministries and agencies.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Despite constitutional prohibitions, societal, racial, and ethnic discrimination persisted. Some citizens continued to accuse the government of providing more development assistance and professional opportunities to the Ovambo, the largest ethnic group.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>Other ethnic groups have historically exploited the San, the country’s earliest known inhabitants. By law all indigenous groups participate without discrimination in decisions affecting their lands, cultures, traditions, and allocation of natural resources. The San and other indigenous citizens such as the Ovahimba and Ovatue, however, were unable to exercise these rights fully because of minimal access to education, limited economic opportunities, and their relative isolation. The San people live in rural areas that lacked schools and medical facilities. When those facilities were available, teachers and nurses often did not speak any of the San languages. San people had difficulty obtaining a government identification card because they frequently lacked birth certificates and other documentary proof of identification. Without a government-issued identification card, the San could not access government social programs or register to vote. The lack of police presence and courts prevented San women from reporting and seeking protection from gender-based violence. Indigenous lands were effectively demarcated but poorly managed. Many San tribes lived on conservancy (communal) lands but were unable to prevent the surrounding stronger ethnic groups (such as the Ovambo) from using and exploiting the San lands for their own purposes. The San claimed that regional officials refused to remove the other ethnic groups from the San lands. NGOs such as the Namibia San Council, the Working Group of Indigenous Minorities and Southern Africa, the LAC, and NamRights helped San communities assert their basic human rights during the year.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Although the country’s Roman-Dutch common law inherited at independence criminalizes sodomy and remains on the books, the ban was not enforced. Sodomy is defined as intentional anal sexual relations between men. This definition excludes anal sexual relations between heterosexual couples and sexual relations between lesbians. Many citizens considered all same-sex sexual activity taboo, however. The prohibition against sexual discrimination in the constitution does not prohibit discrimination on the basis of sexual orientation.</p>
+<p>Some politicians publicly stated their opposition to considering legislation, even though not proposed during the year, that could specifically protect the rights of lesbian, gay, bisexual, and transgender (LGBT) persons. The newly formed Namibian Economic Freedom Fighters political party criticized homosexuality as a threat to the country, compared it to the Ebola virus, and claimed it must be contained.</p>
+<p>OutRight Namibia, an organization that advocates for LGBT rights, continued to report that police generally did not take complaints of violence against LGBT persons seriously. It claimed police often ridiculed LGBT persons when they reported cases of abuse, and this secondary victimization often dissuaded victims from reporting. The organization reported that beginning in 2011, however, the Office of the Ombudsman and the Ministry of Health and Social Services strengthened their relations with the LGBT community and included that community in the National Strategic Framework for HIV/AIDS 2010-16 as a group requiring outreach.</p>
+<p>Societal discrimination and violence against LGBT persons remained a problem. The Ombudsman’s Office reported that LGBT persons were often subject to ridicule and even physical and verbal abuse when they walked in a different neighborhood from their own. In September a man sexually assaulted a lesbian in Windhoek because he wanted to “cure” her of her lesbianism. When she sought medical help at a state hospital, the receptionist told her to return later and publicly announced the lesbian had been raped.</p>
+<p>The Ombudsman’s Office reported that many cases of human rights violations against LGBT persons went unrecorded, including the use of “corrective rape” against lesbians, families disowning LGBT children, and the beating of LGBT persons. A large number of LGBT youth were unemployed, did not go to school, abused drugs and alcohol, and remained vulnerable to discrimination.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>Societal discrimination against and stigmatization of persons with HIV/AIDS remained a problem. A demographic and health survey conducted in 2006-07 (the latest information on the topic) found 25 percent of women and 28 percent of men reported discriminatory attitudes towards those with HIV.</p>
+<p>Military and police recruits were tested for HIV, and those found positive were unable to join, but military members who test positive for HIV while in the service received treatment and were allowed to stay in the military. Some jobs in the civilian sector require a pre-employment test for HIV, but there were no reports of employment discrimination specifically based on HIV/AIDS status. The LAC contended the disease was often deemed an incapacity in the private sector, and employers often sought other bases for dismissal once they became aware of an employee’s positive HIV status. The government supported the work of the Namibia Business Coalition against HIV/AIDS to eliminate discrimination in the workplace.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section7"> </span><span class="st_twitter" st_title="Namibia #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Namibia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236388%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right to form and join independent unions, conduct legal strikes, and bargain collectively; however, the law prohibits workers in “essential services” from joining unions. There is no legal provision providing for the right of trade unions or federations of trade unions to establish or join confederations.</p>
+<p>Except for workers in public health, safety, and other essential services, workers have the right to strike once conciliation procedures are exhausted and 48 hours’ notice has been given to the employer and labor commissioner. Strike action can be used only in disputes involving specific worker interests, such as pay raises.</p>
+<p>Disputes over worker rights, including dismissals, must first be submitted to conciliation and then are referred to a labor court for arbitration if conciliation is unsuccessful. The law provides for arbitration and conciliation to resolve labor disputes more quickly, although employers and unions publicly questioned the system’s effectiveness. The law prohibits unfair dismissal of workers engaged in legal strikes, specifically prohibits employer retaliation against both union organizers and striking workers, and provides for reinstatement for workers dismissed for union activity as long as the workers’ actions at the time were not in violation of other laws.</p>
+<p>The law provides employees with the right to bargain individually or collectively and for recognition of the exclusive collective bargaining power of the union when a majority of the workers are members of that union. The law provides for the protection of all workers, including migrants, nonessential public sector workers, domestic workers, and those in export processing zones.</p>
+<p>The government generally enforced this law, but not always effectively. The Namibian Employers’ Federation reported that a shortage of labor inspectors and other resources constrained the government’s ability to be fully effective in enforcing its laws. The Ministry of Labor and Social Welfare continued to cite lack of information and basic negotiation skills as factors hampering workers’ ability to bargain with employers successfully.</p>
+<p>In general the government and employers respected freedom of association and the right to collective bargaining, and workers exercised these rights. Many trade unions officially were affiliated with the SWAPO party, which many workers argued limited their independence in promoting worker rights. Aside from mediation efforts, the government was not directly involved in union activities. Employers also did not appear to interfere in union activities.</p>
+<p>Farm workers and domestic servants working on rural and remote farms often did not know their rights. When attempting to organize these workers, unions experienced obstacles such as being prohibited from entering commercial farms. Some activists alleged political interference in rural areas as well. As a result some farm workers reportedly suffered abuse by employers, including poor access to health care.</p>
+<p>Workers called strikes during the year in mining, fishing, and transportation sectors; the strikes were more numerous than in 2013. The majority of strikes involved employees seeking higher pay, more benefits, or improved working conditions. The most serious one was a two-week strike at Namdeb Diamond Corporation, a gem-producing joint venture between Anglo-American’s De Beers unit and the government. All strikes were resolved in accordance with the rule of law.</p>
+<p>Collective bargaining was not practiced widely outside the mining, construction, agriculture, and public-service sectors. Almost all collective bargaining was at the workplace and company level. Employers respected the collective bargaining process.</p>
+<p>The law requires employers to provide equal benefits to all their employees. Employers may apply to the minister of labor and social services for an exemption to these provisions if they can prove workers’ rights are protected, but very few employers pursued this option.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, including by children. The law provides that persons found guilty of forced or compulsory labor face a maximum fine of N$20,000 ($1,800), four years’ imprisonment, or both. The government in general did not effectively enforce the law. The government did not report any formal allegations of forced or compulsory labor and investigated child labor when reported. Resources, inspections, and remediation were inadequate. Penalties for violations, including a maximum fine of N$20,000 ($1,800) four years’ imprisonment, or both were insufficient to deter violations.</p>
+<p>Forced labor occurred. Traffickers exploited children in agriculture, cattle herding, and domestic service. There continued to be media reports that farm workers on communal farms and domestic workers often received inadequate compensation for their labor and were subject to strict control by employers, including physical punishment and prolonged work hours. The alleged victims were usually migrant women and children. Among ethnic groups, San girls were particularly vulnerable to forced labor on farms or in homes.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for employment is 14 years, with higher age requirements for night work and in certain sectors such as mining and construction. Children between the ages of 14 and 16 may not work in hazardous or harmful conditions, but the Ministry of Labor and Social Welfare had not approved a proposed list of such hazardous or harmful conditions by year’s end. The law prohibits children between the ages of 14 and 16 from working between the hours of 8 p.m. and 7 a.m. The law also prohibits children from working underground or in a mine; on a construction site or other area where demolition takes place; or in facilities where goods are manufactured or electricity is generated, transformed, or distributed or machinery is installed or dismantled. The same conditions apply to children between the ages of 16 and 18, except for the ban on working under hazardous or harmful conditions. The minimum age of employment was inconsistent with the age for completing education requirements. The law provides that persons found guilty of employing children face a maximum fine of N$20,000 ($1,800), four years’ imprisonment, or both.</p>
+<p>The government does not have a dedicated institution to implement and enforce child labor laws. For enforcement the government relied on regular labor inspections as well as other monitoring mechanisms for orphans and other vulnerable children. There were an estimated 67 labor inspectors during the year. The government trained all to identify the worst forms of child labor. The Ministry of Labor and Social Welfare made special provisions in its labor inspections to look for underage workers, and it prioritized such special investigations, often targeting smaller towns and districts. Small-scale labor inspections continued on a regular basis. The Ministry of Labor and Social Welfare created a Child Labor Desk to manage cases involving child labor. There were no prosecutions by year’s end, however.</p>
+<p>In view of the Ministry of Labor and Social Welfare’s resource constraints in vehicles, budget, and personnel, as well as difficulty in gaining access to some large communal and family-owned commercial farms and private households, labor inspectors sometimes found it difficult to investigate possible labor code violations. Inspections of family-owned farms continued to be problematic and controversial, since the country’s constitution enshrines privacy as a fundamental right. The law, however, makes an exception to the right to privacy in the case of labor inspectors’ gaining access to family farms. NGOs complained that access to private farms was one of the leading challenges in preventing child labor.</p>
+<p>The Ministry of Gender Equality and Child Welfare continued to conduct several programs aimed at encouraging parents and guardians to allow children to attend school. The Ministry of Gender Equality and Child Welfare and the Ministry of Health and Social Services coordinated welfare programs for orphans, including those affected by HIV/AIDS, through grants and scholarships to keep them in school. In partnership with the International Labor Organization, the government also participated in a four-year program to withdraw and prevent children from entering exploitive labor in agriculture and adult-coerced criminal activity. The government continued to distribute a comprehensive guide on the labor law, which included a section on child labor. The government also continued to work with NGOs, such as Project Hope, to assist victims of child labor.</p>
+<p>Child labor continued to be a problem. There were no child labor statistics. Children worked mostly on private and commercial farms; herded cattle, goats, and sheep; worked as child minders or domestic servants; and worked in family businesses. The media continued to report that children on communal farms and domestic workers were subject to strict control by employers, including physical punishment and long work hours. Many such workers were not allowed to attend school.</p>
+<p>Sectors in which children were involved in the worst forms of child labor included agriculture and livestock, domestic service, and the commercial sex industry.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor </i>at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The labor law prohibits discrimination in employment and occupation based on race, sex, gender, disability, language, gender identity, and HIV-positive status or other communicable diseases, or social status, and the government in general effectively enforced the law.</p>
+<p>Discrimination in employment and occupation occurred with respect to gender (see section 6). While the law requires equal pay for equal work, men continued to dominate positions of upper management in both private and public sectors.</p>
+<p>Migrant workers enjoy the same legal protections, wages, and working conditions as citizens.</p>
+<p>The Ministry of Labor and Social Welfare and the Employment Equity Commission, both of which report to the minister of labor, are responsible for addressing complaints of discrimination in employment. Neither was effective, however, due to the backlog of cases.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>There was no statutory minimum wage law, but the mining, construction, security, and agricultural sectors set basic levels of pay in each of their sectors through collective bargaining. In the latest comparative analysis of Namibia Household Income and Expenditure Surveys (NHIES), the Namibia Statistics Agency reported that in 2009-10, Namibians were considered “poor” if they earned less than N$378 ($34) per month, and “severely poor” if they earned less than N$278 ($25) per month. According to the NHIES, 29 percent of Namibians lived below the poverty line in 2009-10 (9 percent fewer than in 2003-04), and 16 percent of the population was extremely poor.</p>
+<p>The standard legal workweek was 45 hours, with at least one 36-consecutive-hour rest period between workweeks. An employer may require no more than 10 hours per week of overtime, and the law requires premium pay for overtime work. The law mandates 20 workdays of annual leave per year for those working a five-day workweek, at least 30 workdays of sick leave over a three-year period, and three months of maternity leave paid by the employer and the Social Security Commission.</p>
+<p>The Ministry of Labor and Social Welfare mandates occupational safety and health standards, and the law empowers the president to enforce these standards through inspections and criminal penalties. The law requires employers to ensure the health, safety, and welfare of their employees. It provides employees with the right to remove themselves from dangerous work situations. The law covers all employers and employees in the country including individuals placed by a private employment agency (labor hire), except independent contractors and members of the National Defense Force, Namibian Intelligence Service, the Prison Service, and NamPol.</p>
+<p>The government did not always enforce labor laws effectively. Inspections occurred proactively, reactively, and at random. The Ministry of Labor and Social Welfare established a national task force on safety but lacked an adequate number of trained inspectors to monitor adherence, especially in small family-owned operations. The law provides that persons found guilty of violating safety regulations face a maximum fine of N$2,000 ($180), six months’ imprisonment, or both, and the penalties were insufficient to deter violations.</p>
+<p>Labor law violations occurred. The Namibian Employers’ Federation reported most prominent offenses concerning employee rights and working conditions were in the informal sector, including the common informal bars known as “shebeens.” Most offenders were Chinese owners of retail shops, who underpaid and overworked their employees.</p>
+<p>Concerns continued that, apart from failing to adhere to the labor code concerning hiring and firing, Chinese firms allegedly continued to fail to pay established minimum wages and benefits in certain industries, failed to respect work hour regulations for public holidays and Sundays, and ignored occupational health and safety measures, such as requiring construction workers to sleep on site. On September 23, more than 70 workers demonstrated at the port of Walvis Bay. The workers alleged that the Chinese company constructing the container terminal expansion project engaged in unfair labor practices and mistreatment, and failed to provide the same benefits as those afforded the Chinese workers. The Chinese company suspended the workers who demonstrated. The National Union of Namibian Workers helped settled the strike a week later, and the Chinese company promised to address the complaints.</p>
+<p>Migrant workers have the same legal rights as citizens.</p>
+<p>By law employees have the right to remove themselves from dangerous work situations, and authorities effectively protected employees in this situation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

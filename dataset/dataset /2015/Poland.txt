@@ -1,0 +1,490 @@
+2015
+Poland
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887"> </span><span class="st_facebook" st_title="Poland" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252887">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252887</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=executive"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Poland is a republic with a multiparty democracy. The bicameral parliament consists of an upper house, the Senate (Senat), and a lower house (Sejm). The president, the prime minister, and the council of ministers share executive power. Observers considered the presidential elections in May and the October 25 parliamentary elections free and fair. Civilian authorities maintained effective control over the security forces.</p>
+<p>Among the country’s principal human rights problems were xenophobic and racist incidents, including both hate speech and hate crimes involving violence, and cases of anti-Semitism. Local nongovernmental organizations (NGOs) noted that police investigations of cases involving anti-Semitic and xenophobic acts often did not lead to the apprehension of perpetrators and that some prosecutors declined to pursue cases of hate crimes and hate speech. An increasing backlog of cases and lengthy court procedures, which impeded the delivery of justice, continued to be a human rights problem. Criminal defamation laws restricted freedom of speech and press by discouraging speech, publications, and material on the internet critical of public officials.</p>
+<p>Other human rights problems included mistreatment of detainees at time of arrest and during questioning, abuse of prisoners by guards, compulsory hormone therapy to lower sex drive for some convicted sex offenders, and at times inadequate cell space and exercise space in detention centers. Sometimes there were restrictions on prisoners’ contacts with family and other persons outside the prison. Delays in the restitution of private property continued. Official corruption remained a problem, despite enforcement efforts. Burdensome procedures discouraged appropriate classification and treatment of domestic violence as a crime. Societal problems included discrimination against women in the labor market, abuse and sexual exploitation of children, trafficking in persons, and discrimination and violence against ethnic minorities as well as lesbian, gay, bisexual, transgender, and intersex (LGBTI) persons. Violations of workers’ rights to organize and join unions and to strike as well as antiunion discrimination also occurred. The government did not always effectively enforce laws governing the work of minors between ages 16 and 18.</p>
+<p>The government generally enforced human rights and took steps to prosecute officials who committed abuses, whether in the security services or elsewhere in government.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section1"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices. There were problems, however, with police misconduct and corrections officers’ abuse of prisoners. The law lacks a clear legal definition of torture, which authorities did not report as a separate crime, but all actions that could be considered “torture” are prohibited and penalized under other provisions of the law. The law outlines disciplinary actions for police, including reprimand, demotion in rank, and dismissal. Civil society groups noted cases of police misconduct against persons in custody.</p>
+<p>In April and July the Olsztyn prosecutor’s office charged seven police officers from the Olsztyn city police with abuse of power, mainly involving the use of violence and threats to extract testimonies from detainees. Three of the seven were placed in pretrial detention. On April 27, the police commander of Warmia-Mazury province and the commander from Olsztyn city resigned because of the incidents.</p>
+<p>The law gives judges the option of ordering compulsory hormone therapy for a person convicted of either rape or incest when the victim is younger than age 15. Judges may order the procedure for convicted pedophiles at any time up to six months before their expected release. According to justice ministry statistics, the courts ordered the procedure for 20 pedophiles in 2014 compared with 19 in 2013.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions were adequate. Vacancies in the prison medical staff and limited prisoner access to specialized medical treatment continued to be problems.</p>
+<p><u>Physical Conditions</u>: While authorities generally separated juveniles from adults, the law allows them to share housing in prisons and detention centers in exceptional cases. Authorities usually sent older juveniles (persons between ages 17 and 21) accused of serious crimes to pretrial detention. Juveniles were at times held together with adult prisoners.</p>
+<p>Authorities often held pretrial detainees in prisons pending trial, but in areas separate from convicts. Conditions for pretrial detainees were generally similar to those for prisoners but on occasion were worse due to overcrowding and poorer facilities resulting from court-mandated restrictions on where a prisoner should be located while awaiting trial. A report by the Council of Europe’s Committee for Prevention of Torture (CPT) pointed out in 2013 that an almost total lack of activities for pretrial detainees made their situation considerably worse than that of convicts. There was no indication the government addressed this problem.</p>
+<p>The law sets the minimum cell size at 32 square feet per person, but prisoners may occupy smaller cells for a limited time. Both local NGOs and international organizations, including the UN Committee Against Torture and the CPT, expressed concern that the 32-square-feet standard was not compatible with the European standard of at least 43 square feet per person in multiprisoner cells and 65 square feet in single-prisoner cells. As of the end of September, no detainees were in cells smaller than the legal minimum of 32 square feet, according to government statistics.</p>
+<p>The Legal Intervention Center, a Warsaw-based NGO, reported that many prison buildings dated back to the 19th century and were in need of substantial renovation. In 2013 the CPT found that authorities at the Municipal Police Department in Lublin, the Metropolitan Police Department in Warsaw, and the Warsaw-Bialoleka Police Department did not respect the privacy of communal toilets and showers. At the Bydgoszcz Municipal Police Department, the closed-circuit television coverage included the in-cell toilets. The government has not yet eliminated these problems.</p>
+<p>During the first nine months of the year, 61 prisoners died in prison, including 17 reported suicides. The Helsinki Human Rights Foundation described systemic problems with medical care in prisons. These included inadequate medical staffing, such as a lack of specialized medical care and too few doctors to handle the workload, and poor medical infrastructure. The Helsinki Foundation for Human Rights also listed a number of specific problems raised by individual prisoners, such as inadequate care for prisoners with disabilities and facilities unequipped for the needs of elderly prisoners.</p>
+<p>The law permits authorities to commit to the National Center for the Prevention of Dissocial Behaviors prisoners who have served their prison sentences and undergone a custodial therapy program, but who suffer from mental disorders of a nature that a high probability exists they would commit another serious crime against a person. The Helsinki Foundation for Human Rights pointed out that mandatory detention after completion of sentence may violate the person’s freedom and be retroactive. In March 2014 the president sent the law to the Constitutional Court for review. As of September 30, the Constitutional Court had not issued a ruling on the law.</p>
+<p><u>Administration</u>: Authorities investigated credible allegations of inhuman conditions and documented their findings in a publicly accessible manner. The ombudsman may join proceedings in civil and administrative courts on behalf of prisoners and detainees, either when these have filed a complaint or when information otherwise leads to an allegation of inhuman conditions. At the request of the Ministry of Justice, the ombudsman for citizen rights administers the national preventive mechanism to investigate and monitor prison and detention center conditions. During the first nine months of the year, the ombudsman visited 17 prison and detention facilities, including pretrial detention centers and prison facilities. The Office of the Ombudsman publishes its findings and a summary of its recommendations to relevant authorities in an annual report.</p>
+<p><u>Independent Monitoring</u>: The government allowed independent monitoring of prison conditions and detention centers on a regular basis by local human rights groups as well as by the CPT. The Helsinki Human Rights Foundation and other local NGOs made occasional visits to prisons.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and the law prohibit arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The police force is a national law enforcement body with regional and municipal units overseen by the Ministry of the Interior and Administration. The border guard is responsible for border security and combating irregular migration, and it reports to the Ministry of the Interior and Administration. The Internal Security Agency has responsibility for investigating and combating organized crime, terrorist threats, and proliferation of weapons of mass destruction. The Central Anticorruption Bureau (CBA) is responsible for combating government, business, and financial corruption. The prime minister appoints the head and deputy heads of the CBA and supervises the bureau, which may investigate any matter involving public funds. The prime minister supervises the heads of both the Internal Security Agency and the CBA, who also report to parliament.</p>
+<p>Civilian authorities maintained effective control over the police force, the border guard, the Internal Security Agency, and the CBA, and the government has effective mechanisms to investigate and punish abuse and corruption. There were no reports of impunity involving the security forces during the year.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The constitution and the law require authorities to obtain a court warrant based on evidence to make an arrest, and authorities generally complied with the law. The law provides that police should immediately notify a detained person of the reasons for his detention and of his rights. Usually this information is initially delivered orally; later, at the police station, the detainee signs a statement that he has been advised of his rights and duties. Police give the detained person a copy of the report on his detention. The constitution and the law allow detention of a person for 48 hours before authorities must file charges and an additional 24 hours for the court to decide whether to order pretrial detention. The law sets a five-day time limit for holding a juvenile in a police establishment for children if the juvenile escaped from a shelter or an educational or correctional facility. It allows police to hold for up to 24 hours in a police establishment for children a juvenile who is being transferred to a shelter or an educational or correctional facility, in case of a “justified interruption of convoy.” Authorities must promptly inform detainees of the charges against them and generally did so. Only a court may order pretrial detention. Detained persons may appeal the legality of their arrest, and the government respected this right. There was a functioning bail system, and authorities released most detainees on bail. Defendants and detainees have the right to consult an attorney at any time. The government provided free counsel to indigent defendants. Authorities did not hold suspects incommunicado or under house arrest.</p>
+<p>In 2013 the CPT observed that it was the exception rather than the rule for persons in police custody to have access to a lawyer. The law does not provide for the appointment of an ex officio lawyer before initial court proceedings. Persons in police custody who were unable to pay for legal services were effectively deprived of the right of access to a lawyer. Moreover, even when the detained persons met their lawyers while in police custody, police officers were present. On August 26, president signed a law to provide free legal counsel to poor, young and senior citizens; veterans; members of multichildren families; and victims of natural disasters. The law is scheduled to enter into force on January 1, 2016, and it designed to provide legal counsel at the pretrial stage.</p>
+<p><u>Pretrial Detention</u>: The law permits authorities to detain persons charged with a crime for up to three months. A court may extend pretrial detention every six to 12 months, but the law specifies that the total time in detention may not exceed two years (in certain complex cases, the court may petition the appellate court for an extension beyond two years). According to the Ministry of Justice, extension beyond two years may occur if criminal proceedings are suspended, there is a need to identify or confirm the identity of the detainee, a very complicated investigation must be performed outside the country, or the detainee purposefully prolongs the proceedings.</p>
+<p>In 2014, the last year for which statistics were available, authorities held two persons longer than two years.</p>
+<p>On September 29, the Warsaw appeals court released a person who spent almost three and a half years in pretrial detention. His trial for drug trafficking charges continued at year’s end.</p>
+<p><u>Protracted Detention of Rejected Asylum Seekers or Stateless Persons</u>: Authorities placed some asylum seekers in guarded centers for foreigners while they awaited deportation or decisions on their asylum applications. Border guards may place an individual in a guarded center only by court order. Border guards typically sought to confine in this way foreigners who attempted to cross the border illegally, lacked identity documents, or committed a crime during their stay in the country. According to the Helsinki Human Rights Foundation, border guards placed families with children into guarded centers. The law prohibits the placement of unaccompanied minors under age 15 in guarded centers.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>While the constitution provides for an independent judiciary and the government generally respected judicial independence, an increasing backlog of cases made the judiciary less efficient.</p>
+<p>The court system remained cumbersome, poorly administered, and inadequately staffed. The consensus among local human rights NGOs was that the judicial system was improperly structured and inefficient, with a poor division of labor between different courts. Difficult hiring procedures created many vacancies among judges and support staff and slowed the justice system. Judges were forced to do administrative work that staff would normally perform. Judges reported receiving an increasing number of cases, while the number of judges remained the same. A continuing backlog of cases and the high cost of legal action deterred many citizens from using the justice system.</p>
+<p>In November and December, a dispute arose over judicial appointments to the Constitutional Tribunal (the constitutional law court). The tribunal ruled in December both the previous Sejm and the incumbent Sejm acted partly unconstitutionally in the selection of new judges for the tribunal, ruling two of five judges appointed by the previous Sejm and three of five judges appointed by the current Sejm invalidly appointed. The president swore in five judges appointed by the current Sejm but refused to swear in three judges appointed by the previous Sejm. At the end of the year, the status of those judicial appointments remained unclear.</p>
+<p>In December, arguing the amendments would strengthen and depoliticize the tribunal, parliament passed and the president signed legislation amending the Constitutional Tribunal’s procedures. Opposition parties, academic and legal experts, the Helsinki Human Rights Foundation, and some other NGOs stated the legislation would paralyze the tribunal’s operations and violated the constitutional principles of judicial independence, separation of powers, and checks and balances among the branches of government. The European Commission and Council of Europe separately criticized the government’s actions, and called for a delay in implementing the new law until judicial review was completed.</p>
+<p>The country employs an “e-court” to adjudicate simple cases, which typically involved unpaid utility bills. A party may file a civil claim for monetary damages on the e-court’s website, and a judge may issue a writ of payment based on the electronic submission. Defendants who dispute the judgment have recourse to a regular court for trial.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and an independent judiciary generally enforced this right. Defendants enjoy a presumption of innocence and the right to prompt and detailed notification of the charges against them. The government provides interpretation for defendants who do not speak Polish. Trials are usually public, although the courts reserve the right to close a trial in some circumstances, including divorce proceedings, cases involving state secrets, and cases whose content may offend public morality. The law provides for trial by jury, usually composed of two or three individuals appointed by local officials. In regional and provincial courts, a panel of one judge and two lay assessors tries cases. Defendants have the right to legal representation, and indigent defendants may consult an attorney provided without cost. The government must provide defendants and their attorneys adequate time and facilities to prepare a defense. Defendants must be present during trial. They may have access to government-held evidence, confront and question witnesses, and present witnesses and evidence on their own behalf. Prosecutors may grant witnesses anonymity if they express fear of retribution from defendants. Defendants may not be compelled to testify or confess guilt.</p>
+<p>After a court issues a verdict, a defendant has seven days to request a written statement of the judgment; courts must provide a response within 14 days. A defendant has the right to appeal a verdict within 14 days of the response. A two-level appeal process is available in most civil and criminal matters. These rights extend to all defendants.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals or organizations may seek civil remedies for human rights violations. The government’s implementation of court orders, particularly for payment of damages, remained slow, cumbersome, and ineffective.</p>
+<p>After they exhaust remedies available in the domestic courts, persons have the right to appeal court decisions involving alleged government violations of the European Convention on Human Rights to the European Court for Human Rights.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for restitution of communal property seized during the Communist and Nazi eras, but the process proceeded very slowly during the year. By the end of September, the property commissions resolved approximately 6,800 of slightly more than 10,500 communal property claims.</p>
+<p>No comprehensive law addresses the return of or compensation for private property, but individuals may seek the return of confiscated private property through the courts.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions but allows electronic surveillance with judicial review for crime prevention and investigation. There were no reports that the government failed to respect these prohibitions or engaged in wiretapping without judicial review.</p>
+<p>As of September 30, parliament did not comply with a July 2014 ruling of the Constitutional Court that held as unconstitutional several provisions of the laws giving law enforcement agencies and special services broad access to telephone records. The court gave the government until the end of January 2016 to revise the laws.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section2"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>While the constitution provides for freedom of speech and press, laws restrict these freedoms. In the past the government and courts upheld laws that criminalize defamation by individuals and the media and limit editorial independence.</p>
+<p><u>Freedom of Speech and Expression</u>: The law prohibits hate speech, including the dissemination of anti-Semitic literature and the public promotion of fascist, communist, or other totalitarian systems. On July 15, a Wroclaw district court upheld the February 25 ruling of the court of first instance that convicted the author of the book <i>How Did I Fall in Love with Adolf Hitler</i> to 30 hours of community work per month for six months for promoting fascism and inciting to hatred on racial, religious, and cultural grounds.</p>
+<p>On October 6, the Constitutional Court dismissed a complaint by pop star Dorota Rabczewska, known as “Doda,” that laws on offending religious beliefs unconstitutionally prevent freedom of expression on religious matters.</p>
+<p><u>Violence and Harassment</u>: On June 14, unknown perpetrators beat to death a local journalist from the town of Mlawa, Lukasz Masiak. The journalist was the creator of the most popular internet blog about the town (NaszaMlawa) and often wrote about difficult and sensitive problems. He had previously received death threats. By the end of the year, police made no arrests.</p>
+<p><u>Censorship or Content Restrictions</u>: The constitution prohibits censorship of the press or social communication. At the same time, the law prohibits, under penalty of fines, the promotion of activities against government policy, morality, or the common good and requires that all broadcasts “respect the religious feelings of the audiences and, in particular, respect the Christian system of values.” The government rarely enforced this provision. The law also places some limits on editorial independence, for example, by specifying that journalists must verify quotations and statements with the person who made them before publication.</p>
+<p>The National Radio and Television Broadcasting Council, a five-member body appointed by the Sejm (two members), the Senate (one member), and the president (two members), is responsible for protecting freedom of speech and has broad power to monitor and regulate programming, allocate broadcasting frequencies and licenses, apportion subscription revenues to public media, and impose financial penalties on broadcasters. While council members are required to suspend their membership in political parties and public associations, critics asserted that the council remained politicized.</p>
+<p><u>Libel/Slander Laws</u>: Defamation is a criminal offense and includes publicly insulting or slandering members of parliament, government ministers, or other public officials, as well as private entities and persons. Defamation outside the media is punishable by a fine and community service. The courts rarely applied maximum penalties, and persons convicted of defamation generally faced only fines or imprisonment for up to one year. The maximum sentence for insulting the president is three years’ imprisonment. While journalists have never received the maximum penalty in defamation cases, according to the Helsinki Human Rights Foundation, the risk of facing criminal charges may discourage them from addressing sensitive subjects. Moreover, media owners, particularly of small local independent newspapers, were aware that potentially large fines could threaten the financial survival of their publications. According to Ministry of Justice statistics for 2014, the latest data available, courts convicted two individuals of insulting the constitutional organs of the government. In 2014 the courts convicted 20 persons of public defamation, and fined three for criminal defamation in the mass media, and 17 for defamation outside the media. In December 2014 the local court in Kielce conditionally discontinued the trial of two senior high school students charged with insulting the constitutional organ of the state. In one student’s case, the court discontinued the trial for a year and in the other student’s case for two years. If they commit a similar crime during the periods of discontinuance, their cases would return to court to complete their trial.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports that the government monitored private online communications or e‑mail without appropriate legal authority. The law against defamation, which restricts freedom of speech, applies to the internet as well. In 2014, according to data from the International Telecommunication Union, 67 percent of the population used the internet. In 2014, the latest year for which statistics are available, prosecutors investigated 624 hate speech cases involving the internet, compared with 253 cases in 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>As of September 30, parliament did not revise the law on public assembly, as the Constitutional Court ordered in September 2014. The court ruled six of the provisions of the law unconstitutional, including the ban on organizing several demonstrations at the same place and time, and gave parliament one year to amend the law.</p>
+<p>On February 9, police used water cannons and tear gas against workers protesting against austerity measures in front of the company Jastrzebska Spolka Weglowa in Jastrzebie-Zdroj. Police injured an estimated 12 persons.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of association, and the government generally respected this right.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. While each person who arrives receives consideration for asylum if claimed, authorities rarely granted refugee status to Ukrainians, due to recognized options for internal flight within their country.</p>
+<p><u>Safe Country of Origin/Transit</u>: The EU’s Dublin III Regulation, to which the country is subject, recognizes all EU countries as safe countries of origin and transit. The regulation also authorizes the governments of EU member states to return asylum seekers to the countries where they first entered the EU. The law permits denial of refugee status based on safe country of origin or safe country of transit but includes provisions that allow authorities to consider the protection needs of individuals with exceptional cases.</p>
+<p><u>Refugee Abuse</u>: In addition to the guarded centers for foreigners (see section 1.d.), the government operated 11 open centers for asylum seekers with an aggregate capacity of approximately 2,000 persons in the Warsaw, Bialystok, and Lublin areas. Some incidents of gender-based violence occurred, but UNHCR reported that local response teams involving doctors, psychologists, police, and social workers addressed these cases. UNHCR and the Helsinki Human Rights Foundation reported no major or persistent problems with abuse in the centers.</p>
+<p><u>Access to Basic Services</u>: Asylum seekers faced language and cultural barriers, and had limited access to higher education. Children in centers for asylum seekers had free access to public education, but those placed with relatives in guarded centers for foreigners did not.</p>
+<p><u>Durable Solutions</u>: In July the government agreed to accept through UNHCR some 900 refugees from camps in Lebanon and Jordan. By year’s end none had arrived.</p>
+<p><u>Temporary protection</u>: The government also provided temporary protection to individuals who may not qualify as refugees and provided it to approximately 280 480 persons during the first 11 months of 2015.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>According to UNHCR, at the end of 2014, there were 10,285 stateless persons in the country. In 2014, the most recent year for which statistics were available, 38 stateless persons applied for refugee status, and authorities granted refugee status to 22 persons and subsidiary protection to two persons.</p>
+<p>The law affords the opportunity to gain nationality. The Halina Niec Legal Aid Center observed in its report during the year on statelessness, however, that the government did not implement a formal procedure of identifying the stateless persons, leading to protection gaps and exposing stateless persons to many negative consequences, including detention.</p>
+<p>UNHCR occasionally received complaints from stateless persons about problems with employment, mainly involving the lack of identity documents, which discouraged employers from offering employment to stateless persons.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section3"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution provides citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised that ability.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: The presidential elections in May and the parliamentary elections on October 25 were both considered free and fair.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section4"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Although the law provides criminal penalties for corruption by officials, corruption was a problem. The government did not always implement the law effectively, and officials sometimes engaged in corrupt practices with impunity. There were some reports of government corruption during the year.</p>
+<p><u>Corruption</u>: On January 29, the court sentenced two businessmen to two years’ imprisonment (suspended for a period of four years, provided they do not commit a crime again) and fines for serving as intermediaries in transferring bribe money to the former mayor of Tarnow, Ryszard Scigala. Scigala’s trial remained pending at the end of the year.</p>
+<p><u>Financial Disclosure</u>: Various laws oblige elected and appointed public officials to submit financial statements about their financial assets, real property, stocks, and bonds. According to the Stefan Batory Foundation, an NGO, CBA verification was ineffective, because the agency was able to screen less than 1 percent of all financial disclosure statements filed by politicians and high-level government officials. With the exception of certain situations provided for by law, the regulations protect information included in financial statements as “restricted access” information that may be made public only with the written permission of the provider. Different laws provide for different penalties for nondisclosure.</p>
+<p>In November 2014 a Warsaw local court found former transportation minister Slawomir Nowak guilty of failing to list a watch worth an estimated 17,000 zloty ($4,300) in several financial disclosures he filed when he was in government. The judge ordered Nowak to pay a fine of 20,000 zloty ($5,000) and legal costs of 4,500 zloty ($1,140). On May 27, the Warsaw district court rejected Nowak’s appeal but lowered his punishment and suspended its implementation.</p>
+<p><u>Public Access to Information</u>: The constitution and law provide for public access to government information, and the government generally provided such access to citizens and noncitizens, including foreign media.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section5"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The law entrusts the human rights defender and the government plenipotentiary for equal treatment with the task of “implementing the principle of equal treatment.”</p>
+<p>The country’s independent human rights defender processes complaints, conducts investigations, institutes and participates in court proceedings, undertakes studies, provides other public bodies with advice, proposes legislative initiatives, conducts campaigns, and cooperates with NGOs. The human rights defender has no authority to mediate disputes between private entities, even in cases of racial discrimination. The human rights defender presents an annual report to the Sejm on the state of human rights and civic freedom in the country. The human rights defender generally had adequate resources and enjoyed the government’s cooperation. Human rights observers considered the office effective. The office received approximately 500,000 zloty ($125,000) in funding for the year to cover monitoring implementation of the principle of equal treatment and to support victims of discrimination. In 2014 the human rights defender reported receiving 57,127 cases.</p>
+<p>The government plenipotentiary for equal treatment has a mandate to counter discrimination and promote equal opportunity for all. The plenipotentiary implements the government’s equal treatment policy, develops and evaluates draft acts, analyzes and evaluates legal solutions, and monitors the situation within the scope of application of the principle of equal treatment. The plenipotentiary is subordinate to the Prime Minister’s Office, did not have the same institutional independence as the human rights defender, and did not have a separate budget. After the election the government plenipotentiary resigned from the position. As of December 10, the newly elected government has not appointed a new plenipotentiary on equal treatment.</p>
+<p>Both chambers of parliament have committees on human rights and the rule of law. The committees serve a primarily legislative function and are composed of representatives from multiple political parties.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section6"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution prohibits discrimination in “political, social, and economic life for any reason whatsoever.” The law prohibits discrimination on the grounds of sex, gender, disability, race, nationality, ethnic origin, and sexual orientation.</p>
+<p>By law violence or the threat of violence motivated by race, ethnicity, religion, nationality, or political affiliation is a crime punishable by three months’ to five years’ imprisonment. The law stipulates that judges should generally take into account the motivation behind a crime when establishing the penalty. The law requires the human rights defender to monitor implementation of the principle of equal treatment and to support victims of discrimination.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, including spousal rape, is illegal and punishable by up to 12 years in prison. Stalking is punishable by up to 10 years in prison. According to national police statistics, during the first half of the year, there were 706 reported cases of rape. NGOs estimated that the actual number of rapes was much higher because women often were unwilling to report incidents due to social stigma. During the same period, police concluded 355 possible rape cases and forwarded them to prosecutors for indictment, and they forwarded another 27 to family courts (for underage offenders) for indictment.</p>
+<p>While courts may sentence a person convicted of domestic violence to a maximum of five years in prison, most of those found guilty received suspended sentences. The law permits authorities to place restraining orders on spouses to protect against abuse without prior approval from a court, but police do not have the authority to issue immediate restraining orders at the scene of an incident.</p>
+<p>During the first half of the year, police identified 8,667 cases of domestic violence. During the same period, police concluded 7,535 investigations and forwarded them to prosecutors for indictment. During the first six months of the year, police registered 37,244 “blue card procedures,” meaning either a police officer intervened in a domestic violence situation or a police officer on duty interviewed a potential victim of domestic violence.</p>
+<p>According to some women’s organizations, the statistics understated the number of women affected by domestic violence, particularly in small towns and villages. The Women’s Rights Center reported that police were occasionally reluctant to intervene in domestic violence incidents if the perpetrator was a police officer or if victims were unwilling to cooperate.</p>
+<p>The law requires every municipality in the country to set up an interagency team of experts to deal with domestic violence. According to some NGOs, this requirement might actually worsen the situation because the interagency teams focused on resolving the “family problem” rather than initially treating claims of domestic violence as criminal matters. The NGOs also believed the additional work required by the procedures discouraged police from classifying cases as domestic violence and might have contributed to a possible reduction in reported cases during the year.</p>
+<p>Centers for victims of domestic violence operated throughout the country. In 2014, the most recent year for which statistics were available, local governments provided victims and their families with legal and psychological assistance and operated 163 crisis intervention centers and 13 shelters for pregnant women and mothers with small children. In addition local governments operated 35 specialized centers funded by the government’s National Program for Combating Domestic Violence. The centers provided social, medical, psychological, and legal assistance to victims; training for personnel who worked with victims; and “corrective education” programs for abusers.</p>
+<p>In 2014, the last year for which statistics were available, the government spent 3.9 million zloty ($990,000) on programs to combat domestic violence, primarily corrective education programs for abusers and training for social workers, police officers, and specialists who were the first contacts for victims of domestic violence. In addition the Ministry of Labor and Social Policy spent approximately 355,000 zloty ($90,000) to assess the scale of domestic violence, to evaluate the effectiveness of activities aimed at preventing domestic violence, to organize a nationwide public awareness campaign entitled “React to Violence,” and to hold a national conference on the present and future of the national action plan for combatting domestic violence. Regional governments spent almost 2.2 million zloty ($560,000) on training first responders. The government also spent approximately 943,000 zloty ($239,000) on combating domestic violence under the “Safer Together” program; and 150, 000 zloty ($38,000) for a hotline for children and young persons operated by the Nobody’s Children Foundation, a Warsaw-based NGO.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment, and violations carry penalties of up to three years in prison. The law defines sexual harassment as discriminatory behavior in the workplace, including physical, verbal, and nonverbal acts violating an employee’s dignity.</p>
+<p>According to the Women’s Rights Center, sexual harassment continued to be a serious and underreported problem. Many victims did not report abuse or withdrew harassment claims in the course of police investigations due to shame or fear of losing their job. During the first six months of the year, police reported 29 cases of sexual harassment, compared with 52 cases during the first six months of 2014.</p>
+<p><u>Reproductive Rights</u>: The government generally recognized the basic rights of couples and individuals to decide freely and responsibly the number, spacing, and timing of their children, manage their reproductive health and have access to the information and means to do so, free from discrimination, coercion, or violence. While there were no restrictions on the right to obtain contraceptives, some NGOs believed their use was limited because the government excluded prescription contraceptives from its list of subsidized medicines, which made them less affordable. Some NGOs also believed that religious factors, such as the strong influence of the Roman Catholic Church, affected the use of contraceptives. The law does not permit voluntary sterilization. According to the Center for Reproductive Rights, sexuality-related counseling services for young persons were not available.</p>
+<p><u>Discrimination</u>: The constitution provides for the same legal status and rights for men and women and prohibits discrimination against women, although few laws exist to implement the provision. The constitution requires equal pay for equal work, but discrimination against women in employment existed (see section 7.d.).</p>
+<p>The plenipotentiary for equal treatment had a mandate to counter discrimination and promote equal opportunity for all.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: A child acquires citizenship at birth if at least one parent is a citizen, regardless of where the birth took place. Children born or found in the country whose parents were unknown or stateless are also citizens. The government has a system of universal birth registration immediately after birth.</p>
+<p><u>Child Abuse</u>: There were reports of child abuse, but convictions were rare. A government ombudsman for children’s rights issued periodic reports on problems affecting children, such as the need for improved medical care for children with chronic diseases. The ombudsman’s office also operated a 24-hour free hotline for abused children. In 2014 the ombudsman received 48,818 complaints of infringements of children’s rights under the country’s laws. Of those complaints, approximately 49 percent concerned the right to be brought up in a family (citing factors such as limitation of parental rights through divorce and the need for better material support for foster families), 22 percent concerned the right to education, 12 percent concerned the right to protection against abuse, 10 percent concerned the right to life and protection of health, 4 percent concerned the right to adequate social conditions, and 4 percent concerned other problems. The government operated several huge advertising campaigns, including the “React. You have the Right” campaign aiming to change social attitudes among adults and sensitize them to children’s problems, and the opening of the hotline.</p>
+<p><u>Early and Forced Marriage</u>: The country’s legal minimum age of marriage is 18, although the guardianship court may grant permission for girls as young as age 16 to marry under certain circumstances.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits sexual intercourse with children younger than 15. The penalty for statutory rape ranges from two to 12 years’ imprisonment. According to the Ministry of Justice, in 2013, the most recent year for which statistics were available, courts convicted 626 persons of sexual intercourse with persons under age of 15 and 16 persons of pimping minors.</p>
+<p>Child pornography is also illegal. The production, possession, storage, or importation of child pornography involving children younger than 15 is punishable by imprisonment for a period of three months to 10 years. During the first six months of the year, police conducted a nationwide operation against child pornography and pedophiles. Information from authorities in other countries was usually the basis for nationwide operations. Successful prosecution of child pornography remained a challenge due to both the international nature of computer-based crimes and the difficulty of identifying perpetrators.</p>
+<p>According to the government and the Nobody’s Children Foundation, a leading NGO dealing with trafficking in children, trafficking in children for sexual exploitation remained a problem.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s annual report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a>, as well as country-specific information at <a href="http://travel.state.gov/content/childabduction/en/country/poland.html">travel.state.gov/content/childabduction/en/country/poland.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Union of Jewish Communities estimated the Jewish population at approximately 20,000. Anti-Semitic incidents continued to occur, often involving desecration of significant property, including synagogues and Jewish cemeteries.</p>
+<p>As of September 30, the court has not yet begun the trial of six persons arrested in Lublin in January 2014 and accused of hanging anti-Semitic posters in Lublin. Authorities charged five arrestees with operating in a criminal group promoting fascism and inciting hatred and the sixth as an accomplice.</p>
+<p>On October 31, two individuals destroyed nine tombstones at a Jewish cemetery in the town of Bielsko-Biala. Police arrested two individuals for this crime in early November. A similar incident took place at the same cemetery in August, when vandals damaged seven tombstones. In April unknown perpetrators destroyed 15 tombstones at the Jewish cemetery in the town of Olkusz. By the end of the year, police made no arrests in this case.</p>
+<p>In January Holocaust survivors, politicians, and religious leaders gathered to mark International Holocaust Remembrance Day and commemorate the 70th anniversary of the liberation of Auschwitz-Birkenau.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, or mental disabilities in employment, education, air travel and other transportation, access to health care, and the provision of other government services. While the government effectively enforced these provisions, there were reports of some societal discrimination against persons with disabilities. The government restricted the right of persons with certain mental disabilities to vote or participate in civic affairs.</p>
+<p>The law states that buildings should be accessible for persons with disabilities, and at least three laws require retrofitting of existing buildings to provide accessibility. Many buildings remained inaccessible to persons with disabilities, because regulations do not specify what constitutes an accessible building. Public buildings and transportation generally were accessible, although older trains and vehicles were often less accessible to persons with disabilities, and many train stations were not fully accessible for persons with all types of disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>A number of xenophobic and racist incidents occurred during the year, and the government and local NGOs reported a noticeable increase in the total number of hate crimes.</p>
+<p>Prosecutors investigated 1,365 cases of hate crimes, including hate speech, in 2014, compared with 835 in 2013. Of these, 624 cases involved the internet, 188 cases were racist graffiti on walls or buildings, monuments and graves, 108 referred to making verbal threats to other persons, 89 cases were related to the use of violence against other persons, 35 involved beating by more than one person, 44 involved bodily injury, 37 involved offensive, harmful or embarrassing physical contact, 34 involved sports fans or athletes, 24 occurred at demonstrations or assemblies, 16 involved press and book publications, six concerned television and radio programs, and six involved arson. Information on the remaining 154 hate crimes was unavailable.</p>
+<p>In September various groups organized more than 20 anti-immigrant marches around the country as part of a planned nationwide action against immigrants and refugees. Police did not intervene in any of these demonstrations, claiming the marches were peaceful and the public order was not disturbed. There were reports of attacks on immigrant-owned businesses during and after some protests.</p>
+<p>Xenophobic behavior and demonstrations sometimes occurred during sporting events. On September 11 and 12, fans of the country’s two largest soccer clubs shouted racist and xenophobic chants and displayed anti-immigrant and anti-Islamic banners during soccer matches in Poznan and Warsaw.</p>
+<p>In its June 9 report, the European Commission against Racism and Intolerance (ECRI) noted that, despite initiatives taken by the prosecutor general to deal more effectively with racist crimes, there was no increase in the number of convictions, which gave the impression that authorities were not fully committed to combatting these crimes. The report pointed out that racism at sports events remained a real problem, in part because few cases of racist crimes resulted in convictions. The ECRI reported racist and xenophobic comments were a common occurrence on online discussion forums.</p>
+<p>Societal discrimination against Roma, whose numbers were estimated to be between 20,000 and 30,000, continued to be a problem. The 2011 national census recorded 16,723 Roma, although an official government report on the Romani community estimated that 20,000-25,000 Roma resided in the country. Romani community representatives estimate that 30,000-35,000 Roma reside in the country.</p>
+<p>Unlike in previous years, there were no reports that local officials discriminated against Roma by denying them adequate social services. Romani leaders complained of widespread discrimination in employment, housing, banking, the justice system, the media, and education.</p>
+<p>On February 24, the Gdansk prosecutor’s office discontinued an investigation into August 2014 eviction of a 15-member Romani family from Romania who were living on land owned by the city. Prosecutors decided that no crime was committed during the eviction. The investigation resulted from a complaint filed by NOMADA, a Wroclaw-based NGO that promotes human rights in the country. On July 30, police in Wroclaw declined to investigate the complaint by NOMADA that city authorities illegally destroyed one Romani dwelling on city land. Prosecutors decided the city and police had followed all legal procedures during the eviction and demolition.</p>
+<p>According to the Ministry of Administration and Digitalization, on average, 80 percent of Romani children between ages six and 16 attend school. Romani organizations and the Ministry of Education reported that authorities, particularly in southern provinces, continued to send many Romani children to schools for children with mental disabilities without cause. During the year the government allocated 10 million zloty ($2.5 million) for programs to support Roma, including for educational programs.</p>
+<p>While at the national level approximately 80 percent of Roma were unemployed, levels of unemployment in some regions reached nearly 100 percent.</p>
+<p>There were isolated incidents of racially motivated violence, including verbal and physical abuse, directed at persons of African, Asian, or Arab descent. On May 7, the Lodz district court sentenced a 20-year-old man to 14-months’ imprisonment for assaulting two men of African descent in Lodz on March 28. On March 31, the Wroclaw court sentenced one Wroclaw resident to 18-months’ imprisonment and another to 12-months’ imprisonment (both suspended) for assaulting two Congolese citizens outside of a nightclub in June 2014.</p>
+<p>The Ukrainian and Belarusian minorities continued to experience petty harassment and discrimination.</p>
+<p>Extremist groups, while small in number, maintained a public presence in high-profile marches and on the internet, and they disrupted lectures or debates on issues they opposed. Red Watch, a webpage run by the neo-Nazi group Blood and Honor, listed by name “traitors of the race,” politicians, activists, and representatives of left-wing organizations. The entries often included the home addresses and telephone numbers of the persons listed. Authorities stated they could not do anything, since the site’s servers were located outside the country.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>While the constitution does not prohibit discrimination on the specific grounds of sexual orientation, it prohibits discrimination “for any reason whatsoever.” The laws on discrimination in employment cover sexual orientation and gender identity, but hate crime and incitement laws do not. The prime minister’s plenipotentiary for equal treatment monitors LGBTI problems.</p>
+<p>NGOs and politicians reported increasing acceptance of LGBTI persons by society and the government but also stated that discrimination was still common in schools, workplaces, hospitals, and clinics. There were some reports of skinhead violence and societal discrimination against LGBTI persons, but NGOs maintained that most cases went unreported.</p>
+<p>Persons who want to have their gender changed must sue their parents.</p>
+<p>On September 17, the Polish branch of Amnesty International reported that authorities did not properly protect LGBTI persons (as well as persons with disabilities and homeless persons) from hate crimes.</p>
+<p>On June 11, the Szczecin Appellate Court sentenced one person to 15 years’ imprisonment for beating and killing a 21-year-old LGBTI student in January 2014, and another person to five years’ imprisonment (suspended) for assisting in the beating. The court ruled that the fatal beating was not a hate-motivated crime, but the Campaign against Homophobia maintained it was.</p>
+<p>In its June 9 report, the ECRI noted that homophobic statements were a recurrent feature of political discourse in the country, and that the criminal code does not explicitly prohibit incitement to violence, hatred, discrimination, public insult, and defamation on grounds of sexual orientation or gender identity.</p>
+<p>The government took several steps during the year to respond to societal discrimination based on sexual orientation and gender identity. On September 16, the National School for Prosecutors and Judges signed a cooperation agreement with the Office of Democratic Institutions and Human Rights of the Organization for Security and Cooperation in Europe for a series of trainings for prosecutors on the identification and effective prosecution of hate crimes. The law requires the human rights defender to monitor and promote equal treatment and to support victims of discrimination on all grounds. The human rights defender received funding to implement these obligations.</p>
+<p>On February 1, the Lambda Association, a Warsaw-based NGO, opened the first shelter for homeless LGBTI persons. The shelter, funded by a grant from Norway, provided safe haven to 15 persons; it also offered psychological counseling, and job advice.</p>
+<p>The police advisor for equal treatment and the human rights defender cooperated to publish a special handbook for police that promoted officers’ tolerance and understanding of diversity and counseled police officers on how to work with victims of various minorities, including LGBTI individuals.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>During the first six months of the year, the government’s AIDS center received five complaints from HIV-positive persons. Four persons were refused admission to homes for the elderly, and one person complained that other inhabitants of a homeless shelter did not want to share the facility with him (also see section 7.d.).</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>The ECRI reported hate speech on the internet targeted in the Muslim community, while self-regulatory bodies had difficulty in applying appropriate sanctions against persistently offending media outlets.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section7"> </span><span class="st_twitter" st_title="Poland #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Poland - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252887%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the rights of workers to form and join independent trade unions, bargain collectively, and conduct legal strikes. The law prohibits antiunion discrimination, and provides legal measures under which workers fired for union activity may demand reinstatement. There are several legal restrictions to these rights. The law does not provide for the right to form a union to persons who entered into an employment relationship based on a civil law contract, or to persons who were self-employed. On June 2, the Constitutional Court ruled that any limitation to the freedom of association violates the constitution and required the government and parliament to amend the law on trade unions, but as of October 30, the government had not revised the law. Members in senior-level positions in the civil service cannot hold office in worker organizations. Government workers, including police officers, border guards, prison guards, and employees of the supreme audit office, are limited to a single union. Workers in services deemed essential, such as security forces, the Supreme Chamber of Audit, police, border guards, and fire brigades, do not have the right to strike. These workers have the rights to protest and to seek resolution of their grievances through mediation and the court system.</p>
+<p>Legal strikes require the support of at least 50 percent of all employees in a company or industry-level vote. To allow for required mediation, a strike may not be called less than 14 days after workers present their demands to an employer. The law obligates employers to notify the district inspection office in their region about a group dispute in the workplace. Cumbersome procedures made it difficult for workers to meet all of the technical requirements for a legal strike. What constitutes a strike under the labor law is limited to strikes over wages and working conditions. The law prohibits collective bargaining for key civil servants, appointed or elected employees of state and municipal bodies, court judges, and prosecutors.</p>
+<p>The penalties for obstructing trade union activity range from fines to community service. The government did not effectively enforce applicable laws. Resources, inspections, and remediation efforts were less than fully adequate and the small fines imposed as punishment were an ineffective deterrent to employers. Administrative and judicial procedures were subject to lengthy delays and appeals. Unions alleged that the government did not consistently enforce laws prohibiting retribution against strikers. In 2014 the National Labor Inspectorate (NLI) registered 254 disputes over working conditions, social benefits, and the right to freedom of trade union activity, filed under collective bargaining rules as a prerequisite for striking.</p>
+<p>Violations of freedom of association and the right to collective bargaining occurred. There were some reports of government interference in trade union activity. While many workers exercised the right to organize and join unions, many small- and medium-sized firms, which employed a majority of the workforce, discriminated against those who attempted to organize.</p>
+<p>Labor leaders continued to report that employers regularly discriminated against workers who attempted to organize or join unions, particularly in the private sector. Discrimination typically took the forms of intimidation, termination of work contracts without notice, and closing of the workplace. Some employers sanctioned employees who tried to organize unions.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. Nevertheless, forced labor occurred.</p>
+<p>While the government effectively enforced the law, there were some limitations with respect to identification of victims of forced labor and distinguishing between forced labor and labor rights violations. Penalties for forced labor violations ranged from three to 15 years’ imprisonment and were sufficiently stringent compared with other serious crimes. In 2014, the last year for which statistics were available, the government assisted in removing 71 victims from forced labor.</p>
+<p>There were reports that foreign and domestic men were subjected to forced labor in the agricultural, manufacturing, and food processing sectors and that men, women, and children were subjected to forced begging.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children under age 16, with exceptions in the cultural, artistic, sporting, and advertising fields when parents or guardians and the local labor inspector give their permission. Persons between ages 16 and 18 may work only if they have completed middle school, if the proposed employment constitutes vocational training, and if the work is not harmful to their health.</p>
+<p>The government effectively enforced these laws in the formal sector, but the NLI was not empowered to inspect private farms or homes. During the first half of the year, the inspectorate conducted 548 inspections involving 2,115 underage employees (ages 16 to 18). Authorities levied fines totaling 92,600 zloty ($23,400) in 80 cases.</p>
+<p>The NLI reported that many employers underpaid minors or delayed their pay. The majority of employees found to be underage worked in commercial enterprises and repairs shops, processing industries, restaurants, and construction. Some children under age 18 also engaged in hazardous work in agriculture, primarily on family farms. Migrant Romani children from Romania were subjected to forced begging. Commercial sexual exploitation of children also occurred (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination with respect to employment or occupation in any way, directly or indirectly, on the grounds of race, sex, religion, political opinion, national origin, ethnic origin, disability, sexual orientation, age, trade union membership, and regardless of whether the person is hired for definite or indefinite contracts, or for full or half time work. The law does not specifically prohibit such discrimination based on language, HIV-positive status, gender identity, or social status. The government did not effectively enforce these law and regulations. According to the Polish Society for Antidiscrimination Law, by law the accused must prove that discrimination did not take place, but judges often placed the burden on the victim to prove that discrimination occurred.</p>
+<p>Discrimination in employment and occupation occurred with respect to gender, age, minority status, disability, political opinion, sexual orientation and gender identity, and HIV-positive status. According to a European Commission report, the gender wage gap in 2013, the latest year for which data were available, was 6.4 percent. A report published in 2013 by the Supreme Audit Chamber on the remuneration of men and women in the public sector stated 80 percent of women earned less than men in the same or similar positions in ministries, central government offices, local government offices, and government-owned companies. The report primarily attributed the remuneration gap to differing job qualifications. Discrimination against Romani workers also occurred (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The national monthly minimum wage, which took effect in January, was 1,750 zloty ($443). According to the Institute of Labor and Social Studies, in 2014, the social minimum monthly income level was 1,071 zloty ($271) for one person and 3,409 zloty ($863) for a family of four. In 2014 the subsistence level, which is the bare amount needed to cover the costs of housing and food, was 544 zloty ($138) for one person and 1,855 zloty ($470) for a family of four.</p>
+<p>The law provides for a standard workweek of 40 hours, with an upper limit of 48 hours including overtime. It requires premium pay for overtime. It prohibits excessive or compulsory overtime and sets a maximum of 150 hours of overtime per year. The law provides for workers to receive at least 11 hours of uninterrupted rest per day and 35 hours of uninterrupted rest per week. The constitution provides every employee the right to statutorily specified days free from work as well as annual paid holidays. The law also provides for 20 days of paid annual leave for employees with fewer than 10 years of employment and 26 days for those employed at least 10 years.</p>
+<p>The law defines strict and extensive minimum conditions to protect worker health and safety, and empowers the NLI to supervise and monitor implementation of worker health and safety laws and to close workplaces with unsafe conditions. Workers could remove themselves from situations that endangered health or safety without jeopardy to their employment, and authorities effectively protected employees in this situation. The NLI’s powers are limited to business entities; it does not have authority to monitor implementation of worker health and safety laws in private farms and households.</p>
+<p>Authorities did not effectively enforce minimum wage, hours of work, and occupational health and safety in the formal or informal sectors. Resources, inspections, and remediation efforts were inadequate. In 2014 there were approximately 1,700 labor inspectors, the same number as in 2012 and 2013.</p>
+<p>According to the inspectorate’s 2014 report, the most frequent labor rights violations concerned failure to pay or delayed payment of wages. Most wage payment violations occurred in the services, construction, and processing industries. Seasonal workers were particularly vulnerable to such violations. The national inspectorate’s report did not cover domestic workers because inspectors could only conduct inspections in businesses, not private homes. The second-most common problem was inaccurate timekeeping records for hours worked.</p>
+<p>Employers often ignored requirements regarding overtime pay. A large percentage of construction workers and seasonal agricultural laborers from Ukraine and Belarus earned less than the minimum wage. The large size of the informal economy--particularly in the construction and transportation industries--and the low number of government labor inspectors made enforcement of the minimum wage difficult.</p>
+<p>Trade union leaders stated penalties for employers are not sufficient to deter violations. In the case of serious violations, labor inspectors may submit the case to a court, which may impose a fine of up to 30,000 zloty ($7,600). Persons who maliciously violate the labor rights of employees may face up to two years’ imprisonment. According to the NLI, employers implemented 95 percent of all labor inspection decisions, although a report by the NLI indicated that some legal restrictions, such as the requirement in some sectors that a company receive seven days’ advance notification of upcoming inspections, weakened the effectiveness of labor inspections. International observers noted that the NLI’s mandate to both confirm the legal status of workers and monitor working conditions creates a potential conflict of interest.</p>
+<p>During 2014 the NLI continued a “Safety at Work Depends on You” campaign targeting employees and employers in high-risk sectors, such as industrial processing companies. The campaign took the form of training and information briefings, television and radio commercials broadcast on both private and public television and radio stations, and postings on the internet. In addition the NLI organized a prevention and information campaign targeting small construction companies, which included training on work safety standards for employees and employers. The NLI also continued a television and radio campaign, “Respect Life! Safe Work on Farms,” targeting individual farmers and family members. The NLI visited many private farms to assess safety conditions, and organized a number of competitions for individual farmers. The NLI also continued a specific information and preventive program in construction, and offered training for small enterprises (those hiring up to 49 employees).</p>
+<p>In cooperation with the Central Institute of Labor Protection, senior high schools, educational authorities, universities, local governments and trade unions, the NLI continued an educational program called “Safety Culture” to instruct senior high school and university students about workplace safety and to promote general knowledge about labor law. The NLI also organized a public awareness campaign “On the wave of the first job,” for young persons taking their first seasonal jobs in Zachodniopomorskie Province, to inform them about their workers’ rights, labor contracts, remuneration for work and potential work-related hazards.</p>
+<p>In the first half of the year, the Central Statistical Office reported 37,111 victims of workplace accidents, a decrease of 1,917 from the same period in 2014. The highest number of victims worked in industrial processing, the retail and wholesale trade, the health service sector, transportation, warehouse management, and construction. In 2014 the inspectorate investigated 2,002 accidents in which there were 2,349 deaths or injuries, including 267 workers killed and 768 persons seriously injured. The NLI reported that, as in previous years, most of the fatal accidents occurred in the industrial processing (mining and metalworking) and construction industries. Employers routinely exceeded standards limiting exposure to chemicals, dust, and noise. According to the inspectorate’s 2014 report, inadequate training of employees, the poor quality of job-related risk assessment tools, and inadequate measures by employers to prevent accidents were the leading causes of workplace accidents.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

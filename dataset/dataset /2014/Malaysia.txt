@@ -1,0 +1,641 @@
+2014
+Malaysia
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454"> </span><span class="st_facebook" st_title="Malaysia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236454">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236454</a></span></div>
+</div>
+<div id="toc" style="display: none">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=executive"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Malaysia is a federal constitutional monarchy. It has a parliamentary system of government selected through periodic, multi-party elections and headed by a prime minister. The king is the head of state and serves a largely ceremonial role; the kingship rotates among the nine sultans every five years. The United Malays National Organization (UMNO), together with a coalition of political parties known as the National Front (BN), has held power since independence in 1957. In the May 2013 general elections, the BN lost the popular vote to the opposition coalition but was re-elected in the first-past-the-post system. The opposition and civil society organizations alleged electoral irregularities and systemic disadvantages for opposition groups due to lack of media access and gerrymandered districts favoring the ruling coalition. Authorities failed at times to maintain effective control over security forces.</p>
+<p>The most significant human rights problems included government restrictions on freedom of expression - including speech, assembly, association, and media. Of particular concern were sedition investigations and charges against dozens of dissenters, and the continued politically motivated prosecution of opposition coalition leader Anwar Ibrahim. Restrictions on freedom of religion were also a significant concern--including bans on religious groups, restrictions on proselytizing, and prohibitions on the freedom to change one’s religion.</p>
+<p>Other human rights problems included deaths during police apprehension and while in police custody; laws allowing detention without trial; caning as a form of punishment imposed by criminal and sharia courts; official corruption; violence and discrimination against women; discrimination against lesbian, gay, bisexual, and transgender (LGBT) persons; and restrictions on the rights of migrants, including migrant workers, refugees, and victims of human trafficking. Longstanding government policies gave preferences to ethnic Malays in many areas. The government restricted union and collective-bargaining activity, and government policies created vulnerabilities and worsened child labor and forced labor problems, especially for migrant workers.</p>
+<p>The government arrested and prosecuted some officials engaged in corruption, malfeasance, and human rights abuses, although civil society groups alleged impunity continued.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section1"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were reports the government or its agents committed arbitrary or unlawful killings. In its 2014 report on police abuse and accountability in the country, Human Rights Watch quoted government statistics indicating 231 deaths in custody from the year 2000 to May 2013, while from 2007 to August 2012, police shot and killed 298 persons.</p>
+<p>One nongovernmental organization (NGO) reported police use of deadly force killed 49 individuals in 2012. Home Affairs Minister Zahid Hamidi announced that police use of deadly force led to 124 deaths from 2009 to August 2013.</p>
+<p>Media often used a common narrative to describe these encounters: A suspect was stopped by police and then tried to attack; police killed the suspect in self-defense; and police found evidence of criminal activity on the suspect’s body. Local human rights groups suggested authorities used this narrative to justify deaths in the course of arrest or in police custody.</p>
+<p>On August 8, the Court of Appeal unanimously upheld a lower court ruling that the country’s inspector general of police, Khalid Abu Bakar, and other police officers bore responsibility for the 2009 death of A. Kugan, as well as the subsequent cover-up of his death. Khalid, who was not present at Kugan’s death but was found guilty in the cover-up, remained in his position and was not disciplined for his actions.</p>
+<p>On September 4, the High Court awarded Malaysian Ringgit (RM) 300,000 ($91,700) to the victim of an “unlawful and unjustified” 2009 police shooting. Police officers responsible never faced criminal charges.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>No law specifically prohibits torture; however, laws that prohibit “committing grievous hurt” encompass torture. More than 60 offenses are subject to caning, and judges routinely mandated caning in response to crimes as kidnapping, rape, robbery, narcotics possession, criminal breach of trust, alien smuggling, and immigration offenses.</p>
+<p>Civil and criminal law exempts men older than 50 and all women from caning. Male children between the ages of 10 and 18 may be given up to 10 strokes of a “light cane.” The government revealed in a letter to a member of parliament that authorities caned 8,451 prisoners (5,968 foreigners and 2,483 Malaysians) in 2013.</p>
+<p>Some states’ sharia laws--those governing family issues and certain crimes under Islam and which apply to all Muslims--also prescribe caning for certain offenses. Women are not exempted from caning under sharia, and the national courts have not resolved issues involving conflicts among the constitution, the penal code, and sharia.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh. Some prisoners and detainees died, including while in police holding cells.</p>
+<p><u>Physical Conditions</u>: Prison overcrowding, particularly in facilities near major cities, remained a serious problem. In October 2013 the Ministry of Home Affairs reported that the country’s prisons held 39,740 prisoners in facilities designed to hold 32,000. According to the International Centre for Prison Studies, in mid-2013 women made up 6.6 percent and juveniles 2.2 percent of the total prison population. Authorities generally held men separately from women, juveniles separately from adults, and pretrial detainees separately from convicted prisoners. Prisons provided potable water.</p>
+<p>Some prisoners and detainees died in police custody. Six deaths early in the year reignited the call for the establishment of a police misconduct commission. The government and police opposed the idea, and there were no steps to create such a commission.</p>
+<p>On March 8, a man died a day after being sent to prison from a police jail. His family claimed he was in good health when he was arrested and that there were bruises on his face and arms when they identified his body. Police claimed a chest infection caused the death.</p>
+<p><u>Administration</u>: NGOs considered recordkeeping on prisoners adequate. Authorities did not use alternatives to imprisonment for nonviolent offenders. Prisoners and detainees were allowed visitors during specified visiting hours. Prisoners and detainees also were allowed freedom of religious observance provided religious practices were not derived from one of the sects of Islam the government bans as “deviant.” The law does not provide a process for prisoners to submit complaints to judicial authorities, but it allows judges to visit prisons to examine conditions and ask prisoners and prison officials about prison conditions. The Human Rights Commission of Malaysia (SUHAKAM) serves as the government’s de facto ombudsman, investigating allegations of human rights abuses within the prison system. Authorities generally treated communications between an attorney and his or her client as private and confidential.</p>
+<p><u>Independent Monitoring</u>: Authorities generally did not permit NGOs and the media to monitor prison conditions. The government provided regular access to the International Committee of the Red Cross and SUHAKAM officials on a case-by-case basis.</p>
+<p>The UN High Commissioner for Refugees (UNHCR) had access to registered refugees, asylum seekers, and unregistered persons of concern who may have claims to asylum and refugee status and were detained in immigration detention centers and prisons. According to the UNHCR in October, there were 148,940 persons of concern, with 137,777 of Myanmar origin. As of September 30, the UNHCR successfully resettled 8,693 refugees.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Police may detain those suspected of terrorism or other national security crimes for up to 28 days, at which time the accused must be charged or released. Additionally, some observers criticized other provisions that allowed the identity of witnesses to be kept secret (inhibiting cross-examination of witnesses) and allowed the accused to be detained after an acquittal should the prosecution decide to appeal.</p>
+<p>The law allows investigative detention to prevent a criminal suspect from fleeing or destroying evidence during an investigation. Additionally, authorities may invoke detention without trial for certain registered persons suspected of involvement in organized crime or previously convicted of crimes involving dishonesty or violence. In September police revealed they had detained three persons, including a Filipino, dating from July 22, for alleged involvement in the Royal Sulu Army, a group claiming the state of Sabah as part of its empire.</p>
+<p>Investigation into use of deadly force by a law enforcement officer occurs only if the attorney general initiates the investigation, or if he approves an application for an investigation by family members of the deceased. When the attorney general orders an inquest, a coroner’s court convenes and the hearing is open to the public. In these cases the court generally issues an open verdict, which means no verdict was reached and no further action taken against police.</p>
+<p>Police may hold suspected drug traffickers without trial for up to 39 days before the home affairs minister must issue a detention order. Once the ministry issues the detention order, the detainee is entitled to a hearing before a court, which has the authority to order the detainee’s release. Authorities may hold suspects without charge for successive two-year intervals with periodic review by an advisory board, whose opinion is binding on the minister. Police sometimes detained suspected narcotics traffickers under this act after a decision not to pursue formal charges. Immigration law allows authorities to arrest and detain noncitizens for 30 days pending a deportation decision.</p>
+<p>Under the terms of antitrafficking legislation, foreign trafficking victims certified under a protection order are forced to remain in the country during court proceedings of their cases and are detained in government facilities for the duration of the trials against their traffickers.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The approximately 102,000-member Royal Malaysia Police force reports to the home affairs minister. The Inspector General of Police is responsible for organizing and administering the police force. State-level Islamic religious enforcement officers have the authority to accompany police on raids or conduct raids of private premises and public establishments to enforce sharia, including bans on indecent dress, alcohol consumption, the sale of restricted books, or close proximity to members of the opposite sex. Religious authorities at the state level administer sharia for civil and family law through Islamic courts and have jurisdiction for all Muslims. The Ministry of Home Affairs also oversees the People’s Volunteer Corps (RELA), a paramilitary civilian volunteer corps. NGOs remained concerned that inadequate training left RELA members poorly equipped to perform their duties. Reported abuses by RELA members included extortion, theft, pilfering items from homes, and pillaging of refugee housing. Reports of abuse, however, were fewer than in previous years.</p>
+<p>The government has some mechanisms to investigate and punish abuse and corruption, and SUHAKAM played a role in investigating alleged abuses committed by the security forces. NGOs and media reported that despite investigation into some incidents, security forces often acted with impunity.</p>
+<p>Police officers are subject to trial by the criminal and civil courts. Police representatives reported there were disciplinary actions against police officers and that punishment included suspension, dismissal, and demotion. Civil society groups renewed their call for the parliament to oversee an independent police complaints and misconduct commission. Police training included human rights awareness in its courses. SUHAKAM also conducted human rights training and workshops for police and prison officials.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law permits police to arrest and detain individuals for some offenses without a warrant for a limited time. Although police generally observed these provisions, NGOs reported the police practice of releasing suspects and then quickly rearresting and holding them in continued investigative custody. Some NGOs asserted a police approach of “arrest first, investigate later” was prevalent, particularly in cases involving allegations of terrorism. By law an arrested individual has the right to be informed of the grounds for arrest by the arresting police officer.</p>
+<p>Bail is usually available for those accused of crimes not punishable by life imprisonment or death. The amount and availability of bail is determined at the judge’s discretion. Those granted bail usually must surrender their passports to the court.</p>
+<p>Police must inform detainees they may contact family members and consult a lawyer of their choice. Police, however, often denied detainees access to legal counsel and questioned suspects without allowing access to counsel. Police justified this practice as necessary to prevent interference in investigations in progress, and judicial decisions generally upheld the practice. On some occasions law enforcement agencies did not promptly allow access to family members.</p>
+<p>The law allows the detention of a material witness in a criminal case if that person is likely to flee.</p>
+<p><u>Arbitrary Arrest</u>: Between January and August 20, police detained 1,581 persons for drug possession and detained another 7,303 after they tested positive for drug use.</p>
+<p><u>Pretrial Detention</u>: Crowded and understaffed courts often resulted in lengthy pretrial detention, sometimes lasting several years. The International Center for Prison Studies reported that as of mid-2012, pretrial detainees made up 21.6 percent of the total prisoner population.</p>
+<p><u>Detention of Rejected Asylum Seekers or Stateless Persons</u>: A rejected Sri Lankan asylum seeker died of leptospirosis in Seremban Hospital after he became ill while in the Lenggeng Immigration Detention Center.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Three constitutional articles provide the basis for an independent judiciary; however, other constitutional provisions, legislation restricting judicial review, and additional factors limited judicial independence and strengthened executive influence over the judiciary.</p>
+<p>Members of the bar, NGO representatives, and other observers expressed serious concern about significant limitations on judicial independence, citing a number of high-profile instances of arbitrary verdicts, selective prosecution, and preferential treatment of some litigants and lawyers.</p>
+<p>On March 7, the Court of Appeal overturned the 2012 acquittal of opposition leader Anwar Ibrahim on politically motivated charges of having engaged in consensual sodomy in 2008. The entire procedure was unusually speedy, with the verdict delivered just before the nomination day for a by-election Anwar was slated to contest, thereby disqualifying him.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>English common law is the basis for the civil legal system. The constitution states all persons are equal before the law and entitled to equal protection of the law. Defendants are presumed innocent until proven guilty. Trials are public, although judges may order restrictions on press coverage. Juries are not used. Defendants have the right to counsel at public expense if facing charges that may carry the death penalty and may apply for a public defender in certain other cases.</p>
+<p>According to the Malaysian Bar Council, defendants generally have adequate time and facilities to prepare a defense if they have the means to engage private counsel. Otherwise, defendants must rely on legal aid and the amount of time to prepare for the trial is at the discretion of the judge. Strict rules of evidence apply in court; the government, however, did not consistently make evidence available to the defense.</p>
+<p>Defendants confronted witnesses against them and presented witnesses and evidence on their behalf, although judges sometimes disallowed witness testimony. Defendants may make statements for the record to an investigative agency prior to trial. Limited pretrial discovery in criminal cases impeded defendants’ ability to defend themselves. Attorneys must apply for a court order to obtain documents covered under the official secrecy laws.</p>
+<p>Defendants may appeal court decisions to higher courts, but only if the appeal raises a question of law or if material circumstances raise a reasonable doubt regarding conviction or sentencing. The Bar Council claimed these restrictions were excessive.</p>
+<p>Many NGOs complained that women did not receive fair treatment from sharia courts, especially in matters of divorce and child custody.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>On September 19, authorities sentenced pro-opposition activist Adam Adli to one year in jail for sedition, based on comments he made complaining about 2013 election results and questioning the legitimacy of the government. Also in September, authorities found student activist Muhammad Safwan Anang guilty on a similar sedition charge stemming from the same post-election event and sentenced him to 10 months in jail. At year’s end both remained free on bail pending appeals. At least 12 other opposition leaders, academics, and journalists were awaiting trial for alleged seditious statements against the government, royalty, and the administration of justice.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The government and officials may be sued in court for alleged violations of human rights. The structure of the civil judiciary mirrors that of the criminal courts. A large case backlog often resulted in delayed court-ordered relief for civil plaintiffs. The courts have increasingly encouraged the use of mediation and arbitration to speed settlements.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Laws prohibit arbitrary interference with privacy rights; nevertheless, authorities infringed on citizens’ privacy rights in some cases. Certain provisions allow police to enter and search without a warrant the homes of persons suspected of threatening national security. Police also may confiscate evidence under these provisions. Police used this legal authority to search homes and offices; seize computers, books, and newspapers; monitor conversations; and take persons into custody without a warrant. The government monitored the internet and threatened to detain anyone sending content that the government deemed threatening to public order or security.</p>
+<p>Islamic authorities may enter private premises without a warrant if they deem swift action necessary to catch Muslims suspected of engaging in offenses such as gambling, consumption of alcohol, and sexual relations outside marriage.</p>
+<p>The government bans membership in unregistered political parties and organizations.</p>
+<p>The government does not recognize marriages between Muslims and non-Muslims and considers children born of such marriages illegitimate.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section2"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, although the government restricted freedom of expression and intimidated journalists and the public into practicing self-censorship. Government representatives cited upholding Islam and the special position of ethnic Malays, protection of national security, public order, and friendly relations with other countries as reasons for restricting the media.</p>
+<p><u>Freedom of Speech</u>: The constitution provides that laws may impose restrictions on freedom of speech “in the interest of the security of the Federation…[or] public order.” The law prohibits sedition - public comment on issues defined as sensitive, such as racial and religious matters or criticism of the government, king, or ruling sultans. Sedition charges often stemmed from comments unrelated to those matters and especially by vocal opposition leaders. Civil society groups claimed the government failed to investigate and prosecute similar “seditious” statements made by progovernment or pro-Malay individuals. The law also limits freedom of speech by criminalizing defamation and controlling printing methods and publication.</p>
+<p>The government retaliated against some who criticized it. Despite promising to repeal the colonial-era law prohibiting sedition in 2012, Prime Minister Najib Razak’s administration charged at least 12 elected opposition leaders and other government critics with sedition and publicly announced they were investigating at least 10 more, especially in the second half of the year. Prime Minister Najib officially dropped his pledge to repeal the sedition law in a November 27 speech. Instead, he announced plans to retain the law and expand it to cover statements denigrating Islam or other religions, and statements supporting the secession in the East Malaysia states of Sabah and Sarawak on the island of Borneo.</p>
+<p>In March a member of parliament from the opposition People’s Justice Party (PKR), Tian Chua, was charged for suggesting separatist violence in Sabah state was part of an UMNO conspiracy. In April, Member of Parliament Teresa Kok from the opposition Democratic Action Party (DAP) was charged for producing a satirical Chinese New Year video that allegedly insulted Muslims and the government. In June a member of parliament from opposition Pan-Malaysian Islamic Party was charged for criticizing the Selangor state Islamic Council. In August a DAP state assemblyman in Penang was charged for insulting the ruling coalition UMNO party, while a PKR member of parliament who is also a lawyer representing Anwar Ibrahim in the latter’s sodomy appeal was charged for publicly repeating a defense argument that government officials had conspired to frame Anwar.</p>
+<p><u>Press Freedoms</u>: Political parties and individuals linked to the ruling coalition owned or controlled a majority of shares in almost all print and broadcast media, many of which were actively progovernment in their reporting. Online media outlets were more independent in their ownership and reporting but were often the target of legal action.</p>
+<p>The government exerted control over news content, both in print and broadcast media; punished publishers of “malicious news”; and banned, restricted, and limited circulation of publications believed to threaten public order, morality, or national security. The government has the power to suspend publication for these reasons, and retained effective control over the licensing process. It continued to deny a printing license to online news outlet <i>Malaysiakini</i>, despite a 2012 court decision finding the government exceeded the limit of its jurisdiction. <i>The Heat</i>, a news weekly magazine whose license was suspended in December 2013 over a cover story critical of the prime minister and his wife, was allowed to resume publication late January.</p>
+<p>Online media were occasionally barred from covering government press conferences.</p>
+<p><u>Violence and Harassment</u>: Journalists were subject to harassment and intimidation due to their reporting. In June Prime Minister Najib and UMNO filed a suit against <i>Malaysiakini</i>, claiming the portal’s comments section was “defamatory and seditious.” The case was pending at year’s end.</p>
+<p>In August an UMNO-linked corporation filed a RM100 million ($30.5 million) lawsuit against financial daily newspaper <i>The Edge</i>, seeking to uncover the sources of a story about the company. The corporation argued that the law does not protect journalists’ sources and that the court can compel them to reveal sources. A 2013 court decision, however, ruled in favor of a journalist in a similar case, citing maintaining source anonymity as in the public interest. <i>The Edge</i> case was pending at year’s end.</p>
+<p><u>Censorship or Content Restrictions</u>: The government censored the media, primarily the print and broadcast media. In addition to controlling news content by banning or restricting publications believed to threaten public order, morality, or national security, the government prosecuted journalists for “malicious news,” took little or no action against those who abused journalists, and limited circulation of some publications. A permit is required to own a printing press, and printers often were reluctant to print publications critical of the government for fear of reprisal. Such policies, together with antidefamation laws, inhibited independent or investigative journalism and resulted in extensive self-censorship.</p>
+<p>Despite these restrictions, publications of opposition parties, social action groups, unions, internet news sites, and other private groups actively covered opposition parties and frequently printed views critical of government policies. Online media and blogs provided views and reported stories not featured in the mainstream press, although their audience was largely limited to persons living in urban areas, who constituted 73 percent of the population.</p>
+<p>The government occasionally censored foreign magazines, foreign newspapers, and foreign-sourced television programming, most often for sexual content.</p>
+<p>Radio and television stations were as restricted as the print media and predominantly supported the government. News in those fora about the opposition was restricted and biased. Television stations censored programming in line with government guidelines.</p>
+<p>The government generally restricted remarks or publications including books that it judged might incite racial or religious disharmony. On June 23, the nation’s highest court upheld the ban on the Catholic Church’s newspaper <i>The Herald</i> from using the word “Allah,” which the government viewed as exclusive to Muslims.</p>
+<p>The Ministry of Home Affairs maintains a list of 1,535 banned books, 18 of which were added during the year.</p>
+<p><u>Libel Laws/National Security</u>: The law includes sections on civil and criminal defamation. Criminal defamation is punishable by a maximum of two years in jail, a fine, or both. The government used these laws, along with the provisions against sedition, to punish and suppress the publication of material that criticized government officials and policies.</p>
+<p><u>Nongovernmental Impact</u>: Progovernment NGOs sought to limit freedom of expression through criminal complaints. In September several NGOs lodged police reports against <i>Malaysiakini</i> and a reporter over an article alleging a Penang state cabinet member was mistreated during his arrest and interrogation. Police charged the journalist with sedition.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government for the most part maintained a policy of open and free access to the internet, but authorities monitored the internet for e-mail messages and blog postings deemed threatening to public security or order.</p>
+<p>The government warned internet users to avoid offensive or indecent content and sensitive matters such as religion and race. In August the government announced it was evaluating the need to ban access to Facebook following incidents of “abuse” on the social media site. In December, Communication and Multimedia Minister Shabery Cheek stated the government was considering ways to register and easily identify social media users to ease the collection of evidence of sedition or other crimes.</p>
+<p>Authorities increasingly used the law prohibiting sedition to prosecute dissenting views online. In August police investigated a 17-year-old student for clicking the “Like” button on a Facebook page entitled “We Love Israel.” During the same month, a Twitter user was fined RM10,000 ($3,060) for questioning the need for a monarchy.</p>
+<p>Criminal defamation laws led to some self-censorship by local internet content sources such as bloggers, news providers, and NGO activists.</p>
+<p>The law requires certain internet and other network service providers to obtain a license, and it permits punishment of the owner of a website or blog for allowing offensive racial, religious, or political content. By regarding users who post content as publishers, the government places the burden of proof on the user in these cases. NGOs and members of the public criticized the law, noting it could cause self-censorship due to liability concerns.</p>
+<p>According to the World Bank, approximately 17 million persons (67 percent of the population) used the internet.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government placed some restrictions on academic freedom, particularly the expression of unapproved political views, and enforced restrictions on teachers and students who expressed dissenting views. The government required all civil servants, university faculty, and students sign a pledge of loyalty to the king and government. Opposition leaders and human rights activists claimed the government used the loyalty pledge to restrain political activity among these groups.</p>
+<p>Although faculty members sometimes were publicly critical of the government, public university academics whose career advancement and funding depended on the government practiced self-censorship. Self-censorship took place among academics at private institutions as well, spurred by fears the government might revoke the licenses of their institutions. The law imposes limitations on student associations and on student and faculty political activity. Laws prohibiting sedition also could be used to limit academic freedom.</p>
+<p>The government regularly censored films, editing out profanity, kissing, sex, and nudity. The government also censored films for certain political and religious content. Films in Hebrew, Yiddish, or from Israel were not allowed to be shown in cinemas. In March the government banned the film <i>Noah</i>, deeming it un-Islamic for depicting a prophet, which contravenes Islamic law. Although the government allowed foreign films at local film festivals, it censored sexual content by blocking screens until the concerned scene was over. Media censorship rules forbid movies and songs that promoted acceptance of gay persons.</p>
+<p>In March authorities charged Kassim Ahmad, an 80-year-old former political and social activist, for “insulting Islam and not complying with religious authorities” after he criticized religious authorities, labelling them as a “priest caste” at a public forum. Kassim Ahmad sought to be tried in the civil court instead of the sharia court. His application was pending at year’s end.</p>
+<p>In July, University of Malaya fired the director of its Centre for Democracy and Elections. Numerous reports alleged the termination was due to the government’s dissatisfaction with the polling center’s findings, which it viewed as biased against the ruling coalition. In August the government charged Azmi Sharom, a law professor at the same university, with sedition for his claims the ruling coalition’s “secret meetings” leading up to a controversial 2009 change in Perak state’s government were not legal. In May the same university threatened disciplinary action against six students who staged a protest during President Obama’s town hall, but it did not pursue the matter.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for the freedoms of assembly and association but allows restrictions deemed necessary or expedient in the interest of security, public order, or (in the case of association) morality.</p>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The constitution states that all citizens have “the right to assemble peaceably and without arms”; however, several laws restricted this right. Groups are not required obtain a permit for assemblies. Nonetheless, police frequently placed time, place, and manner restrictions on the right to assemble. Authorities generally banned street protests, and police often confronted civil society and opposition demonstrations with water cannons, tear gas, and mass arrests. Protests deemed acceptable by the government usually proceed without interference. For instance, an August 2 rally in support of Palestinians held in the center of Kuala Lumpur and attended by thousands proceeded with little police presence.</p>
+<p>On April 25, the Court of Appeal dismissed charges against a member of the Selangor state assembly who was also an organizer of a 2013 protest disputing the country’s general election results, finding a law requiring citizens to give 10 days’ notice to the authorities before a protest was unconstitutional. The attorney general refiled the same charges against the same individual for the same offense two weeks later. He was acquitted again in November.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right of association; however, the government placed significant restrictions on this right, and certain statutes limit it. By law only registered organizations of seven or more persons may legally function. The registrar of societies often resisted registering organizations deemed particularly unfriendly to the government or imposed conditions when allowing a society to register. At year’s end the government had not acted on the 2010 application of the parliamentary opposition parties, the People’s Alliance, to register as a coalition. The government may revoke the registration of a registered society for violations of the law governing societies.</p>
+<p>The law prohibits students who hold political posts from conducting political party activities on campus, and universities may ban any organization deemed “unsuitable to the interests and well-being of the students or the university.” Students also are prohibited from “expressing support or sympathy” for an unlawful society or organization.</p>
+<p>Some human rights and civil society organizations had difficulty obtaining government recognition as NGOs. As a result some NGOs registered as companies, which presented legal and bureaucratic obstacles to raising money to support their activities. Authorities frequently cited a lack of registration as grounds to take action against organizations. Home Affairs Minister Zahid publicly vowed to block the registration of Negara-Ku, an antiracism coalition. Some NGOs also reported the government monitored their activities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation and the government generally respected these rights, although there were some restrictions, particularly with respect to the eastern states of Sabah and Sarawak. The government generally cooperated with the UNHCR. The government generally did not impede other humanitarian NGOs in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern. The UNHCR also reported three boat arrivals with a total of 299 individuals, mostly Rohingyas from northern Burma.</p>
+<p><u>In-country Movement</u>: Consistent with the 1963 agreement that incorporated Sabah and Sarawak into the country, these eastern states controlled immigration into their areas and required citizens from peninsular Malaysia and foreigners to present passports or national identity cards for entry. Selected national opposition leaders continued to be denied entry to East Malaysian states. On March 25, the Sarawak state government barred PKR Secretary-General Saifuddin Nasution, PKR Strategy Director Rafizi Ramli, and Vice President Tian Chua from entering the state to campaign in a by-election.</p>
+<p><u>Foreign Travel</u>: At the end of 2012, the government relaxed restrictions for travel to Israel. While traveling to the country is still subject to approval and limited to religious purposes, the government lifted the previously enforced quota and removed limits on age, frequency of visit, and size of travel group.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws do not provide for the granting of asylum or refugee status, but in practice the government cooperated closely with the UNHCR. The government did not provide legal protection against the expulsion or return of refugees to countries where their lives or freedom would be threatened on account of their race, religion, nationality, membership in a particular social group, or political opinion. At the same time, the government generally cooperated with the UNHCR and occasionally reported potential persons of concern to the UNHCR.</p>
+<p><u>Refoulement</u>: Human rights organization Suaram called on the government to refrain from deporting without due process 155 Uighurs, 76 of whom were children, arrested in October. The UNHCR also reported the government refouled a Chinese national and four Sri Lankans.</p>
+<p><u>Refugee Abuse</u>: The government sometimes detained asylum seekers, either in police jails or in immigration detention centers, until the UNHCR established the asylum seekers’ bona fides. Local and international NGOs estimated most of the country’s 17 immigration detention centers were at or beyond capacity, with some detainees held for a year or more. In January, however, Home Affairs Minister Zahid defended the adequacy of the immigration detention centers, saying they could accommodate 50,000 persons. In November 2013 the deputy minister of home affairs declared in parliament that detainees were held for a maximum of three months. The number detained in these centers was not publicly available.</p>
+<p>NGOs and international organizations involved with migrant workers and refugees made credible allegations of overcrowding, inadequate food and clothing, lack of regular access to clean water, poor medical care, improper sanitation, and lack of bedding. An NGO with access to the detention centers claimed these conditions and lack of medical screening and treatment facilitated the spread of disease and contributed to deaths. NGOs provided most of the medical care and treatment in the detention centers. The UNHCR reported three deaths of refugees or asylum seekers during the year.</p>
+<p><u>Employment</u>: Although registered refugees are not legally authorized to work, the government typically did not interfere with their doing casual work. The UNHCR reported there were a few cases, however, in which the government brought charges against employers for hiring them. During the year there were official announcements concerning deliberations about allowing refugees to work; the discussion continued in the media.</p>
+<p><u>Access to Basic Services</u>: For those with UNHCR cards, the government provided access to health care for refugees at a discounted foreigner’s rate, but not to asylum seekers. NGOs operated mobile clinics, but access was limited. Refugees did not have access to the public education system. Access to education for refugees was limited to NGO and ethnic community-run schools, and the UNHCR estimated that as of October, no more than 35 percent of refugee children attended school. A lack of resources and qualified teachers limited opportunities for the majority of school-age children. UNHCR staff members conducted numerous visits to various prisons and immigration detention centers to provide counseling, support, and legal representation for refugees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>The UNHCR estimated there were approximately 125,000 stateless persons in the country, 40 percent of whom were children. National Registration Department officials stated they do not keep records of stateless persons.</p>
+<p>The United Nations Children’s Fund (UNICEF) noted that the government’s MyDaftar, a campaign to address rampant statelessness among the country’s ethnic minorities prior to the 2013 national elections, addressed the problem but added that the government should expand the scope of the program. A number of local NGOs and SUHAKAM did research, conducted workshops, and ran public awareness campaigns on the problem of stateless children.</p>
+<p>Foreign women often may qualify for permanent resident status after five years of marriage to a citizen (10 years for foreign men). After two years of permanent resident status, they are eligible to apply for citizenship. While awaiting permanent resident status, foreign spouses of citizens are usually granted visas that allow them an extended legal stay in the country. A local advocacy group for migrant workers reported that in the last five or six years, these processes improved to include shorter waiting times in the processing of permanent residency petitions and visas. Although nationality laws in the country were not overtly discriminatory because of ethnicity or religion, there was a perception that Muslims received preference. For instance, there were long-running allegations that the government gave citizenship to migrating Filipino Muslims in the eastern state of Sabah to alter its religious and political demographics. In December the findings of a government inquiry into the allegations confirmed many of these suspicions. Refugees were at a particular disadvantage because they often were unable to provide valid documentation to prove citizenship in their countries of origin.</p>
+<p>Authorities considered children born out of wedlock to foreign women to have inherited their mother’s citizenship. Such births may be registered only if the mother produces proof of her citizenship, creating a risk of statelessness because many foreign women are unable to produce a passport or other evidence. According to the UNHCR, refugees or asylum seekers often did not have valid proof of citizenship. In these cases the child’s citizenship was listed as “unknown” on his or her birth certificate. The UNHCR deemed this a widespread problem.</p>
+<p>Although children born in the country of illegal migrant mothers married to Malaysian men are eligible for citizenship, the mother may have difficulty registering the marriage and subsequently the child’s citizenship because of inability to provide a valid passport or identification document. Some observers indicated that children born to Muslim refugees and asylum seekers often had an easier time obtaining citizenship than non-Muslim refugees and asylum seekers. For refugees in Muslim marriages, the observers claimed that authorities often accepted a UNHCR document or other documentation in lieu of a passport.</p>
+<p>Individuals without proof of citizenship were not able to attend school, access government services such as reduced cost health care, or own property. The UNHCR may provide birth registration or other documentation in some cases.</p>
+<p>By law anyone entering the country without appropriate documentation is considered illegal and faces mandatory imprisonment for a maximum of five years, a fine not to exceed RM10,000 ($3,060), or both, and mandatory caning not to exceed six strokes.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section3"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through free and fair elections, which they exercised through elections based on universal suffrage. The ruling party in government, however, has not changed since 1957. While votes generally were recorded accurately, there were irregularities that affected the fairness of elections. The constitution does not limit the difference in the size of electoral constituencies in each district, and each constituency, regardless of population, is represented by one parliamentary seat. The number of inhabitants in electoral districts varies, with rural districts generally smaller in population than urban districts. For example, the rural district of Igan had 18,000 registered voters with one representative, while the urban district of Kapar had more than 144,000 registered voters with one representative. This regulation has the effect of overrepresenting the rural vote, which was constitutionally mandated as part of the agreement for the states of Sabah and Sarawak to join the Malaysian federation in 1963.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: The overrepresentation issue affected the national elections in 2013, when the government won 133 of 222 seats, with many of the victories coming in rural areas. Opposition parties won 52 percent of the popular vote but failed to gain a majority in parliament.</p>
+<p>In March electoral reform coalition Bersih released a report citing the Election Commission’s lack of independence as a key problem and asserting that the electoral system failed to meet international standards in many respects.</p>
+<p>Civil society and election watchdogs closely watched the upcoming revision of constituency maps, expected by the end of the year, and were prepared to challenge the Election Commission on gerrymandering and malapportionment to favor the ruling coalition.</p>
+<p>Despite commanding the support of a majority of the state legislature in Selangor, the state’s sultan refused to appoint PKR President Wan Azizah Wan Ismail as chief minister, appointing her deputy instead, raising concerns among civil society about the separation of powers in the constitutional monarchy system.</p>
+<p><u>Political Parties and Political Participation</u>: Opposition parties were unable to compete on equal terms with the UMNO-led BN coalition and were subjected to restrictions and outside interference. The lack of equal access to media was a serious problem for the opposition in the national elections. News about the opposition was restricted and reported in a biased fashion in print and broadcast media. The Election Commission comes under the purview of the Prime Minister’s Department, which opposition leaders cited as proof of its lack of independence.</p>
+<p>Efforts by opposition-led state governments to challenge the 1965 ban on local and municipal level elections continued to be unsuccessful. In August the Federal Court ruled against the bid by the Penang state government to restore elections for local government.</p>
+<p><u>Participation of Women and Minorities</u>: Women faced no legal limits on participation in government and politics, but they occupied few senior roles. Women held two of 35 cabinet posts, 23 of the 222 elected seats in the lower house of parliament, and 17 of the 61 seats in the appointed senate.</p>
+<p>The politically dominant Malay majority held the most powerful government senior leadership positions. Non-Malays filled 10 of the 35 ministerial posts and nine of the 27 deputy minister positions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section4"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption; however, enforcement generally focused on relatively small-scale, low-level crime. The media reported numerous cases of alleged official corruption, and there was a broadly held perception of widespread corruption and cronyism within the governing coalition and in government institutions.</p>
+<p><u>Corruption</u>: While the government successfully prosecuted rising numbers of bribe-taking officials and persons paying bribes, observers noted that the government neither prosecuted nor convicted many senior officials.</p>
+<p>The Malaysian Anti-Corruption Commission is responsible for investigating and prosecuting corruption of both private and public bodies. An auditor general has the responsibility, set forth in the constitution, to audit the accounts of the federal and state governments, government agencies, and other public authorities.</p>
+<p>The anticorruption commission made several significant arrests, including the September detention of a dozen customs agency officers who had conspired to evade more than RM1 billion ($306 million) in taxes.</p>
+<p>The Attorney General’s Chambers, however, was criticized for its inaction in certain anticorruption cases, including one involving a former UMNO official who was accused of misappropriating RM1.1 million ($336,000) from a government antipoverty program.</p>
+<p><u>Financial Disclosure</u>: Cabinet members must declare their assets to the prime minister. Senior civil servants are required to declare their assets to the chief secretary of the government. Junior civil servants must declare their assets to the head of their department. The assets, liabilities, and interests public officials must declare are clearly defined and do not include the assets and incomes of spouses and dependent children. Public officials must declare their assets on an annual basis and not upon entry or exit of their posting. Those who refuse or fail to declare their assets face disciplinary actions and are ineligible for promotion. The declarations were not made public.</p>
+<p><u>Public Access to Information</u>: The law prohibits dissemination of a wide variety of documents that may be classified by a minister in the federal government, a chief minister of a state, or similar public officers. Critics accused the government of using these powers to prevent dissemination of materials and stifle dissent. Members of parliament are allowed to obtain information protected by government classification on individual basis, some of which was then made available to the public.</p>
+<p>The states of Selangor and Penang, both controlled by the opposition coalition, are the only states with freedom of information laws that allow public access to certain state documents. An NGO opposed to a controversial highway project, however, claimed the information released by the Selangor state government under a freedom of information request was incomplete.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section5"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials were cooperative and responsive to their views.</p>
+<p>The government generally allowed NGOs to function independently, met with representatives from some NGOs, and responded to some requests of NGOs. The government, however, also took actions against some NGOs.</p>
+<p>Civil society organizations participated in the country’s second Universal Periodic Review in October 2013. After the review was completed, however, NGOs accused the government of not adequately consulting with civil society during the process and of writing a report that did not sufficiently address human rights concerns in the country. In January the Ministry of Home Affairs declared a coalition of domestic NGOs contributing to the country’s Universal Periodic Review to be illegal because it was not registered. It also accused the coalition of deviating from the Islamic faith for defending the rights of the LGBT community. The declaration was later reversed and never implemented.</p>
+<p>In July the Registrar of Societies investigated Negara-Ku, a newly formed antiextremism umbrella organization, after the Ministry of Home Affairs deemed it an illegal entity. The government took no action against the movement or its founders.</p>
+<p><u>Government Human Rights Bodies</u>: The official human rights commission SUHAKAM was created by an act of parliament and is headed by a chairman and commissioners appointed by the king on the recommendation of the prime minister. Observers generally considered SUHAKAM a credible monitor of the human rights situation. It conducted training, undertook investigations, provided reports, and made recommendations to the government. SUHAKAM is not empowered to inquire into allegations relating to court cases in progress and must cease an inquiry if an allegation under investigation becomes the subject of a court case.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section6"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides for equal protection under the law and prohibits discrimination against citizens based on race, gender, religion, descent, or place of birth. The law is silent on discrimination based on disabilities and sexual orientation. The constitution also provides for the “special position” of ethnic Malays and the indigenous groups of the eastern states of Sabah and Sarawak (collectively, “bumiputra”), and discrimination based on this provision persisted.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, including marital rape, is a criminal offense, as are most forms of domestic violence. The penal code states that rape is punishable by a prison term of up to 20 years and whipping. Marital rape does not have a minimum penalty, but the maximum penalty is five years’ imprisonment. According to women’s groups, an average of 10 women were raped each day; more than half of these women were under 16. A study by All Women’s Action Society found only one in 10 reported rape cases came to court. A report by the Women’s Centre for Change showed that perpetrators were convicted in only 4 to 6 percent of cases. The latest police statistics available showed 2,718 rapes were reported in 2013, of which 52 percent involved girls age 16 and below.</p>
+<p>Cultural attitudes and a reported lack of sympathy from the largely male police force resulted in many victims not reporting rapes. Many government hospitals had crisis centers where victims of rape and domestic abuse could make reports without going to a police station. NGOs and political parties also cooperated to provide counseling for rape victims. Women’s groups asserted that courts were inconsistent in punishing rapists.</p>
+<p>Although the government, NGOs, and political parties maintained shelters and offered other assistance to battered spouses, activists asserted that support mechanisms for victims of domestic violence remained inadequate. There is a sexual investigations unit at each police headquarters to help victims of sexual crimes and abuse. Additionally, police sometimes assign psychologists or counselors to provide emotional support. Women’s rights activists reported that police needed additional training in handling domestic abuse and rape cases. Reports of rape and spousal abuse drew considerable government, NGO, and press attention.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: FGM/C is practiced among adult women. In 2009 the Fatwa Committee of the National Council of Islamic Religious Affairs ruled that “female circumcision” was obligatory for Muslims but “if found to be harmful to health must be avoided.” In 2012 a university study reported that of more than one thousand women interviewed, more than 90 percent of Muslim respondents stated that they were circumcised. The most common reasons cited for its practice were religious obligation, hygienic purposes, and cultural tradition. The Ministry of Health responded to the fatwa by developing guidelines for the practice of female circumcision and allowed the practice to take place in health-care facilities, where, prior to the fatwa, it was prohibited.</p>
+<p><u>Other Harmful Traditional Practices</u>: Dowry deaths, honor killings, and other traditional practices were not common.</p>
+<p><u>Sexual Harassment</u>: The law prohibits a person in authority from using his position to intimidate a subordinate into having sexual relations. The law classifies some types of workplace sexual harassment as criminal offenses. A government voluntary code of conduct provides a detailed definition of sexual harassment intended to raise public awareness of the problem. Some observers noted that authorities took claims seriously, but victims were often reluctant to report sexual harassment because of embarrassment, the difficulty of proving the offense, and trial length.</p>
+<p>Employers are obligated to inquire into most sexual harassment complaints in a prescribed manner. The penalty for noncompliance is a fine not exceeding RM10,000 ($3,060). Advocacy groups such as the Association of Women Lawyers stated these provisions were not comprehensive enough to provide help to victims. The association advocated for passage of a separate sexual harassment bill making it compulsory for employers to formulate sexual harassment policies.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children; information on family planning was readily available from government and NGO sources; and couples and individuals had the right to attain the highest standard of reproductive health free from discrimination, coercion, and violence. Contraceptives such as birth-control pills and condoms were permitted and were locally available. Estimates of contraceptive use by women remained at approximately 50 percent. Skilled medical personnel attended a large majority of births, and women generally had access to postpartum care.</p>
+<p><u>Discrimination</u>: The constitution prohibits discrimination against citizens based on gender. The law allows polygyny for Muslims, which a small minority of men practiced. Islamic inheritance law generally favors male offspring and relatives. While sharia generally requires a husband’s consent for divorce, a small but steadily increasing number of women were able to obtain divorces under sharia without their husband’s consent. Non-Muslim women are subject to civil and criminal law but not sharia. The constitution gives men and women equal rights to inherit, acquire, own, manage, or dispose of any property, including land. Civil law gives non-Muslim mothers and fathers equal parental rights, while sharia favors fathers. Four states - Johor, Selangor, Negri Sembilan, and Pahang - extend equal parental rights to Muslim mothers, and women’s groups continued to urge the other states to do the same.</p>
+<p>The law requires equal pay for men and women workers for work of equal value. NGOs reported, however, continued discrimination against women in the workplace in terms of promotion and salary.</p>
+<p>Women experienced some economic discrimination in access to employment. The UN Development Program Country Program 2013-15 report noted participation in the labor market for women was 46.1 percent, compared with 78.7 percent for men. The government continued to seek to increase female labor force participation. According to the Prime Minister’s Department, as of 2013 women held only 7 percent of board seats in listed companies.</p>
+<p>The law provides that women in the private sector are entitled to 60 days’ maternity leave, and women in civil service are entitled to 90 days’ maternity leave. Men are not entitled to paternity leave. Some pregnant women experienced employment discrimination. Employers routinely asked women their marital status during job interviews.</p>
+<p>In August, Minister for Women, Family, and Community Development Rohani Abdul Karim stated the government was collaborating with companies to increase child-care facilities and working with companies to raise the female labor participation rate to 55 percent by 2015. Prime Minister Najib offered tax incentives to companies that establish nurseries and allow flexible work arrangements to encourage more women to return to work following the birth of their children.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The constitution stipulates that a child born in the country can be granted nationality only if one parent is a citizen or permanent resident at the time of birth. Citizenship is not granted automatically, and parents must register a child within 14 days of birth. Authorities require citizens to provide their marriage certificate and both parents' government identity cards. Noncitizens must provide a passport or travel documents. Parents applying for late registration must prove the child was born in the country. Authorities do not enter the father's information for a child born out of wedlock unless there is a joint application by both parents. Authorities do not register children born to illegal immigrants or asylum seekers. The UNHCR registered children born to refugees.</p>
+<p><u>Education</u>: Education is free, compulsory, and universal through primary school (six years). Although primary education is compulsory, there was no enforcement mechanism governing school attendance.</p>
+<p>UNICEF’s <i>State of the World’s Children 2014</i> highlighted secondary school enrollment as a cause for concern. Enrollment was 71 percent for girls and 66 percent for boys, compared with 96 percent overall enrollment in primary school.</p>
+<p><u>Child Abuse</u>: Child abuse took the form of neglect (failure to provide basic needs), physical abuse, sexual abuse, and infant abandonment. Punishment for child abuse includes fines, imprisonment, caning, or a combination these measures.</p>
+<p>The government focused on preventing sexual exploitation of children, including commercial sexual exploitation. Incest also was a problem. The law provides for from six to 20 years’ imprisonment and caning for individuals convicted of incest. A child’s testimony is acceptable only if there is corroborating evidence. This posed special problems for molestation cases in which the child victim was the only witness.</p>
+<p>According to police there were 178 cases of child abuse in the first half of the year. In 2013 there were 295 total cases reported.</p>
+<p><u>Early and Forced Marriage</u>: The minimum age of marriage is 18 for men and 16 for women and girls. Muslim girls under age 16 may marry with the approval of a sharia court. Statistics pointed to a rise in the incidence of child marriages, although obtaining accurate data on child marriage was difficult due to underreporting of unregistered/unofficial customary marriages.</p>
+<p>In October the media reported that in the first half of the year, sharia courts approved 446 of 600 applications for marriage involving girls under age 16.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: Ministry of Health guidelines allowed the increasingly common practice, but only if conducted at government health-care facilities. A 2012 university study on FGM/C reported that more than 90 percent of Muslim respondents stated that they were circumcised.</p>
+<p><u>Other Harmful Traditional Practices</u>: Dowry deaths, honor killings, and other traditional practices were not common.</p>
+<p><u>Sexual Exploitation of Children</u>: Any person convicted of a trafficking in persons offense involving a child for the purposes of sexual exploitation faces imprisonment of three to 20 years and a fine. Under the penal code, the minimum age for consensual, noncommercial sex is 16 for both boys and girls. Homosexual acts are illegal regardless of age or consent. Sharia forbids sex outside of wedlock regardless of age or consent.</p>
+<p>The law outlaws pornography but does not address the involvement of children specifically. Child prostitution existed, but authorities often treated children in prostitution as offenders or undocumented immigrants rather than as victims.</p>
+<p><u>Displaced Children</u>: The prevalence of street children was a problem in Sabah. Estimates of street children ranged from a few hundred to 15,000 children, many of whom were born in the country to illegal immigrant parents. Some of these parents were deported, leaving the children without their guardians. These unaccompanied children lacked citizenship and access to schooling or other government-provided support and often resorted to menial labor, criminal activities, and prostitution to survive; those living on the streets were vulnerable to forced labor, including forced begging.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Estimates of the country’s Jewish population were between 100 and 200 persons. Anti-Semitism was a serious problem across the political spectrum and attracted wide support among segments of the population. Government-owned newspapers and statements by current and former political officeholders sometimes blamed civil society activity on “Jewish plots” or “Jewish conspiracies.”</p>
+<p>In July an UMNO member of parliament tweeted “Long live Hitler” after Germany defeated Brazil in the World Cup final. After much criticism he offered an apology.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>Neither the constitution nor other laws explicitly prohibit discrimination based on physical or mental disabilities, but the government promoted public acceptance and integration of persons with disabilities. The Ministry of Women, Family, and Community and Development is responsible for safeguarding the rights of persons with disabilities.</p>
+<p>In November 2013 disability rights activist Bathmavathi Krishnan was sworn in as the country’s second-ever senator with a disability.</p>
+<p>The law states that persons with disabilities should be treated equally with access to public services and facilities and that the government and other providers should make improvements to ensure the availability of services. New government buildings were generally outfitted with a full range of facilities for persons with disabilities. The government, however, did not mandate accessibility to transportation for persons with disabilities, and few older public facilities were adapted for such persons. Recognizing public transportation was not “disabled-friendly,” the government maintained its 50 percent reduction of the excise duty on locally made cars and motorcycles adapted for persons with disabilities.</p>
+<p>A code of practice guides all government agencies, employers, employee associations, employees, and others in placing persons with disabilities in private sector jobs. A regulation reserves 1 percent of public sector jobs for persons with disabilities. Nonetheless, disability rights NGOs reported that employers were reluctant to hire individuals with disabilities. Special education schools existed but were not sufficient to meet the needs of persons with disabilities. Students with disabilities attended mainstream schools, but accessibility remained a serious problem.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The constitution gives ethnic Malays and other indigenous groups, collectively known as “bumiputra,” a “special position” in the country, compared to ethnic Chinese or Indians. Government regulations and policy provide for extensive preferential programs designed to boost the economic position of ethnic Malays or bumiputra, who constitute a majority of the population. Such programs limited opportunities for nonbumiputra in higher education and government employment. Many industries were subject to race-based requirements that mandated bumiputra ownership levels; government procurement and licensing policies favor bumiputra-owned businesses. According to the government, these policies were necessary to attain ethnic harmony and political stability.</p>
+<p>Despite the government’s stated goal of poverty alleviation, these race-based policies were not subject to upper income limitations and contributed to a widening economic disparity within the bumiputra community. Ethnic Indian citizens, who similar to ethnic Chinese citizens do not receive such privileges, remained among the country’s poorest groups.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The constitution provides indigenous and nonindigenous people with the same civil and political rights, but the government did not effectively protect these rights. NGOs reported authorities frequently ignored indigenous people’s efforts to obtain identity cards. Parliament blocked efforts by SUHAKAM to introduce a parliamentary debate about their 2013 report, which concluded indigenous people were “among the most marginalized and disadvantaged groups in Malaysia.”</p>
+<p>Indigenous people in peninsular Malaysia, known as Orang Asli, had very little ability to participate in decisions that affected them. A constitutional provision provides for “the special position of the Malays and natives of any of the States of Sabah and Sarawak,” but it does not refer specifically to the Orang Asli. This ambiguity over the community’s status in the constitution led to selective interpretation by different public institutions. For example, while several states set aside land for Orang Asli communities, an NGO claimed the national land code (which provides permanency of tenure to the more generous-sized lands of the indigenous peoples of Sabah and Sarawak) does not cover these lands.</p>
+<p>The Orang Asli, who numbered approximately 180,000 (0.86 percent of the population) constituted the poorest group in the country. They do not own the land they live on, but rather they are permitted to live on designated land as at-will tenants, typically without documentation. The government can seize this land if it provides compensation. There were confrontations between the Orang Asli and logging companies over land issues, and the uncertainty over their land tenure made the Orang Asli vulnerable to exploitation.</p>
+<p>Indigenous people in Sabah and Sarawak protested encroachment by state and private logging and plantation companies onto land that they considered theirs under native customary rights. They were disadvantaged, however, by laws allowing purchase of land with perfunctory newspaper notifications, to which indigenous persons may not have access. Indigenous groups also reported harassment by logging companies.</p>
+<p>The Sarawak state government’s plan to build 12 hydroelectric dams threatened to displace tens of thousands of indigenous peoples. In August a Bar Council study showed those already relocated lived in poor conditions.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The penal code states that sodomy and oral sex acts are “carnal intercourse against the order of nature,” but it was rarely enforced. It was, however, the basis for the politically motivated case against parliamentary opposition leader Anwar Ibrahim (see section 1.e.). Religious and cultural taboos against same-sex sexual conduct were widespread.</p>
+<p>Transgender individuals were often charged under the Minor Offences Act for “indecent behavior” and “importuning for immoral purposes” in public. Those convicted of a first offense may be fined up to RM25 ($7.65) and sentenced to as many as 14 days in jail. The sentences for subsequent convictions may be fines up to RM100 ($30.60) and up to three months in jail. Local advocates contended that those imprisoned served their time in the male prison population and were often mistreated verbally and sexually by police and other inmates.</p>
+<p>In November the Court of Appeal declared unconstitutional a provision in a state’s Islamic law criminalizing cross-dressing for Muslims. The case began in 2011, when three Muslim transgender women challenged the provision in the state of Negeri Sembilan, claiming it violated their constitutional rights. The judgment noted that while states are empowered to enact laws involving matters of Islam, such laws cannot contravene the federal constitution. The state government was appealing the decision.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section7"> </span><span class="st_twitter" st_title="Malaysia #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Malaysia - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236454%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for limited freedom of association and for some categories of workers to form and join trade unions, subject to a variety of legal and practical restrictions. The law provides for the right to strike and to bargain collectively, but both are severely restricted by regulations and by sector. The law prohibits employers from interfering with union activities, including union formation. It prohibits employers from seeking retribution for legal union activities and requires reinstatement of workers fired for union activity. This law was not effectively enforced.</p>
+<p>The law prohibits defense and police officials, or public sector workers categorized as “confidential, managerial, and executive.” from joining a union. Foreign workers may join a trade union but cannot hold union offices. Contract workers may not form a union and cannot negotiate or benefit from collective bargaining agreements.</p>
+<p>The Director General of Trade Unions and the Minister of Human Resources may refuse to register or withdraw registration from some unions without judicial oversight. Authorities consider a trade union an unlawful association when its registration is refused, withdrawn, or canceled.</p>
+<p>While the Ministry of Labor prohibits national-level unions, it allows three regional territorial federations of unions (Peninsular Malaysia, Sabah, and Sarawak) to operate. They exercised many of the responsibilities of national-level labor unions, although they could not bargain on behalf of local unions. The Malaysian Trade Unions Congress (MTUC) is a registered “society” of trade unions in both the private and government sectors that does not have the right to collectively bargain or strike but may provide technical support to affiliated members. Trade unions may affiliate with international trade union organizations, subject to the approval of the director general of trade unions.</p>
+<p>Most private sector workers have the right to bargain collectively, although these negotiations cannot include issues of transfer, promotion, appointments, dismissal, and reinstatement. The law restricts collective bargaining in “pioneer” industries the government has identified as growth priorities, including various high tech fields. Public sector workers have some collective bargaining rights, although some could only express opinions on wages and working conditions instead of actively negotiating. In the event that a union initiates collective bargaining, employers are not mandated to accept the invitation. If negotiations stall or an employer refuses to negotiate, the union may appeal to the director general of trade unions to conciliate. If the parties are still unable to agree, the Ministry of Human Resources may refer the dispute to the Industrial Court for binding arbitration.</p>
+<p>Private sector strikes are legal, although they are severely restricted. Union officials claimed that legal requirements were almost impossible to meet. General strikes are prohibited. Trade unions are not allowed to strike for disputes relating to trade union registration or illegal dismissals. Strikes are restricted in a broad range of industries deemed “essential,” nor can they be held when a dispute is before the Industrial Court.</p>
+<p>Freedom of association and collective bargaining were not fully respected in practice, and few protections were given to workers whose freedoms of association were violated. Some workers’ organizations were independent of government, political parties, and employers, but employer-dominated or “yellow” unions were reportedly a concern.</p>
+<p>The inability of unions to provide more than limited protection for workers, particularly foreign workers, and the prevalence of antiunion discrimination created a disincentive to unionize. In some instances companies reportedly harassed leaders of unions seeking recognition. Some trade unions reported that the government detained or restricted the movement of some union members under laws allowing temporary detention without charging the detainee with a crime. Trade unions asserted some workers had wages withheld or were terminated because of union-related activity. A terminated worker legally ceases to be a member of his or her trade union. Labor activists complained that the loss of membership upon termination comes when trade union support and assistance is most necessary.</p>
+<p>In February, Malaysia Airlines sent warning letters to 30 members of the flight attendants’ union for allegedly taking part in a gathering at the Ministry of Human Resources in November 2013. The airline also terminated the union president and four flight attendants and suspended another union official with half pay.</p>
+<p>In September train operator Keretapi Tanah Melayu Berhad fired 18 members of the Railwaymen Union of Malaya, including its president and vice president. Another 13 were suspended, and 88 others were issued warning letters. The union members had organized a protest in May calling for the resignation of the company president.</p>
+<p>Union officials expressed frustration about delays in the settlement of union recognition disputes. It was common for such applications to be refused. If union’s request was approved, the employer sometimes challenged the decision in court, leading to multi-year delays in recognizing unions. The Ministry of Human Resources reported 706 recognized unions in the country, up from 694 the previous year. The time needed for a union to be recognized remained unpredictable and long. In July a union of workers at an electronics factory received official recognition three years after it applied.</p>
+<p>NGOs provided direct assistance to migrant workers through Migrant Workers Resource Centers, as well as advice on labor organizing. They also worked with unions in countries of migrant workers’ origin to educate persons on their rights before they arrived in Malaysia. Given the limited number of labor NGOs compared to the large number of migrant workers, however, only a small number of migrant workers obtained assistance.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits forced or compulsory labor, but forced labor occurred in the country. Five agencies, including the Department of Labor, have enforcement powers under the law, but their standard operating procedures did not always result in officers actively searching for indications of forced labor. NGOs continued to criticize the lack of resources dedicated to the enforcement of the law. The Labor Department relied on evidence of three months’ nonpayment of wages in order to initiate an investigation into a potential forced labor case. Potential penalties included fines of up to RM10,000 ($3,060). In addition to these fines, forced labor perpetrators were often charged with connected crimes that included harsher penalties. For example, the antitrafficking law allows imprisonment of up to 15 years and a fine, depending on the nature of the offense.</p>
+<p>The national antitrafficking council reported that Department of Labor officials received specialized training including with other law enforcement agencies to help increase coordination.</p>
+<p>A variety of sources reported occurrences of forced labor, or conditions indicative of forced labor, in plantation agriculture, the fishing industry, electronics factories, garment production, construction, restaurants, and domestic households, among adults and children (see section 7.c.).</p>
+<p>In July a gold-related manufacturing and production company in Batu Pahat, Johor, was sentenced for trafficking 10 Cambodian women for forced labor. The company’s owner and a clerk were both sentenced to prison terms of several years under the antitrafficking law provisions.</p>
+<p>Labor activists and human rights NGOs reported debt bondage often characterized conditions for migrant workers on some plantations as well as in some factories and other businesses. Labor union representatives described a typical pattern involving recruiting agents both in the countries of origin and in Malaysia who imposed high fees, which made migrant workers vulnerable to debt bondage.</p>
+<p>Passport confiscation, which was widespread and generally unpunished among employers of migrant workers, increased workers’ vulnerability to forced labor. NGOs reported that agents or employers in some cases drafted contracts including a provision for employees to sign over the right to hold their passports to the employer or an agent. In contrast, some employers and migrant workers reported that workers sometimes requested that the employer keep their passports, as replacing lost or stolen passports can cost several months’ wages and leave foreign workers open to questions about their legal status. Migrant workers without access to their passports were more vulnerable to harsh working conditions, lower wages than promised, unexpected wage deductions, and poor housing.</p>
+<p>There were reports during the year of trafficking and forced labor in some enterprises in the electronics sector. Several large manufacturing companies acknowledged these concerns and took steps to combat the problem, including the following: direct employment of migrant workers (vice through agents); reimbursement of recruitment fees and taxes; and provision to secure storage for workers’ passports.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children younger than age 14 but permits some exceptions, such as light work in a family enterprise, work in public entertainment, work performed for the government in a school or in training institutions, or work as an approved apprentice. In no case may a child work more than six hours per day, more than six days per week, or at night. For children between 14 and 18, there was no list clarifying specific occupations or sectors that would be considered hazardous and therefore prohibited. Child labor occurred in some family businesses, but the government maintained that migrant workers had largely replaced child labor and that child labor provisions were vigorously enforced. Those found contravening child labor laws face imprisonment not exceeding six months, a fine not exceeding RM2,000 ($610), or both. Subsequent offences can be punished by up to two years in prison, a fine not exceeding RM3,000 ($920), or both.</p>
+<p>Some NGOs and trade unions reported child labor was not a significant problem. The National Union of Plantation Workers, for example, reported it was rare to find children involved in plantation work in peninsular Malaysia. Others reported incidences of child labor on palm oil plantations across the country. Child labor in urban areas was common in the informal sector, including family food businesses and night markets, and in small-scale industry. Child labor was also evident among migrant domestic workers. NGOs reported that stateless children in Sabah were especially vulnerable to labor exploitation in palm oil production, forced begging, and work in service industries, including restaurants.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The law does not prohibit discrimination with respect to employment, although the director general of labor may investigate discrimination in the terms and conditions of employment for both foreign and local employees.</p>
+<p>Migrant workers face discrimination because to obtain and renew work permits, they must undergo mandatory testing for more than 16 illnesses (as well as pregnancy). Employers may immediately deport pregnant or ill workers.</p>
+<p>Discrimination in employment and occupation occurred with respect to women; members of national, racial, and ethnic minorities; and persons with disabilities (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The government implemented a national minimum wage applying to both Malaysian and migrant workers in nearly every sector except domestic work early in the year. The minimum wage was established at RM800 ($245) per month in the states of Sabah and Sarawak and RM900 ($275) per month in peninsular Malaysia. The minimum wage rates were below the Ministry of Finance-published poverty income levels in Sabah and Sarawak.</p>
+<p>Working hours may not exceed eight hours per day or 48 hours per week. Each workweek must include a 24-hour rest period. The law also sets overtime rates of 1.5 times the base hourly rate for regular overtime, two times the regular hourly rate for work on rest days, and three times the regular hourly rate for work on the 10 mandated public holidays. It mandates public holidays, annual leave, sick leave, and maternity allowances. The law specifically specifies limits on overtime, which vary by sector, but exceptions can be made. The limits also apply to migrant workers, but migrant domestic workers have protection only with regard to wages and contract termination, and they are excluded from provisions that would otherwise stipulate that they received one rest day per week, an eight-hour workday, and a 48-hour workweek. Instead, bilateral agreements or memoranda of understanding between the government and some countries of migrant workers’ origin include provisions for rest periods, compensation, and other conditions of employment for migrant domestic workers, including prohibitions on passport retention.</p>
+<p>Occupational health and safety laws cover all sectors of the economy except the maritime sector and the armed forces. The law requires workers to use safety equipment and cooperate with employers to create a safe, healthy workplace, but it does not specify a right to remove oneself from a hazardous or dangerous situation without penalty. Laws on worker’s compensation cover both local and migrant workers but provide no protection for migrant domestic workers.</p>
+<p>The National Wages Consultative Council is responsible for recommending changes to the minimum wage and coverage for various sectors, types of employment, and regions. The Labor Department of the Ministry of Human Resources is responsible for enforcing standards on wages, working conditions, and occupational safety and health. An international organization estimated there were 351 labor inspectors in the country. Mechanisms for monitoring workplace conditions were inadequate. Private, for-profit labor contractors, themselves often guilty of abuses, were often responsible for the resolution of abuse cases.</p>
+<p>The national Occupational Safety and Health Council - composed of workers, employers, and government representatives - creates and coordinates implementation of occupational health and safety measures. It requires employers to identify risks and take precautions, including providing safety training to workers, and compels companies that have more than 40 workers to establish joint management-employee safety committees.</p>
+<p>The government tried to enforce the law and hold employers accountable. From January to June, the Peninsular Malaysia Manpower Department found 56 employers had failed to comply with the minimum wage order. An official at the Ministry of Human Resources reported the Labor Department charged 97 employers with various offenses under the labor law during the year, with 80 percent of these related to salaries. The department charged five employment agencies for operating without a license and issued 461 summonses to various employers, of which 67 percent were for failing to report hiring foreign workers within 14 days of employment. The department issued another 10 percent of the summonses against employers who did not pay salaries within the stipulated period. The law allows all dismissed workers, migrants included, to challenge the dismissal through the Labor Department and the respective courts.</p>
+<p>Penalties for employers who fail to follow the law begin with a fine not more than RM10,000 ($3,060) per employee and can rise to imprisonment of not more than five years. Since 2010 the Labor Department collected RM1.47 million ($450,000) in fines. Employers or employees who violate occupational health and safety laws are subject to substantial fines of up to RM50,000 ($15,290), imprisonment for up to two years, or both. The MTUC, however, complained some employers flouted the rules with impunity.</p>
+<p>The government investigated complaints of abuses, attempted to inform workers of their rights, encouraged workers to come forward with their complaints, and warned employers to end abuses. The Department of Labor made 103 charges against employers who failed to insure migrant workers they employed or report accidents to the Ministry of Human Resources. Workers have the right to take legal action against abusive employers. NGOs reported courts generally sided with employees and ruled employers must pay back salaries and compensate plaintiffs for injuries. Nonetheless, NGOs claimed that some labor contractors regularly used intimidation tactics and physical abuse to prevent exploited workers from seeking justice. The MTUC reported no prosecutions of labor contractors.</p>
+<p>In practical terms, laws on wages and working hours were not respected. The MTUC reported that 12-, 14-, and 18-hour days were common in food and other service industries.</p>
+<p>Overall, migrant workers were more apt to face poor working conditions, worked in sectors where violations were common, and faced challenges in accessing justice. Migrant workers, legal and undocumented, often worked under difficult conditions, performed hazardous duties, had their pay withheld by employers, and had no meaningful access to legal counsel in cases of contract violations and abuse. Some workers alleged their employers subjected them to inhuman living conditions, confiscated their travel documents, and physically assaulted them. Employers of domestic workers sometimes failed to honor the terms of employment and subjected workers to abuse. Employers reportedly restricted workers’ movement and use of cell phones; provided substandard food and living conditions; physically and sexually assaulted workers; and harassed and threatened workers, including with deportation.</p>
+<p>Long delays in court proceedings and rulings often posed obstacles to migrant workers’ access to the system of labor adjudication, particularly if they were undocumented or had lost legal status. Additionally, because laws forbid dismissed migrant workers from working for any other employer while the case is pending, their access to redress was limited.</p>
+<p>The law permits migrant workers to bring employment disputes to the Industrial Court. Nevertheless, court policy did not permit consideration of undocumented migrants’ complaints. Industrial Court proceedings were time consuming, which may have prevented migrant workers from seeking redress through the court system. Once their work visas expire, migrants require “special passes” to stay in the country, in which case they can follow the court case but may not work. The passes are valid for one month and cost RM100 ($30.60) to renew. Renewal is subject to the discretion of the director general of immigration.</p>
+<p>In January authorities carried out a nationwide crackdown on undocumented migrant workers. The Philippines Department of Foreign Affairs, however, claimed that authorities arrested and abused documented Filipino workers.</p>
+<p>Also in January the Home Ministry launched a new identity card with biometric technology that was to become mandatory by year’s end for all migrant workers. The card would purportedly limit the ability of workers to change jobs and would entail a fine of up to RM12,000 ($3,670) if they do so. The cost of the card is included in the application fees for a work permit.</p>
+<p>In January 200 Nepalese factory workers threatened to riot when their employers failed to assist a dying colleague. Police arrested three protesters but also discovered three prior deaths due to the poor conditions in the same hostel with no action taken. By year’s end authorities had taken no action on the investigation.</p>
+<p>Tenaganita recorded more than 1,500 cases of abuse involving undocumented migrant workers and 500 cases of employer violations of immigration law in 2011. For the most part, the authorities deported the workers after serving a jail sentence and cleared the employers of charges.</p>
+<p>In July the MTUC accused a multi-national electronics company of utilizing outsourcing agents when it discovered the passports of the employees were held by an intermediary.</p>
+<p>According to Department of Occupational Safety and Health statistics, 83 fatalities were reported from January to June 2013, in a total 1,435 accidents.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

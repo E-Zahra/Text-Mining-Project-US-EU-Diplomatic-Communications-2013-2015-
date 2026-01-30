@@ -1,0 +1,657 @@
+2015
+Azerbaijan
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823"> </span><span class="st_facebook" st_title="Azerbaijan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252823">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252823</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=executive"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The Azerbaijani constitution provides for a republic with a presidential form of government. Legislative authority is vested in the Milli Mejlis. The president dominated the executive, legislative, and judicial branches of government. The Organization for Security and Cooperation in Europe (OSCE) Office for Democratic Institutions and Human Rights (ODIHR) canceled its observation of the November 1 legislative elections when the government refused to accept ODIHR’s recommended number of election monitors. Without ODIHR observation, it was impossible to assess fully the conduct of the Parliamentary election; independent local and international monitors alleged irregularities throughout the country. The 2013 presidential election did not meet a number of key OSCE standards for democratic elections. Separatists, with Armenia’s support, continued to control most of Nagorno-Karabakh and seven other Azerbaijani territories, and 622,892 persons reportedly remained internally displaced in December 2014 as a result of the unresolved conflict. There was an increase in violence along the Line of Contact and the Armenia-Azerbaijan border. Military actions throughout the year resulted in the highest number of deaths in one year since the signing of the 1994 ceasefire agreement, including six confirmed civilian casualties. Civilian authorities maintained effective control over Azerbaijani security forces.</p>
+<p>The most significant human rights problems during the year included:</p>
+<p>1. Increased government restrictions on freedoms of expression, assembly, and association that were reflected in the intimidation, incarceration on questionable charges, and use of force against human rights defenders, activists, journalists, and some of their relatives. The operating space for activists and nongovernmental organizations (NGOs) remained severely constrained. Multiple sources reported a continuing crackdown on civil society, including intimidation, arrest, and conviction on charges widely considered politically motivated; criminal investigations into NGO activities; restrictive laws; and the freezing of bank accounts that rendered many groups unable to function.</p>
+<p>2. Government use of the judicial system to punish peaceful dissent. There were reports that authorities engaged in arbitrary arrest and detention and politically motivated imprisonment, conducted trials that lacked due process, and subjected individuals to lengthy pretrial detention with impunity. The number of defense lawyers willing and able to accept sensitive cases declined due to actions by authorities. Authorities released some individuals widely considered to be incarcerated for exercising their fundamental freedoms, and granted conditional humanitarian release to two such individuals.</p>
+<p>3. Government restrictions on the ability of citizens to change their government in free and fair elections.</p>
+<p>Other problems reported included physical abuse in the military; torture or other abuse of detainees at time of detention and during interrogation; abuse of inmates in prisons; harsh and sometimes life-threatening prison conditions; and detentions for several days without warrants or with individuals held incommunicado. Authorities often failed to provide due process with regard to property rights, resulting in forced evictions. There were reports of arbitrary government invasions of privacy, incarceration of religious figures, and restrictions on the religious freedom of some unregistered Muslim and Christian groups. Authorities restricted freedom of movement for some activists and journalists. Constraints on political participation persisted. Allegations of systemic corruption at all levels of government continued, although the government took steps to decrease low-level corruption in government services. There were reports of violence against women, gender-biased sex selection, and trafficking in persons. Societal intolerance, violence, and discrimination based on sexual orientation and gender identity remained problems, as did societal stigma against persons with HIV/AIDS. Authorities reportedly failed to enforce effectively labor laws prohibiting discrimination in employment or occupation.</p>
+<p>The government did not take steps to prosecute or punish most officials who committed human rights abuses; impunity remained a problem.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section1"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+<p>Both the government and human rights monitors reported a drop in harmful hazing practices in the military. Despite this progress, as of December 6, local human rights organizations reported at least 37 noncombat-related deaths in the military, including suicides and soldiers killed by fellow service members. On April 21, for example, warrant officer Samad Miriyev died under unknown circumstances. Miriyev’s mother reported he was killed by a fellow serviceman. The military prosecutor’s office reportedly opened a criminal investigation. No further details were available.</p>
+<p>Separatists, with Armenia’s support, continued to control most of Nagorno-Karabakh and seven other Azerbaijani territories. The final status of Nagorno-Karabakh remained the subject of international mediation by the OSCE Minsk Group, co-chaired by France, Russia, and the United States. There was an increase in violence along the Line of Contact and the Armenia-Azerbaijan border. Military actions throughout the year resulted in the highest number of deaths in one year since the signing of the 1994 ceasefire agreement, including six confirmed civilian casualties.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+<p>As of July 1, the State Committee on the Captive and Missing reported that 4,013 citizens were registered as missing persons as the result of the Nagorno-Karabakh conflict. The International Committee of the Red Cross (ICRC) processed cases of persons missing in connection with the Nagorno-Karabakh conflict and worked with the government to develop a consolidated list of missing persons. As of December 16, according to the ICRC, more than 4,496 persons remained unaccounted for as a result of the conflict.</p>
+<p>The ICRC assisted prisoners of war and civilian internees and conducted monthly visits throughout the year to provide for prisoners protection under international humanitarian law. The ICRC regularly facilitated the exchange of messages between them and their families to help them re-establish and maintain contact.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>While the constitution and criminal code prohibit such practices and provide for penalties for conviction of up to 10 years’ imprisonment, credible allegations of torture and other abuse continued. In 2014 domestic human rights monitors reported receiving 324 complaints of such abuse by security forces.</p>
+<p>According to human rights defenders, there were four cases of torture or other physical abuse during the year that led to death. On February 4, for example, detainee Sabuhi Dunyamaliyev reportedly committed suicide at the Tartar District Police detention facility. Dunyamaliyev’s family claimed he died as the result of abuse while in custody and described physical signs of the alleged abuse, such as external bruising and a ruptured liver. Authorities denied the accusation and announced the opening of an investigation, which concluded that Dunyamaliyev hanged himself in a detention cell. Family members denied the credibility of the investigation results. In a separate incident, on August 20, the Mingachevir City Police Department detained 28-year-old Bahruz Hajiyev, who died 20 minutes later. Police asserted Hajiyev jumped from a third-story window while being interrogated by police, causing his death. Hajiyev’s family denied police allegations and released photographs of the victim with multiple bruises on his body and what appeared to be multiple marks from a stun gun. A subsequent police investigation into the incident resulted in the dismissal of a police officer.</p>
+<p>Reports from human rights activists indicated that most mistreatment took place while detainees were in police custody. Authorities reportedly used abusive methods to coerce confessions. In a prominent example, Tural Mustafayev stated that his deposition accusing journalist Khadija Ismayilova (see section 1.e., Political Prisoners and Detainees) of inciting his suicide attempt was the result of physical abuse and pressure by authorities. Mustafayev recanted his deposition in court and testified that Ismayilova had nothing to do with his actions. The court acquitted her of this charge, but still found her guilty of misappropriation and embezzlement, illegal business, tax evasion, and abuse of power, a decision that human rights groups considered politically motivated.</p>
+<p>On November 26, The UN Committee against Torture released its report on the country. The committee expressed concern about numerous and persistent allegations that torture and mistreatment were routinely used by law enforcement and investigative officials, or with their instigation or consent, often to extract confessions or information to be used in criminal proceedings. The committee was further concerned that the government deemed unfounded all the allegations of torture and mistreatment raised, several of which were previously addressed by other UN and regional human rights mechanisms. The committee was particularly concerned that, according to the government’s report, in the period 2010-15, not a single individual was prosecuted, despite the very large number of complaints submitted to authorities. According to official data, the Prison Service investigated 334 complaints against prison system officials for torture or mistreatment between 2009 and 2013. The Ministry of Internal Affairs received 984 such complaints between 2010 and 2013, and the Office of the Procurator General received 678 similar complaints between 2010 and 2013. In the committee’s view, this was a strong indication that torture investigations were not conducted in a prompt, efficient, and impartial manner.</p>
+<p>Authorities reportedly maintained a de facto ban on independent forensic examinations of detainees who claimed mistreatment and delayed their access to an attorney, practices that made it easier for officers to mistreat detainees with impunity. For example, family members and the lawyer of imprisoned Popular Front of Azerbaijan youth activist Elvin Abdullayev stated that police illegally detained him, beat him for three days, and deprived him of food. Abdullayev’s mother also stated that police used systematic physical pressure against her son to force him to renounce his beliefs and that the Baku Court of Grave Crimes failed to consider the defendant’s allegations and allegedly informed the defendant that such matters were best dealt with prior to the start of the trial.</p>
+<p>Lawyers and others reported abuse of inmates in prisons. Throughout the year convicted human rights defender Leyla Yunus reported physical attacks from her cellmates, physical abuse from prison officials, and medical negligence that exacerbated her medical condition and contributed to the deterioration of her overall health. A lawyer reported that three prison officials severely beat the co-founder of the Republican Alternative (ReAL) democracy movement, Ilgar Mammadov, on October 16 (see section 1.e.). Mammadov reportedly lost a tooth from the beating; as of October, he continued to suffer from persistent pain in his head.</p>
+<p>Although there were reports of a drop in harmful hazing practices, local observers reported bullying and abuse in military units during the year, including physical and sexual abuse. The Ministry of Defense set up a telephone hotline for soldiers to report incidents of maltreatment, to make unit commanders responsible for morale and readiness, which reportedly resulted in improved conditions throughout the armed forces.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>According to a reputable prison-monitoring organization, prison conditions were sometimes harsh and potentially life threatening due to overcrowding, inadequate nutrition, deficient heating and ventilation, and poor medical care. While the government continued to construct facilities, some Soviet-era facilities still in use did not meet international standards.</p>
+<p><u>Physical Conditions</u>: Authorities held men and women together in pretrial detention facilities in separate blocks, but housed women in separate prison facilities after sentencing. With the notable exception of human rights defender and Institute for Peace and Democracy director Leyla Yunus, local NGO observers reported that female prisoners typically lived in better conditions than male prisoners, were monitored more frequently, and had greater access to training and other activities. As of September human rights monitors reported four cases of children under age seven living in adult prison facilities with their incarcerated mothers. Convicted juvenile offenders may be held in juvenile institutions until they are 20.</p>
+<p>In 2014 the Ministry of Justice reported 104 deaths in ministry facilities, 79 of which occurred in medical treatment facilities. The Ministry of Internal Affairs reported two deaths in ministry detention facilities in the first nine months of 2014. According to a local prosecutor, these individuals’ deaths were due to medical conditions.</p>
+<p>Prisoners at times claimed they endured lengthy confinement periods without opportunity for physical exercise. They also reported instances of cramped, overcrowded conditions; inadequate ventilation; poor sanitary facilities; and insufficient access to medical care. Although the law permits detainees to receive daily packages of food to supplement the food officially provided, authorities at times reportedly restricted access of prisoners and detainees to family-provided food parcels. Some prisons and detention centers did not provide access to potable water.</p>
+<p>Human rights advocates reported that guards punished prisoners with beatings or by holding them in isolation cells. Local and international monitors reported markedly poorer conditions at the maximum security Gobustan Prison.</p>
+<p><u>Administration</u>: While most prisoners reported that they could submit complaints to judicial authorities and the Ombudsman’s Office without censorship, prison authorities regularly read prisoners’ correspondence, and domestic NGOs reported some prisoners in high-security facilities experienced difficulty submitting complaints. While the Ombudsman’s Office reported systematic visits and investigations into complaints, NGOs reported insufficient activity in the office to address fully prisoner complaints.</p>
+<p>Authorities at times limited visits by attorneys and family members, especially to prisoners widely considered to be incarcerated for political reasons.</p>
+<p><u>Independent Monitoring</u>: The government permitted some prison visits by international and local organizations, including the ICRC, the president of the Parliamentary Assembly of the Council of Europe, parliamentarians and diplomats from European countries, and the Azerbaijan Committee against Torture. While the Ministry of Justice required the Azerbaijan Committee against Torture to obtain prior notification before visiting its facilities, the Ministry of Internal Affairs allowed the committee immediate access to its pretrial detention centers. Authorities generally permitted the ICRC access to prisoners of war and civilian internees held in connection with the conflict over Nagorno-Karabakh as well as to detainees held in facilities under the authority of the Ministries of Justice, Internal Affairs, and National Security.</p>
+<p>A joint government-human rights community prison-monitoring group known as the Public Committee was allowed access to prisons without prior notification to the penitentiary service. On some occasions, however, other groups that reportedly gave prior notification experienced difficulty obtaining access.</p>
+<p><u>Improvements</u>: According to the ICRC, the government undertook significant efforts to improve detention conditions by building facilities and modernizing existing detention centers. In 2014 the Ministry of Internal Affairs reported that it built 24 detention facilities and renovated additional facilities in 11 districts. The Ministry of Justice reported that construction of five penitentiary facilities continued.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits arbitrary arrest and detention, the government generally did not observe these prohibitions, and impunity remained a problem.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The Ministry of Internal Affairs and the Ministry of National Security are responsible for security within the country and report directly to the president. The Ministry of Internal Affairs oversees local police forces and maintains internal civil defense troops. The Ministry of National Security oversaw intelligence and counterintelligence activities and had a separate internal security force; however, it was dissolved by presidential order in December. Its functions were split between the State Security Service, focused on domestic matters, and the Foreign Intelligence Service, focused on foreign intelligence and counterintelligence issues. NGOs reported detentions by both ministries of individuals who exercised their rights to fundamental freedoms, including freedom of expression. State Migration Service and State Border Service are responsible for migration and border enforcement.</p>
+<p>Police crowd-control tactics varied during the year. In some cases police detained peaceful protesters and used excessive force against them.</p>
+<p>While security forces generally acted with impunity, in 2014 the Ministry of Internal Affairs stated that it took disciplinary action against 190 employees for mistreatment of citizens (98 cases), unjustified detentions (20 cases), and groundless arrests (30 cases). It further reported in 2014 that it brought 192 cases of misconduct against 237 ministry employees accused of violating citizens’ rights.</p>
+<p>Corruption among law enforcement officers was a problem, although a local NGO reported that traffic police sought fewer bribes during the year. Low wages contributed to police corruption. The Ministry of Internal Affairs reported in 2014 that, in connection with 48 cases of corruption, it took disciplinary action against 78 employees, dismissing 35 from their institutions and removing 28 others from their positions. It did not hold any individuals liable in criminal investigations in these cases.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law states that persons detained, arrested, or accused of a crime should be accorded due process, including being advised immediately of their rights and the reason for their arrest. The government did not always respect these provisions.</p>
+<p>According to law, detainees are to be brought before a judge within 48 hours of arrest and the judge may either issue a warrant placing the detainee in pretrial detention, place the detainee under house arrest, or release the detainee. The initial 48 hours may be extended to 96 hours under extenuating circumstances. During pretrial detention or house arrest, the Prosecutor General’s Office is to complete its investigation. Pretrial detention is limited to three months, but may be extended by a judge up to 18 months, depending on the alleged crime and the needs of the investigation. Authorities at times detained individuals for several days without warrants, and legal experts asserted that in other instances judges issued warrants after a person was detained. There were reports of detainees not being promptly informed of the charges against them.</p>
+<p>The law provides for access to a lawyer from the time of detention, but there were reports that authorities frequently denied lawyers’ access to clients in both politically motivated and routine cases. Lawyers for arrested human rights attorney Intigam Aliyev reported being denied access to their client for four weeks while prison authorities reviewed their visitation requests after Aliyev was transferred from pretrial detention to prison. Access to counsel was poor, particularly outside Baku. Although entitled to legal counsel by law, indigent detainees often did not have such access.</p>
+<p>Police at times held politically sensitive and other suspects incommunicado for several hours and sometimes days. On July 23, for example, authorities detained Nazim Aghabeyov, brother-in-law of well-known journalist Emin Milli, and held him incommunicado for a week.</p>
+<p>Prisoners’ family members reported that authorities occasionally restricted visits, especially to persons in pretrial detention, and withheld information about detainees. Days sometimes passed before families could obtain information about detained relatives. Authorities sometimes used family members as leverage to pressure individuals to turn themselves in to police.</p>
+<p>A formal bail system existed, but judges did not utilize it during the year.</p>
+<p><u>Arbitrary Arrest</u>: Authorities often made arrests based on spurious charges such as resisting police, illegal possession of drugs or weapons, tax evasion, illegal entrepreneurship, abuse of authority, or inciting public disorder. Local NGOs and international groups such as Amnesty International and Human Rights Watch criticized the government for arresting individuals exercising their fundamental rights and noted that authorities frequently fabricated the charges against them. In particular police detained individuals who peacefully sought to exercise freedom of expression.</p>
+<p><u>Pretrial Detention</u>: According to the Ministry of Justice, the prison population numbered 22,526 persons, including 632 women. Of these, 3,814, including 137 women, were in pretrial detention. Authorities held persons in pretrial detention for up to 18 months. The Prosecutor General’s Office routinely extended the initial three-month pretrial detention period permitted by law in successive increments of several months until the government completed an investigation. Anecdotal evidence indicated that, apart from consular visits, authorities rarely permitted diplomatic representatives in Baku to visit prisoners in pretrial detention.</p>
+<p><u>Amnesty</u>: On March 18, the president pardoned 101 prisoners. NGOs considered four to have been political prisoners, including Bashir Suleymanli, executive director of the Election Monitoring and Democracy Studies Center. The others were theologian Anar Gasimli, 2012 hijab-ban protester Ramil Valiyev, and N!DA youth movement activist Orkhan Eyyubzade. There were reports that authorities pressed some of the released prisoners to write letters seeking forgiveness for past “mistakes” as a condition of their pardon. Several prisoners, such as the chair of the opposition ReAL movement, Ilgar Mammadov, reported that authorities used physical abuse, placement into isolation cells, assaults from other prisoners, and threats to family members as a means to extract such letters.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution provides for an independent judiciary, judges did not function independently of the executive branch. The judiciary remained corrupt and inefficient. Many verdicts were legally insupportable and largely unrelated to the evidence presented during the trial. Outcomes frequently appeared predetermined.</p>
+<p>The Ministry of Justice controlled the Judicial Legal Council. The council appoints a judicial selection committee (six judges, a prosecutor, an advocate, a council representative, a Ministry of Justice representative, and a legal scholar) that administers the judicial selection examination and oversees the year-long judicial training and selection process.</p>
+<p>Credible reports indicated that judges and prosecutors took instruction from the Presidential Administration and the Ministry of Justice, particularly in cases of interest to international observers. There were credible allegations that judges routinely accepted bribes.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for public trials except in cases involving state, commercial, or professional secrets or confidential, personal, or family matters. The law provides for the presumption of innocence in criminal cases; the right to be informed promptly of charges; the right to review evidence, confront witnesses, and present evidence at trial; the right of indigent defendants to a court-approved attorney; the rights to adequate time and facilities to prepare a defense; the right not to be compelled to testify or confess guilt; and the right of both defendants and prosecutors to appeal. Authorities did not always respect these provisions.</p>
+<p>Judges at times failed to read verdicts publicly or to give the reasoning behind their decisions, leaving the accused without knowledge of the reasoning behind the judgment.</p>
+<p>The courts often limited independent, including diplomatic, observation of trials. During the year, for example, the Baku Court of Grave Crimes limited access of diplomatic missions, independent journalists, and civil society activists to monitor the trials of Leyla and Arif Yunus and journalist Khadija Ismayilova. Court bailiffs selectively allowed representatives of some diplomatic missions to observe proceedings but excluded others, claiming a lack of seating. Civil society activists and defendants asserted that authorities filled the courtroom with paid agents to occupy more seats. During interviews with diplomatic personnel and independent journalists, some of these self-proclaimed “curious citizens” admitted to being paid three to 10 manat ($1.85 to $6.17) per day for their presence in the court gallery. Information regarding trial times and locations was generally available, although there were some exceptions, particularly in the Baku Court of Grave Crimes.</p>
+<p>Although the constitution prescribes equal status for prosecutors and defense attorneys, judges often favored prosecutors when assessing motions, oral statements, and evidence submitted by defense counsel, without regard to the merits of their respective arguments.</p>
+<p>Judges reserved the right to remove defense lawyers in civil cases for “good cause.” In criminal proceedings, judges may remove defense lawyers because of a conflict of interest, such as the placement of defense lawyers onto the witness list, or if a defendant requests a change of counsel.</p>
+<p>In the criminal case against human rights defenders Leyla and Arif Yunus, authorities used a variety of methods to remove three lawyers from their defense team, placing one on the witness list, removing another to face charges of judicial disrespect and misconduct in a separate high-profile trial that eventually led to his disbarment, and removing the third due to a suit brought against him by a cellmate of Leyla Yunus. A prosecutor also removed three defense lawyers from the legal team of well-known human rights lawyer, Intigam Aliyev, by placing them on the witness list.</p>
+<p>The law limits representation in criminal cases to members of the country’s government-influenced Collegium (bar association). The number of defense lawyers willing and able to accept sensitive cases reportedly declined during the year due to various measures taken by authorities, including by the Collegium’s presidium, its managing body. On July 3, for example, the Collegium disbarred defense attorney Alayif Hasanov, one of three lawyers removed from the Leyla Yunus case. Hasanov was sentenced to 240 hours of public labor after Leyla Yunus’s cellmate, Nuriyya Huseynova, filed a case against him. The court and the Collegium found him guilty of professional misconduct. On July 14, another member of Leyla Yunus’s defense team and Khadija Ismayilova’s lawyer, Khalid Bagirov, was disbarred for alleged judicial disrespect and misconduct during his 2013-14 defense of Ilgar Mammadov. Local civil society and the defendants considered these judicial moves as part of a strategy through which authorities hoped to deprive the Yunuses and Khadija Ismayilova of a quality legal defense. There were also reports of police violence against lawyers.</p>
+<p>The constitution prohibits the use of illegally obtained evidence. Despite some defendants’ claims that authorities obtained testimony through torture or abuse, courts did not dismiss cases based on claims of abuse, and there was no independent forensic investigator to substantiate allegations of abuse. Human rights monitors reported judges often ignored claims of police mistreatment. Investigations often focused on obtaining confessions rather than gathering physical evidence against suspects. Serious crimes brought before the courts most often ended in conviction, since judges generally sought only a minimal level of proof and collaborated closely with prosecutors.</p>
+<p>With the exception of the Baku Court of Grave Crimes, human rights advocates also reported courts often failed to provide interpreters despite the constitutional right of an accused person to interpretation. Courts are entitled to contract interpreters during hearings, with expenses covered by the state budget.</p>
+<p>There were no verbatim transcripts of judicial proceedings. Although some of the newer courts in Baku made audio recordings of proceedings, courts did not record most court testimonies, oral arguments, and judicial decisions. Instead, the court recording officer generally decided the content of notes, which tended to be sparse.</p>
+<p>The country has a military court system with civilian judges. The Military Court retains original jurisdiction over any case related to war or military service.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>NGO estimates of the number of political prisoners and detainees ranged from 22 to 93 during the year. NGO lists included the following individuals convicted during the year, many of whom Amnesty International considered prisoners of conscience (also see sections 1.f., 2.a., and 3).</p>
+<p>On January 29, the Absheron District Court sentenced opposition journalist Seymur Hazi to five years for hooliganism. In August 2014 an assailant insulted and physically attacked Hazi at a bus stop. Police detained Hazi, a journalist well known for his sharp criticism of the government, and opened a criminal case against him.</p>
+<p>On April 16, the Baku Court of Grave Crimes sentenced Human Rights Club chairman Rasul Jafarov to six-and-a-half years in prison on charges of tax evasion, illegal entrepreneurship, and abuse of office. On July 31, the Baku Court of Appeals reduced Jafarov’s sentence to six years and three months after he paid his court-declared tax debt of 6,257 manat ($3,860).</p>
+<p>On April 22, the Baku Court of Grave Crimes sentenced internationally known lawyer and human rights defender Intigam Aliyev to seven-and-a-half years in prison on the same charges.</p>
+<p>Although the Baku Court of Appeals upheld the lower court’s findings, Arif and Leyla Yunus received conditional releases based on health reasons on November 12 and December 9, respectively. They were allowed to serve their sentences from their home with some restrictions. Originally, on August 13, the Baku Court of Grave Crimes sentenced Leyla Yunus to eight-and-a-half years in prison for alleged fraud, tax evasion, illegal entrepreneurship and forging official documents, and her husband, Arif Yunus, to seven years in prison for alleged fraud. They had been detained since the summer of 2014. Authorities also linked them to journalist Rauf Mirkadirov (see section 2.a.) and alleged they had engaged in espionage in connection with their efforts to encourage dialogue between Azerbaijani and Armenian citizens to facilitate a peaceful resolution to the Nagorno-Karabakh conflict. Prior to their trial, the espionage charge was separated from the list of charges against the Yunuses, but it remained an option for the prosecutor to use later.</p>
+<p>On September 1, the Baku Court of Grave Crimes sentenced investigative journalist Khadija Ismayilova to seven-and-a-half years in prison for misappropriation and embezzlement, illegal business, tax evasion, and abuse of power. She was arrested in December 2014 and sentenced to pretrial detention for allegedly inciting an individual to attempt suicide. At the time of her conviction, Ismayilova was acquitted of incitement to suicide, a charge her initial accuser withdrew.</p>
+<p>Individuals considered by activists to be political detainees included Muslim Unity Movement leader Taleh Bagirzade (see the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>) and deputy chairman of the opposition Popular Front party Fuad Gahramanli (see section 3).</p>
+<p>NGO lists also included individuals convicted in previous years, including Election Monitoring and Democracy Studies Center chair Anar Mammadli, ReAL movement chair Ilgar Mammadov, and opposition Musavat Party deputy chair Tofig Yagublu.</p>
+<p>By law political prisoners are entitled to the same rights as other prisoners, although restrictions on them varied. Authorities provided international humanitarian organizations access to political prisoners.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens have the right to file lawsuits seeking damages for, or cessation of, human rights violations. The law does not provide for a jury trial in civil matters; a judge decides all civil cases. District courts have jurisdiction over civil matters in their first hearing; the Court of Appeals and then the Supreme Court address appeals. As with criminal trials, all citizens have the right to appeal to the European Court of Human Rights (ECHR) within six months of exhausting all domestic legal options, including an appeal to and ruling by the Supreme Court.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary invasions of privacy and monitoring of correspondence and other private communications. The government generally did not respect these legal prohibitions.</p>
+<p>While the constitution allows for searches of residences only with a court order or in cases specifically provided for by law, authorities often conducted searches without warrants. It was widely reported that the Ministries of National Security and Internal Affairs monitored telephone and internet communications, particularly those of foreigners, youth figures active online, some political and business figures, and persons engaged in international communication.</p>
+<p>Police continued to intimidate, harass, and sometimes arrest family members of suspected criminals, independent journalists, political opposition members and leaders, as well as employees and leaders of certain NGOs. Examples of such incarcerations included Rufat Zahidov, nephew of exiled editor of the opposition newspaper <i>Azadliq </i>Ganimat Zahidov; Nazim Aghabeyov, brother-in-law of well-known journalist in exile Emin Milli; Elnur Seyidov, opposition Popular Front Party chairman Ali Kerimli’s brother-in-law; and Raji and Vakil Imanov, brothers of exiled journalist Gunel Movlud. Opposition leader Jamil Hasanli’s daughter, Gunel Hasanli, remained at home following a sentence to a penal colony of two and one-half years.</p>
+<p>There were also reports that authorities fired individuals from their jobs or had individuals fired in retaliation for the political or civic activities of family members.</p>
+<p>NGOs reported that authorities did not respect the laws governing eminent domain and expropriation of property. Homeowners often received compensation well below market value for expropriated property and had little legal recourse. NGOs also reported that many citizens did not trust the court system and were therefore reluctant to pursue compensation claims. Residents in Baku, for example, complained about forced evictions and violence against those refusing to leave their property. Some residents of the “Sovetski” area of Baku sporadically protested and complained about nonpayment of compensation for their demolished houses.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section2"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>While the law provides for freedom of speech and press and specifically prohibits press censorship, the government often did not respect these rights. The government limited freedom of speech and media independence. Journalists faced intimidation and at times were beaten and imprisoned. NGOs considered at least 13 journalists and bloggers to be political prisoners or detainees as of year’s end. On June 13, the Swiss Department of Foreign Affairs reported that the chair of the Baku-based Institute for Reporters’ Freedom and Safety (IRFS), Emin Huseynov, left the country on June 12 on the plane of Swiss Foreign Minister Didier Burkhalter. Huseynov went into hiding after authorities detained three other prominent human rights advocates in 2014 and spent 10 months at the Swiss Embassy in Baku while Swiss and Azerbaijani authorities negotiated the terms of his departure from the country. During the summer, authorities expanded pressure on the media to journalists in exile and their relatives.</p>
+<p><u>Freedom of Speech and Expression</u>: The constitution provides for freedom of speech, but government repression continued regarding subjects considered politically sensitive. On April 16, the Council of Europe commissioner for human rights stated, “There is a clear pattern of repression in Azerbaijan against those expressing dissent or criticism of authorities. This concerns primarily human rights defenders, but also journalists, blogger and other activists, who may face a variety of criminal charges which defy credibility. Such charges are largely seen as an attempt to silence the persons concerned and are closely linked to the legitimate exercise by them of their right to freedom of expression.”</p>
+<p>The incarceration of persons who attempted to exercise freedom of speech raised concerns about authorities’ use of the judicial system to punish dissent. In addition the government attempted to impede criticism by monitoring political and civil society meetings.</p>
+<p><u>Press and Media Freedoms</u>: A number of opposition and independent print and online media outlets expressed a wide variety of views on government policies. Newspaper circulation rates remained low, not surpassing 5,000 in most cases. Beginning in 2014, however, the government blocked the sale of newspapers in the metro and on the street, limiting sales to government approved kiosks. Credible reports indicated that opposition newspapers were available outside Baku only in limited numbers due to the refusal of a number of distributors to carry them.</p>
+<p>Foreign broadcasters, including Voice of America, Radio Free Europe/Radio Liberty (RFE/RL), and the BBC, remained prohibited from broadcasting on FM radio frequencies, although the Russian service Sputnik was allowed to broadcast news on a local radio network. On September 21, a Presidential Administration official publicly accused international media of “operating illegally” because they filed stories from the country, and in this connection criticized Berlin-based online Meydan TV and Voice of America by name. RFE/RL’s Baku office remained closed following closure of the office by authorities in December 2014.</p>
+<p>Local NGOs considered at least 13 journalists and bloggers to be political prisoners or detainees as of year’s end. For example, <i>Zerkalo</i> journalist Rauf Mirkadirov remained in detention during the year. His trial--closed to the public--began November 4 and continued at year’s end. Mirkadirov’s arrest and pretrial detention followed his deportation from Turkey in April 2014. Authorities accused Mirkadirov of espionage and treason while involved in activities promoting the peaceful resolution of the Nagorno-Karabakh conflict (also see section 1.e.).</p>
+<p>In another case independent <i>Bizim Yol</i> journalist, editor of independent news website <i>Moderator</i>, and human rights NGO head Parviz Hashimli received a court sentence on May 15 of eight years in prison for alleged weapons smuggling. Both media outlets were known for coverage of corruption and human rights abuses.</p>
+<p>On September 1, the Baku Court of Grave Crimes convicted independent journalist Khadija Ismayilova, well known for her reporting on corruption and for her human rights advocacy, for alleged crimes considered by observers to be politically motivated (see section 1.e., Political Prisoners and Detainees). Amnesty International considered Ismayilova a prisoner of conscience, and a number of governments, international journalists, and human rights organizations called for her release.</p>
+<p>Authorities also exerted intense pressure on the country’s leading media rights advocates and organizations. Internationally renowned media freedom advocate Emin Huseynov, the chair of the IRFS, left the country after 10 months in the Swiss Embassy following the detentions of three other prominent human rights advocates. Government harassment of the IRFS employees continued. For example, on January 26, an unknown assailant attacked lawyer and IRFS deputy chairman Gunay Ismayilova. Police opened an investigation but had yet to report any findings by year’s end.</p>
+<p>During the year authorities extended pressure to independent media outlets outside the country and those associated with them in the country. For example, online Berlin-based Meydan TV founder and former prisoner of conscience Emin Milli reported a death threat from the government conveyed through an intermediary. Officials reportedly detained and questioned a number of freelance journalists about their relationship to Meydan TV. On September 18, authorities reportedly imprisoned one such journalist for 30 days. Such pressure also included the arrest of relatives of journalists in exile, including Emin Milli’s brother-in-law and Ganimat Zahidov’s nephew.</p>
+<p><u>Violence and Harassment</u>: Local observers reported 64 physical assaults on journalists during 2014. The attacks mainly targeted journalists from Radio Liberty, <i>Azadliq</i> and other newspapers, and Obyektiv Television.</p>
+<p>This trend continued during the year. For example, on August 8, a group of assailants beat photojournalist and IRFS chairman Rasim Aliyev and inflicted injuries that led to his death August 9. Before his death Aliyev informed media representatives that he linked his beating to a critical comment he placed on Facebook about soccer player Javid Huseynov and Huseynov’s behavior during a <em>Union of European Football Associations </em>Europe League match in Cyprus on July 30. Aliyev also stated that Huseynov’s cousin had called and invited him to discuss the critical comment. Aliyev reported that when he arrived at the prearranged location for the meeting, he was struck from behind and beaten by six men who took his wallet and telephone before leaving the area. Officials launched a criminal case, detaining the alleged assailants and Huseynov. IRFS attributed Aliyev’s death in the hospital to intentional negligence.</p>
+<p>There were no indications authorities held police officers accountable for physical assaults on journalists in prior years.</p>
+<p>Journalists and media rights leaders continued to call for an investigation into the 2011 killing of journalist Rafiq Tagi, against whom Iranian cleric Grand Ayatollah Fazel Lankarani issued a fatwa, and into the 2005 killing of independent editor and journalist Elmar Huseynov.</p>
+<p>Lawsuits suspected of being politically motivated were also used to intimidate journalists and media outlets. During 2014, 59 court cases reportedly were initiated against journalists or media outlets, with plaintiffs demanding 2.5 million manat ($1.54 million) in compensation; courts ultimately imposed 180,000 manat ($111,000) in fines.</p>
+<p>The majority of independent and opposition newspapers remained in a precarious financial situation having problems paying wages, taxes, and periodic court fines. Most relied on political parties, influential sponsors, or the State Media Fund for financing.</p>
+<p>The government prohibited some state libraries from subscribing to opposition and independent newspapers, prevented state businesses from buying advertising in opposition newspapers, and pressured private businesses not to advertise in them. As a result paid advertising was largely absent in opposition media. Political commentators noted these practices reduced the wages opposition and independent outlets could pay to their journalists, which allowed progovernment outlets to hire away quality staff. In addition international media monitoring reports indicated intimidation by Ministry of Taxes authorities further limited the independence of the media.</p>
+<p><u>Censorship or Content Restrictions</u>: Most media practiced self-censorship and avoided topics considered politically sensitive due to fear of government retaliation.</p>
+<p>The National Television and Radio Council required that local, privately owned television and radio stations not rebroadcast complete news programs of foreign origin.</p>
+<p><u>Libel/Slander Laws</u>: Libel is a criminal offense and covers written and verbal statements. The law provides for large fines and up to three years’ imprisonment for persons convicted of libel. Conviction of defamation is punishable by fines ranging from 100 to 1,000 manat ($61.70 to $617) and imprisonment for six months to three years.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government generally did not restrict or disrupt access to the internet or censor online content, but it required internet service providers to be licensed and have formal agreements with the Ministry of Communications and High Technologies. According to International Telecommunication Union statistics, approximately 61 percent of the country’s population used the internet in 2014.</p>
+<p>The law imposes criminal penalties for conviction of libel and insult on the internet.</p>
+<p>There were strong indications that the government monitored the internet communications of democracy activists. For example, many youth activists who were questioned, detained or jailed frequently had posted criticism of alleged government corruption and human rights abuses online. On May 6, the Baku Court of Grave Crimes sentenced social media and opposition Musavat Party activist Faraj Karimov to six-and-a-half years in prison. Karimov administered two popular Facebook pages--Istefa and BASTA-- that were critical of human rights violations, social problems, and corruption: Istefa, which called on authorities to resign, had more than 300,000 subscribers prior to being shut down in 2013, and BASTA, associated with the word “enough” in both Spanish and Azerbaijani, had almost 155,000 subscribers at the time of his arrest. The Freedom House annual <i>Freedom on the Net</i> report covering June 2014 through May 2015, stated that, while the government did not extensively block online content, “arrests and intimidation tactics used against netizens (citizens of the net) and their families over the last few years have threatened online activism.”</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>The government on occasion restricted academic freedom.</p>
+<p>Some domestic observers continued to raise concerns that the government’s selection of participants for state-sponsored study abroad programs was biased and considered political affiliation. The government denied the allegation and stated its selection process was transparent.</p>
+<p>Opposition party members continued to report difficulties finding jobs teaching at schools and universities. Authorities fired most known opposition party members teaching in state educational institutions in previous years. NGOs reported local executive authorities occasionally prevented the expression of minority cultures, for example, by prohibiting cultural events at local community centers and the teaching of local dialects.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>While the law provides for freedom of assembly, the government severely restricted the right. Authorities at times responded to peaceful protests and assemblies by using force and detaining protesters.</p>
+<p>While the constitution stipulates that groups may peacefully assemble after notifying the relevant government body in advance, the government continued to interpret this provision as a requirement for prior permission. Local authorities required all rallies to be pre-approved and held at designated locations, mainly in inconvenient sites, although a popular Baku site was easily accessible by metro and bus. Most political parties and NGOs found the requirements unacceptable and believed them to be unconstitutional. Authorities throughout the country routinely refused to acknowledge notifications of planned public rallies, thereby effectively denying the freedom to assemble.</p>
+<p>On August 22, protests erupted in Mingachevir, two days after 27-year-old resident Bahruz Hajiyev died in police custody (see section 1.c.). Nearly 500 persons took part in an unsanctioned march, and authorities responded by deploying riot police and arresting 21 individuals. According to police, half of the arrestees paid administrative fines and were released the same day. Unofficial sources reported that police scanned video footage of the protest, arresting individuals for days following the protest. Reports estimated that police detained up to 30 persons and charged at least two individuals with charges of resisting police. Video footage of the protest showed apparently peaceful protesters, who were quickly scattered by police. Onlookers criticized police tactics, and video footage showed police chasing and arresting some protesters after the demonstration broke up. The footage also showed police firing what were reported to be stun grenades after the crowd dispersed. There were reports of minor injuries among both protesters and police, although footage showed no injuries to police. A subsequent investigation into the death of Hajiyev resulted in the dismissal of a police officer.</p>
+<p>The law permits administrative detention for up to three months for misdemeanors and up to one month for resisting police. Punishment for those who fail to follow a court order (including failure to pay a fine) may include fines of 500 to 1,000 manat ($309 to $617) and punishment of up to one month of administrative detention.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of association, but the law places some restrictions on this right, and amendments enacted during 2014 severely constrained NGO activities. Citing these amended laws, authorities conducted numerous criminal investigations into the activities of independent organizations, froze bank accounts, and harassed local staff, including incarcerating and placing travel bans on some NGO leaders. Consequently, a number of NGOs were unable to operate.</p>
+<p>A number of legal provisions allow the government to regulate the activities of political parties, religious groups, businesses, and NGOs, including requiring NGOs to register with the Ministry of Justice if they seek “legal personality” status. Although the law requires the government to act on NGO registration applications within 30 days of receipt (or within an additional 30 days, if further investigation is required), vague, onerous, and nontransparent registration procedures continued to result in long delays that limited citizens’ right to associate. Other laws restrict freedom of association, for example, by requiring deputy heads of NGO branches to be citizens if the branch head is a foreigner. Authorities routinely rejected the registration applications of NGOs whose names contained the words “human rights,” “democracy,” “institute,” and “society.”</p>
+<p>Laws affecting grants and donations imposed a de facto prohibition on NGOs receiving cash donations and made it nearly impossible for NGOs to receive anonymous donations or to solicit contributions from the public.</p>
+<p>In February 2014 the president approved a number of amendments to the administrative code and the laws on NGOs, grants, and registration of legal entities that imposed additional restrictions on NGO activities and closed several loopholes for the operations of unregistered, independent, and foreign organizations. The laws make unregistered and foreign NGOs vulnerable to involuntary dissolution, intimidated and dissuaded potential activists and donors from joining and supporting civil society organizations, and restricted their ability to provide grants to unregistered local groups or individual heads of such organizations. A resolution detailing new grant registration implementing regulations, enacted by the Council of Ministers in June, sets a 15-day limit for NGOs to register their grants with the appropriate ministry, 15 days for the ministry to approve or deny the registration, and an extension of 15 days if further investigation by the ministry is needed.</p>
+<p>A far-reaching criminal investigation opened in 2014 into the activities of numerous domestic and international NGOs and local leadership continued during the year. The investigation covered prominent independent organizations focused on human rights and transparency in natural resource governance, as well as international organizations providing assistance to citizens. As a result of the investigation, at least 32 organizations closed rather than subject their staff to continued pressure and the prospect of incarceration. Authorities froze dozens of NGO bank accounts as well as the personal accounts of a number of organization heads. Domestic and international NGOs described the criminal investigations, arrests, bank account closures, and other pressure as a crackdown on civil society unprecedented for the country (see section 5). A few activists affiliated with the Extractive Industries Transparency Initiative (civil society coalition) reported that the government lifted the freeze on their bank accounts. Others affiliated with this coalition reported government constraints on their ability to operate.</p>
+<p>The government continued to implement rules pursuant to a law that requires foreign NGOs wishing to operate in the country to sign an agreement and register with the Ministry of Justice. Foreign NGOs wishing to register a branch in the country are required to demonstrate they support “the Azerbaijani people’s national and cultural values” and commit not to be involved in religious and political propaganda. The decree does not specify any time limit for the registration procedure and effectively allows for unlimited discretion of the government to decide whether to register a foreign NGO. At year’s end no foreign NGOs had been able to register under these rules.</p>
+<p>The Ministry of Justice reported it registered domestic 520 NGOs and did not deny any registration applications during the year. Some experts estimated approximately 1,000 NGOs remained unregistered.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. There were exceptions, however, when the government limited freedom of movement for some activists and journalists.</p>
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons (IDPs), refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern. The State Migration Service was responsible for all refugee matters, including refugee status determination. International NGOs continued to report that the service remained inefficient and did not operate transparently.</p>
+<p><u>Foreign Travel</u>: Authorities continued to prevent certain activists and journalists from traveling outside the country. Examples included Popular Front Party chairman Ali Kerimli (since 2006) and at least six freelance journalists who filed material with Meydan TV.</p>
+<p>The law requires men of draft age to register with military authorities before traveling abroad. Authorities placed some travel restrictions on military personnel with access to national security information. Citizens charged with or convicted of criminal offenses but given suspended sentences also were not permitted to travel abroad.</p>
+<p>While official government policy allows citizens of ethnic Armenian descent to travel, low-level officials reportedly often requested bribes or harassed ethnic Armenians who applied for passports.</p>
+<div class="sub-sub-section">
+<h3>
+						Internally Displaced Persons</h3>
+<div class="sub-sub-section_content">
+<p>UNHCR reported 622,892 registered IDPs in the country as of December 2014, including persons in IDP-like situations, according to the government. The vast majority fled their homes between 1988 and 1993 as a result of the Nagorno-Karabakh conflict.</p>
+<p>The IDPs were initially required to register their places of residence with authorities and could live only in approved areas. This “propiska” registration system, which formally ceased to exist after the breakup of the Soviet Union, was enforced mainly against persons who were forced from their homes after separatists, with Armenia’s support, took control of Nagorno-Karabakh and seven other Azerbaijani territories. The government asserted that registration was needed to keep track of IDPs to assist them.</p>
+<p>According to the Internal Displacement Monitoring Center, many IDPs who resided in Baku were unable to register their residences or gain access to formal employment, government assistance, health care, education, or pensions and had difficulty buying property.</p>
+<p>Significant numbers of IDPs remained in overcrowded collective centers, where they were socially marginalized with limited employment opportunities and high rates of poverty. The law requires IDPs to register in the districts where they reside, and registration is necessary to obtain IDP status. Temporary registration where IDPs reside does not restrict migration within the country.</p>
+<p>According to the government, it allocated 630 million manat ($389 million) overall in assistance to IDPs during 2014. UNHCR reported that during the year the government rehoused 4,450 families, representing approximately 22,000 individuals. The rehousing occurred primarily in the Absheron and Mingachevir regions.</p>
+<p>On June 16, the ECHR issued a judgment in <i>Chiragov and Others v. Armenia </i>that six Azerbaijanis who were unable to return to their homes in the occupied district of Lachin should be compensated by the Armenian government through a property claims mechanism.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to some refugees through the Refugee Status Determination Department at the State Migration Service. Although UNHCR noted some improvements, the country’s refugee-status determination system did not meet international standards.</p>
+<p><u>Safe Country of Origin/Transit</u>: According to UNHCR, the country did not allow Russian citizens fleeing the conflict in Chechnya access to the national asylum procedure. UNHCR noted, however, that the country tolerated the presence of Chechen asylum seekers and accepted UNHCR’s role in providing for their protection and humanitarian needs.</p>
+<p><u>Access to Basic Services</u>: The estimated 1,000 refugees in the country lacked access to social services.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>Children derive citizenship by birth within the country or from their parents. While the law provides for the right to apply for stateless status, some persons could not obtain the documentation required for the application and therefore remained formally unrecognized. The law on citizenship makes it difficult for foreigners and stateless persons to obtain citizenship.</p>
+<p>According to UNHCR statistics, at the end of 2014 there were 3,585 persons in the country who were under UNHCR’s statelessness mandate. According to the State Migration Service, during 2014, 375 stateless persons applied for citizenship, and citizenship was granted to 96. The vast majority of stateless persons were ethnic Azeris from Georgia or Iran. NGOs stated there were many other undocumented stateless persons, with estimates ranging from hundreds to tens of thousands.</p>
+<p>For the most part, stateless persons enjoyed freedom of movement. The law permits stateless persons access to basic rights, such as access to health care and employment. Nevertheless, their lack of legal status at times hindered stateless persons’ access to these rights.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section3"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Although the constitution provides citizens the ability to choose their government through free and fair elections based on universal and equal suffrage, the government continued to restrict this ability by interfering in the electoral process. While the law provides for an independent legislative branch, the Milli Mejlis exercised little initiative independent of the executive branch.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: ODIHR cancelled its observation of the November 1 legislative elections when the government refused to accept ODIHR’s recommended number of short-term and long-term election monitors. Without ODIHR participation, it was impossible to assess properly the fairness of the elections.</p>
+<p>Independent local and international monitors that observed the election alleged a wide range of irregularities throughout the country, including blocking observers from entering polling stations, ballot stuffing, carousel voting, and voting by unregistered individuals; opposition monitors also alleged such irregularities. The country’s main opposition parties boycotted the election.</p>
+<p>The 2013 presidential election fell short of international standards. In their joint statement of preliminary findings and conclusions on the election, released in 2013, ODIHR and the OSCE Parliamentary Assembly highlighted serious shortcomings that needed to be addressed for the country to meet its OSCE commitments fully. On election day, OSCE Parliamentary Assembly and ODIHR observers noted procedural irregularities, including ballot box stuffing, serious problems with vote counting in 58 percent of observed polling stations, and failure to record the number of ballots received. Prior to election day, according to ODIHR, the government maintained a repressive political environment that did not provide the fundamental freedoms of assembly, association, and expression necessary for a free and fair electoral competition. Authorities interfered with the media and civil society routinely, sometimes violently interrupted peaceful rallies and meetings before and occasionally during the 23-day campaign period, and jailed a number of opposition and youth activists. Neither the election administration nor the judiciary provided effective redress for appeals. Credible NGOs reported similar shortcomings.</p>
+<p><u>Political Parties and Political Participation</u>: While there were 50 registered political parties, the ruling Yeni Azerbaijan Party dominated the political system. Domestic observers reported that membership in the ruling party conferred advantages, such as preference for public positions. The Milli Mejlis has not included representatives of the country’s main opposition parties since 2010.</p>
+<p>Opposition members were more likely than other citizens to experience official harassment and arbitrary arrest and detention. According to domestic NGOs’ joint list of political prisoners, several political detainees or prisoners were opposition party or movement members. At least 12 opposition members were considered to be political prisoners, such as Musavat party deputy chairman Tofig Yagublu, who was convicted in 2014 and sentenced to five years’ imprisonment for allegedly inciting civil unrest. At least 13 opposition figures were considered to be political detainees, including Popular Front deputy chairman Fuad Gahramanli, who was detained the evening of December 8 on charges that appeared connected with his exercise of freedom of expression. There were also indications that authorities pressured opposition party members to renounce their membership by offering incentives such as early release from jail.</p>
+<p>Regional party members often had to conceal the purpose of their gatherings and held them in remote locations. Opposition party members reported that police often dispersed small gatherings at teahouses and detained participants for questioning. Opposition parties continued to have difficulty renting office space, reportedly because landlords feared official retaliation; some parties operated from their leaders’ apartments.</p>
+<p><u>Participation of Women and Minorities</u>: There were 20 women in the Milli Mejlis; one held a ministerial-level position. Members of minority groups, such as the Talysh, Avars, Russians, and Jews, served in the Milli Mejlis and in government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section4"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for conviction of corruption by officials, but the government did not implement the law effectively, and officials often engaged in corrupt practices with impunity. While the government made some progress combatting low-level corruption in provision of government services, high-level corruption remained a problem. Transparency International and other observers described corruption as widespread during the year.</p>
+<p>There were continued reports that authorities targeted some human rights defenders and journalists seeking to combat government corruption. For example, on September 1, Khadija Ismayilova was convicted (see section 1.e., Political Prisoners and Detainees) on a variety of charges considered unfounded by observers. Many international human rights organizations asserted Ismayilova’s arrest and conviction were directly related to her investigative reporting of high-level corruption, including the president’s family.</p>
+<p><u>Corruption</u>: There continued to be reports that the families of several high-level officials were beneficiaries of monopolies. Authorities initiated some criminal cases related to bribery and other forms of government corruption during the year, although few senior officials were prosecuted.</p>
+<p>There was widespread belief that a bribe could obtain a waiver of the military service obligation, which is universal for men between ages 18 and 35. Citizens also reported military personnel could buy assignments to easier military duties for a smaller bribe. The Ministry of Defense participated in a program with the State Anticorruption Committee to address the various possible avenues of corruption, such as in assignments, pay, and housing.</p>
+<p>The president and the Presidential Administration continued a well-publicized program to decrease corruption at lower levels of public administration. The government increased the number of State Agency for Public Service and Social Innovations (ASAN) service centers from six to nine stationary centers and added a mobile center. The ASAN service functioned as a one-stop location for government services, such as birth certificates and marriage licenses, from nine ministries.</p>
+<p>The Prosecutor General’s Office includes an anticorruption department that took 206 cases to court involving 333 persons during 2014. The department also sought recovery of proceeds from crime, made recommendations, and issued mandatory instructions to eliminate conditions conducive to corruption.</p>
+<p><u>Financial Disclosure</u>: The law requires officials to submit reports on their financial situation, and the electoral code requires all candidates to submit financial statements. The process of submitting reports was complex and nontransparent, with several agencies and bodies designated as recipients, including the Anticorruption Commission, the Milli Mejlis, the Ministry of Justice, and the Central Election Commission, although their monitoring role were not well understood. The public did not have access to the reports. The law contemplates administrative sanctions for noncompliance, but the sanctions were not imposed.</p>
+<p>The law prohibits the public release of the names and the capital investments of business founders. Critics claimed the amendments were an attempt to curb investigative journalism into government officials’ business interests and could decrease public access to information.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information by individuals and organizations, but the government often did not allow it. Various ministries routinely denied requests, claiming not to possess information, although the ministries also claimed to have separate procedures on how to request information. Individuals have the right to appeal denials in court, but the courts generally upheld ministry decisions.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section5"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Severe government restrictions on the operations of domestic and international human rights groups continued during the year, with convictions of leading human rights defenders, restrictive laws further constraining NGO activities, and other pressure widely considered unprecedented for the country. Leading human rights NGOs faced a hostile environment for investigating and publishing their findings on human rights cases. As a result some activists left the country, and a number of NGOs ceased their activities. Although the government resurrected a working group on human rights in late 2014 to conduct a dialogue with selected civil society activists, Secretary General Thorbjorn Jagland announced the Council of Europe’s withdrawal from the dialogue October 7, citing the deterioration in the overall situation for human rights defenders.</p>
+<p>While the government maintained ties with some human rights NGOs and responded to their inquiries, on numerous occasions it criticized and intimidated other human rights NGOs and activists. The Ministry of Justice continued to deny registration or placed burdensome administrative restrictions on human rights NGOs on arbitrary grounds.</p>
+<p>A number of NGO representatives reported intensified government constraints that they described as a continuing crackdown on civil society and peaceful dissent. In particularly high-profile developments, authorities sentenced leading human rights defenders Leyla Yunus, Rasul Jafarov, and Intigam Aliyev, and investigative journalist Khadija Ismayilova to lengthy prison sentences (see section 1.e., Political Prisoners and Detainees). Yunus and Jafarov had led a working group that compiled a list of individuals considered by human rights activists to be political prisoners or detainees. Aliyev had submitted a number of cases to the ECHR. Ismayilova had led well-publicized journalistic investigations into alleged illegal business activities of the president’s family.</p>
+<p>Activists also reported that authorities refused to register their organizations or grants, conducted investigations into organizations’ activities, froze their personal and organizational bank accounts, and seized office equipment. Some NGO representatives also reported that they or a family member were physically assaulted with impunity. Many reported difficulty locating office or event space, particularly in hotels and especially for events occurring outside Baku.</p>
+<p>Senior government officials engaged in ad hominem attacks on human rights activists. State-run media outlets accused Amnesty International, Human Rights Watch, Freedom House, and Reporters without Borders of supporting “antinational elements.” The government also continued falsely accusing the National Democratic Institute, despite the 2014 closure of their office in the country, and other international NGOs of providing funding and other assistance to youth movements and others allegedly plotting to overthrow the government. On multiple occasions, Presidential Administration officials accused Azerbaijani and foreign NGOs of representing foreign interests seeking to destabilize the country and therefore of subversive activity, naming specific democracy and human rights groups and activists who had been incarcerated.</p>
+<p>During the year a government council provided 5.25 million manat ($3.24 million) to 520 NGOs. While observers considered many of these NGOs to be progovernment or politically neutral, some NGOs that criticized the government also received grants.</p>
+<p><u>The United Nations or Other International Bodies</u>: The government viewed with suspicion statements from such organizations, claiming that these international actors had no right to act in ways authorities saw as interfering in the country’s internal politics. On July 4, the government officially closed the OSCE’s Baku office after terminating its memorandum of understanding with the OSCE in June. The government stated there was no longer a need for the activities of the OSCE project coordinator in Baku.</p>
+<p>Citizens exercised the right to appeal local court rulings to the ECHR and brought claims of government violations of commitments under the European Convention on Human Rights. The government’s compliance with ECHR decisions was mixed. For example, it implemented the part of a May 2014 ECHR judgment requiring it to pay 22,000 euros ($24,200) in compensation to Ilgar Mammadov for violating his rights but failed to release Mammadov as also stipulated by the judgment.</p>
+<p><u>Government Human Rights Bodies</u>: Citizens may appeal violations committed by the state or by individuals to the ombudsman for human rights, Elmira Suleymanova, or the ombudsman for human rights for the Nakhchivan Autonomous Republic, Ulkar Bayramova. The ombudsman may refuse to accept cases of abuse that are more than a year old, anonymous, or already being handled by the judiciary. Human rights NGOs criticized the Ombudsman’s Office as lacking independence and effectiveness in cases considered politically motivated.</p>
+<p>The Ombudsman’s Office reported receiving 15,320 complaints during the year, an increase of 16.5 percent from 2014. The majority of complaints involved alleged violations of property rights, court provisions for the protection of rights and freedoms, social benefits, and labor rights. The Ombudsman’s Office resolved 64.5 percent of complaints accepted for consideration.</p>
+<p>Human rights offices in the Milli Mejlis and the Ministry of Justice also heard complaints, conducted investigations, and made recommendations to relevant government bodies.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section6"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution and law prohibit discrimination based on race, sex, religion, political opinion, national origin or citizenship, social origin, disability, age, and language, but the government did not always respect these prohibitions or effectively enforce them.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape is illegal and carries a maximum sentence of 15 years in prison. In the first 11 months of 2014, the most recent data available, the Ministry of Internal Affairs reported 34 cases of rape, 45 cases of violence of a sexual nature, and six cases of forced sexual acts. While some investigations had yet to be completed, the ministry stated that 71 persons had been brought to justice by year’s end.</p>
+<p>The law establishes a framework for the investigation of domestic violence complaints, defines a process to issue restraining orders, and calls for the establishment of a shelter and rehabilitation center for victims. Some critics of the domestic violence law asserted that a lack of clear implementing guidelines reduced its effectiveness. Female members of the Milli Mejlis and the head of the State Committee for Family, Women, and Children Affairs (SCFWCA) increased their activities against domestic violence. The committee conducted public awareness campaigns and worked to improve the socioeconomic situation of victims of domestic violence. Media coverage of domestic violence also began to raise awareness of the problem.</p>
+<p>Women had limited recourse against assaults by their husbands or others, particularly in rural areas.</p>
+<p>The government and an independent NGO each ran a shelter providing assistance and counseling to victims of trafficking and domestic violence.</p>
+<p><!--[if gte vml 1]>
+ 
+  
+ 
+<![endif]--><!--[if !vml]--><!--[endif]--><u>Sexual Harassment</u>: The government rarely enforced the prohibition of sexual harassment. The SCFWCA worked extensively on women’s problems, including organizing and hosting several conferences that raised awareness of sexual harassment and domestic violence.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and had access to the information and means to do so, free from discrimination, coercion, and violence. Contraception was widely available, but demographic surveys showed low levels of use. Patriarchal norms based on cultural, historical, and socioeconomic factors in some cases limited women’s reproductive rights.</p>
+<p><u>Discrimination</u>: Although women nominally enjoyed the same legal rights as men, including under family, labor, property, nationality, and inheritance laws, societal discrimination was a problem. Traditional social norms and lagging economic development in rural regions restricted women’s roles in the economy, and there were reports women had difficulty exercising their legal rights due to gender discrimination. There was discrimination against women in employment (see section 7.d.). The SCFWCA conducted public-media campaigns to raise awareness of women’s rights.</p>
+<p><u>Gender-biased Sex Selection</u>: The gender ratio of children born in the country was 1.12 boys for each girl. Local experts reported that gender-biased sex selection was widespread, predominantly in rural regions. The SCFWCA conducted seminars and public media campaigns to raise awareness of the problem.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Children derive citizenship by birth within the country or from their parents. Registration at birth was routine for births in hospitals or clinics. Some children born at home (for example, to Romani families or impoverished families) were not registered, and statelessness for those children was a problem. The Ministries of Internal Affairs and Justice registered undocumented children after identifying them as a population vulnerable to trafficking.</p>
+<p><u>Education</u>: While education was compulsory, free, and universal until age 17, large families in impoverished rural areas sometimes placed a higher priority on the education of boys and kept girls in the home to work. Some poor families forced their children to work or beg rather than attend school. Although the country scored well in adult literacy and achieving gender parity indexes in the UNESCO <i>Education for All Global Monitoring Report</i>, it fell either “very far from target” or “far from target” in preprimary, primary, and lower secondary education enrollment projections for the year.</p>
+<p><u>Child Abuse</u>: In the first 11 months of 2014, the Ministry of Internal Affairs reported five cases of rape involving underage victims, 25 cases of minors subjected to sexual acts, two cases of forced sexual acts, and one case of sexual intercourse with a person under age 16. According to the ministry, 30 persons were brought to justice in connection with these cases.</p>
+<p><u>Early and Forced Marriage</u>: The law provides for a girl legally to marry at age 18 or at age 17 with local authorities’ permission. The law further states that a boy may marry at age 18. The Caucasus Muslim Board defines 18 as the marriage age, but the fatwa failed to have much effect on religious marriage contracts (kabin or kabin-nama).</p>
+<p>The criminal code establishes fines of 3,000 to 4,000 manat ($1,850 to $2,470) or imprisonment of up to four years for conviction of the crime of forced marriage with underage children. According to the UN special rapporteur, in 2014 forced marriages of underage girls remained a problem and continued to endanger their lives. A 2014 UN Population Fund report stated that 12 percent of girls were married by age 18.</p>
+<p>NGOs reported that the number of early marriages continued to increase. The Government reported at least 15 criminal cases on early marriages during the year. Girls who married under the terms of religious marriage contracts were of particular concern, since these were not subject to government oversight and do not entitle the wife to recognition of her status in case of divorce. The Social Union of Solidarity among Women reported numerous instances in which men moved to Russia for work, leaving their underage wives in the country.</p>
+<p>The SCFWCA conducted activities in IDP and refugee communities to prevent early marriage.</p>
+<p><u>Sexual Exploitation of Children</u>: The law prohibits pornography; its production, distribution, or advertisement is punishable by three years<!--[if gte vml 1]>
+ 
+  
+ 
+<![endif]--><!--[if !vml]--><!--[endif]-->’ imprisonment. Statutory rape is defined as “the sexual relations or other actions of a sexual nature, committed by a person who has reached 18, with a person who has not reached 16” and is punishable by up to three years’ imprisonment. Recruitment of minors for the purpose of prostitution (involving a minor in immoral acts) is punishable by three to five years in prison, although the presence of aggravating factors, such as violence, could increase the potential sentence to five to eight years.</p>
+<p>A Baku group working with street children reported that boys and girls at times engaged in prostitution and street begging.</p>
+<p><u>Displaced Children</u>: A large number of refugee and internally displaced children lived in substandard conditions. In some cases these children were unable to attend school.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The country’s Jewish community was estimated to be between 20,000 and 30,000 individuals. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, or the provision of other state services, but the government did not enforce these provisions effectively. Employment discrimination remained a problem (see section 7.d.).</p>
+<p>A common belief persisted that children with disabilities were ill and needed to be separated from other children and institutionalized, but specific educational facilities were available to children with some physical disabilities, for example those with visual impairment. Children with certain disabilities, including autism, received no benefits in terms of education or allowances, however. A local NGO reported there were approximately 60,000 children with disabilities in the country of whom 6,000 to 10,000 had access to specialized educational facilities, while the rest were educated at home or not at all. The ability of children with disabilities to attend school was based on several factors, such as an evaluation by a medical committee, the type of disability, and the resources and physical structure of the family and a desired school. No laws mandate access to public or other buildings, information, or communications for persons with disabilities, and most buildings were not accessible.</p>
+<p>Conditions in facilities for persons with mental and other disabilities varied. Qualified staff, equipment, and supplies at times were lacking.</p>
+<p>The Ministries of Health and of Labor and Social Welfare are responsible for protecting the rights of persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Some of the approximately 20,000 to 30,000 citizens of Armenian descent living in the country reported discrimination in employment (see section 7.d.), housing, and the provision of social services. Ethnic Armenians often concealed their ethnicity by legally changing the ethnic designation in their passports. There were no reports of violence against Armenians during the year.</p>
+<p>Some groups reported sporadic incidents of discrimination, restrictions on their ability to teach in their native languages, and harassment by local authorities. These groups included Talysh in the south, Lezghi in the north, and Meskhetians and Kurds.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Antidiscrimination laws exist but do not specifically cover lesbian, gay, bisexual, transgender, and intersex (LGBTI) individuals. Societal intolerance, violence, and discrimination based on sexual orientation and gender identity remained a problem.</p>
+<p>A local NGO reported that there were numerous incidents of police brutality against individuals based on sexual orientation and noted that authorities did not investigate or punish those responsible. In addition specific police stations were known to extort money from LGBTI individuals in return for not disclosing their orientation or identity. There were also reports of family-based violence against LGBTI individuals and hostile Facebook postings on personal online accounts. A local organization reported that as of August, one gay and two transgender persons were killed and one transvestite committed suicide.</p>
+<p>LGBTI individuals refused to file formal complaints of discrimination or mistreatment with law enforcement bodies due to fear of social stigma or retaliation. An NGO reported police indifference to investigating crimes committed against the LGBTI community.</p>
+<p>There was societal prejudice and employment discrimination (see section 7.d.) against LGBTI persons.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>In the country’s most recent demographic and health survey (2006), 80 percent of women and 92 percent of men reported discriminatory attitudes towards persons with HIV.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section7"> </span><span class="st_twitter" st_title="Azerbaijan #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Azerbaijan - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252823%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of association, including the right to form and join independent labor unions. Uniformed military and police and managerial staff are prohibited from joining unions. While the law provides workers the right to bargain collectively, unions could not effectively negotiate wage levels and working conditions because government-appointed boards ran major state-owned firms and set wages for all government employees.</p>
+<p>The law provides most workers the right to conduct legal strikes. Categories of workers prohibited from striking include high-ranking executive and legislative officials; law enforcement officers; court employees; fire fighters; and health, electric power, water supply, telephone, railroad, and air-traffic control workers.</p>
+<p>The law prohibits discrimination against trade unions and labor activists and requires the reinstatement of workers fired for union activity. The law also prohibits retribution against strikers, such as dismissal or replacement. Striking workers who disrupted public transportation, however, could be sentenced to up to three years in prison.</p>
+<p>The Azerbaijan Trade Unions Confederation (ATUC) was the only trade union confederation in the country. The trade union registration process was cumbersome. Although the ATUC was registered as an independent organization, some workers considered it closely aligned with the government. The ATUC, reported that it represented 1.6 million members in 27 sectors at the start of the year. Regardless of whether a company is a member of the ATUC, a labor inspector appointed under the Ministry of Labor and Social Protection may investigate labor-related grievances.</p>
+<p>The government did not effectively enforce the laws regarding freedom of association and collective bargaining. Penalties were not sufficient to deter violations. Administrative and judicial procedures were subject to lengthy delays and appeals. There were some restrictions, such as increased bureaucratic scrutiny on the right to form unions and conduct union activities. Most unions were not independent, and the overwhelming majority remained tightly linked to the government, with the exception of some journalists’ unions. Both local and international NGOs claimed that workers in most industries were largely unaware of their rights and afraid of retribution if they initiated complaints. This was especially true for workers in the public sector.</p>
+<p>Collective bargaining agreements were often treated as formalities and not enforced. Although the labor law applies to all workers and enterprises, the government may negotiate bilateral agreements that effectively exempt multinational enterprises from national labor laws. For example, production-sharing agreements between the government and multinational energy enterprises did not provide for employee participation in a trade union. While the law prohibits employers from impeding the collective bargaining process, employers engaged in activities that undercut the effectiveness of collective bargaining, such as subcontracting and use of short-term employment agreements.</p>
+<p>The state oil company’s 65,200 workers were required to belong to the Union of Oil and Gas Industry Workers, and authorities automatically deducted union dues (2 percent of each worker’s salary) from paychecks. Many of the state-owned enterprises that dominated the formal economy withheld union dues from workers’ pay but did not deliver the dues to the unions. Employers officially withheld a quarter of the dues collected for the oil workers’ union for “administrative costs” associated with running the union. A complete lack of transparency made it impossible to determine exactly how dues were spent. Unions and their members had no means of investigating the matter.</p>
+<p>On two separate occasions in January and in February, a group of 10 to 15 railway workers protested the nonpayment of several months of salaries and assignment to work on domestic railway lines. The State Railway Administration denied and minimized the seriousness of the unpaid wage allegation, pointing out that only 10 to15 employees of a possible 300 attended the protest and that some male attendants had been reassigned to domestic lines due to complaints from passengers on the international line.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, except in circumstances of war or in the execution of a court decision under the supervision of a government agency. The government did not effectively enforce applicable laws. Resources and inspections were inadequate. Penalties for violations, including imprisonment, were sufficiently stringent to deter violations.</p>
+<p>Migrant workers were at times subjected to conditions of forced labor in the construction industry. Forced begging by children was a problem, and domestic servitude was an emerging problem. Men and boys at times were subjected to conditions of forced labor within the country, for example, in construction (see section 7.c.). The Ministry of Internal Affairs reported that it identified five cases of forced labor in the first nine months of the year. During the year the antitrafficking department within the Ministry of Internal Affairs inspected construction and agricultural sector sites, but did not identify any victims of labor trafficking. Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for employment depends on the type of work. In most instances the law permits children to work from age 15; children who are 14 may work in family businesses or, with parental consent, in daytime after-school jobs that pose no hazard to their health. Children under age 16 may not work more than 24 hours per week; children ages16 or 17 may not work more than 36 hours per week. The law prohibits employing children under age 18 in difficult and hazardous work conditions and identifies specific work and industries in which children are prohibited, including work with toxic substances and underground, at night, in mines, and in nightclubs, bars, casinos, or other businesses that serve alcohol.</p>
+<p>The Ministry of Labor and Social Security is responsible for enforcing child labor laws. The government passed amendments to the administrative offenses code and the criminal code that impose a fine or imprisonment for employing individuals without an effective employment agreement, thereby providing children working without a contract with protection. The SCFWCA trained regional Labor Inspection Service representatives, police inspectors, and local authorities in preventing child labor exploitation. Several labor NGOs not designated as labor organizations focused on child labor in the industrial and agricultural sectors.</p>
+<p>Government enforcement of the laws regarding the prohibition of child labor and the minimum age for employment were inconsistent. Resources and inspections were inadequate and penalties for violations, including fines, did not always deter violations. Although the ministry conducted inspections during the year, a local NGO reported there was a need for increased monitoring.</p>
+<p>There were few complaints of abuses of child labor laws during the year, although there were anecdotal reports of child labor in agriculture, forced begging, and street work, and that children were subjected to commercial sexual exploitation (see section 6, Children).</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The labor code prohibits discrimination with respect to employment and occupation on the basis of citizenship, race, color, sex, religion, political opinion, national origin or citizenship, social origin, disability, sexual orientation or gender identity, age, language, affiliation with trade unions or other public associations, or professional standing. The law does not specifically prohibit discrimination based on HIV-positive status or other communicable diseases, but there were no media or NGO reports of such discrimination. The government did not always enforce these provisions of the law effectively, and employment discrimination remained a problem.</p>
+<p>Individuals covered by the implied protection of law against discrimination reported a lack of application of this law. Employers generally hesitated to hire persons with disabilities; citizens of Armenian descent reported discrimination in employment as well. Discrimination in employment and occupation also occurred with respect to sexual orientation. LGBTI individuals reported that employers found other reasons to dismiss them because they could not legally dismiss someone because of their sexual orientation.</p>
+<p>The law excludes women from certain occupations with inherently dangerous conditions, such as working underground in mines. Women were underrepresented in high-level jobs, including top business positions. Traditional practices limited women’s access to economic opportunities in rural areas.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>As of August 21, the national minimum wage was 105 manat ($64.80) per month. The average poverty line was 131 manat ($80.90) per month, with 140 manat ($86.40) the poverty level for able-bodied persons, 108 manat ($66.70) for pensioners, and 108 manat ($66.70) for children. The law requires equal pay for equal work regardless of gender, age, or other classification.</p>
+<p>The law provides for a 40-hour workweek; the maximum daily work shift is 12 hours. Workers in hazardous occupations may not work more than 36 hours per week. The law requires lunch and rest periods that are determined by labor contracts and collective agreements. Information was not available with regard to whether local companies provided the legally required premium compensation for overtime, although international companies generally did. There is no prohibition on excessive compulsory overtime. The law provides equal rights to foreign and domestic workers.</p>
+<p>Ministry of Labor and ATUC officials inspected worksites for compliance, particularly in the construction, energy, and oil sectors, and recommended improvements in labor conditions to employers. Most individuals worked part time in the informal sector (unregistered businesses), which accounted for between 10 and 30 percent of the economy, and where the government did not enforce contracts or labor laws.</p>
+<p>The government did not effectively enforce the law. Local human rights groups, including the Oil Workers Rights Defense Council, an NGO dedicated to protecting worker rights in the petroleum sector, maintained that employers, particularly foreign oil companies, did not always treat foreign and domestic workers equally. Domestic employees of foreign oil companies reportedly often received lower pay and worked without contracts or health care. Some domestic employees of foreign oil companies reported violations of the national labor code, noting they were unable to receive overtime payments or vacations.</p>
+<p>Inspection of working conditions by the Ministry of Labor and Social Protection’s labor inspectorate was weak and ineffective. In 2014 the 370 labor inspectors were insufficient to monitor worksites, and penalties for violations were seldom enforced. Although the law sets health and safety standards, employers widely ignored them. Violations of acceptable conditions of work in the construction and oil and gas sectors remained problematic. Eleven oil workers died and 22 remained missing from a Caspian deepwater oil rig as a result of a fire that started from a December 4 gas pipeline explosion apparently caused by a storm and that burned for several weeks. ATUC reported good cooperation with Russian and Georgian authorities on measures to protect Russian and Georgian migrant workers’ rights and the safety of working conditions. The Ministries of Labor and Internal Affairs reportedly monitored the labor rights of other workers in hazardous sectors and in the informal economy. Workers may remove themselves from situations that endanger health or safety, but there is no legal protection of their employment if they do so.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

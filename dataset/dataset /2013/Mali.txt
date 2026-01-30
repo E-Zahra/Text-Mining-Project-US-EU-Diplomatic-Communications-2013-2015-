@@ -1,0 +1,476 @@
+2013
+Mali
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135"> </span><span class="st_facebook" st_title="Mali" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220135">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid;=220135</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li><a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=executive"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Mali is a constitutional democracy. On August 28, Ibrahim Boubacar Keita won the presidential election, deemed free and fair by international observers, and took office on September 4. This ended a 16-month transitional period following the March 2012 military coup that ousted the former democratically elected president, Amadou Toumani Toure. The election of a democratic government and the arrest of coup leader Amadou Sanogo restored some civilian control over the military. Authorities, however, failed at times to maintain effective control over the security forces, and individual units within the security forces committed human rights abuses.</p>
+<p>From January 12 to July 6, the government maintained a state of emergency. The Malian military, the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA), and the French military conducted military operations against violent extremist organizations including Ansar al-Dine, al-Qaida in the Islamic Maghreb (AQIM), and the Movement for Unity and Jihad in West Africa (MUJAO) in the northern part of the country.</p>
+<p>Members of the military committed serious human rights abuses, including summary executions, as well as torture, abuse, and forced disappearance of civilians allegedly having ties to rebel fighters. Impunity was a problem, although the newly elected government took steps to prosecute coup leader Sanogo and some members of the military accused of perpetrating human rights abuses. By year’s end the Ministry of Defense had presented 10 cases to the civil courts for prosecution.</p>
+<p>Other human rights problems included arbitrary deprivation of life; harsh prison conditions; judicial inefficiency; limitations on press freedom; official corruption; rape of and domestic violence against women and girls; female genital mutilation/cutting (FGM/C); human trafficking; societal discrimination against black Tamasheqs, who were subjected to slavery-related practices; discrimination based on sexual orientation; and discrimination against persons with HIV/AIDS. Workers’ rights were often disregarded, and exploitative labor, including child labor, was a problem.</p>
+<p>Extremist groups and rebel movements, including the National Movement for the Liberation of the Azawad (MNLA), also committed serious human rights abuses including sexual violence, summary execution, torture, and use of child soldiers.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section1"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were several reports that the government or its agents committed arbitrary or unlawful killings. Security forces, rebel groups, and other violent groups also committed numerous arbitrary killings related to the internal conflict (see section 1.g.).</p>
+<p>On December 4, authorities discovered the bodies of 21 soldiers allegedly killed by armed forces loyal to coup leader Amadou Haya Sanogo in May 2012. The mass grave in Diago, located near the former headquarters of Sanogo, was found during a government investigation, which identified the bodies as those of the 21 missing Red Beret soldiers involved in the May 2012 countercoup. By year’s end the government arrested 15 soldiers and gendarmes believed to be responsible for the forced disappearance, torture, and unlawful killing of the Red Berets. Coup leader Sanogo, who was arrested on November 27, was among that number and remained in prison pending trial at year’s end.</p>
+<p>On September 28, AQIM affiliates killed four individuals and injured several others in a suicide car-bomb attack on a military base in Timbuktu. AQIM claimed responsibility for the attack.</p>
+<p>On November 2, AQIM kidnapped and killed two French journalists in the northern town of Kidal.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were several reports of politically motivated disappearances (see section 1.g.).</p>
+<p>The government arrested 15 soldiers and gendarmes, including former captain and coup leader Sanogo, believed responsible for the forced disappearance, torture, and unlawful killing of the 21 missing Red Berets in 2012 (see section 1.a.).</p>
+<p>The MNLA held several persons hostage during the year, primarily in Kidal (see section 1.g.).</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, but there were reports that soldiers employed them against individuals with suspected links to the MNLA or MUJAO (see section 1.g.).</p>
+<p>After the attempted countercoup by Red Beret soldiers in 2012, soldiers loyal to coup leader Sanogo allegedly participated in the forced disappearance and killing of 21 Red Beret soldiers (see section 1.a.). Sanogo loyalists also allegedly arrested, detained, and abused other Red Berets in prison for their suspected involvement in the countercoup. In July interim President Diouncounda Traore ordered the release of all Red Berets remaining in detention since 2012. In September the Ministry of Defense forwarded the cases of 10 soldiers who allegedly abused Red Beret prisoners during their detention to the Ministry of Justice for prosecution. The 10 cases had not gone to trial by year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions were harsh and life threatening.</p>
+<p><u>Physical Conditions</u>: Excluding facilities in the three northern regions, the country’s prisons held 4,963 prisoners, including 2,492 pretrial detainees. Prisons were overcrowded. As of September 3, the Bamako Central Prison held 2,017 prisoners, including 1,151 pretrial detainees, in a facility designed to hold 400 persons. There were 148 female prisoners, 91 juvenile male prisoners, and 20 juvenile female prisoners. In Bamako male and female inmates were held separately, and juvenile offenders were held in the women’s prison. Outside the capital, authorities held men, women, and juveniles in separate cells within the same prison. Detention conditions were better in women’s prisons than those of men. Pretrial detainees were held with convicted prisoners. Arrested individuals may be held for up to 72 hours in police stations, where there were no separate holding areas for men and women.</p>
+<p>No information on the prevalence of deaths in prisons or detentions centers was available.</p>
+<p>In April five Tuareg men suspected of having ties to MUJAO died in Bamako Central Prison. According to reports by nongovernmental organizations (NGOs), the men were injured when captured by government forces, were subsequently denied medical treatment, and were held in small, crowded cells.</p>
+<p>Prison food, when provided, was insufficient in both quality and quantity, and medical facilities were inadequate. The most significant threat to prisoners’ health was lack of sanitation. Buckets served as toilets. Only prisoners in Bamako had access to potable water. Ventilation, lighting, and temperature were comparable with many poor urban homes.</p>
+<p><u>Administration</u>: Prison recordkeeping was inadequate, and authorities took no specific actions during the year to improve it. Authorities did not use alternative sentencing for nonviolent offenders.</p>
+<p>There were no prison ombudsmen. Authorities, however, permitted prisoners and detainees to submit complaints, either directly or through the Office of the Ombudsman of the Republic, to judicial authorities without censorship to request investigation of credible allegations of inhumane conditions. The National Commission for Human Rights (CNDH), an independent entity within the Ministry of Justice, did not register any formal complaints during the year. The CNDH, which is charged with visiting prisons and ensuring humane conditions, visited prisoners in Bamako Central Prison within one week of request but had difficulties accessing detainees in military detention centers or in prisons outside of Bamako. The government’s Directorate for National Penitentiary Administration investigated and monitored prison and detention center conditions. Detainees had reasonable access to visitors and could observe their religious practices.</p>
+<p><u>Independent Monitoring</u>: The government permitted visits by human rights monitors, and human rights organizations conducted visits during the year. NGOs and other monitors were required to submit a request to the prison director, who then forwarded it to the Ministry of Justice. Approvals were routinely granted but required a week to process, which hindered the ability of monitors to assess abuses. The International Committee of the Red Cross conducted visits to political prisoners held in the Kati military camp and visited detainees in Mopti-Sevare. The Malian Association for Human Rights visited prisons in Kati, Bamako, and other locations outside of the north. MINUSMA human rights observers visited the center holding MNLA detainees in Kidal in April and May.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The constitution and law generally prohibit arbitrary arrest and detention. Nevertheless, the government, MUJAO, and MNLA forces detained and arrested numerous individuals in relation to the ongoing northern conflict (see section 1. g.).</p>
+<p>In early June the MNLA arrested more than 100 residents of Kidal and accused them of spying for the government. The MNLA released all but 10 within a few days but reportedly robbed and severely beat the detainees while they were in custody.</p>
+<p>The armed men in Bamako who in 2012 detained Mahamadou Douara, a former student activist and critic of the government, released him to his family. Details of his detention were unknown, and authorities did not charge his captors.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>Security forces include the army, gendarmerie, National Guard, National Police, and the General Directorate of State Security (DGSE). The army and National Guard are administratively under the Ministry of Defense, although operational control of the National Guard rests with the Ministry of Internal Security and Civil Protection. The National Guard also has specialized border security units. The responsibilities of the Ministry of Internal Security and Civil Protection include maintaining order during exceptional circumstances, such as national disasters or riots. The DGSE has authority to investigate any case and temporarily detain persons at the discretion of its director general. It usually did so only in terrorism and national security cases. The army is responsible for external security, but during the conflict in the north and the state of emergency from January 12 to July 6, it undertook some domestic security responsibilities where police and gendarmes were absent. The army did not exercise the same authority in the south. When police and gendarmes returned to the north, the army relinquished domestic security responsibilities there. Police officers have responsibility for law enforcement and maintaining order in urban areas, while gendarmes have that responsibility in rural areas. The National Police is organized into districts, and ach district has a commissioner who reports to the regional director at national headquarters. The National Police was moderately effective but seriously deficient in resources and training. Police union disputes were prevalent during the first half of the year. Police led by the Commissioner’s Union protested against what they deemed were unjustified proposed promotions to supporters of the coup. The government responded by cancelling the promotions.</p>
+<p>Civilian authorities did not maintain effective control over the military but generally maintained control of the police and gendarmerie. There were many reports of impunity involving the security forces during the year, particularly in the north. Mechanisms to investigate and punish abuse and corruption by security forces generally were not effective, but the Ministry of Defense opened at least three investigations of human rights abuses by soldiers in the north. The ministry also transmitted 10 cases to the Ministry of Justice to prosecute soldiers implicated in abusing prisoners during the coup.</p>
+<p>A commission of inquiry established by the Ministry of Defense investigated security force killings to determine whether they constituted violations of the military code of justice or of criminal law. The commission referred cases involving human rights abuse to the prosecutor general for criminal trial. By year’s end, however, the commission had completed no investigations into alleged human rights abuses committed by soldiers redeployed to the north during the year. In the south, however, an investigation into the May 2012 disappearance of 21 Red Beret soldiers in Kati resulted in the arrest of 15 soldiers, including coup leader Sanogo (see section 1. a.).</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Judicial warrants are required for arrest. While police usually apprehended individuals openly with warrants based on sufficient evidence and issued by a duly authorized official, this did not always occur. Prior to the return of government control in the north, some armed forces units arbitrarily arrested individuals suspected of having links to violent groups, often without evidence or a warrant (see section 1.g.).</p>
+<p>The law requires authorities to charge suspects or release them within 48 hours, but this did not always occur. The law provides for the transfer of detainees from police stations to prisons within 72 hours of arrest, but authorities sometimes held detainees longer in police stations. Authorities may grant detainees, who have limited rights of bail, conditional liberty, particularly for minor crimes and civil matters. Authorities occasionally released defendants on their own recognizance.</p>
+<p>Detainees have the right to a lawyer of their choice or a state-provided lawyer if indigent. Nevertheless, a shortage of lawyers – particularly outside Bamako and Mopti – often prevented access to legal representation. Regular detainees had prompt access to family members, but authorities denied family visits and legal assistance to military and police officers detained in the Kati military camp.</p>
+<p><u>Pretrial Detention</u>: The law stipulates that charged prisoners be tried within one year, but lengthy pretrial detention was a problem. Lengthy trial procedures, the large number of detainees, judicial inefficiency, corruption, and staff shortages contributed to the problem. Individuals sometimes remained in prison for several years before their cases came to trial. Many individuals could not afford bail. Approximately 50 percent of inmates were awaiting trial.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, but the executive branch continued to exert influence over the judicial system. Corruption and limited resources affected the fairness of trials. Bribery and influence peddling were widespread in the courts, according to domestic human rights groups.</p>
+<p>There were problems enforcing court orders. Sometimes judges were absent from their assigned areas for months at a time. Village chiefs and justices of the peace appointed by the government decided the majority of disputes in rural areas. Justices of the peace had investigative, prosecutorial, and judicial functions. These traditional systems did not provide the same rights as civil and criminal courts.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and the judiciary usually enforced this right. Defendants are presumed innocent and have the right to be informed promptly and in detail of the charges against them (with free interpretation as necessary). Except in the case of minors, trials generally were public and used juries. Defendants have the right to communicate with an attorney of choice (or to have one provided at public expense), but administrative backlogs and an insufficient number of lawyers, particularly in rural areas, often prevented prompt access. Defendants and their attorneys have the right to adequate time and facilities to prepare a defense, to access government-held evidence, to confront witnesses, and to present witnesses and evidence on their behalf. The government generally respected these rights. Defendants may not be compelled to testify against themselves or confess guilt and may appeal decisions to the Supreme Court.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Authorities detained persons in connection with the conflict in the north (see section 1.g.).</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals and organizations may seek civil remedies for human rights violations. They may appeal their cases to the Economic Community of West African States’ Court of Justice and the African Court on Human and Peoples’ Rights. In cases of traditional slavery, there were reports that civil court orders were sometimes difficult to enforce.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions, and the government generally respected these prohibitions in practice. Unlike in the previous year, there were no reported instances of arbitrary interference with privacy, family, home, or correspondence.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p>The military, MNLA, Ansar al-Dine, and MUJAO committed serious human rights abuses in the north. These included arbitrary killings, abuse, and disappearances. Most military abuses targeted Tuareg and ethnic Arab rebels and were in reprisal for attacks by those groups. The MNLA, Ansar al-Dine, MUJAO, and progovernment militias used child soldiers during the year.</p>
+<p>On April 6, the government established the Commission for Dialogue and Reconciliation, but the commission had not begun investigations by year’s end, and its mandate remained unclear. The government appointed a new minister of national reconciliation and development of the north on September 8. The International Criminal Court opened investigations in the country in January.</p>
+<p>The government arrested more than 200 rebel fighters linked to the MNLA, MUJAO, or Ansar al-Dine. In September the government ordered the release of 100 MNLA detainees in accordance with the June 18 Ouagadougou Accords.</p>
+<p><u>Killings</u>: The military, rebel groups, and terrorist organizations killed persons in the north.</p>
+<p>On May 26, government soldiers reportedly arrested Mohamed Hamedou Ag Mohamed Asseleh and another Tuareg man. The soldiers subsequently stripped and harassed the two men until a relative of the men intervened and convinced the soldiers to release them. Six hours later the soldiers rearrested the two men, whom they subsequently killed.</p>
+<p>On August 11, vigilantes killed Abdoulayed Ag Mohamed Ali while he was voting in his hometown of Lere, near Timbuktu, for alleged association with the MNLA. The victim was the Tuareg brother of the then minister of culture. On August 16, MNLA members allegedly killed seven Peul (Fulani) herders in reprisal, also near Lere. The government and MINUSMA opened separate investigations.</p>
+<p>In response to the September 2012 killing of 16 Mauritanian and Malian clerics, the Ministry of Justice established an independent commission of inquiry. The commission began its investigation in August but stopped work during the presidential election and had not resumed operations by year’s end.</p>
+<p>There were no developments in the November 2012 abduction of a French national or in the cases of the three remaining Algerian diplomats abducted in April 2012.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: Human rights organizations reported numerous allegations of physical abuse by military, rebel, and terrorist forces. From May 6 to 8, soldiers detained nine men on allegations they were involved with MUJAO and paraded them in various villages around Lere. The soldiers beat the men over a two-day period, choked them with ropes, and hung them from trees for up to 12 hours to force confessions. The soldiers subsequently passed the detainees to gendarmes in Niono for transportation to Bamako.</p>
+<p>Human rights organizations reported that on March 1, a soldier raped a woman in Sevare and prevented her from reporting the rape to authorities.</p>
+<p>On February 10, MUJAO forces in Gao abducted Al-Wata Ould Badji after he publicly praised the French military intervention. MUJAO fighters returned him, with his body covered in burns, to his family in Gao days later. He died in the hospital in Gao due to his injuries.</p>
+<p>On February 8, in Gao a suicide bomber on a motorbike approached a group of soldiers and detonated an explosive belt, resulting in his death and injury to one of the soldiers.</p>
+<p><u>Child Soldiers</u>: Prior to the French intervention in January, at least 40 children served as soldiers for MUJAO, Ansar al-Dine, and AQIM, participating in active fighting and operating checkpoints in warzones, particularly during the rebel offensive beginning January 10. Most children recruited were boys, but reports indicated that girls might also have been recruited and later forced to serve as sex slaves.</p>
+<p>Following the French intervention and cessation of hostilities, the government passed legislation criminalizing the use of child soldiers and opened centers to rehabilitate child soldiers and return them to their families. The government disbanded the unsanctioned progovernment militia groups Gando Izo and Gando Koy, which trained children to participate in armed hostilities, after the government regained control of the areas around Mopti and Sevare. The government placed the children trained as soldiers into rehabilitation centers. Some child soldiers as young as 13 remained in the Bamako Central Prison through May, when authorities released and integrated them into rehabilitation centers.</p>
+<p>See the Department of State’s annual <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+<p><u>Other Conflict-related Abuses</u>: Several human rights organizations reported that on February 14, in Timbuktu, government soldiers detained Ali Ould Mohamed, Dann Ould Dahama, Mohamed Ould Dahama, Maouloud Fassoukoye, and Mohamed Ould Sidi Ali for suspected membership in violent religious groups. On February 27, the military detained five soldiers in Bamako pending investigation into the disappearance of the five men. The investigation continued at year’s end.</p>
+<p>The Ministry of Defense established at least three commissions of inquiry to investigate forced disappearances perpetrated by the military during the year and in 2012. At year’s end investigations continued.</p>
+<p>Gendarmes in Kati detained between 50 and 60 alleged members of violent groups in Camp A, where they awaited trial at year’s end. Human rights groups reported that conditions in Camp A were deplorable. Authorities kept the detainees in two rooms with little ventilation and did not allow them to leave the rooms. Authorities claimed other prisons were too full to accommodate these detainees.</p>
+<p>Prior to implementation of the Ouagadougou Accords, the MNLA imprisoned 42 individuals who allegedly fought against them in Kidal, including at least two children under age 15. The MNLA released some of the detainees in June, handing them over to government authorities. MINUSMA and the government provided the children social services and family reunification, where possible.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section2"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, but the government restricted press freedom.</p>
+<p><u>Violence and Harassment</u>: Kidnappings, illegal detentions, and assaults on journalists occurred during the year.</p>
+<p>On November 2, AQIM kidnapped and killed two French radio journalists in Kidal.</p>
+<p>According to Reporters Without Borders, on February 8, security forces arrested and detained several foreign journalists for several hours in Bamako. Security forces assaulted one of the journalists and confiscated the photos on his camera.</p>
+<p>On July 31, supporters of presidential candidate Soumaila Cisse assaulted Chahana Takiou, editor of the weekly newspaper <i>22 Septembre</i>, after a press conference in which Takiou asked if the candidate was going to concede the race after the first round of the elections.</p>
+<p><u>Censorship or Content Restrictions</u>: At the beginning of the year, the interim government called on journalists to refrain from writing or broadcasting sensitive stories that could jeopardize national security and to “act responsibly” and support the military. Journalists had difficulty accessing information on the military deemed sensitive by the government and, in some instances, gaining access to northern locations.</p>
+<p>In early December a journalist with the Associated Press reported discovering near Timbuktu the bodies of six persons allegedly killed by the armed forces early in the year. After publication of the article, the Associated Press office in Mali received threatening phone calls from persons identifying themselves as government officials. Two Malian news websites reported receiving similar phone calls that threatened to close their websites if they did not remove links to the Associated Press story.</p>
+<p>Media increased self-censorship following the transitional government’s state-of-emergency decree in January. National television and radio suspended entertainment programs and broadcast programs that praised and encouraged government forces. Africable, the subregional private cable television network, suspended several entertainment shows, but resumed them after the state of emergency ended in July. Private FM radio stations, such as Kledu, suspended some of their programming. Other radio stations, such as Bamakan, advised their staffs to act responsibly in dealing with sensitive issues.</p>
+<p><u>Libel Laws/National Security</u>: During the state of emergency, the government called on journalists to refrain from writing or broadcasting sensitive stories that could jeopardize national security. On March 6, security forces detained Boukary Daou, editor of the daily newspaper <i>Le Republicain</i>, the day after he published an article criticizing an announced salary increase for coup leader Sanogo. Daou spent two months in jail before a court dismissed the charges of inciting disobedience and released him on April 30.</p>
+<p><u>Nongovernmental Impact</u>: On March 11, an alleged hired assailant stabbed Dramane Traore, a radio presenter in the town of Niono. Traore hosted a show on corruption, mismanagement, and delinquency. Prior to the assault Traore stated he had received threats telling him to stop reporting on local issues or else resign.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or any reports that the government monitored e-mail or internet chat rooms without appropriate legal authority. There were numerous internet cafes in Bamako, but home internet access remained limited due to the expense. Outside Bamako access to the internet was limited. According to the International Telecommunication Union, approximately 2 percent of residents used the internet in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom, but authorities restricted cultural events during the state of emergency.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>While the constitution and law provide for freedom of assembly, the government restricted these rights, particularly during the state of emergency.</p>
+<p>On July 9, police used tear gas to disperse a student demonstration at the University of Bamako, resulting in several student injuries. Students were protesting against a faculty strike for higher pay.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for freedom of association, although the law prohibits associations deemed immoral. The government generally respected freedom of association except for members of the lesbian, gay, bisexual, and transgender (LGBT) community (see section 6).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of movement within the country, foreign travel, emigration, and repatriation. The government generally respected these rights.</p>
+<p>The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing humanitarian assistance, including some protection services, to internally displaced persons (IDPs), refugees, asylum seekers, and other persons of concern.</p>
+<p><u>In-Country Movement</u>: While in-country movement was not formally restricted, the army established checkpoints to maintain security, and the unstable security situation limited freedom of movement. While MUJAO occupied Gao, the local population reportedly feared leaving their homes or the city. Continued instability dissuaded many refugees and IDPs from returning to the north. As the crisis faded at the end of the year, many refugees and IDPs began returning to their places of residence. The government facilitated travel to the north for IDPs who lacked the means to pay for their own travel.</p>
+<p>Police routinely stopped and checked citizens and foreigners to restrict the movement of contraband and verify vehicle registrations. The number of police checkpoints on roads entering Bamako and inside the city increased after the French military intervention began on January 12. Journalists stated the government did not allow them to move freely in northern Mali in January during military operations, which refusal the government attributed to security concerns.</p>
+<p><u>Exile</u>: Political leaders who left the country following the 2012 coup returned from exile during the year, many to participate in the presidential election. Former president Amadou Toumani Toure did not return to the country.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>The Commission on Population Movement, led by the International Organization for Migration, estimated the country had 311,300 IDPs as of October, more than half of them located in southern and central regions of the country. Humanitarian access in the northern regions generally improved following the French intervention, although insecurity related to the presence of rebels and terrorist groups in some areas remained a challenge. The Ministry of Internal Security and Civil Protection registered IDPs, and the government provided assistance.</p>
+<p>IDPs generally lived with relatives, friends, or in rented accommodations. Most IDPs resided in urban areas and had access to food, water, and other forms of assistance. As many as half of all displaced families lacked official identity documents that were often needed to facilitate access to public services, including schools for children, although identification was not required for humanitarian assistance. Aid groups provided humanitarian assistance to IDPs residing in the south and in the north, as access permitted. Perceptions of improved security in the north resulted in the return of an estimated 137,000 persons to the regions of Gao and Timbuktu as of August.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. A national committee in charge of refugees operated with assistance from the UNHCR. A tripartite agreement between the governments of Mali and Cote d’Ivoire and the UNHCR, signed in 2012, allows for repatriation of the estimated 1,100 Ivoirian refugees and 146 Ivoirian asylum seekers remaining in Mali.</p>
+<p><u>Temporary Protection</u>: The government’s Office of International Migration is responsible for providing temporary protection to individuals who may not qualify as refugees. The National Commission for Refugees adjudicates refugee or asylum claims and provides temporary protection pending a decision on whether to grant asylum.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section3"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law provide citizens the right to change their government peacefully. Following the coup in March 2012, the transitional government organized a two-round presidential election, which took place in July and August.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: On July 28 and August 11, the country held the first and second rounds of the presidential election. Citizens elected Ibrahim Boubacar Keita as president. The Constitutional Court reported voter participation at 49 percent in the first round and 47 percent in the second round. Independent domestic and international observation missions characterized both rounds as credible and transparent, noting only minor administrative irregularities.</p>
+<p><u>Political Parties</u>: Political parties generally operated without restrictions or outside interference.</p>
+<p><u>Participation of Women and Minorities</u>: There were 15 women in the 147-member National Assembly and three women in the 31-seat transitional cabinet led by Prime Minister Django Cissoko. Following the presidential election, new Prime Minister Oumar Tatam Ly led a 34-seat cabinet that included four women. There were five women, including the chairperson, on the 33-member Supreme Court and three women on the nine-member Constitutional Court.</p>
+<p>Prior to legislative elections in November, the National Assembly had 15 members from historically marginalized pastoralist and nomadic ethnic minorities representing the eastern and northern regions of Gao, Timbuktu, and Kidal. During the crisis, a few ethnic Tuareg members of the National Assembly joined the MNLA or Ansar al-Dine. While these individuals never resigned or lost their positions in the National Assembly, they were not present to perform their duties. Due to their involvement with the MNLA or Ansar al-Dine, the National Assembly voted to lift their immunity from prosecution. The National Assembly members allied with Ansar al-Dine ended their association with the group following the French intervention in January. Prime Minister Oumar Tatam Ly’s cabinet included pastoral and nomadic ethnic minority members.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section4"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, but the government did not implement the law effectively, and officials frequently engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: Corruption in the judiciary was widespread. Police were not held accountable for corruption. Officials, police, and gendarmes frequently extorted bribes. There were reports of uniformed police or individuals dressed as police directing stopped motorists to drive to dark and isolated locations where they robbed the victims.</p>
+<p>In January, Ibrahim Oumar Toure and seven other high-level officials implicated in misappropriating millions of dollars from the Global Fund to Fight AIDS in 2011 were acquitted of all charges.</p>
+<p>Government institutions responsible for combating corruption included the Anticorruption Agency (CASCA) and the independent Office of the Auditor General (VEGAL). CASCA oversees a number of smaller anticorruption units within various government ministries and reports directly to the presidency. VEGAL has an independent budget and operated independently during the year. In May VEGAL organized a workshop with civil society organizations to explain its procedures.</p>
+<p><u>Whistleblower Protection</u>: The law provides no protection for public or private employees for lawfully disclosing evidence of illegality.</p>
+<p><u>Financial Disclosure</u>: The constitution requires the president, prime minister, and other cabinet members to submit annually a financial statement and written declaration of their net worth to the Supreme Court. The Court of Accounts, a section within the Supreme Court, is responsible for monitoring and verifying financial disclosures. There are no sanctions for noncompliance. The Court of Accounts requires officials to identify all assets and liabilities when they start and complete their terms and provide yearly updates throughout their tenure. Officials are not required to submit disclosures for their spouses or children. Details of these filings were not made public.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to government information, and the government generally granted such access to citizens and noncitizens, including foreign media. Journalists had difficulty accessing information on the military during the declared state of emergency that the government deemed sensitive. The national budget was available to the public upon request. Persons whose requests for information are refused may appeal to an administrative court, which must respond within three months. The government generally respected these rules. Officials sometimes requested bribes to provide requested information. The government may refuse a request by citing national security or use bureaucratic processes to delay a response.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section5"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials generally were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The CNDH is an independent institution within the Ministry of Justice. The government continued to provide the commission with a headquarters and small staff. The commission’s 2013 report, released in July, focused on violations committed in northern Mali by the MNLA, AQIM, MUJAO, and Ansar al-Dine and in southern Mali by coup supporters in 2012. The report highlighted violations of freedom of worship, war crimes, rape, amputations, arbitrary arrests, physical attacks, destruction and pillaging of private and public property, extrajudicial killing, and disappearances. The report also outlined poor conditions in detention centers (see section 1.c.) and the failure to prosecute those linked to gross human rights violations.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section6"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and law prohibit discrimination based on social origin and status, color, language, gender, or race but not disability, sexual orientation, or gender identity. Citizens were generally reluctant to file complaints or press charges of discrimination, based largely on cultural factors. Absent complaints or lawsuits, the government did not aggressively pursue violations of these laws.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape and provides a penalty of five to 20 years’ imprisonment for offenders, but the government did not enforce the law effectively. Rape was a widespread problem. Authorities prosecuted only a small percentage of rape cases since victims seldom reported rapes due to societal pressure, particularly since attackers were frequently close relatives. No law specifically prohibits spousal rape, but law enforcement officials stated criminal laws against rape apply to spousal rape. Police and judicial authorities were willing to pursue rape cases but stopped if parties reached an agreement prior to trial. Information on convictions was not available.</p>
+<p>The military and armed groups reportedly committed rape and sexual violence in the north (see section 1.g.).</p>
+<p>Domestic violence against women, including spousal abuse, was prevalent. Most cases went unreported. Spousal abuse is a crime, but the law does not specifically prohibit domestic violence. Assault is punishable by prison terms of one to five years and fines of up to 500,000 CFA francs ($1,030) or, if premeditated, up to 10 years’ imprisonment. Police were reluctant to intervene in cases of domestic violence. Many women were reluctant to file complaints against their husbands because they feared husbands would interpret such allegations as grounds for divorce, were unable to support themselves financially, sought to avoid social stigma, or feared further ostracism. The government’s planning and statistics unit, established to track prosecutions, was not operational.</p>
+<p>Many NGOs operating shelters for abused female domestic laborers faced difficulties due to the absence of support from their usual foreign partners.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: See section 6, Children.</p>
+<p><u>Sexual Harassment</u>: The law does not prohibit sexual harassment, which routinely occurred, including in schools, without any governmental efforts to prevent it.</p>
+<p><u>Reproductive Rights</u>: Women’s ability to make decisions regarding reproduction was limited, and they lacked information. Women faced pressure to defer to their husbands and family on reproductive matters, including the number, spacing, and timing of pregnancies. Women often did not have access to contraception and skilled attendance during childbirth, including essential obstetric and postpartum care. According to the UN Population Fund, the contraceptive prevalence rate was 8 percent, with the unmet need for family planning estimated at 29 percent. According to 2010 World Health Organization estimates, the maternal mortality ratio was 540 deaths per 100,000 live births, and a woman’s lifetime risk of maternal death was one in 22. The major factor contributing to maternal mortality was a lack of properly trained medical practitioners. Many women gave birth at home with only family members present. The preliminary results of the 2013 Demographic and Health Survey indicated skilled health personnel attended 58.6 percent of births.</p>
+<p><u>Discrimination</u>: The law discriminates against women, particularly in divorce or inheritance. Women are legally obligated to obey their husbands and are particularly vulnerable in cases of divorce, child custody, and inheritance. Women had very limited access to legal services due to their lack of education and information as well as the prohibitive cost.</p>
+<p>While the law provides for equal property rights, traditional practices and ignorance of the law prevented women from taking full advantage of their rights. A community-property marriage must be specified in the marriage contract. In addition if marriage certificates of Muslim couples do not specify the type of marriage, judges presume the marriage to be polygynous.</p>
+<p>Women’s access to education and employment was limited.</p>
+<p>Women experienced economic discrimination due to social norms that favored men. The government was the major formal-sector employer and ostensibly paid women the same as men for similar work, but differences in job descriptions permitted pay inequality. The Ministry for the Promotion of Women, the Family, and Children is responsible for ensuring the legal rights of women.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from the father. The government did not register all births immediately, particularly in rural areas. According to the UN Children’s Fund (UNICEF), the government registered 81 percent of births. During the year the government continued conducting an administrative census to collect biometric data and assign a unique identifying number to every citizen. The process allowed the registration of children not registered at birth, although the number of new birth certificates assigned was unknown. Several local NGOs worked with foreign partners during the year to register children at birth and to educate parents about the benefits of registration.</p>
+<p><u>Education</u>: The constitution provides for tuition-free universal education, and the law provides for compulsory schooling from ages seven to 16. Nevertheless, many children did not attend school. Parents often had to pay their children’s school fees as well as provide their uniforms and supplies. Other factors affecting school enrollment included distance to the nearest school, lack of transportation, shortages of teachers and instructional materials, and lack of school feeding programs. Girls’ enrollment was lower than boys’ at all levels due to poverty, cultural preference to educate boys, and early marriage of girls.</p>
+<p>The conflict in the north resulted in the closure of schools in that region, although some schools reopened for the academic year beginning in September. Conflict damaged or destroyed many schools as rebels sometimes used the buildings as bases of operations.</p>
+<p><u>Child Abuse</u>: Comprehensive government statistics on child abuse did not exist, but the problem was widespread. Citizens typically did not report child abuse cases, but according to UNICEF, approximately 91 percent of children reported being victims of physical abuse. Police and the social services department in the Ministry for Humanitarian Action, Solidarity, and the Elderly investigated and intervened in some reported cases of child abuse or neglect, but the government provided few services for such children.</p>
+<p><u>Forced and Early Marriage</u>: The minimum age to marry without parental consent is 16 for girls and 18 for boys. A 15-year-old girl may marry with parental consent if a civil judge approves. Authorities did not effectively enforce the law, particularly in rural areas, and underage marriage was a problem throughout the country. According to the UN Population Fund, 55 percent of women between the ages of 20 and 24 were married by age 18.</p>
+<p>In some regions of the country, girls married as young as 10. It was common practice in the country for a girl who is 14 to marry a man twice her age. According to local human rights organizations, judicial officials frequently accepted false birth certificates or other documents claiming that girls under the age of 15 were old enough to marry. NGOs implemented awareness campaigns aimed at abating child marriage.</p>
+<p><u>Harmful Traditional Practices</u>: FGM/C is legal in the country and, except in certain northern areas, was practiced widely across all religious and ethnic groups, particularly in rural areas. While the government has taken steps to raise awareness about the harmful health effects of FGM/C and has successfully lowered the percentage of girls excised in at least one region of the country, it has not criminalized it, although FGM/C is prohibited in government-funded health centers.</p>
+<p>FGM/C generally was performed on girls between the ages of six months and nine years. The most common types of FGM/C were Type I and Type II. The 2013 UNHCR report on FGM/C indicated 89 percent of girls and women ages 15 to 49 were excised, and 74 percent of girls and women in the same age group had a daughter who was excised. Government information campaigns regarding the dangers of FGM/C reached citizens throughout the country, and human rights organizations reported decreased incidence of FGM/C among children of educated parents.</p>
+<p><u>Sexual Exploitation of Children</u>: The transitional government passed a comprehensive antitrafficking law in 2012, which prohibits the sexual exploitation of children, including prostitution. Penalties for the sexual exploitation of both adults and children are six months to three years in prison and a fine of between 20,000 and one million CFA ($41 and $2,061). Penalties for indecent assault, including child pornography, range from five to 20 years in prison. The country has a statutory rape law that defines 18 as the minimum age for consensual sex. The law, which was inconsistent with the legal minimum marriage age of 15 for girls, was not enforced. Sexual exploitation of children occurred. The Division for Protection of Children and Morals of the National Police conducted sweeps of brothels to ensure that prostitutes were of legal age and arrested brothel owners found to be holding underage girls.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish population was estimated at fewer than 50, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>For information on trafficking in persons, see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The constitution and law do not specifically protect the rights of persons with physical, sensory, intellectual, or mental disabilities in employment, education, air travel and other transportation, access to health care, or in the provision of other state services. There is no law mandating accessibility to public buildings. While persons with disabilities have access to basic healthcare, the government did not place a priority on protecting the rights of persons with disabilities, and few resources were available. Many such individuals relied on begging. Most NGOs working with persons with disabilities had to suspend their programs during the year due to the conflict in the north.</p>
+<p>The Ministry of Humanitarian Action, Solidarity, and the Elderly is responsible for protecting the rights of persons with disabilities. The ministry sponsored activities to promote income-earning opportunities for persons with disabilities and worked with NGOs, such as the Malian Federation of Associations for Handicapped Persons, which provided basic services. Although the government was responsible for a Bamako-based school for the deaf, it provided almost no support or resources.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Societal discrimination continued against black Tamasheqs, often referred to as “Bellah.” Some ethnic groups deprived black Tamasheqs of basic civil liberties due to traditional slavery-like practices and hereditary servitude relationships. Black Tamasheqs in Menaka also reported systematic discrimination by local officials and others, which hindered their ability to obtain identity documents or voter registration cards, locate adequate housing, enroll their children in schools, protect their animals from theft, seek other forms of legal protection, obtain education, or access development aid.</p>
+<p>There were continued reports of slave masters kidnapping the children of their Bellah slaves, who had no legal recourse. Slave masters considered slaves and their children as property, and reportedly took slave children to be raised elsewhere without permission from their parents.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law prohibits association “for an immoral purpose,” and there were no laws specifically prohibiting discrimination based on sexual orientation or gender identity. There were no known LGBT organizations in the country, although some NGOs had medical and support programs focusing specifically on gay men. The law prohibits lesbians and gay men from adopting children.</p>
+<p>Credible NGOs reported LGBT individuals experienced physical, psychological, and sexual violence, which society viewed as corrective punishment. Family members, neighbors, and groups of strangers in public places committed the majority of violent acts, and police frequently refused to intervene. Most LGBT individuals isolated themselves and kept their sexual identity hidden.</p>
+<p>On September 3, in Mopti, a gay couple hosted a party that local residents construed as a gay marriage. A mob gathered and beat those in attendance. The National Guard provided no assistance despite appeals for help. Over the next three days, a mob proceeded through Mopti, capturing and beating suspected LGBT persons. The following Friday at prayers, local imams spoke against same-sex sexual orientation, which prompted more violence in the city. Local NGOs assisted more than 200 LGBT individuals who fled their homes in Mopti.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Societal discrimination against persons with HIV/AIDS occurred. The government implemented campaigns to increase awareness of HIV/AIDS and reduce discrimination against persons with HIV/AIDS.</p>
+<p>Mob violence was a problem. For example, in August and September, media reports indicated that small groups of vigilantes in Bamako captured and beat alleged thieves, two of whom were burned alive.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section7"> </span><span class="st_twitter" st_title="Mali #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Mali - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220135%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>All workers, including civil servants, have the right to form and join independent unions, to bargain collectively, and to conduct strikes. Civil servants and workers in state-owned enterprises are required to give two weeks’ notice of a planned strike and to enter into mediation and negotiations with the employer and a third party, usually the Ministry of Labor and Public Service. All types of strikes are allowed, and retribution against strikers is prohibited, but workers seldom exercised the right. In the mining industry, however, companies repressed strikes through illegal dismissals and arrests. The law allows the minister of labor to order compulsory arbitration for disputes that may endanger lives, security, health, normal functioning of the economy, or involve a vital professional sector. The government did not effectively enforce relevant laws. For example, striking police have been required to maintain a minimum presence in headquarters and on the street.</p>
+<p>Authorities inconsistently respected freedom of association and the right to collective bargaining, although workers generally exercised these rights. The government did not always respect unions’ right to conduct their activities without interference. Unions and worker organizations were independent of the government and political parties, although closely aligned with various political parties or coalitions.</p>
+<p>The deputy secretary general of the National Workers Union of Mali (UNTM) reported labor unions did not ask the government to open negotiations on renewing various federal collective agreements due to the country’s political and security challenges during the year. Some collective agreements have not been renegotiated since 1956.</p>
+<p>The UNTM, which represents approximately 75 percent of workers, also reported that most unions refrained from striking for the same reason, despite difficult labor conditions. Nevertheless, there were three reported strikes in July and August.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, but it occurred. The law prohibits the contractual use of persons without their consent, and penalties include a fine and hard labor. Penalties increase to 20 years’ imprisonment if a person under age 15 is involved. According to NGOs, the judiciary was reluctant to act in forced labor cases. The government made little effort during the year to prevent or eliminate forced labor.</p>
+<p>Most adult forced labor occurred in the agricultural sector, especially rice production, domestic services, gold mining, and the informal economy. Forced child labor occurred in the same sectors. Some Islamic schoolmasters also required children to work long hours.</p>
+<p>Men and boys, primarily of Songhai ethnicity, were subjected to a longstanding practice of debt bondage in the salt mines of Taoudenni in the north. Many black Tamasheqs were subjected to forced labor and hereditary servitude, particularly in the eastern and northern regions of Gao, Timbuktu, and Kidal (see section 6.).</p>
+<p>See the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>While the law sets the minimum age for employment at 14, with certain exceptions, a law pertaining to children sets the minimum employment age at 15. The law, however, permits children between the ages of 12 and 14 to engage in domestic or light seasonal work and limits the number of hours they may work. No child may be employed more than eight hours per day under any circumstance. The permissible age for hazardous work is 16. Girls ages 16 to 18 may not be employed more than six hours per day. The law applies to all children, including those who work in the informal economy and those who are self-employed.</p>
+<p>Authorities often ignored child labor laws, although an enforcement mechanism existed. The Ministry of Labor and Public Service, which employed approximately 50 labor inspectors, conducted surprise and complaint-based inspections in the formal sector. Insufficient personnel and lack of other resources, however, hampered enforcement in the informal sector. There were no reports authorities investigated or prosecuted marabouts (Koranic masters) who used children solely for economic purposes, except when authorities received reports that marabouts used violence against such children.</p>
+<p>Child labor in artisanal gold mining was a serious problem. According to the International Trade Union Confederation, at least 20,000 children worked under extremely harsh and hazardous conditions in the country’s artisanal gold mines. Many children also worked with mercury, a toxic substance involved in separating the gold from the ore. The International Labor Organization (ILO) continued to monitor children working in artisanal gold mines in the Sikasso region, which resulted in the removal of an estimated 2,000 children. In August the ILO’s International Program on the Elimination of Child Labor completed implementation of the TACKLE project. The national Unit for the Fight against Child Labor worked with the Ministry of Education within the framework of the Second Education Sector Investment Project (PISE II) to incorporate child labor discussion into different curricula at public schools. A workshop was organized in May in Sikasso on the subject.</p>
+<p>Child labor, particularly in its worst forms, was a serious problem. It was concentrated in the agricultural sector, especially rice production, domestic services, gold mining, forced begging organized by Koranic schools, and the informal economy.</p>
+<p>Approximately half of children between the ages of seven and 14 were economically active, and more than 40 percent of them were subjected to the worst forms of child labor. Many were engaged in hazardous activities in agriculture. Child trafficking occurred. Children, especially girls, were used for forced domestic labor. Black Tamasheq children were forced to work as domestic and agricultural laborers.</p>
+<p>An unknown number of primary school-aged children throughout the country, mostly under age 10, attended part-time Koranic schools that were funded by students and their parents and taught only the Koran. As part of their work requirement, Koranic masters often required their students, known as “garibouts,” to beg for money on the streets or work as laborers in agricultural settings.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The minimum wage is 28,465 CFA ($58) per month, but it did not apply to workers in the informal and subsistence sectors. The minimum wage was supplemented by a required package of benefits, including social security and health care.</p>
+<p>The legal workweek is 40 hours, except for the agricultural sector, where the legal workweek ranged from 42 to 48 hours, depending on the season. The law requires a weekly 24-hour rest period, and workers must be paid overtime for additional hours. The law limits overtime to eight hours per week.</p>
+<p>The law provides for a broad range of occupational safety and health standards in the workplace. Workers have the right to remove themselves from dangerous work situations and to request an investigation by the Social Security Department, which is responsible for recommending remedial action where deemed necessary.</p>
+<p>Despite having approximately 50 labor inspectors, the Ministry of Labor and Public Service did not effectively enforce these standards, and inspectors lacked the resources to conduct field investigations. The ministry did not conduct any inspections in the three northern regions. No government agencies announced any records of violations or penalties. Labor inspectors made unannounced visits and inspections to work sites only after labor unions filed complaints.</p>
+<p>Many employers did not comply with regulations regarding wages, hours, and social security benefits. With high unemployment, however, workers often were reluctant to report violations of occupational safety regulations.</p>
+<p>Working conditions varied, but the worst conditions were in the private sector. In small, family-based agricultural endeavors, children worked for little or no remuneration. Some domestic workers were paid as little 7,500 CFA ($15) per month. Violations of overtime laws were common for children working in cities or those working in artisanal gold mines or rice fields. Labor organizations reported that cyanide was used in gold mines, posing a public health risk to workers exposed to it. Inspectors lacked the resources to assemble credible data on dangerous workplaces.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,549 @@
+2013
+El Salvador
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442"> </span><span class="st_facebook" st_title="El Salvador" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220442">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220442</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=executive"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>El Salvador is a constitutional multi-party republic. In 2009 voters elected Carlos Mauricio Funes Cartagena of the Farabundo Marti National Liberation Front (FMLN) as president for a five-year term in generally free and fair elections. Free and fair legislative assembly and municipal elections took place in March 2012. Authorities failed at times to maintain effective control over the security forces. Security forces committed human rights abuses.</p>
+<p>The principal human rights problems were widespread corruption; weaknesses in the judiciary and the security forces that contributed to a high level of impunity; and abuse, including domestic violence, discrimination, and commercial sexual exploitation against women and children.</p>
+<p>Other human rights problems included isolated unlawful killings and cruel treatment by security forces; lengthy pretrial detention; harsh and life-threatening prison conditions; some restrictions on freedom of speech and press; trafficking in persons; and discrimination against persons with disabilities and persons with HIV/AIDS. There was also widespread discrimination and some violence against lesbian, gay, bisexual, and transgender (LGBT) persons. Child labor and inadequate enforcement of labor laws also were problems.</p>
+<p>Impunity persisted despite the government taking steps to dismiss some officials who committed abuses in the penitentiary system and within the police force.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section1"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>During the year there were no verified reports that the government or its agents committed politically motivated killings; however, there were reports of security force involvement in unlawful killings. As of August, the Office of the Ombudsman for Human Rights (PDDH) received 15 complaints of alleged unlawful killings committed by security, military, and other public officials. Three of the killings took place in the prison system and one in a police detention center. The PDDH has the authority to investigate (but not prosecute) human rights abuses and refers all human rights abuse cases to the Office of the Attorney General (FGR). Although the PDDH defines all killings by government personnel as “extrajudicial killings,” there were no verifiable reports of deliberate, unlawful killings carried out by order of the government or with its complicity. As of June, the Office of the Inspector General (IG) of the National Civilian Police (PNC) reported that 14 PNC officers were accused of homicide during the year but did not specify whether the perpetrators committed the killings while on duty.</p>
+<p>On March 2, the PNC detained two officers for the killing of prisoner Mario Alexander Reyes Chavez, who was being held in a police detention center in Los Planes de Renderos as a protected witness to a drug trafficking case. A PNC commissioner said Chavez was shot between 25 and 28 times. On March 7, nine of the 14 police officers who were working in the detention center were jailed and were awaiting trial. Reyes Chavez had alerted the PNC that he had received death threats. The media reported that prior to the killing, intelligence officials had notified PNC authorities three times about visits of strangers to the detention center and encouraged authorities to increase security, yet the PNC did not take action. On October 10, a judge absolved a gang member accused of being the mastermind of the murder.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances. The nongovernmental organization (NGO) Association for the Search for Missing Children (Pro-Busqueda) received seven new complaints regarding children who disappeared during the 1980-1992 civil war. As of July it continued to investigate 538 cases and resolved 14 other cases.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices. The PDDH, however, received 89 complaints of torture or cruel, inhumane, or degrading treatment or punishment perpetrated by public officials, involving 58 complaints against PNC officials and 13 against members of the armed forces. The PDDH also received 445 complaints about violations of human integrity, 324 against PNC officers and 44 against members of the armed forces. The PDDH received complaints of unauthorized searches, mistreatment, physical abuse, insults, and harassment committed by the military in their conduct of joint patrols with the PNC. The Ministry of Defense alleges it investigated all cases against members of the armed forces, but released no results of the investigations publicly.</p>
+<p>On June 1, doctors reported that a severely beaten prisoner in Apanteos Prison died during a subsequent surgery. The victim’s mother accused the prison guards of beating her son. The doctors in the hospital where he was being treated alerted the FGR of the case. The hospital reported he died of pneumonia, not as a result of his severe injuries.</p>
+<p>NGOs reported that public officials, including police, engaged in violence and discrimination against sexual minorities. Persons from the LGBT community stated that the agencies in charge of processing identification documents, the PNC and FGR, harassed transgender and gay individuals when they applied for identification cards or reported cases of violence against LGBT persons. The LGBT community reported that authorities harassed LGBT persons through strip searches and questioning their gender in a degrading manner. The government responded to these abuses primarily through PDDH reports that publicized specific cases of violence and discrimination against sexual minorities.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions remained harsh and life threatening.</p>
+<p><u>Physical Conditions</u>: Overcrowding was a serious threat to prisoners’ health and lives. In many facilities, provisions for sanitation, potable water, ventilation, temperature, medical care, and lighting were inadequate. As of September 3, the Prison Directorate reported 26,672 prisoners held in 23 correctional facilities and one secure hospital ward that had a combined appropriate capacity of 8,328. The prison population included 20,454 convicted prisoners and 6,218 inmates held in pretrial detention. As of September, there were 2,598 female prisoners. As of September, there were 701 inmates in four prisons for juvenile offenders with a total appropriate capacity of 460 inmates. According to the director general of the prison system, as of September prison overcrowding was at 320 percent. Due to prison overpopulation, police authorities held some pretrial detainees in small detention centers at police stations. As of August police authorities held over 3,000 detainees in police station detention centers with a combined appropriate capacity of 1,200. Approximately 78 percent of these pretrial detainees were in detention centers longer than the 72 hours permitted by law before a suspect must be presented to court.</p>
+<p>Due to the lack of holding cells, authorities often held pretrial detainees in regular prisons with violent criminals. Men were separated from women within the prisons. A separate women’s prison in Ilopango was generally clean and allowed inmates’ children under age five to stay with their mothers.</p>
+<p>As of September 3, prison authorities reported that 36 prisoners died during the year due to natural causes, homicide, and suicide.</p>
+<p>Gang activities in prisons and juvenile-holding facilities remained a serious problem. Detention center facilities held 10,576 inmates who were current or former gang members. Officials separated gang members from the regular prison population when possible, but gangs continued to exercise influence within the prisons and judicial system.</p>
+<p>Prisoners reportedly conducted criminal activities from their cells, at times with the complicity of prison guards. Smuggling of weapons, drugs, and other contraband such as cell phones and cell-phone SIM cards was a major problem in the prisons. As of September 3, prison authorities removed three guards from prisons for carrying illegal objects and sanctioned 100 guards for misconduct. There were no reported patterns of abuse of persons with disabilities in prisons, although the government’s National Council for Comprehensive Attention to Persons with Disability (CONAIPD) reported isolated incidents, including sexual abuse.</p>
+<p><u>Administration</u>: Prison authorities kept detailed electronic records of all prisoners. Authorities allowed release on bail for some nonviolent offenders. The Solicitor’s Office implemented a mediation program, principally for cases related to family disputes. The Attorney General’s Office and the courts also have mediation programs and other alternative dispute resolution programs. In certain misdemeanor cases related to damages, judges suspended the judicial process when the defendant admitted guilt and adequately compensated the victim. Although there is no prison ombudsman, the PDDH oversees the rights of inmates and responded to complaints. Prisoners and detainees had reasonable access to visitors and religious observance.</p>
+<p>Prison authorities permitted prisoners and detainees to submit complaints to judicial authorities without censorship and to request investigation of credible allegations of inhumane conditions. Prison authorities investigated such allegations, although investigators did not always document results in a publicly accessible manner.</p>
+<p><u>Independent Monitoring</u>: The government investigated and monitored prison and detention center conditions and permitted prison-monitoring visits by independent human rights observers, NGOs, and the media. Church groups, the Central American University’s Human Rights Institute, and other groups visited prisons during the year.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Although the constitution prohibits arbitrary arrest and detention, there were complaints that the PNC arbitrarily arrested and detained persons. The PDDH reported receiving 137 complaints of illegal detentions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The PNC, overseen by the ministry of justice and public security, is responsible for maintaining public security and the ministry of defense for maintaining national security. The military is tasked with securing the international border and conducting patrols jointly with the PNC. Military personnel assigned to assist the PNC do not have arrest authority. President Funes renewed the decree authorizing military involvement in police duties through May 2014.</p>
+<p>On May 17, the Supreme Court ruled unconstitutional the appointments of retired general Francisco Ramon Salinas Rivera as PNC director and retired general David Munguia Payes as Minister of Justice and Public Security due to their ties with the military. The constitution separates public security functions from the military.</p>
+<p>Inadequate training, lack of enforcement of the administrative police career law, arbitrary promotions, insufficient government funding, failure to effectively enforce evidentiary rules, and instances of corruption and criminality limited the PNC’s effectiveness. As of September 12, the IG reported that authorities charged 14 police officers with homicide. The IG also received 1,163 complaints of alleged police misconduct, referred 473 of these cases to the FGR, and sanctioned 1,006 officers in response to complaints filed during the year and in prior years. These sanctions included 121 officers dismissed for misconduct and 677 suspended without pay. As of August 28, the FGR investigated 217 accusations against police officers, resulting in 29 cases resolved through mediation and two convictions.</p>
+<p>The IG reported that most PNC officers and police academy cadets received human rights awareness training during the year, including training by the Salvadoran Institute for the Development of Women (ISDEMU), the Human Rights Institute of the University of Central America, and the Inter-American Institute of Human Rights. The PNC reported that as of July, 2,728 police officers received training on human rights.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment While in Detention</h3>
+<div class="sub-sub-section_content">
+<p>The constitution requires a written warrant for arrest, except in cases where an individual is arrested in the act of committing a crime. Authorities apprehended persons with warrants based on evidence and issued by a duly authorized official. The constitution grants detainees the right to a prompt judicial determination of the legality of their detention, and authorities generally respected this right. Police generally informed detainees promptly of charges against them.</p>
+<p>The law permits release on bail for detainees who are unlikely to flee or whose release would not impede the investigation of the case. The bail system functioned adequately in most cases. The courts generally enforced a ruling that interrogation without the presence of counsel is coercive and that evidence obtained in such a manner is inadmissible. As a result PNC authorities generally delayed questioning until a public defender or an attorney arrived. Family members are allowed prompt access to detainees. Detainees generally had prompt access to counsel of their choice or to an attorney provided by the state.</p>
+<p>The constitution permits the PNC to hold a person for 72 hours before presenting the suspect to court, after which the judge may order detention for an additional 72 hours to determine if an investigation is warranted. The law allows up to six months for investigation of serious crimes before requiring either a trial or dismissal of the case. In exceptionally complicated cases, the prosecutor may ask an appeals court to extend the deadline for three or six months, depending on the seriousness of the crime. Many cases were not completed within the legally prescribed period. In March the UN Working Group on Arbitrary Detention issued a report indicating that at the time of their 2012 visit to El Salvador, 7,376 detainees were in preventive detention, 937 of whom had exceeded the maximum one-year period of preventive detention allowed by law before sentencing must occur.</p>
+<p><u>Arbitrary Arrest</u>: The PDDH reported 137 complaints of arbitrary detention.</p>
+<p><u>Pretrial Detention</u>: Lengthy pretrial detention was a significant problem. At year’s end, 24 percent of the prison population was in pretrial detention. Lengthy legal procedures, large numbers of detainees, judicial inefficiency, corruption, and staff shortages caused trial delays. Because it may take several years for a case to come to trial, some detainees were incarcerated longer than the maximum legal sentences for their alleged crimes. In such circumstances, detainees could request a Supreme Court review of their continued detention.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>Although the constitution provides for an independent judiciary, the judiciary suffered from inefficiency, corruption, political infighting, and insufficient resources. Substantial corruption in the judicial system contributed to a high level of impunity, undermining the rule of law and the public’s respect for the judiciary. The criminal conviction rate was less than 5 percent. An ineffective public security strategy, inadequate government funding and training of the PNC, and ineffective senior-level leadership made it difficult to identify, arrest, and prosecute perpetrators of human rights abuses and other crimes, thus diminishing public confidence in the justice system. Intimidation and killing of police officers, crime victims, and witnesses created a climate of fear, complicating investigation of violent crime and other alleged human rights abuses.</p>
+<p>The Legislative Assembly did not always comply with Supreme Court rulings. On January 24, the Supreme Court Constitutional Chamber ruled that the nominations of three individuals by the Legislative Assembly to the Court of Accounts were unconstitutional due to political party affiliation. On March 20, the Legislative Assembly disregarded this ruling by re-nominating two of these individuals and a replacement. The Supreme Court again ruled the nominations unconstitutional. On July 25, the Legislative Assembly finally nominated three new individuals not subsequently challenged.</p>
+<p>On June 20, a UN special rapporteur issued a report criticizing the Legislative Assembly for not complying with the Supreme Court’s rulings during the 2012 constitutional crisis.</p>
+<p>As of July, the PNC was providing protection to 52 victims and 89 witnesses. However, some judges denied anonymity to witnesses at trial, and gang intimidation and violence against witnesses contributed to a climate of impunity from criminal prosecution.</p>
+<p>During the year, the FGR received three complaints against judges, and the Supreme Court dismissed two judges as of June. During the year the FGR investigated one complaint against a prosecutor for misconduct. No convictions were reported as of October.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>Although juries were used for specific charges, including environmental pollution and certain misdemeanors, judges decided most cases. By law, juries hear only cases that the law does not assign to sentencing courts. After the jury’s determination of innocence or guilt, a tribunal decides the sentence.</p>
+<p>Defendants have the right to be present in court, question witnesses, and present witnesses and evidence. The constitution further provides for the presumption of innocence, the right to be informed promptly and in detail of charges, the right to a fair and public trial without undue delay, the right to a trial by jury, protection from self-incrimination, the right to communicate with an attorney of choice, the right to adequate time and facilities to prepare a defense, freedom from coercion, the right to confront adverse witnesses and present one’s own witnesses and evidence, the right to appeal, access for defendants and their attorneys to government-held evidence relevant to their cases, and government-provided legal counsel for the indigent. These legal rights and protections, however, were not always respected. Although a jury’s verdict is final, a judge’s verdict can be appealed. Trials are public. The law extends these rights to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for access to the courts, enabling litigants to bring civil lawsuits seeking damages for, as well as cessation of, human rights violations. Domestic court orders generally were enforced.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>Individuals or organizations may submit petitions for cases involving violations of an individual’s human rights to the Inter-American Commission on Human Rights, which in turn may submit the case to the Inter-American Court of Human Rights. The court can order civil remedies including fair compensation to the individual injured.</p>
+<p>On May 29, in response to a petition filed by the Inter-American Commission on Human Rights on behalf of a woman pregnant with a non-viable fetus whose doctors diagnosed as at risk of dying due to pregnancy complications from pre-existing conditions, the Inter-American Court of Human Rights ordered the government to adopt necessary measures to protect the woman’s health. On June 4, the Health Ministry allowed a premature caesarian section and reported the baby died five hours after the procedure.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such actions, and the government generally respected these prohibitions in practice.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section2"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, and the government generally respected these rights in practice. However, some restrictions on the freedom of speech and press occurred throughout the year. The law permits the executive branch to use the emergency broadcasting service to take over all broadcast and cable networks temporarily to televise political programming. The president occasionally used this law to highlight his accomplishments.</p>
+<p><u>Freedom of Speech</u>: Individuals could criticize the government publicly or privately without reprisal, and in most cases the government did not interfere with such criticism. On June 26, the Legislative Assembly issued a decree prohibiting individuals from expressing opinions that would defame presidential candidates. Responding to pressure from civil society, President Funes vetoed this decree on July 16.</p>
+<p><u>Press Freedoms</u>: The independent media were active and expressed a wide variety of views with some restrictions. There was no significant restriction by the government to the publication of books. On October 23, the Supreme Electoral Tribunal (TSE) determined that media companies had disseminated three political television advertisements that constituted “dirty campaigning,” and established sanctions for those media companies. There is no legal provision for the TSE to sanction media companies. The media companies complained the ruling was discriminatory and a violation of freedom of speech.</p>
+<p><u>Violence and Harassment</u>: On June 4, construction workers in San Miguel threatened channel 12 reporter Angel Lemus, forcibly took his camera, and physically prevented him from leaving his car for 20 minutes. Lemus and Geovanny Giron were filming construction machinery belonging to the San Miguel municipality being used at the private residence of the San Miguel mayor. The PNC arrested 14 construction workers following the incident. The case was under investigation.</p>
+<p><u>Censorship or Content Restrictions</u>: Government advertising accounted for a significant portion of press advertising income, although exact data was not publicly available. Newspaper editors and radio directors occasionally discouraged journalists from reporting on topics that the owners or publishers might not view favorably. According to the Salvadoran Association of Journalists (APES), the media practiced self-censorship, especially in its reporting on gangs and narcotics trafficking. APES stated that many members of the media were afraid to report in detail on these subjects due to fear of retaliation from gangs and narcotics trafficking groups.</p>
+<p><u>Nongovernmental Impact</u>: APES noted that journalists reporting on gangs and narcotics trafficking were subject to threats and intimidation, which led to media self-censorship.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or credible reports that the government monitored e-mail or internet chat rooms without appropriate legal authority. Individuals and groups could engage in the expression of views via the internet, including by e-mail. Internet access was available in public places throughout the country. The International Telecommunication Union reported that 25.5 percent of Salvadorans used the internet in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of assembly and association, and the government generally respected these rights in practice.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt</a><u>/</u>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of internal movement, foreign travel, emigration, and repatriation; the government generally respected these rights in practice. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. As of September 11, the government received two refugee petitions and had not made a decision on the petitions.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section3"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens the right to change their government peacefully, and citizens exercised this right in practice through periodic, free, and fair elections based on universal suffrage.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: Legislative Assembly elections were held in March 2012, and independent observer groups reported the elections were free and fair with few irregularities. During these elections as in prior elections, the ARENA and FMLN political parties accused each other of registering noncitizen voters from other countries under the registration law, which allows a person to register with two witnesses who swear to his/her identity.</p>
+<p><u>Participation of Women and Minorities</u>: There were 23 women in the 84-member Legislative Assembly, six women on the 15-member Supreme Court, and three women in the 13-member cabinet. No members of the Supreme Court, the legislature, or other government entities identified themselves as members of an ethnic minority or indigenous community, and there were no political party positions or parliamentary seats designated for ethnic minorities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section4"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for corruption by officials; however, the government did not implement the law effectively, and officials often engaged in corrupt practices with impunity. The NGO Institute for Social Democracy stated that officials, particularly in the judicial system, often engaged in corrupt practices with impunity.</p>
+<p><u>Corruption</u>: There are five offices that share responsibility for combating corruption: the Court of Accounts, a chamber of the Supreme Court that acts as a transparency office and an accountability court; the Sub-Secretariat for Transparency and Anticorruption, an Executive Branch agency that implements the e-government initiative and heads official newspapers; the Anticorruption Unit of the FGR, which leads crime investigations regarding corruption; the Supreme Court Probity Section, which enforces the illicit enrichment law; and the Government Ethics Tribunal, an Administrative Court that sanctions those public officers who commit irregularities in their duties.</p>
+<p>NGOs, including the Salvadoran Foundation for Economic and Social Development (FUSADES), alleged that the Supreme Court did not adequately deal with corrupt judges and that perceived corruption and weak application of criminal law by judges contributed to a lack of confidence in the judiciary. As of June 30, according to FUSADES, the Supreme Court had not resolved over 1,000 complaints against justices. As of June 30, the Supreme Court resolved 28 cases against judges, resulting in the dismissal of two judges, the suspension of 16 judges, and the dismissal of charges for 10 judges. FUSADES maintained a website that makes judicial proceedings and records available to the public.</p>
+<p>As of September 13, the Ethics Tribunal received 166 complaints involving 407 public officers. The tribunal resolved 189 complaints from its multi-year caseload, imposed six sanctions, and submitted five cases to the FGR.</p>
+<p>On March 4, the media reported that the Legislative Assembly had spent $150,000 (the U.S. dollar is the national currency of El Salvador) on artwork during 2012, which represented more than double the amount of money that had been spent on artwork over the previous 15 years combined. Media also reported that some of the artwork had disappeared from the Legislative Assembly. Civil society groups strongly criticized the Legislative Assembly for this expense, especially in light of the significant budget constraints facing the government.</p>
+<p><u>Whistleblower Protection</u>: The law does not provide protection to public and private employees for making internal disclosures or lawful public disclosures of evidence of illegality.</p>
+<p><u>Financial Disclosure</u>: The Illicit Enrichment Law requires appointed and elected officials to submit their assets records to the Probity Section of the Supreme Court. The declarations are not made available to the public, and the law does not establish sanctions for noncompliance. <u> </u></p>
+<p><u>Public Access to Information</u>: The law provides for the right of access to government information. Although the law established mechanisms to appeal denials of information, the authorities did not effectively implement the law. The law provides a narrow list of exceptions outlining the grounds for nondisclosure, a reasonably short timeline for the relevant authority to disclose or respond, no processing fees, and administrative sanctions for noncompliance.</p>
+<p>Some public officers refused to publish information. For example, as of October 31, Legislative Assembly President Sigfrido Reyes had refused to reveal the salaries of legislative assembly advisors, even after the Access to Information Institute twice ordered him to do so.</p>
+<p>On February 8, the Legislative Assembly passed amendments that significantly weakened the Public Information Access Law by expanding the amount of government information that could be withheld from public disclosure and reducing civil society’s power to nominate the commissioners of the Access to Information Institute, the entity responsible for enforcing the law. Responding to pressure from civil society, President Funes vetoed the amendments on February 14, and on February 23 named the five commissioners, ending a nearly year-long delay in the nomination process.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section5"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A variety of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Although government officials generally were cooperative and responsive to these groups, officials at times were reluctant to discuss worker rights problems with NGOs and the PDDH. The government required domestic and international NGOs to register with the government, and some domestic NGOs reported that the government made the registration process unnecessarily difficult.</p>
+<p><u>Government Human Rights Bodies</u>: The principal human rights investigative and monitoring body is the autonomous PDDH, whose head the Legislative Assembly nominates to a three-year term. The PDDH regularly issued reports and press releases on prominent human rights cases. The PDDH generally enjoyed government cooperation, operated without government or party interference, had adequate resources, and was considered generally effective.</p>
+<p>The PDDH maintained a constructive dialogue with the president’s office. The government publicly acknowledged receipt of PDDH reports, although in some cases it did not take action on PDDH recommendations, which are non-binding.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section6"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Although the constitution and other laws provide that all persons are equal before the law and prohibit discrimination based on race, gender, disability, language, sexual orientation, gender identity, or social status, the government did not effectively enforce these prohibitions. There was discrimination against women, persons with disabilities, LGBT persons, and indigenous people. The Secretariat of Social Inclusion (SIS), headed by First Lady Vanda Pignato, made efforts to overcome traditional bias in all these areas.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, and the criminal code’s definition of rape may apply to spousal rape. The law requires the FGR to prosecute rape cases whether or not the victim presses charges, and the law does not permit the victim to nullify the criminal charge. Generally, the penalty for rape is six to 10 years of imprisonment, but the law provides for a maximum sentence of 20 years for rape of certain classes of victims, including children and persons with disabilities.</p>
+<p>Incidents of rape continued to be underreported for several reasons, including societal and cultural pressures on victims, fear of reprisal, ineffective and unsupportive responses by authorities toward victims, fear of publicity, and a perception among victims that cases were unlikely to be prosecuted. Laws against rape were not effectively enforced.</p>
+<p>Rape and other sexual crimes against women were widespread. As of August 28, the FGR reported 4,826 cases of alleged sexual crimes resulting in 392 convictions during the year. As of October 10, the ISDEMU reported 3,466 cases of alleged sexual abuse, physical abuse, rape, and psychological abuse.</p>
+<p>As of October, the ISDEMU provided health and psychological assistance to 5,535 women who experienced sexual abuse, domestic violence, mistreatment, sexual harassment, labor harassment, commercial sexual exploitation, trafficking in persons, or alien smuggling.</p>
+<p>The law prohibits domestic violence and generally provides for sentences ranging from one to three years in prison, although some forms of domestic violence carry higher penalties. The law also permits obtaining restraining orders against offenders. Laws against domestic violence were not well enforced, and cases were not effectively prosecuted. A 2011 law prohibits mediation in domestic violence disputes.</p>
+<p>Violence against women, including domestic violence, was a widespread and serious problem. As of July, the PNC reported 1,904 cases of alleged domestic violence. A large portion of the population considered domestic violence socially acceptable, and, as with rape, its incidence was underreported.</p>
+<p>In June, in two separate incidents, two men set fire to their girlfriends following domestic disputes. Both women survived with injuries, and police arrested the two men. The cases were under investigation.</p>
+<p>During the year President Funes engaged in a government campaign to support SIS in its efforts to eliminate violence against women. ISDEMU coordinated with the judicial and executive branches and civil society groups to conduct public awareness campaigns against domestic violence and sexual abuse. The PDDH, FGR, Supreme Court, Public Defender’s Office, and PNC collaborated with NGOs and other organizations to combat violence against women through education, increased enforcement of the law, and NGO support for programs for victims. SIS, through ISDEMU, defined policies, programs, and projects on domestic violence and continued to maintain one shared telephone hotline and two separate shelters for victims of domestic abuse and child victims of commercial sexual exploitation. The government’s efforts to combat domestic violence were minimally effective.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment and provides penalties of imprisonment from three to five years if the victim is an adult and from four to eight years if the victim is a minor. Fines can also be imposed, and additional fines are added to the prison term in cases where the perpetrator is in a position of authority or trust over the victim. The law also mandates that employers take measures to avoid sexual harassment, violence against women, and other workplace harassment problems. The law requires employers to create and implement preventative programs that address violence against women, sexual abuse, and other psychosocial risks. The government, however, did not enforce sexual harassment laws effectively.</p>
+<p>Since underreporting by victims of sexual harassment appeared to be widespread, it was difficult to estimate the extent of the problem. As of August 28, the FGR reported 552 cases of alleged sexual harassment during the year, of which 33 resulted in convictions.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals had the right to decide the number, spacing, and timing of children. Information about and access to contraception was widely available. Demographic Health Surveys indicated that 72 percent of married women used some method of family planning. Prenatal care and skilled attendance at delivery generally were available.</p>
+<p><u>Discrimination</u>: The constitution grants women and men the same legal rights under family and property law, but women did not enjoy equal treatment in practice. The law establishes sentences of one to three years in prison for public officials who deny a person’s civil rights based on gender, and six months to two years for employers who discriminate against women in the workplace, but employees generally did not report such violations due to fear of employer reprisals.</p>
+<p>Although pregnancy testing as a condition for employment is illegal, some businesses allegedly required female job applicants to present pregnancy test results, and some businesses illegally fired pregnant workers. As of October, the Ministry of Labor received 16 complaints regarding illegal firing of pregnant workers but imposed no fines.</p>
+<p>Although the law prohibits discrimination based on gender, women suffered from cultural, economic, and societal discrimination. Although the law requires equal pay for equal work, the average wage paid to women for comparable work was 57 percent of that paid to men. Men often received priority in job placement and promotions, and women were not accorded equal treatment in traditional male-dominated sectors, such as agriculture and business. Training for women generally was confined to low- and middle-wage occupational areas where women already held most positions, such as teaching, nursing, apparel assembly, home industry, and small business.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived by birth within the country and from one’s parents. The law requires parents to register a child within 15 days of birth or pay a $2.86 fine. While firm statistics were unavailable, many births were not registered. Failure to register resulted in denial of school enrollment.</p>
+<p><u>Education</u>: Education is free, universal, and compulsory through the ninth grade and nominally free through high school. Rural areas frequently fell short of providing required education to all eligible students, due to a lack of resources and because rural parents often withdrew their children from school by the sixth grade to allow them to work.</p>
+<p><u>Child Abuse</u>: Child abuse was a serious and widespread problem. Incidents of rape continued to be underreported for a number of reasons, including societal and cultural pressures on victims, fear of reprisal against victims, ineffective and unsupportive responses by authorities toward victims, fear of publicity, and a perception among victims that cases were unlikely to be prosecuted.</p>
+<p>The Salvadoran Institute for Children and Adolescents (ISNA), an autonomous government entity, defined policies, programs, and projects on child abuse; maintained a shelter for child victims of abuse and commercial sexual exploitation; and conducted a violence awareness campaign to combat child abuse. From January through September, ISNA reported sheltering 496 abused children in 11 shelters. According to a 2012 World Bank report, 41 percent of the first pregnancies of girls between the ages of 10 and 19 resulted from sexual abuse, and 12 percent of such pregnancies resulted from sexual abuse committed by a family member.</p>
+<p><u>Forced and Early Marriage</u>: The legal minimum age for marriage is 18, although the law authorizes marriage from the age of 14 if both the boy and girl have reached puberty, if the girl is pregnant or the couple has had a child. According to UNICEF, 5 percent of children were married by age 15 and 25 percent by age 18. UNFPA reported that the country lacked data disaggregated by demographic, social, and economic characteristics and therefore was unable to develop appropriate policies and programs to address forced and early marriage.</p>
+<p><u>Sexual Exploitation of Children</u>: Sexual exploitation of children remained a problem, and some girls were forced into prostitution. Child sex trafficking is covered under the trafficking-in-persons statutes in the penal code, which prescribe penalties of four to eight years’ imprisonment for trafficking crimes. An offense committed against a child is considered an aggravated circumstance, and the penalty increases by one-third, but the government did not effectively enforce these laws.</p>
+<p>The minimum age of consensual sex is 18. The law classifies statutory rape as sexual relations with anyone under age 18 and includes penalties between four and 20 years’ imprisonment upon conviction. As of August 28, the FGR reported 1,445 cases of alleged rape of minors, resulting in 37 convictions.</p>
+<p>The law prohibits paying anyone under the age of 18 for sexual services. As of December the ISNA trafficking-in-persons shelter, which admits only girls, had 11 girls who were victims of commercial sexual exploitation in residence. SIS, through ISDEMU, continued to maintain one shared telephone hotline for child victims of commercial sexual exploitation and victims of domestic abuse. The law prohibits participating in, facilitating, or purchasing materials containing child pornography and provides for prison sentences of up to 16 years.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s annual report on compliance at <a href="http://www.travel.state.gov/abduction/resources/congressreport/congressreport_4308.html">www.travel.state.gov/abduction/resources/congressreport/congressreport_4308.html</a>, as well as country-specific information at <a href="http://www.travel.state.gov/abduction/country/country_5819.html">http://www.travel.state.gov/abduction/country/country_5819.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There were no reports of anti-Semitic acts. The Jewish community totaled approximately 150 persons.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, or the provision of other state services. According to the government’s National Council for Comprehensive Attention to Persons with Disability (CONAIPD), the government did not allocate sufficient resources to enforce these prohibitions effectively, particularly in education, employment, and transportation. The government did not effectively enforce legal requirements for access to buildings, information, and communications for persons with disabilities. There were almost no access ramps or provisions for the mobility of persons with disabilities. In general, children with disabilities attended school; however, at higher levels attendance was more dependent on their parents’ financial resources.</p>
+<p>CONAIPD, composed of representatives of multiple government entities, is the government agency responsible for protecting disability rights, but it lacks enforcement power.</p>
+<p>Only 5 percent of businesses and no government agency fulfilled the legal requirement of hiring one person with disabilities for every 25 hires.</p>
+<p>There were no reported patterns of abuse in educational or mental health facilities, although CONAIPD reported isolated incidents, including sexual abuse, in those facilities.</p>
+<p>CONAIPD reported that persons frequently were fired after becoming disabled, persons with disabilities were not considered for work for which they qualified, and some schools would not accept children with disabilities due to lack of facilities and resources. There is no formal system for filing a complaint with the government.</p>
+<p>During the year the SIS and CONAIPD conducted awareness campaigns, provided sensitivity training, promoted employment of persons with disabilities, and trained doctors and teachers about rights of persons with disabilities.</p>
+<p>On June 19, the SIS secretary announced the launch of an education inclusion policy, a joint initiative of the SIS and the University of El Salvador that aims to eliminate discrimination against disabled persons in the academic and labor sectors.</p>
+<p>Several public and private organizations promoted the rights of persons with disabilities, including the Telethon Foundation for Disabled Rehabilitation and the National Institute for Comprehensive Rehabilitation (ISRI). The Rehabilitation Foundation, in cooperation with ISRI, continued to operate a treatment center for persons with disabilities. However, CONAIPD reported that the government provided minimal funding for ISRI.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>In April 2012 the Legislative Assembly passed a constitutional reform recognizing the existence and the rights of indigenous peoples. The constitution states that native languages are part of the national heritage and should be preserved and respected. Births of indigenous persons were less likely to be registered officially, reducing educational opportunities, since school registration requires a birth certificate.</p>
+<p>Although few individuals publicly identified themselves as indigenous, members of a few small indigenous communities continued to maintain traditional customs without repression or interference by the government or nonindigenous groups. Government estimates in 2004, the most recent available, indicated that approximately 99 percent of indigenous persons lived below the poverty level.</p>
+<p>No laws provide indigenous people rights to share in revenue from exploitation of natural resources on indigenous lands. The government did not demarcate any lands as belonging to indigenous communities. Because few possessed title to land, opportunities for bank loans and other forms of credit were extremely limited. The PDDH reported that indigenous persons faced employment and workplace discrimination.</p>
+<p>James Anaya, the UN special rapporteur on the rights of indigenous peoples, issued a final report on June 25 based on his 2012 visit. The report noted the effects of past violations of human rights created a situation where indigenous persons experienced widespread disadvantages. Anaya stated that indigenous people continued to suffer the loss of cultural knowledge and the capacity to demonstrate fully their identity and exercise the corresponding rights. He acknowledged the government’s recent steps to recognize the existence of indigenous people and promote their human rights.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits discrimination on the basis of sexual orientation, discrimination was widespread. Transgender persons also experienced significant discrimination.</p>
+<p>Widespread official and societal discrimination based on sexual orientation occurred in employment and access to health care and identity documents. NGOs reported that public officials, including police, engaged in violence and discrimination against sexual minorities. Persons from the LGBT community stated that the agencies in charge of processing identification documents, the PNC and FGR, ridiculed them when they applied for identification cards or reported cases of violence against LGBT persons. The government responded to these abuses primarily through PDDH reports that publicized specific cases of violence and discrimination against sexual minorities.</p>
+<p>As of September 20, the PDDH investigated nine cases of possible human rights violations committed against LGBT persons, two of which involved abuses committed by the PNC and two others by municipal police. The PDDH received two reports of killings of transgender persons that had occurred in prior years.</p>
+<p>On April 22, the UN Development Programme (UNDP) and the PDDH published a report on transgender women in El Salvador, stating that transgender women experienced violations of basic rights including access to education, employment, health care, and justice. Based on interviews with 100 transgender women cited in the UNDP study, only 36 percent received their high school degrees, and they reported facing harassment, violence, and exclusion in schools. Only 23.9 percent of the transgender women who suffered violence reported it to the authorities, and only one of the accused perpetrators was sanctioned.</p>
+<p>As of September 11, human rights NGO Comcavis Trans reported that four transgender women and one gay man had been killed during the year. On May 5, the media reported the killing of Tania Vasquez, a transgender woman who was an employee of Comcavis Trans. Her body was found in a plastic bag and she died from a bullet. Comcavis Trans denounced the killing and urged the authorities to investigate the case. However, as of September 12, there were no updates on the case.</p>
+<p>On May 16, the SIS Secretary launched a call center assistance hotline for the LGBT community designed to provide advice to the community on their rights and assistance to those suffering discrimination.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Although the law prohibits discrimination on the basis of HIV/AIDS status, discrimination was widespread. Lack of public information and medical resources, fear of reprisal, fear of ostracism, and mild penalties incommensurate with the seriousness of the discrimination all remained problems in confronting discrimination against persons with HIV/AIDS or in assisting persons suffering from HIV/AIDS.</p>
+<p>In January, the Atlacatl Association, an NGO that promotes the rights of persons with HIV/AIDS, publicly criticized several government agencies for failing to hire three individuals with HIV/AIDS and erroneously basing their decision on a 1961 Civil Service Law that prohibits hiring people with infectious or contagious illnesses. Atlacatl noted that in 2001, El Salvador passed a HIV/AIDS law that protects persons with HIV/AIDS from discrimination in employment. According to Atlacatl, in many instances employers provided a false reason for firing an employee with HIV/AIDS.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section7"> </span><span class="st_twitter" st_title="El Salvador #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - El Salvador - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220442%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of most workers to form and join unions, to strike, to bargain collectively, and prohibits antiunion discrimination. The law, however, places several restrictions on these rights. Military personnel, national police, judges, high-level public officers, and workers who are in “positions of trust” are not permitted to form and join unions. The labor code does not cover public sector workers and municipal workers, who are regulated by the Civil Service Law.</p>
+<p>Unions must meet complex requirements to legally register and have the right to bargain collectively, including a minimum membership of 35 workers. If the Ministry of Labor denies a union’s legal registration, the law prohibits any attempt by the union to organize for the next six months. Collective bargaining is only obligatory if the union represents the majority of workers.</p>
+<p>The law does not recognize the right to strike for public and municipal employees. Conflicts involving workers in essential services, which include those services where disruption would jeopardize or endanger life, security, health, or normal conditions of existence for some or all of the population. The law does not specify which services meet this definition. The law places several other restrictions on the right to strike, including the requirement that 30 percent of all workers in an enterprise must support a strike for it to be legal, and 51 percent must support the strike before all workers are bound by the decision to strike. In addition, unions may strike only to obtain or modify a collective bargaining agreement or to protect professional rights. They must also engage in negotiation, mediation, and arbitration processes before striking, though many groups often skip or go through these steps quickly. The law prohibits workers from appealing a government decision declaring a strike illegal.</p>
+<p>The law does not require employers to reinstate illegally dismissed workers; instead, the law requires employers to pay illegally dismissed workers the equivalent of their basic salary for 30 days for each year of service completed, and this compensation must never be less than 15 days of basic salary. The law specifies 18 reasons for which an employer can legally suspend workers, and employers can invoke 11 of these reasons without prior administrative or judicial authorization.</p>
+<p>The government did not effectively enforce the laws on freedom of association and the right to collective bargaining in all cases, and remedies and penalties remained ineffective. Judicial procedures were subject to lengthy delays and appeals. According to union representatives, the government did not consistently enforce labor rights for public workers, maquila/textile workers, subcontracted workers in the construction industry, security guards, informal sector workers, and migrant workers.</p>
+<p>As of October 18, the Ministry of Labor received 47 complaints of violations of freedom of association, and imposed 1,614 fines totaling $397,152.35. The ministry also received 74 complaints of antiunion discrimination, and imposed 99 fines totaling $298,705.80. The ministry participated in mediation efforts for 16 complaints of illegal firings. Although not required by law, the Ministry of Labor continued to request some employers to rehire fired workers during the year, basing its requests on International Labor Organization (ILO) Administrative Court rulings. The ministry did not perform inspections in the informal sector. The ministry does not have jurisdiction over public employees, most of whom are governed by the Civil Service Law. Some long-term public employees not covered by the Civil Service Law were employed under temporary contracts despite being employed for as long as 10 years, allowing the government to dismiss these employees without paying severance.</p>
+<p>In practice, workers faced challenges in exercising their rights to freedom of association and collective bargaining, including allegations by some unions of government influence on union activities and antiunion discrimination on the part of employers. Unions were independent of the government and political parties, although many generally were aligned with the ARENA, FMLN, or other political parties.</p>
+<p>There were reports of antiunion discrimination, including threats against labor union members, dismissals of workers attempting to unionize, and blacklisting. Workers engaged in strikes regardless of whether legal requirements were met.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The government generally did not effectively enforce such laws.</p>
+<p>There were reports that some men and women were subjected to forced labor in agriculture, domestic servitude, and the informal sector. Some children were subjected to forced labor (see section 7.c.).</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children under age 14. The law allows children between the ages of 14 and 18 to engage in light work if the work does not damage the child’s health or development, and cannot interfere with compulsory education. Children under age 16 are prohibited from working more than six hours per day and 34 hours per week; those under age 18 are prohibited from working at night or in occupations considered hazardous. The Ministry of Labor maintains a list of the types of work considered hazardous and prohibited for children, which include repairing heavy machinery; mining; handling weapons; fishing and harvesting mollusks; and working at heights above five feet while doing construction, erecting antennas, and working on billboards. Children age 16 and older are allowed to engage in light work on coffee and sugar plantations and in the fishing industry, so long as it does not harm their health or interfere with their education.</p>
+<p>The Ministry of Labor is responsible for enforcing child labor laws but did so with limited effectiveness. The ministry’s labor inspectors focused almost exclusively on the formal sector. As of October 18, the ministry reported that it encountered nine minors working without work permits, and 74 minors working with a special work permit. As of October 18, the government removed 14 boys from agricultural activities during the year. There was no information on any investigations or prosecutions by the government. The ministry lacked adequate resources to enforce effectively child labor laws in the agricultural sector, especially in coffee and sugarcane production and in the large informal sector.</p>
+<p>During the year the Ministry of Labor conducted 12 campaigns to raise awareness about child labor. The government continued to participate in an ILO project to provide educational opportunities to children while offering livelihood alternatives for their families. The Ministry of Education promoted child labor awareness and encouraged school attendance, including operating after-school programs in 2,000 schools during the year. The Ministry of Governance and the Ministry of Agriculture also conducted awareness campaigns on child labor. The government also continued to include material on combating child labor in its elementary school curriculum.</p>
+<p>Child labor remained a serious and widespread problem. The Ministry of Education reported that during the year the government identified 35,531 minors working in the agriculture sector, 1,450 minors working in the commerce and service industries, and 9,034 in domestic service. According to the 2011 School Registration Census, the most recent available, there were approximately 83,862 child workers, with the largest number engaged in agricultural work. The worst forms of child labor occurred in coffee and sugarcane cultivation, fishing, mollusk shucking, and fireworks production. There were reports of children engaged in garbage scavenging. Orphans and children from poor families frequently worked for survival as street vendors and general laborers in small businesses. Children also worked as domestic servants and endured long work hours and abuse by employers. Children were subjected to commercial sexual exploitation (see section 6, Children) and were recruited into illegal gangs to perform illicit activities related to the arms and drug trades, including homicide.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i>.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>There is no national minimum wage; the minimum wage is determined sector-by-sector. The minimum monthly wage was $224.29 for retail and service employees, $219.40 for industrial laborers, and $187.68 for apparel assembly workers. The agricultural minimum wage was $104.97 per month, although some agricultural workers, including coffee workers, were paid by the amount harvested rather than a daily wage. The government reported that the poverty income level was $174.73 for urban areas and $133.82 for rural areas.</p>
+<p>The law sets a maximum normal workweek of 44 hours, limited to no more than six days, and to no more than eight hours per day, but allows overtime if a bonus is paid. The law mandates that full-time employees be paid for an eight-hour day of rest in addition to the 44-hour normal workweek. The law provides that employers must pay double time for work on designated annual holidays, a Christmas bonus based on the time of service of the employee, and 15 days of paid annual leave. The law prohibits compulsory overtime. The law states that domestic employees are obligated to render services on holidays if their employer makes this request, but they are entitled to double pay in these instances.</p>
+<p>The Ministry of Labor is responsible for setting workplace safety standards, and the law establishes a tripartite committee to review the standards. The law requires all employers to take steps to ensure that employees are not placed at risk to their health and safety in the workplace. The law requires that employers provide preventive safety measures, including proper equipment and training, and a violence-free workplace, in order to reasonably ensure the safety and health of workers. Employers who violate the law can be fined, although penalties were often insufficient to deter violations, and some companies reportedly found it more cost effective to pay the fines rather than comply with the law. The law promotes occupational safety awareness, training, and worker participation in occupational health and safety matters.</p>
+<p>The Ministry of Labor was charged with enforcing the law. The government reportedly enforced effectively the minimum wage law in the formal sector, but not in the informal sector, and unions reported that the ministry also failed to enforce the minimum wage for subcontracted workers hired for public reconstruction contracts. There were 202 labor inspectors. The government provided its inspectors updated training in both occupational safety and labor standards. The Ministry of Labor did not provide information on the number of inspections conducted. Allegations of corruption among labor inspectors continued.</p>
+<p>The ministry received complaints regarding failure to pay overtime, minimum wage violations, unpaid salaries, as well as cases of employers illegally withholding benefits (including social security and pension funds) from workers. As of August 28, the FGR investigated 557 cases of alleged illegally withheld benefits, though the number of convictions was not available.</p>
+<p>According to the Ministry of Labor, immigrant workers have the same rights as Salvadorans, but the ministry did not enforce these rights in practice. There were reports of overtime and wage violations in several sectors. According to the ministry, employers in the agriculture sector did not grant annual bonuses, vacation days, or days of rest. Women in domestic service and the maquila industry, particularly in the export processing zones, faced exploitation, mistreatment, verbal abuse, threats, sexual harassment, and generally poor work conditions. Workers in the construction industry and domestic service were reportedly subject to violations of wage, hour, and safety laws. There were also reports of occupational safety and health violations in other sectors.</p>
+<p>In some cases the country’s high crime rate negatively affected acceptable conditions of work, as well as workers’ psychological and physical health. Some workers, such as bus drivers, bill collectors, messengers, and teachers in high-risk areas, reported being subject to extortion and death threats. According to the Ministry of Economy, in 2011, 49.3 percent of the economically active population worked in the informal economy.</p>
+<p>As of October 18, the Ministry of Labor reported 4,002 workplace accidents; 714 accidents occurred in real estate and construction-related businesses, 467 in the textile sector; and 456 in the food and beverage sector.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

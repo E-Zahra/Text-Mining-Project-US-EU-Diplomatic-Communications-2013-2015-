@@ -1,0 +1,501 @@
+2015
+Libya
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937"> </span><span class="st_facebook" st_title="Libya" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=252937">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=252937</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li><a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment and Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=executive"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Libya is a parliamentary democracy with a temporary Constitutional Declaration allowing for the exercise of a full range of political, civil, and judicial rights. Citizens elected the House of Representatives (HoR) in free and fair elections in June 2014. The outbreak of major political violence later that year led to the loss of central government control over much of the country’s territory and the emergence of rival administrations based in Tripoli and in the eastern city of Tobruk. The Tobruk-based, internationally recognized government of Prime Minister Abdullah al-Thinni did not maintain effective control of government forces or allied militias.</p>
+<p>Conflict between the Tobruk-based HoR and the Tripoli-based General National Congress (GNC) continued throughout the year. Active fighting between the HoR-aligned Operation Dignity forces and GNC-aligned Operation Dawn forces remained a source of instability.</p>
+<p>On December 17, members of the UN-led Political Dialogue signed a political agreement in Skhirat, Morocco. The Libyan Political Agreement created a nine-member Presidency Council, headed by Prime Minister Fayez Sarraj. The Government of National Accord formation process was expected to occur in 2016.</p>
+<p>During the year violent extremist organizations expanded their influence, controlling large sections of territory in the eastern part of the country. Additionally, terrorist groups such as Ansar al-Sharia Da’esh conducted targeted killings, kidnappings, and suicide bombings that resulted in the deaths of hundreds of civilians and officials, primarily in the areas around Benghazi, Sirte, and Derna. Da’esh effectively controlled Sirte for most of the year. Derna remained under the control of designated terrorist group Ansar al-Sharia and other Islamist militants, who were responsible for extrajudicial killings and other serious human rights violations.</p>
+<p>The most serious human rights problems during the year resulted from the absence of effective governance, justice, and security institutions, and abuses and violations committed by armed groups affiliated with the government, its opponents, terrorists, and criminal groups. Consequences of the failure of the rule of law included arbitrary and unlawful killings and impunity for these crimes, including killings of politicians and human rights defenders, torture and other cruel, inhuman, or degrading treatment or punishment, and harsh and life-threatening conditions in detention and prison facilities.</p>
+<p>Other human rights abuses included arbitrary arrest and detention; lengthy pretrial detention; denial of fair public trial; an ineffective judicial system staffed by officials subject to intimidation; arbitrary interference with privacy and home; use of excessive force and other abuses in internal conflicts; limits on the freedoms of speech and press, including violence against, and harassment of, journalists; restrictions on freedom of religion; abuses of internally displaced persons, refugees, and migrants; corruption and lack of transparency in government; violence and social discrimination against women and ethnic and racial minorities, including foreign workers; trafficking in persons; legal and social discrimination based on sexual orientation; and violations of labor rights, including forced labor.</p>
+<p>Impunity was a severe and pervasive problem. The government did not take steps to investigate, prosecute, and punish those who committed abuses and violations, whether in the security forces or elsewhere in the government. Intimidation, by militias and other armed actors, resulted in paralysis of the judicial system, impeding the investigation and prosecution of those believed to have committed human rights abuses, including against public figures and human rights defenders. When authorities attempted to conduct trials, threats and acts of violence often influenced and curtailed judicial proceedings. Despite well-publicized abuses such as killings, there were no reports of investigations of government officials or security forces leading to indictment and prosecutions in the country.</p>
+<p>Government officials regularly justified the activities of extralegal armed groups as necessary to “combat terrorism.” Extralegal armed groups continued to fill a security vacuum across the country. They varied widely in their makeup and responsiveness to the state, violated human rights and humanitarian norms, and committed unlawful killings and other abuses. Both the internationally recognized government based in Tobruk and its competitor for power, the administration in Tripoli, failed to control such groups, even those that were nominally under state control, or to prosecute human rights abuses committed by militias. After the outbreak of major conflict in 2014, the government continued to pay the salaries of militias affiliated with both sides.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section1"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were numerous reports that government-armed forces, including a factionalized Libyan National Army and affiliated militias, as well as militias opposed to the government, committed arbitrary or unlawful killings. Alliances, sometimes temporary, between the government, nonstate militias, and former or current officers in the armed forces participating in extralegal campaigns made it difficult to ascertain the role of the government in attacks by armed groups. In the absence of an effective judicial and security apparatus, the perpetrators remained unidentified, and most of these crimes remained unpunished. Nonstate militias affiliated with the anti-HoR Operation Dawn coalition, as well as terrorist groups including Da’esh, Ansar al-Sharia, and their affiliates committed numerous unlawful killings and other serious abuses. Human Rights Watch (HRW) on June 17 relying on multiple interviews reported two deaths resulting from torture in detention centers (see section 1.c.).</p>
+<p>Reports indicated extremist and terrorist organizations played a prominent role in the targeted killings, kidnappings, and suicide bombings perpetrated against both government officials and civilians. Although many incidents saw no claims of responsibility, observers attributed most to terrorist groups such as Da’esh, Ansar al-Sharia, and its affiliates. Criminal groups or armed elements affiliated with both the government and its opponents may have carried out others. Extremist groups using vehicle-borne explosive devices typically targeted military officials and killed scores of persons during the year.</p>
+<p>On February 15, a video published on social media depicted the beheading of 21 Egyptian Coptic migrant workers on an unidentified beach. The “Tripoli Province” of Da’esh claimed responsibility for the killings, and the Egyptian government confirmed the deaths of 21 Egyptian citizens. On February 16, two missiles from Egyptian airstrikes targeting suspected Da’esh forces hit a residential neighborhood, killing seven civilians, according to Amnesty International. An April 19 video showed the execution of approximately 30 Ethiopian Christians by beheading and gunshot. Da’esh claimed responsibility for these killings, and the Ethiopian government confirmed that those killed in the video were Ethiopian citizens.</p>
+<p>Civil society and media reports claimed both the internationally recognized government and the administration in Tripoli committed human rights abuses in the western part of the country, including indiscriminate attacks on civilians, kidnapping, torture, burning of houses, and forced expulsions based on political belief or tribal affiliation.</p>
+<p>On May 12, Fatou Bensuda, prosecutor for the International Criminal Court (ICC), expressed deep concern about the escalating violence and warned parties against committing further acts that would fall within her office’s jurisdiction, including genocide, crimes against humanity, and war crimes.</p>
+<p>Impunity was a serious problem. The government’s lack of control led to impunity for armed groups on all sides of the conflict across the country. On February 23, authorities found the corpses of human rights activist Entissar al-Hassaeri and her aunt in her car in Tripoli. On February 27, a member of the criminal investigations department involved in the case disappeared. On August 6, officials found near Misrata the corpse of judge Mohamed al-Nemli with signs of torture and gunshot wounds. Officials attributed the death to affiliates of Da’esh. The cases of Sheikh Mansour Abdelkarim al-Barassi, International Committee of the Red Cross staff member Michael Greub, and human rights activist Salwa Bughaighis, all of whom were killed by unknown assailants during 2014, remained unresolved. Numerous other attacks against journalists, activists, judges, and security officials occurred throughout the year, particularly in Benghazi, Derna, and Sirte. At year’s end authorities had not investigated these attacks, and there had been no arrests, prosecutions, or trials of alleged perpetrators of these crimes.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>As in 2014, government forces and armed groups acting outside government control committed an unknown number of forced disappearances. The government made few efforts to prevent, investigate, or penalize forced disappearances.</p>
+<p>Kidnappings were common throughout the year. The UN Support Mission to Libya (UNSMIL) reported on February 13 and 14, that an armed group in Tripoli abducted Ali Osta and Hadi Ben Taleb, members of a human rights nongovernmental organization (NGO). On February 26, the group released Osta but held Taleb, following a brief release, until March 18.</p>
+<p>Many disappearances that occurred under the Qadhafi regime, as well as many related to the 2011 revolution, remained unresolved. Due to the continuing conflict, weak judicial system, legal ambiguity regarding amnesty for revolutionary forces, and the slow progress of the National Fact-Finding and Reconciliation Commission, law enforcement authorities and the judiciary made no appreciable progress in resolving high-profile cases reported in 2012, 2013, and 2014.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitutional declaration and post-revolutionary legislation prohibit such practices; however, according to accounts collected by HRW, personnel running both government and extralegal detention centers reportedly tortured prisoners. During the year the government continued to rely on militias to manage its incarceration facilities at times due to its lack of resources and capability. Furthermore, militias, not police, initiated arrests in most instances. Militias, at their discretion, held detainees prior to placing them in official detention facilities. Armed groups also managed their own detention facilities outside government control.</p>
+<p>Treatment varied from facility to facility and typically was worst at the time of arrest. Reported abuses included beatings with belts, sticks, hoses, and rifles; administration of electric shocks; burns inflicted by boiling water, heated metal, or cigarettes; mock executions; suspension from metal bars; and rape. The full extent of abuse at extremist or militia (government-allied and not) hands remained unknown.</p>
+<p>UNSMIL reported that courts continue to sentence defendants to corporal punishment, including flogging for adultery and amputations for theft. In October, UNSMIL received confirmation from al-Jdeida Women’s Institution for Correction and Rehabilitation in Tripoli that a court sentenced a female Tunisian inmate to 100 lashes and six months’ incarceration for adultery and that authorities inflicted flogging recently in a separate case.</p>
+<p>On June 17, HRW released the findings of its investigation into detention centers operated by the Libyan National Army and the Ministries of Justice and Interior. Of the 73 detainees interviewed, 35 reported torture and other abuses, including massive overcrowding, dire sanitation conditions, and lack of access to adequate medical care in eight of the nine detention centers visited. The investigation reported incidents of severe whippings, beatings, and electric shocks (see section 1.d.). HRW reported that detainees alleged two deaths occurred in government custody due to torture. Both HRW and Amnesty International also reported documentation of torture and other abuses, including whippings, beatings, and electric shocks, overcrowding, dire sanitation conditions, and lack of access to medical care, in migrant detention centers as well.</p>
+<p>On August 2, a video was published online showing officials and guards abusing inmates, including Saadi Qadhafi, son of Muammar Qadhafi, at al-Habda prison complex. In the video guards slapped and beat Qadhafi on the soles of his feet with a plastic pipe. Libya Dawn-aligned forces controlled al-Habda prison.</p>
+<p>During the year there were no known developments in unresolved reported high-profile abuses.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Overcrowded, harsh, and life threatening prisons and detention facilities fell well short of international standards and were a significant threat to the well-being of detainees and prisoners. Many prisons and detention centers were outside central government control.</p>
+<p>According to the International Organization for Migration (IOM) and Office of the UN High Commission on Refugees (UNHCR), migrant detention centers, operated by the “Ministry” of the Interior aligned with the GNC, also suffered from massive overcrowding, dire sanitation conditions, and lack of access to medical care. Additionally, many of these detention centers held minors with adults.</p>
+<p><u>Physical Conditions</u>: In the absence of an effective judicial system or release of prisoners, overcrowding reportedly continued during the year. Accurate numbers of those incarcerated, including a breakdown by holding agency, were not available. A large number of detainees were foreigners, of whom a majority appeared to be migrants. Facilities that held irregular migrants generally were of poorer quality than other facilities.</p>
+<p>The government urged military councils and militia groups to transfer detainees held since the 2011 revolution to authorized judicial authorities. Observers believed the greatest concentrations of such detainees were in greater Tripoli, Misrata, and Benghazi. Although a number of militias transferred some detention facilities to the Ministry of Justice’s judicial police in 2014, many facilities continued day-to-day operation under militia control.</p>
+<p>Makeshift detention facilities existed throughout the country. Conditions at these facilities varied widely, but consistent problems included overcrowding, poor ventilation, the lack of necessities such as mattresses, and lack of hygiene and health care. Militias reportedly held detainees at schools, former government military sites, and other informal venues, including private homes. As violence escalated, the disruption of goods and services affected prisons, worsening the scarcity of medical supplies and certain food items.</p>
+<p>There were reportedly separate facilities for men and women. In prior years in some instances, government-operated prisons and militias held minors with adults, according to human rights organizations. This practice continued in migrant detention centers and may have continued in prisons, due to the deterioration of conditions throughout the year.</p>
+<p>These problems also existed in several migrant detention centers. Officials, local militias, and criminal gangs moved migrants through a network of detention centers. Reports indicated the conditions in most of these detention facilities were below international standards (see section 2.d. for more full treatment of conditions in migrant detention centers).</p>
+<p><u>Administration</u>: Due to the conflict, it was difficult to determine how authorities administered prisons. There are two competing governments--one internationally recognized, and one not--administering the prisons, in addition to the multitude of armed nonstate actors. There were multiple reports that recordkeeping on prisoners was not adequate, judicial authorities failed to use alternatives to incarceration for nonviolent offenders, and there was no known prison ombudsperson or comparable authority available to respond to complaints; it was unclear whether authorities allowed prisoners and detainees access to visitors and religious observance. As there was no effectively functional judicial system during the year, oversight was problematic. It was unclear if authorities censored prisoners’ complaints submitted to judicial authorities.</p>
+<p>Administration of prisons and detention centers continued to fall under the authority of the more than 10,000-member judicial police. During the year the ratio of detainees and prisoners to the generally poorly trained guards varied significantly. International organizations involved in monitoring and training prison staff continued suspension of their activities amid ongoing violence.</p>
+<p><u>Independent Monitoring</u>: The government permitted some independent monitoring, but the lack of clarity over who ran each facility and the sheer number of facilities made it impossible to gain a comprehensive view of the system. Prior to the escalation of violence in 2014, reports also raised questions about the capability and professional training of local human rights organizations charged with overseeing prisons and detention centers.</p>
+<p>Nearly all international NGOs evacuated their international staff from the country by January. The few organizations that continued their monitoring operated through local organizations, although these groups’ capabilities and training were limited. While UNSMIL continued to monitor the situation through local human rights defenders, members of the judiciary, and judicial police, the absence of an international presence on the ground made oversight problematic.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Following the 2011 revolution and attendant breakdown of judicial institutions and process, the interim government and state and nonstate militia forces continued to detain and hold persons arbitrarily in authorized and unauthorized facilities, including unknown locations, for extended periods without legal charges or legal authority.</p>
+<p>The prerevolutionary criminal code remains in force. It establishes procedures for pretrial detention and prohibits arbitrary arrest and detention, but both government and nonstate forces often disregarded these provisions. Throughout the year the interim government had little control over police and regional militias providing internal security, and armed groups carried out illegal and arbitrary detentions unimpeded. The lack of international monitoring meant that there were no reliable statistics on the number of arbitrary detainees.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The national police and other elements of the security apparatus operated ineffectively. The national police force, which reports to the Ministry of Interior, has official responsibility for internal security. The military under the Ministry of Defense has as its primary mission the defense of the country from external threats, but it primarily supported Interior Ministry forces on internal security matters. The situation varied widely from municipality to municipality contingent upon whether police organizational structures remained intact. In some areas, such as Tobruk, police continued to function but in others, such as Sebha, existed in name only. Civilian authorities had nominal control of police and security apparatus, and security-related police work generally fell to self-constituted, disparate militias exercising police power without training or supervision and with varying degrees of accountability.</p>
+<p>There were no known mechanisms to investigate effectively and punish abuses of authority, abuses of human rights, and corruption by police and security forces. In the militia-dominated security environment, a blurred chain of command led to confusion about responsibility for the actions of armed groups, including those nominally under government control. In these circumstances police and other security forces were usually ineffective in preventing or responding to violence frequently incited by militias. Amid the confusion over chain of command and absent effective legal institutions, a culture of impunity prevailed.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law stipulates an arrest warrant is required, but authorities can obtain permission to detain persons without charge for as long as eight days. The law also specifies authorities must inform detainees of the charges against them, and to renew a detention order, detainees must appear before a judicial authority at regular intervals of 30 days. The law gives the government power to detain persons for up to two months if considered a “threat to public security or stability” based on their “previous actions or affiliation with an official or unofficial apparatus or tool of the former regime.” Affected individuals may challenge the measures before a judge.</p>
+<p>Although the Constitutional Declaration recognizes the right to counsel, the vast majority of detainees did not have access to bail or a lawyer. Government authorities and militias held detainees incommunicado for unlimited periods in official and unofficial detention centers.</p>
+<p><u>Arbitrary Arrest</u>: Authorities frequently ignored the provisions of the criminal code prohibiting arbitrary arrest and detention. Quasi-state or nonstate militias arbitrarily arrested and detained persons throughout the year.</p>
+<p>The government and militias continued to hold many prisoners without charge. An accurate number was unknown but was estimated to be several thousand. The interim government took no concrete action to reform the justice system. Gaps in existing legislation and the unclear separation of powers among the executive, judicial, and legislative branches contributed to a weak judicial system. Few detainees had access to counsel, faced formal charges, or had the opportunity to challenge their detention before a judicial authority.</p>
+<p><u>Pretrial Detention</u>: Militias held most of those they detained without charge and frequently outside the interim government’s authority. With control of the security environment diffused among various militia groups and a largely nonfunctioning judiciary, circumstances prevented most detainees from accessing a review process, resulting in few detainees held formally in pretrial status.</p>
+<p><u>Amnesty</u>: The interim government did not clarify whether it believed there was a blanket legal amnesty for revolutionaries’ actions performed to promote or protect the revolution. It took no action to address violations committed during the revolution by anti-Qadhafi forces, resulting in a tacit amnesty.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The Constitutional Declaration provides for an independent judiciary and stipulates every person have a right of recourse to the judicial system. Nonetheless, in practice, thousands of detainees lacked access to a lawyer and information about the charges against them. Judges and prosecutors contended with threats, intimidation, violence, as well as under resourced courts, and struggled to deal with complex cases. Additionally, judges and prosecutors cited concerns about the overall lack of security in and around the courts, further hindering the re-establishment of the rule of law. Courts in Tripoli continued to operate during the year. Throughout the rest of the country, however, courts operated sporadically depending on local security conditions.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The Constitutional Declaration provides for the presumption of innocence and the right to legal counsel, provided at public expense for the indigent. During the year state-affiliated and nonstate actors did not respect these standards. There were multiple reports during the year of individuals denied trial by jury, fair and public trials, choice of attorney, interpretation, the ability to confront plaintiff witnesses; being compelled to testify or confess to crimes; and being denied the right to appeal. According to reports from international NGOs, arbitrary detention and torture by militias, including those operating nominally under state oversight, continued to contribute to a climate of lawlessness that made fair trials elusive. Armed groups, families of the victims or the accused, and the general public regularly threatened lawyers, judges, and prosecutors.</p>
+<p>Amid threats, intimidation, and violence against the judiciary, the interim government did not take steps to screen detainees systematically for prosecution or release. The judiciary initiated very few criminal trials, largely because prosecutors and judges feared retaliation. The courts were more prone to process civil cases, which were less likely to invite retaliation, although capacity was limited due to a lack of judges and administrators.</p>
+<p>Since 2011 Zintani militias imprisoned Saif al-Islam Qadhafi, son of Muammar Qadhafi. Sessions of his trial, along with 31 other former Qadhafi-regime officials, that began in September 2013 took place at the Tripoli Court of Appeals. The government maintained that the judicial police and the prosecutor general had oversight and that the Ministry of Defense appointed a Zintani brigade to provide security. Qadhafi was only able to participate in his trial, via video teleconference, for three of 24 sessions. The trial began in March 2014 and concluded on May 21.</p>
+<p>UNSMIL raised concerns about ensuring full and fair legal representation for all defendants, and trial monitoring to ascertain the situation was difficult. Attorneys representing members of the Qadhafi regime, whom courts convicted on July 28, reported that authorities regularly denied them access to their clients and did not provide full access to case files. Major international human rights organizations criticized the trials as seriously flawed and having denied the defendants fair public trials.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Both government and militia forces, some of which were nominally under government authority, held persons on political grounds, particularly former Qadhafi officials, internal security organization members, and others accused of subverting the 2011 revolution in a variety of temporary facilities.</p>
+<p>The lack of international monitoring means that there were no reliable statistics on the number of political prisoners.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>The Constitutional Declaration provides for the right of citizens to recourse to the judiciary. The judicial system did not have the capacity to provide citizens with access to civil remedies for human rights violations until the Law of Transitional Justice provided for fact-finding, accountability, and repatriations for victims. The GNC passed the law in 2013, but implementation of the law stalled, and it was not implemented fully by year’s end. Civil proceedings were difficult, with no courts functioning in Benghazi, Derna, and Sirte; courts processing only a minimal number of cases in Tripoli; and continuous threats to justices and judicial police.</p>
+<p>Impunity for the state and for militias also exists in the law. According to the law, even if a court acquits a person detained by a militia, that person has no right to initiate a criminal or civil complaint against the state or the militia unless “fabricated or mendacious” allegations caused the detention.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The Constitutional Declaration considers correspondence, telephone conversations, and other forms of communication as inviolable unless authorized by a court order. Reports in the news and on social media indicated militias, gangs, extremist groups, and government-affiliated actors violated these prohibitions through the entry of homes without judicial authorization, the monitoring of communications and private movements, and the use of informants. Invasion of privacy left citizens vulnerable to targeted attacks based on political affiliation, ideology, and identity. Extrajudicial punishment extended to targets’ family members and tribes. Armed groups arbitrarily entered, seized, or destroyed private property with impunity.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p><u>Killings</u>: There were numerous reports government forces, rebel groups, and some tribes committed arbitrary and unlawful killings of civilians. Primary targets of killings included political opponents; members of police, internal security apparatus, and military intelligence; and also judges, political activists, members of civil society, journalists, religious leaders, and Qadhafi-affiliated officials and soldiers.</p>
+<p>General Khalifa Haftar’s Operation Dignity continued during the year, and the HoR appointed General Haftar Supreme Commander of the Libyan National Army (LNA). The LNA continued attacks by ground and air forces against extremist forces in Benghazi, including Da’esh, Ansar al-Sharia, and its affiliates. While casualty numbers were uncertain, reports from media and NGOs estimated that Haftar’s campaign resulted in hundreds of dead and thousands wounded, including civilians.</p>
+<p>Although exact figures were impossible to obtain, extremist bombings and killings probably resulted in hundreds of deaths. Terrorist organizations, such as Da’esh, Ansar al-Sharia, and their affiliates likely carried out much of the violence, although in many instances the perpetrators were unknown. On August 12, members of Da’esh killed Sheikh Khalid Ben Rajah, a local imam in Sirte, after he refused to relinquish control of his mosque. An uprising against Da’esh in Sirte resulted, which led to Da’esh killing members of the uprising and hanging their corpses from streetlights.</p>
+<p><u>Abductions</u>: Forces aligned with both the government and its opponents were responsible for the disappearance of civilians in conflict areas, although in most cases the details remained obscure. In the eastern region, a campaign of killings, kidnappings, and intimidation continued to target activists, journalists, former government officials, and the security forces. Kidnappings remained a daily occurrence in many cities.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: Jailers at both government and extralegal detention centers reportedly tortured prisoners. Militia control of most government and extralegal detention facilities obscured understanding of the situation.</p>
+<p>The extent of torture at extremist or militia hands remained unknown, although some militias reportedly physically abused detainees. Individuals who expressed controversial opinions, such as journalists, suffered from violence. There were no developments in the case of Naseeb Miloud Karfana, a television journalist based in Sabha, and her fiance, who were killed in 2014.</p>
+<p><u>Child Soldiers</u>: There were reports of minors joining government forces, although official policy required proof recruits were at least 18 years of age. There were multiple reports of underage militia enlistees but no verifiable information about any age-related requirements for joining. The government did not make efforts to investigate or punish recruitment or use of child soldiers. According to media reports, Da’esh claimed in December to have been training children in Libya for its operations, such as suicide attacks, firing weapons, and making improvised explosive devices.</p>
+<p>Also see the Department of State’s annual <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+<p><u>Other Conflict-related Abuses</u>: Additional abuses stemming from increased conflict included restrictions on travel, deliberate attacks on health-care facilities, and the forceful displacement of civilians. Media reported armed groups involved in Tripoli clashes used improvised explosive devices in heavily populated urban areas.</p>
+<p>According to UNSMIL, the Benghazi Medical Center, the largest functioning hospital in Benghazi was shelled four times during the year as part of the ongoing conflict in Benghazi. These attacks occurred on April 7 and 14, May 9, and July 19. Additionally Jalaa Hospital in Benghazi was shelled on July 8; one man was reported killed in the attack.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section2"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The Constitutional Declaration provides for freedom of opinion, expression, and the press, but the government limited the exercise of these rights. The government did not fully respect freedom of speech and press. Unidentified assailants targeted journalists and reporters for presenting “dissident” political views.</p>
+<p><u>Freedom of Speech and Expression</u>: Freedom of speech was limited in law and practice. In February 2014 the GNC enacted a law criminalizing acts that “harm the February 17 revolution of 2011.”</p>
+<p>The HoR, since becoming the internationally recognized government in August 2014, did little to change restrictions on freedom of speech. Observers noted civil society self-censored as armed groups threatened and killed activists. Widespread conflict in major urban areas deepened the climate of fear and provided cover for armed groups to target vocal opponents with impunity.</p>
+<p>Observers reported persons self-censored everyday speech, particularly in locations such as Tripoli, where GNC-aligned Operation Dawn forces threatened and detained citizens suspected of supporting Operation Dignity or criticizing abuses committed by Operation Dawn forces.</p>
+<p><u>Press and Media Freedoms</u>: Press freedoms were limited in practice as many journalists self-censored since the media faced increased threats, including abductions and killings by a range of assailants, including militias and violent extremists. These limits were present in print media, broadcast media, and book publication.</p>
+<p>There were few reports of the closing of media outlets; however, there were some reports of raids by unidentified actors on organizations working on press freedom. Both foreign and domestic actors imposed indirect restrictions on press freedom that further polarized the media environment.</p>
+<p><u>Violence and Harassment</u>: Reportedly, attacks on the media, including harassment and killings of, and threats, abductions, and violence against, media personnel continued to the point where it was nearly impossible for media to operate in any meaningful capacity in areas of conflict.</p>
+<p>Impunity for attacks on media exacerbated the problem, with no monitoring organizations, security forces, or a functioning judicial system to constrain or record these attacks.</p>
+<p>While harassment of journalists was commonplace during the year, more-serious crimes against journalists were widespread. Unknown assailants killed and tortured several journalists. Kidnappings were also widespread. On April 23, authorities found television journalist Muftah al-Qatrani, killed in his office in Benghazi. Al-Qatrani had reported on the conflict between the Libyan National Army and extremist organizations in Benghazi. On April 27, authorities found four Libyan journalists, an Egyptian cameraman, and two Tunisian journalists killed by unknown assailants outside the eastern city of Bayda. Unknown persons abducted the journalists in August 2014 as they traveled from Tobruk to Benghazi. Unknown persons threatened or harassed countless other journalists. There were no further developments on cases of journalists’ killings reported in the previous year.</p>
+<p><u>Censorship or Content Restrictions</u>: In January and February 2014, the GNC passed decrees banning criticism of the government or the 2011 revolution, which remained in effect during the year. Additionally, journalists self-censored due to lack of security and intimidation. The international NGO Reporters Without Borders reported that all sides used threats and violence to intimidate journalists to prevent publication of information. The unstable security situation and militia fighting created areas of hostility towards civilians and journalists associated with opposing sides.</p>
+<p><u>Libel/Slander Laws</u>: The penal code criminalized a variety of political speech, including speech considered to “insult constitutional and popular authorities” and “publicly insulting the Libyan Arab people.” It, along with other laws, also provides criminal penalties for defamation and insults to religion. Most reports attributed infringement of free speech to intimidation, harassment, and violence.</p>
+<p><u>National Security</u>: Additionally, the penal code criminalized speech considered to “tarnish the [country’s] reputation or undermine confidence in it abroad.” Given the prevalence of self-censorship and the pressure and intimidation of non-state actors, the government did not resort to its use during the year.</p>
+<p><u>Nongovernmental Impact</u>: The control of Derna, Sirte, and parts of Benghazi by violent extremist organizations restricted freedom of expression. Militias, terrorist and extremist groups, and individual civilians regularly harassed, intimidated, or assaulted journalists. While media coverage focused on the actions of Islamist-affiliated violent extremists, all sides of the conflict limited freedom of expression. Reports from NGOs indicated various parties, including civilians, attacked journalists and media outlets, noting that lack of professionalism in the media sector exacerbated violence from those who disagreed with what media reported.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no credible reports that the government restricted or disrupted internet access or monitored private online communications without appropriate legal authority during the year. Nor were there credible reports that the government censored online content.</p>
+<p>Internet penetration outside urban centers remained relatively low, and frequent electricity outages resulted in limited internet availability in the capital and elsewhere. According to a World Bank study, 17.8 percent of the population used the internet in 2014 and approximately 1.0 percent of households subscribed to fixed broadband services in 2013.</p>
+<p>The government did not effectively exercise control over civilian infrastructure for most of the year. Social media, such as YouTube, Facebook, and Twitter, played a critical role in official and unofficial communications. A large number of bloggers, online journalists, and citizens reported practicing self-censorship due to instability, militia intimidation, and the uncertain political situation. Some activists reported finding what appeared to be “kill lists” targeting civilian dissenters on social media websites affiliated with certain Islamist militias.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no reported government restrictions on academic freedom or cultural events. Security conditions in the country, however, restricted the ability to practice academic freedom and made cultural events rare.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>The Constitutional Declaration provides for a general right to peaceful assembly and association; however, the government failed to provide in practice for these rights. The law on guidelines for peaceful demonstrations fails to include relevant assurances and provides for severe restrictions on the exercise of the right of assembly. The law mandates protesters must inform the government of any planned protest at least 48 hours in advance and provides that the government can notify the organizers that a protest is banned as little as 12 hours before the event.</p>
+<p>Absent an effective security and judicial apparatus, the government lacked the ability to provide for freedom of assembly. The government failed to protect protesters and, conversely, to manage protester violence during the year. On October 23, unknown persons fired mortar shells at a demonstration in Benghazi protesting the formation of a Government of National Accord. The attack killed at least 12 persons and injured more than 35. No one claimed responsibility for the attack, although officials in Benghazi noted that Ansar al-Sharia controlled the district from which the shells came.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The Constitutional Declaration includes freedom of association for political and civil society groups. In practice, however, the government could not enforce freedom of association, and the proliferation of targeted attacks on journalists, activists, and religious figures severely undermined freedom of association.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The Constitutional Declaration recognizes freedom of movement, including foreign travel, emigration, and repatriation, although the government has the ability to restrict freedom of movement. The law provides the government with the power to restrict a person’s movement if it views that person as a “threat to public security or stability” based on the person’s “previous actions or affiliation with an official or unofficial apparatus or tool of the former regime.”</p>
+<p>Political instability and continuing violence created an inhospitable environment for internally displaced persons, refugees, and migrants seeking to go to Europe by sea. At the end of the year, UNHCR was unable to resume refugee status determinations in the country. The lack of a physical presence by UNHCR or the IOM was an additional obstacle to providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p>As the security situation remained poor throughout the year, the fear of detention, lack of opportunity, and violence pushed an ever-growing number of migrants and refugees to undertake the crossing to Europe. During the year the country served as one of the primary departure points for migrants crossing the Mediterranean. Boats were heavily overloaded, and there was a high risk of being lost or capsizing. For example, according to UNHCR on April 19, a boat with approximately 875 passengers capsized off the coast of Tripoli, killing 850 migrants.</p>
+<p><u>In-country Movement</u>: After the outbreak of armed conflict in 2014, the government did not exercise control over in-country movement, although the military established checkpoints targeting extremist movements around Benghazi and Derna.</p>
+<p>Militias effectively controlled regional movements through armed checkpoints. Militia checkpoints and those imposed by Da’esh, Ansar al Sharia, and other extremist organizations impeded movement within the country and, in some areas, prohibited women from moving freely without a male escort.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons</h3>
+<div class="sub-sub-section_content">
+<p>On September 20, UNHCR estimated there were 435,000 internally displaced persons (IDPs) in the country. Limited access to towns affected by fighting between rival armed groups hampered efforts to account for and assist the displaced.</p>
+<p>Approximately 40,000 members of the Tawarghan community remained displaced, the largest single IDP population. Because Tawargha served as base for Qadhafi forces during the revolution, Misratan militias attacked the town following the fall of the regime in 2011, compelling all inhabitants, largely descendants of sub-Saharan former slaves, to leave their homes. During the year UNSMIL with the help of the EU sponsored talks between Misrata and the Tawarghans to facilitate their return to their homes. At year’s end there was no resolution on their return to Tawargha.</p>
+<p>IDPs continued to be vulnerable to abuses. The government was unable to promote adequately the safe voluntary return or resettlement of IDPs. Due to the lack of adequate laws, policies, or government programs, international organizations and NGOs assisted them to the extent possible given the security environment.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p>Since the withdrawal of UN personnel from the country in July 2014, UNHCR no longer registered refugees and asylum seekers. The number of refugees in the country was unknown, particularly since the country experienced during the year the largest trans-Mediterranean migration (composed of refugees, asylum seekers, and economic migrants) in its history. Nearly 120,000 migrants departed western Libya for Europe since January 1.</p>
+<p>UNHCR, the International Committee of the Red Cross, and IOM were able to provide basic services through local NGO implementing partners to refugees and asylum seekers in the country during the year.</p>
+<p>There were reports of hundreds to thousands of sub-Saharan Africans who entered the country illegally, aided by the porous southern borders. Treatment of detained migrants depended upon their country of origin and the offense for which they were being held (some were held for having improper documents and others for having committed crimes). Migrants and refugees faced abduction, extortion, violent crime, and other abuses, exacerbated by entrenched racism and xenophobia. Government-affiliated and nongovernment militias regularly held refugees and asylum seekers in detention centers alongside criminals or in separate detention centers under conditions that did not meet international standards.</p>
+<p>A June 17 HRW report indicated guards in migrant detention centers under government control tortured and otherwise abused migrants and asylum seekers, including with severe whippings, beatings, and electric shocks (see section 1.c.). There were also reports of Libyan civilians taking migrants from detention centers, extorting money from their families, and returning them to the detention centers.</p>
+<p><u>Access to Asylum</u>: The Constitutional Declaration recognizes the right of asylum and forbids forcible repatriation of asylum seekers, but the government did not establish a system for providing protection to refugees or asylum seekers. Absent an asylum system, authorities could detain and deport asylum seekers without their having the opportunity to request refugee status. The government did not legally recognize asylum seekers as a class distinct from migrants without residency permits.</p>
+<p><u>Refugee Abuse</u>: Some refugees faced abuse similar to migrants, principally arbitrary detention, but also killings and gender-based violence. As UNHCR, the IOM, HRW, and other organizations suspended protection activities and withdrew their international staff during the year, many of the abuses reported in previous years, and particularly since the fall of Qadhafi, were unmonitored.</p>
+<p>Instability in the country and lack of government oversight made human trafficking a profitable enterprise. Conditions on boats departing for Europe were poor, and human smugglers abandoned many migrants in international waters with insufficient food and water. Migrants reported some human smugglers were Libyan nationals, but officials did little to curb the departures or hold smugglers accountable for crimes against migrants.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Stateless Persons</h3>
+<div class="sub-sub-section_content">
+<p>By law children derive Libyan citizenship only from a citizen father. Citizen women alone were unable to transmit citizenship to offspring, but there are naturalization provisions for noncitizens. The Qadhafi regime had, however, revoked the citizenship of some inhabitants of the Saharan interior of the country, including many Tebu and some Tuareg, after the regime returned the Aouzou strip to Chad. As a result many nomadic and settled stateless persons lived in the country. Without citizenship, stateless persons are unable to obtain legal employment. The government did not take action to alleviate the difficulties stateless persons faced.</p>
+<p>Due to the lack of international monitoring, observers could not verify the current number of stateless persons.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section3"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Following the revolution, the temporary Constitutional Declaration granted citizens the ability to change their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised that ability.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In June 2014 the High National Elections Commission successfully administered the election of members to the HoR, an interim parliament to replace the GNC whose mandate expired in February. An estimated 42 percent of registered voters went to the polls to choose 200 members from among 1,714 candidates. International and domestic observers, representatives of the media, and accredited guests mostly commended the performance of the electoral authorities. The Libyan Association for Democracy, the largest national observation umbrella group, cited minor technical issues and inconsistencies but stated polling was generally well organized.</p>
+<p>Violence and widespread threats to candidates, voters, electoral officials, and materials on election day affected 24 polling centers, most notably in Sabha, Zawiya, Awbari, Sirte, Benghazi, and Derna. Eleven seats remained vacant due to a boycott of candidate registration and voting by the Amazigh community and violence at a number of polling centers that precluded a final vote.</p>
+<p><u>Political Parties and Political Participation</u>: Political parties proliferated following the revolution, although fractious political infighting among party leaders impeded the government’s progress on legislative and electoral priorities. Amid rising insecurity public ire fell on certain political parties perceived to contribute to instability. In 2013 under pressure from militias, the government passed a purge or “lustration” law, the Political Isolation Law (PIL), prohibiting those who held certain positions under Qadhafi between 1969 and 2011 from holding government office. Observers widely criticized the law for its overly broad scope and the wide discretion given to the PIL Committee to determine whom to exclude from office.</p>
+<p>Multiple members of the government claimed that it abolished the PIL during the year, but it published no legislation to that effect nor was it clear that the HoR had a quorum, which is necessary to pass any legislation.</p>
+<p><u>Participation of Women and Minorities</u>: The Constitutional Declaration allows for full participation of women and minorities in elections and the political process, but significant social and cultural barriers--in addition to significant security challenges--prevented their proportionate political participation.</p>
+<p>The election law provides for representation of women within the HoR; of the 200 seats in the parliament, 32 are reserved for women. There was one woman, the minister of health, in the cabinet appointed in September 2014, when members of the HoR chose Al-Thinni for the second time as prime minister. The High National Election Commission’s seven members included one woman on its board of commissioners.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section4"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials. The government did not implement the law effectively, and officials reportedly engaged in corrupt practices with impunity. There were numerous reports of government corruption during the year, but as in 2014, no significant investigations or prosecutions occurred.</p>
+<p>The Constitutional Declaration states that the government shall provide for the fair distribution of national wealth among citizens, cities, and regions. The government struggled to decentralize distribution of oil wealth and delivery of services through regional and local governance structures. There were many reports and accusations of government corruption due to lack of transparency in the government’s management of security forces, oil revenues, and the national economy. There were allegations that officials in the interim government submitted fraudulent letters of credit to gain access to state funds.</p>
+<p><u>Corruption</u>: Slow progress in implementing decentralization legislation, particularly with regard to management of natural resources and distribution of state funds, led to accusations of corruption and calls for greater transparency. There were no reports of meetings of or actions taken by the oil corruption committee, formed in April 2014 to investigate both financial and administrative means of corruption in the oil industry.</p>
+<p><u>Financial Disclosure</u>: There are no financial disclosure laws, regulations, or codes of conduct requiring income and asset disclosure by appointed and/or elected officials.</p>
+<p><u>Public Access to Information</u>: There are no laws providing for public access to government information, and there was no available information whether the government granted requests for such access.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section5"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>While the government did not restrict human rights organizations from operating, it was unable to protect organizations from violence that often specifically targeted activists. Due to the government’s inability to secure control of territory and the absence of an effective security apparatus, human rights organizations struggled to operate. Nearly all international human rights monitoring organizations withdrew international staff following the January 27 attack on the Corinthia Hotel in Tripoli.</p>
+<p><u>The United Nations or Other International Bodies</u>: Government policy and practices were generally willing to cooperate with UN bodies, including human rights components of UNSMIL. Nonetheless, the government did not carry out UN-recommended actions to combat militias’ impunity for human rights abuses. There were no prosecutions of revolutionary forces for war crimes during the year, despite official statements it would not use the law amnestying any “acts made necessary by the 17 February revolution” for the revolution’s “success or protection.”</p>
+<p>The government also did not comply with International Criminal Court (ICC) injunctions to transfer suspected war criminal Saif al-Islam Qadhafi from Libya to ICC jurisdiction for trial. The government claimed that it was unable to obtain custody of Qadhafi from Zintani militia forces, to obtain evidence, in particular from witnesses who had been tortured during detention by militias, or to appoint defense counsel. In December 2014 the ICC announced it had referred the country to the UN Security Council for violating an obligation to transfer Saif al-Islam Qadhafi for trial. There were no developments on the possible transfer of Qadhafi to the ICC during the year.</p>
+<p><u>Government Human Rights Bodies</u>: Human rights defenders faced continuing threats and danger. The National Council for Civil Liberties and Human Rights, the UN-recognized national human rights institution, ceased its activity in the country due to intimidation in November 2014 after armed men apparently associated with Libya Dawn militia forcibly closed its offices. The council maintained limited international activity with other human rights organizations and the UN Human Rights Council, in Tunis, as well as a minimal presence in Tripoli. Its ability to advocate for human rights and investigate alleged abuses during the reporting period was unclear.</p>
+<p>The former government passed the Transitional Justice Law in 2013 (see section 1.e.), establishing a legal framework to promote civil peace, implement justice, compensate victims, and facilitate national reconciliation. It further establishes a Fact-Finding and Reconciliation Commission charged with investigating and reporting on alleged human rights abuses, whether suffered under the Qadhafi regime or during the revolution. There has been no known activity by the commission during the year.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section6"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The Constitutional Declaration contains clear references to equal rights and states that all citizens are equal before the law in enjoying civil and political rights, equal opportunities, and the duties of citizenship without discrimination based on religion; sect; language; wealth; sex; descent; political views; social status; or regional, family, or tribal affiliations. The law mandates punishment of not less than one year’s imprisonment for anyone guilty of discrimination based on class, group, region of origin, gender, or color. The government enforced neither the prohibitions nor the punishments effectively.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p>Women faced social forms of discrimination, which affected their ability to access employment, their presence in the workplace, and their mobility and personal freedom. There was no mechanism to monitor violence against women, and in the absence of monitoring, violence and intimidation against women largely went unreported.</p>
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape but does not address spousal rape. There were no known reports of a woman accusing her husband of rape during the year. The Constitutional Declaration prohibits domestic violence, but it did not contain reference to penalties for violence against women.</p>
+<p>By law in order to avoid a 25-year prison sentence a convicted rapist has the option to marry the victim--provided her family consents--regardless of the wishes of the victim. According to UNSMIL the forced marriage of victims to rape perpetrators as a way to avoid criminal proceedings remained rare. In previous years rape survivors who could not meet high evidentiary standards could face charges of adultery.</p>
+<p>There were no reliable statistics on the extent of domestic violence during the year. A 2013 report from the International Federation of Electoral Systems cited high levels of acceptance and justifications of domestic violence in the society. Social and cultural barriers--including police and judicial reluctance to act and family reluctance to publicize an assault--contributed to lack of effective government enforcement. In the past municipalities and local organizations maintained women’s shelters in most major cities, but it was difficult to confirm whether shelters continued to operate or were accessible to victims of domestic violence.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: There were no known reports by international organizations of FGM/C. There was no available information about legislation on FGM/C.</p>
+<p><u>Sexual Harassment</u>: The law criminalizes sexual harassment, but there were no reports on how or whether it was enforced. According to civil society organizations, there was widespread harassment and intimidation of women by militias and extremists, including accusations of “un-Islamic” behavior. Multiple local contacts reported harassment of women at airports attempting to travel alone internationally and in certain militia-controlled areas.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and obtain information to do so, free from discrimination, coercion, and violence. According to the latest figures from the UN Population Fund, 28 percent of girls and women between the ages of 15 and 49 used a modern method of contraception and the health system satisfied 70 percent of demand for contraception. In previous years skilled health personnel attended virtually all births, and more than 90 percent of mothers received prenatal and postnatal care. The continuing conflict throughout much of the country decreased available skilled medical personnel, since many foreign medical workers fled the country, which likely affected women’s access to reproductive and maternal health-care services and contraceptive supplies.</p>
+<p><u>Discrimination</u>: The Constitutional Declaration states citizens are equal under the law and equal civil and political rights with the same opportunities in all areas without distinction on the grounds of gender. Absent implementing legislation, and operating with limited capacity, the government did not effectively enforce these declarations. Although the law prohibits discrimination based on gender, widespread cultural, economic, and societal discrimination against women continued. Sharia (Islamic law) governs family matters, including inheritance, divorce, and the right to own property. While civil law mandates equal rights in inheritance, women often received less due to interpretations of sharia that favor males. Women can seek divorce for a range of reasons under the law, but they often forfeited financial rights in order to obtain a divorce. While the law demands men provide alimony for a fixed duration, according to the individual marriage contract, authorities did not uniformly enforce the law in instances when men failed to provide alimony. Women must obtain government permission to marry noncitizen men and often faced difficulties, including harassment in attempting to do so, while men did not face similar restrictions. Women are unable to confer their nationality to their children if their husbands are not citizens.</p>
+<p>Women faced discrimination in the workplace. Observers reported that authorities precluded hiring women for positions in the civil service and in specific professions that they occupied previously, such as school administration. They reported continued social pressure on women to leave the workplace, especially in high-profile professions such as journalism and law enforcement. In rural areas, societal discrimination restricted women’s freedom of movement, including to local destinations, and impaired their ability to play an active role in the workplace.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: By law children derive citizenship only from a citizen father. Citizen women alone were unable to transmit citizenship to offspring. There are also naturalization provisions for noncitizens.</p>
+<p><u>Education</u>: The conflict disrupted the school year for thousands of students across the country; many schools remained empty due to lack of materials, damage, or security concerns. According to 2014 UNICEF data, only 65 of 239 schools in Benghazi operated. Qadhafi-era law imposed high fees on noncitizens enrolled in primary and secondary schools.</p>
+<p><u>Child Abuse</u>: No statistical information on child abuse was available.</p>
+<p><u>Early and Forced Marriage</u>: The minimum age for marriage is 18 years old for both men and women, although judges can provide permission for those under 18 to marry. There were no available statistics on the rate of early and forced marriage during the year.</p>
+<p><u>Sexual Exploitation of Children</u>: There was no information available on laws prohibiting or penalties for the commercial sexual exploitation of children, the minimum age of consensual sex, or on any laws prohibiting child pornography.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>Most of the Jewish population left the country between 1948 and 1967. Some Jewish families reportedly remained, but no estimate of the population was available. There were no known reports of anti-Semitic acts during the year.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The Constitutional Declaration addresses the rights of persons with disabilities by providing monetary and other types of social assistance for the “protection” of persons with “special needs” with respect to employment, education, access to health care, and the provision of other state services, but it does not explicitly prohibit discrimination. The government did not effectively enforce these provisions.</p>
+<p>The government did not enact or effectively implement laws and programs to ensure access to buildings, information, and communications, but a number of organizations provided services to persons with disabilities. Few public facilities had adequate access for persons with physical disabilities, resulting in restricted access to employment, education, and health care. New sidewalks did not have curb cuts for persons in wheelchairs, and new construction often did not have accessible entrances. There was limited access to information or communications.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Arabic-speaking Muslims of mixed Arab-Amazigh ancestry were 97 percent of the citizenry. The principal linguistic-based minorities were Amazigh, Tuareg, and Tebu. These minority groups were predominantly Sunni Muslim but identified with their respective cultural and linguistic heritages rather than with Arab traditions.</p>
+<p>The government officially recognizes the Amazigh, Tuareg, and Tebu languages and provides for their teaching in schools. Language remained a point of contention, however, and the extent to which the government enforced this provision was unclear.</p>
+<p>Ethnic minorities faced instances of societal discrimination and violence. Racial discrimination existed against dark-skinned citizens, including those originally of sub-Saharan heritage. Government officials and journalists often distinguished between “loyal” and “foreign” populations of Tebu and Tuareg in the south and advocated expulsion of minority groups affiliated with political rivals on the basis they were not truly “Libyan.” A number of Tebu and Tuareg communities received substandard or no services from municipalities, lacked national identity numbers (and thus access to employment), and faced widespread social discrimination (see section 7.d. for more extended treatment of employment discrimination against minorities).</p>
+<p>In August the Tuareg and Tebu representatives to the Constitutional Drafting Assembly suspended their membership in that body, due to concern that the new draft constitution would not protect the rights of minority groups.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Lesbian, gay, bisexual, transgender, and intersex (LGBTI) orientations remained illegal, and official and societal discrimination against LGBTI persons persisted. The penal code punishes consensual same-sex sexual activity by three to five years in prison. The law provides for punishment of both parties.</p>
+<p>There was scant information on and no reports of discrimination based on sexual orientation or gender identity in employment, housing, access to education, or health care. Observers noted that threat of possible violence or abuse could intimidate persons who reported such discrimination. There was no information on whether there were hate crime laws or other judicial mechanisms to aid in prosecuting bias-motivated crimes against members of the LGBTI community.</p>
+<p>Citizens tended to hold negative views of LGBTI persons and stigmatize homosexuality. There were reports of physical violence, harassment, and blackmail based on sexual orientation and gender identity. Militias often policed communities to enforce compliance with militia commanders’ understanding of “Islamic” behavior, and harassed and threatened with impunity individuals believed to have LGBTI orientations and their families.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>There was no available information on societal violence toward persons with HIV/AIDS. There were reports the government segregated detainees suspected of having HIV/AIDS from the rest of the detainee population, often in overcrowded spaces, and they received medical treatment last. In previous years, there were reports of societal stigmatization of persons with HIV/AIDS due to an association of the disease with drug use, sex outside marriage, and homosexuality.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section7"> </span><span class="st_twitter" st_title="Libya #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Libya - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=252937%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law does not provide for the right of workers to form and join independent unions, but it provides for the right of workers to bargain collectively and conduct legal strikes, with significant restrictions. The law neither prohibits antiunion discrimination nor requires the reinstatement of workers for union activity. By law workers in the formal sector are automatically members of the General Trade Union Federation of Workers, although they can elect to withdraw from the union. Only citizens can be union members, and regulations do not permit foreign workers to organize. According to a World Bank study on June 3, efforts to reform labor legislation remained stalled due to the continuing political conflict.</p>
+<p>The requirement that all collective agreements conform to the “national economic interest” restricts collective bargaining. Workers can call strikes only after exhausting all conciliation and arbitration procedures. The government or one of the parties can demand compulsory arbitration, thus severely restricting strikes. The government has the right to set and cut salaries without consulting workers. According to the June 3 World Bank report, the public sector employed 85 percent of the country’s active labor force.</p>
+<p>Employees organized spontaneous strikes, boycotts, and sit-ins in a number of workplaces. No government action prevented or hindered labor strikes, and government payments to leaders of the strike actions customarily ended these actions. The absence of an effective central government restricted the ability of the government to enforce applicable labor laws effectively.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The government, however, did not effectively enforce the applicable laws due to the absence of an effective central government. The resources, inspections, and penalties for violations were insufficient to deter violators. While many foreign workers fled the country due to the ongoing conflict, there were reports of foreign workers subjected to conditions indicative of forced labor, especially foreign migrants passing through the country to reach Europe. According to the IOM, militias and armed groups subjected migrants to forced labor and trafficking in IDP camps and transit centers that they controlled.</p>
+<p>Armed groups prevented third-country health-care workers from departing conflict areas such as Benghazi and compelled these workers to perform unpaid work in dangerous conditions.</p>
+<p>Private employers sometimes mobilized detained migrants from prisons and detention centers for forced labor on farms or construction sites; when the work is completed or the employers no longer require the migrants’ labor, employers return them to detention.</p>
+<p>Also, see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt</a>/.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits children younger than 18 years old from employment except in a form of apprenticeship. It was unclear whether child labor occurred, and no information was available concerning whether the law limits working hours or sets occupational health and safety restrictions for children. The government lacked the capacity to enforce these laws.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment and Occupation</h2>
+<div class="sub-section_content">
+<p>The Constitutional Declaration prohibits any form of discrimination on the basis of religion, race, political opinion, language, wealth, kinship, political opinions, social status, and tribal, regional or familial loyalty. The law does not prohibit discrimination on the basis of age, gender, disability, sexual orientation and/or gender identity, social status, HIV-positive status, or having other communicable diseases. The law does not specifically prohibit discrimination concerning employment or occupation. The Constitutional Declaration provides for a right of work to every citizen.</p>
+<p>The absence of an effective central government also restricted the ability of the government to enforce applicable laws effectively. Discrimination in all the above categories likely occurred.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The law stipulates a workweek of 40 hours, standard working hours, night shift regulations, dismissal procedures, and training requirements. The law does not specifically prohibit excessive compulsory overtime. The minimum wage was 450 dinars ($369 at the official rate of exchange; $155 at the commonly used black market exchange rate) per month.</p>
+<p>The law provides occupational health and safety standards, and the law grants workers the right to court hearings regarding violations of these standards. The absence of an effective central government restricted the ability of the government to enforce such health and safety standards effectively.</p>
+<p>Certain industries, such as the petroleum sector, attempted to maintain standards set by foreign companies. There was no information available on whether inspections continued during the year.</p>
+<p>According to the World Bank, prior to 2011, the number of foreign workers was between 1.5 million and two million. The report estimated that (as of 2012) the informal sector employed 800,000 foreign workers (compared with 430,000 in the formal sector). No accurate recent numbers of foreign workers were available. Many foreign workers, especially in the health sector, departed the country due to the ongoing conflict. Although foreign workers reportedly constituted more than 20 percent of the workforce, the labor law applies only to documented foreign workers with work contracts, who were a fraction of the total. While contracts are required for the hiring business to sponsor a worker for a visa, such contracts were rare.</p>
+<p>The law permits foreign workers to reside in the country only for the duration of their work contracts, and authorities prohibited workers from sending more than half of their earnings to home countries. Due to restrictions on converting Libyan currency into foreign currencies, in effect it became difficult for foreign workers to send even half their earnings to home countries.</p>
+<p>Employers reportedly subjected foreign workers to coercive practices, such as changes in conditions of work and contracts, and such workers often had little choice other than to accept the changes or leave the country due to the lack of legal protections or avenues for remediation. Workers were not able to remove themselves from situations that endangered their health or safety without jeopardy to their employment.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

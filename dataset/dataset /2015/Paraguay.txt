@@ -1,0 +1,551 @@
+2015
+Paraguay
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033"> </span><span class="st_facebook" st_title="Paraguay" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid=253033">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015&amp;dlid;=253033</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearances">b. Disappearances</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+<li><a href="#section1guse">g. Use of Excessive Force and Other Abuses in Internal Conflicts</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Freedom to Participate in the Political Process</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6indigenouspeople">Indigenous People</a></li>
+<li><a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li><a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=executive"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>Paraguay is a multiparty, constitutional republic. In April 2013 Horacio Cartes of the Colorado Party, also known as the National Republican Association (ANR), won the presidency in elections recognized as free and fair. Civilian authorities maintained effective control over the security forces.</p>
+<p>The principal human rights problems were impunity in the judicial sector, together with lengthy pretrial detention and trial delays; harsh and at times life-threatening prison conditions; and police involvement in criminal activities, including unlawful killings by persons associated with police and the military.</p>
+<p>Other human rights problems included the killing and intimidation of journalists by organized-crime groups; corruption, discrimination, and violence against women and indigenous persons, persons with disabilities, and lesbian, gay, bisexual, transgender, and intersex (LGBTI) persons; and trafficking in persons. Problems with child labor and violations of worker rights often occurred.</p>
+<p>The government took steps to prosecute and punish officials who committed abuses, but general impunity for officials in the security forces was prevalent.</p>
+<p>The Paraguayan People’s Army (EPP) and the Armed Peasant Association (ACA) guerilla movements killed security forces and civilians, committed robberies, kidnapped both civilians and security forces, and recruited children and adolescents. Authorities investigated EPP and ACA attacks, and prosecuted and convicted some members. Through October the EPP killed seven civilians and five police officers. Police forces killed seven ACA members.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section1"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were several reports that the government or its agents committed arbitrary or unlawful killings.</p>
+<p>During the year the nongovernmental organization (NGO) Coordinator of Human Rights in Paraguay (CODEHUPY) alleged that rogue rural landowners, acting in complicity with local authorities and security forces, were responsible for the killing of two peasant leaders and land-reform activists.</p>
+<p>On June 29, police chief Juan Armin Baez Torres shot and killed a seven-year-old boy in Bahia Negra, Alto Paraguay. According to reports, Baez Torres was on duty and intoxicated when he responded to a complaint about a party. He arrived in his private vehicle and attempted to detain a person for public disturbance. When challenged by spectators, Baez Torres fired several warning shots, one of which killed the boy. On June 30, Baez Torres turned himself in to authorities. He was in custody at year’s end.</p>
+<p>In December 2014 two unknown assailants killed National Farmers Union leader Digno Gonzalez Maidana in Tomas Romero Perreira, Itapua Department. The assailants ambushed Gonzalez on a back road while he was riding his motorcycle. According to reports the assailants shot Gonzalez in the face with a shotgun and hacked his body to pieces with machetes. Gonzalez had been publicly critical of the cultivation of transgenic soybeans.</p>
+<p>Judicial proceedings stalled against 13 protesters charged in the case involving the 2012 deaths of six police officers at Curuguaty. On October 9, the three judges presiding over the case suspended proceedings after lawyers for the defense petitioned for a mistrial. Authorities did not initiate investigations against the police for the deaths of 11 protesters during the same incident in 2012. According to CODEHUPY, the authorities only took brief statements from the three witnesses for the defense called to testify. Of the 120 testimonies included in the trial, 117 corresponded to police officers or public employees. The criminal cases were pending at year’s end.</p>
+<p>Because the shootings occurred after protesters invaded the Marina Cue property in Curuguaty, the defendants also faced charges for squatting and trespassing. The defendant’s lawyers requested postponement of the trial until ownership of the land could be determined. On November 30, President Cartes tacitly approved legislation accepting the disputed land as a donation from Campos Morambi, the private company owned by the Riquelme family who disputed the campesinos’ claim to the land. Campos Morambi was involved with six lawsuits with the government regarding its own claim to the land.</p>
+<p>On December 22, police officer Hugo Chavez was sentenced to 15 years in prison for the 2010 killing of truck driver Gustavo Munoz during a traffic stop. Prosecutors originally charged 17 police officers with manslaughter.</p>
+<p>Armed guerilla groups continued to kill civilians and government agents. During the year the EPP killed eight civilians and five police officers and kidnapped one civilian (see section 1.g.).</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearances">
+<a class="goto" name="section1bdisappearances"></a>
+<h2>b. Disappearances</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances. There were press and government reports of short-term “express kidnappings” for monetary gain.</p>
+<p>On August 12, four police officers kidnapped Brazilian citizen Huilas Alves in Alto Parana Department. Alves was in possession of the weapon used in two killings on August 10. According to Alves, the officers demanded that he pay 20 million guaranis (Gs.) ($3,500) to avoid charges for involvement in the killings. On August 23, the Attorney General’s Office ordered the arrest of the four police officers (Jose Vidal Rolon, Robert Richer Resquin Enciso, Cesar Leiva Baez, and Ruben Dario Flores Alfonzo) and charged them as accessories to a murder, kidnapping, and other felonies. The case was pending at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits such practices, and the government generally respected these provisions, but there were credible reports that some government officials employed such practices. The Attorney General’s Human Rights Unit opened 19 torture investigation cases during the year, but there were no convictions, and all investigations were pending at the end of the year. Lawyers’ associations claimed that defense attorneys, judges, and prosecutors at times stalled cases for four years, the point at which the courts dismissed them on procedural grounds. By law torture charges do not have a statute of limitations.</p>
+<p>On March 2, civil society leaders in Puerto Guarani, Alto Paraguay Department, filed criminal complaints against French-Uruguayan company Abialor S.A. and the Paraguayan Rural Police Force (a subunit of the National Police) for assaulting, handcuffing, and torturing rural community leader Carmen Graciela Gonzalez that same day. The alleged assault occurred when representatives from Abialor attempted to evict villagers of Puerto Guarani from land without a judicial order. The Attorney General’s Office charged Julio Rolando Alcaraz with physical assault and illegally acting as a public agent and police officer Fredy Osorio with torture, dereliction of duties, and physical assault. The cases were pending at year’s end.</p>
+<p>On April 13, relatives of Hugo Daniel and Cesar Vega filed a criminal complaint against eight officers from a police station in Ita Enramada, Lambare, for torturing them after they were arrested for allegedly stealing construction materials. The case was pending with the Attorney General’s Office at the end of the year. The government agency, National Mechanism for the Prevention of Torture (NMPT), which receives congressional funding but is administratively independent of the executive branch, issued a report in April on the incident and expressed concern regarding the actions of the police.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions continued to fall short of international standards. Conditions were harsh and, at times, potentially life threatening due to inmate violence, mistreatment, overcrowding, poorly trained staff, deteriorating infrastructure, and unsanitary living conditions.</p>
+<p><u>Physical Conditions</u>: According to a Justice Ministry report in September, the country’s 16 penitentiaries held 12,313 inmates, 79 percent more than their design capacity of 6,893. In an effort to address this situation, the ministry temporarily stopped admitting new prisoners in Tacumbu and Ciudad del Este prisons, where overcrowding was particularly severe, and transferred existing prisoners to less crowded prisons. Penitentiaries did not have adequate accommodations for inmates with physical disabilities.</p>
+<p>Pretrial detainees were held with convicted prisoners in all but the Emboscada, Granja Ita Pora, and Granja Koe Pyahu prisons. Women were imprisoned in the same facilities as men but were held separately in penitentiaries in Encarnacion, Misiones, Concepcion, Coronel Oviedo, San Pedro, Villarrica, and Pedro Juan Caballero.</p>
+<p>The Justice Ministry’s Directorate for the Care of Convicted Juveniles assigned minors convicted of juvenile crimes to one of seven youth correctional facilities in the country, one of which was dedicated for women. Some juvenile offenders served their sentences in separate sections of adult prisons, such as the women’s Ciudad del Este penitentiaries.</p>
+<p>According to official reports, 26 prisoners died in custody during the year: 20 from natural causes, four from inmate-on-inmate violence, and two as a result of being shot by guards during an inmate riot. According to NMPT statistics, 34 inmates died during the year.</p>
+<p>Prison guards in the Juan Antonio de la Vega prison reportedly tasked inmates with the discipline of other prisoners, and in response to these allegations, the Justice Ministry investigated and removed the director of the Juan Antonio de la Vega prison. There were credible reports that criminal rings engaged in extortion and racketeering freely within the prison. Authorities regularly confiscated cell phones and SIM cards from inmates but lacked sufficient funds to install cell phone-blocking equipment or fund a canine unit to detect contraband.</p>
+<p>Prisons lacked adequate security controls and prison guard staffing, especially at Tacumbu prison. Inmates frequently carried handmade weapons and committed acts of violence, particularly against other inmates. There were reports of inmates raping other prisoners. There were six prison riots during the year.</p>
+<p>Tacumbu and Ciudad del Este prisons and the Emboscada, Coronel Oviedo, and Itagua juvenile facilities lacked adequate temperature control systems, particularly during the hot summer months. Some prisons, especially Tacumbu and Ciudad del Este, had cells with inadequate lighting in which prisoners were confined for long periods without an opportunity for exercise. Sanitation and medical care were adequate, but some prisons lacked sufficient medical personnel for all shifts. Adherence to fire prevention norms was lacking, and several prisons, especially Tacumbu and Ciudad del Este, were at risk for fires caused by electrical short circuits due to inmates overloading electric installations with personal appliances.</p>
+<p><u>Administration</u>: Visitors reportedly needed to offer bribes to visit prisoners, hindering effective representation of inmates by public defenders. During the year the Justice Ministry’s Internal Affairs Office continued random, unannounced visits of several prisons begun in 2014.</p>
+<p>Independent authorities investigated credible allegations of inhuman conditions. During the year the Justice Ministry’s Human Rights Unit implemented new protocols to address the allegations, including adequate prison accommodations for prisoners with physical disabilities or special needs; immediate interventions in cases of human rights abuses of inmates; and greater access to justice for inmates with mental disabilities.</p>
+<p><u>Independent Monitoring</u>: The government granted the media, independent civil society groups, and diplomatic representatives access to prisons with prior coordination. Representatives of the media, UN Commission Against Torture (UNCAT), the NMPT, Ombudsman’s Office, and other NGOs conducted regular prison visits.</p>
+<p><u>Improvements</u>: The Justice Ministry created a Directorate for Legal Review of Inmate’s Cases, which provided legal assistance, orientation, and pro bono legal advice to 3,500 inmates during the year. The ministry also secured the release of 50 inmates who had served time beyond that set forth in their original sentences because of negligence, delays in proceedings, and lost files by judges and administrative staff in the judicial branch.</p>
+<p>The Justice Ministry inaugurated a new software system, TEKOVE, which allowed the ministry to digitize and centralize all inmate files. The software monitored all prison transfers as well as all inmate legal, disciplinary, and personal records.</p>
+<p>In July the ministry inaugurated several new cellblocks in the Encarnacion prison in which inmates are unable to use personal appliances.</p>
+<p>During the year the Justice Ministry inaugurated vocational training programs in several penitentiaries. The ministry signed a public-private partnership agreement with the Tokyo-based Fujikura Company to set up and finance an auto parts assembly factory within the women’s prison in Ciudad del Este. The ministry also set up a shoe factory in the Tacumbu prison, a carpentry workshop in La Esperanza industrial prison, and other factories in several prisons.</p>
+<p>In response to observations by the NMPT and CODEHUPY, the Justice Ministry improved access to health services for female prisoners in the Buen Pastor prison. Coordination with the Ministry of Health improved, and there was an increase in medical services related to drug rehabilitation, HIV and tuberculosis prevention, and mental health in all prisons.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, but CODEHUPY reported several cases of arbitrary arrest and detention of persons without a warrant. Without an arrest warrant signed by a judge, the law stipulates that persons detained must appear before a judge within 24 hours for an initial hearing. Police may arrest a person apprehended in the act of committing a crime without a warrant and detain the suspect for up to six hours, and the Attorney General’s Office may detain persons up to 24 hours.</p>
+<p>On September 10, the NMPT filed a criminal complaint against military personnel in Yby Yau, Concepcion Department, for the illegal detention of a 17-year-old girl on September 6. Military forces detained the teenager on suspicion that she was a member of the ACA guerrilla group. The NMPT complaint argued that a judge, not a prosecutor, should have issued the minor’s arrest warrant and that police officers, not military personnel, should have carried out her arrest.</p>
+<p>Citing provisions of the derogated 1914 penal code, police detained persons without a warrant or motive if they were not able to present their personal identification documents.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The National Police, under the authority of the Interior Ministry, are responsible for preserving public order, protecting the rights and safety of persons and entities and their property, preventing and investigating crimes, and implementing orders given by the judiciary and public officials. The constitution charges military forces with guarding the country’s territory and borders.</p>
+<p>The law authorizes the president to mobilize military forces domestically against any “internal aggression” endangering the country’s sovereignty, independence, and the integrity of its democratic constitutional order. The law requires the president to notify Congress, within 48 hours, of a decision to deploy troops. By law the president’s deployment order must define geographic location, be subject to congressional scrutiny, and have a set time limit. As of October 1, a total of 829 personnel from the Joint Task Force (FTC), consisting of personnel from the armed forces, National Police, and the National Anti-narcotics Secretariat (SENAD), were deployed to the departments of Concepcion, San Pedro, and Amambay.</p>
+<p>The Defense Ministry, also under the president’s authority but outside the military’s chain of command, handles some defense matters. The ministry is responsible for the logistical and administrative aspects of the armed forces, especially the development of defense policy.</p>
+<p>The law authorizes the SENAD and the National Police’s Counterterrorism and Anti-Narcotics Units, both under the president’s authority, to enforce the law in matters related to narcotics trafficking and terrorism. Civilian authorities are in charge of the security forces, but the media and NGOs reported cases of abuse by individual members of the military and police.</p>
+<p>SENAD coordinates counternarcotic efforts and prevention of drug use. The law provides for SENAD to lead operations in coordination with the Attorney General’s Office and judiciary. To arrest individuals or use force, SENAD must involve members of the National Police in its operations, but it often did not do so with the presence of national police or prosecutors.</p>
+<p>The Human Rights Unit of the Attorney General’s Office and the Disciplinary Review Board of the National Police are responsible for determining whether police killings legitimately occurred in the line of duty. The military justice system has jurisdiction over active military personnel.</p>
+<p>Members of security forces allegedly committed abuses and crimes with impunity. A special unit in the Attorney General’s Office investigated 142 cases of excessive use of force (compared with 290 in 2014), opened 19 cases of torture (compared with 39 in 2014), and investigated six cases of improper prosecution of innocents (compared with one in 2014). There was no information as to whether any of these cases resulted in convictions or sentences.</p>
+<p>The National Police struggled with inadequate training and funding and with widespread corruption. National Police authorities began to investigate, punish, and discharge members involved in crimes and administrative violations.</p>
+<p>From January to November, the National Police’s disciplinary tribunal discharged 15 police officers involved in a variety of criminal activities, including homicide, drug trafficking, robbery, rape, kidnapping, arms trafficking, dereliction of duty, and insubordination.</p>
+<p>Several human rights NGOs and the media reported incidents of police involvement in homicides, rape, arms and narcotics trafficking, car theft, robbery, extortion, and kidnapping, with such abuses particularly widespread in Ciudad del Este and other locations on the border with Brazil.</p>
+<p>Some prosecutors reportedly conspired with police and criminal organizations to extort and blackmail individuals. On June 7, a court sentenced former prosecutor Gustavo Gamba to four years in prison for aggravated bribery in a 2009 case. The courts also convicted Gamba’s colleague, Emmanuel Portillo, of the same charges and sentenced him to three years and six months in prison.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Police may arrest individuals with a warrant or with reasonable cause. The law provides that after making an arrest, police have up to six hours to notify the Attorney General’s Office, at which time that office has up to 24 hours to notify a judge if it intends to prosecute. The law provides detainees with the right to prompt judicial review of the legality of their detention, and authorities respected this right and generally informed detainees promptly of the charges against them. Defendants have the right to initiate habeas corpus, habeas data, and other court proceedings to decide the lawfulness of detention or otherwise obtain a court-ordered release. Defendants have the right to sue the state for unlawful detention.</p>
+<p>The law allows judges to use measures such as house arrest and bail in felony cases. According to civil society representatives and legal experts, in misdemeanor cases, judges frequently set bail too high for many poor defendants to post bond. At the same time, they reported that authorities set minimal or no bail for the wealthy or for those with political connections.</p>
+<p>The law grants defendants the right to hire counsel, and the government provides public defenders to those who cannot afford counsel. According to CODEHUPY, heavy caseloads adversely affected the quality of representation by public defenders. Detainees have access to family members.</p>
+<p><u>Arbitrary Arrests</u>: The law prohibits arbitrary arrest and detention, but the government did not always respect these prohibitions. Without an arrest warrant signed by a judge, the law stipulates that persons detained must appear before a judge within 24 hours for an initial hearing. CODEHUPY reported several cases of arbitrary arrest and detention of persons without a warrant.</p>
+<p><u>Pretrial Detention</u>: The law permits detention without trial for a period equivalent to the minimum sentence associated with the alleged crime, a period that could range from six months to five years. Approximately 79 percent of prisoners were in pretrial detention; such detentions were frequently long, and some officials held detainees beyond the maximum time allowable.</p>
+<p><u>Amnesty</u>: The President’s Office annually pardons inmates after a thorough review of their behavior and nature of their crimes by a Justice Department-led interinstitutional commission. On January 1, the President’s Office pardoned nine prisoners.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution provides for an independent judiciary; however, undue external influence seriously compromised the judiciary’s independence. Politicians and other interested parties routinely attempted to influence investigations and pressure judges and prosecutors. Judicial selection and disciplinary review board processes were highly politicized, with specific seats allocated by law to senators, deputies, presidential nominees, lawyer’s unions, law professors, and Supreme Court justices.</p>
+<p>During the year the Council of Magistrates (CEM) utilized a newly developed process to improve transparency in selecting judicial sector officials. The process uses computer software to rank applicants based on their academic and professional credentials. The CEM opens hearings to the public and invites public comment. Ultimately, political considerations may play a deciding role, but the process filtered egregious candidates and yielded one new Supreme Court justice during the year.</p>
+<p>Courts were inefficient and subject to corruption. There were also accusations that judges and prosecutors solicited or received bribes to drop or modify charges against defendants. Authorities generally respected court orders.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, which the judiciary nominally enforced through a lengthy trial process.</p>
+<p>All trials are open to the public. Defendants enjoy a presumption of innocence and a right of appeal. Both defendants and prosecutors may present written testimony from witnesses and other evidence. Defendants have the right of access to state evidence relevant to their cases and may confront adverse witnesses, except in cases involving domestic or international trafficking in persons, in which case victims may testify remotely or in the presence of the defendant’s lawyers. They have the right to prompt information and detail of the charges that they face as well as access to free interpretation services. Defendants have the right to communicate with an attorney of their choice or one provided at public expense. Defendants have the right to a reasonable amount of time to prepare their defense and to access their legal files. Defendants are not compelled to testify or confess guilt and may choose to remain silent. Defendants do not enjoy the right to a trial by jury because the legal system does not contemplate trials by jury, but rather through a panel of three judges.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens have access to the courts to file lawsuits seeking damages for, or cessation of, human rights violations. There are administrative and judicial remedies for alleged wrongs, and authorities generally granted them to citizens. The court may order civil remedies including fair compensation to the person injured. The government experienced problems enforcing court orders in such cases.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>The government generally enforced court orders with respect to seizure, restitution, or compensation for taking private property. Systemic inadequacies within the land registry system prevented the government from compiling a reliable inventory of its landholdings.</p>
+<p>On August 3, the lawyer for Luis Anibal Schupp, mayor of San Carlos del Apa, Concepcion, filed a recusal request against an appellate court in proceedings to dismiss criminal charges against a family evicted from their land. Some observers considered this an attempt to stall an earlier 2014 case, which alleged that Schupp used his influence to initiate the eviction of Vilmar and Joel Eisen from their 4,305-acre property in the city of Mayor Otano, Itapua. The Supreme Court’s decision on dismissing the charges was pending at the end of the year.</p>
+<p>According to the National Land Registry service’s latest available report, in 2012 there were more than 148 million acres of registered property, exceeding the country’s actual size of 100.3 million acres. There were 47.7 million acres of redundant land titles and credible allegations of the complicity of judges and public officials to falsify land titles to usurp property from legitimate owners.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such actions, and the government generally respected these prohibitions, but there were reports that members of security forces failed to respect the law in certain instances. CODEHUPY, the NMPT, and some national legislators alleged FTC personnel in the departments of Concepcion, San Pedro, and Amambay searched homes and schools without warrants.</p>
+<p>On July 22 and 23, the head of the Motorized Police Unit, Ramon Avila, led a group of armed police and private security officers in attempts to evict a family at a private residence without judicial orders and outside of his jurisdiction. The group reportedly threatened to kill the residents and ordered them to leave the premises. A relative of the family called the local police station and authorities successfully intervened on both occasions. The residents filed a complaint with the Attorney General’s Office, and the case was pending at year’s end.</p>
+<p>On July 29, Daniel Viveros Benitez filed a complaint against four armed police officers for illegal entry, search, and detention. The police officers demanded that Viveros pay Gs. 500,000 ($80) to avoid arrest. Viveros’ complaint was pending with the Attorney General’s Office at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1guse">
+<a class="goto" name="section1guse"></a>
+<h2>g. Use of Excessive Force and Other Abuses in Internal Conflicts</h2>
+<div class="sub-section_content">
+<p><u>Killings</u>: On November 16, the FTC reported they killed four ACA members, including its leader Alfredo Jara Larrea, during a raid in an encampment near Yby Yau, Concepcion Department. The FTC reported no government casualties. The press reported FTC personnel defended themselves when the raid turned into a firefight. Family members questioned the government’s account of the raid and alleged that the four were executed.</p>
+<p>On January 28, the EPP kidnapped, tortured, and killed Robert Natto and his wife Erika Reiser on their ranch near Yby Yau, Concepcion Department. According to reports, the EPP was planning to demand a ransom payment for the German couple before they killed them during a firefight with security forces. While the EPP claimed security forces shot the couple during the encounter, autopsies indicated they had died execution style.</p>
+<p>On December 18, in Kurusu de Hierro, Concepcion, the FTC killed alleged EPP member Julian Ojeda Espinola while he was hunting at night. Family members denied Espinola had any links with the EPP and stated they would file complaints to human rights bodies.</p>
+<p><u>Abductions</u>: On August 8, the EPP kidnapped Abraham Fehr, a Paraguayan-Mexican dual national farmer from Tacuati, San Pedro. According to reports, the EPP kidnapped Fehr and his employees directly from his property. They released the employees shortly after the abduction but kept Fehr captive. The EPP initially demanded $500,000 for Fehr’s release, but his family publicly stated they were unable to comply with this demand. Days later the EPP lowered their demand to $20,000. On October 13, the Interior Ministry reported that Fehr was alive, but his whereabouts and conditions were unknown at year’s end.</p>
+<p>In December 2014 the EPP released 16-year-old Arlan Fick whom they had kidnapped the previous April. The EPP had demanded the family pay a ransom of $500,000 and distribute an equal amount of food and supplies to nearby communities.</p>
+<p><u>Physical Abuse, Punishment, and Torture</u>: Several civil society groups publicly criticized the FTC for human rights violations in the northeastern region of the country. The Catholic Church, the NMPT, and UNCAT denounced the FTC’s use of force against suspected EPP and ACA members as excessive, abusive, and arbitrary. On April 1, UNCAT criticized the FTC and a government report defending its actions during a 2014 raid near Kurusu de Hierro.</p>
+<p>There were credible reports that EPP and ACA members tortured or physically abused police officers and civilians before executing them.</p>
+<p><u>Child Soldiers</u>: According to government and press statements, the EPP and ACA increased their recruitment of children and adolescents to participate in military operations and serve in logistical and communication support roles. In December 2014 authorities discovered additional video evidence of two minors participating as combatants in the ACA. On September 6, authorities detained a female minor who had appeared bearing weapons in recently released ACA promotional materials. On October 19 and 28, authorities detained two minors participating as combatants in the ACA. Authorities estimated that ACA had two additional minors in its ranks. Civil society NGOs such as the Coordinator for the Rights of Infants and Adolescents and the Peace and Justice Service denounced EPP and ACA recruitment of children.</p>
+<p>Most EPP and ACA child soldiers reportedly were relatives of adult EPP and ACA members. They started in logistical support roles, carrying supplies to EPP and ACA members in the field and serving as lookouts, and later were incorporated as full-time combatants, usually at ages 14 to 16.</p>
+<p>See the Department of State’s annual <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section2"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law and constitution provide for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Violence and Harassment</u>: Journalists occasionally suffered harassment, intimidation, and violence, primarily from drug-trafficking gangs and criminal groups but also from politicians and police. The media and international NGOs reported several such incidents against journalists.</p>
+<p>Independent journalist Paulo Lopez Centurion’s 2014 case against the police for arbitrary detention, torture, and robbery remained pending at year’s end. On April 15, the Attorney General’s Office dropped its pending charges against Centurion for assaulting a police officer.</p>
+<p>On March 5, authorities arrested the former mayor of Ypehu, Vilmar “Neneco” Acosta, in a joint Paraguayan-Brazilian police operation in Brazil. The Attorney General’s Office charged Acosta with ordering the assassinations of ABC Color journalist Pablo Medina and his assistant Antonia Chamarro in October 2014. Soon after Medina’s death, Acosta fled to Brazil. On November 17, Brazilian authorities extradited Acosta to Paraguay to face trial. Authorities continued to search for two suspects, Wilson Acosta Marques and Flavio Acosta Riveros, who they accused of killing Medina and Chamarro. The case was pending at year’s end.</p>
+<p><u>Libel/Slander Laws</u>: Politicians sometimes responded to media criticism by invoking criminal libel and slander laws and suing the media to intimidate journalists and suppress further investigations. Defamation is punishable by up to three years’ imprisonment and significant fines.</p>
+<p>On April 4, Supreme Court Justice Gladys Barreiro filed a libel and slander lawsuit against radio journalist Roberto Perez for questioning her mental stability. Perez made statements during his radio talk show on February 4 alleging that Barreiro was involved in influence peddling and ethical breaches as a member of the Magistrates Review Board. The case was pending at the end of the year.</p>
+<p><u>Nongovernmental Impact</u>: There were reports that EPP guerillas in San Pedro and Concepcion and criminal gangs in Pedro Juan Caballero harassed, threatened, and killed journalists. On March 9, two unknown assailants on a motorcycle shot and killed Paraguayan radio journalist Gerardo Seferino Servian in the Brazilian border town of Ponta Pora. Servian worked as a radio journalist for Radio Ciudad Nueva in the nearby Paraguayan city of Zanja Pyta. He had been reporting on municipal corruption. According to his brother, Servian was critical of Marcelino Rolon, the mayor Zanja Pyta. The Prosecutor’s Office opened an investigation, which was pending at year’s end.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content, and there were no credible reports the government monitored private online communications without judicial oversight.</p>
+<p>The International Telecommunication Union (ITU) reported 43 percent of inhabitants used the internet in 2014. This did not reflect the existing and growing number of individuals who had access to the internet at work or through cell phones and smart phones. According to the ITU, there were 106 cell phones for every 100 citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights.</p>
+<div class="sub-sub-section"><h3>Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>On August 26, police injured 30 trade union members with rubber bullets during a demonstration in front of the Labor Ministry. Seven unions organized the demonstrations to call for respecting the rights to organize, protest, and strike. Reports indicated that protesters threw rocks, heavy objects, and fireworks at riot police (see section 7.a.).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/religiousfreedomreport/">www.state.gov/religiousfreedomreport/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government’s National Commission of Refugees cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, returning refugees, asylum seekers, stateless persons, or other persons of concern. The NGO Committee of Churches for Emergency Aid acted as the local legal representative of the United Nations.</p>
+<p><u>Foreign Travel</u>: By law authorities may deny the issuance of passports to citizens who do not show proof they have met their tax obligations.</p>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. The government accepted 36 Syrian refugees for resettlement during the year, with approximately 20 applications pending.</p>
+<p><u>Durable Solutions</u>: The government has provisions for integration, resettlement, and return of refugees. A UNHCR report noted that the country received 153 refugees and 13 asylum seekers during 2014.</p>
+<p>Authorities permitted persons whose asylum or refugee status cases were refused to seek other migration options, including obtaining legal permanent residency in Paraguay or returning to the most recent point of embarkation. The government did not assist in the safe, voluntary return of refugees to their homes, but rather relied on UNHCR assistance to facilitate such returns.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Freedom to Participate in the Political Process<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section3"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 3. Freedom to Participate in the Political Process" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution and laws provide citizens the ability to choose their government in free and fair periodic elections based on universal and equal suffrage, and citizens exercised that right.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: On November 15, the country held nationwide multiparty municipal elections with international observers from the Organization of American States (OAS), Union of South American Nations, and Inter-American Union of Electoral Organizations. The OAS characterized the elections as free and fair. The OAS observer mission also highlighted that the Supreme Electoral Justice Tribunal opened polling stations and disseminated results in a timely manner. Observers noted several shortcomings, however, including the weakness of campaign financing regulations.</p>
+<p><u>Political Parties and Political Participation</u>: The ANR and the Liberal Party had long-standing control of the political process. The parties exercised strong influence over the Supreme Court, lower courts, and the selection and disciplining of judges and prosecutors. Both traditional parties had significant influence over the modification and creation of electoral laws through their congressional majorities. Representatives from all political parties governed the supervisory unit of electoral bodies.</p>
+<p>New, small, and nontraditional political parties faced hurdles in securing sizable congressional representation due to seat allocation formulas in the electoral code, which favor larger parties.</p>
+<p>The electoral code restricts voters to selecting slates of candidates (that are drawn up by party leaders), rather than individual candidates. Candidates running for executive office, such as for president, mayor and governor, run on individual ballots. Independent candidates face obstacles in setting up and running campaigns, since by law they must form a movement or political party and present a minimum number of candidates in a slate in order to compete.</p>
+<p><u>Participation of Women and Minorities</u>: Although there were no legal impediments to participation by minorities or indigenous persons in government, no indigenous persons or members of minorities served as a governor or in the cabinet, legislature, or Supreme Court.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section4"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, but the government generally did not implement the law effectively. Officials in all branches and at all levels of government frequently engaged in corrupt practices with impunity. Cases typically spent several years in the courts. Under a law that prohibits court cases from lasting longer than four years, politicians convicted in lower courts routinely avoided punishment by filing appeals and motions until reaching the statute of limitations.</p>
+<p><u>Corruption</u>: During the year several high-profile public-sector corruption cases resulted in both voluntary and forced resignations. In some instances the Attorney General’s Office indicted individuals for corruption and convicted at least three former ministerial level officials for acts committed under previous administrations. Nevertheless, impunity continued to be pervasive.</p>
+<p>On May 19, the Attorney General’s Office indicted former national police commander Francisco Alvarenga and remanded him to house arrest for illicit enrichment. President Cartes removed Alvarenga from his post on May 18 due to allegations that he and his son had stolen and sold gasoline worth more than Gs. 1.2 billion ($200,000) from police motor pool facilities. The case was pending at year’s end.</p>
+<p><u>Financial Disclosure</u>: The constitution requires all public employees, including elected officials and employees of independent government entities, to disclose their income and assets within 15 days after taking office or receiving an appointment and again within 15 days after finishing their term or assignment. Public employees must also disclose assets and income of spouses and dependent children.</p>
+<p>The law mandates the Comptroller’s Office to monitor and verify disclosures, which may make income and asset disclosures public only at the request of the executive branch, Congress, the Attorney General’s Office, or judicial authorities. The Attorney General’s Office occasionally opened investigations for inconsistencies in the disclosures.</p>
+<p>The law bars public employees from government positions for up to 10 years for failure to comply with financial disclosure laws and imposes monetary fines of up to Gs. 19.1 million ($3,350). The law obligates the Comptroller’s Office to monitor all disclosures. Filings often were late, incomplete, or misleading. In addition, many simply did not disclose their finances. Legislators generally ignored the law with impunity, using political immunity to avoid investigation or prosecution. During the year the Superior Court of Electoral Justice suspended and terminated 142 employees for not meeting reporting requirements.</p>
+<p><u>Public Access to Information</u>: The constitution guarantees public access to government information. Citizens and noncitizens, including foreign media, had access to government information.</p>
+<p>On September 17, the president officially signed the implementing regulations bringing the 2014 Access to Public Information Law into effect, which require all government agencies to provide requested information within 15 days.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section5"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>More than 50 domestic and international human rights groups operated generally without government restriction, investigating and publishing their findings on human rights cases.</p>
+<p>Government officials generally cooperated with domestic NGOs and met with domestic NGO monitors and representatives but often did not take action in response to their reports or recommendations.</p>
+<p>Amnesty International (AI) alleged that the government supported efforts to limit AI activities related to a high-profile case involving a 10-year-old girl raped by her stepfather. AI advocated for the girl to have access to an abortion. In May the Health Ministry permitted an NGO, CitizenGo, to post a link on the ministry’s official website to gather petitions to expel AI from the country, although the government took no action to do so.</p>
+<p>Representatives from two local human rights NGOs reported being harassed by unidentified individuals on several occasions. One claimed to have been followed, and another reported disruptions to online systems. Both stated they had received threatening e-mails and text messages regarding their investigation of specific human rights cases.</p>
+<p><u>Government Human Rights Bodies</u>: Although the term of Ombudsman Manuel Paez Monges, the country’s primary human rights advocate, expired in 2006, he continued to serve because the Chamber of Deputies had not yet voted for a replacement. The ombudsman employed approximately 160 lawyers and support personnel. Human rights organizations, victims of the Stroessner dictatorship, and several congressional members strongly criticized the ombudsman for what they considered ineffective and negligent handling of more than 20,000 backlogged compensation cases for victims of the Stroessner dictatorship. His office lacked independence, published no reports during the year, and had not issued an annual report on human rights to Congress since 2005.</p>
+<p>The Senate and Chamber of Deputies Committees on Human Rights made frequent fact-finding trips within the country, including visits to several prisons, and issued occasional reports. The committees held 49 meetings, ruled on three legislative proposals pertaining to human rights, held seven public hearings on human rights topics, and responded to constituent inquiries about human rights problems.</p>
+<p>The NMPT has the legal prerogative to visit and inspect, without judicial authorization, any prison, police station, military installation, children’s shelter, and retirement home. An inter-institutional commission composed of representatives from the three government branches and civil society selects NMPT commissioners. During the year the NMPT made several inspection visits and participated in public hearings on hazing against cadets.</p>
+<p>Several government ministries had human rights offices to monitor compliance with human rights legislation. The Justice Ministry’s Human Rights Office coordinates with all human rights offices and is responsible for the implementation of the National Plan for Human Rights.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section6"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The constitution prohibits discrimination based on race, sex, disability, language, or social status, but the government did not effectively enforce these provisions.</p>
+<p>There is no comprehensive law against discrimination, which undermined enforcement of the constitutional clause against discrimination and the protection and restitution for victims of discrimination and societal abuses. Women, LGBTI persons, indigenous persons, and persons of African descent faced discrimination.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, and provides penalties of up to 10 years in prison for rape or sexual assault. If the victim is a minor under age 18, the sentences range from three years to 15 years in prison. According to the Attorney General’s Office, rape continued to be a significant and pervasive problem. The government generally prosecuted rape allegations and sometimes obtained convictions; however, many rapes went unreported due to fear of stigma or retribution. The Attorney General’s Office lacked a specialized unit for cases of gender violence and abuse of children and adolescents. The specialized unit for human trafficking and commercial sexual exploitation of children of the Attorney General’s Office was at times assigned cases, but it lacked sufficient resources. Police were responsive but generally did not put high priority on rape reports.</p>
+<p>For sexual abuse of a minor, the law sets the maximum sentences at imprisonment of up to three years or penalty fee. For cases involving intercourse, authorities can increase the sentence 10 years. According to National Secretariat for Children and Adolescents, there were more than 400 cases of sexual abuse of minors in the first half of the year.</p>
+<p>In April health officials denied an abortion for a 10-year-old girl allegedly raped and impregnated by her stepfather. Although the girl’s mother petitioned the Health Ministry for permission due to the health risk associated with pregnancy for such a young girl, the law allows abortion only when a mother’s life is in danger, and officials declared the girl appeared to be healthy. The UN High Commissioner for Human Rights and NGOs condemned the decision as well as the detention of the girl’s mother, who had filed several police reports alleging abuse in 2014. The girl gave birth by Caesarean section on August 13, and the stepfather remained in custody awaiting trial at the end of the year. Authorities charged the 10-year-old’s mother for negligence but acquitted her of all charges on November 11.</p>
+<p>Although the law criminalizes domestic violence, including psychological abuse, and stipulates a penalty of two years in prison or a fine if convicted, it requires the abuse be habitual and the aggressor and victim be “cohabitating or lodging together.” Judges typically fined those convicted but began sentencing offenders to jail to provide for the safety of the victim. Despite increased reports of domestic violence, individuals often withdrew complaints soon after filing due to spousal reconciliation or family pressure. In some cases the courts mediated domestic violence cases. Domestic violence was common, and thousands of women received treatment for injuries sustained in domestic altercations. On August 5, the Attorney General’s Office charged a woman for domestic violence against her spouse, which the media claimed was the first time the Attorney General’s Office had prosecuted such a case. The case was pending at year’s end.</p>
+<p>The Ministry of Women’s Affairs took action to combat domestic violence, including promoting the national 24-hour telephone hotline for victims.</p>
+<p>The ministry offers domestic violence victims information, counseling, and psychological and legal support.</p>
+<p>The Ministry of Women’s Affairs operated a shelter for female victims of trafficking or domestic violence in Asuncion. The ministry also coordinated victim assistance efforts, public outreach campaigns, and training with the National Police and health-care units. The ministry, the Attorney General’s Office, and women’s NGOs provided health and psychological assistance, including shelter, to victims. The ministry also provided victim assistance courses for police, healthcare workers, and prosecutors. In 2014 the workshops on domestic and gender-based violence reached 3,512 persons.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment and stipulates a penalty of two years in prison or a fine; however, sexual harassment remained a widespread problem for many women, especially in workplace environments. Prosecutors found sexual harassment and abuse claims difficult to prove because of victims’ fear of workplace retaliation and societal pressures against victims, many of whom dropped their complaints or were unwilling to continue cooperating with prosecutors.</p>
+<p>On October 27, the Public Ministry charged Angel Gomez Verlangieri, mayor of the city of Limpio, with sexual harassment and invasion of privacy. The victim alleged that the sexual harassment began when she was a minor. The case was pending at year’s end.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals generally have the right to decide the number, spacing, and timing of their children; manage their reproductive health; and have access to information and means to do so. Reproductive health services were concentrated in cities, and rural areas faced significant gaps in coverage.</p>
+<p><u>Discrimination</u>: Women generally enjoyed the same legal status and rights as men. Nonetheless, gender-related discrimination was widespread. Women experienced more difficulty than men did in employment and occupation (see section 7.d.). Women generally obtained employment as domestic workers, secretaries, sales staff, and customer service representatives.</p>
+<p>According to the World Economic Forum’s <i>2014 Global Gender Gap Report</i>, on average women earned 55 percent of men’s wages for comparable work.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Nationality derives from birth within the country’s territory, from birth to government employees in service abroad, or from birth to a citizen residing temporarily outside the country. Hospitals immediately register births. Citizenship conveys to all nationals who attain the age of 18 as well as to older persons upon naturalization. Birth certificates and national identity documents are a prerequisite to access government services, including obtaining a passport.</p>
+<p><u>Education</u>: Education is free, compulsory, and universal from kindergarten through secondary school. According to the government, girls from rural families tended to leave school at a younger age than did boys. Approximately 10 percent of children from poor families did not have access to schooling, due to a lack of funds or early entrance into the workforce.</p>
+<p><u>Child Abuse</u>: The Coalition for the Rights of Children and Adolescents and the Secretariat of Children and Adolescents (SNNA) stated violence against children was widespread and equally prevalent among rural and urban families. During the year the Attorney General’s Office reported 761 cases of child abuse.</p>
+<p>There were no government shelters for abused children. Local Catholic charities operated several children’s homes and orphanages. In many cities the municipal council for children’s rights assisted abused and neglected children.</p>
+<p>According to the SNNA and the NMPT, there were approximately 60 children’s shelters, which housed more than 2,000 children. The SNNA worked with the UN Children’s Fund (UNICEF) to strengthen the child protection system and improve government receptiveness to claims of abuse.</p>
+<p><u>Early and Forced Marriage</u>: The government increased the minimum legal age for marriage from 16 to 18 through a law published on May 11. Parental consent is required for those ages 16 to 18. The law permits marriage for those younger than age 16 only with judicial authorization under exceptional circumstances. Marriages were more common in indigenous and rural populations for those younger than 18. There were no reports of forced marriage.</p>
+<p><u>Sexual Exploitation of Children</u>: Sexual exploitation of children, principally in prostitution, was a serious problem. According to the SNNA, many children were exploited in prostitution or forced into domestic service. The law provides penalties of up to six years’ imprisonment for prostitution of victims between the ages of 14 and 17 and eight years’ imprisonment for victims younger than 14.</p>
+<p>The minimum age of consent is 14 when married and 16 when not married. While there is a statutory rape law for those under 14, the maximum penalty is a fine for opposite-sex partners and prison for same-sex partners. The law was not effectively enforced. The penal code prohibits the production, distribution, and possession of pornography involving children or adolescents younger than age 18. Production of pornographic images of children may result in a fine or up to three years in prison. Authorities may increase this penalty to 10 years in prison depending on the age of the child and the child’s relationship to the abuser.</p>
+<p>During the year the Attorney General’s Office reported 1,318 cases of sexual abuse against children, compared with1,698 cases in 2014.</p>
+<p><u>Institutionalized Children</u>: The NMPT has the responsibility and mandate to visit and inspect children’s shelters and vie for the wellbeing of institutionalized children. The SNNA also has the responsibility for certifying, monitoring, and inspecting children shelters.</p>
+<p>An NMPT report on a July inspection of the privately run Mita Pyahu Roga shelter in Presidente Franco, Alto Parana Department, highlighted deplorable conditions, with boys and girls residing together without adult supervision or a judicial warrant. According to the report, children lacked identity documents, and many did not attend school. The NMPT subsequently reported their findings to other state agencies to remedy the situation and to move children to foster families. The Attorney General’s Office charged the owner of the shelter, Aliskair Ambrosioni, with child abuse and failure to notify authorities of a crime.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/en/legal/compliance.html">travel.state.gov/content/childabduction/en/legal/compliance.html</a> and country-specific information at <a href="http://travel.state.gov/content/childabduction/en/country/paraguay.html">travel.state.gov/content/childabduction/en/country/paraguay.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community has fewer than 1,000 members. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law nominally prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, public transportation, access to health care, or the provision of other state services. The law generally does not mandate accessibility for persons with disabilities, and most of the country’s buildings remained inaccessible.</p>
+<p>Municipalities continued to improve accessibility to public buildings and building ramps into sidewalks; traffic police fined drivers whose cars blocked access to the ramps, although many ramps are inadequate to accommodate wheelchairs.</p>
+<p>Many persons with disabilities faced significant discrimination in employment; others were unable to seek employment because of a lack of accessible public transportation. The law mandates the allocation of 5 percent of all available public employee positions, approximately 10,000 positions, to persons with disabilities. In 2013 government employees with disabilities constituted less than 1 percent of public-sector employees. The Ministry of Education estimated more than 50 percent of children with disabilities did not attend school because of lack of access to public transportation.</p>
+<p>The National Secretariat for the Rights of Persons with Disabilities is responsible for certifying disability status. No law specifically provides for access to information or communications.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Anecdotally, ethnic minorities reported discrimination in such areas as employment, credit, pay, owning and/or managing businesses, education, and housing.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>Indigenous People</h2>
+<div class="sub-section_content">
+<p>The law provides indigenous persons the right to participate in the economic, social, political, and cultural life of the country, but the law was not effectively enforced. Discrimination coupled with a lack of access to employment, education, health care, shelter, and sufficient land hindered the ability of indigenous persons to progress economically while maintaining their cultural identity (see section 7.d.).</p>
+<p>According to the General Directorate of Statistics, Surveys, and Censuses (DGEEC), the average monthly income of the indigenous population in 2008 was approximately half that of the nonindigenous population.</p>
+<p>Indigenous populations made up a more significant percentage of the population within the Chaco region, and communities there often had more difficulty accessing government and judicial services and often faced political and economic exclusion.</p>
+<p>Indigenous workers engaged as laborers on ranches earned low wages, worked long hours, received pay infrequently or not at all, and lacked medical or retirement benefits. This situation was particularly severe for indigenous persons engaged as laborers on ranches and estates in the Chaco region.</p>
+<p>The National Institute for Indigenous Affairs (INDI), the Attorney General’s Office, Justice Ministry, Labor Ministry, and Ombudsman’s Office are responsible for protecting and promoting indigenous rights. In some instances INDI lacked sufficient funding to purchase land on behalf of indigenous persons and required them to register for land at its office in distant Asuncion.</p>
+<p>The law authorizes indigenous persons to determine how to use their land, leading many of them to transfer or rent their land to nonindigenous persons, some of whom illegally harvested fish or deforested lands to cultivate fields of soybeans and other cash crops. There were also several reported cases of illegal deforestation of indigenous lands for charcoal production. There were insufficient police and judicial protections from encroachments on indigenous lands, and few indigenous communities held title to their ancestral lands. This often resulted in conflict between indigenous communities and large landowners in rural areas, which at times led to violence. On September 24, there were press reports that drug traffickers forced several indigenous laborers to work in marijuana plantations in Amambay and Concepcion.</p>
+<p>CODEHUPY and other NGOs documented widespread trafficking in persons, rape, sexual harassment, and physical abuse among women in indigenous communities. Perpetrators were often neighboring workers and employers from ranches and farms.</p>
+<p>On June 17, reports indicated that armed employees from two local businesses, Roswell Company S.A. and Kansol S.A., approached residences in the Sawhoyamaxa indigenous community and threatened them if they did not leave contested property.</p>
+<p>In 2014 President Cartes signed a bill that restored 35,600 acres of ancestral land to the Sawhoyamaxa indigenous community in compliance with a 2006 Inter-American Court on Human Rights (IAHCR) decision. Although the Supreme Court upheld the ruling, and despite the presidential order, authorities did not enforce the ruling.</p>
+<p>The government purchased sufficient land for the Yakye Axa indigenous community in 2012, in compliance with a 2005 IACHR ruling, but did not fund community development or construction of suitable access roads. On May 6, Yakye Axa leaders demanded that the government build the 22-mile road by the end of the year or they would abandon the property.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>No laws explicitly prohibit discrimination against LGBTI persons in employment, housing, access to education, or health care; all types of such discrimination, including societal discrimination, occurred frequently. Penalties for sex with a minor between ages 14 and 16 are more severe if the victim and perpetrator are of the same sex. Same-sex perpetrators are subject to up to two years in prison; the maximum penalty for opposite-sex perpetrators is a fine. CODEHUPY reported widespread police harassment and discrimination against LGBTI persons (see section 7 d.).</p>
+<p>The Attorney General’s Office is responsible for investigating discrimination cases; however, government agents often condoned such discrimination, including discrimination based on sexual orientation or gender identity.</p>
+<p>Panambi, an NGO advocating for the rights of transgender individuals, released an investigation in 2014 documenting 54 killings of transgender individuals from 1989 to 2013, with the most recent occurring in 2013.</p>
+<p>Panambi filed a criminal complaint against police officers for harassing and demanding bribes from transgender individuals working as prostitutes. According to reports police officers beat, robbed, and implicated transgender individuals as suspects in serious crimes, including drug trafficking and armed robbery.</p>
+<p>On May 3, Marian Sepulveda, vice president of Panambi, filed a complaint against Alfredo Rivaldi, coordinator of a drug rehabilitation center, for attacking her. Sepulveda escaped with injuries to her neck. Police officers detained Rivaldi and took Sepulveda to the hospital. The Prosecutor’s Office opened an investigation, and the case was pending at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>CODEHUPY noted that persons with HIV/AIDS faced discrimination as well as societal intimidation in health care, education, and employment. The NGO reported that complaints corresponded to discrimination based on sexual orientation, serological state, demand for HIV testing, gender identity, violation of the right to intimacy, and abuse of authority. The NGO referred complaints to the Attorney General’s Office and National Police for investigation. The center also established hotlines to receive complaints.</p>
+<p>The law prohibits discrimination based on HIV-positive status and protects the privacy of medical information. The law also specifically prohibits employers from discriminating against or harassing employees based on their HIV-positive status. Labor Ministry regulations forbid employers from requiring HIV testing prior to employment, but many companies did so.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section7"> </span><span class="st_twitter" st_title="Paraguay #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2015 - Paraguay - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2015%2526dlid=253033%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including related regulations and statutory instruments, provides for the right of workers to form and join independent unions (with the exception of the armed forces and police), bargain collectively, and conduct legal strikes. The law prohibits binding arbitration and retribution against union organizers and strikers. The law prohibits antiunion discrimination but does not require reinstatement of workers fired for union activity.</p>
+<p>There are several restrictions on these rights. For instance, the law requires that industrial unions have a minimum of 300 members to register, a requirement considered excessive by international standards. All unions must register with the Labor Ministry, a cumbersome process. Moreover, employers may file a writ opposing the registration, which may delay recognition. Workers may not be members of more than one union, even if they have more than one part-time employment contract. Strikes are limited to purposes directly linked to workers’ occupations. Candidates for trade union office must work for a company and be active members of the union.</p>
+<p>The Ministry of Labor, Employment, and Social Security, created in 2014, is responsible for enforcing labor rights, registering unions, mediating disputes, and overseeing social security and retirement programs. As of October the ministry signed 33 inter-institutional cooperation agreements with other government agencies, international organizations, NGOs, and private organizations.</p>
+<p>Penalties, fines, and remedies associated with discrimination against unions were generally ineffective. Inspections of antiunion discrimination to protect labor rights were rare, suffered from inadequate resources, and reportedly occurred only if requested by an aggrieved party. The ministry does not have jurisdiction to initiate or participate in antiunion litigation. Employers who fail to recognize or work collectively to bargain with a registered union face fines of 50 days’ wages, or approximately Gs. 3.5 million ($615). Employers who blacklist employees face fines of only 30 days’ wages, or approximately Gs. 2.1 million ($370). These penalties were not sufficient to deter violations.</p>
+<p>The government did not effectively enforce the law, often failing to prevent retaliation by employers who took action against strikers and union leaders. Penalties for violations included fines ranging from 10 days’ to 30 days’ wages, or approximately Gs. 700,000 to Gs. 2.1 million ($120 to $370) for each affected worker and were insufficient to deter violations. Administrative and judicial procedures were subject to lengthy delays, mishandling of cases, and corruption. The Labor Ministry often intervened, at the parties’ request, as a voluntary arbiter in labor disputes.</p>
+<p>Although the formal union registration process often took more than a year, the ministry typically issued provisional registrations within weeks of application to allow labor unions to operate. Unions with provisional registrations have the same rights and obligations as other unions.</p>
+<p>The government did not always respect unions’ freedom of association and the right to collectively bargain. Employers’ associations heavily influenced some private-sector unions. The leadership of several unions representing public-sector employees had ties to political parties and the government.</p>
+<p>Antiunion discrimination occurred. Union organizers experienced harassment and dismissal for union activities, and some workers chose not to protest due to fear of reprisal or expectations of government inaction.</p>
+<p>On August 26, police injured 30 trade union members during a demonstration organized by seven unions calling for the respect of the rights to organize, protest, and strike. Union leaders alleged that authorities and employers did not respect these rights and called for the resignation of the minister of labor. Authorities alleged protesters threw rocks, objects, and fireworks at riot police. Protesters denied the accusations.</p>
+<p>While union workers from the steel and maritime industries were unionized and often received relevant legal protections, most workers, including farmers, ranchers, and informal-sector employees, did not participate in labor unions. Many of these workers were members of farm-worker movements.</p>
+<p>On July 3, 16 employees of the La Limpena S.A. bus company crucified themselves and began a hunger strike in front of the Labor Ministry. Three other dismissed workers sewed their mouths shut with nails. The 19 protesters alleged that the company’s owner, Congressman Celso Maldonado, illegally fired them and 32 other workers for attempting to form a union to protest unpaid salaries and 16-hour workdays. The protesters demanded the rehiring of all fired coworkers and the legal recognition of their union. Labor Ministry authorities asserted the owners of the bus company had the right to fire the workers. The ministry was mediating the conflict by seeking employment for the workers with other bus companies. The bus owners’ association accused union leader Juan Villalba of instigating the protesters to crucify themselves as a means of extorting payment from the bus companies and to avoid the creation of other unions.</p>
+<p>Former workers employed by contractors in the building of the Itaipu Binational Dam, jointly owned by Paraguay and Brazil, crucified themselves as a means to demand reparations they claim employers owed to them for their work during the construction of the dam in the 1970s and 1980s. The Itaipu Binational Dam denied the claims as spurious since the workers did not have a direct labor relationship with the entity, only with its contractors.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor. The government did not effectively enforce the law. The Labor Ministry did not conduct inspections focused solely on forced labor and lacked adequate resources to carry them out, especially in remote areas where such labor was more prevalent. Penalties for violations include up to 20 years in prison. Minimal enforcement and penalties were insufficient to deter violations.</p>
+<p>There were reports of forced labor. NGOs, indigenous organizations, the Central Workers Unit, and the International Labor Organization denounced cases of indigenous workers in the Chaco region working under forced labor or debt-bondage conditions. There were also press reports that drug trafficking organizations in Amambay, Canindeyú, San Pedro and Concepcion departments recruited indigenous and nonindigenous workers into forced labor processing marijuana leaves. Workers did not receive pay, received pay in kind with substandard food items, or were forced to purchase goods at debt-inducing prices at a company store.</p>
+<p>In 2014 the Labor Ministry’s regional office in the Chaco received 56 complaints for unjustified firings, nonpayment of wages, and other labor violations. The ministry did not confirm instances of debt bondage in the Chaco region but would not dismiss the possibility that it continued to exist. This situation was severe for women in domestic service, many of whom did not receive compensation for their work and faced abuse. There were some reports of forced child labor, particularly in domestic service (see section 7.c.).</p>
+<p>A 2014 Walk Free Foundation report estimated there were 14,800 persons in the country living under conditions of modern slavery, defined by the NGO as “forced labor originating from debt, trafficked persons and forced marriages.”</p>
+<p>See the Department of State’s annual <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/">www.state.gov/j/tip/rls/tiprpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The minimum age for full-time employment is 18. On October 13, the executive branch approved legislation increasing the minimum age for employment of domestic workers from 14 to 18 years. Children must obtain parental consent in order to work until they are 18. Adolescents between the ages of 14 and 17 may work if they have a written authorization from their parents, attend school, do not work more than four hours a day, and do not work more than a maximum of 24 hours per week. Adolescents between the ages of 16 and 18 who do not attend school may work up to six hours a day, with a weekly ceiling of 36 hours. The law also permits “light work” for children between the ages of 12 and 14. The government had not adopted regulations governing the nature and conditions of the light work permitted for children.</p>
+<p>The government did not effectively enforce laws protecting children from exploitation in the workplace. The Labor Ministry is responsible for enforcing child labor laws and the Attorney General’s Office for prosecuting violators. The Ombudsman’s Office and the Child Rights Committee receive complaints and refer them to the Attorney General’s Office.</p>
+<p>During the year the Labor Ministry conducted several successful inspections. In cooperation with the National Civil Aviation Directorate (DINAC) and the Supreme Court, inspectors detected and identified teenagers who worked as shoeshine boys in government offices. The Labor Ministry also detected 12 child laborers at limestone quarries in San Lazaro and Vallemi, both in Concepcion Department.</p>
+<p>The maximum administrative penalty for employing a child under age 14 is Gs. 3.78 million ($665). The law stipulates that employers who employ adolescents between ages14 and 17 under hazardous conditions must pay the maximum administrative penalty. Penalties for employing persons in hazardous conditions or coercing persons to work range from three to five years in prison but were insufficient to deter violations.</p>
+<p>The National Commission for the Prevention and Eradication of Child Labor worked to eliminate exploitative child labor by increasing awareness, improving legal protections and public policy, and implementing monitoring systems, but resource constraints limited the effectiveness of these efforts.</p>
+<p>In the first six months of the year, the Labor Ministry received 20 complaints regarding child and adolescent workers. Of the 20 complaints, 12 were for boys and eight for girls. Most worked as metalworkers, cashiers, sales clerks, helpers, and in other service jobs. In 2014 the Labor Ministry received 48 complaints from child and adolescent workers.</p>
+<p>The National Secretariat of Children and Adolescents continued to administer the “Hug” program to assist families with children at risk of working in the streets, which as of October covered 3,125 families, comprising 11,288 children, including 3,028 children up to age eight. The program covered 27 districts in 11 departments and included 43 service centers. The program also included monetary transfers for 2,018 families and in-kind food deliveries for another 14,008 children. Another 2,800 children received nutritional supplements and other types of assistance. The SNNA’s Summer Operation programs put 803 children of street workers into shelters when school was not in session.</p>
+<p>The Secretariat for Social Action administered the Well-being (Tekopora) program that paid parents (including those of working children) a monthly stipend for their children’s schooling, vaccinations, and regular health checks. As of October the program assisted 120,407 families in 178 districts of 17 departments. Of the total number of families assisted, 8,850 were families from indigenous communities. Coverage of families in indigenous communities increased from 3 percent in August 2013 to 34 percent as of October.</p>
+<p>The secretariat also operated another social program called Tekoha, which provided housing assistance for impoverished families and their children. As of October the program assisted 12,907 families in 44 districts in 12 departments and Asuncion.</p>
+<p>Child labor was a problem, particularly in sugar, brick, and limestone manufacturing, domestic service, and agricultural sectors. A 2011 study on child labor in the sugarcane sector estimated that children constituted more than 25 percent of the sugarcane workforce, and approximately one of four of those children suffered on average two injuries a year. In 2012 the SNNA released its findings from its first and latest national study on child labor, which covered the cities of Concepcion, Vallemi, and Tobati where child labor was most prevalent. The report concluded 62 percent of children in Vallemi began working between the ages of seven and 12; 55 percent of children in Concepcion began working between ages nine and 11; and 62 percent of children in Tobati began working between ages four and six.</p>
+<p>Children, primarily boys, also worked in the manufacturing and agricultural sectors and in the restaurant and other service industries. Children also worked as vendors in markets. According to UNICEF and the SNNA, an estimated 46,000 children, primarily girls, worked as domestic servants and received no pay. In exchange for work, employers promised child domestic servants room, board, and financial support for school. Some of these children were victims of forced child labor, did not receive pay or the promised benefits in exchange for work, suffered from sexual exploitation, and often lacked access to education.</p>
+<p>The worst forms of child labor occurred where malnourished, abused, or neglected children worked in unhealthy and hazardous conditions selling goods or services on the street, working in factories, or harvesting crops. Children were used, procured, and offered to third parties for illicit activities, including commercial sexual exploitation (see also section 6, Children), sometimes with the knowledge of parents and guardians, who received remuneration. Some minors worked as drug smugglers along the border with Brazil as part of criminal syndicates. There were also reports of child and adolescent soldiers (see section 1.g.).</p>
+<p>See the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/">www.dol.gov/ilab/reports/child-labor/findings/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>The labor code specifically prohibits discrimination based on race, color, sex, religion, political opinion, and social origin. Other legislation prohibits discrimination based on disability and HIV-positive status. Laws and regulations mandate that 5 percent of public employees be persons with disabilities. These laws and regulations were often not enforced. No legislation forbids labor discrimination based on national origin, citizenship, sexual orientation, gender identity, age, language, or having a communicable disease.</p>
+<p>The government did not effectively enforce applicable law. Penalties were insufficient to deter violations. Employment discrimination mostly occurred in regards to sex, race, disability, age, language, sexual orientation, HIV-positive status, and for pregnancy. Discrimination in employment occurred with respect to women, indigenous groups, Afro-Paraguayans, and LGBTI persons (see section 6). Testing for and discrimination based on HIV and other communicable diseases was common.</p>
+<p>Discrimination against domestic workers was common. Domestic workers had lesser legal protections and wages and poorer working conditions. Undocumented migrant workers from Brazil and other countries working in the service sector in Ciudad del Este suffered discrimination. Reports indicated that foreign employers in Ciudad del Este forbade Paraguayan workers from speaking Guarani. Transgender persons faced severe labor discrimination, even from other LGBTI individuals, and many engaged in prostitution as a result.</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>In February 2014 the mandatory national minimum wage increased to approximately Gs. 1.8 million ($315) per month. According to a DGEEC, and Economic and Social Development Planning Secretariat study in 2014, the average per capita monthly income was approximately Gs. 1,419,183 ($250). Per the same report, the poverty income level was Gs. 488,332 ($85) per month, and the extreme poverty income level was Gs. 308,548 ($55) per month.</p>
+<p>New legislation enacted on October 13 entitles domestic workers to receive 60 percent of the minimum wage (Gs.1,094,433, or $190) instead of 40 percent, and mandates that housing and food count toward a domestic worker’s salary. The law stipulates that domestic employees work a maximum of eight hours per day, are entitled to overtime if they exceed these hours, and have the right to enjoy a weekly rest of 24 hours, as well as all national holidays. Additionally, the law allows domestic employees to contribute to government-sponsored insurance and retirement programs.</p>
+<p>The law provides for a standard legal workweek of 48 hours (42 hours for night work) with one and one-half day of rest. The law also mandates payment of at least one annual bonus of one month’s salary and a minimum of 12 days’ and a maximum of 30 days’ vacation per year, depending on total years of service. The law provides for paid national government holidays and requires payment for overtime. There are no prohibitions of, or exceptions for, excessive compulsory overtime.</p>
+<p>Domestic workers suffered discrimination, routinely worked 12-hour workdays, were often not paid overtime pay, rested only one day per week, were not entitled to publicly provided retirement benefits, and did not attain job stability after 10 years, unlike other workers covered by the labor code. Domestic workers were eligible for medical care and prescription medicine through small payroll and employer contributions.</p>
+<p>In August 2014 the Labor Ministry created the Directorate for the Promotion of Female Workers. Its Center for Attention of Domestic Workers collects statistics and provides services for domestic workers. As of June the center received 187 complaints from domestic workers and resolved 71.</p>
+<p>The government sets appropriate occupational health and safety standards stipulating conditions of safety, hygiene, and comfort. Although these standards were current and appropriate for the principal industries, enforcement was inadequate.</p>
+<p>On October 30, inspectors from the Labor Ministry raided a plastic bag factory, SMAT SA, in Ciudad del Este, after the company had fired 18 workers for protesting against unsafe and dangerous working conditions, long work hours, and nonpayment of minimum salary. The Labor Ministry opened an investigation, and the case was pending at year’s end.</p>
+<p>During the year the Labor Ministry received 20 complaints for unjust firings and lack of reimbursement for medical expenses, compared with 56 in 2014.</p>
+<p>The Labor Ministry did not effectively enforce provisions for overtime pay, the minimum wage, or limitations on hours of work in the formal or the informal sector. It launched public awareness campaigns aimed at employers to remind them of their labor obligations, however. The Labor Ministry and the Health Ministry did not effectively enforce occupational safety and health regulations.</p>
+<p>Following the hiring of 30 new labor inspectors in a competitive process in September, the Labor Ministry employed 40 labor inspectors that specialize in either labor and safety or occupational hygiene. As of June the Labor Ministry inspected 130 employers; in 2014, the ministry inspected 73.</p>
+<p>The ministry did not have sufficient vehicles to enforce labor laws in remote areas. The law stipulates a fine of 30 days’ wages at the minimum wage rate for an employer who pays below minimum wage, but government actions to prevent violations were limited to information campaigns. The penalties were not sufficient to deter violations.</p>
+<p>As of October the Labor Ministry’s Department of Mediation of Private Conflicts received 4,507 labor complaints and mediation requests. Men filed 65 percent of the complaints. The majority of complaints involved illegal dismissals or the failure of employers to pay the legally mandated end-of-year bonuses.</p>
+<p>Employers are obligated to register workers with the Labor Ministry. As of June approximately 1,660 employers registered 5,800 workers with the Labor Ministry.</p>
+<p>Workers in the informal economy did not receive labor law protections. The DGEEC estimated the percentage of workers who received the minimum wage or more increased from 68.9 percent in 2014 to 71.1 percent in the second semester of 2015. Many employers violated provisions requiring overtime pay, particularly in the food, agricultural, and domestic services. The UN Development Program’s 2013 Human Development and Social Security study concluded that 81.3 percent of the labor force (2,371,000) worked in informal jobs and did not enjoy retirement or health benefits. According to a 2013 survey conducted by the DGEEC, there were 107,245 domestic workers, most of them women.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

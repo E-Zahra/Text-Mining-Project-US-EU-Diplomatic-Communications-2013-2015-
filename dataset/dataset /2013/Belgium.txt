@@ -1,0 +1,512 @@
+2013
+Belgium
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258"> </span><span class="st_facebook" st_title="Belgium" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220258">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220258</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=executive"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 3/14/14; see Appendix H: Errata for more information.</em></p>
+<p>The Kingdom of Belgium is a parliamentary democracy with a limited constitutional monarchy. The country is a federal state with several levels of government: national; regional (Flanders, Wallonia, and Brussels); language community (Flemish, French, and German); provincial; and local. The Federal Council of Ministers, headed by the prime minister, remains in office as long as it retains the confidence of the lower house (Chamber of Representatives) of the bicameral parliament. Observers considered federal parliamentary elections held in 2010 to be free and fair. Authorities maintained effective control over the security forces. Security forces did not commit human rights abuses.</p>
+<p>The main human rights concern was discrimination against racial and religious minorities in employment, housing, and societal attitudes. Muslim women faced discriminatory dress restrictions in public and private sector employment, schools, and public spaces.</p>
+<p>Other human rights problems included continued prison overcrowding, violence against women and lesbian, gay, bisexual, and transgender (LGBT) persons, child abuse, and trafficking in persons.</p>
+<p>Authorities actively prosecuted and punished officials who committed abuses, whether in the security services or elsewhere in the government, and no cases of impunity were reported.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section1"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The law prohibits cruel, inhuman, or degrading treatment or punishment, and there were no reports that government officials employed these during the year.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions met most international standards, and the government permitted visits by members of parliament and independent human rights observers.</p>
+<p><u>Physical Conditions</u>: Prison overcrowding remained a problem. In 2012, on average, there were 11,330 detainees, whereas the country’s prison capacity only allowed for approximately 9,159 prisoners. In a 2013 submission to the UN Committee against Torture (CAT), Amnesty International noted that, since 1997, the number of persons detained by authorities was consistently higher than prison capacity and that the gap between the number of persons in prison and available capacity was never wider than during the year. To ease prison overcrowding, 650 inmates served part of their sentences in Tilburg Prison in the Netherlands, which operated under shared Belgian-Dutch jurisdiction.</p>
+<p>In 2012 a total of 47 inmates died in prisons. There were 548 female inmates in October 2012, constituting approximately 4 percent of the prison population. There were no specific reports of abuses or that women were treated worse than men in the seven prisons housing women. Instead of being sent to traditional prisons, juveniles are housed in centers known as “public institutions for the protection of youth,” where they underwent educational and social reinsertion programs. While most of the centers operated on an outpatient basis, the country had three institutions where juveniles were sentenced to full-time detention. These institutions had a capacity of 124 juveniles, with an average occupancy of approximately 92 persons. In its 2013 CAT submission, Amnesty International also noted that several prisons did not adhere to the principle of separating untried and sentenced prisoners, reportedly due to overcrowding.</p>
+<p>In April 2012 the Council of Europe’s Committee for the Prevention of Torture (CPT) visited the Forest and the Andenne prisons. The CPT’s report on the visit highlighted overcrowding in the Forest prison, where detention conditions in two wings were deemed to constitute inhuman and degrading treatment. The CPT also cited authorities for failing to maintain minimum prison staff levels during strikes by guards.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was adequate. Prisoners had access to potable water and recourse to a federal ombudsman. There was an increase in the use of alternative sentences in 2012, especially for nonviolent offenders. For example, community service sentences increased dramatically, from 556 cases in 2002 to approximately 11,000 in 2012.</p>
+<p>Prisoners and detainees had reasonable access to visitors and were allowed religious observance. Authorities permitted prisoners and detainees to submit complaints and allegations of inhumane conditions to judicial authorities without censorship. Authorities investigated credible allegations of inhumane conditions and documented these results in a publicly accessible manner. The government investigated and monitored prison and detention center conditions. Surveillance committees tasked with overseeing conditions of detention were active in all of the country’s prisons. Each committee consisted of six to 10 volunteers who could inform the Ministry of Justice of their findings. Observers noted that the committees lacked resources and training.</p>
+<p><u>Independent Monitoring</u>: Authorities permitted the CPT to visit prisons and detention centers. The federal mediator acts as an ombudsman, allowing any citizen to address problems with the administration. The federal mediator is an independent entity appointed for six years by the Chamber of Representatives to investigate and find solutions to problems between citizens and public institutions.</p>
+<p><u>Improvements</u>: The government began work on several buildings during the year under the master plan for reform of the prison system, which included the renovation and extension of some prisons, the replacement of the oldest ones, and the construction of several new prisons by 2018.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The federal police are responsible for internal security and nationwide law and order. Civilian authorities maintained effective control over the federal and local police and the armed forces, and the government had effective mechanisms to investigate and punish abuse and corruption.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>Under the constitution an individual may be arrested only while committing a crime or by a judge’s order carried out within 24 hours. The law provides a person in detention with the right to prompt judicial determination of the legality of the detention, and authorities generally respected this right. Authorities promptly informed detainees of charges against them and provided access to an attorney (at public expense if necessary). Alternatives to incarceration included conditional release, community service, probation, and electronic monitoring. There was a functioning bail system. According to 2012 figures, pretrial detainees made up approximately 35 percent of the total prison population.</p>
+<p>On January 1, the country began implementing the “Salduz law,” which provides a suspect the right to be accompanied by a lawyer during his or her first interrogation at a police station. On February 14, the Constitutional Court modified the Salduz law to require law enforcement investigators to inform a suspect who is not under arrest that he or she is free to leave police custody at will; entitle suspects charged with traffic offenses to legal representation, even if they have not been arrested; and deem inadmissible in court any testimony acquired during hearings in which lawyers were not present. The court ordered authorities to implement the provisions by August 31, but by the beginning of December the provisions had yet to be implemented.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, and the government generally respected judicial independence.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The constitution provides for the right to a fair trial, and the judiciary generally enforced this right. All defendants are presumed innocent and have the right to be informed promptly and in detail of the charges against them; to a fair and public trial without delay; to communicate with an attorney of choice; to have adequate time and facilities to prepare defense; to access government-held evidence; to confront witnesses against them and present witnesses and evidence; not to be compelled to testify or confess guilt; and to appeal. Defendants have a right to a trial by jury.</p>
+<p>The law gives domestic courts jurisdiction over war crimes and crimes against humanity that occurred outside the country when the victim or perpetrator was a citizen or legal resident of the country.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Individuals and organizations could seek civil remedies for human rights violations through the courts and appeal national-level court decisions to the European Court of Human Rights (ECHR).</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>The country is a party to the European Convention on Human Rights and subject to the jurisdiction of the ECHR. The government treated all ECHR decisions as binding but has not yet complied with requirements to provide adequate detention facilities for inmates in need of particular mental health treatment.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The constitution and legal code prohibit such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section2"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p><u>Freedom of Speech</u>: Holocaust denial, defamation, and incitement to hatred are criminal offenses punishable by a minimum of eight days (for Holocaust denial) or one month (incitement to hatred) and up to one year in prison and fines, plus a possible revocation of the right to vote or run for public office. If the incitement to hatred was based on racism or xenophobia, the case would be tried in the regular courts. If, however, the incitement stemmed from other motives, including homophobia or religious bias, a longer and more costly trial by jury generally would be required.</p>
+<p>In April a popular television weatherman for francophone news channel RTL published a hostile statement about the country’s Muslim community on his Facebook account. The channel terminated his contract and the Royal Institute of Meteorology, where he held a part-time job, demoted him in reaction to his statements. On December 30, a Belgian court ruled that RTL wrongfully terminated the weatherman but only awarded him a symbolic one euro in damages.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or credible reports that the government monitored e‑mail or internet chat rooms without appropriate legal authority. Individuals and groups could engage in the expression of views via the internet, including by e‑mail. According to estimates compiled by the International Telecommunication Union, approximately 82 percent of the population had access to the internet in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for freedom of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The constitution and the law provide for freedom of movement within the country, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees, including specific subsidiary protection that goes beyond asylum criteria established by the 1951 Convention relating to the Treatment of Refugees and its 1967 protocol.</p>
+<p>In 2012 the government adopted several concrete measures to combat illegal immigration, developed individual repatriation plans for asylum seekers, including those who wished to return to their home countries, and established awareness campaigns in specific countries to reduce the number of illegal migrants from those countries. While 3,870 migrants voluntarily departed the country in 2011, 5,650 did so in 2012. During the first half of the year, 2,544 illegal migrants voluntary returned to their home countries. Authorities regularized the legal status of immigrants on a case-by-case basis on grounds that included an unduly long application period, urgent humanitarian reasons, or medical grounds. Authorities regularized the status of 4,412 migrants in 2012, compared with 9,509 applicants in 2011.</p>
+<p>In July the Federal Agency for the Reception of Asylum Seekers decided to reduce the number of spaces available in shelters for asylum-seekers by several thousand by the end of 2014, since the occupation rate of state-run centers for asylum seekers had dropped to 75 percent in June, due to a faster and more efficient adjudication procedure and a decreasing number of asylum requests. While the number of overall asylum requests fell, the number of requests based on sexual orientation rapidly increased, from 376 cases in 2009 to more than 1,000 in 2012. Some observers noted that basing an asylum request on sexual orientation represented one of the last loopholes for gaining access to the country legally, since authorities had toughened conditions for approving requests based on humanitarian reasons, medical grounds, or family reunification. Despite alleged claims of asylum request abuse based on falsifying one’s sexual orientation, the country continued to review and accept legitimate requests based on actual discrimination of sexual orientation.</p>
+<p><u>Safe Country of Origin/Transit</u>: The country implemented the Dublin III Regulation. Following an ECHR ruling, authorities ceased transferring asylum seekers to Greece if it was the first EU country the asylum seeker entered.</p>
+<p><u>Refugee Abuse</u>: In 2012 authorities assigned 6,797 persons to closed centers, facilities that asylum seekers were not permitted to leave. The average stay in closed centers was 31 days. Public health and legal assistance were only available on a limited basis due to staffing shortages.</p>
+<p><u>Temporary Protection</u>: The country provides temporary protection to individuals who do not satisfy the legal criteria for refugee status but who cannot return to their country of origin due to a real risk of serious harm. Under EU guidelines, individuals granted temporary protection are supposed to be entitled to temporary residence permits, travel documents, access to employment, and equal access to health care and housing. In 2012 authorities granted temporary protection to 1,381 persons.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section3"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The constitution provides citizens with the right to change their government peacefully. Citizens exercised this right through periodic, free, and fair elections based on universal suffrage. Voting in all elections is compulsory; failure to vote is punishable by a nominal fine.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: Federal elections held in 2010 were considered free and fair.</p>
+<p><u>Participation of Women and Minorities</u>: The constitution requires the presence of men and women in federal, regional, and local governments, and the law requires an equal number of male and female candidates on party tickets in EU, federal, regional, provincial, and local elections. Failure to meet the requirement would nullify the election and render any government thereby created illegal.</p>
+<p>Following the 2010 federal elections, there were 60 women in the 150-seat federal Chamber of Representatives and 29 women in the 71-seat Senate. Six of the 19 federal cabinet ministers and state secretaries were women.</p>
+<p>There were eight members of Moroccan and Turkish origin in the Chamber of Representatives and eight in the Senate. Many political parties, citing the need to keep the public sphere free of religious symbols, compelled headscarf-wearing Muslim candidates to forego the headscarf to advance politically. For example, Mahinur Ozdemir, the first and only woman to wear a headscarf openly in the Brussels Regional Parliament, was prohibited by party guidelines from holding an executive branch post as long as she kept her headscarf.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section4"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, and the government generally implemented the law effectively.</p>
+<p><u>Corruption</u>: In March the director of the Liege Airport – who was a former mayor, member of the European Parliament, and a Walloon regional government minister– was charged with corruption following a 2007 complaint filed by a dismissed bidder for a tender by the airport.</p>
+<p><u>Whistleblower Protection</u>: During the year parliament passed a law to protect federal civil servants against sanctions or retaliation for reporting irregularities or legal offenses committed by their colleagues or supervisors in the federal public services.</p>
+<p><u>Financial Disclosure</u>: The law does not require elected officials to disclose their income or revenue, but they must report any board of directors on which they might serve, regardless of whether they would be in paid or unpaid capacity.</p>
+<p><u>Public Access to Information</u>: With some exceptions, such as material involving national security, the law provides public access to government information. The government respected this law.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section5"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Various domestic and international human rights groups operated without government restriction and were free to investigate and publish their findings on human rights cases. Government officials generally were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: Federal and regional government ombudsmen monitored and published reports on the workings of agencies under their respective jurisdictions. The government-funded Center for Equal Opportunities and Opposition to Racism (CEOOR) is responsible for promoting equal opportunity and combating all forms of discrimination, exclusion, or preferential treatment based on legally stipulated criteria. It also monitors respect for the fundamental rights of foreign nationals, observes the nature and scope of migration flows, and assists in antitrafficking efforts. The center enjoyed a high level of public trust, was independent in its functioning, and well financed by the government.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section6"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law prohibits discrimination based on race, gender, disability, language, or social status, and the government generally enforced these prohibitions. The law identifies 18 grounds of possible discrimination subject to legal penalty: age, sexual orientation, civil status, place of birth, financial situation, religious belief, philosophical orientation, physical condition, disability, physical characteristics, genetic characteristics, social status, nationality, race, color, descent, national origin, and ethnic origin. A separate law governs gender discrimination in the workplace. Under a directive issued by the Board of Prosecutors General, police and prosecutors must cite racial motivation or sexual orientation if present when reporting or recording offenses. In such instances the prosecutor must escalate the case (for example, in a racially motivated crime, the charge would additionally include a hate crime offense).</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Rape, including spousal rape, is illegal, and the government prosecuted such cases. In 2012 federal police registered 3,003 rapes, and 3,381 indecent assaults. A convicted rapist may be imprisoned from a minimum of 10 years to a maximum of 30 years depending on such factors as the age of the victim, the difference in age between offender and victim, the relationship between the pair, and the use or absence of violence during the crime.</p>
+<p>The law prohibits domestic violence and provides for fines and incarceration. In 2012 federal police registered the following complaints related to domestic violence: 20,263 complaints of physical violence between partners (22,013 in 2011), 112 for sexual violence (122 in 2011), and 19,530 for psychological violence (21,824 in 2011). The Federal Institute for Equality of Men and Women coordinated a national action plan to combat violence between domestic partners. Women from Eastern Europe, sub-Saharan Africa, and Asia were subjected to sexual exploitation.</p>
+<p><u>Harmful Traditional Practices</u>: Harmful traditional practices were a rare occurrence, with the most common practice being female genital mutilation/cutting (FGM/C). The 2010-14 national action plan of the Federal Institute for Equality of Men and Women focused inter alia on violence linked to honor and FGM/C. Specialized nongovernmental organizations (NGOs) organized several awareness campaigns against FGM/C in early 2013.</p>
+<p><u>Sexual Harassment</u>: Reliable statistics on sexual harassment were not easily accessible since formal complaints could be filed with various entities. The law aims to prevent violence and harassment at work, obliging companies to set up internal procedures to handle employee complaints. The government generally enforced the antiharassment legislation. Although a national campaign to fight sexual harassment does not exist, politicians and organizations such as the Federal Institute for the Equality of Men and Women worked to raise awareness of the dangers of sexual harassment. A number of government-supported shelters and telephone help lines were available across the country for victims of domestic abuse. In addition to providing lodging, many shelters assisted in legal matters, job placement, and psychological counseling to both partners.</p>
+<p><u>Reproductive Rights</u>: The constitution provides for complete freedom in the way that persons organize their private lives, including the basic right of couples and individuals to decide freely and responsibly the number, spacing, and timing of their children. Health clinics and local health NGOs operated freely in disseminating information on family planning. There are no restrictions on the right to access contraceptives. Men and women received equal access to diagnosis and treatment for sexually transmitted infections.</p>
+<p><u>Discrimination</u>: Women have the same legal rights as men, including rights under family law, property law, in the judicial system, in labor relations, and in social welfare protection. The law also prohibits discrimination on the grounds of gender, pregnancy, or motherhood as well as sexual intimidation in labor relations and in access to goods, services, social welfare, and health care.</p>
+<p>The Federal Institute for the Equality of Men and Women, which is responsible for promoting gender equality, may initiate lawsuits if it discovers violations of equality laws. Most complaints received during the year were work-related and most concerned the termination of employment contracts due to pregnancy. Economic discrimination against women continued. During the year the institute released a survey (based on 2010 data) indicating that women earned an hourly rate 10 percent less than their male colleagues. This represented an annual gap of 23 percent, taking into account part-time work. The law requires that one-third of the board members of publicly traded companies, but not private ones, be women.</p>
+<p>The law requires companies with at least 50 employees to provide a clear overview of their compensation plans, a detailed breakdown by gender of their wages and fringe benefits, a gender-neutral classification of functions, and the possibility of appointing a mediator to address and follow up on gender-related problems. All elements of the law have been implemented through royal decree.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The government registered all live births immediately. Citizenship is conferred on a child through the parents’ nationality.</p>
+<p><u>Education</u>: Education was free, compulsory, and universal through the secondary school level.</p>
+<p><u>Medical Care</u>: Boys and girls have equal access to state-provided medical care.</p>
+<p><u>Child Abuse</u>: In 2012 the federal police registered 147 complaints of child abandonment (169 in 2011), 221 of neglect (245 in 2011), 114 of food deprivation (137 in 2011), and 3,469 involving physical, sexual, psychological, or other child abuse within the family (3,977 in 2011). The NGO Child Focus reported handling 2,433 missing children and child abuse cases in 2012, a slight increase over 2011 (2,328).</p>
+<p><u>Forced and Early Marriage</u>: The law provides that both (consenting) partners must be at least 18 to marry. Early marriage was not a problem in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: The law provides for the protection of youth against sexual exploitation, abduction, and trafficking and includes severe penalties for child pornography and possession of pedophilic materials. The penalties for producing and disseminating child pornography range from five to 15 years’ imprisonment and from one month to one year in prison for possessing such material. The law permits the prosecution of residents who commit such crimes while abroad. The law also provides that criminals convicted of child sexual abuse must receive specialized treatment before they can be paroled and must continue counseling and treatment after their release from prison.</p>
+<p>Child Focus reported handling 706 sexual abuse cases in 2012, compared with 534 cases in 2011. The NGO continued its internet-based public awareness campaigns and in early 2012 launched a chat room as another channel for reporting alleged abuse cases. The chat room’s creation led to a substantial increase in the overall number of abuse cases that victims reported directly: 84 percent of the notifications that Child Focus received via the chat room came from the victims themselves, while only 9 percent of the cases reported by telephone came directly from victims. In 2012 the NGO received 1,394 reports of child pornography on the internet (1,479 in 2011) and forwarded such cases to specialized units of the federal police. According to official figures, the federal police investigated 392 child pornography cases in 2012 (469 in 2011).</p>
+<p>In July 2012 a court ordered the conditional release of Michelle Martin, former wife and accomplice of convicted pedophile and serial child killer Marc Dutroux, after serving only eight years of her 30-year sentence for criminal conspiracy to abduct and sequester children. Despite a wave of public indignation and prosecution efforts to keep her incarcerated, Martin was released in August 2012 to reside under supervision in a convent near Namur.</p>
+<p>The minimum age for consensual sex is 16. Statutory rape carries penalties of imprisonment from 15 to 20 years. If the victim is under the age of 10, imprisonment increases to 20 to 30 years.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see <a href="http://travel.state.gov/abduction/country/country_5788.html">http://travel.state.gov/abduction/country/country_5788.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The country’s Jewish community was estimated at 40,000 to 50,000. There were 88 reports of anti-Semitic acts in 2012, including physical attacks and verbal harassment of Jews and vandalism of Jewish property. The law prohibits public statements that incite national, racial, or religious hatred, including denial of the Holocaust.</p>
+<p>In March the Aalst Carnival featured a float that lampooned the conservative Flemish nationalist party New Flemish Alliance (N-VA) as Nazis. The float was designed to look like a Nazi rail car, like ones used to carry Jews to concentration and death camps during the Holocaust. Men on the car were dressed in full Nazi regalia along with an ultra-Orthodox Jewish boy character. The car was decorated with posters depicting pails labeled “Zyklon,” the chemical used in Nazi gas chambers to exterminate Jews. UNESCO Director-General Irina Bokova claimed to be deeply shocked by an unacceptable act insulting the six million Jews killed in the Holocaust. She concluded that the Holocaust should not be mocked as a means to comment on local political situations.</p>
+<p>In March a local office of a political party in a municipality in the Brussels Region sought to organize a debate on Zionism. The leaflet promoting the event contained a blatantly <i>Der Stuermer</i>-like anti-Semitic caricature. (<i>Der Stuermer</i> was a Nazi tabloid known for vehemently anti-Semitic views.) After a public outcry, the organizers quickly cancelled the debate and apologized for the caricature.</p>
+<p>In September an anti-Semitic cartoon comparing Israel to Nazi Germany that appeared on the Flemish Education Ministry’s website was taken down.</p>
+<p>In November the EU’s Fundamental Rights Agency released a survey on discrimination and hate crimes against Jews in eight EU Member States, including Belgium. According to the survey, approximately one-third of Belgian Jews stated that they had experienced anti-Semitic harassment in the past 12 months, while 38 percent stated they had experienced this in the past five years.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law provides for the protection of persons with physical, sensory, intellectual, and mental disabilities from discrimination in employment, education, transportation, access to health care, and the provision of other state services. The government generally enforced the provisions. The CEOOR received 309 complaints in 2012, compared with 320 in 2011. Most related to employment and concerned access to private and public buildings and services, including public transport and access to banks, bars, restaurants and amusement parks.</p>
+<p>Children with disabilities were able to attend school, and there were no significant patterns of abuse in educational or mental health facilities. While the government mandated that public buildings erected after 1970 must be accessible to such persons, many older buildings were still inaccessible. Although the law requires that inmates with disabilities receive adequate treatment in separate, appropriate facilities, there were approximately 1,000 inmates with disabilities in prisons in spite of the law.</p>
+<p>On January 10, the ECHR ruled that a structural problem exists in the country’s prisons in terms of appropriate care for persons with mental disorders, due to a lack of space in psychiatric facilities for prisoners in need of specialized treatment. In three separate cases, the ECHR ruled that the country did not comply with the article forbidding arbitrary detention, underlining that the detention of a person with disabilities is allowed only in adequate institutions. It also reminded the country of its obligation to provide detainees with disabilities access to these specific institutions. The ECHR sentenced the country to pay damages ranging from 5,000 euros ($6,800) to 16,000 euros ($22,000) to the three plaintiffs.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Discrimination against ethnic minorities continued to be the country’s most significant human rights problem. This discrimination manifested itself in housing, education, employment, and lack of support by political parties.</p>
+<p>In 2012 most complaints received by the CEOOR concerned alleged problems based on nationality or ethnic origin (approximately 38 percent), discrimination on the grounds of religious and philosophical orientation (18 percent), and physical disabilities (18 percent). Discriminatory acts primarily took place over the internet, at work, or while individuals attempted to gain access to various public and private services, such as banking and restaurants.</p>
+<p>Observers noted that racial discrimination often persisted in the form of religious discrimination or in the guise of practices that purportedly checked the influence of religion in public life, but which effectively restricted the access of Muslims to employment opportunities, housing, and education. The 2013 annual reports from the European Network against Racism and Amnesty International highlighted the continuing de facto discrimination faced by the Muslim community in these areas. Muslim women who wore headscarves faced discrimination in professional-level employment, especially in jobs involving interaction with the public.</p>
+<p>On December 30, a Belgian court ruled that francophone news channel RTL wrongfully terminated a popular weatherman, who had published a hostile statement about the country’s Muslim community on his Facebook account (see section 2.a.).</p>
+<p>The law prohibits the wearing of a full-face veil in public places. Authorities may fine offenders up to 137.50 euros ($185.63) and sentence them to up to seven days in jail. In December 2012 the Constitutional Court ruled that the so-called “burqa ban” fully complied with the constitution. Two plaintiffs in the case against the “burqa ban” subsequently filed to bring the case to the ECHR.</p>
+<p>Data released by the Ministry of Justice indicated that in 2012 the courts dismissed approximately two-thirds of cases of alleged discrimination based on ethnicity or sexual orientation.</p>
+<p>Roma were frequently victims of discrimination in terms of access to education, work, and housing. Following the expulsions of Roma elsewhere in Europe in 2010, the European Commission requested EU member states to submit an action plan focusing on Roma, and the country did so in February 2012. The action plan called for a number of measures to improve the integration of the Romani community into society. In 2012 the minister of equal opportunities founded a Roma Council to create an institution representing Roma, which could act as an interlocutor with the government. Although it became fully operational only during the year, the council has already developed contacts and initiated some projects. While the action plan was seen as a step forward, observers believed that it did not sufficiently distinguish between the problems of the Roma, who frequently were forced to move due to pervasive discrimination, and “travelers,” who voluntarily opted for a nomadic lifestyle.</p>
+<p>In April the CEOOR stated that cases of discrimination against Roma were clearly underreported, with only seven filed during the year and 31 filed between 2009 and 2012.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The country has a well developed legal structure of lesbian, gay, bisexual, and transgender (LGBT) rights, which are included in the country’s antidiscrimination laws. This structure enjoyed broad political support in society and the government, which was headed by the country’s first openly gay prime minister.</p>
+<p>The law provides adequate protections for transsexuals but not for the larger transgender community, the vast majority of whose members did not wish to undergo medical procedures. Federal police showed high levels of support for Rainbow Cops, an association of LGBT officers, as well as for innovative training of officers on LGBT problems.</p>
+<p>During the year the government, in cooperation with the regional entities, developed and implemented an antihomophobia action plan. The action plan imposes requirements on government entities involved in family matters, housing, and asylum and migration and calls for awareness campaigns to combat homophobic stereotypes in schools, youth movements, places of work, and the sports community.</p>
+<p>Despite some progress, underreporting of crimes against the LGBT community remained a problem, and some members of immigrant communities verbally harassed LGBT persons in public. While LGBT couples may legally adopt children, they faced significantly greater obstacles and delays than non-LGBT couples, from both government administrators and private adoption agencies.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>The CEOOR received complaints of discrimination based on physical characteristics, political orientation, social origin, or status. Each of these categories accounted for approximately 4 percent of the total number of complaints filed. In 2012 the CEOOR received four possible cases or questions involving discrimination against persons with HIV/AIDS, mostly related to life insurance matters.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section7"> </span><span class="st_twitter" st_title="Belgium #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Belgium - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220258%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>For companies with more than 50 employees, the law provides workers the right to form and join independent unions of their choice without previous authorization or excessive requirements, conduct legal strikes, and bargain collectively. Workers exercised these rights, and citizen and noncitizen workers enjoyed the same rights. Work council elections are mandatory in enterprises employing more than 100 employees, and safety and health committee elections are mandatory in companies employing more than 50 employees. Work council elections took place in May 2012 and were considered fair. Employers sometimes used judicial recourse against associations attempting to prevent workers who did not want to strike from entering the employer’s premises.</p>
+<p>The law provides for the right to strike for all public and private workers except the military. The law prohibits antiunion discrimination and employer interference in union functions, and the government protected this right. Trade union representatives cannot be fired for performing their duties and are protected against being fined by their employers; they are also entitled to regular severance payments. An employee can request reinstatement if he or she was fired illegally, and employers may be fined for failure to comply. The International Trade Union Confederation noted in its 2013 annual report that police used water cannons on one occasion to disperse workers on strike because of announced layoffs. It also highlighted that the government asked the social partners (employer representatives and trade unions) not to negotiate on wage increases for 2013-14. Trade unions have the resources necessary to bring cases to court and can organize labor strikes if necessary. The fine for terminating a trade union representative or a nonelected candidate is the equivalent of the salary due the employee until the end of his or her mandate as trade union representative, up to four years. Administrative or judicial procedures related to trade unions were not any longer than other court cases.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced or compulsory labor, but there were reports that such practices occurred. According to the annual Trafficking in Persons report issued by the Center for Equal Opportunities and Opposition to Racism, male victims were forced to work in restaurants, bars, sweatshops, agriculture, and construction sites. Police and courts applied the law to combat labor exploitation, and the government took measures to prevent forced labor.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>There are laws and policies to protect children from exploitation in the workplace, and the government generally enforced these laws with adequate resources, inspections, and penalties. The minimum age of employment is 15. Persons between the ages of 15 and 18 may participate in part-time work/study programs and work fulltime during school vacations. There are no limitations on occupational health and safety restrictions. The Ministry of Employment regulates industries that employ juvenile workers to ensure that labor laws are followed and occasionally granted waivers for children temporarily employed by modeling agencies and in the entertainment business. Anyone found in violation of child labor laws could face a prison sentence ranging from six months up to three years, as well as penal and administrative fines. Waivers are granted on a short-term basis and for a clearly defined performance or purpose, which must be listed in the law as an acceptable activity. The law clearly defines the authorized daily working time and frequency of the performance, according to the age of the child. The salary has to be paid to a bank account under the name of the child, and the money is inaccessible until the child reaches 18 years of age.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>In December 2012 the monthly national minimum wage was 1,501.82 euros ($2,027.46) for workers who were 21; 1,541.67 euros ($2,081.25) for workers who were 21 1/2 with six months of service; and 1,559.38 euros ($2,105.63) for workers who were 22 with one year of service. The estimated poverty income level in 2012 was 1,000 euros ($1,350) per month for a single adult.</p>
+<p>The standard workweek is 38 hours, and workers are entitled to four weeks of annual leave. Departure from these norms can occur under a collective bargaining agreement, but work may not exceed 11 hours per day and 50 hours per week. An 11-hour rest period is required between work periods. Overtime is paid at a time-and-a-half premium Monday through Saturday and at double time on Sundays. The Ministry of Labor and the labor courts effectively enforced these laws and regulations. The law forbids or limits excessive overtime. Without specific authorization no employee can accumulate more than 65 hours of overtime during one quarter.</p>
+<p>The Employment and Labor Relations Federal Public Service generally enforced regulations effectively. Inspectors from both the Ministry of Labor and the Ministry of Social Security enforced labor regulations. These ministries jointly worked to ensure that standards were effectively enforced in all sectors, including the informal sector, and that wages and working conditions were consistent with collective bargaining agreements. A specialized governmental department, created to fight against the informal economy conducted 14,096 investigations in 2012, mainly in the construction, restaurant/hotel, retail, manufacture, transport, and agriculture sectors. They found 6,698 infractions in total, including instances of unregistered businesses or workers, documentation of incorrect schedules, or unregistered foreign workers. Authorities can fine employers for poor working conditions but also treat them as cases of trafficking in persons. In 2012 there were 157,131 work-related accidents, including 22,013 accidents on the way to or from work. There were 114 work-related deaths, including 47 on the way to or from work.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

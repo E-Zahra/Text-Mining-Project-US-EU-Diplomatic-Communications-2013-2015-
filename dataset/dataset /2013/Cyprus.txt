@@ -1,0 +1,478 @@
+2013
+Cyprus
+<div id="centerblock">
+<div id="icons">
+<div class="pdf-icon-div"><a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div><div class="sharepage-icons"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267"> </span><span class="st_facebook" st_title="Cyprus" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267"> </span></div>
+<div class="copylink-icon"><span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220267">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid;=220267</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li><a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li><a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li><a href="#section1bdisappearance">b. Disappearance</a></li>
+<li><a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li><a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li><a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li><a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li><a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li><a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li><a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li><a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li><a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li><a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li><a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li><a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a>
+</li>
+<li><a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li><a href="#section6women">Women</a></li>
+<li><a href="#section6children">Children</a></li>
+<li><a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li><a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li><a href="#section6personswith">Persons with Disabilities</a></li>
+<li><a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li><a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li><a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+<li><a href="#section6promotionof">Promotion of Acts of Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li><a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li><a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li><a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li><a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li><a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<p>Since 1974 the southern part of Cyprus has been under the control of the government of the Republic of Cyprus, while the northern part, administered by Turkish Cypriots, proclaimed itself the “Turkish Republic of Northern Cyprus” (“TRNC”) in 1983. The United States does not recognize the “TRNC,” nor does any country other than Turkey. A substantial number of Turkish troops remained on the island. A buffer zone, or “Green Line,” patrolled by the UN Peacekeeping Force in Cyprus (UNFICYP), separates the two parts.</p>
+<p> </p>
+<!-- start multiple doc exception links -->
+<div class="viewer-links">
+<b>READ A SECTION:</b> REPUBLIC OF CYPRUS (BELOW) | <a href="/j/drl/rls/hrrpt/humanrightsreport/index.htm?dynamic_load_id=220268&amp;year=2013">THE AREA ADMINISTERED BY TURKISH CYPRIOTS</a></div>
+<div class="old-format-links">
+<b>READ A SECTION:</b> REPUBLIC OF CYPRUS (BELOW) | <a href="/j/drl/rls/hrrpt/2013/eur/220268.htm">THE AREA ADMINISTERED BY TURKISH CYPRIOTS</a></div>
+<!-- end multiple doc exception links -->
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=executive"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=executive"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The Republic of Cyprus is a constitutional republic and multi-party presidential democracy. In February voters elected President Nicos Anastasiades in free and fair elections. In 2011 voters elected 56 representatives to the 80-seat House of Representatives (Vouli Antiprosopon) in free and fair elections. Authorities maintained effective control over the security forces. Security forces reportedly committed some human rights abuses.</p>
+<p>The most significant problems during the year remained trafficking in persons for sexual exploitation and labor, police abuse and degrading treatment of persons in custody and asylum seekers, and violence against women including spousal abuse.</p>
+<p>Other problems during the year included prison overcrowding, some religious groups lacked full access to and administration of religious sites, some cemeteries and places of worship were reportedly inaccessible and neglected, incidents of violence against children, and instances of discrimination and violence against members of minority ethnic and national groups.</p>
+<p>The government investigated and prosecuted corruption and abuse cases against officials, but cases typically moved at a slow pace.</p>
+</div></div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section1"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports that the government or its agents committed arbitrary or unlawful killings during the year. The Attorney General’s Office is responsible for investigating all security force killings.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances during the year.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices. There were reports, however, that police abused detainees. Reports continued that police engaged in heavy-handed tactics and degrading treatment of suspects. Alleged police violations of human rights were investigated by the Independent Authority for the Investigation of Allegations and Complaints against the Police, an independent committee appointed by the Council of Ministers. The body also has authority to investigate complaints of police bribery, corruption, unlawful financial gain, abuse of power, preferential treatment, and conduct unbecoming of police officers.</p>
+<p>There were several allegations of police abuse during the year. For example, on November 28, all newspapers reported on video footage released by the nongovernmental organization (NGO) Action for Equality, Support, Antiracism (KISA) showing police officers apparently attempting to subdue an Ivorian man and breaking his leg in the process. KISA stated three police officers on patrol in Nicosia in midday randomly stopped three African men and requested their identity papers. One of the men accused the police of racial profiling, claiming his leg was broken during arrest procedures. The Independent Authority confirmed receipt of an official complaint, and the minister of justice stated an investigation would take place.</p>
+<p>On March 15, <i>Simerini</i> newspaper reported that lawyer Paris Loizou submitted a complaint to the Independent Authority claiming that two police officers brutally beat him. The lawyer reported that he was stopped by police officers and was administered a breathalyzer test which tested negative. Police asked him to take the test again and, after initially protesting, he agreed. He claimed that his objections infuriated the officers who pinned him down, handcuffed him, and transferred him to Larnaca police station. The lawyer claimed that, in the police station, two officers kicked him and threw him against the wall in the presence of his father and his girlfriend and that, as a result, he sustained injuries on his knee and arms. The Independent Authority stated that the complaint was under investigation. A police spokesman stated that the complainant refused to undergo a breathalyzer test and added that the police would also investigate the case.</p>
+<p>The ombudsman and NGOs received a number of complaints concerning physical abuse or degrading or discriminatory treatment from both prisoners and detainees. Previous investigations led the ombudsman to suggest activating prison security cameras for a longer period, but the policy of the Prison Department on this matter does not appear to have changed.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison and detention center conditions did not meet international standards in a number of areas, and prison overcrowding was a particularly serious problem.</p>
+<p>In October the ombudsman released her annual report for 2012 in her capacity as the National Preventive Mechanism under the Optional Protocol to the UN Convention against Torture. The report noted deficiencies in police detention centers and in the Central Prison as well as some policies that amounted to degrading and inhumane treatment of detainees and prisoners. In particular the report referred to the problems associated with the chronic problem of overcrowding in the Central Prison. Prison officials turned leisure rooms, including the prison theater, into holding areas, and sanitary facilities were inadequate. The Central Prison management continued the mandatory haircut and shaving of prisoners and their subsequent confinement if they refused to comply. The report established problems in the implementation of the punitive measure of solitary confinement. Prisoners were deprived of any communication with family, lawyers, foreign embassies, or the ombudsman’s office, were not informed about the reasons for and the duration of their confinement, and in some cases were confined from eight to 10 days while authorities investigated a disciplinary offense.</p>
+<p>Prisoners complained of mistreatment while in confinement and of police abuse in police stations prior to their transfer to the prison. Sex offenders complained that prison staff did not intervene when they were threatened and, in some cases, beaten by other inmates. Most juvenile prisoners complained of verbal abuse by prison staff. Problems reported in detention centers included the lack of outdoor exercise areas in three out of the four centers inspected, the absence of any creative activities, and delays in accessing medical services. Detainees complained about the quality and, in some cases, the quantity of the food. The report also established that authorities held individuals detained on deportation orders in nearly all police stations, together with detainees charged with criminal offenses.</p>
+<p><u>Physical Conditions</u>: During the year overcrowding remained the largest problem for Nicosia Central Prison, the only prison in the Republic of Cyprus. The prison’s official capacity is 455 inmates, but at times it held up to 732. Inmates in the central prison in 2012 included 132 women, none of whom were juveniles, and three male juveniles; updated information for the year was not available. Prison authorities acknowledged that many of the prison buildings were constructed prior to 1960 and needed renovation. Juvenile pretrial detainees remained in cells separate from convicted juveniles; however, both groups shared the same grounds in their daily activities.</p>
+<p>The overpopulation of prisons relative to the number of prison personnel continued to be one of the main problems affecting the lives of prisoners according to relevant ombudsman's reports released during the year. The ombudsman reported in 2011 that overcrowding made it difficult for prison authorities to maintain separation of convicted criminals from pretrial detainees and that authorities held long- and short-term prisoners together. According to the ombudsman, overcrowding continued to have serious repercussions on the health of both prisoners and staff due to the lack of sufficient hygiene facilities and a health center. The medical staff of the Prison Department included one psychiatrist, but did not have a 24-hour presence in the prison. Prison authorities confirmed that overcrowding prevented separation of prisoners by health condition and also prevented separate detention space for drug users.</p>
+<p>Approximately 59 percent of the prisoners were non-Cypriots held for illegal entry, stay, and employment, as well as theft, burglary, debts, and other offenses. Several NGOs reported mistreatment of foreign detainees held on detention and deportation orders at the Mennoyia detention center. The National Preventive Mechanism visited the center and investigated the complaints. In May the ombudsman issued a report regarding the Mennoyia detention center with various recommendations related to the living conditions of detainees and their treatment. The report was well received by the detention center, but there were additional complaints reported subsequently regarding mistreatment that were under investigation.</p>
+<p>In December 2012 the chairman and members of the House of Representatives Committee on Human Rights visited the detention centers in Lakatamia and Pera Chorio Nisou and the police station in Lycavitos. Committee member Roula Mavronicola described the situation in Lakatamia as “hopeless” and stated, “basic human rights are violated.” Ventilation and lighting were inadequate, and there was no outside yard or any other area for physical exercise. The committee noted better living conditions for detainees in Pera Chorio Nisou. Mavronicola stated that detainees in Lycavitos were deprived of fresh air and sunlight since there were no open-air facilities in the detention center, only a dark corridor beside the holding cells.</p>
+<p>Three prisoners died in their cells in the Central Prison during the year. On July 18, authorities found a prisoner in the Central Prison dead in his cell, hanging from a bed sheet. On August 15, a 27-year-old prisoner was also found dead hanging from a bed sheet. Following the second death, the minister of justice ordered an investigation. Prison authorities suspended three wardens, and both cases were still under investigation. On December 28, a 22-year- old Syrian was found dead, hanging from his shoelaces in a special cell in the Central Prison where he had been transferred for close surveillance after he slit his wrists in an attempt to commit suicide. The minister of justice ordered an investigation. Prisoners in the central prison and detainees in detention centers had access to potable water.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was adequate. Community service is an alternative to prison confinement for nonviolent offenders. Prisoners in the central prison had access to a church and a mosque, and prison management stated that it made every effort to facilitate religious observance. Detention centers did not have facilities for religious observance. Prisoners and detainees could submit complaints to the ombudsman without censorship. The ombudsman reported, however, that prisoners expressed concerns over possible censorship but did not submit specific complaints.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison visits by independent human rights observers, and such visits, unrestricted and unannounced, occurred during the year. The ombudsman, the National Preventive Mechanism, and the prison board visited Nicosia Central Prison on a regular basis. The House of Representatives Committee on Equal Opportunities for Men and Women, the commissioner for children’s rights, and the commissioner for the protection of personal data also visited the prison during the year.</p>
+<p><u>Improvements</u>: Construction continued during the year to increase capacity and improve sanitary conditions at the Nicosia Central Prison. Extension work and renovations were ongoing with the completion of one wing with 39 new cells and a capacity of 78 persons. In September authorities completed another wing, consisting of 18 single cells and six double cells and with a total capacity of 30 persons, for dedicated use for juvenile and young prisoners. The Prison Department with the Ministry of Health began providing services for drug addicts in three basic stages: detoxification, evaluation, and rehabilitation.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section"><h3>Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The police enforced the law and combated criminal activity. The Cyprus National Guard (CNG), backed by a contingent of Greek military forces, the Hellenic Force in Cyprus, protects national security. The CNG reports to the Ministry of Defense, which reports to the president. Police report to the Ministry of Justice and Public Order. The president appoints the chief of police. The police force is composed of a headquarters with six functional departments, six geographic district divisions, including one inactive district for the area administered by Turkish Cypriots, and seven police units that provide specialized services.</p>
+<p>The Independent Authority appointed independent investigators from a list submitted by the attorney general to look into complaints.</p>
+<p>The Independent Authority received 145 complaints in 2012. Of those complaints, 68 concerned alleged violations of human rights, 65 concerned favoritism or behavior on the part of police that undermined police standing in society, and three concerned alleged corruption. Officials deemed nine complaints outside the scope of the authority and did not investigate them. The Independent Authority appointed criminal investigators in 58 cases. A preliminary investigation was carried out in 51 of the cases,12 cases were referred to the chief of the police for handling, five cases were withdrawn by the complainants, and 10 complaints remained under investigation pending additional data.</p>
+<p>During the year the attorney general ordered the prosecution of police officers in five cases. In 2012 the Attorney General's Office ordered the prosecution of one police officer whose hearing was set for December. The attorney general decided to suspend the prosecution of another police officer, recommended for prosecution by the Independent Authority in 2012, as the complainant had since left the country.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires judicially issued arrest warrants, and authorities respected this requirement. Authorities may not detain a person for more than one day without referral of the case to a court for extension of detention. Most periods of investigative detention did not exceed 10 days before formal charges were filed. Detainees were promptly informed of the charges against them, and the charges were presented in a language they could understand. The attorney general generally made efforts to minimize pretrial detention, especially in cases of serious crimes. Attorneys generally had access to detainees. In criminal cases the state provides indigent detainees with an attorney. There is a system of bail. The government claimed the right to deport foreign nationals for reasons of public interest, regardless of whether they had been charged with, or convicted of, a crime. While lengthy pretrial detention was not a problem, trial delays were common and partially caused by lengthy legal procedures, which resulted in an accumulated workload for the court system.</p>
+<p>While authorities detained aliens without identity documents when they did not know where to deport them, the government’s policy was not to hold such persons for long terms in detention centers. Instead, if deportations could not be executed within a maximum of 18 months, the government’s policy was to release undocumented migrants and rejected asylum seekers and give them residence permits for a limited period, provided they had not been found guilty of a crime. Residence and employment permits were renewable provided the released detainees signed a contract of employment approved by the Department of Labor.</p>
+<p><u>Detention of Rejected Asylum Seekers or Stateless Persons</u>: In July 2012 the ombudsman publicly criticized authorities for continuing to hold foreigners arrested on a detention and deportation order for periods longer than six months, despite the government’s policy. On March 29, foreign detainees at the Mennoyia detention center staged a sit-down protest that escalated into scuffles with police guards, who used tear gas to contain the demonstrators. Detention center authorities triggered the protest by their decision to block cell phone signals at certain times of the day. Authorities held the detainees at the Mennoyia center on detention and deportation orders for staying in the country illegally.</p>
+<p>NGOs and the ombudsman's office, in its capacity as the National Preventive Mechanism, reported that detainees submitted complaints of heavy-handed tactics by police guards, inadequate medical care, restriction of visitation times, and use of handcuffs when transferred from one location in the detention center to another. The ombudsman's investigation did not establish use of excessive violence but found most other complaints to be valid. The ombudsman made a series of recommendations to improve conditions at the center that were well received by detention center officials; as of December, however, the changes had not been implemented, and NGOs reported that conditions were growing more severe.</p>
+<p>In 2012 a NGO reported that a number of undocumented foreigners arrested for illegal stays in the country remained in long-term detention. Authorities rearrested one foreigner for staying in country after the rejection of his asylum application (after already serving an 18-month detention). Authorities released the foreigner after he applied to the European Court of Human Rights (ECHR). Authorities then informed him that his asylum application was being re-examined, necessitating the withdrawal of his ECHR application. The same NGO reported that authorities released undocumented aliens only if they signed a document consenting to the issuance of travel documents by their home country. The NGO also reported that released detainees did not have access to health care or social benefits and were not entitled to permanent residency permits unless they had a job.</p>
+<p>Various NGOs confirmed that residency permits contingent upon employment were virtually unobtainable, given weak economic conditions and the limited types of work available authorized by the labor department. There were reports that labor officers met valid residency applicants seeking a contract of employment with blatant racism. The Ministry of Labor and Social Insurance approved all 14 labor contracts for asylum seekers that were in the agriculture sector.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law and constitution provide for an independent judiciary, and the government generally respected this provision.</p>
+<p>Most criminal and civil cases begin in district courts, from which appeals may be made to the Supreme Court. There are no special courts for security or political offenses. Military tribunals have jurisdiction over members of the CNG.</p>
+<div class="sub-sub-section"><h3>Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for the right to a fair trial, and an independent judiciary generally enforced this right. Defendants were informed promptly and in detail of the charges against them. The constitution provides for public trials, and defendants have the right to be present and to consult with an attorney in a timely manner. There are no jury trials. Authorities provide an attorney for those who cannot afford one, and defendants have the right to question witnesses against them and present evidence or witnesses on their behalf. The law also provides that defendants and their attorneys have access to government-held evidence related to their cases. Defendants enjoy a presumption of innocence and have a right of appeal. The government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>There is an independent and impartial judiciary in civil matters, permitting claimants to bring lawsuits seeking damages for or cessation of human rights violations, and citizens successfully availed themselves of it.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Regional Human Rights Court Decisions</h3>
+<div class="sub-sub-section_content">
+<p>Individuals could appeal cases involving alleged human rights violations by the state to the ECHR once they have exhausted all avenues of appeal in the domestic court system. There were reports that the government failed to comply with ECHR decisions. In a decision in the case of M.A. v. Cyprus issued on July 23, the ECHR found the government in violation of the European Convention on Human Rights due to the lack of an effective remedy with automatic suspensive effect that would allow the applicant to challenge his deportation. Although the applicant was released from detention and was granted refugee status, the government had not introduced the required remedy by year’s end.</p>
+<p>In response to the ECHR’s 2005 ruling in the Xenides-Arestis case that Turkey’s “subordinate local authorities” in Cyprus had not provided an adequate local remedy, a property commission was established in the Turkish Cypriot-administered area to handle property claims by Greek Cypriots. In 2006 the ECHR ruled that the commission had satisfied “in principle” the ECHR’s requirement for an effective local remedy. In a 2010 ruling, the ECHR recognized the property commission as a domestic remedy.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Property Restitution</h3>
+<div class="sub-sub-section_content">
+<p>According to the law, the minister of interior is the guardian of the properties of all Turkish Cypriots who do not have their permanent residence in the government-controlled part since 1974. Ownership remains with the original owner, but the sale or transfer of Turkish Cypriot property under the guardianship of the minister of interior requires the approval of the government. The minister of interior has the authority to return properties to Turkish Cypriot applicants after examining the circumstances of each case. Owners can appeal decisions of the minister of interior to the Supreme Court.</p>
+<p>During the year Turkish Cypriots filed 25 court cases seeking to reclaim property located in the government-controlled area. Claimants filed 16 cases with the Supreme Court and nine cases with the Civil Court. The Supreme Court issued judgments in three cases concerning Turkish Cypriot properties, two at the trial court level and one on appeal. The Supreme Court rejected all three applications. District courts issued no judgments during the year.</p>
+<p>The ombudsman, in her capacity as the authority with oversight in matters involving racism and discrimination, reported that a small number of complaints regarding delays in the examination of claims of Turkish Cypriot properties in the government-controlled area were well-founded and under examination.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions, and the government generally respected these prohibitions.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section2"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of speech and press, and the government generally respected these rights. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of speech and press.</p>
+<p>In July the parliament passed a law that penalizes the use of geographical names and toponyms in Cyprus other than those included in the gazetteer that the government presented at the Fifth UN Conference on the Standardization of Geographical Names in 1987. According to the law, anyone who publishes, imports, distributes, or sells maps, books, or any other documents in print or digital form that contain geographical names and toponyms on the island of Cyprus other than those permitted, commits an offense punishable with up to three years in prison or a fine of up to 50,000 euros ($67,500) or both.</p>
+<div class="sub-sub-section"><h3>Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or reports that the government monitored e-mail or internet chat rooms without appropriate legal authority. Individuals and groups could engage in the peaceful expression of views via the internet, including e-mail. According to International Telecommunication Union statistics, approximately 61 percent of the population used the internet in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were generally no government restrictions on academic freedom or cultural events, but certain oversight efforts threatened academic independence and activities. The government continued to exert political pressure on universities to refrain from any contact with universities in the Turkish Cypriot community because the government considered them illegal.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law and constitution provide for freedom of assembly and association, and the government generally respected these rights.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt/">www.state.gov/j/drl/irf/rpt/</a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of movement within government-controlled areas, foreign travel, emigration, and repatriation, and the government generally respected these rights. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons (IDPs), refugees, returning refugees, asylum seekers, stateless persons, and other persons of concern.</p>
+<p>The government did not restrict Greek Cypriots from traveling to the area administered by Turkish Cypriots, but it generally advised them against spending the night at Greek Cypriot properties, gambling in the area administered by Turkish Cypriots, or buying or developing property there.</p>
+<p>The government allowed EU citizens and citizens of other countries not subject to a visa requirement, who entered from ports of entry in the area administered by Turkish Cypriots, to cross the “Green Line” into the government-controlled area. The government maintained that all ports of entry in the area administered by Turkish Cypriots are illegal.</p>
+<p>Greek Cypriots and Turkish Cypriots were required to show identification cards when crossing the “Green Line.” Authorities required members of each community to obtain insurance coverage in the community where they planned to drive their vehicles. Turkish Cypriots flew in and out of Larnaca and Paphos airports without obstruction. The government issued 9,849 passports to Turkish Cypriots from January through November; no applicants were denied issuance.</p>
+<div class="sub-sub-section"><h3>Internally Displaced Persons (IDPs)</h3>
+<div class="sub-sub-section_content">
+<p>The government considered Greek Cypriots displaced as a result of the 1974 division of the island to be refugees, although they fell under the UN definition of IDPs. As of November these individuals and their descendants numbered 209,962 (including descendants). The UNHCR did not provide assistance to Cyprus IDPs and officially considered the IDP population to be zero. Depending on their income, IDPs are eligible for financial assistance from the government. They have been resettled; have access to humanitarian organizations; and were not subject to attack, targeting, or mandatory return under dangerous conditions.</p>
+</div>
+</div>
+<div class="sub-sub-section"><h3>Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The law provides for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. During the year authorities recognized 33 persons as refugees. The ombudsman received complaints from asylum seekers who claimed they had difficulty accessing the asylum application process and experienced delays in the examination of their applications.</p>
+<p>Several NGOs reported prolonged detention of most detainees awaiting asylum determination beyond the six months despite the government policy and, in a few cases, beyond the maximum 18 months permitted by law.</p>
+<p>In December 2012 the Ministry of Interior announced that the government would provide a special residency status for citizens or residents of Syria entering the country “legally or illegally.” Authorities would offer the same “humanitarian status” to asylum seekers from Syria already in the country, even if their applications had been rejected in the past. All persons seeking such status would be required to provide a Syrian passport or other identification. The Ministry of Interior stated that such status was for those Syrians who did not wish to apply for international protection. From January 2012 through October 2013, authorities granted subsidiary protection status to 104 persons from Syria and granted refugee status to two additional persons. During the year authorities granted subsidiary protection to 124 persons and humanitarian status to eight others.</p>
+<p>NGOs and asylum seekers alleged that the Nicosia District Welfare Office continued to be inconsistent in the delivery of benefits to eligible asylum seekers. The ombudsman continued to receive such complaints and reported that in many cases the allegations were well founded.</p>
+<p><u>Employment</u>: The government granted individuals determined to be refugees permission to stay and gave them temporary work permits, but it did not grant permanent resettlement rights. The law allows asylum seekers to be employed in fisheries, the production of animal feed, waste management, gas stations and car washes, freight handling in the wholesale trade, building and outdoor cleaning, distribution of advertising and informational materials, and food delivery. Two NGOs claimed, however, that the Labor Office continued to refuse to approve and renew labor contracts for asylum seekers outside the farming and agriculture sector.</p>
+<p>Authorities allowed asylum seekers whose cases were awaiting adjudication to work after residing six months in the country but limited them to the areas permitted by law. During the six-month period, asylum seekers had access to a subsistence allowance and could live in the reception center for refugees located in Kofinou. Two other reception centers operating in Larnaca and Paphos closed during the year. There were complaints regarding the remoteness and lack of facilities at Kofinou, but the government made improvements in the areas of psychological support, activities for children, and transport. The government operated the center under a private-public partnership with a university.</p>
+<p>In July the government reduced state benefits to asylum seekers and beneficiaries of subsidiary protection. Monthly cash allowances were reduced by more than 50 percent and were partly paid in coupons for food and clothing. The government blamed economic conditions in part for the change and claimed that the coupon system was aimed at boosting small- and medium-sized businesses that would participate in the program. The reduction in the benefits reflected what the government described “a change in the entire philosophy on this issue.”</p>
+<p><u>Access to Basic Services</u>: Asylum seekers who refused an available job could be cut off from state benefits. To obtain welfare benefits, asylum seekers had to have a valid address, which was impossible for many who were homeless. NGOs reported delays in the delivery of checks to asylum seekers who were eligible for benefits. According to NGOs, asylum seekers reported that authorities discriminated against them in the provision of state medical care, specifically denying their dependents access to long-term special needs treatment, which led to irreversible damage to their health.</p>
+<p>Asylum seekers with a medical condition rendering them unable to work or able to perform only light work are referred to a medical board for assessment and are entitled to public assistance while awaiting a decision.</p>
+<p><u>Durable Solutions</u>: The government provided funding to a local university and an NGO for educational services aimed at helping recognized refugees and asylum seekers integrate into society and also to a local NGO to help victims of torture.</p>
+<p><u>Temporary Protection</u>: In 2012, the most recent period for which data was available, the government provided temporary protection to 18 individuals whose refugee status was under determination.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section3"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section3"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law and constitution provide citizens the right to change their government peacefully, and citizens exercised this right through periodic, free, and fair elections based on universal suffrage. In national elections only those Turkish Cypriots who reside permanently in the government-controlled area are permitted to vote and run for office. In elections for the European Parliament, Cypriot citizens and resident EU citizens have a right to vote and run for office, including Turkish Cypriots who live in the area administered by the Turkish Cypriots. Resident EU citizens are eligible to vote and run for office in municipal elections.</p>
+</div><div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In February voters elected Nicos Anastasiades president in free and fair elections. In 2011 the country held free and fair elections for the 56 seats assigned to Greek Cypriots in the 80-seat House of Representatives.</p>
+<p><u>Participation of Women and Minorities</u>: Women held six of the 56 seats filled in the House of Representatives and one of 11 ministerial posts. Three of the 13 Supreme Court judges were women.</p>
+<p>There are no mandatory quotas for members of minorities in the House of Representatives. The small Armenian Orthodox, Maronite Christian, and “Latin” (Cypriot Roman Catholics of European or Levantine descent) communities elected special nonvoting observer representatives from their respective communities to the House of Representatives. Members of these religious communities also participate with full rights in national politics and were elected to parliament. Twenty-four seats assigned to Turkish Cypriots were unfilled.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section4"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section4"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law provides criminal penalties for corruption by officials, which vary depending on the charges, and the government generally implemented these laws effectively. There were isolated reports of government corruption. While the government generally investigated and prosecuted cases of corruption, these usually moved at a slow pace, and the evidence law, which prohibits wiretapping and electronic surveillance, made obtaining convictions difficult.</p>
+<p><u>Corruption</u>: During the year the government initiated several investigations against public officials on suspicion of corruption, and the president publically declared zero tolerance for corruption. In August police arrested and charged with fraud and corruption two police officers, one of them retired, and a businessman. Their arrest resulted from an inquiry open earlier in the year into a multimillion euro real estate deal involving the board of a semi-governmental organization. The investigation continued at year’s end.</p>
+<p><u>Whistleblower Protection</u>: The law requires public officials to report to police within three days any attempted bribe or solicitation of bribe or other attempts to influence any authority or public officials in the exercise of their duties. The law does not specifically provide whistleblowers protection against retaliation.</p>
+<p><u>Financial Disclosur</u>e: Public officials are not required to declare their assets.</p>
+<p><u>Public Access to Information</u>: The constitution provides citizens the right of access to government information, but no specific laws ensure public access. The law prohibits civil servants from providing access to government documents without first obtaining permission from the relevant minister.</p>
+</div></div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section5"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section5"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. There is a government ombudsman, whose portfolio includes human rights, and a legislative committee on human rights.</p>
+<p><u>Government Human Rights Bodies</u>: During the year the ombudsman received complaints from citizens and foreigners living in the country who believed the government had violated their rights. During her fully independent investigations, the ombudsman generally enjoyed good cooperation with other government bodies. The ombudsman’s reports focused on police misconduct, treatment of patients at state hospitals, treatment of asylum seekers and foreign workers, and gender equality in the workplace. The Office of the Ombudsman was well respected and considered effective.</p>
+<p>The legislative Committee on Human Rights, which most local NGOs considered effective, consists of nine members of the House of Representatives who serve five-year terms. The committee discussed wide-ranging human rights problems, including trafficking in persons, prison conditions, and the rights of foreign workers. The executive branch did not exercise control over the committee.</p>
+</div></div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section6"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section6"> </span></span></h1>
+<div class="section_content"><div class="section-content-intro"><p>The law prohibits discrimination based on race, gender, disability, language, or social status, and the government effectively enforced these prohibitions.</p>
+</div><div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Abuse</u>: The law criminalizes rape, including spousal rape, with a maximum sentence of life in prison. Most convicted offenders received considerably less than the maximum sentence. Police indicated there were 16 sexual assault cases and 18 rape cases reported between January 1 and October 21.</p>
+<p>Violence against women, including spousal abuse, was reported, and the number of reported cases has sharply increased in recent years. The law establishes clear mechanisms for reporting and prosecuting family violence and provides that the testimony of minors and experts, such as psychologists, may be used as evidence to prosecute abusers. The law provides for the imprisonment of persons found guilty of abusing family members. The court can issue a same-day restraining order against suspected and/or convicted domestic violence offenders. Doctors, hospital workers, and education professionals are required to report all suspected cases of domestic violence to police. Many victims refused to testify in court, however, and by law one spouse cannot be compelled to testify against the other. Courts were obliged to drop cases of domestic violence if the spousal victim was the only witness and refused to testify.</p>
+<p>As of the end of October, police received 471 reports of domestic violence. They initiated criminal investigations in 281 of these and filed 131 criminal cases in court. In 77 percent of the cases, the victims were women. Of the domestic violence cases filed in 2012, the courts returned 39 guilty verdicts and three acquittals with 181 cases still pending trial.</p>
+<p>The Association for the Prevention of Domestic Violence carried out national study on domestic violence against women in April and May 2012. The study’s results, published in December 2012, indicated that at least 28 percent of women over the age of 18 have suffered some form of violence at home, including physical and sexual violence but also economic violence, social violence, and emotional/psychological violence. Approximately 57 percent of the women who reported having been victims of violence did not tell other persons about their abuse. The highest proportion of women victims of violence (36 percent) was in the 45 to 64 age group.</p>
+<p>There was one shelter for victims of domestic violence, primarily funded by the government, but run by the Association for the Prevention of Domestic Violence. An NGO working with domestic abuse victims reported an increase in the number of telephone calls to its hotline from 2011. The NGO reported that, of the 1,425 callers who claimed to be victims of domestic violence, 12 percent were children. Of the adult callers, 84 percent were women and 10 percent were men. The NGO also operated a shelter for women and children in Nicosia that served 82 victims of domestic violence through the end of October.</p>
+<p>In July 2012 the commissioner for the protection of children’s rights criticized the police, the social welfare services, and the health services for mishandling a domestic violence case, violating the rights of the child involved. According to press reports, the father in the case abused his wife in front of their four-year-old child and, when the mother reported the abuse to authorities, police gave the child to the father despite the welfare services’ recommendation that the child stay with the mother. The commissioner asserted that officials in the services did not know and did not adequately apply procedures set out in their handbook on the handling of domestic violence and stressed the need for the services to improve.</p>
+<p>Police conducted detailed educational programs related to the handling of domestic violence for their forces, including training focused on child abuse. NGOs noted, however, that police dismissed claims of domestic abuse by foreign women and children.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment in the workplace, but it was reportedly a widespread problem, with most incidents unreported to authorities. In 2009 a Cyprus University of Technology report indicated that 6 percent of employees in the country had experienced sexual harassment in the workplace. From January through November, the labor office received 11 complaints regarding sexual harassment, all from foreign residents. The office sent three of the complaints to the police, and they remained under investigation. The rest were either withdrawn, found invalid, or discontinued due to the death of the employer, lack of evidence, or a decision by the complainant not to pursue it.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals were generally able to decide freely the number, spacing, and timing of their children and to have the information and means to do so free from discrimination, coercion, and violence. There was easy access to contraception and skilled attendance during childbirth, and doctors diagnosed and treated women for sexually transmitted infections, including HIV, equally with men.</p>
+<p><u>Discrimination</u>: Women generally have the same legal status as men under family and property law and in the judicial system. The National Mechanism for Women’s Rights under the Ministry of Justice and Public Order promoted, protected, and coordinated women’s rights. The law requires equal pay for equal work or work of equal value.</p>
+<p>Despite a strong legal framework, the Ministry of Labor and Social Insurance’s enforcement was ineffective for many workers in more service- and retail-oriented sectors. Research by one NGO suggested that remuneration for female blue-collar workers was 25 to 30 percent less than for their male counterparts. The ombudsman reported serious cases of gender discrimination in the workplace, particularly against pregnant women, who were not promoted or dismissed from employment. The ombudsman’s 2012 report expressed concern over the continuing phenomenon of gender discrimination at the workplace, particularly the dismissal of working women as well as the hiring of fewer women. The ombudsman reported that women submitted 84 percent of the gender-discrimination complaints, of which 28 percent concerned discrimination on the grounds of maternity, pregnancy, or childbirth; 15 percent dismissal due to pregnancy; and 15 percent discrimination in hiring, career advancement, and salary. The ombudsman's office confirmed the phenomenon of pregnant women dismissed from work places intensified during the year for reasons related to the economic crisis.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Children derive citizenship from their parents, and there was universal birth registration at the time of birth.</p>
+<p><u>Child Abuse</u>: The number of child abuse cases investigated by the police for the period January through October was 105, of which authorities prosecuted 31 cases in court.</p>
+<p><u>Forced and Early Marriage</u>: The legal age of marriage is 18, but persons between the ages of 16 and 18 may marry, provided there are serious reasons justifying the marriage and their legal guardians provide written consent. A district court can also allow the marriage of persons between the ages of 16 and 18 if the parents unjustifiably refuse consent or in the absence of legal guardians. The rate of marriage for persons under the age of 19 in 2010 was 2.6 percent of the total number of marriages for girls and 0.4 percent for boys.</p>
+<p><u>Sexual Exploitation of Children</u>: The minimum age for consensual sex is 17, and sexual intercourse with a person under the age of 17 is a criminal offense. The penalty for sexual intercourse with a person between the ages of 13 and 17 is a maximum of three years’ imprisonment. The criminal penalty for sexual intercourse with a person under 13 is up to life in prison. Possession of child pornography is a criminal offense punishable by a maximum of 10 years’ imprisonment.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For country-specific information see the Department of State’s report at <a href="http://travel.state.gov/abduction/country/country_3781.html">http://travel.state.gov/abduction/country/country_3781.html</a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There were approximately 2,500 persons in the Jewish community, which consisted of a very small number of native Jewish Cypriots and a greater number of expatriate Israeli, British, and other European Jews.</p>
+<p>There were reports of verbal harassment of members of the Jewish community along with incidents of property damage.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> a <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air travel and other transportation, access to health care, or in the provision of other state services. The law protects the right of persons with disabilities to participate effectively and fully in political and public life, including by exercising their right to vote and stand for election. The government generally enforced these provisions. While the law mandates universal accessibility for public buildings and tourist facilities built after 1999, government enforcement was ineffective. Older buildings frequently lacked access for persons with disabilities. There were no appropriate institutions for adults with mental disabilities requiring long-term care.</p>
+<p>The government had not fully implemented the amended People with Disabilities Law, which extends the ombudsman’s authority to cover discrimination based on disabilities in both the private and public sectors, by year’s end. Problems facing persons with disabilities included narrow or nonexistent sidewalks and lack of transport, parking spaces, accessible toilets, and elevators.</p>
+<p>The state provided facilities to enable children with disabilities to attend all levels of education. Authorities provided a personal assistant if necessary. Since there were no long-term care facilities specifically for persons with mental disabilities, many resided at the Athalassa Psychiatric Hospital. The House of Representatives Committee on Human Rights noted that there was no infrastructure to support mental health patients when they left the psychiatric hospital and no programs for their social integration or aftercare in general. In February 2012 the ombudsman released a report with recommendations for improving patients’ living conditions at Athalassa Psychiatric Hospital. The report expressed concern that hospital authorities held two minor patients in the same ward with adult patients and stressed the need for a separate psychiatric clinic for children. The ombudsman reported the hospital adopted many of her recommendations, including the creation of a separate department for children and juveniles. During the year the ombudsman issued a report regarding access to beaches and schools for persons with disabilities.</p>
+<p>The Paraplegics Association reported that the government did not take measures to ensure that all public buses were accessible to wheelchair users. The association reported in 2012 that some of the older buses were not at all accessible while the newer ones had only one space for wheelchair users. After a meeting with the minister of communications and works in 2010, the Paraplegics Association stated that the government had agreed that all future orders for buses would provide for two wheelchair spaces. The government also agreed to modify buses then in use if demand showed a need for two wheelchair spaces. According to the Paraplegics Association, the government neither ordered new buses nor modified the existing ones.</p>
+<p>The Ministry of Labor and Social Insurance’s Service for the Care and Rehabilitation of the Disabled is responsible for protecting the rights of persons with disabilities. The minister of labor and social insurance chaired the Pancyprian Council for Persons with Disabilities, which included representatives of government services, organizations representing persons with disabilities, and employer and employee organizations. Observers did not consider fines for violating the law against employment discrimination sufficient to deter employers from discriminating against persons with disabilities.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>In July KISA reported that an attack in Limassol was racially motivated and charged that the police investigation did not look into possible racist motives. According to KISA between 20 and 30 men attacked the home of a Bulgarian family and beat three family members while shouting xenophobic insults and racist threats. Police charged two of the attackers with causing unrest and disorder but brought the same charges against the alleged victims because the suspects claimed the family’s dog attacked them.</p>
+<p>On August 30, the UN Committee on the Elimination of Racial Discrimination issued a report on Cyprus covering the period 2001-11. The report noted that, despite legislative and institutional advances, the country had not adequately implemented the International Convention on the Elimination of All Forms of Racial Discrimination.</p>
+<p>In 2011 the European Commission against Racism and Intolerance issued a report on the country. Among areas that needed improvement, the report noted that laws against racism were rarely implemented and that no records were kept on discrimination cases that reached the courts. It also noted a disproportionately high concentration of Turkish Cypriot and Romani children in some schools and a lack of educational access for Romani children living in the Polemidia area outside of Limassol. The report described the situation as de facto segregation from the general population, since a lack of free transportation to and from school effectively denied the children their right to an education. The report also noted a marked increase in racism in schools and a rise in prominence of extremist and anti-immigration groups, as well as continued official discrimination in employment practices, particularly hiring.</p>
+<p>In 2011 the ombudsman concluded her investigation into a 2008 complaint that Romani children in public schools were not taught their local language, history, and culture and found the complaint was valid. The ombudsman found that the Romani children, popularly considered to be members of the Turkish Cypriot community, were taught Turkish language and culture rather than their distinctive language and culture as members of the Romani community. There have been a considerable number of actions taken by the Ministry of Education and Culture, including preserving and strengthening Romani identity and cultural characteristics. The Romani language of “Kurbetcha” in the region was found to no longer be spoken and therefore not possible as a language of instruction. The ministry implemented special support measures for Romani children in every school they attended, including “zones of educational priority” for nonnative language speakers offering additional tutoring and bilingual instruction.</p>
+<p>Some Turkish Cypriots living in the government-controlled area reportedly faced difficulties obtaining identification cards and other government documents, particularly if they were born after 1974. Turkish Cypriots made few formal complaints to the UNFICYP about their living conditions in the south.</p>
+<p>The ombudsman received complaints that the government denied automatic citizenship to children of Turkish Cypriots married to Turkish citizens who resided in the area administered by Turkish Cypriots. Instead of granting citizenship automatically to such children, the Ministry of Interior routinely sought approval from the Council of Ministers before confirming their citizenship. In 2012 the Council of Ministers approved 230 cases. The ombudsman’s office had no authority to examine the complaints because the Council of Ministers’ decision to apply different criteria for granting citizenship to children born to one Turkish parent was a political one. Authorities automatically granted citizenship to children of Turkish Cypriots married to Turkish citizens and living outside of the country.</p>
+<p>In 2011 the ombudsman’s office issued a report following the receipt of a large number of complaints from children of Turkish Cypriots married to non-Cypriots concerning long delays in receiving a response to their applications for citizenship. The majority of the cases were pending for three years and in some cases for four to five years. During the year the Ministry of Interior adopted measures to speed the process and inform applicants in a timely manner, however, the ombudsman’s office has not received information that would suggest the other recommendations were adopted. NGOs also complained that migration department officials routinely called into question applications for residency for children born to Cypriot fathers and required DNA testing to prove parentage despite birth certificates.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Antidiscrimination laws exist and prohibit direct or indirect discrimination based on sexual orientation. Antidiscrimination laws cover employment and the following activities both in the public and private domain: social protection, social insurance, social benefits, healthcare, education, participation in unions and professional organizations, and access to goods and services. Lesbian, gay, bisexual, and transgender (LGBT) NGOs claimed that housing benefits favored “traditional” families. Hate crime legislation in the country does not include language on sexual orientation.</p>
+<p>According to KISA, police in July charged three persons with assault and causing bodily harm after a group of approximately 10 men allegedly attacked a homosexual couple in a village outside of Limassol. KISA reported that police advised the victims not to insist on the prosecution of all 10 attackers but to testify only against the three who were charged.</p>
+<p>Despite legal protections LGBT individuals faced significant societal discrimination, and few LGBT persons were open about their sexual orientation or reported homophobic violence or discrimination.</p>
+<p>In January Accept LGBT Cyprus, the country’s first LGBT association, filed a complaint with the ombudsman protesting the police practice of holding transgender women in men's holding cells. The issue arose following the arrest of three women in connection with an investigation into a suspected prostitution case, one of whom was identified on her identity card as male. Accept LGBT called for police training on how to treat transgender persons and to keep detainees in cells based on the gender with which they self-identify. The ombudsman’s August 6 report noted that self-determination of one’s gender overruled the gender written on identification documents. The ombudsman made a series of recommendations and issued guidelines to prison authorities on the treatment of incarcerated transgender persons and authorities instituted those recommendations.</p>
+<p>In a press conference in May 2012, a spokesman for Accept LGBT Cyprus stated there had been several incidents of homophobic behavior in public institutions, including in schools, where they were sometimes instigated by teachers. He also stated that the country’s public television station would not broadcast Accept LGBT Cyprus’ television spots against homophobia.</p>
+<p>In May 2012 the Ministry of Education permitted human rights trainers to conduct an interactive training campaign against homophobia for educators entitled Shield against Homophobia in Education, marking the first time that LGBT awareness training was permitted in the schools.</p>
+<p>A group of Youth Council educators and the family planning organization conducted a campaign, “Shield against Homophobia in Education.” In May 2012 the campaign sponsored a pilot program attended by 90 teachers in pre-elementary, elementary, secondary, and technical education and educational psychologists and conducted a survey on homophobia in education based on a random sample of educators participating in the program. The survey results, which educators discussed at a conference in October 2012, revealed the presence of homophobia in education, both in the form of homophobic language in the educational system and homophobic bullying. The survey indicated that homophobic attitudes prevailed among educators, students, and parents, and participants in the conference acknowledged that they were not equipped to deal with sexuality issues that arose in schools.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>In January the president of the HIV-Positive Persons Support Center stated that HIV-positive persons faced prejudice from the society but also from their families, largely due to lack of public awareness. She also claimed that raising public awareness on this issue was low in the government’s priorities. In July the ombudsman reported that the Ministry of Health failed to act in good faith and did not apply the principle of proper governance in the handling of a case of an HIV-positive employee at a state hospital. The employee had petitioned the ministry to transfer to a position that would pose less of a threat to his health. The ministry reportedly assured the employee it would invite him to apply when a more appropriate position opened but neglected to do so, and a suitable position was filled by another individual.</p>
+</div>
+</div>
+<div class="sub-section section6promotionof">
+<a class="goto" name="section6promotionof"></a>
+<h2>Promotion of Acts of Discrimination</h2>
+<div class="sub-section_content">
+<p>Government-approved textbooks used at the primary and secondary schools included language that was biased against Turkish Cypriots and Turks or refrained from mentioning the Turkish Cypriot community altogether. In addition, there were anecdotal reports of teachers using handouts or leading classroom discussions that included inflammatory language against Turkish Cypriots and Turks.</p>
+<p>In 2011 the Ministry of Education and Culture began pilot implementation of new curricula prepared by special government committee established to examine education reform on all subjects, including history. Due to controversy over the new language, however, the committee responsible for revising the history curriculum was unable to complete its work. During the year the minister of education appointed a new committee with a mandate to examine and assess all the work submitted by the previous committee. While teachers were instructed to use a variety of sources to promote critical thinking and avoid indoctrination by encouraging class discussion and asking students to consult alternative sources, an NGO involved with the training commented that, without evaluation, it was not possible to determine whether teachers were implementing the instruction.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section7"> </span><span class="st_twitter" st_title="Cyprus #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cyprus - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220267%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law, including statutes and regulations, provides for the right of workers to form and join independent unions, to strike, and to bargain collectively with employers. Antiunion discrimination is illegal. Dismissal for union activity is illegal with reinstatement, a fine and/or compensation options if the courts find dismissal illegal. The law excludes essential services from joining unions and striking. Police officers could form associations that had the right to bargain collectively.</p>
+<p>Workers exercised the right to form and join independent unions and to bargain collectively. The government generally protected the right of unions to conduct their activities without interference. Authorities have the power to curtail strikes in essential services defined by the law as the armed forces, the police and the gendarmerie. An agreement between the government and essential services personnel provides for dispute resolution and protects workers in the sector. Although collective bargaining agreements are not legally binding, employers and employees effectively observed their terms. Workers covered by such agreements were predominantly in the larger sectors of the economy, including construction, tourism, the health industry, and manufacturing. Penalties are confined to payment of pecuniary damages and compensation, but unions do not consider them sufficient to deter violations. Administrative procedures are efficient and immediate, but judicial procedures are subject to delays due to a backlog.</p>
+<p>Private sector employers were able to discourage union activity because the enforcement of labor regulations prohibiting antiunion discrimination was sporadic and penalties for antiunion practices were insufficient.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The government prohibits all forms of forced or compulsory labor; however, there were isolated cases of asylum seekers subjected to forced labor in agriculture and labor exploitation in domestic service. Inspections of agriculture and domestic service sectors are inadequate and resources at the relevant departments within the Ministry of Labor are insufficient. The maximum penalty for forced labor of adults is six years’ imprisonment and 10 years’ imprisonment for forced labor of minors, but actual penalties imposed were not sufficient to deter violations.</p>
+<p>Forced labor occurred in the construction, agriculture, and domestic labor sectors. The Ministry of Labor and Social Insurance continued to receive complaints of labor exploitation. Employers forced foreign workers, primarily from Eastern Europe and East and South Asia, to work up to 15 hours a day, seven days a week, for very low wages. Employers often retained a portion of foreign workers’ salaries as payment for accommodations. The ombudsman reported that her office received a number of complaints from foreign domestic workers and agricultural workers during the year. The complaints concerned excessive working hours and withholding of travel documents by the employers. Sexual harassment of female domestic workers continued. Several NGOs and the ombudsman confirmed the need to address labor exploitation of foreign workers.</p>
+<p>Many domestic workers were reluctant to report contract violations by their employers due to fear of losing their jobs and, consequently, their work and residency permits. The ombudsman reported in July that ineffective investigation of sexual harassment, violence, and mistreatment complaints submitted by domestic workers to the Department of Labor discouraged domestic workers from submitting such complaints. The ombudsman recommended revision of the employment contract of domestic workers, revision of the system of examination of complaints submitted by domestic workers, and changes to the system that ties domestic workers to a specific employer.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip/</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children, defined as persons under the age of 15, except in specified circumstances, such as combined work-training programs for children who have attained the age of 14 or employment in cultural, artistic, sports, or advertising activities, subject to rules limiting work hours. The law prohibits nighttime work and engagement of children in street trading. The law also permits the employment of adolescents, defined as persons between the ages of 15 and 18, provided it is not harmful, damaging, or dangerous and subject to rules limiting hours of employment. The law prohibits employment of adolescents between midnight and 4:00 a.m. The minimum age for employment in industrial work is 16.</p>
+<p>The government effectively enforced laws and policies to protect children from exploitation in the workplace. Ministry of Labor and Social Insurance inspectors were responsible for enforcing child labor laws and did so effectively. The Social Welfare Services department of the Ministry of Labor and the Commissioner for the Rights of the Child can also investigate suspected cases of exploitation of children at work. Employment of children in violation of the law is punishable with up to two years imprisonment and/or a fine of up to 17,000 euros (approximately $23,000). There were isolated examples of children under the age of 16 working for family businesses.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>Although there is no national minimum wage, there is a minimum wage for groups deemed vulnerable to exploitation. The official poverty income level as of 2011 was 10,324 euros (approximately $13,940) per year for a single person. The minimum wage for shop assistants, nurses’ assistants, clerks, hairdressers, and nursery assistants was 870 euros ($1,170) per month for the first six months and 924 euros ($1,250) per month thereafter. For asylum seekers working as unskilled workers in the agricultural sector, the minimum monthly wage was 425 euros ($570) with accommodation and food provided. For skilled workers in the agricultural sector, the minimum salary was 767 euros ($1,040) without accommodation and food.</p>
+<p>The government set minimum salaries and working conditions for foreign workers in all occupations in which they are allowed to be employed. The minimum starting salary for foreign nationals working as live-in housekeepers was 460 euros ($620) per month. The employers covered accommodation, food, medical insurance, visa fees, travel, and repatriation expenses. Cabaret performers’ contracts typically stipulated that they receive at least 205 euros ($280) per week for 36 hours of work. Collective bargaining agreements covered workers in almost all other occupations, including unskilled labor. The wages set in these agreements were significantly higher than the minimum wage.</p>
+<p>Foreign workers were able to claim pensions, and some bilateral agreements existed that allowed workers to claim credit in their home countries. The Migration Service was responsible for enforcing the minimum wage for foreign workers but did not actively do so.</p>
+<p>The legal maximum workweek is 48 hours, including overtime. The law does not require premium pay for overtime or mandatory rest periods. The law stipulates that foreign and local workers receive equal treatment. Labor ministry inspectors are responsible for enforcing these laws. Labor unions, however, reported enforcement problems in sectors not covered by collective agreements. They also reported that certain employers, mainly in the construction industry, exploited undocumented foreign workers by paying them very low wages.</p>
+<p>Some foreign domestic workers, primarily from East or South Asia, were mistreated or fired without cause in violation of their contracts. For example, some domestic workers, particularly live-in maids, reported working excessive hours for employers at all hours of the night and day without additional compensation or time off. Although the law protects domestic workers who file a complaint with the Ministry of Labor and Social Insurance from being deported until their cases have been adjudicated, NGOs and the ombudsman reported that many domestic workers did not complain to authorities about mistreatment due to fear of deportation.</p>
+<p>Ministry of Labor inspectors were responsible for enforcing health and safety laws. Authorities enforced health and safety laws satisfactorily in the formal sector, although labor unions and the Ministry of Labor stated that more work needed to be done. Information was not available on the adequacy of resources, remediation, or penalties for violations. The minister of labor stated in October 2012 that the majority of work-related accidents involved undocumented foreign workers.</p>
+<p>Factory inspectors processed complaints and inspected businesses to ensure that employers observed occupational safety laws. Close government cooperation with employer and employee organizations supported inspections. Authorities did not inspect private households where persons were employed as domestic workers.</p>
+<p>From January to the end of September, 10 persons died in work-related accidents, primarily in construction and agricultural work.</p>
+<p> </p>
+<!-- start multiple doc exception links -->
+<div class="viewer-links">
+<b>READ A SECTION:</b> REPUBLIC OF CYPRUS (ABOVE) | <a href="/j/drl/rls/hrrpt/humanrightsreport/index.htm?dynamic_load_id=220268&amp;year=2013">THE AREA ADMINISTERED BY TURKISH CYPRIOTS</a></div>
+<div class="old-format-links">
+<b>READ A SECTION:</b> REPUBLIC OF CYPRUS (ABOVE) | <a href="/j/drl/rls/hrrpt/2013/eur/220268.htm">THE AREA ADMINISTERED BY TURKISH CYPRIOTS</a></div>
+<!-- end multiple doc exception links -->
+</div>
+</div>
+</div>
+</div>
+</div>

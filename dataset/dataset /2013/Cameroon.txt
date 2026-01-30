@@ -1,0 +1,611 @@
+2013
+Cameroon
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090"> </span><span class="st_facebook" st_title="Cameroon" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220090">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013&amp;dlid=220090</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a></li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6societalabuses">Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6othersocietal">Other Societal Violence or Discrimination</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7dacceptable">d. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=executive"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Cameroon is a republic dominated by a strong presidency. The country has a multi-party system of government, but the Cameroon People’s Democratic Movement (CPDM) has remained in power since it was created in 1985. In practice the president retains the power to control legislation. On April 14, the country conducted the first Senate elections in its history, which were peaceful and considered generally free and fair. On September 30, simultaneous legislative and municipal elections were held and considered by most observers to be free and fair. In October 2011 CPDM leader Paul Biya was re-elected president, a position he has held since 1982, in a flawed election marked by irregularities. Authorities failed at times to maintain effective control over the security forces. Security forces committed human rights abuses.</p>
+<p>The most important human rights problems in the country were security force torture and abuse, particularly of detainees and prisoners, denial of fair and speedy public trial, and restrictions on freedom of assembly and association.</p>
+<p>Other major human rights abuses included security force killings, life-threatening prison conditions, arbitrary arrest and detention, prolonged and sometimes incommunicado pretrial detention, and infringement on privacy rights. The government harassed and imprisoned journalists, restricted freedoms of speech and press, and impeded freedom of movement. Corruption was pervasive at all levels of government. Societal violence and discrimination against women and girls, including female genital mutilation/cutting, occurred. Trafficking in persons and government-sponsored discrimination against members of the lesbian, gay, bisexual, and transgender (LGBT) community were problems. Discrimination against persons with albinism occasionally occurred, and hereditary servitude was a problem. The government restricted worker rights and the activities of independent labor organizations. Forced labor, including by children, and child labor were problems.</p>
+<p>Although the government took some steps to punish and prosecute officials who committed abuses in the security forces and in the public service, impunity remained a problem.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section1"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were reports that the government or its agents committed arbitrary or unlawful killings. The government generally investigated and sometimes disciplined those responsible for such killings. The General Delegation for National Security (DGSN) and the National Gendarmerie investigate reports of security force killings and forward cases that merit prosecution and trial to the military courts.</p>
+<p>On February 6, Rodrigue Seigning Tafopa died in Mbouda Prison, West Region, after being beaten by gendarmes. Local human rights organization Nouveaux Droits de l’Homme Cameroun claimed Tafopa died from an illness connected to the beating and that it had been unsuccessful in its requests that prison authorities provide Tafopa with medical care. At year’s end authorities had not opened an investigation.</p>
+<p>On September 3, in Kribi, South Region, three members of the Rapid Intervention Battalion (BIR) beat a man to death in a barroom altercation. BIR authorities expelled the three soldiers, and their commanding officer turned them over to the gendarmerie, which is responsible for prosecuting members of the military. The three remained in prison awaiting trial at year’s end.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reliable reports of politically motivated disappearances during the year.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit such practices, but there were continued reports that security forces tortured, beat, harassed, and otherwise abused citizens, prisoners, and detainees. Security forces also reportedly subjected women, children, and elderly persons to abuse.</p>
+<p>In February, in Garoua, North Region, elements of the Special Police Team for Rapid Intervention severely beat Moustapha Bakayoko, whom they suspected of being a thief. Bakayoko, who was unable to walk for four months, filed a complaint against the police. There were reports that security forces subsequently paid him to drop all charges.</p>
+<p>In June, in Ngaoundere, Adamawa Region, members of the Special Team for Rapid Intervention handcuffed and beat Souleymanou Abdul Aziz before detaining him for two days, reportedly for attempting to steal a telephone. Abdul Aziz reportedly had a history of mental illness and believed that the telephone he attempted to steal was his own. He was left with several bruises on the wrists and back and abrasions on his back, knees, and tibia. Later that month a regional human rights organization filed a complaint on Abdul Aziz’s behalf, although as of October there was no official response.</p>
+<p>Security forces reportedly detained and tortured persons at specific sites, including temporary holding cells within police or gendarme facilities and cells located at the Directorate General for External Intelligence (DGRE). Government officials also sexually assaulted civilians.</p>
+<p>On September 20, the minister-delegate at the Presidency in charge of defense announced in the state-run newspaper <i>Cameroon Tribune</i> that 11 soldiers from the 11th motorized infantry battalion in Ebolowa, South Region, were disciplined by their commanding officer for attacking and sexually assaulting civilians on the night of September 13-14. The incident reportedly occurred following a dispute over a cell phone bill. The minister-delegate said the soldiers, their training director, and the battalion’s commander would be called before a disciplinary board, which would decide whether they would receive further disciplinary action. At year’s end the board had not been convened.</p>
+<p>In April a subdivisional officer and three accomplices in Meiganga, Adamawa Region, gang-raped a woman. The subdivisional officer was removed from office and was being tried with two codefendants at year’s end.</p>
+<p>Security forces harassed, obstructed, and abused journalists and members of the LGBT community during the year.</p>
+<p>In January 2012 experts from government institutions involved in the fight against torture, including the Ministry of Justice and the National Commission on Human Rights and Freedoms (NCHRF), provided practical recommendations to implement international instruments against torture. The government collaborated with the African Commission on Human and People’s Rights, whose representative urged the government to implement the Robben Island Guidelines on Fighting against Torture in the African Continent. The Ministry of Justice continued to implement those guidelines, including fulfilling reporting requirements and providing prison officials with NCHRF recommendations for improving prison conditions.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions remained harsh and life threatening.</p>
+<p><u>Physical Conditions</u>: In 2012 numerous international human rights organizations – including Journalists in Africa for Development, Prison Fellowship, and Amnesty International – as well as some prison personnel, reported that torture was widespread, although there were no such reports during the year. There were credible reports that adult inmates sexually abused juvenile prisoners. Overcrowding was pervasive. Officials held prisoners in dilapidated, colonial era prisons, where the number of inmates was as much as four to five times the intended capacity. Sanitation and medical care were wholly inadequate.</p>
+<p>In December 2012 the country’s 77 functional prisons, which had an intended capacity of 16,995 inmates, held 25,337 prisoners and detainees, including 515 women and 865 juveniles, according to the Justice Ministry’s 2012 human rights report. As of September the Yaounde Kondengui Central Prison, built to hold 1,000 inmates, held 4,215. Douala’s New Bell Prison, designed for 800, held approximately 3,000 inmates. The Bertoua Central Prison in the East Region, built in 1930 to house 120 prisoners, held more than 500.</p>
+<p>There were two separate prisons for women and a few pretrial detention centers for women, but officials routinely held women in police and gendarmerie complexes with men, occasionally in the same cells. Conditions for male and female inmates were equally poor. Authorities often incarcerated juvenile prisoners with adults, occasionally in the same cells or wards. Certain prisons, such as the Tibati and Tignere prisons in the Adamawa Region, did not have separate wards for women and juveniles. Prison authorities routinely held pretrial detainees in cells with convicted criminals.</p>
+<p>Deaths from illness, malnutrition, and lack of medical care occurred. Deficiencies in health care and sanitation were common in all prisons and remained a significant problem. Disease and illness were widespread, and sick inmates were not systematically separated from the general population. Malnutrition, tuberculosis, and numerous other untreated conditions, including infections, parasites, dehydration, and chronic diseases, were rampant. Doctors and medicine were inadequate. While inmates with HIV/AIDS sometimes received their medication on time, they often lacked the diet needed to make the drugs effective. Potable water was inadequate, and officials expected prisoners’ families to provide food for their family members. For example, New Bell Prison contained seven water taps for approximately 3,000 prisoners, contributing to poor hygiene, illness, and death.</p>
+<p>The daily food allocation per prisoner was 228 CFA francs ($0.47). Corruption among prison personnel was widespread. Pretrial detainees reported that prison guards sometimes required them, under threat of abuse, to pay “cell fees,” money paid to prevent further abuse. Prisoners bribed wardens for special favors or treatment, including temporary freedom, beds, and transfer to less-crowded areas of the prisons. Due to their inability to pay fines, some prisoners remained in prison after completing their sentences or receiving court orders of release.</p>
+<p>In temporary holding cells within police or gendarme facilities, officials held together adult men, juveniles, and women. Detainees usually received no food, water, or medical care. Detainees whose families knew of their incarceration relied on their relatives for food and medicine. Overcrowding was common. Detention center guards accepted bribes from detainees in return for access to better conditions, including permission to stay in an office instead of a cell.</p>
+<p>Many citizens in the North and Far North regions turned to traditional chiefs, or lamibe, for dispute resolution. According to human rights defense groups, including the Movement for the Defense of Human Rights and Liberties and the League for Human Rights, private prisons with reputations for serious abuse continued to operate within the palaces of the traditional chiefdoms of Rey Bouba, Gashiga, Bibemi, and Tcheboa. Although such prisons operated illegally, the government had not conducted any investigations by year’s end.</p>
+<p><u>Administration</u>: Recordkeeping on prisoners was inadequate, although the Ministry of Justice had begun to computerize case files. In 2012 Catholic Relief Services completed its Pride Project to improve recordkeeping in prisons and to develop alternative sentencing proposals for the government. During the year the NCHRF also proposed alternatives to detention, such as community labor. Nevertheless, the government had adopted no changes to sentencing guidelines by year’s end. Authorities allowed prisoners access to visitors and religious observance. Prisoners and detainees could submit complaints to judicial authorities without censorship. The country had no prison ombudsman. As of October the NCHRF had conducted no in-depth investigations in the country’s prisons.</p>
+<p><u>Independent Monitoring</u>: The government permitted international humanitarian organizations access to prisoners. The NCHRF and the nongovernmental organization (NGO) Commission for Justice and Peace made infrequent, unannounced prison visits during the year. The government continued to allow the International Committee of the Red Cross to visit prisons, and it conducted visits during the year. Human rights activists attempting to visit prisoners reported that they were required to pay substantial bribes to prison officials.</p>
+<p><u>Improvements</u>: In a January interview with the government-owned newspaper <i>Cameroon Tribune</i>, the NCHRF chairman reported a new library at the Kondengui Prison in Yaounde.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law prohibit arbitrary arrest and detention, security forces continued to arrest and detain citizens arbitrarily.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The national police, DGRE, Ministry of Defense, Ministry of Territorial Administration, and, to a lesser extent, Presidential Guard are responsible for internal security. The Ministry of Defense – which includes the gendarmerie, the army, the army’s military security unit, and the DGRE – reports to an office of the Presidency, resulting in strong presidential control of security forces. The national police and the gendarmerie have primary responsibility for law enforcement, although the gendarmerie alone has responsibility in rural areas. The national police – which includes the public security force, judicial police, territorial security forces, and frontier police – report to the DGSN, which is under the direct authority of the Presidency.</p>
+<p>Police were ineffective, poorly trained, and corrupt. Impunity was a problem. Citizens often resorted to vigilante action rather than calling police.</p>
+<p>The DGSN investigates reports of abuse and forwards cases that merit prosecution and trial to the courts. Lesser sanctions are handled internally. According to the Justice Ministry’s 2012 human rights report, at least 169 law enforcement officials were sanctioned, including 41 national security staff members (police) and 128 gendarmes. Infractions included arbitrary arrest, violence and assault, torture, irregular use of weapons, abuse, negligence resulting in the death of a detainee, and extortion of money on the highway. Sanctions ranged from warnings to three-month suspensions without pay. Military tribunals prosecuted 16 of the 128 gendarmes for violating the right to life, freedom, and security and the right not to be subjected to torture. Of the 16, 14 were sentenced to prison terms ranging from a few months to eight years and fined. Plaintiffs in the remaining two cases dropped charges.</p>
+<p>The National Gendarmerie and the army also have special offices to investigate abuse. The secretary of state for defense and the minister-delegate at the Presidency in charge of defense sanctioned abusers. The minister-delegate of defense refers cases involving aggravated theft, criminal complicity, murder, and other major offenses to the military courts for trial.</p>
+<p>The BIR, an elite military unit, punished officers implicated in violence against civilians during the year.</p>
+<p>Foreign military personnel provided training to security forces on civil-military relations, including rules of engagement, escalation of force, and human rights. Kosmos Energy and the NGO Fund for Peace provided human rights training for BIR members involved with local communities near an onshore oil exploration site.</p>
+<p>Security forces sometimes failed to prevent or immediately respond to societal violence. On November 6, in Touboro, following celebrations to mark the president’s 31 years in office, the local representative of the lamido of Rey Bouba and his followers reportedly attacked residents, resulting in at least two deaths. Security forces reportedly did not intervene until residents began retaliating.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The law requires that police obtain a warrant for an arrest, except when a person is caught in the act of committing a crime, but police often did not respect this requirement. The law provides that detainees be brought promptly before a magistrate, although this frequently did not occur. Police may legally detain a person in connection with a common crime for up to 48 hours, renewable once. This period may, with the written approval of the state counsel, be extended twice before bringing charges. Nevertheless, police often exceeded these detention periods. The law permits detention without charge – for renewable periods of 15 days – by administrative authorities such as governors and civilian government officials serving in territorial command. The law also provides for access to legal counsel and family members, although police frequently denied detainees access to both. The law prohibits incommunicado detention, but it occurred. The law permits bail, allows citizens the right to appeal, and provides the right to sue for unlawful arrest, but these rights were seldom respected.</p>
+<p><u>Arbitrary Arrest</u>: Although the law provides for judicial review of an arrest within 24 hours, the courts did not convene on weekends, so individuals arrested on a Friday typically remained in detention until at least Monday. According to some reports, police and gendarmes occasionally made such “Friday arrests” on spurious charges after accepting bribes from persons who had private grievances, although the number of such cases continued to decrease during the year, according to NGOs and legal practitioners. Security forces and government authorities reportedly continued to arrest and detain persons arbitrarily, often holding them for prolonged periods without charge or trial and, at times, incommunicado.</p>
+<p>Police arbitrarily arrested persons without warrants during neighborhood sweeps for criminals and stolen goods. Authorities required citizens and foreigners, including undocumented immigrants, to carry identification with them at all times, and police frequently arrested persons without identification during sweeps. One such neighborhood sweep took place in September in the Yaounde neighborhood of Simbock, following an alleged attack on a high-ranking security official. Security forces subsequently released most detainees.</p>
+<p>The DGSN claimed it had a policy of zero tolerance for police harassment, but police and gendarmes subjected undocumented immigrants to harassment. During the year members of the security forces conducted raids on immigrant communities and extorted money from those who did not have regular residence permits or valid receipts for store merchandise. Some members of the country’s large community of Nigerian immigrants complained of discrimination and abuse by government officials.</p>
+<p>The government arrested Southern Cameroons National Council (SCNC) activists for participating in SCNC activities.</p>
+<p>Security forces also arrested journalists, students, and human rights activists during the year.</p>
+<p>In the North and Far North regions, the government reportedly continued to permit traditional chiefs, or lamibe, temporarily to detain persons outside the government penitentiary system, in effect creating private prisons, until they transferred them to the police or gendarmerie and the judicial system.</p>
+<p><u>Pretrial Detention</u>: The law provides for a maximum of 18 months’ detention before trial, but many detainees waited years for a date in court. During a July 2 press conference, UN High Commissioner for Human Rights Navi Pillay said 60 percent of prisoners were pretrial detainees. Although the law precludes holding juvenile detainees more than three months after the conclusion of an investigation, they sometimes were held for more than a year without trial. Judicial inefficiency, a shortage of lawyers, corruption, and lost files due to an inadequate tracking system contributed to lengthy pretrial detention.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The constitution and law provide for an independent judiciary, but the judiciary remained corrupt, inefficient, and subject to political influence. Individuals reportedly accused innocent persons of crimes as retribution or to solve personal disputes. Authorities generally respected court orders.</p>
+<p>In February the head of the gendarmerie post at Afade, Far North Region, arrested Gambo Ema and Mahamat Abdoulaye for the 2011 killing of Gueime Djime, a local human rights activist who had challenged the appointments of two local traditional rulers (Ema and Abdoulaye were family members of the victim). Two other men, who were originally arrested for the killing based on a police investigation and eyewitness testimony, were released. Observers noted that authorities sometimes targeted a victim’s family to lead an investigation away from the actual perpetrators. According to a local human rights organization, Djime’s family, and local leaders, the release of the original suspects and the arrest of Ema and Abdoulaye constituted a miscarriage of justice and a manipulation of the judicial system. Ema and Abdoulaye remained in prison awaiting trial at year’s end.</p>
+<p>The court system is subordinate to the Ministry of Justice. The constitution designates the president as “first magistrate,” thus “chief” of the judiciary, making him the legal arbiter of any sanctions against the judiciary, although the president has not played this role publicly. The constitution specifies that the president is the guarantor of the legal system’s independence. He also appoints all judges with the advice of the Higher Judicial Council.</p>
+<p>Despite such executive influence, the judiciary occasionally demonstrated independence.</p>
+<p>The legal system includes national and customary law, and many criminal and civil cases can be tried using either one. Criminal cases generally were tried in statutory courts.</p>
+<p>Customary courts served as a primary means for settling domestic cases, such as succession, inheritance, and child custody. Customary courts may exercise jurisdiction in a civil case only with the consent of both parties. Either party has the right to have a case heard by a statutory court and to appeal an adverse decision by a customary court to the statutory courts.</p>
+<p>Customary court convictions involving witchcraft are automatically transferred to the statutory courts, which act as the courts of first instance. The law provides for sentences of between two and 10 years’ imprisonment and fines of between 5,000 CFA ($10) and 100,000 CFA ($206) to “whoever commits any act of witchcraft, magic, or divination liable to disturb public order or tranquility or to harm another in his person, property, or substance, whether by the taking of a reward or otherwise.” In adjudicating such cases, courts relied on the testimony of witnesses and sorcerers, as well as confessions from the accused. Trials for alleged witchcraft occurred infrequently.</p>
+<p>Customary law is deemed valid only when it is not “repugnant to natural justice, equity, and good conscience,” but many citizens in rural areas remained unaware of their rights under civil law and were taught they must abide by customary laws. Customary law ostensibly provides for equal rights and status, although men may limit women’s rights regarding inheritance and employment. Some traditional legal systems regard wives as the legal property of their husbands. Customary law practiced in rural areas is based upon the traditions of the ethnic group predominant in the region and adjudicated by traditional authorities of that group.</p>
+<p>Military tribunals may exercise jurisdiction over civilians when the president declares martial law and in cases involving civil unrest or organized armed violence. Military tribunals also have jurisdiction over gang crimes, banditry, and highway robbery if such crimes are committed with firearms.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for a fair public hearing, without undue delay, in which the defendant is presumed innocent, but authorities did not always respect the law. Defendants have the right to be informed promptly and in detail of the charges, with free interpretation as necessary. There is no jury system. Defendants have the right to be present and to consult with an attorney in a timely manner, and the government generally respected this right. Authorities generally allowed defendants to question witnesses and to present witnesses and evidence on their own behalf. Defendants have the right to adequate time and facilities to prepare a defense and not to be compelled to testify or confess guilt. Defendants have access to government-held evidence relevant to their cases, although in some cases the government did not make the evidence available in a timely fashion. Defendants may appeal a conviction.</p>
+<p>Because appointed attorneys received little compensation, the quality of legal representation for indigent clients was often poor. The bar association and some voluntary organizations such as the Cameroonian Association of Female Jurists and Lawyers without Borders offered free assistance in some cases. Despite a law providing for attorneys for indigent defendants at public expense, lawyers often refused to defend such clients, claiming the government’s compensation was inadequate. Additionally, defendants in courts of first instance and high courts were often prosecuted without being offered legal counsel. Generally only defendants who run the risk of a life sentence or death penalty are systematically provided legal assistance. The law extends these rights to all citizens.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>No statistics were available on the number of political prisoners. International humanitarian organizations had some difficulty obtaining access but met with political prisoners during the year. Political prisoners were detained under heightened security, often within the Secretariat of State for Defense.</p>
+<p>Former minister of state for territorial administration Marafa Hamidou Yaya, convicted in 2012 on corruption charges and sentenced to 25 years’ imprisonment in a trial that featured little hard evidence, remained in detention. During the year he appealed his case to the Supreme Court and the Special Criminal Court. At year’s end both courts had declared themselves incompetent to hear the appeal, leaving no clear avenue for a fair trial. On November 26, the Supreme Court ruled against Marafa’s request to apply his time in pretrial detention toward his 25-year sentence.</p>
+<p>On December 17, the Supreme Court rejected the appeal of French national Thierry Michel Atangana, who was convicted in 2012 and sentenced to 20 years’ imprisonment for embezzlement of public funds. Many NGOs considered Atangana’s arrest and conviction politically motivated.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens have the right to seek redress for alleged wrongs through administrative procedures or through the legal system, although both options involved lengthy delays. There were problems enforcing civil court orders due to bureaucratic inefficiency.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law prohibit arbitrary interference with privacy, family, home, or correspondence, these rights were subject to restriction for the “higher interests of the state,” and there were credible reports that police and gendarmes harassed citizens, conducted searches without warrants, and opened or seized mail with impunity. Police sometimes detained family members and neighbors of criminal suspects.</p>
+<p>The law permits a police officer to enter a private home during daylight hours without a warrant if he is pursuing a criminal suspect. A police officer may enter a private home at any time in pursuit of a person observed committing a crime. An administrative authority, including a governor or prefect, may authorize police to conduct neighborhood sweeps without warrants. Such sweeps at times involved forced entry into homes in search of suspected criminals or stolen or illegal goods. Security forces sometimes sealed off a neighborhood, systematically searched homes, arrested persons, sometimes arbitrarily, and seized suspicious or illegal articles. Police detained citizens without identification cards until identity could be established. There were several complaints that police arbitrarily confiscated electronic devices, including cell phones.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section2"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>Although the law provides for freedom of speech and press, it also criminalizes media offenses, and the government restricted speech and press during the year.</p>
+<p><u>Freedom of Speech</u>: Government officials threatened, harassed, arrested, and denied equal treatment to individuals or organizations that criticized government policies or expressed views at odds with government policy. Individuals who criticized the government publicly or privately sometimes faced reprisals. The government increasingly abused the law requiring notification of public protests to stifle discourse before it could begin. The government attempted to impede criticism by monitoring political meetings.</p>
+<p><u>Press Freedoms</u>: Approximately 600 privately owned newspapers were published during the year, but only an estimated 25 had sufficient funds to publish regularly. The government enforced media regulations irregularly, often implementing arduous requirements selectively for regime critics. The government continued to disburse official funds to support private press outlets, although it disbursed funds selectively to outlets less critical of the government and with instructions to provide reporting favorable to the government. Government officials used expansive libel laws to arraign journalists who criticized them and to suspend newspapers, although there were fewer such reports during the year due to the government’s decision to practice “administrative tolerance” in declining to prosecute outlets and journalists for violations. Authorities did not accredit privately owned media with the president’s or prime minister’s offices and did not give private media permission to accompany the president on official trips.</p>
+<p>Approximately 200 privately owned radio stations officially operated in the country, including 48 community radio stations and 150 commercial radio stations, with three-fourths of them in Yaounde and Douala. Thirteen independent television stations had official licenses to broadcast, and many others broadcast programs through cable networks without official authorization, operating under a government policy of administrative tolerance. The government required nonprofit rural radio stations to submit applications to broadcast, but they were exempt from licensing fees. Commercial radio and television broadcasters must submit a licensing application and pay an application fee and thereafter pay a high annual licensing fee. The government prohibited rural community radio stations from discussing politics.</p>
+<p>The state-owned Cameroon Radio and Television (CRTV) broadcast on both television and radio. The government levied taxes to finance CRTV programming, which gave the station an advantage over independent broadcasters.</p>
+<p>In April, prior to the Senate elections, the minister of communication called on media outlets to temporarily cease broadcasting a program entitled “Direct Expression of Political Parties,” a move journalists deemed a restriction on citizens’ right to information.</p>
+<p>In April, in Bamenda, Northwest Region, local authorities closed the Fomunyoh Foundation Radio station after it invited two SCNC members to the station’s <i>Good Morning Bamenda Show</i>. The radio station was re-opened two months later.</p>
+<p>A 2012 presidential decree reorganized the National Communication Council (NCC) and empowered it with sanction capabilities. Sanctions ranged from warnings and temporary suspensions no longer than six months to complete bans. For example, on September 5, the NCC issued a series of decisions suspending media outlets and journalists, reportedly for unethical practices. On November 21, the NCC issued five other decisions suspending two newspapers for three months and warning three others, reportedly for unethical conduct. Sky One radio, Youth FM radio, and <i>L ‘Epervier</i> newspapers were suspended; the publisher of <i>L’Epervier</i> received a one-month suspension. <i>The Guardian</i> and <i>The Chronicle</i> newspapers, along with their publishers, received two- and three-month suspensions, respectively, while the <i>Guardian Post </i>and <i>Ouest Littoral</i> received a three-month suspension. Djacom FM was permanently banned. The NCC also issued warnings to <i>The Watchdog Tribune</i> and the publishers of <i>L’Oeil du Sahel, Pile ou Face, </i>and<i> Mutations </i>newspapers, and it suspended Peguy Meyong, a journalist working with the private radio station Satellite FM, for a period of three months.</p>
+<p><u>Violence and Harassment</u>: Security forces detained, arrested, and abused journalists during the year.</p>
+<p>In February, in Yaounde, the newspaper <i>Le Messager</i> reported that members of the judicial police arrested and abused one of its journalists, Souley Onohiolo. Souley had been attempting to enter the judicial police building during the evening when he was beaten and arrested by police officers on duty. The director of the judicial police subsequently released the journalist.</p>
+<p>On March 24, Richard Djimeli, a controversial filmmaker who had received anonymous death threats since releasing a film that criticized dictatorship, disappeared. Djimeli reappeared nine days later, claiming he had been seized and tortured by “men in military fatigues who were heavily armed.” The government was conducting an investigation at year’s end.</p>
+<p>Unlike in the previous year, there were no reports that security forces arrested and detained Cameroonian journalists representing foreign media outlets.</p>
+<p><u>Censorship or Content Restrictions</u>: The NCC is empowered to ensure that all printed media comply with the 1990 Law on Social Communication and its article 13 requirement that editors in chief deposit copies of each newspaper edition with the Prosecutor’s Office for scrutiny two hours prior to publication. Some private media enterprises reported government officials used the promise of advertising (or the threat of withholding it) to influence reporting of the government’s activities. Journalists and media outlets practiced self-censorship.</p>
+<p><u>Libel Laws/National Security</u>: Press freedom is constrained by strict libel laws that suppress criticism. These laws authorize the government, at its discretion and the request of the plaintiff, to criminalize a civil libel suit or to initiate a criminal libel suit in cases of alleged libel against the president and other high government officials. Such crimes are punishable by prison terms and heavy fines. The libel law places the burden of proof on the defendant. Government officials abused this law to keep local journalists from reporting on corruption and abusive behavior.</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on access to the internet or reports that the government monitored e-mail or internet chat rooms. The International Telecommunication Union reported that 5 percent of individuals used the Internet and 3 percent of households had access to the Internet in 2012.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>Although there were no legal restrictions on academic freedom, state security informants reportedly operated on university campuses. Professors said that participation in opposition political parties or public criticism of the government could affect their professional opportunities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<div class="sub-sub-section">
+<h3>
+						Freedom of Assembly</h3>
+<div class="sub-sub-section_content">
+<p>Although the law provides for freedom of assembly, the government restricted this right in practice. The law requires organizers of public meetings, demonstrations, and processions to notify officials in advance but does not require prior government approval of public assemblies and does not authorize the government to suppress public assemblies that it has not approved in advance. Nevertheless, officials routinely asserted that the law implicitly authorizes the government to grant or deny permission for public assembly. Consequently, the government often refused to grant permits for assemblies organized by persons or groups critical of the government and used force to suppress public assemblies for which it had not issued permits. The government also prevented civil society organizations and political parties from holding press conferences where criticism of corruption and abuse of power were expected.</p>
+<p>For example, in February security forces in Douala prevented the opposition Movement for New Independence and Democracy party from holding a scheduled press conference at the party’s headquarters in a private home. Although party officials had previously informed authorities about the conference, police forces claimed it was an illegal public gathering. Authorities refused to grant the SCNC permission to hold rallies and meetings, and security forces arrested and detained SCNC activists.</p>
+<p>Authorities continued to harass Maurice Kamto and his Cameroon Resistance Movement party. On November 7, Kamto was summoned for questioning before the general delegate for national security, reportedly in connection with his criticism of the organization of the October municipal and legislative elections. The government also continued to keep some opposition activists and dissidents under surveillance.</p>
+<p>Security forces forcibly disrupted meetings and demonstrations of citizens, trade unions, political activists, and students throughout the year. The use of excessive force by security forces resulted in numerous injuries to demonstrators. For example, between October 2012 and May 2013, police arrested at least 40 students on the Buea University campus following clashes between students and university police. The students, members of the University of Buea Student Union, staged a series of protests against the university leadership’s interference in their activities and called for self-management of the student union as well as better study and living conditions. Twelve of the students were convicted of disturbing public order. In February the government began prosecuting the 12 students, and in mid-November the Buea High Court sentenced five of them, including student union president Ronald Minang, to four-year jail terms and fines of CFA 850,000 ($1,750) each. The sentenced students filed an appeal but remained in custody pending payment of the fines.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Freedom of Association</h3>
+<div class="sub-sub-section_content">
+<p>The law provides for freedom of association, but the government limited this right in practice. The law prohibits organizations that advocate any type of secession, resulting in the disruption of SCNC meetings on the grounds that the purpose of the organization rendered any meetings illegal.</p>
+<p>In September, in Nguti, Southwest Region, the local administration revoked the charter of the NGO Nature Cameroon for the repetitive holding of public meetings. According to local groups, the NGO’s activities were suspended as a result of pressure from Herakles Farms, a firm with a planned palm oil project in the region.</p>
+<p>The conditions for government recognition of political parties, NGOs, or associations were complicated, involved long delays, and were unevenly enforced. The process resulted in associations operating in legal uncertainty, their activities tolerated but not formally approved.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report</i> at <a href="http://www.state.gov/j/drl/irf/rpt">www.state.gov/j/drl/irf/rpt.</a></p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>Although the constitution and law provide for freedom of internal movement, foreign travel, emigration, and repatriation, these rights sometimes were impeded. The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to internally displaced persons, refugees, and asylum seekers.</p>
+<p><u>In-country Movement</u>: Security forces at roadblocks and checkpoints in cities and on most highways often extorted bribes and harassed travelers. Police frequently stopped travelers to check identification documents, vehicle registrations, and tax receipts as security and immigration control measures. There were credible reports that police arrested and beat individuals who failed to carry their identification cards as required by law.</p>
+<p>In February the newspaper <i>Le Jour</i> reported that authorities in Fako, Southwest Region, attempted to prevent traditional rulers from traveling to Yaounde to attend the corruption trial of former prime minister and traditional ruler Inoni Ephraim.</p>
+<p><u>Exile</u>: The law prohibits forced exile, and the government did not use it. Some human rights monitors and political opponents remained in self-imposed exile because they felt threatened by the government.</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws provide for the granting of asylum or refugee status, and the government has established a system of providing protection to refugees, although the UNHCR continued to play an important role in providing documentation and assistance to the refugee population.</p>
+<p>The country continued to host more than 100,000 refugees, including more than 93,000 from the Central African Republic (CAR), at least 8,000 from Nigeria, and smaller refugee populations from Chad, Rwanda, and other countries. The UNHCR registered nearly 6,000 asylum seekers in the country.</p>
+<p>The government provided refugees the same rights to basic services as the host population. The government allowed access to water, medical care, and education for Nigerian refugees at the Minawao Camp in the Far North and for refugees from the CAR residing in the East and Adamawa regions.</p>
+<p><u>Durable Solutions</u>: Between January and August, 347 refugees voluntarily returned to their respective countries, while 118 settled in Cameroon. Violence in the CAR and northern Nigeria prevented additional returns.</p>
+<p><u>Temporary Protection</u>: The government provided temporary protection to individuals who may not qualify as refugees and provided it to approximately 100,000 individuals during the year.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section3"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens with the right to change their government peacefully, but President Biya and CPDM members controlled key aspects of the political process, including the judiciary.</p>
+</div>
+<div class="sub-sub-section">
+<h3>
+				Elections and Political Participation</h3>
+<div class="sub-sub-section_content">
+<p><u>Recent Elections</u>: On April 14, the country held its first Senate elections. The ruling CPDM won 54 of the 70 elected seats; an additional 30 senators were appointed by the president, in accordance with the constitution. The elections were peaceful and generally free and fair. On June 12, the Senate elected a president, Marcel Niat Njifenji, who is the designated successor to the president of the country in case of a vacancy.</p>
+<p>On September 30, the country held simultaneous legislative and municipal elections, with 29 legislative and 35 municipal parties participating. The CPDM party won 148 of 180 parliamentary seats and 305 of 360 municipal councils, representing gains for opposition parties compared to the parliament elected in 2007. In preparation Elections Cameroon (ELECAM), which was established in 2006 to administer elections and whose members were appointed by the president, recompiled voter rolls using biometric technology and issued biometric voter identification cards that were required at polling booths. Despite irregularities such as the inconsistent use of identification cards due to lack of expertise of local polling officials, opposition parties generally accepted the results. The high voter turnout (70 percent) and ELECAM’s administration of the election were viewed as major improvements over previous elections.</p>
+<p>In October 2011 President Biya was re-elected in a flawed poll marked by irregularities.</p>
+<p><u>Political Parties</u>: The country had 291 registered political parties. Membership in the ruling political party conferred significant advantages, including in the allocation of key jobs in state-owned entities and the civil service. The president appoints all ministers, including the prime minister, and also directly appoints the governors of each of the 10 regions, who also serve as CPDM officials. The president has the power to appoint important lower-level members of the 58 regional administrative structures as well. The government pays the salaries of (primarily nonelected) traditional leaders, which creates a system of patronage.</p>
+<p>The ruling CPDM was the most popular party in most regions, except in the Northwest, where it faced strong competition from the Social Democratic Front. Many residents of the Anglophone regions sought greater freedom, equality of opportunity, and better government by demanding regional autonomy rather than national political reform, and they formed several quasi-political organizations in pursuit of their goals.</p>
+<p>Authorities sometimes refused to grant opposition parties permission to hold rallies and meetings and arrested SCNC and Southern Cameroons Liberation Movement activists for participating in political activities.</p>
+<p>For example, in February, in Buea, Southwest Region, security forces invaded the residence of SCNC activist Mola Njoh Litumbe to prevent journalists from attending a press conference. Mola Njoh eventually held the conference via telephone.</p>
+<p>In June security forces disrupted an SCNC meeting at a private residence in Kumbo, Northwest Region, and arrested more than 80 SCNC activists. All were released the same day.</p>
+<p><u>Participation of Women and Minorities</u>: Women held 20 of 100 Senate seats, 56 of the 180 seats in the National Assembly, nine of 66 cabinet posts, and a few of the higher offices within the major political parties, including the CPDM. The Baka people, commonly known as Pygmies, took part as candidates in the municipal and legislative elections, but none were represented in the Senate, National Assembly, or in the higher offices of government.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section4"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but the government did not implement the law effectively, and corruption was pervasive at all levels of government. Officials frequently engaged in corrupt practices with impunity, and the World Bank’s most recent Worldwide Governance Indicators reflected that corruption was a severe problem.</p>
+<p><u>Corruption</u>: During the year the government sanctioned government employees for corruption, embezzlement, and mismanagement.</p>
+<p>In June police arrested Iya Mohamed, president of the Cameroon Football Federation and general manager of the Cameroon Cotton Development Corporation, following an audit report that accused him of mismanagement resulting in losses of 9 billion CFA ($18.6 million). The case was pending before the Special Criminal Court at year’s end.</p>
+<p>Also in June Jean Baptiste Nguini Effa, former general manager of the National Petroleum Distribution Company, won an appeal of his 2012 conviction on charges of embezzling funds from the company and was acquitted by the Special Criminal Court.</p>
+<p>In October the Special Criminal Court found former prime minister Inoni Ephraim and former minister of state Atangana Mebara guilty of corruption and sentenced them to 20 years in prison. The two had been charged with embezzling 3.5 billion CFA ($7.2 million) in connection with a Ministry of Transportation audit of the national airline.</p>
+<p>Police were sanctioned for corruption during the year. Some officers convicted of corruption were relieved of their duties but retained their jobs. Individuals reportedly paid bribes to police and the judiciary to secure their freedom. Police demanded bribes at checkpoints, and influential citizens reportedly paid police to make arrests or abuse individuals involved in personal disputes.</p>
+<p>Judicial corruption also was a problem. According to press reports, judicial authorities accepted illegal payments from detainees’ families in exchange for a reduced sentence or the outright release of their relatives. Judges were susceptible to executive influence and often stopped or delayed judicial proceedings in response to governmental pressure. Many powerful political or business interests had virtual immunity from prosecution, and politically sensitive cases occasionally were settled through bribery.</p>
+<p>The National Anti-Corruption Commission (CONAC) receives and investigates allegations of corruption; however, CONAC has no prosecutorial authority and must refer credible claims of corruption to the relevant ministry for administrative action or to the Ministry of Justice for judicial action. The vast majority of corruption allegations received and transmitted by CONAC resulted in administrative penalties ranging from 10 to 90 days of suspension. In 2012 the commission received 2,089 corruption claims. In December CONAC released a comprehensive annual report on corruption.</p>
+<p>The National Financial Investigations Unit (ANIF) is a separate financial intelligence unit that tracks money laundering and terrorist finance. Like CONAC, it can carry out its own investigations but has no prosecutorial authority.</p>
+<p>In January 2012 the prime minister launched Phase II of the Change Habits –Oppose Corruption program, meant to implement all legal provisions to fight corruption, specifically the adoption of a comprehensive anticorruption law. The law, and a decree to implement article 66 of the constitution requiring some public officials to declare their assets at the beginning and end of their tenure of office, continued to languish.</p>
+<p><u>Whistleblower Protection</u>: Although the law does not specifically address whistleblower protection, article 3(3) of the presidential decree establishing the National Anti-Corruption Commission (NACC) provides that the NACC must protect its sources of information, unless the NACC establishes that the informer had malicious intent and the allegations are baseless. The NACC generally implemented this provision to protect whistleblowers from retaliation.</p>
+<p><u>Financial Disclosure</u>: The constitution and law require senior government officials, including members of the cabinet, to declare their assets, although the president had not issued the requisite decree to implement the law by year’s end.</p>
+<p><u>Public Access to Information</u>: There are no laws providing citizens with access to government information, and such access was difficult to obtain. Most government documents, such as statistics, letters exchanged between various administrations, draft legislation, and investigation reports, were not available to the public or the media.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section5"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>Although a number of domestic and international human rights groups investigated and published findings on human rights cases, government officials repeatedly impeded the effectiveness of many local human rights NGOs by harassing their members, limiting access to prisoners, refusing to share information, and threatening violence against NGO personnel. Human rights defenders and activists received anonymous threats by telephone, text message, and e-mail. The government took no action to investigate or prevent such occurrences.</p>
+<p>Despite these restrictions, numerous independent domestic human rights NGOs continued operations, including the National League for Human Rights, Organization for Human Rights and Freedoms, Association of Women Against Violence, Movement for the Defense of Human Rights and Freedoms (MDDHL), Nouveaux Droits de l’Homme, and the Cameroonian Association of Female Jurists.</p>
+<p>The government arrested human rights activists during the year. In March, in Maroua, Far North Region, security forces from the Territorial Gendarmerie Brigade arrested MDDHL members Defedek Gordaye and Haman Djoda and detained them for five days. During their detention the activists were reportedly told to cease their human rights advocacy.</p>
+<p>The pattern of government intimidation of Maximilienne Ngo Mbe, leader of the Network of Defenders of Human Rights in Central Africa (REDHAC), continued. REDHAC issued several statements informing the public of threats and harassment against her, including tapped telephones and anonymous telephone threats. In April, in Douala, two individuals in military uniforms attempted to kidnap Ngo Mbe’s son as he returned from school. In June unknown persons broke into Ngo Mbe’s office and stole computer equipment, including flash drives, laptops, and hard drives. Throughout the year Ngo Mbe regularly received anonymous threatening messages via text and e-mail.</p>
+<p><u>Government Human Rights Bodies</u>: By year’s end the independent NCHRF had neither released its 2012 report on human rights nor published its 2012 activity report. It was, nevertheless, considered effective, albeit inadequately resourced. The National Assembly’s Constitutional Laws, Human Rights and Freedoms, Justice, Legislation, Regulations, and Administration Committee was adequately resourced and effective in reviewing the constitutionality of proposed legislation, although it approved most ruling party legislation and was not an effective check on ruling party initiatives.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section6"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law does not explicitly forbid discrimination based on race, language, or social status, but it prohibits discrimination based on gender and mandates that “everyone has equal rights and obligations.” The constitution prohibits all forms of discrimination. The government did not enforce these provisions effectively, and violence and discrimination against women and girls, trafficked persons, ethnic minorities, and members of the LGBT community were problems.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: Although the law criminalizes rape and provides penalties of between five and 10 years’ imprisonment for convicted rapists, police and courts rarely investigated or prosecuted rape cases. The law does not address spousal rape. During the year the media reported cases of rape.</p>
+<p>The Ministries of Social Affairs and Women’s Empowerment and the Family, in conjunction with local NGOs, continued their campaign to raise awareness of rape and educate citizens on penal provisions against rape.</p>
+<p>The law does not specifically prohibit domestic violence, although assault is prohibited and punishable by imprisonment and fines.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: Women over 18 were subjected to FGM/C in isolated areas of the Far North, East, and Southwest regions; most FGM/C victims were children (see section 6, Children).</p>
+<p><u>Sexual Harassment</u>: The law does not prohibit sexual harassment, and observers believed it was widespread. The government did not conduct any public education campaigns on the subject, and no statistics were available on its prevalence.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide freely and responsibly the number, spacing, and timing of children, but societal pressures continued to reinforce taboos on discussing contraception and all other sex-related issues, particularly in northern rural areas. Prenatal care, skilled attendance during childbirth, and postpartum care were not available to many women, particularly to those living in rural areas. In 2010 the UN Population Fund estimated the maternal mortality rate at 690 per 100,000 births and the contraceptive prevalence rate at approximately 27 percent. Maternal mortality remained high due to lack of access to medical care, the lack of trained medical personnel, and the high cost of prenatal care, hospital deliveries, and postpartum care. The low rate of contraception use was largely due to the lack of available products. The Ministry of Public Health provided counseling services to women during prenatal visits, promoting the concept of responsible parenthood and encouraging couples to use contraception to space the timing of their children. Couples were also encouraged to get HIV/AIDS testing prior to conception, and efforts continued to increase HIV/AIDS testing for pregnant women at health clinics.</p>
+<p><u>Discrimination</u>: Despite constitutional provisions recognizing women’s rights, women did not enjoy the same rights and privileges as men, and some provisions of civil law were prejudicial to women. For example, the law allows a husband to deny his wife’s right to work, and a husband may also end his wife’s right to engage in commercial activity by notifying the clerk of the commerce tribunal. Customary law imposes further strictures on women since in many regions a woman is regarded as the property of her husband. Because of custom and tradition, civil laws protecting women often were not respected. For example, in some ethnic groups women were precluded from inheriting from their husbands. In January the minister for Women’s Empowerment and the Family called for the full development of women in society as a 2013 priority action. In May the NGO Together for Parity delivered a memorandum to the president calling for the institutionalization of gender equity.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: Citizenship is derived from parents, and it is the parents’ responsibility to register births. Parents must obtain a birth declaration from the hospital or health facility in which the child was born and complete the application. The mayor’s office issues the birth certificate once the file is completed and approved. Because many children were not born in formal health facilities and many parents were unable to reach local government offices, many births were unregistered. Statistics on unregistered births were unavailable. In recent years the government created special civil status centers in remote areas to enable rural residents to register their children. Citizens unable to avail themselves of these resources often turned to a thriving industry for fabricated birth certificates, as birth certificates were required to register children for school or obtain a national identification card. The government continued its program begun in 2005 to issue birth certificates to Baka (Pygmies), most of whom did not have birth certificates. The program also assisted Baka in registering for school.</p>
+<p>In February President Biya issued a decree establishing the National Bureau for Civil Status to gather, document, and centralize civil status registrations from 2,400 centers around the country into a single database.</p>
+<p><u>Education</u>: The law provides that primary education is compulsory but does not set any age limit. Children were generally expected to complete primary education at age 12, or at age 13 to 14 if they had to repeat classes. Parents had to pay uniform and book fees for primary school students and tuition and other fees for secondary school students, rendering education unaffordable for many children. Children reportedly were excluded or punished in public and private schools for not paying parent-teacher association fees. The government continued its program to improve school access by creating new schools, building new classrooms, and recruiting new teachers. A low school enrollment rate was attributed to cost, with girls’ participation further reduced by early marriage, sexual harassment, unwanted pregnancy, prejudice, and domestic responsibilities. The Association to Combat Violence against Women (ALVF) established committees to counter violence against girls in and out of school and to encourage girls to remain in school. During the year some committees were upgraded and officially registered as civil society organizations.</p>
+<p><u>Child Abuse</u>: Child abuse was a major problem. According to a 2011 survey, 76 percent of children reported being hit frequently at home, and 10 percent of those between six and 15 years old reported sexual abuse. Newspaper reports often cited children as victims of kidnapping and mutilation.</p>
+<p><u>Forced and Early Marriage</u>: The minimum legal age for marriage is 15 for girls (requiring parental approval for a minor) and 18 for men, although many families reportedly tried to marry off their female children before they turned age 12. Early marriage was prevalent in the northern regions of Adamawa, North, and particularly Far North, where many girls as young as nine faced severe health risks from pregnancies. There were no statistics on the prevalence of child marriage.</p>
+<p><u>Harmful Traditional Practices</u>: The law does not prohibit FGM/C, although it prohibits “aggravated assault to organs.” FGM/C was practiced in isolated areas of the Far North, East, and Southwest regions, although statistics on its prevalence were unavailable. Internal migration contributed to the spread of FGM/C to different areas. The majority of FGM/C procedures were clitorectomies. Unlike in previous years, there were no reports that infibulation was performed in any part of the country. FGM/C usually was practiced on infants and preadolescent girls. The Ministry of Women’s Empowerment and the Family established local FGM committees in areas where FGM was prevalent, particularly in the Far North Region. The committees networked with former excision practitioners to reduce the phenomenon. A number of NGOs also contributed to the fight against FGM/C, including the ALVF and Local Action for Participative and Self-sustaining Development. According to the Far North regional delegate for Women’s Empowerment and the Family, some mothers took their female children to neighboring Chad and Nigeria for FGM/C after Cameroon tightened measures against the procedure.</p>
+<p>There were reports of breast ironing, a procedure to flatten a young girl’s growing breasts with hot stones, cast-iron pans, or bricks. The procedure was considered a way to delay a girl’s physical development, thus limiting the risk of sexual assault and teenage pregnancy. The procedure has harmful physical and psychological consequences, which include pain, cysts, abscesses, and physical and psychological scarring.</p>
+<p><u>Sexual Exploitation of Children</u>: Penalties for the sexual exploitation of children include imprisonment of 15 to 20 years and a fine of 100,000 to 10 million CFA ($206 to $20,600). The law does not specifically provide a minimum age for consensual sex. The law prohibits the use of children for the production of pornography and provides for prison terms from five to 10 years and fines of five to 10 million CFA ($10,300 to $20,600) for perpetrators who use any electronic system to forward child pornography or any document that could harm the dignity of a child. Children under the age of 18 were exploited in prostitution, and the problem was believed to be pervasive, although no statistics were available.</p>
+<p><u>Infanticide</u>: There were credible stories of mothers (usually young, unemployed, and unmarried) abandoning their newborns in streets, latrines, or garbage cans.</p>
+<p><u>Displaced Children</u>: Approximately 2,000 children lived on the streets of major urban centers. The Project to Fight the Phenomenon of Street Children, a governmental project in partnership with NGOs, gathered information on street children and offered health care, education, and psychological care. The project also bolstered the intake capacities of specialized centers.</p>
+<p>In June the Ministry of Social Affairs and the Civic Service Agency for Participation in Development (ASCNPD) adopted a plan to provide rehabilitation, civic education, counseling, and technical training for street children, vulnerable indigenous people, persons with disabilities, and youths in border areas. The ministry agreed to provide the ASCNPD with technical staff, to run care centers for street children, and to identify the parents and relatives of street children. As of June the ministry had identified 1,321 street children and reunited 554 of them with their families.</p>
+<p><u>International Child Abductions</u>: The country is not a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>The Jewish community was very small, and there were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law does not specifically address discrimination against persons with physical, sensory, intellectual, and mental disabilities, although the constitution explicitly forbids all forms of discrimination, providing that “everyone has equal rights and obligations,” and the government made efforts to effectively enforce this with regard to persons with disabilities. The law requires that both new and existing government and private buildings be designed to facilitate access by persons with disabilities. Secondary public education is tuition free for persons with disabilities and children born of parents with disabilities, and initial vocational training, medical treatment, and employment must be provided “when possible,” and public assistance “when needed.” Children with disabilities attended mostly mainstream schools, although some schools specializing in education for children with visual, hearing, or physical disabilities existed.</p>
+<p>Societal discrimination continued against persons with disabilities, especially persons with albinism and individuals with dwarfism or similar conditions resulting in short stature. Such discrimination occurred less frequently than in previous years, but employment opportunities for persons with albinism remained limited.</p>
+<p>Society largely treated persons with disabilities as outcasts, and many believed that providing assistance was the responsibility of churches or foreign NGOs.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>The population consists of an estimated 286 ethnic groups, among which there were frequent and credible allegations of discrimination. Ethnic groups commonly gave preferential treatment to fellow ethnic group members in business and social practices. Members of the president’s Beti/Bulu ethnic group from southern areas held key positions and were disproportionately represented in the government, state-owned businesses, security forces, and the ruling CPDM party.</p>
+<p>Northern areas continued to suffer from ethnic tensions between the Fulani (or Peuhl) and the Kirdi, who remained socially, educationally, and economically disadvantaged relative to the Fulani in the three northern regions.</p>
+<p>Traditional Fulani rulers continued to wield great power over their subjects, who often included Kirdi, and sometimes subjected them to tithing and forced labor. Isolated cases of hereditary servitude were alleged, largely Fulani enslavement of Kirdi.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>An estimated 50,000 to 100,000 Baka, including Bakola and Bagyeli (Pygmies), resided primarily (and were the earliest known inhabitants) in the forested areas of the South and East regions. While no legal discrimination existed, other groups often treated the Baka as inferior and sometimes subjected them to unfair and exploitative labor practices. The Bororos, itinerant pastoralists mostly present in the North, East, Adamawa, and Northwest regions, did not face active discrimination but experienced conflicts over ownership of land and access to water. While the government did not effectively protect the civil or political rights of either group, it implemented a number of initiatives to promote the rights of the Baka people under the National Plan for the Empowerment of the Baka People. Programs during the year included training Baka and Bororos on agricultural and animal husbandry techniques, including follow-on support for projects initiated after completion of training, and recruiting Baka and Bororos to attend teacher training colleges. Baka and Bororos communities complained about being marginalized, forcibly removed from their ancestral lands, and being denied access to water.</p>
+<p>In March a group of associations of ethnic minorities including the Baka, Bororos, and mountain dwelling tribes addressed a petition to President Biya requesting greater political participation and government appointments.</p>
+<p>The Ministry of Social Affairs continued efforts begun in 2005 to provide birth certificates and national identity cards to Baka. Most Baka, however, did not have birth certificates or identity cards, and efforts to reach Baka were impeded by the difficulty in accessing their homes deep in the forest.</p>
+</div>
+</div>
+<div class="sub-section section6societalabuses">
+<a class="goto" name="section6societalabuses"></a>
+<h2>
+				Societal Abuses, Discrimination, and Acts of Violence Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>Consensual same-sex sexual activity is illegal and punishable by a prison sentence of six months to five years and a fine ranging from 20,000 to 200,000 CFA ($41 to $410). Authorities actively enforced the law and arrested, tried, jailed, and beat alleged LGBT individuals during the year. Security forces reportedly actively targeted alleged LGBT individuals and cooperated with vigilante groups to entrap and arrest them. Credible reports indicated that there may have been as many as 200 individuals incarcerated in the country on charges of sexual relations between persons of the same sex.</p>
+<p>LGBT individuals regularly faced social stigmatization and mob violence, which sometimes resulted in their deaths.</p>
+<p>In July, for example, Eric Ohena Lembembe – a journalist, LGBT activist, and the executive director of the Cameroonian Foundation against AIDS – was found strangled to death at his home in Yaounde. Lembembe had been bound, beaten, and burned with an iron. Civil society members and human rights organizations credibly claimed that the killing was linked to Lembembe’s activism and sexual orientation, a contention that the minister of communication publicly questioned in the days following the crime. The official investigation into Lembembe’s death was uniformly unprofessional, and no suspects were identified by year’s end.</p>
+<p>In July a mob in the village of Muyuka, Southwest Region, stoned to death Henry Mbah, an allegedly gay man. Mbah reportedly was killed after his wife caught him in an intimate situation with another man, Elvis Atabong. Although reportedly injured, Atabong was apparently saved from the mob by police officers, who promptly arrested him. The status of Atabong’s case and any investigation into Mbah’s killing were unknown.</p>
+<p>Also in July Joseph Omgbwa was sentenced to two years in prison for having sexual relations with a person of the same sex, along with Nicolas Ntamack, who was sentenced to one year in prison on the same charge. Omgbwa and Ntamack’s sentences came two years after Omgbwa was arrested while trying to sell a man a gay pornography DVD in an apparent police sting operation. Ntamack was arrested shortly thereafter when he attempted to visit Omgbwa at the police station.</p>
+<p>The Movement of Cameroonian Youth organized anti-homosexual brigades throughout the year to locate and harass LGBT individuals in nightclubs. In August the movement organized a public march to urge a more heavy-handed government crackdown on homosexuality.</p>
+<p>Suspected members of the LGBT community received anonymous threats by telephone, text message, and e-mail. LGBT individuals who sought services or protection from the authorities were regularly rebuffed, extorted, or arrested. LGBT organizations also were targeted. In July arsonists set fire to the NGO Alternatives Cameroon Access Center in Douala, resulting in significant damage to the center’s HIV testing and counseling records. Police forces ruled the fire a criminal act, but no suspects were identified.</p>
+<p>During his first public speech in August, Jean Mbarga, the newly appointed administrator of the Catholic Archdiocese of Yaounde and the archbishop of Ebolowa, condemned homosexuality as a foreign practice and called on Africans to “resist what will destroy their culture and family.”</p>
+<p>Despite the environment various human rights and health organizations continued to advocate for the LGBT community by defending LGBT individuals being prosecuted, promoting HIV/AIDS initiatives, and working to change laws prohibiting consensual same-sex activity.</p>
+</div>
+</div>
+<div class="sub-section section6othersocietal">
+<a class="goto" name="section6othersocietal"></a>
+<h2>
+				Other Societal Violence or Discrimination</h2>
+<div class="sub-section_content">
+<p>Persons infected with HIV/AIDS often suffered official and social discrimination and were isolated from their families and society due to the societal stigma and lack of education about the disease.</p>
+<p>Unlike in previous years, there were no reports of discrimination against persons suspected of practicing witchcraft.</p>
+<p>Vigilante violence against persons suspected of theft resulted in at least 15 deaths during the year. Public frustration regarding police ineffectiveness and the release without charge of many individuals arrested for serious crimes contributed to vigilante violence.</p>
+<p>For example, in January residents in Yaounde beat to death a man who reportedly had attempted to steal from a local shop. In February, in Bafoussam, West Region, motorcycle taxi drivers beat to death a man who reportedly had attempted to steal a motorbike. Investigations in most of the cases continued at year’s end.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section7"> </span><span class="st_twitter" st_title="Cameroon #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2013 - Cameroon - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2013%2526dlid=220090%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law allows workers to form and join trade unions, conduct legal strikes, and bargain collectively, subject to previous authorization by public authorities. Statutory limitations substantially restricted these rights. The law does not permit the creation of a union that includes both public and private sector workers or the creation of a union that includes different or closely related sectors. The law requires that unions register with the government, permitting groups of no fewer than 20 workers to organize a union by submitting a constitution and bylaws, and nonconviction certifications for each founding member. The law provides for heavy fines for workers who form a union and carry out union activities without registration. Trade unions or associations of public servants may not join a foreign occupational or labor organization without prior authorization from the minister responsible for “supervising public freedoms.”</p>
+<p>The constitution and law provide for collective bargaining between workers and management as well as between labor federations and business associations in each sector of the economy. The law does not apply to the agricultural or other informal sectors, which included the majority of the workforce.</p>
+<p>Legal strikes or lockouts may be called only after conciliation and arbitration procedures have been exhausted. Workers who ignore procedures to conduct a legal strike can be dismissed or fined. Before striking, workers must seek mediation from the Ministry of Labor and Social Security at the local, regional, and ministerial levels. Only if mediation fails at all three levels can workers formally issue a strike notice and subsequently strike. The provision of law allowing persons to strike does not apply to civil servants, employees of the penitentiary system, or workers responsible for national security, including police, gendarmerie, and army personnel. Instead of strikes, civil servants are required to negotiate grievances directly with the minister of the appropriate department in addition to the minister of labor and social security.</p>
+<p>The constitution and law prohibit antiunion discrimination, and employers guilty of such discrimination are subject to fines of up to approximately one million CFA ($2,060). Nevertheless, employers found guilty are not required to compensate workers for discrimination or to reinstate fired workers.</p>
+<p>Industrial-free zones are subject to labor law, except for the following provisions: the employers’ right to determine salaries according to productivity, the free negotiation of work contracts, and the automatic issuance of work permits for foreign workers.</p>
+<p>The government interfered with union activities. The government applied labor laws inconsistently, and some sections of labor law had no force or effect because the Presidency had not issued implementing decrees.</p>
+<p>Some independent unions accused the government of promoting division within trade unions to weaken them, as well as protecting nonrepresentative trade union leaders with whom it could negotiate more easily. The government also reportedly bribed union leaders to call off strikes.</p>
+<p>For example, in August authorities allegedly negotiated with the ousted executive of SNICOMP, a teachers union, to call off a strike after failing to reach an agreement with the newly elected executive on August 16. The ousted executive used radio and television announcements to call off the planned strike. On August 20, police arrested 18 trade unionists, took them to police stations, and held them overnight. Other activists were dispersed as they arrived at the meeting area. On August 21, a court ordered the release of the 18 and instructed them to report for hearings whenever necessary. The next hearing was scheduled for January 2014.</p>
+<p>In November 2012 the General Union of Workers of Cameroon (UGTC) filed a complaint on behalf of the National Union of Employees, Supervisors, and Managers of Banks and Financial Establishments of Cameroon. The complainant alleged acts of interference and antiunion discrimination by the director general of the National Social Insurance Fund (CNPS). Despite the labor inspectorate’s instruction to restore the rights of the union leader, the CNPS continued to refuse to comply with the inspectorate’s ruling, and wage reductions of the union leader continued. The UGTC took the matter to the Geneva-based Committee on Freedom of Association after failing to reach an agreement with the CNPS. At year’s end the CNPS had taken no action.</p>
+<p>Arbitration decisions are legally binding but were often unenforceable when parties refused to cooperate. Antiunion discrimination occurred. The blacklisting of union members, unfair dismissal, creation of employer-controlled unions, and threats against workers trying to unionize were common practices.</p>
+<p>During the year union leaders were charged with disturbing public order after they damaged property and blocked the entrance to a hotel where they were striking to protest salary arrears. The leaders were later released, and the hotel director claimed to have paid the salary arrears.</p>
+<p>In November 2012 police in Yaounde attacked approximately 500 members of the Musicians’ Union of Cameroon, who were protesting the failure to enforce an agreement to pay royalties. Sixty-three musicians were arrested and briefly detained.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The constitution and law prohibit all forms of forced and compulsory labor. The law prohibits slavery, exploitation, and debt bondage and voids any agreement in which violence was used to obtain consent. Violations of the law are punishable by prison terms of five to 20 years and fines ranging from 10,000 CFA ($20.60) to 10 million CFA ($20,600). In cases of debt bondage, penalties are doubled if the offender is also the guardian or custodian of the victim. The law also extends culpability for all crimes to accomplices and corporate entities. The government made efforts to prevent and eliminate forced labor and collaborated with the regional office of the International Labor Organization (ILO) to draft a national plan of action. The government placed renewed emphasis on street children, considered most vulnerable to child labor, including forced labor.</p>
+<p>A 2011 law extends antitrafficking provisions to all persons regardless of age or gender.</p>
+<p>There were credible reports of hereditary servitude imposed on former slaves in some chiefdoms in the North Region. Many Kirdi, whose tribe had been enslaved by Fulani in the 1800s, continued to work for traditional Fulani rulers for compensation, while their children were free to pursue schooling and work of their choosing. Kirdi were also required to pay local chiefdom taxes to the Fulani, as were all other subjects. The combination of low wages and high taxes, although legal, effectively constituted forced labor. While technically free to leave, many Kirdi remained in the hierarchical and authoritarian system because of a lack of viable options.</p>
+<p>Prison labor occurred and is permitted by prison regulation. Prison authorities continued to arrange for prison inmates to be contracted out to private employers or used as communal labor for municipal public works without the informed or formal consent of the prisoner. Prison administrators usually kept money generated from these activities.</p>
+<p>In the South and East regions, some Baka, including children, continued to be subjected to unfair labor practices by Bantu farmers, who hired the Baka at exploitive wages to work on their farms during the harvest seasons.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip">www.state.gov/j/tip</a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law generally protects children from exploitation in the workplace and specifies penalties ranging from fines to imprisonment for infringement. The law sets a minimum age of 14 for child employment, prohibits children from working at night or longer than eight hours a day, and enumerates tasks that children under 18 cannot legally perform, including moving heavy objects, undertaking dangerous and unhealthy tasks, working in confined areas, and prostitution. Employers were required to train children between the ages of 14 and 18, and work contracts must contain a training provision for minors. These provisions of the law were not adequately enforced.</p>
+<p>The Ministry of Social Affairs and the Ministry of Labor and Social Security were responsible for enforcing existing child labor laws through site inspections of registered businesses. Although sporadic inspections occurred during the year, the government did not allocate sufficient resources to support an effective inspection program. Moreover, the legal prohibitions do not include family chores, which in many instances were beyond a child’s capacity. The government employed 84 general labor inspectors, whose responsibilities included investigating child labor.</p>
+<p>The use of child labor, particularly in informal sectors, remained rampant. According to ILO’s 2012 survey, 40 percent of children between the ages of six and 14 were engaged in economic activity; 89 percent of working children were employed in the agricultural sector, 5 percent in commercial activities, and 6 percent in either industry or domestic work.</p>
+<p>There were reports that some parents gave their children to “marabouts” (traditional religious figures) in Maroua, in the Extreme North Region, to learn the Koran and prepare them to become marabouts themselves. There were reports that some of these children were subjected to forced begging by unscrupulous marabouts.</p>
+<p>Parents viewed child labor as both a tradition and a rite of passage. Relatives often employed rural youth, especially girls, as domestic helpers, and these jobs seldom allowed time for school. In rural areas many children began work at an early age on family farms. The cocoa industry and cattle rearing sector also employed child laborers. These children originated, for the most part, from the three northern and the Northwest regions.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor</i> at <a href="http://www.dol.gov/ilab/programs/ocft/tda.htm">www.dol.gov/ilab/programs/ocft/tda.htm</a>.</p>
+</div>
+</div>
+<div class="sub-section section7dacceptable">
+<a class="goto" name="section7dacceptable"></a>
+<h2>
+				d. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>The minimum wage in all sectors was 28,246 CFA ($58.30) per month. The law establishes a standard workweek of 40 hours in public and private nonagricultural firms and 48 hours in agricultural and related activities. There are exceptions for guards and firefighters (56 hours a week), service sector staff (45 hours), and household and restaurant staff (54 hours). The law mandates at least 24 consecutive hours of weekly rest. Premium pay for overtime ranges from 120 to 150 percent of the hourly pay depending on the amount of overtime and whether it is weekend or late-night overtime. There is a prohibition on excessive compulsory service.</p>
+<p>The government sets health and safety standards. The National Commission on Health and Safety in the Workplace establishes the list of occupational diseases. These laws do not apply to the informal sector or to some domestic workers. The Ministry of Labor and Social Security is responsible for national enforcement of the minimum wage and work-hour standards. Ministry inspectors and occupational health physicians are responsible for monitoring health and safety standards, but the ministry lacked the resources for a comprehensive inspection program.</p>
+<p>Despite the minimum wage law, employers often negotiated with workers for lower salaries, in part due to the high rate of unemployment in the country. Salaries lower than the minimum wage were prevalent in the public works sector, where many positions required unskilled labor.</p>
+</div>
+</div>
+</div>
+</div>
+</div>

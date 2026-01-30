@@ -1,0 +1,578 @@
+2014
+Panama
+<div id="centerblock"><div id="icons">
+<div class="pdf-icon-div">
+<a class="pdf-icon" href="#" title="Download PDF"><span>PDF</span></a></div>
+<div class="sharepage-icons">
+<span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706"> </span><span class="st_facebook" st_title="Panama" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - " st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706"> </span></div>
+<div class="copylink-icon">
+<span>Permalink: <a href="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236706">http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014&amp;dlid=236706</a></span></div>
+</div>
+<div id="toc" style="display:none;">
+<ul class="megamenu toc">
+<li>
+<div class="megawrapper">
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#executive">EXECUTIVE SUMMARY</a></li>
+<li>
+<a href="#section1">Section 1. Respect for the Integrity of the Person, Including Freedom from:</a>
+<ol>
+<li>
+<a href="#section1aarbitrary">a. Arbitrary or Unlawful Deprivation of Life</a></li>
+<li>
+<a href="#section1bdisappearance">b. Disappearance</a></li>
+<li>
+<a href="#section1ctorture">c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</a></li>
+<li>
+<a href="#section1prisonand">Prison and Detention Center Conditions</a></li>
+<li>
+<a href="#section1darbitrary">d. Arbitrary Arrest or Detention</a></li>
+<li>
+<a href="#section1edenial">e. Denial of Fair Public Trial</a></li>
+<li>
+<a href="#section1farbitrary">f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section2">Section 2. Respect for Civil Liberties, Including:</a>
+<ol>
+<li>
+<a href="#section2afreedom">a. Freedom of Speech and Press</a></li>
+<li>
+<a href="#section2bfreedom">b. Freedom of Peaceful Assembly and Association</a></li>
+<li>
+<a href="#section2cfreedom">c. Freedom of Religion</a></li>
+<li>
+<a href="#section2dfreedom">d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</a></li>
+</ol>
+</li>
+<li>
+<a href="#section3">Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government</a>
+<ol>
+<li>
+<a href="#section3electionsand">Elections and Political Participation</a></li>
+</ol>
+</li>
+<li>
+<a href="#section4">Section 4. Corruption and Lack of Transparency in Government</a></li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section5">Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights</a></li>
+<li>
+<a href="#section6">Section 6. Discrimination, Societal Abuses, and Trafficking in Persons</a>
+<ol>
+<li>
+<a href="#section6women">Women</a></li>
+<li>
+<a href="#section6children">Children</a></li>
+<li>
+<a href="#section6anti-semitism">Anti-Semitism</a></li>
+<li>
+<a href="#section6traffickingin">Trafficking in Persons</a></li>
+<li>
+<a href="#section6personswith">Persons with Disabilities</a></li>
+<li>
+<a href="#section6nationalracialethnicminorities">National/Racial/Ethnic Minorities</a></li>
+<li>
+<a href="#section6indigenouspeople">Indigenous People</a></li>
+<li>
+<a href="#section6actsof">Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</a></li>
+<li>
+<a href="#section6hivand">HIV and AIDS Social Stigma</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="megacolumn">
+<div class="mega_c2 megacolumn-content">
+<ul>
+<li>
+<a href="#section7">Section 7. Worker Rights</a>
+<ol>
+<li>
+<a href="#section7afreedom">a. Freedom of Association and the Right to Collective Bargaining</a></li>
+<li>
+<a href="#section7bprohibition">b. Prohibition of Forced or Compulsory Labor</a></li>
+<li>
+<a href="#section7cprohibition">c. Prohibition of Child Labor and Minimum Age for Employment</a></li>
+<li>
+<a href="#section7ddiscrimination">d. Discrimination with Respect to Employment or Occupation</a></li>
+<li>
+<a href="#section7eacceptable">e. Acceptable Conditions of Work</a></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section executive">
+<a class="goto" name="executive"></a>
+<h1>
+		EXECUTIVE SUMMARY<span class="link1">Share</span><span class="toggle-item-link1"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=executive"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=executive"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=executive" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - EXECUTIVE SUMMARY" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=executive"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p><em>Note: This report was updated 7/23/15; see Appendix H: Errata for more information.</em></p>
+<p>Panama is a multi-party constitutional democracy. In May voters chose Juan Carlos Varela Rodriguez as president in national elections that international and domestic observers considered generally free and fair. Varela took office on July 1. Authorities maintained effective control over the security forces.</p>
+<p>The principal human rights abuses were harsh prison conditions, marked by overcrowding and inadequate health care; judicial ineffectiveness, including a judiciary susceptible to corruption and outside influence; and widespread corruption, often practiced with impunity.</p>
+<p>Other human rights abuses reported included prolonged pretrial detention, violence against women and children, trafficking in persons, marginalization of indigenous people, societal discrimination based on HIV/AIDS status and sexual orientation, and child labor.</p>
+<p>The government prosecuted few alleged cases of corruption or abuse of authority by government officials, leaving a widespread perception of impunity.</p>
+</div>
+</div>
+</div>
+<div class="section section1">
+<a class="goto" name="section1"></a>
+<h1>
+		Section 1. Respect for the Integrity of the Person, Including Freedom from:<span class="link2">Share</span><span class="toggle-item-link2"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section1"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section1"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section1" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 1. Respect for the Integrity of the Person, Including Freedom from:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section1"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section1aarbitrary">
+<a class="goto" name="section1aarbitrary"></a>
+<h2>
+				a. Arbitrary or Unlawful Deprivation of Life</h2>
+<div class="sub-section_content">
+<p>There were no reports the government or its agents committed arbitrary or unlawful killings.</p>
+<p>In 2013 on the Pan American Highway near the town of San Carlos, police shot at a car they mistakenly believed to be driven by escaped convicts, killing a two-year-old boy and a 15-year-old girl. In June outgoing President Ricardo Martinelli signed 368 presidential pardons, including pardons of police agents Adelina Perez and Alexander Rosales, who allegedly shot the youth in the San Carlos incident. Civil society lawyers challenged the pardons before the Supreme Court of Justice as unconstitutional. As of November the Supreme Court had not made a decision, but through Executive Decree 472 of August 14, President Varela revoked all of the presidential pardons granted by then president Martinelli. Perez and Rosales remained detained at year’s end.</p>
+<p>A widely held perception of impunity persisted, as each year investigations were announced, but the results were not made public.</p>
+</div>
+</div>
+<div class="sub-section section1bdisappearance">
+<a class="goto" name="section1bdisappearance"></a>
+<h2>
+				b. Disappearance</h2>
+<div class="sub-section_content">
+<p>There were no reports of politically motivated disappearances.</p>
+</div>
+</div>
+<div class="sub-section section1ctorture">
+<a class="goto" name="section1ctorture"></a>
+<h2>
+				c. Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment</h2>
+<div class="sub-section_content">
+<p>The constitution prohibits such practices, and there were no reports government officials employed them during the year, although there were cases of police abuse in previous years in which President Varela revoked the pardons of accused officers whom outgoing President Martinelli had pardoned. Such was the case for police officers Boris Rodriguez Morales and Alberto Mario Rodriguez, who were sentenced by a criminal court in May to serve four years and two months in prison for beating Rafael Martinez in 2012; they were then pardoned by outgoing President Martinelli in June, but subsequently had their pardons revoked by President Varela in August. Rodriguez and Rodriguez Morales remained detained at year's end.</p>
+</div>
+</div>
+<div class="sub-section section1prisonand">
+<a class="goto" name="section1prisonand"></a>
+<h2>
+				Prison and Detention Center Conditions</h2>
+<div class="sub-section_content">
+<p>Prison conditions remained harsh and in some cases life-threatening, due primarily to overcrowding, a shortage of prison guards, lack of medical services, and inadequate sanitary conditions.</p>
+<p><u>Physical Conditions</u>: As of September the prison system had an intended capacity of 8,406 persons but held 15,578 prisoners (14,501 male and 1,077 female). In an effort to alleviate overcrowding, the government released 1,024 inmates who had completed two-thirds of their sentences.</p>
+<p>Authorities held men and women, and juveniles and adults, separately. Pretrial detainees shared cells with convicted prisoners due to space constraints. Prison authorities continued to separate the two groups. Through August authorities separated 60 percent of pretrial detainees from convicted prisoners. Although prison conditions for women were generally better than those for men, both populations remained in overcrowded facilities, with poor medical care and lack of basic supplies for personal hygiene. Juvenile pretrial and custodial detention centers also suffered from overcrowding and poor conditions. Inmates had inadequate supervision. During the year authorities hired 136 new prison guards, but there were only a total of 879 prison guards nationwide despite the need for 1,400. In all prisons inmates complained of limited time outside cells and limited access for family members. Small jails attached to local police stations sometimes held prisoners for days or weeks, and police officers who guarded them lacked the necessary custodial training to prevent abuses.</p>
+<p>The administration took limited steps to address prison overcrowding, such as through the Council for Penitentiary Policies’ decision to equip new hearing rooms within the La Joya and La Joyita complex, which would increase the number of hearings scheduled per week. A new hearing room inaugurated in December 2013 had not been equipped as of October.</p>
+<p>Hypertension, diabetes, dermatitis, and respiratory illnesses were the most common diseases among the prison population. Prison medical care was inadequate due to lack of personnel and medical resources. Prison medical units lacked insulin. Relatives of inmates were allowed to bring medicines with permission from the authorities, although some relatives paid bribes to agents to bypass the required clearances. Penitentiary system officials complained to Panamanian National Police (PNP) authorities that PNP agents confiscated or destroyed inmates’ medicines during raids. Penitentiary system officials reported there were five physicians at the La Joya-La Joyita complex, as well as one physician each in the women’s prison, the Colon prison, El Renacer, and Tinajitas. Clinics within La Joya and La Joyita prisons provided first aid and basic medical assistance but lacked the capacity to attend to serious medical problems. In some facilities there was a lack of potable water and inadequate ventilation and lighting.</p>
+<p>Of the 135 complaints by prisoners to the Office of the Human Rights Ombudsman as of November, the overwhelming majority were related to poor or inadequate medical attention, police abuse, and problems with the transportation system to attend medical appointments. La Joyita had a 48-bed clinic, but it remained underused due to the lack of guards to watch ill detainees, as well as a lack of medical equipment for more serious cases. Authorities transferred patients with serious issues to public clinics instead, but there were constant difficulties arranging for transportation of the inmates to public clinics. The penitentiary system did not have an ambulance in service; inmates had to be transported in police vehicles when they were available, and no medical assistance was provided during transportation. Upon arrival at a public hospital, a British inmate from La Joya prison died of injuries sustained in a fall, after waiting hours for transportation. Between January and November, an estimated 60 percent of inmates missed medical appointments due to a lack of escorts from the National Police.</p>
+<p>As of November eight inmates died in inmate-on-inmate violence, one committed suicide, one died of injuries sustained in a fall, and 28 died due to chronic illnesses and natural causes.</p>
+<p>As of July a total of 3,169 inmates were enrolled in education programs inside and outside the prisons. As of September, 1,974 inmates worked inside and outside the prisons. The system continued to apply the “2x1” reduction in time served (one day reduced for each two days of work or study).</p>
+<p><u>Administration</u>: Updated software for prison recordkeeping was operational only in three prisons (La Chorrera, Llano Marin, and La Joyita); the other prisons used an older version, and planned updates were delayed. Judges may order probation as an alternative to sentencing for nonviolent juvenile offenders. As of October judges placed nonviolent juvenile offenders on probation, which required psychological counseling, regular school attendance, and regular meetings with a social worker. Thirty-four juvenile offenders were granted house arrest as of October. The new accusatory justice system, active in four provinces at year’s end, includes provisions for plea bargaining and thus reduces imprisonment of nonviolent adult offenders.</p>
+<p>The 2011 pilot program for electronic monitoring for nonviolent pretrial inmates remained suspended. Inmates manipulated the devices by prying them open, leaving the premises, and then returning without anyone realizing it. Penitentiary system representatives continued to study the use of electronic bracelets for inmates.</p>
+<p>Prisoners could submit complaints to judicial authorities without censorship and request investigation of credible allegations of inhuman conditions, but authorities did not document the results of such investigations in a publicly accessible manner. The Ombudsman’s Office negotiated and petitioned on behalf of prisoners and received complaints about prison conditions. The Ombudsman’s Office continued to conduct weekly prison visits, and the government generally did not monitor its meetings with prisoners. As of October the Ombudsman’s Office had received 15 complaints of physical abuse committed by PNP agents, 50 complaints about lack of access to medical care, 19 complaints about lack of access to legal counsel, and four complaints about denial of access to education.</p>
+<p>Prisoners at most facilities had reasonable access to visitors, although relatives of inmates at times had to wait in line between 5 a.m. and 3 p.m. outside the prisons to obtain access for approved visits and were strip-searched before entering. Prisoners could observe their religious practices.</p>
+<p><u>Independent Monitoring</u>: The government permitted prison monitoring by independent nongovernmental observers, including a UN Office on Drugs and Crime (UNODC) delegation, which subsequently issued a comprehensive report on corruption within the prison system. The Catholic nongovernmental organization (NGO) Justice and Peace made regular visits and reported unobstructed access by various church groups of different faiths. Human rights NGOs wishing access to the prisons during fixed visiting hours of 9:30 a.m. to 3:30 p.m. must send a written request to the National Directorate of the Penitentiary System 15 days in advance. Per recommendations at the 2013 Inter-American Commission on Human Rights (IACHR) hearing, the Varela administration issued invitations to the UNODC and the IACHR to visit the country to advise on procedures to address problems associated with overcrowding, illegal conduct, and lengthy prison detentions. The government advised the IACHR that the judicial branch increased the number of video hearings to speed up cases and reduce lengthy detentions.</p>
+</div>
+</div>
+<div class="sub-section section1darbitrary">
+<a class="goto" name="section1darbitrary"></a>
+<h2>
+				d. Arbitrary Arrest or Detention</h2>
+<div class="sub-section_content">
+<p>The law prohibits arbitrary arrest and detention, and the government generally observed these prohibitions.</p>
+<div class="sub-sub-section">
+<h3>
+						Role of the Police and Security Apparatus</h3>
+<div class="sub-sub-section_content">
+<p>The country has no regular military forces. The PNP is responsible for internal law enforcement and public order. Civilian authorities in the Ministry of Public Security maintained effective control over all police, investigative, border, air, and maritime forces in the country. The government has mechanisms to investigate and punish abuse and corruption, but information on process and results of investigations was rarely made public. This lack of transparency included cases of civilian deaths during civil disturbances in 2012 and 2013.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Arrest Procedures and Treatment of Detainees</h3>
+<div class="sub-sub-section_content">
+<p>The Prosecutor’s Office issues arrest warrants based on evidence. The law provides for suspects to be brought promptly before a judge, but lack of prompt arraignment continued to be a problem except in the judicial districts operating under the new accusatory justice system, where lack of prompt arraignment would void the arrest. The law requires arresting officers to inform detainees immediately of the reasons for arrest or detention and of the right to immediate legal counsel. The law provides for bail, and while a functioning bail system exists for a limited number of crimes, it was largely unused for the majority of cases processed under the old inquisitorial system, which remained in effect in half of the judicial districts. Under the inquisitorial system, most bail proceedings are at the discretion of the Prosecutor’s Office and cannot be independently initiated by detainees or their legal counsel. Detainees gained prompt access to legal counsel and family members, and the government provided indigent defendants with a lawyer.</p>
+<p>The law prohibits police from detaining suspects for more than 48 hours without judicial authorization but permits the detention of minors for 72 hours. Under the inquisitorial system, the preliminary investigation phase of detention may last from eight days to two months, and the follow-up investigation phase can last another two to four months, depending on the number of suspects.</p>
+<p><u>Pretrial Detention</u>: The government regularly imprisoned inmates under the inquisitorial system for more than a year before a judge’s pretrial hearing, and in some cases pretrial detention exceeded the minimum sentence for the alleged crime, largely because of judicial inefficiency and the use of a written inquisitorial system. As of September, according to government statistics, 63 percent of prisoners were pretrial detainees. Courts in the four provinces that began to use the accusatorial system reported a decreased case backlog, with case processing times falling by 85 percent. Communication among authorities improved, and use of new procedural systems maintained the schedule of hearings.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1edenial">
+<a class="goto" name="section1edenial"></a>
+<h2>
+				e. Denial of Fair Public Trial</h2>
+<div class="sub-section_content">
+<p>The law provides for an independent judiciary; however, the judicial system was inefficient and susceptible to corruption and outside influence, and it faced allegations of manipulation by the executive branch. During the August IACHR hearing in Mexico, Panamanian NGOs complained - and the IAHRC agreed - that the absence of a professional judicial career track establishing procedures for appointments, promotions, and disciplinary actions resulted in broad discretion by the judges in applying regulations, compromised the independence of the judiciary system, and allowed higher authorities to exert pressure on an already weak system.</p>
+<p>The Directorate of Judicial Investigation, under PNP administrative control, provides investigative services to the judicial system. At the local level, mayors appoint administrative judges (corregidores) who exercise jurisdiction over minor civil cases and the arrest and imposition of fines or jail sentences of up to one year. Outside of Panama City, this system had serious shortcomings. Such judges usually had no legal training or other pertinent expertise. Defendants lacked adequate procedural safeguards. Appeal procedures were generally nonexistent. Affluent defendants often paid fines, while poorer defendants faced incarceration.</p>
+<div class="sub-sub-section">
+<h3>
+						Trial Procedures</h3>
+<div class="sub-sub-section_content">
+<p>The law provides that all citizens charged with crimes enjoy a presumption of innocence and have the right to counsel, to refrain from incriminating themselves or close relatives, and to be tried only once for a given offense. If not under pretrial detention, the accused may be present with counsel during the investigative phase of proceedings.</p>
+<p>In 2011 the government began implementing a new code of criminal procedure (designed to transition the country from an inquisitorial to an accusatory system of justice) in a process scheduled to conclude in 2014. In 2013, however, the National Assembly voted to delay implementation of the two remaining phases for two years, until 2015 and 2016, respectively, while leaving the new accusatory system intact in the already-implemented districts. The system, which aims to expedite justice, includes three components: prosecutorial investigation overseen by a guarantee judge whose responsibility is to ensure due process, an indictment request by the prosecutor, and oral trials before a panel of three judges.</p>
+<p>Trials are open to the public under the inquisitorial judicial system, which was in force in all but the four provinces using the accusatory system. The law provides for trial by jury if the defendant so chooses but only if one of the charges is murder. Judges may order the presence of pretrial detainees for providing or expanding upon statements or for confronting witnesses. Trials are conducted based on evidence presented by the public prosecutor. Defendants have the right to be present at trial and to consult with an attorney in a timely manner. Defendants may confront or question adverse witnesses and present their own witnesses and evidence. Defendants and their attorneys have access to relevant government-held evidence. Defendants have a right of appeal. The law extends these rights to all citizens, and the judiciary generally enforced them.</p>
+<p>The law obliges the government to provide public defenders for the indigent. In many cases public defenders received the case late in the investigation, after the prosecutor had evaluated most of the evidence and decided to recommend trial. There were no well-established procedures under the inquisitorial system for defenders to challenge the admissibility of evidence.</p>
+<p>The government took steps to reduce the backlog of pretrial detentions, including appointing two new judges, limiting the use of the “mobile court program” (in Darien only) that served both the Joya/La Joyita and the Meteti prison complexes, and increasing the use of video hearings through video hearing rooms installed in prisons - although two rooms within the Colon prison were not operational due to a lack of technical staff to manage the equipment. As of May, 1,528 hearings were scheduled in the provinces under the inquisitorial system; 221 actually took place in courts, and 759 were video hearings. The remaining 548 hearings did not occur due to the absence of defendants’ lawyers.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Political Prisoners and Detainees</h3>
+<div class="sub-sub-section_content">
+<p>There were no reports of political prisoners or detainees.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Civil Judicial Procedures and Remedies</h3>
+<div class="sub-sub-section_content">
+<p>Citizens have access to the courts to bring lawsuits seeking damages for, or cessation of, human rights violations. Most do not pursue such lawsuits because it is a long and tedious process. There are administrative and judicial remedies for alleged wrongs, and authorities often granted them to citizens who follow through with the process. The court can order civil remedies, including fair compensation to the individual injured. Cases involving violations of an individual’s human rights may be submitted through petitions by individuals or organizations to the IACHR, which in turn may submit the case to the Inter-American Court of Human Rights.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section1farbitrary">
+<a class="goto" name="section1farbitrary"></a>
+<h2>
+				f. Arbitrary Interference with Privacy, Family, Home, or Correspondence</h2>
+<div class="sub-section_content">
+<p>The law prohibits such actions, and the government generally respected these prohibitions. The Public Ministry maintained representatives in each PNP division to approve searches, and they approved numerous searches during the year.</p>
+<p>The law also sets forth requirements for conducting wiretap surveillance. It denies prosecutors authority to order wiretaps on their own and requires judicial oversight.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section2">
+<a class="goto" name="section2"></a>
+<h1>
+		Section 2. Respect for Civil Liberties, Including:<span class="link3">Share</span><span class="toggle-item-link3"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section2"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section2"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section2" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 2. Respect for Civil Liberties, Including:" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section2"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section2afreedom">
+<a class="goto" name="section2afreedom"></a>
+<h2>
+				a. Freedom of Speech and Press</h2>
+<div class="sub-section_content">
+<p>The constitution provides for freedom of speech and press, but there were some attempts by the Martinelli government between January and June to impede the media’s freedom of expression.</p>
+<p><u>Press Freedoms</u>: In May the civil court sentenced five broadcast journalists and two print journalists to pay more than 725,000 balboas ($725,000) to a member of the Panama Canal Board of Directors for slander and libel, resulting from an article published in the daily newspaper <i>La Estrella</i> in 2011regarding a contract controversy. Local journalism organizations, including the Journalism Forum, criticized the sentence as an attack on press freedom. The Inter American Press Association considered the sentence a threat and intimidation, with very negative effects to those in charge of investigating and informing the public.</p>
+<p>In mid-August the Supreme Court ruled in favor of three <i>La Prensa</i> reporters’ habeas data request submitted more than one year earlier during the Martinelli administration. The ruling involved information requested of former security minister Jose Raul Mulino, Comptroller General Gioconda Bianchini, and former ombudswoman Patria Portugal regarding government contracts for security/radar equipment, irregularities in the Social Security Administration, and access to information in the Ombudsman Office website. In September the Supreme Court granted a <i>La Prensa</i> reporter’s 2013 habeas data request for information involving transfer of public funds in the province of Herrera.</p>
+<p><u>Violence and Harassment</u>: In March former television anchorwoman Castalia Pascual reported receiving threats by telephone. That same week her media company, TVN, reported the company’s website TVN-2.com had been hacked, which impeded users’ access to the site. Telemetro news anchor Alvaro Alvarado reported receiving threats against himself and his family for his reporting on alleged government corruption (under the Martinelli administration).</p>
+<div class="sub-sub-section">
+<h3>
+						Internet Freedom</h3>
+<div class="sub-sub-section_content">
+<p>The government did not restrict or disrupt access to the internet or censor online content. There were no credible reports the government monitored private online communications without appropriate legal authority, although there were credible reports the previous administration did so. The International Telecommunication Union reported that in 2012 there were 1.75 million internet users in the country, representing 45 percent of the total population.</p>
+</div>
+</div>
+<div class="sub-sub-section">
+<h3>
+						Academic Freedom and Cultural Events</h3>
+<div class="sub-sub-section_content">
+<p>There were no government restrictions on academic freedom or cultural events.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sub-section section2bfreedom">
+<a class="goto" name="section2bfreedom"></a>
+<h2>
+				b. Freedom of Peaceful Assembly and Association</h2>
+<div class="sub-section_content">
+<p>The law provides for the freedoms of assembly and association, and the government generally respected these rights. Nevertheless, police at times used force to disperse demonstrators, especially when highways or streets were blocked. The law states that anyone who, through use of violence, impedes the transit of vehicles on public roads or causes damage to public or private property may be sentenced to imprisonment for six to 24 months.</p>
+</div>
+</div>
+<div class="sub-section section2cfreedom">
+<a class="goto" name="section2cfreedom"></a>
+<h2>
+				c. Freedom of Religion</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>International Religious Freedom Report </i>at <a href="http://www.state.gov/religiousfreedomreport/"><u>www.state.gov/religiousfreedomreport/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section2dfreedom">
+<a class="goto" name="section2dfreedom"></a>
+<h2>
+				d. Freedom of Movement, Internally Displaced Persons, Protection of Refugees, and Stateless Persons</h2>
+<div class="sub-section_content">
+<p>The law provides for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights, except for some instances of internal movement in Darien province. The government generally cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, persons under temporary humanitarian protection (THP), asylum seekers, and other persons of concern. The UNHCR had a unit dedicated to Panama within its regional office.</p>
+<p><u>In-country Movement</u>: The government generally permitted freedom of movement for recognized refugees and asylum seekers. During the year Colombian citizens living in the Darien region bordering Colombia under the THP regime were issued migration cards, allowing them freedom of movement, whereas previously they could leave those locations only with special temporary permits issued by the National Office for the Protection of Refugees (ONPAR).</p>
+<div class="sub-sub-section">
+<h3>
+						Protection of Refugees</h3>
+<div class="sub-sub-section_content">
+<p><u>Access to Asylum</u>: The country’s laws provide for the granting of asylum or refugee status, and the government has established a system for providing protection to refugees. A Colombian THP group has lived in the Darien region for more than 18 years. A 2011 law provides an avenue for those under THP to obtain legal permanent residency and requires the government to complete this regularization process within two years from the passage of the law. ONPAR coordinated with the National Migration Service, the Ministry of Labor, the UNHCR, National Civil Registry, and the Colombian embassy in this process. The latest census from ONPAR counted 413 THP designees, and as of October only six had not been issued national identification cards and work permits. No THP designees had been issued permanent residency cards, which made access to certain services such as education, health, and business services difficult at times. Additionally, ONPAR designated 65 other non-THP individuals in Darien as special cases and granted them permanent residency as well.</p>
+<p>According to ONPAR, as of July there were 1,608 individuals with refugee status, of whom 901 were Colombian. There were 712 applications for refugee status pending; of these 368 were Colombian.</p>
+<p>The national border and coast protection force, SENAFRONT, detected 3,564 Cuban migrants who arrived between January and October, compared with 1,808 for all of 2013. Most passed through Panama on their way north. An executive decree allows Cubans who arrive in country to receive transit visas without being detained. Nevertheless, 250 Cubans who arrived in mid-October were detained in a SENAFRONT station (designed to hold 30 persons) for at least five days for medical observation as a preventive measure against diseases like Ebola.</p>
+<p>The government reported continued migration of persons from South Asia and Africa en route to North America. As of August, 877 migrants from outside the hemisphere, the majority from Bangladesh and Nepal, had entered through Darien, and 375 persons applied for asylum between January and June. The majority of asylum seekers were Colombian. Authorities typically held migrants from outside the hemisphere in detention while their identities were verified and their asylum applications reviewed. As of August, 2,270 detainees had been held in the men’s immigration detention facility (Curundu) and 78 in the women’s facility (Avenida Cuba).</p>
+<p>According to the UNHCR and its NGO implementing partners, hundreds of persons living in the country may be in need of international protection. These included persons who were not granted asylum, persons whose claims were denied, and persons who did not apply for refugee status due to lack of knowledge or fear of deportation. Some sought to legalize their status in other ways. The UNHCR reported it was working with four Afghans who had tried for four years to be granted asylum status. They spent one year in detention and then were released because the detention center could not provide them with health care.</p>
+<p>The government allowed undocumented immigrants an opportunity to legalize their status under the “Crisol de Razas” program, provided they can prove employment and pay 1,300-1,800 balboas ($1,300-$1,800) in fees. The government announced that the program, begun under the previous administration four years ago, would be discontinued at year’s end. A total of 12,260 immigrants from Colombia, Nicaragua, Dominican Republic, and Venezuela, among others, applied to regularize their status.</p>
+<p><u>Refoulement</u>: The law incorporates protections against refoulement, but also sanctions for illegal or irregular entry. At times, however, border officials and authorities in urban centers did not have a clear understanding of their responsibilities when dealing with persons seeking asylum or refugee status. This lack of clarity resulted in arbitrary detention and placed asylum seekers at an increased risk of forced return to countries where their lives or freedom could be threatened. In June ONPAR, SENAFRONT, and the National Migration Service signed an agreement confirming that the government would honor their obligation of the 1951 convention on nonrefoulement. UNHCR representatives reported no new refoulement cases during year.</p>
+<p><u>Employment</u>: Refugees recognized by the authorities have the right to work, but recognized refugees complained that they faced discriminatory hiring practices.</p>
+<p><u>Access to Basic Services</u>: Refugees were sometimes denied access to education, while others were not issued diplomas if they could not present school records from their country of origin.</p>
+<p><u>Durable Solutions</u>: The law allows persons legally recognized as refugees or with asylum status who have lived in the country for more than three years to seek permanent residency; during the year 174 persons and their nuclear families applied for permanent residency, but no information was available on how many were accepted for resettlement in the country. As of November no information was available on whether the government assisted in the safe, voluntary return of refugees to their homes.</p>
+<p><u>Temporary Protection</u>: The only persons accorded temporary protection were those recognized with THP status, who were regularized under a 2011 law that established procedures for this group of refugees to become permanent residents. ONPAR is responsible for the process, with support from the Ministry of Labor, the Civil Registry, and the National Migration Service.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section3">
+<a class="goto" name="section3"></a>
+<h1>
+		Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government<span class="link4">Share</span><span class="toggle-item-link4"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section3"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section3"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section3" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 3. Respect for Political Rights: The Right of Citizens to Change Their Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section3"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides citizens the ability to change their government through the right to vote in free and fair elections, and citizens generally exercised this right. The law provides for direct popular election every five years of the president, vice president, legislators, and local representatives. Naturalized citizens may not hold specified categories of elective office.</p>
+</div>
+<div class="sub-section section3electionsand">
+<a class="goto" name="section3electionsand"></a>
+<h2>
+				Elections and Political Participation</h2>
+<div class="sub-section_content">
+<p><u>Recent Elections</u>: In May voters chose Juan Carlos Varela Rodriguez, the candidate of the opposition The People First Alliance, as president in national elections independent observers considered generally free and fair. Seventy-one legislators (including nine ongoing challenges as of November), 77 mayors, 648 local representatives, and seven council members were also elected. A record 76 percent of citizens cast their votes.</p>
+<p>The Electoral Tribunal supervised the elections, which the Organization of American States (OAS) election observation group noted had a “high participation of citizens that reached 76.8 percent and who exercised their right peacefully and with great civic spirit.” The OAS mission stressed the efforts of “authorities to promote inclusiveness.”</p>
+<p><u>Political Parties and Political Participation</u>: The law requires new political parties to meet strict membership and organizational standards to gain official recognition and participate in national campaigns. The law also requires that political parties obtain the equivalent of 4 percent of the total votes cast in order to maintain legal standing. The Revolutionary Democratic Party, Panamenista Party, Democratic Change Party, and Popular Party all complied with the requirement. The Frente Amplio por la Democracia (FAD), the sole leftist party, did not meet the requirement. The FAD did not win any legislative or mayoral seats but gained two local representatives in the countryside. Electoral law allows the FAD to register again upon meeting the legal requirements.</p>
+<p><u>Participation of Women and Minorities</u>: Women held 13 seats in the 71-member legislature and five places in the 18-member cabinet. Five seats in the legislature were designated to represent the country’s recognized indigenous regions. In general deputies in the legislature, cabinet members, and members of the Supreme Court did not identify themselves as members of ethnic or racial minorities.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section4">
+<a class="goto" name="section4"></a>
+<h1>
+		Section 4. Corruption and Lack of Transparency in Government<span class="link5">Share</span><span class="toggle-item-link5"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section4"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section4"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section4" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 4. Corruption and Lack of Transparency in Government" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section4"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law provides criminal penalties for official corruption, but the government generally did not implement these laws effectively. There were allegations that government officials engaged in corrupt practices with impunity. Corruption remained a problem in the executive, judicial, and legislative branches as well as in the security forces.</p>
+<p>Anticorruption mechanisms such as asset forfeiture, whistleblower and witness protection, plea bargaining, and professional conflict-of-interest rules exist. Although the law provides for judicial appointments through a merit-based system, civil society groups maintained that political influence and undue interference by higher-level judges undermined the system.</p>
+<p><u>Corruption</u>: Law 33, enacted in 2013, upgrades the National Transparency Council against Corruption to the National Authority for Transparency and Access to Public Information (ANTAI). ANTAI combats and investigates government corruption. Civil society groups continued to criticize ANTAI for not operating effectively and independently. ANTAI appeared to be adequately resourced. During the year ANTAI did not issue any sanction or financial penalty against any government institutions that denied access to public information.</p>
+<p>In 2013, the most recent year for which statistics are available, the local chapter of Transparency International reported that the government had made little progress in its fight against corruption, specifically in cases involving potential conflict of interests and free access to public information. The report highlighted the lack of regulation for prohibitions and incompatibilities that should be enforced for all elected authorities, the lack of norms for penalties due to unapproved absences from work by elected authorities, and the lack of regulation on the use of public resources.</p>
+<p>Corruption and a lack of accountability among police officers continued to be a problem.</p>
+<p>In May the Second Anti-Corruption Prosecutor’s Office opened an embezzlement case against former vice minister of commerce Luis Eduardo Camacho Gonzalez. Camacho Gonzalez was allegedly directly involved in the operation of a call center that campaigned for then governing party Democratic Changes. The call center operations were allegedly paid for by public funds. In September, Camacho Gonzalez’s lawyers challenged the prosecutor’s summons against him, but on October 13, the judge ruled in favor of the prosecutor’s request. The date for the interview remained pending.</p>
+<p>In July new Ministry of Labor authorities filed a complaint before the Anti-Corruption Prosecutor’s Office against former minister of labor Alma Cortes for collecting per diem twice for the same official trip in 2011. In addition the new administration alleged that Cortes, her sister - then a labor ministry advisor - and another ministry representative collected public funds for a 27-day official trip to Switzerland, whereas the plane tickets showed that the official mission before the International Labor Organization in Geneva lasted only one week. Cortes appeared before the prosecutor’s office in September to refute the charges. The investigative phase of the case continued at year’s end. The funds in question totaled 25,000 balboas ($25,000).</p>
+<p>In 2013 the government terminated and filed extortion charges against three employees from the National Revenue Directorate, including the Veraguas province regional director Rolando H. Rosas. As of October no updates were available on this specific case.</p>
+<p>In 2013 the 12th Criminal Court sentenced former minister of education Belgis Castro to three years’ imprisonment for embezzlement of 153,000 balboas ($153,000) in Panama City. Castro’s lawyers filed an appeal. Castro continued to face embezzlement charges in seven other cases in different provinces. As of October there were no developments on any of the pending cases against Castro.</p>
+<p><u>Financial Disclosure</u>: The law requires certain executive and judicial branch officials to submit a financial disclosure statement with the Comptroller General’s Office. Officials must report tax returns, bank accounts, outstanding debts, and organization memberships. The information is not made public unless the official grants permission for public access. In July President Varela, several of his cabinet members, and Panama City Mayor Blandon made public their sworn financial statements. Other cabinet members and authorities submitted their statements before a notary public for forwarding to the Comptroller General’s Office but did not allow public access to them. Authorities place criminal charges only in cases of illicit gain, although officials have their salaries withheld if they do not file.</p>
+<p><u>Public Access to Information</u>: The law provides for public access to information about public entities, with the exception of cabinet meeting minutes. The government often, but not always, responded to inquiries for information. Most such requests came from lawyers. Denials of information can be appealed to the Supreme Court, and journalists generally made use of this recourse. Deadlines are 30 days, and there are no processing fees. There are sanctions for noncompliance, primarily fines. There was minimal public outreach or training on freedom of information laws and procedures.</p>
+<p>The government made a commitment to publishing public information on official websites. Many government ministries and agencies, however, did not update their sites, and statistics or other information were often more than one year old or unavailable.</p>
+</div>
+</div>
+</div>
+<div class="section section5">
+<a class="goto" name="section5"></a>
+<h1>
+		Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights<span class="link6">Share</span><span class="toggle-item-link6"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section5"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section5"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section5" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 5. Governmental Attitude Regarding International and Nongovernmental Investigation of Alleged Violations of Human Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section5"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>A number of domestic and international human rights groups generally operated without government restriction, investigating and publishing their findings on human rights cases. Government officials generally were cooperative and responsive to their views.</p>
+<p><u>Government Human Rights Bodies</u>: The ombudsman, elected by the National Assembly, has moral but not legal authority, received government cooperation, and operated without government or party interference. The Ombudsman’s Office referred cases to the proper investigating authorities.</p>
+</div>
+</div>
+</div>
+<div class="section section6">
+<a class="goto" name="section6"></a>
+<h1>
+		Section 6. Discrimination, Societal Abuses, and Trafficking in Persons<span class="link7">Share</span><span class="toggle-item-link7"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section6"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section6"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section6" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 6. Discrimination, Societal Abuses, and Trafficking in Persons" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section6"> </span></span></h1>
+<div class="section_content">
+<div class="section-content-intro">
+<p>The law prohibits discrimination based on race, sex, gender, disability, language, or social status, but the government did not always enforce these prohibitions effectively.</p>
+</div>
+<div class="sub-section section6women">
+<a class="goto" name="section6women"></a>
+<h2>
+				Women</h2>
+<div class="sub-section_content">
+<p><u>Rape and Domestic Violence</u>: The law criminalizes rape, including spousal rape, with prison terms of five to 10 years, or eight to 10 years under aggravating circumstances (use of a weapon). Rapes constituted the majority of sexual crimes investigated by the PNP and its Directorate of Judicial Investigation. NGOs reported that many women were reluctant to report rape to the authorities due to fear of retaliation, inadequate response, and social stigma. The Integrated National System for Criminal Statistics (SIEC) within the Ministry of Security reported 434 cases of rape as of the end of June.</p>
+<p>Domestic violence continued to be a serious and underreported problem. A 2013 law against gender violence stipulates stiffer penalties for harassment and both physical and emotional abuse and provides prison terms of up to 30 years for murder. The law criminalizes domestic abuse and family violence with prison terms of two to four years and makes domestic violence an aggravating circumstance in homicide cases. It also mandates education and violence prevention measures as well as a host of victim support services, but the government did not implement the law effectively. SIEC statistics reported 8,595 cases of domestic violence from January through June. Statistics for January through June from the Panamanian Observatory Against Gender-Based Violence, run by the Ombudsman’s Office, showed that of the 26 women who died violently, 22 died because of domestic violence. Authorities believed the 2013 approval of the femicide law, together with public awareness campaigns, prompted more women to file complaints of domestic abuse, but the Ombudsman’s Office expressed concern that the lack of victim protection together with the minimal amount of prosecutions and/or convictions may discourage women to continue to report such abuse.</p>
+<p>The government, through the National Institute for Women Affairs (INAMU), operated a shelter in Panama City for victims of domestic abuse and offered social, psychological, medical, and legal services to approximately 40 women in 2013, the year for which the most recent data were available. The shelters in Chiriqui and Colon were nonoperational due to lack of support staff. In August INAMU officers held gender-violence awareness trainings for NGOs, psychologists, lawyers, and social workers in the province of La Chorrera. In November the government appointed Liriola de Avila as the new director general for INAMU.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: While no law prohibits FGM/C, the practice was virtually nonexistent in the country.</p>
+<p><u>Sexual Harassment</u>: The law prohibits sexual harassment in cases of established employer-employee relations in the public and private sectors and in teacher-student relations; violators face up to a three-year prison sentence. The extent of the problem was difficult to determine, as convictions for sexual harassment were rare, and pre-employment sexual harassment was not actionable. Government statistics showed 69 open cases of sexual harassment from January through June. Despite the lack of statistics, the Ombudsman’s Office shared anecdotal information of a perceived increase in sexual harassment cases against women. The lack of formal reports was attributable to the absence of a follow-up protocol after reports are filed, the difficulty of providing proof in the absence of third-party witnesses, lack of favorable results in the few past cases, and the likelihood a woman filing a complaint will be fired.</p>
+<p><u>Reproductive Rights</u>: Couples and individuals have the right to decide the number, spacing, and timing of their children, and they had the information and means to do so, including the right to attain the highest standard of reproductive health free from discrimination, coercion, and violence. Access to information on contraception and skilled attendance at delivery and in postpartum care were widely available except in provincial-level indigenous regions, where it was limited, according to the American Red Cross and the Ombudsman’s Office. The 2013 sterilization law allows women age 23 or older who already have two children to decide if they wished to undergo voluntary sterilization. The government had no statistics on how many women opted for sterilization.</p>
+<p><u>Discrimination</u>: The law prohibits discrimination on the basis of gender, and women enjoyed the same rights as men under family, property, and criminal law. The law recognizes joint and common property in marriages. The law mandates equal pay for men and women in equivalent jobs. The Ministry of Social Development and the National Institute of Women promoted equality of women in the workplace and equal pay for equal work, attempted to reduce sexual harassment, and advocated legal reforms. Despite a lack of statistics, the Ombudsman’s Office shared anecdotal information of a perceived increase in recently hired women who were fired once their pregnancies were known. Although an illegal practice, many potential employers requested pregnancy tests.</p>
+</div>
+</div>
+<div class="sub-section section6children">
+<a class="goto" name="section6children"></a>
+<h2>
+				Children</h2>
+<div class="sub-section_content">
+<p><u>Birth Registration</u>: The law provides citizenship for all persons born in the country, but parents of children born in remote areas sometimes had difficulty obtaining birth registration certificates.</p>
+<p><u>Child Abuse</u>: The Ministry of Social Development maintained a free hotline for children and adults to report child abuse and advertised it widely. The ministry provided funding to children’s shelters operated by NGOs in seven provinces and continued a program that used pamphlets in schools to sensitize teachers, children, and parents about mistreatment and sexual abuse of children. As of June government statistics reported 345 cases of child or adolescent abuse.</p>
+<p><u>Early and Forced Marriage</u>: The minimum legal age for marriage is 18, but girls may marry at 14 and boys at 16 with parental consent.</p>
+<p><u>Female Genital Mutilation/Cutting (FGM/C)</u>: While no law prohibits FGM/C, the practice was virtually nonexistent in the country.</p>
+<p><u>Sexual Exploitation of Children</u>: Sexual abuse of children was reported in urban and rural areas as well as within indigenous communities. As of June government statistics showed 18 new cases of child pornography.</p>
+<p>The law prohibits consensual sex between adults and children ages 14 to 18, except for children who are married with parental consent, and imposes a penalty of up to three years’ imprisonment for the crime. If the child is younger than 14, the act is punishable with four to 10 years’ imprisonment. The law provides for three-to-five-year prison terms for anyone who practices, facilitates, or promotes the corruption of a minor, and it criminalizes child pornography with the same penalty. The penal code also punishes individuals for selling or negotiating the purchase of sexual favors from persons in prostitution with penalties of up to 10 years’ imprisonment when the victim is younger than 18. Sex tourism involving children is also punishable.</p>
+<p><u>International Child Abductions</u>: The country is a party to the 1980 Hague Convention on the Civil Aspects of International Child Abduction. For information see the Department of State’s report on compliance at <a href="http://travel.state.gov/content/childabduction/english/legal/compliance.html"><u>travel.state.gov/content/childabduction/english/legal/compliance.html</u></a><u> </u>and country-specific information at <a href="http://travel.state.gov/content/childabduction/english/country/panama.html"><u>travel.state.gov/content/childabduction/english/country/panama.html</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6anti-semitism">
+<a class="goto" name="section6anti-semitism"></a>
+<h2>
+				Anti-Semitism</h2>
+<div class="sub-section_content">
+<p>There was a Jewish population of approximately 12,000 persons. There were no reports of anti-Semitic acts.</p>
+</div>
+</div>
+<div class="sub-section section6traffickingin">
+<a class="goto" name="section6traffickingin"></a>
+<h2>
+				Trafficking in Persons</h2>
+<div class="sub-section_content">
+<p>See the Department of State’s <i>Trafficking in Persons Report</i> at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section6personswith">
+<a class="goto" name="section6personswith"></a>
+<h2>
+				Persons with Disabilities</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination based on physical, sensory, intellectual, or mental disability, but the constitution permits the denial of naturalization to persons with mental or physical disabilities. The law mandates access to new or remodeled public buildings for persons with disabilities and requires that schools integrate children with disabilities. Persons with disabilities experienced substantial discrimination in access to transportation, employment, education, access to health care, and the provision of other state services. Panama City’s fleet of new buses was wheelchair accessible when first introduced in 2011, but the subsequent installation of turnstiles made access difficult for passengers using wheelchairs. The Panama City metro system, inaugurated in April, includes elevators for access for persons with disabilities, yet most of the time the elevators were locked and could not be used. Most businesses had wheelchair ramps and accessible parking spaces as required by law, but in many cases, they did not meet government specifications as to size. Some public schools admitted children with mental and physical disabilities, but most did not have adequate facilities for other children with disabilities. The government installed ramps in some schools and mainstreamed some children with disabilities. Few private schools admitted children with disabilities.</p>
+<p>The 2012 Guardian Angel program, which provides a subsidy of 80 balboas ($80) per month for children with significant physical disabilities, continued during the year. To qualify, the parents or guardian of a child must be living in poverty and must submit medical certification as to the degree of the disability and the child’s dependency on another person. A total of 7,286 persons with disabilities received a check for 160 balboas ($160) during the fourth fund disbursement in October. The new administration allowed relatives of the recipients to find out, via the Ministry of Social Development webpage, where checks were being disbursed.</p>
+<p>As of August there was no ruling from the Supreme Court regarding a challenge to Law 35 on grounds of discrimination and the protection of private information. The 2010 law mandates that the National Electoral Tribunal include a person’s disabilities as well as blood type and allergies on his or her national identification card in case of emergency. The law also requires the National Transportation Authority to include the same information on a state-issued driver’s license. Neither the Electoral Tribunal nor the National Transportation Authority enforced this law.</p>
+<p>The National Secretariat for the Social Integration of Persons with Disabilities (SENADIS) is the government agency responsible for protecting the rights of persons with disabilities. The Ministries of Education and of Social Development share responsibilities for educating and training minors with disabilities.</p>
+<p>In May, together with the National Secretariat for Science and Technology, SENADIS opened the first “infoplaza,” or free internet cafe, run by an NGO managed by persons with disabilities. The “Colon Club for Blind Persons” was chosen by both government secretariats to run this center. All computers had software installed for users with disabilities.</p>
+<p>In June SENADIS inaugurated a new building to host the National Directorate for Certification to comply with the World Health Organization’s mandated Disability Assessment. By August more than 200 applications had been filed by persons with disabilities or their legal mentors to be on the waiting list for their appointments.</p>
+<p>The law stipulates a 2 percent quota for persons with disabilities within the workforce. The Ministry of Labor is responsible for referring workers with disabilities to employers for suitable jobs; however, successful hiring by private sector employers remained poor. In August SENADIS, the Ministry of Labor, and the local NGO Sumarse sponsored a career fair with 67 large local companies to offer jobs to persons with disabilities. In August the administrative court within the Supreme Court ruled illegal the 2010 dismissal of a public servant with disabilities by the Ministry of Economy and Finance and ordered his return to service. Although the ministry justified the layoff stating that the employee was in a political appointee position, which allows removal at any time, the court stated that the ministry should have taken into consideration international conventions and local laws promoting equal opportunities for employment (see section 7.d.).</p>
+<p>SENADIS continued to operate the Family Businesses Project, which assisted low-income families with disabled members to open microbusinesses. In July the government provided 50 balboas ($50) per month to 115 new beneficiaries. Throughout the year the government also donated rehabilitation equipment to low-income persons with disabilities.</p>
+<p>In June SENADIS trained PNP staff on the rights of persons with disabilities. In July it trained COPA Airlines customer service personnel, and in August it trained nurse students from the Latin University on sign language.</p>
+</div>
+</div>
+<div class="sub-section section6nationalracialethnicminorities">
+<a class="goto" name="section6nationalracialethnicminorities"></a>
+<h2>
+				National/Racial/Ethnic Minorities</h2>
+<div class="sub-section_content">
+<p>Minority groups were generally integrated into mainstream society. Prejudice was directed, however, at recent immigrants. Cultural and language differences and immigration status hindered the integration of immigrant and first-generation individuals from China, India, and the Middle East into mainstream society. Additionally, some members of these communities were themselves reluctant to integrate into mainstream society. Members of these groups often owned major businesses or worked in the retail trade. A constitutional provision reserving retail trade for citizens of the country generally was not enforced.</p>
+<p>The Afro-Panamanian community continued to be underrepresented in positions of political and economic power. Areas where they lived conspicuously lacked government services and social sector investment. Prejudice toward blacks was generally subtle, taking the form of unofficial “right-of-admission” policies at restaurants and commercial establishments that discriminated against darker-skinned individuals or those of lower social status.</p>
+<p>The law prohibits discrimination in access to public accommodations such as restaurants, stores, and other privately owned establishments. Cases of discrimination in public accommodation were not commonly filed.</p>
+<p>There were reports of racial discrimination against various ethnic groups in the workplace (see section 7.d.). In general, lighter-skinned persons were represented disproportionately in management positions and jobs that required dealing with the public, such as bank tellers and receptionists. Some businesses discriminated against citizens with darker skin through preferential hiring practices.</p>
+</div>
+</div>
+<div class="sub-section section6indigenouspeople">
+<a class="goto" name="section6indigenouspeople"></a>
+<h2>
+				Indigenous People</h2>
+<div class="sub-section_content">
+<p>The law affords indigenous persons the same political and legal rights as other citizens, protects their ethnic identity and native languages, and requires the government to provide bilingual literacy programs in indigenous communities. Indigenous individuals have the legal right to take part in decisions affecting their lands, cultures, traditions, and the allocation and exploitation of natural resources. Nevertheless, their participation in society continued to be marginalized. There were legally designated areas governed by traditional community leaders for five of the country’s seven indigenous groups, including the Embera-Wounaan, Ngabe Bugle, and Guna communities. The government did not recognize such areas for the smaller Bri Bri and Naso communities. In May the National Land Authority delivered one new title encompassing 11,640 acres of collective lands, located in Alto Bayano in the province of Panama, to the Embera-Wounaan people settled there. Five collective land claims were pending at year’s end. No new land titles were granted for collective lands around the Embera-Wounaan Comarca (traditional regions with a high degree of administrative autonomy) in the province of Darien, although in October the government signed an agreement to issue a collective land title for 7,890 acres to the Ipeti Embera community.</p>
+<p>The Ministry of Government contains an Office of Indigenous Policy and a vice ministry for indigenous affairs. On September 11, the government and multiple other actors, including all traditional authorities and the UN Development Program, signed an agreement outlining the government’s commitments to indigenous people, including the creation of a ministry, and territorial security for the Naso and Bri Bri.</p>
+<p>There were multiple conflicts between the government and indigenous groups regarding decisions affecting indigenous land. The Ngabe Bugle and the Naso continued to clash with the government over the issue of hydroelectric plants on territorial lands, and one violent confrontation near the Barro Blanco dam project left four indigenous persons and three police agents injured.</p>
+<p>Indigenous communities continued to fight against illegal settlements on their land. No violent clashes involving indigenous people were confirmed, but in January SENAFRONT issued a press release detailing that a group of masked men, allegedly Gunas, attacked two settler families in the Wargandi Comarca and destroyed their property. The case was under investigation. In February the Supreme Court ruled in favor of the Embera-Wounaan on an appeal for constitutional rights violations in a 2011 case pertaining to land issues in the Embera-Wounaan Comarca. In February the Inter-American Court of Human Rights heard the case of the Guna of Madungandi and the Embera of Bayano against the government for not protecting adequately and effectively the ancestral territories and resources of these groups after the construction of a hydroelectric dam in 1976. In July attorney Valentin Jaen filed a lawsuit with the Supreme Court challenging the constitutionality of a 2006 law, which created the Madungandi territory. He asserted that settlers who had been living in the area for 40 years were displaced when the territory was created. Prominent indigenous attorney Hector Huerta fought the lawsuit on the grounds that the territory was created for the indigenous people as compensation for the flooding of their lands after the construction of a hydroelectric plant.</p>
+<p>The indigenous people of the region of Darien petitioned the National Environment Authority to lift the ban on logging, imposed in April due to illegal commercialization of wood. Several of the indigenous communities in the area, Gunas and Embera Wounaan, have a resource management plan approved by the National Environment Authority and exploitation permits, which allow them to commercialize wood from their ancestral lands. Discussions with the National Environment Authority continued at year’s end.</p>
+<p>Although the country’s law is the ultimate authority on indigenous reservations, indigenous groups maintained considerable autonomy. Nevertheless, many indigenous persons misunderstood their rights and failed to employ legal channels when threatened because they did not have an adequate command of the Spanish language. In July the Supreme Court ruled that the environmental impact study for Barro Blanco dam was valid and in doing so denied the Ngabe Bugle’s application for setting aside the Environmental Impact Study, which had been presented to the Ngabe in Spanish in a public consultation held outside the comarca. Human rights NGOs contended that the ruling represented a setback for indigenous rights, since that the judge ruled that Spanish is the legal language in Panama and therefore the consultation did not need to be in Ngabe or translated into Ngabe.</p>
+<p>Societal and employment discrimination against indigenous persons was widespread. Employers frequently did not afford indigenous workers basic rights provided by law, such as a minimum wage, social security benefits, termination pay, and job security. Laborers in the country’s sugar, coffee, and banana plantations (the majority of whom were indigenous persons) continued to work in overcrowded and unsanitary conditions. Employers were less likely to provide adequate housing or food to indigenous migrant laborers, and indigenous children were much more likely to work long hours of farm labor than nonindigenous children (see section 7.d.). The Ministry of Labor conducted limited oversight of working conditions in remote areas due to limited staff.</p>
+<p>Education continued to be deficient in the indigenous comarcas, especially above the primary grades. There were not enough teachers due to the remoteness and inaccessibility of the areas, with many multi-grade schools, often poorly constructed and lacking running water. In February, in an effort to improve access to education and information, the government opened five new “infoplazas” in the Ngobe Bugle Comarca. Access to health care was a significant problem in the indigenous comarcas, reflected in high maternal-infant mortality rates and malnutrition. To address these problems, the Ministry of Health created the Directorate for Indigenous Sanitary Issues. Many indigenous laborers migrated seasonally from the country to Costa Rica, and both governments were concerned about rising health risks. The Ministry of Health established centers for primary health care near the border crossings for vaccinations and regular health exams for this migrant population, to improve health controls and pregnancy outcomes and to prevent the spread of infectious diseases.</p>
+</div>
+</div>
+<div class="sub-section section6actsof">
+<a class="goto" name="section6actsof"></a>
+<h2>
+				Acts of Violence, Discrimination, and Other Abuses Based on Sexual Orientation and Gender Identity</h2>
+<div class="sub-section_content">
+<p>The law does not prohibit discrimination based on sexual orientation, and there was societal discrimination based on sexual orientation and gender identity, which often led to denial of employment opportunities (see section 7.d.). The PNP’s regulations describe homosexual conduct as a “grave fault.” Harassment of lesbian, gay, bisexual, and transgender (LGBT) persons by security forces was a major complaint of the New Men and Women of Panama (AHMNP), the main LGBT organization, but formal complaints were rare due to the perception that the reports were not taken seriously or that complaints could be used against claimants in the absence of nondiscrimination legislation. On June 28, gay rights advocates led the 10th annual gay pride parade without impediment.</p>
+<p>The Panamanian Association of Transgender Persons reported regular incidents in which security forces refused to accept complaints of harassment of transgender individuals.</p>
+<p>The country does not recognize any relationship between LGBT partners in terms of health care, parental rights, property rights, or any publicly provided services.</p>
+</div>
+</div>
+<div class="sub-section section6hivand">
+<a class="goto" name="section6hivand"></a>
+<h2>
+				HIV and AIDS Social Stigma</h2>
+<div class="sub-section_content">
+<p>The law prohibits discrimination against persons with HIV/AIDS in employment and education, but discrimination continued to be common due to ignorance of the law and a lack of mechanisms for ensuring compliance. In August the Ministry of Social Development launched the new National Network for the Continued Integral Attention of Persons with HIV/AIDS. The network consisted of representatives from the Ministries of Health and Social Development as well as local NGOs.</p>
+<p>LGBT citizens reported being mistreated by health-care workers, including through being subjected to unnecessary quarantines. In September the Citizens’ Observatory for Human Rights and HIV in Panama publicly complained about the lack of HIV/AIDS medicines at public hospitals. Ministry of Health authorities acknowledged delays in procurement processes due to bureaucracy and, at times, an insufficient number of companies participating in biddings.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section section7">
+<a class="goto" name="section7"></a>
+<h1>
+		Section 7. Worker Rights<span class="link8">Share</span><span class="toggle-item-link8"><span class="st_sharethis" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section7"> </span><span class="st_facebook" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section7"> </span><span class="st_twitter" st_title="Panama #HumanRightsReport - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section7" st_via=""> </span><span class="st_email" st_title="Country Reports on Human Rights Practices for 2014 - Panama - Section 7. Worker Rights" st_url="http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2014%2526dlid=236706%2526anchor=section7"> </span></span></h1>
+<div class="section_content">
+<div class="sub-section section7afreedom">
+<a class="goto" name="section7afreedom"></a>
+<h2>
+				a. Freedom of Association and the Right to Collective Bargaining</h2>
+<div class="sub-section_content">
+<p>The law provides for the right of private sector workers to form and join unions of their choice subject to the union’s registration with the government. Public servants may not form unions but may form associations that can bargain collectively on behalf of members.</p>
+<p>The law provides for the right of private sector workers to strike, and the Administrative Career Law grants public sector employees the same right (when deemed legal and when essential positions are covered by the minimum percentage of workers as set out in the law). The right to strike does not apply in areas deemed vital to public welfare and security, including police and health workers. The law provides all private sector and public sector workers the right to bargain collectively, prohibits employer antiunion discrimination, and protects workers engaged in union activities from loss of employment or discriminatory transfers. It requires reinstatement of workers terminated for union activity.</p>
+<p>The law places several restrictions on these rights, including requiring citizenship to serve on a trade union executive board, requiring a minimum of 40 persons to form a private sector union (either by company across trades or by trade across companies), and permitting only one trade union per business establishment. The International Labor Organization continued to criticize the 40-person minimum, stating it was too large for workers wanting to form a union within a company. The government, private sector, and unions reiterated their support for keeping the figure at 40 individuals.</p>
+<p>Similarly, 50 public servants are required to form a worker’s association. Member associations represent public sector workers such as doctors, nurses, firefighters, and administrative staff in government ministries. The law stipulates that there may not be more than one association in a public sector institution and permits no more than one chapter per province.</p>
+<p>The law provides that if the government does not respond to a registration application within 15 days, the union automatically gains legal recognition.</p>
+<p>Strikes must be supported by a majority of employees and be related to improvement of working conditions, a collective bargaining agreement, or in support of another strike of workers on the same project (solidarity strike). In the event of a strike of administrative workers, at least 25 percent of the workforce must continue to provide minimum services, and 50 percent of the workers providing “essential public services” as defined by the law, such as transportation, firefighting, mail, hospitals, and telecommunications, must continue to provide those services.</p>
+<p>Strikes in essential transportation services are limited to those involving public passenger services. The law prohibits strikes for the Panama Canal Authority’s employees but allows unions to organize and bargain collectively on such issues as schedules and safety. It also provides for arbitration to resolve disputes. By law the National Federation of Public Servants (FENASEP), an umbrella federation of 21 public sector worker associations, is not permitted to call strikes or negotiate collective bargaining agreements. Individual associations under FENASEP may negotiate on behalf of their members.</p>
+<p>Supreme Court decisions recognize that collective agreements negotiated between employers and unorganized workers have legal status equivalent to collective bargaining agreements negotiated by unions. Executive decrees provide that an employer may not enter into collective negotiations with nonunionized workers when a union exists and that a preexisting agreement with nonunionized workers cannot be used to refuse to negotiate with unionized workers. The Labor Ministry’s <i>Manual of Labor Rights and Obligations </i>provides that unorganized workers may petition the ministry regarding labor rights violations and may exercise the right to strike.</p>
+<p>An executive decree protects employees from employer interference in labor rights, specifically including “employer-directed unions,” and mandates that unions be freely chosen by workers without penalty.</p>
+<p>The government lacked sufficient mechanisms to ensure that laws prohibiting employer interference in unions and protecting workers from employer reprisals were adequately enforced. Fines ranging from 100 to 2,000 balboas ($100 to $2,000) can be imposed on employers found to be engaging in antiunion interference; with the fines doubled each time an employer is found to repeat the act of interference. The Ministry of Labor reported that inadequate personnel resources, case backlogs, and incomplete or inaccurate information in applications delayed the processing of new union registrations within the required period. As of September the ministry reported four new registrations during the year, all since the new administration took office in July. The ministry continued its participation in the Fundacion del Trabajo (Labor Foundation), a tripartite organization that brings together organized labor, employers, and the government.</p>
+<p>In addition to the court system, the Conciliation Board of the Labor Ministry has the authority to resolve certain labor disagreements, such as internal union disputes, enforcement of the minimum wage, and some dismissal issues. The law allows arbitration by mutual consent, by employee request, or at the request of the ministry in case of a collective dispute in a public service company and allows either party to appeal if arbitration is mandated during a collective dispute in a public service company. The separate Tripartite Conciliation Board has sole competency for disputes related to domestic employees, some dismissal issues, and claims of less than 1,500 balboas ($1,500). For public sector workers, the Board of Appeal and Conciliation in the Ministry of the Presidency hears and resolves complaints. Complaints not resolved by the board are referred to an arbitrage tribunal, which consists of representatives from the employer, the employee association, and a third member chosen by the first two. Tribunal decisions are final.</p>
+<p>Although private sector unions widely exercised the right to organize and bargain collectively, antiunion discrimination, loss of employment, and discriminatory transfers occurred. Union leaders continued to express concerns about government actions, such as auditing union budgets. The Varela administration presented a request to dismiss criminal charges that the previous administration filed for nine union leaders, which they characterized as interference and intimidation. Union leaders reported that the previous government harassed unions, including by making false accusations of corruption against labor leaders, creating roadblocks to prevent the organization of workers, and criminalizing social protest. Employers in the retail industry frequently hired temporary workers to circumvent legal requirements for permanent workers. In lower-skilled service jobs, employers often hired employees under three-month contracts for several years, sometimes sending such employees home for a month and later rehiring them. Employers also circumvented the law requiring two-weeks’ notice for discharges by dismissing some workers one week before a holiday. Employers frequently hired workers for one year and 11 months and subsequently laid them off to circumvent laws that make firing employees more difficult after two years of employment.</p>
+<p>While in general labor leaders approved of the conciliation board, some lawyer groups criticized it as a route for circumventing the judiciary, leaving interpretation of labor laws to the discretion of persons who might lack expertise, and opening the labor dispute resolution system to political pressure.</p>
+</div>
+</div>
+<div class="sub-section section7bprohibition">
+<a class="goto" name="section7bprohibition"></a>
+<h2>
+				b. Prohibition of Forced or Compulsory Labor</h2>
+<div class="sub-section_content">
+<p>The law prohibits all forms of forced labor of adults or children. The law establishes penalties of 15 to 20 years’ imprisonment for forced labor involving movement (either cross-border or within the country) and six to 10 years’ imprisonment for forced labor not involving movement.</p>
+<p>There continued to be reports that some forced labor of adults occurred. There were anecdotal reports that Chinese citizens were forced to work in grocery stores and laundries in situations of debt bondage, as well as reports that Nicaraguan and Colombian women were subjected to domestic servitude.</p>
+<p>Also see the Department of State’s <i>Trafficking in Persons Report </i>at <a href="http://www.state.gov/j/tip/rls/tiprpt/"><u>www.state.gov/j/tip/rls/tiprpt/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7cprohibition">
+<a class="goto" name="section7cprohibition"></a>
+<h2>
+				c. Prohibition of Child Labor and Minimum Age for Employment</h2>
+<div class="sub-section_content">
+<p>The law prohibits the employment of children under age 14, although children who have not completed primary school may not begin work until age 15. Exceptions to the minimum age requirements can be made for children ages 12 and older to perform light farm work if it does not interfere with their school hours. The law does not set a limit on the total number of hours these children may work in agriculture or define what kinds of light work children may perform. The law prohibits 14- to 18-year-old children from engaging in potentially hazardous work and identifies such hazardous work to include work with electrical energy, explosives, or flammable, toxic, and radioactive substances; work underground and on railroads, airplanes, and boats; and work in nightclubs, bars, and casinos.</p>
+<p>Youth under age 16 may work no more than six hours per day or 36 hours per week, while those 16 and 17 may work no more than seven hours per day or 42 hours per week. Children under 18 may not work between 6 p.m. and 8 a.m.</p>
+<p>The Ministry of Labor generally enforced the law effectively in the formal sector, enforcing child labor provisions in response to complaints and ordering the termination of unauthorized employees, but not in the informal economy. During the year, the ministry identified 1,508 children and adolescents performing child labor. By law violators can be fined up to 700 balboas ($700) for a first-time violation. By year’s end the ministry had received 18 formal reports of child labor law violations, resulting in seven penalties levied against offenders. Ministry officials reported the collection of fines in two cases. Employers who endanger the physical or mental health of a child may face two to six years’ imprisonment. The law includes punishment of up to 12 years’ imprisonment for anyone who recruits children under age 18 or uses them to participate actively in armed hostilities.</p>
+<p>As part of the Labor Ministry’s program for the prevention and eradication of child labor, the Committee for the Eradication of Child Labor and the Protection of the Adolescent Worker (CETIPPAT) continued to provide outreach and grant scholarships to child laborers to guarantee their access to education through the Institute for Training and Development of Human Resources, providing 1,426 grants during the year. The ministry, CETIPPAT, and the NGO Casa Esperanza continued a nationwide program that included visits to the comarca of the Ngabe Bugle and the island of Esmeralda and San Miguel in the province of Panama. The program provided scholarships for working children so they could begin or return to primary school and provided job training and literacy programs for their parents.</p>
+<p>The National Office for Children, Youth, and Family implemented programs to identify children engaged in the worst forms of child labor to remove them from exploitative situations and provide them with services. The Ministry of Labor offered training on the topic of child labor and lessons learned to various stakeholders.</p>
+<p>According to a 2012 child labor survey by the government, approximately 50,400 children and adolescents (5.6 percent of the overall population in the five- to 17-year-old age group) were found working. Sixty-one percent of working children also attended school. Forty percent of working children and adolescents said they worked fewer than 15 hours per week, 35.5 percent worked between 15 and 34 hours, and 24.6 percent 35 hour or more.</p>
+<p>Child labor violations occurred most frequently in rural areas in agriculture and fishing, especially during the harvest of melons, tomatoes, onions, coffee, and, to a lesser extent, sugarcane. Children generally worked five to eight hours per day in these activities. Farm owners often paid according to the amount harvested, leading many laborers to bring their young children to the fields to help. The problem of child labor in agricultural areas fell most heavily on indigenous families, who often migrated from their isolated communities in search of paid work and whose frequent migrations interrupted schooling. Child labor also occurred in fishing, cattle raising, domestic work, and other areas of the informal sector, including selling goods, shining shoes, washing cars, and woodcarving.</p>
+<p>According to Casa Esperanza, child labor continued in agricultural areas in the central provinces and was identified in sectors in Panama City, Colon, and David. In Colon children scavenged in the ocean for metal and other items from boats to sell. In David children were found selling flowers, CDs, and DVDs in the streets.</p>
+<p>Also see the Department of Labor’s <i>Findings on the Worst Forms of Child Labor </i>at <a href="http://www.dol.gov/ilab/reports/child-labor/findings/"><u>www.dol.gov/ilab/reports/child-labor/findings/</u></a>.</p>
+</div>
+</div>
+<div class="sub-section section7ddiscrimination">
+<a class="goto" name="section7ddiscrimination"></a>
+<h2>
+				d. Discrimination with Respect to Employment or Occupation</h2>
+<div class="sub-section_content">
+<p>Labor laws and regulations prohibit discrimination regarding race, gender, disability, language, and social status but do not do so on the basis of sexual orientation and/or gender identity, HIV-positive status or other communicable diseases, or social status. The government did not effectively enforce these laws and regulations.</p>
+<p>Discrimination in employment and occupation occurred with respect to race, sex, gender, disability, sexual orientation and/or gender identity, and HIV-positive status (see section 6). Discrimination against migrant workers also occurred (see section 6).</p>
+</div>
+</div>
+<div class="sub-section section7eacceptable">
+<a class="goto" name="section7eacceptable"></a>
+<h2>
+				e. Acceptable Conditions of Work</h2>
+<div class="sub-section_content">
+<p>At year’s end the minimum wage ranged from 1.22 to 2.36 balboas ($1.22 to $2.36) per hour, depending on the region and sector. Working 40 hours per week, 50 weeks a year, and earning at the minimum wage median, a worker would earn between 432 and 490 balboas ($432 and $490) per month. The poverty line was considered to be 98 balboas ($98) in rural areas and 131 balboas ($131) in urban areas. Food and the use of housing facilities were considered part of the salary for some workers, such as domestic and agricultural workers. Salaries for domestic workers ranged from 175 to 200 balboas ($175 to $200) per month. The agricultural and construction sectors received the lowest and highest minimum wages, respectively.</p>
+<p>The law establishes a standard workweek of 48 hours, provides for at least one 24-hour rest period weekly, limits the number of hours worked per week, provides for premium pay for overtime, and prohibits compulsory overtime. There is no annual limit on the total number of overtime hours allowed. If employees work more than three hours of overtime in one day or more than nine overtime hours in a week, excess overtime hours must be paid at an additional 75 percent over the normal wage. Workers have the right to 30 days’ paid vacation for every 11 months of continuous work, including those who do not work full time. The Ministry of Labor is responsible for setting health and safety standards. Standards set were generally current and appropriate for the main industries in the country. The labor code requires employers to provide a safe workplace environment, including the provision of protective clothing and equipment for workers.</p>
+<p>The Labor Ministry generally enforced these standards in the formal sector. The inspection office was divided into two groups: the Panama City-based headquarters group and the regional group. Within the headquarters there were 48 labor inspectors, including 18 general labor inspectors, 10 child labor inspectors, and 20 security inspectors (also referred to as safety officers) in the construction industry. The construction industry paid the salaries of construction industry inspectors, although the inspectors remained ministry employees. The regional branches had a total of 70 inspectors. As of August the Ministry of Labor had conducted 16,990 labor inspections. Allowable fines for violations were low and generally insufficient to deter violations. During the year, however, the government levied fines according to the number of workers affected, resulting in larger overall fines. Until August the ministry had issued 115 fines for migration violations, 29 fines for safety and security violations, 370 fines for general labor issues violations and 75 fines related to child labor violations.</p>
+<p>Inspectors from the Labor Ministry and the occupational health section of the Social Security Administration reported they conducted periodic inspections of hazardous employment sites. The law requires the resident engineer and a ministry construction industry inspector to remain on construction sites, establish fines for noncompliance, and identify a tripartite group composed of the Chamber of Construction, construction union SUNTRACS (the largest union of construction workers in the country), and the ministry to regulate adherence.</p>
+<p>Most workers formally employed in urban areas earned the minimum wage or more. Approximately 40 percent of the working population worked in the large informal sector, and many earned well below the minimum wage, particularly in most rural areas, where unskilled laborers, including street vendors and those involved in forestry, fishing, and handicraft production, earned from three to six balboas ($3.00 to $6.00) per day without benefits. The Ministry of Labor was less likely to enforce labor laws in most rural areas (see section 6, Indigenous People).</p>
+<p>As of August, nine construction workers died due to accidents suffered on the job. Some construction workers and their employers were occasionally lax about conforming to basic safety measures, frequently due to their perception that it reduced productivity. Equipment was often outdated, broken, or lacking safety devices, due in large part to a fear that the replacement cost would be prohibitive.</p>
+<p>Workers could not remove themselves from situations that endangered health or safety without jeopardy to their employment, and authorities did not effectively protect workers in this situation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
