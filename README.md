@@ -79,15 +79,6 @@ The analysis utilizes U.S. Department of State Country Reports on Human Rights P
 - **Model Selection**: Coherence sweep (5-19 topics)
 - **Optimal Model**: 17 topics based on c_v coherence
 
-**3.1.2 Key Parameters**
-```
-alpha = 'auto'
-eta = 'auto'
-random_state = 42
-passes = 10
-iterations = 400
-```
-
 ### **3.2 Method 2: Unsupervised Transformer-Based BERTopic**
 
 **3.2.1 Technical Architecture and Implementation**
