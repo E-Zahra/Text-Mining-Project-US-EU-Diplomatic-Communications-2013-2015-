@@ -2,7 +2,7 @@
 
 **Group Project Report**  
 **Team Members:** Zahra Eshtiaghi 476679, Si Tang Lin 476912, Dilara Ozdil 474544
-** Under Supervision : Ptofessor Jacek Lewkowicz 
+**Under Supervision:** Ptofessor Jacek Lewkowicz 
 **Course:** Text Mining and Social Media Mining
 
 
