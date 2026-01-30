@@ -1,7 +1,7 @@
 # **Advanced Topic Modeling of U.S. Diplomatic Reports: A Transformer-Based Analysis with Comparative Methodologies**
 
 **Project Report**  
-**Student:** Zahra Eshtiaghi 476679  
+**Student:** Zahra Eshtiaghi 476679, Si Tang Lin 476912, Dilara Ozdil 474544  
 **Under Supervision:** Professor Jacek Lewkowicz  
 **Course:** Text Mining and Social Media Mining  
 **Date:** April 2024
