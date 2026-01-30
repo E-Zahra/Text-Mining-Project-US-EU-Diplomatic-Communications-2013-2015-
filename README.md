@@ -10,7 +10,7 @@
 
 ## **Abstract**
 
-This comprehensive study implements and compares multiple advanced topic modeling methodologies to analyze U.S. Department of State Country Reports on Human Rights Practices from 2013-2015. The research was conducted collaboratively with **Zahra Eshtiaghi implementing the unsupervised transformer-based BERTopic methodology**, while other team members focused on traditional LDA and supervised approaches. The project progressively incorporates sophisticated techniques including transformer-based BERTopic modeling, supervised learning with structural guidance, hyperparameter optimization, and advanced evaluation metrics. The analysis reveals systematic thematic differences between EU and non-EU country reports, tracks significant temporal shifts in human rights discourse, and demonstrates the substantial advantages of transformer-based approaches for diplomatic text analysis. Notably, **the unsupervised BERTopic implementation identified a 3.62% increase in asylum-related discourse within EU reports correlating with the 2015 migrant crisis**, and revealed strong structural alignment between generated topics and official report sections despite its unsupervised nature.
+This comprehensive study implements and compares multiple advanced topic modeling methodologies to analyze U.S. Department of State Country Reports on Human Rights Practices from 2013-2015. Beginning with traditional Latent Dirichlet Allocation (LDA), the project progressively incorporates sophisticated techniques including transformer-based BERTopic modeling, supervised learning with structural guidance, hyperparameter optimization, and advanced evaluation metrics. The analysis reveals systematic thematic differences between EU and non-EU country reports, tracks significant temporal shifts in human rights discourse, and demonstrates the substantial advantages of transformer-based approaches for diplomatic text analysis. Notably, the study uncovers a 3.62% increase in asylum-related discourse within EU reports correlating with the 2015 migrant crisis, and achieves near-perfect (99.6%) structural alignment between generated topics and official report sections through supervised learning techniques.
 
 ## **1. Introduction**
 
@@ -23,7 +23,7 @@ Diplomatic texts, particularly standardized human rights reports, present unique
 This investigation addresses four progressive research questions:
 
 1. How do traditional bag-of-words approaches (LDA) perform on structured diplomatic texts compared to transformer-based methods?
-2. **Can unsupervised transformer models (implemented by Zahra Eshtiaghi) capture semantic nuances beyond lexical co-occurrence patterns?**
+2. **Can unsupervised transformer models capture semantic nuances beyond lexical co-occurrence patterns?**
 3. How effectively can supervised learning incorporate document structure to improve topic interpretability?
 4. What systematic differences in human rights reporting emerge between EU and non-EU countries, and how do these evolve temporally?
 
@@ -31,7 +31,7 @@ This investigation addresses four progressive research questions:
 
 The project implements a methodological progression from traditional to advanced techniques:
 1. **Baseline LDA** with systematic preprocessing and coherence optimization
-2. **Unsupervised BERTopic (Zahra Eshtiaghi)** leveraging transformer embeddings with comprehensive evaluation
+2. **Unsupervised BERTopic** leveraging transformer embeddings with comprehensive evaluation
 3. **Supervised BERTopic** with structural guidance from report sections
 4. **Hyperparameter optimization** with multi-metric validation
 
@@ -50,7 +50,7 @@ The analysis utilizes U.S. Department of State Country Reports on Human Rights P
 
 **Stage 1: Initial Processing** (All Methods)
 ```python
-# Common preprocessing steps implemented by Zahra Eshtiaghi
+# Common preprocessing steps implemented
 1. HTML tag removal and text extraction (strip_html() function)
 2. Section segmentation (detect_sections() with intelligent pattern matching)
 3. Chunk creation with size optimization (120-250 words using split_into_word_chunks())
@@ -59,7 +59,7 @@ The analysis utilizes U.S. Department of State Country Reports on Human Rights P
 
 **Stage 2: Method-Specific Processing**
 - **LDA Approach**: Tokenization, lemmatization, stopword removal, vocabulary filtering
-- **BERTopic Approaches (Zahra Eshtiaghi)**: Minimal preprocessing to preserve semantic context for transformer embeddings
+- **BERTopic Approaches**: Minimal preprocessing to preserve semantic context for transformer embeddings
 
 *Table 1: Dataset Statistics After Processing*
 | **Metric** | **Value** | **Significance** |
@@ -135,7 +135,7 @@ Optimization Methods:
 ### **3.4 Comparative Methodological Framework**
 
 *Table 2: Methodological Comparison Matrix*
-| **Feature** | **LDA** | **Unsupervised BERTopic (Zahra)** | **Supervised BERTopic** |
+| **Feature** | **LDA** | **Unsupervised BERTopic** | **Supervised BERTopic** |
 |-------------|---------|-----------------------------------|------------------------|
 | **Semantic Understanding** | Bag-of-words | **Contextual embeddings** | Contextual + structural |
 | **Vocabulary Handling** | Fixed dictionary | **Dynamic, out-of-vocabulary capable** | Dynamic + domain-adapted |
@@ -149,7 +149,7 @@ Optimization Methods:
 ### **4.1 Quantitative Performance Metrics**
 
 **4.1.1 Model Performance Comparison**
-| **Metric** | **LDA** | **Unsupervised BERTopic (Zahra)** | **Supervised BERTopic** |
+| **Metric** | **LDA** | **Unsupervised BERTopic** | **Supervised BERTopic** |
 |------------|---------|-----------------------------------|------------------------|
 | Optimal Topics | 17 | **30 (from 188)** | 30 (optimized) |
 | Coherence (c_v) | 0.473 (optimized) | **0.457** | 0.458 |
@@ -164,7 +164,7 @@ Optimization Methods:
 
 ### **4.2 Thematic Discovery and Interpretation**
 
-**4.2.1 Comprehensive Topic Inventory** (30 Topics from Unsupervised BERTopic - Zahra)
+**4.2.1 Comprehensive Topic Inventory** (30 Topics from Unsupervised BERTopic)
 
 *Table 3: High-Confidence Topics Discovered by Unsupervised BERTopic*
 | **Topic ID** | **Top Keywords (cleaned)** | **Human Rights Category** | **Section Alignment** | **EU/Non-EU Focus** |
@@ -177,7 +177,7 @@ Optimization Methods:
 | 7 | refugees, asylum, unhcr | Refugee Protection | Section 1 (98.6%) | **EU (+1.91%)** |
 | 15 | roma, romani, ethnic | Minority Rights | Section 6 (96.8%) | **EU (+7.03%)** |
 
-**4.2.2 Semantic Richness Analysis (Zahra's Implementation)**
+**4.2.2 Semantic Richness Analysis**
 - **Synonym Handling**: Successfully grouped "prison," "detention center," "correctional facility" into coherent topics
 - **Conceptual Relations**: Connected "asylum," "refugee," "displaced persons," "migrant" thematically
 - **Cross-Category Links**: Identified relationships between "labor rights" and "child labor" through semantic proximity
@@ -215,12 +215,12 @@ Optimization Methods:
 | 15 | HIV/LGBT Rights | 2.92% | 2.77% | 2.17% | -0.75% | Consistent decline |
 
 **4.4.2 Real-World Correlations Identified**
-- **Asylum Topics**: **+3.62% increase (Zahra's finding) directly correlates with 2015 migrant crisis** (r = 0.89)
+- **Asylum Topics**: **+3.62% increase directly correlates with 2015 migrant crisis** (r = 0.89)
 - **Labor Rights**: Steady increase aligns with post-2008 economic policy focus in EU
 - **Internet Freedom**: Decline may reflect normalization or reporting fatigue on digital rights
 - **Crisis Responsiveness**: Diplomatic reports showed rapid adaptation to unfolding events
 
-### **4.5 Advanced Analytical Findings (Zahra's Contributions)**
+### **4.5 Advanced Analytical Findings**
 
 **4.5.1 Outlier Analysis Insights**
 - **Outlier Proportion**: 29.5% of chunks (7,890 segments)
@@ -385,9 +385,6 @@ This project makes four significant contributions:
 - `topicmodeling_corpus.ipynb` - Traditional LDA implementation
 - `supervised_topic_modeling.ipynb` - Supervised BERTopic with hyperparameter optimization
 
-### **8.3 Data Availability Statement**
-
-All code and processed data from Zahra Eshtiaghi's unsupervised BERTopic implementation are available in the accompanying Jupyter notebook (`topicmodeling_Transformer_Final.ipynb`). Raw reports are available from the Harvard Dataverse repository of U.S. Department of State Country Reports on Human Rights Practices (2013-2015).
 
 ## **References**
 
