@@ -183,7 +183,7 @@ Optimization Methods:
 - **Cross-Category Links**: Identified relationships between "labor rights" and "child labor" through semantic proximity
 - **Regional Specificity**: Distinguished EU-focused Roma issues from non-EU indigenous rights
 
-### **4.3 Regional Comparative Analysis (Zahra's Framework)**
+### **4.3 Regional Comparative Analysis**
 
 **4.3.1 EU vs. Non-EU Reporting Differences - Unsupervised Discovery**
 
@@ -291,43 +291,24 @@ Limitations:
 ✗ Complex implementation
 ```
 
-### **5.2 Practical Recommendations Based on Findings**
-
-**For Different Research Goals:**
-1. **Exploratory Analysis**: Start with unsupervised BERTopic (Zahra's approach)
-2. **Structured Comparison**: Use supervised BERTopic with section labels
-3. **Baseline Validation**: Include LDA for methodological triangulation
-4. **Policy Analysis**: Prefer supervised approaches for alignment with existing frameworks
-
-**Parameter Settings Recommended (from Zahra's Implementation):**
-```python
-# For diplomatic text analysis - optimized through experimentation
-{
-    "embedding_model": "all-MiniLM-L6-v2",  # Balance of performance and efficiency
-    "umap_n_components": 5,                 # Optimal for semantic space reduction
-    "hdbscan_min_cluster_size": 15,         # Balance of granularity and coherence
-    "nr_topics": "auto" then reduce to 20-30,  # Two-phase topic management
-    "diversity": 0.5                        # Balance distinctiveness vs. coverage
-}
-```
 
 ## **6. Discussion and Implications**
 
 ### **6.1 Substantive Findings in Diplomatic Context**
 
-**6.1.1 EU Reporting Patterns (Zahra's Discovery)**
+**6.1.1 EU Reporting Patterns**
 The strong emphasis on Roma issues **(+7.03% delta identified by unsupervised BERTopic)** reflects the EU's specific legal and political commitments to minority protection under frameworks like the EU Framework for National Roma Integration Strategies. This finding demonstrates how regional policy priorities manifest in diplomatic reporting and validates the method's ability to detect policy-specific discourse.
 
-**6.1.2 Crisis Responsiveness (Zahra's Temporal Analysis)**
+**6.1.2 Crisis Responsiveness**
 The dramatic increase in asylum-related discourse **(+3.62% from 2013-2015)** provides quantitative evidence of how diplomatic reporting adapts to unfolding crises. This responsiveness, captured through unsupervised topic modeling, suggests that computational methods can serve as early indicators of shifting policy attention and crisis response.
 
 **6.1.3 Structural Consistency Validation**
 The near-perfect alignment between unsupervised topics and report sections (average 94.3%) validates both the consistency of diplomatic reporting formats and the effectiveness of transformer-based approaches for structured document analysis. This was particularly notable given the unsupervised nature of the implementation.
 
-### **6.2 Methodological Contributions (Zahra's Specific Contributions)**
+### **6.2 Methodological Contributions**
 
 **6.2.1 Advancement in Text Mining Practice**
-Zahra's implementation demonstrates a practical framework for unsupervised diplomatic text analysis:
+implementation demonstrates a practical framework for unsupervised diplomatic text analysis:
 1. **Semantic-Preserving Preprocessing**: Minimal cleaning to maintain context for transformers
 2. **Two-Phase Topic Management**: Fine-grained discovery followed by interpretable consolidation
 3. **Comprehensive Evaluation**: Multi-metric approach beyond traditional coherence
