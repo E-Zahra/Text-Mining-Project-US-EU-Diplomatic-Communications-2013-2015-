@@ -201,7 +201,7 @@ Optimization Methods:
 - **Effect Sizes**: Cohen's d > 0.8 for Roma issues (large effect)
 - **Consistency**: Regional patterns stable across all three years of analysis
 
-### **4.4 Temporal Evolution Analysis (Zahra's Implementation)**
+### **4.4 Temporal Evolution Analysis**
 
 **4.4.1 Significant Shifts in EU Reporting (2013-2015) - Unsupervised Detection**
 
