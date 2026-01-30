@@ -23,7 +23,7 @@ Diplomatic texts, particularly standardized human rights reports, present unique
 This investigation addresses four progressive research questions:
 
 1. How do traditional bag-of-words approaches (LDA) perform on structured diplomatic texts compared to transformer-based methods?
-2. **Can unsupervised transformer models capture semantic nuances beyond lexical co-occurrence patterns?**
+2. Can unsupervised transformer models capture semantic nuances beyond lexical co-occurrence patterns?
 3. How effectively can supervised learning incorporate document structure to improve topic interpretability?
 4. What systematic differences in human rights reporting emerge between EU and non-EU countries, and how do these evolve temporally?
 
