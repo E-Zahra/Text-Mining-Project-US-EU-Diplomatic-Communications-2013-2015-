@@ -4,7 +4,6 @@
 **Student:** Zahra Eshtiaghi 476679, Si Tang Lin 476912, Dilara Ozdil 474544  
 **Under Supervision:** Professor Jacek Lewkowicz  
 **Course:** Text Mining and Social Media Mining  
-**Date:** April 2024
 
 ---
 
